@@ -4,7 +4,7 @@ A local Windows-friendly property search dashboard for Australian coastal proper
 
 Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
 
-The app has 341 curated property records using direct listing pages, with 285 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+The app has 346 curated property records using direct listing pages, with 290 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
 
 When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
 
@@ -21,6 +21,12 @@ For a local preview URL, run:
 ```powershell
 node preview-server.js
 ```
+
+## Sharing Online
+
+GitHub Pages can host a public viewer version of the app. It shows the latest property data committed to GitHub. The automatic searches still run from the owner's PC, so publish/push the updated files after new records are added if you want the online viewer to update.
+
+In GitHub, open the repository, go to Settings, then Pages, choose Deploy from a branch, select `main` and `/root`, then save. GitHub will provide a public link after it finishes publishing.
 
 The app prioritises:
 

@@ -1260,8 +1260,8 @@ const sampleProperties = [
     title: "21 Coral Drive",
     suburb: "Blacks Beach",
     state: "QLD",
-    nearestMajorCity: "Brisbane",
-    majorCityMinutes: 720,
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
     price: 0,
     landSize: 809,
     beachfront: true,
@@ -1272,6 +1272,98 @@ const sampleProperties = [
     notes: "Beachfront home with direct backyard access to Blacks Beach and a separate self-contained pavilion. Expression of interest listing.",
     image: "https://i2.au.reastatic.net/800x600/e230559d19d0a1bad182f04c23a52e4a82deab524fadb98570df881d254be865/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-qld-blacks%2Bbeach-151031396"
+  },
+  {
+    id: "qld-blacks-beach-14-bourke",
+    title: "14 Bourke Street",
+    suburb: "Blacks Beach",
+    state: "QLD",
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
+    price: 1350000,
+    landSize: 2280,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Direct water access", "Beachfront land", "Large titled block", "Medium density zoning"],
+    status: "active",
+    notes: "Active realestate.com.au land listing advertised as a 2,280sqm block with direct beach/water access, two already titled 1,140sqm blocks, and MD3 Multi Storey Medium Density Residential zoning. Price is advertised at $1,350,000+.",
+    image: "https://www.realestate.com.au/property-image/203801984/1",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-blacks%2Bbeach-203801984"
+  },
+  {
+    id: "qld-blacks-beach-21-sunrise",
+    title: "21 Sunrise Place",
+    suburb: "Blacks Beach",
+    state: "QLD",
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
+    price: 645000,
+    landSize: 916,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Oceanfront allotment", "Panoramic ocean views", "Beach stairs access", "Vacant coastal land"],
+    status: "active",
+    notes: "Active realestate.com.au land listing advertised as a large 916sqm oceanside allotment with panoramic ocean views, close to the water's edge, and easy beach access via Blacks Beach stairs. Price is advertised at $645,000.",
+    image: "https://www.realestate.com.au/property-image/203636884/1",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-blacks%2Bbeach-203636884"
+  },
+  {
+    id: "qld-blacks-beach-44-corella",
+    title: "44 Corella Way",
+    suburb: "Blacks Beach",
+    state: "QLD",
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
+    price: 997000,
+    landSize: 803,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Backs council land", "Direct beach track", "No southern neighbour", "Income potential"],
+    status: "active",
+    notes: "Active realestate.com.au house listing advertised as backing onto council land with a direct track to Blacks Beach, no neighbours to the south, a pool, solar and separate approved office/shed space. Price is advertised as offers from $997,000.",
+    image: "https://www.realestate.com.au/property-image/148986132/1",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-blacks%2Bbeach-148986132"
+  },
+  {
+    id: "qld-blacks-beach-34-26-bourke",
+    title: "34/26 Bourke Street",
+    suburb: "Blacks Beach",
+    state: "QLD",
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
+    daysOnMarket: 49,
+    price: 389000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Beachfront resort complex", "Direct beach access", "Holiday-let income", "Resort facilities"],
+    status: "active",
+    notes: "Active realestate.com.au and Homely townhouse listing in the beachfront Comfort Resort Blue Pacific complex, advertised with direct beach access, two pools, tennis court and holiday-let potential. Price is advertised as offers over $389,000.",
+    image: "https://www.realestate.com.au/property-image/150559088/1",
+    listingUrl: "https://www.realestate.com.au/property-townhouse-qld-blacks%2Bbeach-150559088"
+  },
+  {
+    id: "qld-blacks-beach-29-26-bourke",
+    title: "29/26 Bourke Street",
+    suburb: "Blacks Beach",
+    state: "QLD",
+    nearestMajorCity: "Mackay",
+    majorCityMinutes: 25,
+    listedDate: "2026-04-28",
+    price: 399000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Blue Pacific Resort", "Moments from sand", "Resort amenities", "Beachside townhouse"],
+    status: "active",
+    notes: "Active realestate.com.au townhouse listing in Blue Pacific Resort, advertised as just moments from Blacks Beach with resort-style pool and landscaped grounds. Price is advertised as offers from $399,000.",
+    image: "https://www.realestate.com.au/property-image/151022976/1",
+    listingUrl: "https://www.realestate.com.au/property-townhouse-qld-blacks%2Bbeach-151022976"
   },
   {
     id: "vic-aspendale-73-nepean",
@@ -6401,8 +6493,17 @@ const investmentFiveYearGrowthTarget = 101;
 const investmentMinimumShare = 0.05;
 const largePropertyMinSqm = 20 * 10000;
 const largePropertyMaxSqm = 2000 * 10000;
+const localServerHosts = new Set(["127.0.0.1", "localhost"]);
+
+function isOnlineViewerMode() {
+  return window.location.protocol === "https:" && !localServerHosts.has(window.location.hostname);
+}
 
 function renderRefreshTimer() {
+  if (isOnlineViewerMode()) {
+    els.refreshTimer.textContent = "online";
+    return;
+  }
   if (manualRefreshActive) return;
   if (serverRefreshRunning) {
     els.refreshTimer.textContent = "running";
@@ -6429,6 +6530,16 @@ function startRefreshTimer() {
 }
 
 async function pollServerRefreshStatus() {
+  if (isOnlineViewerMode()) {
+    serverRefreshRunning = false;
+    els.reloadButton.disabled = true;
+    els.saSearchButton.disabled = true;
+    els.reloadButton.textContent = "Viewer only";
+    els.saSearchButton.textContent = "Viewer only";
+    els.refreshLabel.textContent = "Online viewer";
+    els.refreshTimer.textContent = "snapshot";
+    return;
+  }
   if (window.location.protocol === "file:") return;
 
   try {
@@ -6484,6 +6595,10 @@ async function pollServerRefreshStatus() {
 }
 
 async function triggerManualRefresh(scope = "national") {
+  if (isOnlineViewerMode()) {
+    alert("Online viewers can browse the latest published snapshot. New searches still run from the owner's PC.");
+    return;
+  }
   if (window.location.protocol === "file:") {
     alert("Manual search needs the server launcher. Open Start Property X Factors Server.cmd, then press Search now.");
     return;
@@ -6978,6 +7093,13 @@ function applySearchModeUi() {
   els.beachModeButton.classList.toggle("active", !largeMode);
   els.largeModeButton.classList.toggle("active", largeMode);
   document.body.dataset.searchMode = state.searchMode;
+  if (isOnlineViewerMode()) {
+    els.saSearchButton.disabled = true;
+    els.reloadButton.disabled = true;
+    els.saSearchButton.textContent = "Viewer only";
+    els.reloadButton.textContent = "Viewer only";
+    return;
+  }
   els.saSearchButton.disabled = largeMode || manualRefreshActive;
   els.saSearchButton.textContent = largeMode ? "Large mode" : "SA search";
   els.reloadButton.title = largeMode ? "Search for new large land listings now" : "Search for new beach listings now";
@@ -7098,7 +7220,9 @@ function render() {
   els.noRoadStat.textContent = number.format(state.searchMode === "large" ? filtered.filter(isLargeProperty).length : filtered.filter(property => property.noRoadFrontage).length);
   els.noRoadStat.nextElementSibling.textContent = state.searchMode === "large" ? "20ha to 2000ha" : "no road frontage";
   els.cityStat.textContent = number.format(filtered.filter(isWithinMajorCityHour).length);
-  els.updatedState.textContent = `Database last updated ${databaseUpdatedAt}. Monitor runs every 5 minutes when the automation runner is active.`;
+  els.updatedState.textContent = isOnlineViewerMode()
+    ? `Online viewer snapshot last updated ${databaseUpdatedAt}. New searches run from the owner's PC and appear here after the repository is updated.`
+    : `Database last updated ${databaseUpdatedAt}. Monitor runs every 5 minutes when the automation runner is active.`;
   renderComparisonTable(filtered);
 
   filtered.forEach(property => {

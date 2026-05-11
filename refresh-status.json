@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Blacks Beach, QLD; 10/10 possible listings found...",
-  "searchArea": "Blacks Beach, QLD",
-  "searchAreaPosition": 79,
+  "message": "Verifying candidates in Lammermoor, QLD; 10/10 possible listings found...",
+  "searchArea": "Lammermoor, QLD",
+  "searchAreaPosition": 80,
   "searchAreaTotal": 170,
-  "searchDurationMinutes": 10,
-  "searchPriority": true,
-  "nextSearchArea": "Blacks Beach, QLD",
-  "nextAutoRefreshAt": "2026-05-11T02:02:38.998Z",
-  "updatedAt": "2026-05-11T02:01:17.269Z"
+  "searchDurationMinutes": 2,
+  "searchPriority": false,
+  "nextSearchArea": "Lammermoor, QLD",
+  "nextAutoRefreshAt": "2026-05-11T02:07:59.756Z",
+  "updatedAt": "2026-05-11T02:06:22.735Z"
 }
