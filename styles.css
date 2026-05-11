@@ -489,11 +489,6 @@ select {
   border-color: rgba(230, 189, 112, 0.42);
 }
 
-.property-card.unviewed-card {
-  border-color: var(--gold);
-  box-shadow: 0 0 0 2px rgba(184, 135, 45, 0.22), var(--shadow);
-}
-
 .property-card.investment-star-card {
   border-color: var(--sun);
 }
@@ -812,27 +807,8 @@ h2 {
   cursor: pointer;
 }
 
-.comparison-table tbody tr.unviewed-row td {
-  background: var(--gold-soft);
-  border-bottom-color: #ead48a;
-}
-
-.comparison-table tbody tr.unviewed-row:hover td {
-  background: var(--gold-hover);
-}
-
 .comparison-table tbody tr.investment-star-row td {
   box-shadow: inset 3px 0 0 var(--sun);
-}
-
-.comparison-table tbody tr.investment-star-row.unviewed-row td {
-  box-shadow: inset 3px 0 0 var(--sun);
-}
-
-.unviewed-star {
-  color: var(--gold);
-  font-size: 0.9rem;
-  line-height: 1;
 }
 
 .investment-star {

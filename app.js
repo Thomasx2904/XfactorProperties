@@ -2103,6 +2103,70 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-house-qld-warana-150785952"
   },
   {
+    id: "qld-warana-95-oceanic",
+    title: "95 Oceanic Drive",
+    suburb: "Warana",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    daysOnMarket: 5,
+    price: 0,
+    landSize: 554,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Nature reserve frontage", "Coastal path at door", "Renovated beach house"],
+    status: "active",
+    notes: "Active Homely/realestate.com.au listing advertised as a 554m2 absolute beachfront block with 21.5m frontage, backing nature reserve and direct access to the coastal pathway. Price advertised as contact agent/auction.",
+    image: "https://www.homely.com.au/img-variant/l-LockedOn-12809479-1.jpg?version=638774407386700000&named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/95-oceanic-drive-warana-qld-4575/12809479",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "15.75%",
+    investmentReason: "Your Investment Property's Warana profile reports average annual house growth of 15.75%, with realestate.com.au/property.com.au also showing current house growth momentum at 12.4%."
+  },
+  {
+    id: "qld-warana-2-146-oceanic",
+    title: "2/146 Oceanic Drive",
+    suburb: "Warana",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    daysOnMarket: 22,
+    price: 0,
+    landSize: 258,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Oceanic Drive", "Metres to sand", "Beachside home", "Low-maintenance coastal build"],
+    status: "active",
+    notes: "Active Homely listing for a near-new Oceanic Drive home advertised as premium beachside living just metres from the sand. Price advertised as now selling/contact agent.",
+    image: "https://www.homely.com.au/img-variant/l-VaultRE-12954678-1.jpg?version=638775409009400000&named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/2-146-oceanic-drive-warana-qld-4575/12954678",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "15.75%",
+    investmentReason: "Your Investment Property's Warana profile reports average annual house growth of 15.75%, with realestate.com.au/property.com.au also showing current house growth momentum at 12.4%."
+  },
+  {
+    id: "qld-warana-7-palkana",
+    title: "7 Palkana Drive",
+    suburb: "Warana",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    daysOnMarket: null,
+    price: 1265000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachside apartment", "Boutique development", "Moments to shoreline", "Coastal walks"],
+    status: "active",
+    notes: "Active Homely/realestate.com.au apartment listing for Tingira, a boutique Warana development advertised as moments from the shoreline and coastal walks. Price advertised as starting from $1,265,000; apartment land size set to null.",
+    image: "https://www.homely.com.au/img-variant/l-Rex-11706215-1.jpg?version=638474585772970000&named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/7-palkana-drive-warana-qld-4575/11706215",
+    investmentStar: false
+  },
+  {
     id: "qld-marcus-beach-35-callitris",
     title: "35 Callitris Crescent",
     suburb: "Marcus Beach",
@@ -9037,6 +9101,104 @@ const sampleProperties = [
     notes: "Active realestate.com.au Peregian Beach house listing advertised on Shearwater Street with beachside positioning, ocean views and close access to the sand and village. Price advertised at $5.25m.",
     image: "https://s1.rea.global/sha/604x447-prop/b1f311a55083c6ad1e0a05b3b03f0b4c619c16a47ba06069b0ada7f9b6e7e0a8/main.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150401424"
+  },
+  {
+    id: "qld-cambroon-333-booloumba-creek",
+    title: "333 Booloumba Creek Road",
+    suburb: "Cambroon",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    price: null,
+    landSize: 542278,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Sunshine Coast hinterland", "Booloumba Creek frontage", "Equine infrastructure", "Nature-tourism upside"],
+    status: "active",
+    notes: "Active Homely Cambroon rural listing advertised as just over 133 acres with about 1.7km of Booloumba Creek frontage, covered sand arena, equine training facilities, workers accommodation, sheds, cattle yards, sealed-road access, and potential for nature-based tourism or an eco-retreat STCA.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12287768-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/333-booloumba-creek-road-cambroon-qld-4552/12287768",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-gheerulla-66-murray",
+    title: "66 Murray Road",
+    suburb: "Gheerulla",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    price: 4495000,
+    landSize: 219900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland", "Dual-living potential", "National Park boundary", "Tourism and retreat appeal"],
+    status: "active",
+    notes: "Active Homely Gheerulla rural listing advertised as a 21.99ha Noosa hinterland holding with luxury dual-living, guest house, American-style barn, resort pool, pristine bushland backing onto National Park, and about 40 minutes to Hastings Street.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-10310848-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/66-murray-road-gheerulla-qld-4574/10310848",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-conondale-2170-maleny-kenilworth",
+    title: "2170 Maleny Kenilworth Road",
+    suburb: "Conondale",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 115,
+    daysOnMarket: 49,
+    price: 1499000,
+    landSize: 267093,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Mary River frontage", "Vacant rural land", "Grazing capability", "Tourism and campsite upside"],
+    status: "active",
+    notes: "Active Homely Conondale rural listing advertised as a 66-acre vacant river-flat holding with over 400m of Mary River frontage, six fenced paddocks, troughs, cattle yards, council-approved building envelope, walking tracks, shaded campsites and swimming holes.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12551935-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/2170-maleny-kenilworth-road-conondale-qld-455/12551935",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-398-skyring-creek",
+    title: "398 Skyring Creek Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    daysOnMarket: 12,
+    price: null,
+    landSize: 200000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland", "Dual living", "Cabin rental income", "Horse and cattle infrastructure"],
+    status: "active",
+    notes: "Active Homely Belli Park rural listing advertised as 50 acres with dual living, three self-contained cabins currently rented, horse arena, large solar-equipped shed, two dams, fenced cattle and horse paddocks, stock yards and privacy near Cooroy and Kenilworth.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12089532-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/398-skyring-creek-road-belli-park-qld-4562/12089532",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-163-cedar-creek",
+    title: "163 Cedar Creek Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: 57,
+    price: 2599000,
+    landSize: 206500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Sunshine Coast hinterland", "Two dwellings", "Water licence and creeks", "Income-producing greenhouse potential"],
+    status: "active",
+    notes: "Active Homely Belli Park house listing advertised as 20.65ha / 51 acres with two self-contained dwellings, Belli Creek and Cedar Creek, active water licence, 22ML dam, 450,000L rainwater storage, 19.98kW solar, sheds, cold room and greenhouse infrastructure suited to lifestyle or commercial rural enterprise.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12461790-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.homely.com.au/homes/163-cedar-creek-road-belli-park-qld-4562/12461790",
+    listingCategory: "large"
   }
 ];
 
@@ -9545,11 +9707,9 @@ function renderComparisonTable(properties) {
     const minutesToMajorCity = majorCityMinutes(property);
     const row = document.createElement("tr");
     const values = getTableValues(property, sqm, minutesToMajorCity);
-    const unviewed = isUnviewedProperty(property);
     const investmentStar = starIds.has(property.id);
     row.tabIndex = 0;
     row.dataset.propertyId = property.id;
-    row.classList.toggle("unviewed-row", unviewed);
     row.classList.toggle("investment-star-row", investmentStar);
 
     const listingLink = getListingLink(property);
@@ -9557,20 +9717,13 @@ function renderComparisonTable(properties) {
 
     values.forEach((value, index) => {
       const cell = document.createElement("td");
-      if (index === 0 && (unviewed || investmentStar)) {
+      if (index === 0 && investmentStar) {
         if (investmentStar) {
           const investmentStarIcon = document.createElement("span");
           investmentStarIcon.className = "investment-star";
           investmentStarIcon.textContent = "\u2605";
           investmentStarIcon.title = investmentStarTitle(property);
           cell.append(investmentStarIcon, document.createTextNode(" "));
-        }
-        const star = document.createElement("span");
-        if (unviewed) {
-          star.className = "unviewed-star";
-          star.textContent = "\u2605";
-          star.title = "Not viewed yet";
-          cell.append(star, document.createTextNode(" "));
         }
         cell.append(document.createTextNode(value));
       } else if (index === 2) {
@@ -9907,11 +10060,9 @@ function render() {
     const score = scoreProperty(property, baseline);
     const minutesToMajorCity = majorCityMinutes(property);
     const marketDays = daysOnMarket(property);
-    const unviewed = isUnviewedProperty(property);
     const investmentStar = starIds.has(property.id);
 
     card.dataset.id = property.id;
-    card.classList.toggle("unviewed-card", unviewed);
     card.classList.toggle("investment-star-card", investmentStar);
     card.addEventListener("click", event => {
       if (event.target.closest("button, a")) return;
@@ -9955,7 +10106,6 @@ function render() {
     const tags = [
       investmentStar ? "\u2605 AI Pick" : null,
       state.searchMode === "large" ? "Large property" : null,
-      unviewed ? "★ New" : null,
       property.beachfront ? "Beachfront" : "Not beachfront",
       property.noRoadFrontage ? "No road in front" : "Road/reserve check",
       property.directBeachAccess ? "Direct beach access" : null,
