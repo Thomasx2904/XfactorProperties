@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Bokarina, QLD; 6/10 possible listings found...",
-  "searchArea": "Bokarina, QLD",
-  "searchAreaPosition": 98,
+  "message": "Verifying candidates in Manly, NSW; 10/10 possible listings found...",
+  "searchArea": "Manly, NSW",
+  "searchAreaPosition": 140,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Bokarina, QLD",
-  "nextAutoRefreshAt": "2026-05-11T03:53:27.644Z",
-  "updatedAt": "2026-05-11T03:53:36.933Z"
+  "nextSearchArea": "Manly, NSW",
+  "nextAutoRefreshAt": "2026-05-11T09:33:26.484Z",
+  "updatedAt": "2026-05-11T09:36:39.379Z"
 }
