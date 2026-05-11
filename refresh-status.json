@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Sunset Beach, WA; 10/10 possible listings found...",
-  "searchArea": "Sunset Beach, WA",
-  "searchAreaPosition": 76,
+  "message": "Verifying candidates in Mackay, QLD; 10/10 possible listings found...",
+  "searchArea": "Mackay, QLD",
+  "searchAreaPosition": 77,
   "searchAreaTotal": 170,
-  "searchDurationMinutes": 2,
-  "searchPriority": false,
-  "nextSearchArea": "Sunset Beach, WA",
-  "nextAutoRefreshAt": "2026-05-11T01:46:41.766Z",
-  "updatedAt": "2026-05-11T01:46:41.405Z"
+  "searchDurationMinutes": 10,
+  "searchPriority": true,
+  "nextSearchArea": "Mackay, QLD",
+  "nextAutoRefreshAt": "2026-05-11T01:50:05.264Z",
+  "updatedAt": "2026-05-11T01:50:42.731Z"
 }

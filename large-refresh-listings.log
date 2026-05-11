@@ -25264,3 +25264,3298 @@ web search: https://www.realestate.com.au/buy/property-rural-size-10000-in-south
 web search: 
 web search: https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140
 web search: 
+web search: https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960
+codex
+The portal search page is yielding enough active South West Region WA listings in the target 20-2000 ha band. I’m excluding under-offer entries and focusing on records with direct listing pages and visible hero image entries, then I’ll patch only those verified records.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-Content app.js -TotalCount 60' in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-Content app.js | Select-Object -Skip 5100 -First 260' in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "(Select-String -Path app.js -Pattern 'id:').Count; (Select-String -Path app.js -Pattern 'status: \"active\"').Count; (Select-String -Path app.js -Pattern 'listingCategory: \"large\"').Count" in C:\Users\User\Documents\New project
+ succeeded in 396ms:
+const sampleProperties = [
+  {
+    id: "wa-hillarys-5-founders",
+    title: "5 Founders Lane",
+    suburb: "Hillarys",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 25,
+    listedDate: "2026-03-23",
+    price: 5000000,
+    landSize: 1049,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Oceanfront land", "Direct beach access", "Unobstructed ocean views", "Subdivision potential"],
+    status: "active",
+    notes: "Active realestate.com.au Hillarys land listing advertised as a super block ocean front opportunity with unobstructed ocean views, direct access to the beach, and potential subdivision into two 500sqm blocks. Price is advertised as offers from $5 million.",
+    image: "https://www.realestate.com.au/property-image/204464516/1",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-hillarys-204464516"
+  },
+  {
+    id: "wa-hillarys-221-68-southside",
+    title: "221/68 Southside Drive",
+    suburb: "Hillarys",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 25,
+    daysOnMarket: 4,
+    price: 600000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Marina waterfront", "Harbour and ocean views", "Beachside sanctuary", "Resort facilities"],
+    status: "active",
+    notes: "Active Hillarys Boat Harbour apartment listing advertised in a premier waterfront marina setting with sweeping harbour, yacht marina and ocean views, plus beachside resort-style facilities. Price is advertised as offers in the $600k range.",
+    image: "https://www.realestate.com.au/property-image/150341136/1",
+    listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150341136"
+  },
+  {
+    id: "wa-hillarys-108-68-southside",
+    title: "108/68 Southside Dr",
+    suburb: "Hillarys",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 25,
+    listedDate: "2026-04-07",
+    price: 500000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Prime marina frontage", "Metres from Sorrento Beach", "Waterfront location", "High rental income"],
+    status: "active",
+    notes: "Active Hillarys Boat Harbour apartment listing advertised as a prime waterfront/marina-front location metres from Sorrento Beach and adjacent to AQWA and the Rottnest ferry terminal. Price is advertised from the high $400,000s to $500,000s.",
+    image: "https://www.realestate.com.au/property-image/150800100/1",
+    listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150800100"
+  },
+  {
+    id: "wa-trigg-305-west-coast",
+
+ succeeded in 379ms:
+305
+248
+24
+
+ succeeded in 425ms:
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beach path at doorstep", "Opposite beach pathways", "Turquoise Coast Walk", "Beachridge Estate"],
+    status: "active",
+    notes: "Active realestate.com.au listing in Beachridge Estate, advertised as directly opposite pathways leading to the beach and Turquoise Coast Walk. Price advertised from $885,000.",
+    image: "https://www.realestate.com.au/property-image/150333136/1",
+    listingUrl: "https://www.realestate.com.au/property-house-wa-jurien%2Bbay-150333136"
+  },
+  {
+    id: "sa-dawesley-95-smyth",
+    title: "95 Smyth Road",
+    suburb: "Dawesley",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 45,
+    price: 2600000,
+    landSize: 300000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills acreage", "Multi-dwelling income potential", "Equestrian infrastructure", "Dawesley Creek frontage"],
+    status: "active",
+    notes: "Active realestate.com.au Adelaide Hills acreage listing advertised as 30ha less than 5km from Nairne and 10 minutes to Mount Barker, with a main residence, two self-contained dwellings, Dawesley Creek frontage, 13 paddocks, sheds, stables, arena, mains water, solar, orchard and greenhouse. Price advertised at $2,600,000 - $2,800,000.",
+    image: "https://www.realestate.com.au/property-image/150062592/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-dawesley-150062592",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-kersbrook-118-powell",
+    title: "118 Powell Road",
+    suburb: "Kersbrook",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 50,
+    listedDate: "2026-04-27",
+    price: null,
+    landSize: 211600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills acreage", "Self-contained cottage", "Productive Rural Landscape zoning", "High-rainfall farm infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Kersbrook lifestyle listing advertised as a 21.16ha Productive Rural Landscape holding, 37km from Adelaide CBD, with a separate self-contained cottage, 40kW solar, 3-phase power, extensive shedding, equine facilities, mains water, rainwater storage and high-rainfall productive soils. Campaign advertised as Best and Final Offers by 21st May.",
+    image: "https://www.realestate.com.au/property-image/700405424/1",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-kersbrook-700405424",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-willow-creek-2602-range",
+    title: "2602 Range Road",
+    suburb: "Willow Creek",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 75,
+    price: 3250000,
+    landSize: 1829200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Fleurieu Peninsula grazing", "Large-scale rural holding", "Spring-fed dams", "Potential title flexibility"],
+    status: "active",
+    notes: "Active realestate.com.au Fleurieu Peninsula rural listing for Kulaganga, advertised as 182.92ha of undulating grazing country with multiple spring-fed dams, a 137,000L concrete tank, steel and timber cattle yards, former shearing shed, fenced paddocks and productive livestock/fodder potential. Price guide advertised at $3.25m.",
+    image: "https://www.realestate.com.au/property-image/700384640/1",
+    listingUrl: "https://www.realestate.com.au/property-other-sa-willow%2Bcreek-700384640",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-mount-torrens-lot-10-warmington",
+    title: "Lot 10, Warmington Run",
+    suburb: "Mount Torrens",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 55,
+    price: null,
+    landSize: 498300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills rural land", "Panoramic Mount Lofty Ranges views", "Productive pasture", "Dams and winter creek"],
+    status: "active",
+    notes: "Active realestate.com.au Mount Torrens land listing advertised as 49.83ha with top-of-the-world Adelaide Hills views, mostly cleared rolling country, three reliable dams, a winter creek, productive pasture and a 7ha hay cut. Price advertised as Contact Agent.",
+    image: "https://www.realestate.com.au/property-image/204401880/1",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-mount%2Btorrens-204401880",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-torrens-vale-18-mount-robinson",
+    title: "18 Mount Robinson Road",
+    suburb: "Torrens Vale",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 75,
+    price: 3000000,
+    landSize: 694600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Fleurieu Peninsula acreage", "Multiple guest dwellings", "Spring-fed dams and creeks", "Water licence"],
+    status: "active",
+    notes: "Active realestate.com.au Torrens Vale acreage listing advertised as Agnes-Clara, a 69.46ha Fleurieu Peninsula holding with a homestead, two self-contained units, shearers' quarters, 11 spring-fed dams, natural creeks, fertile soils and a 58ML water licence. Price advertised as $3 Million plus.",
+    image: "https://www.realestate.com.au/property-image/147362884/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-torrens%2Bvale-147362884",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-macclesfield-106b-cosgrove",
+    title: "106B Cosgrove Road",
+    suburb: "Macclesfield",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 45,
+    listedDate: "2026-03-05",
+    price: 2650000,
+    landSize: 204800,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills acreage", "Equine facilities", "Large private dam", "Bore and rainwater storage"],
+    status: "active",
+    notes: "Active realestate.com.au Macclesfield acreage listing advertised as 20.48ha with dressage and show-jumping arenas, four-stable complex, tack room, extensive shedding, a large dam, 12kW solar, domestic bore and 290,000L rainwater storage. Price advertised at $2,650,000 - $2,950,000.",
+    image: "https://www.realestate.com.au/property-image/150422768/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-macclesfield-150422768",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-echunga-444-hawthorn",
+    title: "444 Hawthorn Road",
+    suburb: "Echunga",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 35,
+    listedDate: "2026-04-08",
+    price: 4650000,
+    landSize: 324000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills prestige acreage", "Water licence and bore", "Equestrian infrastructure", "Near Hahndorf and Mount Barker"],
+    status: "active",
+    notes: "Active realestate.com.au Echunga acreage listing for Lakecrest, advertised as 32.4ha of country luxury with extensive garaging, 60m x 20m arena, paddocks, stables, 14ML water licence, bore, pool pavilion and access to Hahndorf, Echunga and Mount Barker. Domain also showed a price guide of $4,650,000 - $5,100,000.",
+    image: "https://www.realestate.com.au/property-image/150821080/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-echunga-150821080",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-meadows-30-brookman",
+    title: "30 Brookman Road",
+    suburb: "Meadows",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 50,
+    price: 2900000,
+    landSize: 218500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Adelaide Hills acreage", "Established free-range egg business", "Water licence and bores", "Income-producing rural infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Meadows acreage listing advertised as 21.85ha with a substantial rural residence, established free-range egg business producing about 14,000 eggs per week, 29kW solar, 18kW battery, three bores, 26.5ML water licence and 600sqm sheds. Price advertised as offers over $2.9m.",
+    image: "https://www.realestate.com.au/property-image/150539224/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-meadows-150539224",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-ebenezer-1404-research",
+    title: "1404 Research Road",
+    suburb: "Ebenezer",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 75,
+    listedDate: "2026-03-03",
+    price: null,
+    landSize: 475000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Barossa vineyard", "River Murray water licence", "Dam storage", "Rental income"],
+    status: "active",
+    notes: "Active realestate.com.au Ebenezer viticulture listing advertised as 47.5ha across three titles, with about 40ha of vineyard, 39ML dam capacity, 30ML River Murray water licence, 10ML Barossa Infrastructure allocation, five frost fans and a rented three-bedroom home generating $420 per week. Price advertised as Contact Agent.",
+    image: "https://www.realestate.com.au/property-image/700366960/1",
+    listingUrl: "https://www.realestate.com.au/property-viticulture-sa-ebenezer-700366960",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-greenock-87-sir-condor",
+    title: "87 Sir Condor Laucke Way",
+    suburb: "Greenock",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 70,
+    price: null,
+    landSize: 869000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Barossa wine estate", "Turnkey winery", "Cellar door", "Large vineyard landholding"],
+    status: "active",
+    notes: "Active realestate.com.au Greenock viticulture listing for Murray Street Vineyards, advertised as an 86.9ha Barossa estate with 56ha under production, a modern winery, cellar door, established brand and 14 grape varieties. Price advertised as Contact Agent.",
+    image: "https://www.realestate.com.au/property-image/700365896/1",
+    listingUrl: "https://www.realestate.com.au/property-viticulture-sa-greenock-700365896",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-keyneton-66-mount-eagle",
+    title: "66 Mount Eagle Road",
+    suburb: "Keyneton",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 75,
+    price: 2000000,
+    landSize: 648000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Barossa lifestyle acreage", "Two titles", "B&B potential STCC", "Dams and creek frontage"],
+    status: "active",
+    notes: "Active realestate.com.au Keyneton lifestyle listing advertised as 64.8ha minutes to Angaston, with a stone cottage, 22 paddocks, interconnecting races, fenced creek, three dams, two separate titles and potential bed-and-breakfast use subject to consent. Price advertised at $2,000,000 - $2,100,000.",
+    image: "https://www.realestate.com.au/property-image/700371124/1",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-keyneton-700371124",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-eden-valley-section-143-kempe",
+    title: "Section 143 Kempe Road",
+    suburb: "Eden Valley",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 80,
+    price: 1550000,
+    landSize: 736500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Eden Valley mixed farming", "Build site STCC", "Water licences", "Vineyard and arable land"],
+    status: "active",
+    notes: "Active realestate.com.au Eden Valley mixed-farming listing advertised as 73.65ha with about 62.6ha arable, 2.6ha Cabernet Sauvignon vineyard, 24ML catchment dam, 5ML turkey nest dam, trough pipeline, surface water, groundwater and watercourse licences, and an opportunity to build a home STCC. Price advertised as $1,550,000 - Price Reduced.",
+    image: "https://www.realestate.com.au/property-image/700376424/1",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-eden%2Bvalley-700376424",
+    listingCategory: "large"
+  },
+  {
+    id: "sa-eden-valley-lot-4-jutland",
+    title: "Lot 4 Jutland Road",
+    suburb: "Eden Valley",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 80,
+    price: 720000,
+    landSize: 634300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Rural-zoned acreage", "Elevated valley views", "Build potential STCC", "Off-grid lifestyle"],
+    status: "active",
+    notes: "Active realestate.com.au Eden Valley rural listing advertised as 63.43ha in the Barossa council area, zoned rural, with ridgeline building sites, valley views, good fencing, road access and proximity to Eden Valley township, Angaston, Tanunda and Nuriootpa. Price advertised at $720,000 - $750,000.",
+    image: "https://www.realestate.com.au/property-image/700366508/1",
+    listingUrl: "https://www.realestate.com.au/property-other-sa-eden%2Bvalley-700366508",
+    listingCategory: "large"
+  },
+  {
+
+2026-05-11T01:46:50.692166Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:46:50.693049Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:46:50.699451Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:46:50.699550Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:46:50.739712Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.739738Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.740864Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.740874Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.742169Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.742178Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.743370Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.743379Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.744589Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.744598Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.745712Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:46:50.745719Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:46:50.843042Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:46:50.852099Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:46:50.852341Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+web search: 
+web search: 
+web search: 
+web search: site:realestate.com.au/property 8772 Bussell Highway Cowaramup 34.01ha
+web search: 
+web search: realestate.com.au Nannup 5 year median price trend growth
+web search: 
+web search: site:realestate.com.au/property 1 on DP 426021 Bridgetown Boyup Brook Road 98ha
+codex
+I’ve got the verified batch. The additions will sit in the existing `sampleProperties` array with `listingCategory: "large"`, use the portal property-image pattern already used by the app, and leave investment-star fields unset where I don’t have credible 5-year evidence above the threshold.
+apply patch
+patch: completed
+C:\Users\User\Documents\New project\app.js
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+2026-05-11T01:48:24.410354Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:48:24.411179Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:48:24.416602Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:48:24.416694Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:24.450564Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.450577Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.451696Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.451706Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.452964Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.452973Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.453926Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.453936Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.455010Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.455019Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.456080Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:24.456089Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:24.548989Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:24.557571Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:24.557777Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+codex
+The 10 verified WA large-property records are now in `app.js`. I’m recalculating the README totals from the actual array rather than trusting the stale README numbers, then I’ll run the syntax check.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "@'
+const fs = require('fs');
+const text = fs.readFileSync('app.js','utf8');
+const start = text.indexOf('const sampleProperties = [');
+const arrStart = text.indexOf('[', start);
+const end = text.indexOf('];', arrStart);
+const arrText = text.slice(arrStart, end + 1);
+const props = Function('return ' + arrText)();
+const hidden = new Set(['sold','under_offer','under_contract','withdrawn','off_market','leased']);
+const visible = props.filter(p => "'!hidden.has(String(p.status || '"'active').toLowerCase())).length;
+const large = props.filter(p => p.listingCategory === 'large').length;
+console.log(JSON.stringify({ total: props.length, visible, large }, null, 2));
+'@ | & 'C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\node.exe'" in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "Select-String -Path README.md -Pattern 'curated property records|currently visible active|large'" in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "rg -n \"wa-cowaramup-227-fifty-one|wa-nannup-7953-brockman|wa-roelands-lot-25-coalfields|listingCategory: \\\"large\\\"\" app.js" in C:\Users\User\Documents\New project
+2026-05-11T01:48:37.581854Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 0.3 seconds
+Output:
+
+ exited 1 in 294ms:
+ succeeded in 487ms:
+
+README.md:7:The app has 302 curated property records using direct listing pages, with 283 currently visible active 
+listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The 
+app does not scrape portal search pages in the browser.
+README.md:31:- Larger land/block sizes
+
+
+
+ succeeded in 518ms:
+{
+  "total": 314,
+  "visible": 295,
+  "large": 34
+}
+
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+2026-05-11T01:48:37.788948Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:48:37.789619Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:48:37.795797Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:48:37.796254Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:37.834765Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.834777Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.835751Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.835756Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.836816Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.836825Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.838732Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.838742Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.840129Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.840138Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.841301Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:37.841311Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:37.953681Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:37.964824Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:37.965067Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+apply patch
+patch: completed
+C:\Users\User\Documents\New project\README.md
+diff --git a/README.md b/README.md
+index 18d8087546e01e4cdc76ad96e0edf1dc67134d92..621b6164e7fdc7d25daf48412a5faecec4ef4b06
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,7 @@
+ 
+ Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
+ 
+-The app has 302 curated property records using direct listing pages, with 283 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
++The app has 314 curated property records using direct listing pages, with 295 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+ 
+ When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
+ 
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+diff --git a/README.md b/README.md
+index 18d8087546e01e4cdc76ad96e0edf1dc67134d92..621b6164e7fdc7d25daf48412a5faecec4ef4b06
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,7 @@
+ 
+ Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
+ 
+-The app has 302 curated property records using direct listing pages, with 283 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
++The app has 314 curated property records using direct listing pages, with 295 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+ 
+ When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
+ 
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+2026-05-11T01:48:43.874190Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:48:43.874833Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:48:43.880572Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:48:43.880663Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:43.911456Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.911465Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:43.912386Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.912395Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:43.913282Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.913290Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:43.914487Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.914495Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:43.915321Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.915325Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:43.916180Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:43.916188Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:44.014023Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:44.024672Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:44.024913Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+codex
+README counts now match the parsed property array: 314 total records and 295 visible active records. I’m running the requested `node --check app.js` next.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "& 'C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\node.exe' --check app.js" in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "@'
+const fs = require('fs');
+const text = fs.readFileSync('app.js','utf8');
+const start = text.indexOf('const sampleProperties = [');
+const arrStart = text.indexOf('[', start);
+const end = text.indexOf('];', arrStart);
+const props = Function('return ' + text.slice(arrStart, end + 1))();
+const ids = new Set();
+const urls = new Set();
+let dupIds = [];
+let dupUrls = [];
+for (const p of props) {
+  if (ids.has(p.id)) dupIds.push(p.id); else ids.add(p.id);
+  if (p.listingUrl) {
+    const key = p.listingUrl.toLowerCase();
+    if (urls.has(key)) dupUrls.push(p.listingUrl); else urls.add(key);
+  }
+}
+console.log(JSON.stringify({count: props.length, dupIds, dupUrls}, null, 2));
+'@ | & 'C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\node.exe'" in C:\Users\User\Documents\New project
+ succeeded in 237ms:
+ succeeded in 355ms:
+{
+  "count": 314,
+  "dupIds": [],
+  "dupUrls": []
+}
+
+diff --git a/README.md b/README.md
+index 18d8087546e01e4cdc76ad96e0edf1dc67134d92..621b6164e7fdc7d25daf48412a5faecec4ef4b06
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,7 @@
+ 
+ Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
+ 
+-The app has 302 curated property records using direct listing pages, with 283 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
++The app has 314 curated property records using direct listing pages, with 295 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+ 
+ When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
+ 
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+2026-05-11T01:48:53.481115Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:48:53.481827Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:48:53.487941Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:48:53.488029Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:53.521996Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.522005Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.523280Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.523289Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.524801Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.524809Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.525758Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.525767Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.526762Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.526767Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.527776Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:53.527785Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:53.622285Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:53.631253Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:53.631485Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+codex
+`app.js` passes the requested syntax check, and the added data has no duplicate ids or listing URLs. I’m doing one final diff scan so the close-out names only the files touched.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'git diff -- app.js README.md' in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'git status --short' in C:\Users\User\Documents\New project
+2026-05-11T01:48:59.219143Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 1.1 seconds
+Output:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git diff -- app.js README.md
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+2026-05-11T01:48:59.219176Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 1.1 seconds
+Output:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git status --short
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+ exited 1 in 1085ms:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git diff -- app.js README.md
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+ exited 1 in 1084ms:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git status --short
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+diff --git a/README.md b/README.md
+index 18d8087546e01e4cdc76ad96e0edf1dc67134d92..621b6164e7fdc7d25daf48412a5faecec4ef4b06
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,7 @@
+ 
+ Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
+ 
+-The app has 302 curated property records using direct listing pages, with 283 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
++The app has 314 curated property records using direct listing pages, with 295 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+ 
+ When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
+ 
+diff --git a/app.js b/app.js
+index f2d18f891ff1c54bb32d7574152e5bcde1e331dc..291a9c19c8851c3e32c0672c17ced72934c3637c
+--- a/app.js
++++ b/app.js
+@@ -5571,6 +5571,197 @@
+     listingCategory: "large"
+   },
+   {
++    id: "wa-cowaramup-227-fifty-one",
++    title: "227 Fifty One Road",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: 3800000,
++    landSize: 255500,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual dwellings and income"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
++    image: "https://www.realestate.com.au/property-image/700358140/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-southampton-1192-balingup-nannup",
++    title: "1192 Balingup-Nannup Road",
++    suburb: "Southampton",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    price: 1650000,
++    landSize: 213000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup Brook frontage"],
++    status: "active",
++    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised from $1.65 million.",
++    image: "https://www.realestate.com.au/property-image/700367944/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-wilga-4254-donnybrook-boyup",
++    title: "4254 Donnybrook-Boyup Brook Road",
++    suburb: "Wilga",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 210,
++    listedDate: "2026-05-07",
++    price: 2400000,
++    landSize: 808900,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
++    status: "active",
++    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
++    image: "https://www.realestate.com.au/property-image/700398960/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-northcliffe-701-double-bridge",
++    title: "701 Double Bridge Road",
++    suburb: "Northcliffe",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 280,
++    price: 1250000,
++    landSize: 429000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water storage"],
++    status: "active",
++    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
++    image: "https://www.realestate.com.au/property-image/700370624/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-roelands-lot-25-coalfields",
++    title: "Lot 25 Coalfields Highway",
++    suburb: "Roelands",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 120,
++    price: 2800000,
++    landSize: 1978000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
++    status: "active",
++    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
++    image: "https://www.realestate.com.au/property-image/700381768/1",
++    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-cowaramup-8772-bussell",
++    title: "8772 Bussell Highway",
++    suburb: "Cowaramup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 180,
++    price: null,
++    landSize: 340100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", "Tourism accommodation"],
++    status: "active",
++    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700374176/1",
++    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-kaloorup-1086-kaloorup",
++    title: "1086 Kaloorup Road",
++    suburb: "Kaloorup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 160,
++    price: null,
++    landSize: 441800,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", "Export-approved infrastructure"],
++    status: "active",
++    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading zone and cattle yards. Price advertised as offers.",
++    image: "https://www.realestate.com.au/property-image/700394936/1",
++    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-rosa-brook-2210-jindong-treeton",
++    title: "2210 Jindong-Treeton Road",
++    suburb: "Rosa Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 190,
++    price: null,
++    landSize: 300100,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", "Dam and paddocks"],
++    status: "active",
++    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
++    image: "https://www.realestate.com.au/property-image/700389872/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
++    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
++    suburb: "Boyup Brook",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: 2495000,
++    landSize: 980000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
++    status: "active",
++    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
++    image: "https://www.realestate.com.au/property-image/700393016/1",
++    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
++    listingCategory: "large"
++  },
++  {
++    id: "wa-nannup-7953-brockman",
++    title: "7953 Brockman Highway",
++    suburb: "Nannup",
++    state: "WA",
++    nearestMajorCity: "Perth",
++    majorCityMinutes: 200,
++    price: null,
++    landSize: 522000,
++    beachfront: false,
++    noRoadFrontage: false,
++    directBeachAccess: false,
++    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished dwellings", "Commercial-grade shed"],
++    status: "active",
++    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
++    image: "https://www.realestate.com.au/property-image/700396804/1",
++    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
++    listingCategory: "large"
++  },
++  {
+     id: "wa-geraldton-11-forrest",
+     title: "11 Forrest Street",
+     suburb: "Geraldton",
+
+2026-05-11T01:48:59.232479Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=C:\Users\User\.codex\.tmp\plugins\plugins\build-ios-apps\.codex-plugin/plugin.json
+2026-05-11T01:48:59.233608Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\plugin-eval\.codex-plugin/plugin.json
+2026-05-11T01:48:59.239649Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\twilio-developer-kit\.codex-plugin/plugin.json
+2026-05-11T01:48:59.239738Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:59.276878Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.276892Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.278080Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.278090Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.279640Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.279650Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.280745Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.280754Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.281960Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.281968Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.283641Z  WARN codex_core_skills::loader: ignoring interface.icon_small: icon path must not contain '..'
+2026-05-11T01:48:59.283651Z  WARN codex_core_skills::loader: ignoring interface.icon_large: icon path must not contain '..'
+2026-05-11T01:48:59.387755Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:59.396663Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+2026-05-11T01:48:59.396899Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=C:\Users\User\.codex\.tmp\plugins\plugins\openai-developers\.codex-plugin/plugin.json
+
+
+[2026-05-11T01:50:05.285Z] Automatic large-property sweep started for South West WA lifestyle acreage, WA
+Reading additional input from stdin...
+OpenAI Codex v0.130.0-alpha.5
+--------
+workdir: C:\Users\User\Documents\New project
+model: gpt-5.5
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, C:\Users\User\.codex\memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019e14ba-2a3b-79c3-a6fa-aff5ee886ec1
+--------
+user
+You are refreshing the local Property X Factors Australia app in Large Properties mode. This is a separate large-land search lane. Search only South West WA lifestyle acreage, WA. Do not broaden outside this region unless the listing clearly belongs to the same market area. Find active Australian property listings for large blocks of land, farms, lifestyle acreage, rural land, development land, grazing land, mixed-use rural holdings, or large coastal/rural holdings. Target land size between 20 hectares and 2000 hectares inclusive. Do not require beachfront. Prefer properties with good capital-growth potential, access to major cities/regional centres, subdivision or tourism upside, water access, coastal proximity, income potential, or rezoning/development signals. Use portal result pages and direct listings on realestate.com.au, Domain, and Homely. Search terms should include acreage, rural, farm, lifestyle, land, development site, grazing, 20ha, 50ha, 100ha, 500 acres, and the region/state. Do not add rentals, sold listings, off-market pages, generic search pages, duplicate records, duplicate addresses already in app.js, duplicate titles/regions on another portal, or pages without a usable direct listing URL and real listing hero image. Work in two phases: spend no more than 10 minutes finding and verifying candidates, then immediately edit C:\Users\User\Documents\New project\app.js with whatever passed verification. Do not keep searching just to fill the batch. Before adding, scan app.js for existing ids, listingUrl values, and normalized title + suburb + state address keys. Add up to 10 verified large-property records that are not already present in sampleProperties. If only 1 to 9 good matches are found, add those immediately. If no good matches are found, make no listing-data changes. Each added record must include id, title, suburb or region as suburb, state, nearestMajorCity set to Perth, majorCityMinutes if reasonably estimable, daysOnMarket if visible or listedDate if available, price, landSize in square metres, beachfront false unless clearly beachfront, noRoadFrontage false unless clearly no-road waterfront, directBeachAccess false unless clearly true, factors, status, notes, image, listingUrl, and listingCategory: "large". For each verified listing, also check available 5-year regional/comparable sales growth evidence. If credible evidence supports potential above 15% annual growth, add investmentStar: true plus investmentAnnualGrowth5Yr or investmentFiveYearGrowth and a short investmentReason. If evidence is missing or weaker, leave investmentStar false or omit it; do not guess. If any existing large-property listing is sold, under offer, under contract, leased, withdrawn, off market, or no longer active, set status so it disappears from the app. Update README counts if the total changes. Run C:\Users\User\AppData\Local\OpenAI\Codex\bin\node.exe --check app.js before finishing. Keep the final response short.
+codex
+I’ll first inspect the current app data so I can avoid duplicate IDs, URLs, and normalized listing keys, then I’ll do a bounded web search for South West WA large-property listings and patch only verified active records.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-ChildItem -Force' in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'rg -n "sampleProperties|listingCategory|listingUrl|title:|suburb:|state:|status:" app.js README*' in C:\Users\User\Documents\New project
+ succeeded in 370ms:
+
+
+    Directory: C:\Users\User\Documents\New project
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d--h--        11/05/2026  11:16 AM                .git                                                                 
+-a----        11/05/2026  11:16 AM             66 .gitattributes                                                       
+-a----        11/05/2026  11:19 AM            170 .gitignore.txt                                                       
+-a----        11/05/2026  11:18 AM         293512 app.js                                                               
+-a----        11/05/2026  10:47 AM           7997 index.html                                                           
+-a----        11/05/2026  11:20 AM        2447465 large-refresh-listings.log                                           
+-a----        11/05/2026  11:20 AM            480 large-refresh-status.json                                            
+-a----        11/05/2026  11:12 AM            178 large-search-state.json                                              
+-a----        11/05/2026  10:52 AM          43684 preview-server.js                                                    
+-a----        11/05/2026  11:18 AM           2708 README.md                                                            
+-a----        11/05/2026  11:20 AM       13765924 refresh-listings.log                                                 
+-a----        11/05/2026  11:20 AM            398 refresh-status.json                                                  
+-a----        10/05/2026   2:47 PM            519 sample-import.csv                                                    
+-a----        10/05/2026   2:20 PM           1054 Start Property X Factors Server.cmd                                  
+-a----        10/05/2026   2:13 PM             58 Start Property X Factors.cmd                                         
+-a----        11/05/2026  10:57 AM          14393 styles.css                                                           
+-a----        11/05/2026  11:16 AM            127 suburb-search-state.json                                             
+
+
+
+2026-05-11T01:50:12.988366Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 1 seconds
+Output:
+rg : The term 'rg' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ rg -n "sampleProperties|listingCategory|listingUrl|title:|suburb:|sta ...
++ ~~
+    + CategoryInfo          : ObjectNotFound: (rg:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+ exited 1 in 1027ms:
+rg : The term 'rg' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ rg -n "sampleProperties|listingCategory|listingUrl|title:|suburb:|sta ...
++ ~~
+    + CategoryInfo          : ObjectNotFound: (rg:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+codex
+`rg` isn’t installed here, so I’m using PowerShell’s search instead. I’ve confirmed the repo shape and am reading the existing listing data before touching anything.
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "Select-String -Path app.js -Pattern \"const sampleProperties|listingCategory: \\\"large\\\"|listingUrl:|title:|suburb:|state:|status:\" | Select-Object -First 220" in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-Content README.md' in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'git status --short' in C:\Users\User\Documents\New project
+ succeeded in 421ms:
+# Property X Factors Australia
+
+A local Windows-friendly property search dashboard for Australian coastal properties.
+
+Open `Start Property X Factors.cmd`. It starts the local server that powers the manual `Search now` button.
+
+The app has 314 curated property records using direct listing pages, with 295 currently visible active listings. Sold, under-offer, under-contract, withdrawn, off-market, or leased records are hidden automatically. The app does not scrape portal search pages in the browser.
+
+When opened through `Start Property X Factors.cmd`, the local server starts an automatic suburb sweep every 5 minutes. The sweep follows the selected red-line mainland coast only: starting at Adelaide, west across SA/WA to Geraldton, then looping to Mackay and following the east/south coast back through NSW, VIC, and SA. Near cities, the route breaks the coast into every direct beach-access suburb, including smaller Adelaide suburbs such as Glenelg North, Somerton Park, and Hove. Standard suburbs get up to 2 minutes; suburbs within about 2 hours of a major city get 10 minutes. It adds verified direct listing records as they are found, up to 10 per run. The `Search now` button triggers the next suburb in the same sweep immediately, and the page reloads when a search finishes.
+
+Use `SA search` to run a focused manual search from Semaphore through Cape Jervis, preferring listings within 2 hours of Adelaide.
+
+Use `Export table` to download the currently visible comparison table as an Excel-compatible CSV. It respects the active table filters, sort order, and the All/Favourites view.
+
+Newly discovered properties are highlighted gold in the comparison table and marked with a star until you click the row/card or open the exact listing.
+
+Major city access means the nearest practical drive time to Sydney, Melbourne, Brisbane, Perth, Adelaide, Gold Coast, Canberra, Hobart, or Darwin.
+
+For a local preview URL, run:
+
+```powershell
+node preview-server.js
+```
+
+The app prioritises:
+
+- Beachfront properties
+- Beachfront properties with no road in front
+- Direct beach access
+- Properties within 1 hour of a major city
+- Larger land/block sizes
+- Lower price per square metre
+- Custom X factors such as dune frontage, boat access, ocean views, rental upside, and renovation potential
+
+Use the `Favourite` button on any property card to save it. The `Favourites` view in the header shows only favourited active properties, and `Export favourites` downloads that saved list.
+
+## Notes
+
+Major Australian property portals usually do not allow unrestricted scraping. This app is built for compliant workflows: agent exports, your own listing notes, saved listing URLs, or a future licensed API feed.
+
+2026-05-11T01:50:19.188296Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 0.5 seconds
+Output:
+Select-String : A positional parameter cannot be found that accepts argument 
+'large\|listingUrl:|title:|suburb:|state:|status:'.
+At line:2 char:1
++ Select-String -Path app.js -Pattern "const sampleProperties|listingCa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Select-String], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.SelectStringCommand
+ 
+
+ exited 1 in 469ms:
+Select-String : A positional parameter cannot be found that accepts argument 
+'large\|listingUrl:|title:|suburb:|state:|status:'.
+At line:2 char:1
++ Select-String -Path app.js -Pattern "const sampleProperties|listingCa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Select-String], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.SelectStringCommand
+ 
+
+2026-05-11T01:50:19.818419Z ERROR codex_core::tools::router: error=Exit code: 1
+Wall time: 1.1 seconds
+Output:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git status --short
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+ exited 1 in 1099ms:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:2 char:1
++ git status --short
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "Select-String -Path app.js -Pattern 'const sampleProperties','listingCategory: \"large\"','listingUrl:','title:','suburb:','state:','status:' | Select-Object -First 260" in C:\Users\User\Documents\New project
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "Select-String -Path app.js -Pattern 'listingCategory: \"large\"' | Measure-Object" in C:\Users\User\Documents\New project
+ succeeded in 367ms:
+
+
+Count    : 34
+Average  : 
+Sum      : 
+Maximum  : 
+Minimum  : 
+Property : 
+
+
+
+
+ succeeded in 436ms:
+
+app.js:1:const sampleProperties = [
+app.js:4:    title: "5 Founders Lane",
+app.js:5:    suburb: "Hillarys",
+app.js:6:    state: "WA",
+app.js:16:    status: "active",
+app.js:19:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-hillarys-204464516"
+app.js:23:    title: "221/68 Southside Drive",
+app.js:24:    suburb: "Hillarys",
+app.js:25:    state: "WA",
+app.js:35:    status: "active",
+app.js:38:    listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150341136"
+app.js:42:    title: "108/68 Southside Dr",
+app.js:43:    suburb: "Hillarys",
+app.js:44:    state: "WA",
+app.js:54:    status: "active",
+app.js:57:    listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150800100"
+app.js:61:    title: "305 West Coast Drive",
+app.js:62:    suburb: "Trigg",
+app.js:63:    state: "WA",
+app.js:73:    status: "active",
+app.js:76:    listingUrl: "https://www.realestate.com.au/property-house-wa-trigg-151073916"
+app.js:80:    title: "331 West Coast Drive",
+app.js:81:    suburb: "Trigg",
+app.js:82:    state: "WA",
+app.js:92:    status: "active",
+app.js:95:    listingUrl: "https://www.realestate.com.au/property-apartment-wa-trigg-143897976"
+app.js:99:    title: "20 Warnbro Beach Road",
+app.js:100:    suburb: "Safety Bay",
+app.js:101:    state: "WA",
+app.js:111:    status: "active",
+app.js:114:    listingUrl: "https://www.realestate.com.au/property-house-wa-safety%2Bbay-150371768"
+app.js:118:    title: "288 Safety Bay Road",
+app.js:119:    suburb: "Safety Bay",
+app.js:120:    state: "WA",
+app.js:130:    status: "active",
+app.js:133:    listingUrl: "https://www.homely.com.au/homes/288-safety-bay-road-safety-bay-wa-6169/12699539"
+app.js:137:    title: "48 Atlantis Boulevarde",
+app.js:138:    suburb: "Agnes Water",
+app.js:139:    state: "QLD",
+app.js:150:    listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-146193012"
+app.js:154:    title: "4/353 Golden Four Drive",
+app.js:155:    suburb: "Tugun",
+app.js:156:    state: "QLD",
+app.js:167:    listingUrl: "https://www.realestate.com.au/property-unit-qld-tugun-150764768"
+app.js:171:    title: "41 Jubilee Parade",
+app.js:172:    suburb: "Diamond Beach",
+app.js:173:    state: "NSW",
+app.js:184:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-nsw-diamond%2Bbeach-204433248"
+app.js:188:    title: "49 Cylinders Drive",
+app.js:189:    suburb: "Kingscliff",
+app.js:190:    state: "NSW",
+app.js:201:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-nsw-kingscliff-204401644"
+app.js:205:    title: "80 Nepean Highway",
+app.js:206:    suburb: "Aspendale",
+app.js:207:    state: "VIC",
+app.js:218:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-aspendale-204184340"
+app.js:222:    title: "62 Porter Promenade",
+app.js:223:    suburb: "Mission Beach",
+app.js:224:    state: "QLD",
+app.js:235:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-mission%2Bbeach-204089836"
+app.js:239:    title: "375 Beach Road",
+app.js:240:    suburb: "Beaumaris",
+app.js:241:    state: "VIC",
+app.js:252:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-beaumaris-204094676"
+app.js:256:    title: "208A The Esplanade",
+app.js:257:    suburb: "Surf Beach",
+app.js:258:    state: "VIC",
+app.js:269:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-surf%2Bbeach-204442052"
+app.js:273:    title: "20 Hayman Retreat",
+app.js:274:    suburb: "Halls Head",
+app.js:275:    state: "WA",
+app.js:286:    listingUrl: "https://www.homely.com.au/homes/20-hayman-retreat-halls-head-wa-6210/11575127"
+app.js:290:    title: "248 Foreshore Drive",
+app.js:291:    suburb: "Singleton",
+app.js:292:    state: "WA",
+app.js:303:    listingUrl: "https://www.homely.com.au/homes/248-foreshore-drive-singleton-wa-6175/12525912"
+app.js:307:    title: "304 Esplanade",
+app.js:308:    suburb: "Aldinga Beach",
+app.js:309:    state: "SA",
+app.js:318:    status: "sold",
+app.js:321:    listingUrl: "https://www.homely.com.au/homes/304-esplanade-aldinga-beach-sa-5173/13000904"
+app.js:325:    title: "3A Crowtherton Street",
+app.js:326:    suburb: "Bluff Point",
+app.js:327:    state: "WA",
+app.js:338:    listingUrl: "https://www.homely.com.au/homes/3a-crowtherton-street-bluff-point-wa-6530/12743632"
+app.js:342:    title: "401 Black Point Drive",
+app.js:343:    suburb: "Black Point",
+app.js:344:    state: "SA",
+app.js:355:    listingUrl: "https://www.homely.com.au/homes/401-black-point-drive-black-point-sa-5571/12123023"
+app.js:359:    title: "10 Ramsey Boulevard",
+app.js:360:    suburb: "Inverloch",
+app.js:361:    state: "VIC",
+app.js:372:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-inverloch-203363527"
+app.js:376:    title: "Address available on request",
+app.js:377:    suburb: "Bowen",
+app.js:378:    state: "QLD",
+app.js:389:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-bowen-204010312"
+app.js:393:    title: "55 Ocean Drive",
+app.js:394:    suburb: "North Coogee",
+app.js:395:    state: "WA",
+app.js:406:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-north%2Bcoogee-203947864"
+app.js:410:    title: "32 Chelydra Point",
+app.js:411:    suburb: "North Coogee",
+app.js:412:    state: "WA",
+app.js:421:    status: "active",
+app.js:424:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-north%2Bcoogee-204403724"
+app.js:428:    title: "2/23 Ocean Drive",
+app.js:429:    suburb: "North Coogee",
+app.js:430:    state: "WA",
+app.js:439:    status: "active",
+app.js:442:    listingUrl: "https://www.realestate.com.au/property-apartment-wa-north%2Bcoogee-146982500"
+app.js:446:    title: "46 Marine Drive",
+app.js:447:    suburb: "Safety Beach",
+app.js:448:    state: "VIC",
+app.js:459:    listingUrl: "https://www.realestate.com.au/property-house-vic-safety%2Bbeach-150144252"
+app.js:463:    title: "15 Biggs Avenue",
+app.js:464:    suburb: "Beachmere",
+app.js:465:    state: "QLD",
+app.js:476:    listingUrl: "https://www.realestate.com.au/property-house-qld-beachmere-150442556"
+app.js:480:    title: "28 Ocean Drive",
+app.js:481:    suburb: "Safety Beach",
+app.js:482:    state: "NSW",
+app.js:493:    listingUrl: "https://www.realestate.com.au/property-house-nsw-safety%2Bbeach-149920516"
+app.js:497:    title: "11 Wyuna Avenue",
+app.js:498:    suburb: "The Entrance North",
+app.js:499:    state: "NSW",
+app.js:510:    listingUrl: "https://www.realestate.com.au/property-house-nsw-the%2Bentrance%2Bnorth-149771572"
+app.js:514:    title: "158 Gould Street",
+app.js:515:    suburb: "Frankston",
+app.js:516:    state: "VIC",
+app.js:527:    listingUrl: "https://www.realestate.com.au/property-house-vic-frankston-150372248"
+app.js:531:    title: "372 Ocean View Road",
+app.js:532:    suburb: "Ettalong Beach",
+app.js:533:    state: "NSW",
+app.js:544:    listingUrl: "https://www.realestate.com.au/property-unit-nsw-ettalong%2Bbeach-148928272"
+app.js:548:    title: "44 Gould Street",
+app.js:549:    suburb: "Frankston",
+app.js:550:    state: "VIC",
+app.js:561:    listingUrl: "https://www.realestate.com.au/property-house-vic-frankston-150371332"
+app.js:565:    title: "7 & 9 Tenth Avenue",
+app.js:566:    suburb: "Palm Beach",
+app.js:567:    state: "QLD",
+app.js:576:    status: "under_contract",
+app.js:579:    listingUrl: "https://www.realestate.com.au/property-house-qld-palm%2Bbeach-150105840"
+app.js:583:    title: "Lot 3, 24 Freycinet Drive",
+app.js:584:    suburb: "Geographe",
+app.js:585:    state: "WA",
+app.js:596:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-geographe-204476880"
+app.js:600:    title: "35 Freycinet Drive",
+app.js:601:    suburb: "Geographe",
+app.js:602:    state: "WA",
+app.js:612:    status: "active",
+app.js:615:    listingUrl: "https://www.homely.com.au/homes/35-freycinet-drive-geographe-wa-6280/12372097"
+app.js:619:    title: "Lot 53, 506 Caves Road",
+app.js:620:    suburb: "Siesta Park",
+app.js:621:    state: "WA",
+app.js:632:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-siesta%2Bpark-204443348"
+app.js:636:    title: "15 Jordan Street",
+app.js:637:    suburb: "Two Rocks",
+app.js:638:    state: "WA",
+app.js:647:    status: "under_offer",
+app.js:650:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-two%2Brocks-204448596"
+app.js:654:    title: "27 Jordan Street",
+app.js:655:    suburb: "Two Rocks",
+app.js:656:    state: "WA",
+app.js:666:    status: "active",
+app.js:669:    listingUrl: "https://www.homely.com.au/homes/27-jordan-street-two-rocks-wa-6037/12478166"
+app.js:673:    title: "8 Seastar Cove",
+app.js:674:    suburb: "Sunset Beach",
+app.js:675:    state: "WA",
+app.js:684:    status: "sold",
+app.js:687:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-sunset%2Bbeach-204288564"
+app.js:691:    title: "14 Sandy Place",
+app.js:692:    suburb: "Long Beach",
+app.js:693:    state: "NSW",
+app.js:702:    status: "under_offer",
+app.js:705:    listingUrl: "https://www.realestate.com.au/property-house-nsw-long%2Bbeach-150246272"
+app.js:709:    title: "31 Wreck Rock Road",
+app.js:710:    suburb: "Deepwater",
+app.js:711:    state: "QLD",
+app.js:722:    listingUrl: "https://www.realestate.com.au/property-house-qld-deepwater-139911907"
+app.js:726:    title: "72 Thomas Street",
+app.js:727:    suburb: "Leeman",
+app.js:728:    state: "WA",
+app.js:739:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-leeman-204288472"
+app.js:743:    title: "Lot 442, 50 Thomas Street",
+app.js:744:    suburb: "Leeman",
+app.js:745:    state: "WA",
+app.js:755:    status: "active",
+app.js:758:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-leeman-204460848"
+app.js:762:    title: "38 Reid Rd",
+app.js:763:    suburb: "Wongaling Beach",
+app.js:764:    state: "QLD",
+app.js:775:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-wongaling%2Bbeach-204174096"
+app.js:779:    title: "Lot 10-12, Gannet Street",
+app.js:780:    suburb: "Slade Point",
+app.js:781:    state: "QLD",
+app.js:792:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-slade%2Bpoint-204470640"
+app.js:796:    title: "8/64-68 Reid Road",
+app.js:797:    suburb: "Wongaling Beach",
+app.js:798:    state: "QLD",
+app.js:809:    listingUrl: "https://www.homely.com.au/homes/8-64-68-reid-road-wongaling-beach-qld-4852/13024961"
+app.js:813:    title: "10 Green Point Road",
+app.js:814:    suburb: "Pearl Beach",
+app.js:815:    state: "NSW",
+app.js:826:    listingUrl: "https://www.homely.com.au/homes/10-green-point-road-pearl-beach-nsw-2256/12669194"
+app.js:830:    title: "5/66 Rules Beach Road",
+app.js:831:    suburb: "Rules Beach",
+app.js:832:    state: "QLD",
+app.js:843:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-rules%2Bbeach-204463904"
+app.js:847:    title: "66 Rules Beach Road",
+app.js:848:    suburb: "Rules Beach",
+app.js:849:    state: "QLD",
+app.js:860:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-rules%2Bbeach-202888902"
+app.js:864:    title: "20 Theodolite Creek Dr",
+app.js:865:    suburb: "Woodgate",
+app.js:866:    state: "QLD",
+app.js:877:    listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-149793732"
+app.js:881:    title: "101 Esplanade",
+app.js:882:    suburb: "Woodgate",
+app.js:883:    state: "QLD",
+app.js:892:    status: "under_offer",
+app.js:895:    listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-148988120"
+app.js:899:    title: "23-25 Tide-Surge Avenue",
+app.js:900:    suburb: "Golden Beach",
+app.js:901:    state: "VIC",
+app.js:912:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-golden%2Bbeach-203866996"
+app.js:916:    title: "103 Bishop Road",
+app.js:917:    suburb: "Beachmere",
+app.js:918:    state: "QLD",
+app.js:929:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-beachmere-204441212"
+app.js:933:    title: "74 Kewarra Street",
+app.js:934:    suburb: "Kewarra Beach",
+app.js:935:    state: "QLD",
+app.js:946:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-kewarra%2Bbeach-204500784"
+app.js:950:    title: "114 Esplanade",
+app.js:951:    suburb: "Semaphore",
+app.js:952:    state: "SA",
+app.js:963:    listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore-150718904"
+app.js:967:    title: "2/12 Plover Street",
+app.js:968:    suburb: "Peregian Beach",
+app.js:969:    state: "QLD",
+app.js:978:    status: "active",
+app.js:981:    listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150228292"
+app.js:985:    title: "124 Dickson Way",
+app.js:986:    suburb: "Point Lookout",
+app.js:987:    state: "QLD",
+app.js:996:    status: "active",
+app.js:999:    listingUrl: "https://www.realestate.com.au/property-house-qld-point%2Blookout-150772416"
+app.js:1003:    title: "36 Esplanade",
+app.js:1004:    suburb: "Zilzie",
+app.js:1005:    state: "QLD",
+app.js:1014:    status: "active",
+app.js:1017:    listingUrl: "https://www.realestate.com.au/property-house-qld-zilzie-150923540"
+app.js:1021:    title: "1/161 Hedges Avenue",
+app.js:1022:    suburb: "Mermaid Beach",
+app.js:1023:    state: "QLD",
+app.js:1032:    status: "active",
+app.js:1035:    listingUrl: "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-150748624"
+app.js:1039:    title: "9/71 Evans Street",
+
+
+
+exec
+"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command "Select-String -Path app.js -Pattern 'listingCategory: \"large\"' -Context 16,6" in C:\Users\User\Documents\New project
+ succeeded in 417ms:
+
+  app.js:5110:    id: "sa-dawesley-95-smyth",
+  app.js:5111:    title: "95 Smyth Road",
+  app.js:5112:    suburb: "Dawesley",
+  app.js:5113:    state: "SA",
+  app.js:5114:    nearestMajorCity: "Adelaide",
+  app.js:5115:    majorCityMinutes: 45,
+  app.js:5116:    price: 2600000,
+  app.js:5117:    landSize: 300000,
+  app.js:5118:    beachfront: false,
+  app.js:5119:    noRoadFrontage: false,
+  app.js:5120:    directBeachAccess: false,
+  app.js:5121:    factors: ["Adelaide Hills acreage", "Multi-dwelling income potential", "Equestrian infrastructure", 
+"Dawesley Creek frontage"],
+  app.js:5122:    status: "active",
+  app.js:5123:    notes: "Active realestate.com.au Adelaide Hills acreage listing advertised as 30ha less than 5km 
+from Nairne and 10 minutes to Mount Barker, with a main residence, two self-contained dwellings, Dawesley Creek 
+frontage, 13 paddocks, sheds, stables, arena, mains water, solar, orchard and greenhouse. Price advertised at 
+$2,600,000 - $2,800,000.",
+  app.js:5124:    image: "https://www.realestate.com.au/property-image/150062592/1",
+  app.js:5125:    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-dawesley-150062592",
+> app.js:5126:    listingCategory: "large"
+  app.js:5127:  },
+  app.js:5128:  {
+  app.js:5129:    id: "sa-kersbrook-118-powell",
+  app.js:5130:    title: "118 Powell Road",
+  app.js:5131:    suburb: "Kersbrook",
+  app.js:5132:    state: "SA",
+  app.js:5133:    nearestMajorCity: "Adelaide",
+  app.js:5134:    majorCityMinutes: 50,
+  app.js:5135:    listedDate: "2026-04-27",
+  app.js:5136:    price: null,
+  app.js:5137:    landSize: 211600,
+  app.js:5138:    beachfront: false,
+  app.js:5139:    noRoadFrontage: false,
+  app.js:5140:    directBeachAccess: false,
+  app.js:5141:    factors: ["Adelaide Hills acreage", "Self-contained cottage", "Productive Rural Landscape zoning", 
+"High-rainfall farm infrastructure"],
+  app.js:5142:    status: "active",
+  app.js:5143:    notes: "Active realestate.com.au Kersbrook lifestyle listing advertised as a 21.16ha Productive 
+Rural Landscape holding, 37km from Adelaide CBD, with a separate self-contained cottage, 40kW solar, 3-phase power, 
+extensive shedding, equine facilities, mains water, rainwater storage and high-rainfall productive soils. Campaign 
+advertised as Best and Final Offers by 21st May.",
+  app.js:5144:    image: "https://www.realestate.com.au/property-image/700405424/1",
+  app.js:5145:    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-kersbrook-700405424",
+> app.js:5146:    listingCategory: "large"
+  app.js:5147:  },
+  app.js:5148:  {
+  app.js:5149:    id: "sa-willow-creek-2602-range",
+  app.js:5150:    title: "2602 Range Road",
+  app.js:5151:    suburb: "Willow Creek",
+  app.js:5152:    state: "SA",
+  app.js:5153:    nearestMajorCity: "Adelaide",
+  app.js:5154:    majorCityMinutes: 75,
+  app.js:5155:    price: 3250000,
+  app.js:5156:    landSize: 1829200,
+  app.js:5157:    beachfront: false,
+  app.js:5158:    noRoadFrontage: false,
+  app.js:5159:    directBeachAccess: false,
+  app.js:5160:    factors: ["Fleurieu Peninsula grazing", "Large-scale rural holding", "Spring-fed dams", "Potential 
+title flexibility"],
+  app.js:5161:    status: "active",
+  app.js:5162:    notes: "Active realestate.com.au Fleurieu Peninsula rural listing for Kulaganga, advertised as 
+182.92ha of undulating grazing country with multiple spring-fed dams, a 137,000L concrete tank, steel and timber 
+cattle yards, former shearing shed, fenced paddocks and productive livestock/fodder potential. Price guide advertised 
+at $3.25m.",
+  app.js:5163:    image: "https://www.realestate.com.au/property-image/700384640/1",
+  app.js:5164:    listingUrl: "https://www.realestate.com.au/property-other-sa-willow%2Bcreek-700384640",
+> app.js:5165:    listingCategory: "large"
+  app.js:5166:  },
+  app.js:5167:  {
+  app.js:5168:    id: "sa-mount-torrens-lot-10-warmington",
+  app.js:5169:    title: "Lot 10, Warmington Run",
+  app.js:5170:    suburb: "Mount Torrens",
+  app.js:5171:    state: "SA",
+  app.js:5172:    nearestMajorCity: "Adelaide",
+  app.js:5173:    majorCityMinutes: 55,
+  app.js:5174:    price: null,
+  app.js:5175:    landSize: 498300,
+  app.js:5176:    beachfront: false,
+  app.js:5177:    noRoadFrontage: false,
+  app.js:5178:    directBeachAccess: false,
+  app.js:5179:    factors: ["Adelaide Hills rural land", "Panoramic Mount Lofty Ranges views", "Productive pasture", 
+"Dams and winter creek"],
+  app.js:5180:    status: "active",
+  app.js:5181:    notes: "Active realestate.com.au Mount Torrens land listing advertised as 49.83ha with 
+top-of-the-world Adelaide Hills views, mostly cleared rolling country, three reliable dams, a winter creek, productive 
+pasture and a 7ha hay cut. Price advertised as Contact Agent.",
+  app.js:5182:    image: "https://www.realestate.com.au/property-image/204401880/1",
+  app.js:5183:    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-mount%2Btorrens-204401880",
+> app.js:5184:    listingCategory: "large"
+  app.js:5185:  },
+  app.js:5186:  {
+  app.js:5187:    id: "sa-torrens-vale-18-mount-robinson",
+  app.js:5188:    title: "18 Mount Robinson Road",
+  app.js:5189:    suburb: "Torrens Vale",
+  app.js:5190:    state: "SA",
+  app.js:5191:    nearestMajorCity: "Adelaide",
+  app.js:5192:    majorCityMinutes: 75,
+  app.js:5193:    price: 3000000,
+  app.js:5194:    landSize: 694600,
+  app.js:5195:    beachfront: false,
+  app.js:5196:    noRoadFrontage: false,
+  app.js:5197:    directBeachAccess: false,
+  app.js:5198:    factors: ["Fleurieu Peninsula acreage", "Multiple guest dwellings", "Spring-fed dams and creeks", 
+"Water licence"],
+  app.js:5199:    status: "active",
+  app.js:5200:    notes: "Active realestate.com.au Torrens Vale acreage listing advertised as Agnes-Clara, a 69.46ha 
+Fleurieu Peninsula holding with a homestead, two self-contained units, shearers' quarters, 11 spring-fed dams, natural 
+creeks, fertile soils and a 58ML water licence. Price advertised as $3 Million plus.",
+  app.js:5201:    image: "https://www.realestate.com.au/property-image/147362884/1",
+  app.js:5202:    listingUrl: 
+"https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-torrens%2Bvale-147362884",
+> app.js:5203:    listingCategory: "large"
+  app.js:5204:  },
+  app.js:5205:  {
+  app.js:5206:    id: "sa-macclesfield-106b-cosgrove",
+  app.js:5207:    title: "106B Cosgrove Road",
+  app.js:5208:    suburb: "Macclesfield",
+  app.js:5209:    state: "SA",
+  app.js:5210:    nearestMajorCity: "Adelaide",
+  app.js:5211:    majorCityMinutes: 45,
+  app.js:5212:    listedDate: "2026-03-05",
+  app.js:5213:    price: 2650000,
+  app.js:5214:    landSize: 204800,
+  app.js:5215:    beachfront: false,
+  app.js:5216:    noRoadFrontage: false,
+  app.js:5217:    directBeachAccess: false,
+  app.js:5218:    factors: ["Adelaide Hills acreage", "Equine facilities", "Large private dam", "Bore and rainwater 
+storage"],
+  app.js:5219:    status: "active",
+  app.js:5220:    notes: "Active realestate.com.au Macclesfield acreage listing advertised as 20.48ha with dressage 
+and show-jumping arenas, four-stable complex, tack room, extensive shedding, a large dam, 12kW solar, domestic bore 
+and 290,000L rainwater storage. Price advertised at $2,650,000 - $2,950,000.",
+  app.js:5221:    image: "https://www.realestate.com.au/property-image/150422768/1",
+  app.js:5222:    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-macclesfield-150422768",
+> app.js:5223:    listingCategory: "large"
+  app.js:5224:  },
+  app.js:5225:  {
+  app.js:5226:    id: "sa-echunga-444-hawthorn",
+  app.js:5227:    title: "444 Hawthorn Road",
+  app.js:5228:    suburb: "Echunga",
+  app.js:5229:    state: "SA",
+  app.js:5230:    nearestMajorCity: "Adelaide",
+  app.js:5231:    majorCityMinutes: 35,
+  app.js:5232:    listedDate: "2026-04-08",
+  app.js:5233:    price: 4650000,
+  app.js:5234:    landSize: 324000,
+  app.js:5235:    beachfront: false,
+  app.js:5236:    noRoadFrontage: false,
+  app.js:5237:    directBeachAccess: false,
+  app.js:5238:    factors: ["Adelaide Hills prestige acreage", "Water licence and bore", "Equestrian infrastructure", 
+"Near Hahndorf and Mount Barker"],
+  app.js:5239:    status: "active",
+  app.js:5240:    notes: "Active realestate.com.au Echunga acreage listing for Lakecrest, advertised as 32.4ha of 
+country luxury with extensive garaging, 60m x 20m arena, paddocks, stables, 14ML water licence, bore, pool pavilion 
+and access to Hahndorf, Echunga and Mount Barker. Domain also showed a price guide of $4,650,000 - $5,100,000.",
+  app.js:5241:    image: "https://www.realestate.com.au/property-image/150821080/1",
+  app.js:5242:    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-echunga-150821080",
+> app.js:5243:    listingCategory: "large"
+  app.js:5244:  },
+  app.js:5245:  {
+  app.js:5246:    id: "sa-meadows-30-brookman",
+  app.js:5247:    title: "30 Brookman Road",
+  app.js:5248:    suburb: "Meadows",
+  app.js:5249:    state: "SA",
+  app.js:5250:    nearestMajorCity: "Adelaide",
+  app.js:5251:    majorCityMinutes: 50,
+  app.js:5252:    price: 2900000,
+  app.js:5253:    landSize: 218500,
+  app.js:5254:    beachfront: false,
+  app.js:5255:    noRoadFrontage: false,
+  app.js:5256:    directBeachAccess: false,
+  app.js:5257:    factors: ["Adelaide Hills acreage", "Established free-range egg business", "Water licence and 
+bores", "Income-producing rural infrastructure"],
+  app.js:5258:    status: "active",
+  app.js:5259:    notes: "Active realestate.com.au Meadows acreage listing advertised as 21.85ha with a substantial 
+rural residence, established free-range egg business producing about 14,000 eggs per week, 29kW solar, 18kW battery, 
+three bores, 26.5ML water licence and 600sqm sheds. Price advertised as offers over $2.9m.",
+  app.js:5260:    image: "https://www.realestate.com.au/property-image/150539224/1",
+  app.js:5261:    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-meadows-150539224",
+> app.js:5262:    listingCategory: "large"
+  app.js:5263:  },
+  app.js:5264:  {
+  app.js:5265:    id: "sa-ebenezer-1404-research",
+  app.js:5266:    title: "1404 Research Road",
+  app.js:5267:    suburb: "Ebenezer",
+  app.js:5268:    state: "SA",
+  app.js:5269:    nearestMajorCity: "Adelaide",
+  app.js:5270:    majorCityMinutes: 75,
+  app.js:5271:    listedDate: "2026-03-03",
+  app.js:5272:    price: null,
+  app.js:5273:    landSize: 475000,
+  app.js:5274:    beachfront: false,
+  app.js:5275:    noRoadFrontage: false,
+  app.js:5276:    directBeachAccess: false,
+  app.js:5277:    factors: ["Barossa vineyard", "River Murray water licence", "Dam storage", "Rental income"],
+  app.js:5278:    status: "active",
+  app.js:5279:    notes: "Active realestate.com.au Ebenezer viticulture listing advertised as 47.5ha across three 
+titles, with about 40ha of vineyard, 39ML dam capacity, 30ML River Murray water licence, 10ML Barossa Infrastructure 
+allocation, five frost fans and a rented three-bedroom home generating $420 per week. Price advertised as Contact 
+Agent.",
+  app.js:5280:    image: "https://www.realestate.com.au/property-image/700366960/1",
+  app.js:5281:    listingUrl: "https://www.realestate.com.au/property-viticulture-sa-ebenezer-700366960",
+> app.js:5282:    listingCategory: "large"
+  app.js:5283:  },
+  app.js:5284:  {
+  app.js:5285:    id: "sa-greenock-87-sir-condor",
+  app.js:5286:    title: "87 Sir Condor Laucke Way",
+  app.js:5287:    suburb: "Greenock",
+  app.js:5288:    state: "SA",
+  app.js:5289:    nearestMajorCity: "Adelaide",
+  app.js:5290:    majorCityMinutes: 70,
+  app.js:5291:    price: null,
+  app.js:5292:    landSize: 869000,
+  app.js:5293:    beachfront: false,
+  app.js:5294:    noRoadFrontage: false,
+  app.js:5295:    directBeachAccess: false,
+  app.js:5296:    factors: ["Barossa wine estate", "Turnkey winery", "Cellar door", "Large vineyard landholding"],
+  app.js:5297:    status: "active",
+  app.js:5298:    notes: "Active realestate.com.au Greenock viticulture listing for Murray Street Vineyards, 
+advertised as an 86.9ha Barossa estate with 56ha under production, a modern winery, cellar door, established brand and 
+14 grape varieties. Price advertised as Contact Agent.",
+  app.js:5299:    image: "https://www.realestate.com.au/property-image/700365896/1",
+  app.js:5300:    listingUrl: "https://www.realestate.com.au/property-viticulture-sa-greenock-700365896",
+> app.js:5301:    listingCategory: "large"
+  app.js:5302:  },
+  app.js:5303:  {
+  app.js:5304:    id: "sa-keyneton-66-mount-eagle",
+  app.js:5305:    title: "66 Mount Eagle Road",
+  app.js:5306:    suburb: "Keyneton",
+  app.js:5307:    state: "SA",
+  app.js:5308:    nearestMajorCity: "Adelaide",
+  app.js:5309:    majorCityMinutes: 75,
+  app.js:5310:    price: 2000000,
+  app.js:5311:    landSize: 648000,
+  app.js:5312:    beachfront: false,
+  app.js:5313:    noRoadFrontage: false,
+  app.js:5314:    directBeachAccess: false,
+  app.js:5315:    factors: ["Barossa lifestyle acreage", "Two titles", "B&B potential STCC", "Dams and creek 
+frontage"],
+  app.js:5316:    status: "active",
+  app.js:5317:    notes: "Active realestate.com.au Keyneton lifestyle listing advertised as 64.8ha minutes to 
+Angaston, with a stone cottage, 22 paddocks, interconnecting races, fenced creek, three dams, two separate titles and 
+potential bed-and-breakfast use subject to consent. Price advertised at $2,000,000 - $2,100,000.",
+  app.js:5318:    image: "https://www.realestate.com.au/property-image/700371124/1",
+  app.js:5319:    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-keyneton-700371124",
+> app.js:5320:    listingCategory: "large"
+  app.js:5321:  },
+  app.js:5322:  {
+  app.js:5323:    id: "sa-eden-valley-section-143-kempe",
+  app.js:5324:    title: "Section 143 Kempe Road",
+  app.js:5325:    suburb: "Eden Valley",
+  app.js:5326:    state: "SA",
+  app.js:5327:    nearestMajorCity: "Adelaide",
+  app.js:5328:    majorCityMinutes: 80,
+  app.js:5329:    price: 1550000,
+  app.js:5330:    landSize: 736500,
+  app.js:5331:    beachfront: false,
+  app.js:5332:    noRoadFrontage: false,
+  app.js:5333:    directBeachAccess: false,
+  app.js:5334:    factors: ["Eden Valley mixed farming", "Build site STCC", "Water licences", "Vineyard and arable 
+land"],
+  app.js:5335:    status: "active",
+  app.js:5336:    notes: "Active realestate.com.au Eden Valley mixed-farming listing advertised as 73.65ha with about 
+62.6ha arable, 2.6ha Cabernet Sauvignon vineyard, 24ML catchment dam, 5ML turkey nest dam, trough pipeline, surface 
+water, groundwater and watercourse licences, and an opportunity to build a home STCC. Price advertised as $1,550,000 - 
+Price Reduced.",
+  app.js:5337:    image: "https://www.realestate.com.au/property-image/700376424/1",
+  app.js:5338:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-eden%2Bvalley-700376424",
+> app.js:5339:    listingCategory: "large"
+  app.js:5340:  },
+  app.js:5341:  {
+  app.js:5342:    id: "sa-eden-valley-lot-4-jutland",
+  app.js:5343:    title: "Lot 4 Jutland Road",
+  app.js:5344:    suburb: "Eden Valley",
+  app.js:5345:    state: "SA",
+  app.js:5346:    nearestMajorCity: "Adelaide",
+  app.js:5347:    majorCityMinutes: 80,
+  app.js:5348:    price: 720000,
+  app.js:5349:    landSize: 634300,
+  app.js:5350:    beachfront: false,
+  app.js:5351:    noRoadFrontage: false,
+  app.js:5352:    directBeachAccess: false,
+  app.js:5353:    factors: ["Rural-zoned acreage", "Elevated valley views", "Build potential STCC", "Off-grid 
+lifestyle"],
+  app.js:5354:    status: "active",
+  app.js:5355:    notes: "Active realestate.com.au Eden Valley rural listing advertised as 63.43ha in the Barossa 
+council area, zoned rural, with ridgeline building sites, valley views, good fencing, road access and proximity to 
+Eden Valley township, Angaston, Tanunda and Nuriootpa. Price advertised at $720,000 - $750,000.",
+  app.js:5356:    image: "https://www.realestate.com.au/property-image/700366508/1",
+  app.js:5357:    listingUrl: "https://www.realestate.com.au/property-other-sa-eden%2Bvalley-700366508",
+> app.js:5358:    listingCategory: "large"
+  app.js:5359:  },
+  app.js:5360:  {
+  app.js:5361:    id: "sa-eden-valley-3-keyneton",
+  app.js:5362:    title: "3 Keyneton Road",
+  app.js:5363:    suburb: "Eden Valley",
+  app.js:5364:    state: "SA",
+  app.js:5365:    nearestMajorCity: "Adelaide",
+  app.js:5366:    majorCityMinutes: 80,
+  app.js:5367:    price: 1500000,
+  app.js:5368:    landSize: 591400,
+  app.js:5369:    beachfront: false,
+  app.js:5370:    noRoadFrontage: false,
+  app.js:5371:    directBeachAccess: false,
+  app.js:5372:    factors: ["Vineyard income potential", "Grazing land", "48.9ML water licence", "Bitumen road 
+frontage"],
+  app.js:5373:    status: "active",
+  app.js:5374:    notes: "Active realestate.com.au Eden Valley lifestyle listing advertised as 59.14ha with 42ha 
+suited to grazing or cropping, 17.14ha vineyard, potential grape supply agreement, 48.9ML water licence from dams and 
+bore, SA Water connection, 360sqm implement shed, 108kW solar and build potential STCC. Price advertised as offers 
+considered above $1,500,000.",
+  app.js:5375:    image: "https://www.realestate.com.au/property-image/700364776/1",
+  app.js:5376:    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-eden%2Bvalley-700364776",
+> app.js:5377:    listingCategory: "large"
+  app.js:5378:  },
+  app.js:5379:  {
+  app.js:5380:    id: "sa-lyndoch-296-rosedale",
+  app.js:5381:    title: "296 Rosedale Scenic Road",
+  app.js:5382:    suburb: "Lyndoch",
+  app.js:5383:    state: "SA",
+  app.js:5384:    nearestMajorCity: "Adelaide",
+  app.js:5385:    majorCityMinutes: 60,
+  app.js:5386:    price: 1995000,
+  app.js:5387:    landSize: 255600,
+  app.js:5388:    beachfront: false,
+  app.js:5389:    noRoadFrontage: false,
+  app.js:5390:    directBeachAccess: false,
+  app.js:5391:    factors: ["Barossa vineyard", "Major winery grape contracts", "BIL water entitlements", 
+"Sea-to-hills views"],
+  app.js:5392:    status: "active",
+  app.js:5393:    notes: "Active realestate.com.au Lyndoch lifestyle listing advertised as 25.56ha with sweeping 
+300-degree views, 15.51ha of vineyard contracted to a major Barossa Valley winery, BIL water entitlements, dam, bore 
+and long-running organic vineyard practices. Price advertised as offers over $1,995,000 - Price Reduced.",
+  app.js:5394:    image: "https://www.realestate.com.au/property-image/700337652/1",
+  app.js:5395:    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-lyndoch-700337652",
+> app.js:5396:    listingCategory: "large"
+  app.js:5397:  },
+  app.js:5398:  {
+  app.js:5399:    id: "sa-eden-valley-lot-103-jutland",
+  app.js:5400:    title: "Lot 103 Jutland Road",
+  app.js:5401:    suburb: "Eden Valley",
+  app.js:5402:    state: "SA",
+  app.js:5403:    nearestMajorCity: "Adelaide",
+  app.js:5404:    majorCityMinutes: 85,
+  app.js:5405:    listedDate: "2025-08-19",
+  app.js:5406:    price: 595000,
+  app.js:5407:    landSize: 323800,
+  app.js:5408:    beachfront: false,
+  app.js:5409:    noRoadFrontage: false,
+  app.js:5410:    directBeachAccess: false,
+  app.js:5411:    factors: ["Off-grid acreage", "360-degree views", "Dark Sky Reserve", "Lifestyle build potential"],
+  app.js:5412:    status: "active",
+  app.js:5413:    notes: "Active realestate.com.au Eden Valley lifestyle listing advertised as about 32.38ha / 80 
+acres on rolling hills, with uninterrupted 360-degree views, borrowed gorge outlooks, Dark Sky Reserve setting and 
+off-grid lifestyle appeal. Price advertised at $595,000 - $645,000.",
+  app.js:5414:    image: "https://www.realestate.com.au/property-image/700370664/1",
+  app.js:5415:    listingUrl: "https://www.realestate.com.au/property-lifestyle-sa-eden%2Bvalley-700370664",
+> app.js:5416:    listingCategory: "large"
+  app.js:5417:  },
+  app.js:5418:  {
+  app.js:5419:    id: "sa-clare-659a-spring-gully",
+  app.js:5420:    title: "659A Spring Gully Road",
+  app.js:5421:    suburb: "Clare",
+  app.js:5422:    state: "SA",
+  app.js:5423:    nearestMajorCity: "Adelaide",
+  app.js:5424:    majorCityMinutes: 115,
+  app.js:5425:    price: null,
+  app.js:5426:    landSize: 267700,
+  app.js:5427:    beachfront: false,
+  app.js:5428:    noRoadFrontage: false,
+  app.js:5429:    directBeachAccess: false,
+  app.js:5430:    factors: ["Clare Valley vineyard", "Water licence", "Frost-free elevation", "Premium grape 
+varieties"],
+  app.js:5431:    status: "active",
+  app.js:5432:    notes: "Active realestate.com.au Clare viticulture listing advertised as 26.77ha with 19.46ha of 
+vineyard planted to Shiraz, Cabernet Sauvignon, Riesling, Sangiovese, Malbec and Merlot, plus a 23,455kL water licence 
+and elevated frost-free position. Price advertised as Contact Agent.",
+  app.js:5433:    image: "https://www.realestate.com.au/property-image/700282168/1",
+  app.js:5434:    listingUrl: "https://www.realestate.com.au/property-viticulture-sa-clare-700282168",
+> app.js:5435:    listingCategory: "large"
+  app.js:5436:  },
+  app.js:5437:  {
+  app.js:5438:    id: "sa-mintaro-59-smith",
+  app.js:5439:    title: "59 Smith Road",
+  app.js:5440:    suburb: "Mintaro",
+  app.js:5441:    state: "SA",
+  app.js:5442:    nearestMajorCity: "Adelaide",
+  app.js:5443:    majorCityMinutes: 105,
+  app.js:5444:    price: 2990000,
+  app.js:5445:    landSize: 295000,
+  app.js:5446:    beachfront: false,
+  app.js:5447:    noRoadFrontage: false,
+  app.js:5448:    directBeachAccess: false,
+  app.js:5449:    factors: ["Historic Clare Valley estate", "Grazing and cropping land", "Accommodation upside", "Near 
+Mintaro and Clare"],
+  app.js:5450:    status: "active",
+  app.js:5451:    notes: "Active realestate.com.au Mintaro listing for Ashmore Homestead, advertised as a restored 
+circa-1880 estate on 29.5ha / 73 acres of grazing and cropping land, with independent studio rooms, pool, gardens, 
+entertaining spaces and potential Airbnb use. Price advertised at $2,990,000.",
+  app.js:5452:    image: "https://www.realestate.com.au/property-image/700339492/1",
+  app.js:5453:    listingUrl: "https://www.realestate.com.au/property-other-sa-mintaro-700339492",
+> app.js:5454:    listingCategory: "large"
+  app.js:5455:  },
+  app.js:5456:  {
+  app.js:5457:    id: "sa-whites-flat-251-reservoir",
+  app.js:5458:    title: "251 Reservoir Drive",
+  app.js:5459:    suburb: "Whites Flat",
+  app.js:5460:    state: "SA",
+  app.js:5461:    nearestMajorCity: "Adelaide",
+  app.js:5462:    majorCityMinutes: 430,
+  app.js:5463:    listedDate: "2025-11-24",
+  app.js:5464:    price: 2450000,
+  app.js:5465:    landSize: 2418800,
+  app.js:5466:    beachfront: false,
+  app.js:5467:    noRoadFrontage: false,
+  app.js:5468:    directBeachAccess: false,
+  app.js:5469:    factors: ["Lower Eyre Peninsula mixed farming", "Reliable rainfall zone", "Spring and dam water", 
+"Port Lincoln access"],
+  app.js:5470:    status: "active",
+  app.js:5471:    notes: "Active realestate.com.au mixed-farming listing for Ashton View, advertised as 241.88ha about 
+30km north of Port Lincoln and 35km south of Cummins, with about 161.8ha cleared and arable, grazing/native vegetation 
+balance, dams in most paddocks, spring-fed water, sheds, shearing shed, cattle yards and 485mm average rainfall. Price 
+advertised at $2,400,000 - $2,500,000.",
+  app.js:5472:    image: "https://www.realestate.com.au/property-image/700387288/1",
+  app.js:5473:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-whites%2Bflat-700387288",
+> app.js:5474:    listingCategory: "large"
+  app.js:5475:  },
+  app.js:5476:  {
+  app.js:5477:    id: "sa-poochera-lot-29-eyre-highway",
+  app.js:5478:    title: "Lot 29 Eyre Highway Road",
+  app.js:5479:    suburb: "Poochera",
+  app.js:5480:    state: "SA",
+  app.js:5481:    nearestMajorCity: "Adelaide",
+  app.js:5482:    majorCityMinutes: 575,
+  app.js:5483:    listedDate: "2026-02-20",
+  app.js:5484:    price: 520000,
+  app.js:5485:    landSize: 6481000,
+  app.js:5486:    beachfront: false,
+  app.js:5487:    noRoadFrontage: false,
+  app.js:5488:    directBeachAccess: false,
+  app.js:5489:    factors: ["Western Eyre Peninsula mixed farming", "Eyre Highway frontage", "382ha arable", "Water 
+meters and sheep yards"],
+  app.js:5490:    status: "active",
+  app.js:5491:    notes: "Active realestate.com.au mixed-farming listing advertised as 648.1ha minutes north of 
+Poochera on the Eyre Highway, with about 382ha cleared and arable for cropping, one large paddock, two water meters, 
+sheep yards, medic-based pastures and wheat/barley plus sheep-grazing suitability. Price advertised at $520,000.",
+  app.js:5492:    image: "https://www.realestate.com.au/property-image/700397132/1",
+  app.js:5493:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-poochera-700397132",
+> app.js:5494:    listingCategory: "large"
+  app.js:5495:  },
+  app.js:5496:  {
+  app.js:5497:    id: "sa-port-neill-section-82-chilmans",
+  app.js:5498:    title: "Section 82 Chilmans Road",
+  app.js:5499:    suburb: "Port Neill",
+  app.js:5500:    state: "SA",
+  app.js:5501:    nearestMajorCity: "Adelaide",
+  app.js:5502:    majorCityMinutes: 455,
+  app.js:5503:    price: 925500,
+  app.js:5504:    landSize: 2962000,
+  app.js:5505:    beachfront: false,
+  app.js:5506:    noRoadFrontage: false,
+  app.js:5507:    directBeachAccess: false,
+  app.js:5508:    factors: ["Eastern Eyre Peninsula farming", "Near Port Neill coast", "249.7ha arable", "Mains water 
+connected"],
+  app.js:5509:    status: "active",
+  app.js:5510:    notes: "Active realestate.com.au listing for North Ridge, advertised as 296.2ha minutes from Port 
+Neill on the east coast of the Eyre Peninsula, with about 249.7ha arable cropping area, barley and grazing history, 
+three paddocks, mains water to troughs and future land-development potential through accessible clay depth. Price 
+advertised at $925,500.",
+  app.js:5511:    image: "https://www.realestate.com.au/property-image/700256172/1",
+  app.js:5512:    listingUrl: "https://www.realestate.com.au/property-other-sa-port%2Bneill-700256172",
+> app.js:5513:    listingCategory: "large"
+  app.js:5514:  },
+  app.js:5515:  {
+  app.js:5516:    id: "sa-cleve-1446-carpa",
+  app.js:5517:    title: "1446 Carpa Road",
+  app.js:5518:    suburb: "Cleve",
+  app.js:5519:    state: "SA",
+  app.js:5520:    nearestMajorCity: "Adelaide",
+  app.js:5521:    majorCityMinutes: 455,
+  app.js:5522:    price: null,
+  app.js:5523:    landSize: 4411000,
+  app.js:5524:    beachfront: false,
+  app.js:5525:    noRoadFrontage: false,
+  app.js:5526:    directBeachAccess: false,
+  app.js:5527:    factors: ["Central Eyre Peninsula cropping", "Near Cleve and Arno Bay Road", "Mains water meters", 
+"Shedding and power"],
+  app.js:5528:    status: "active",
+  app.js:5529:    notes: "Active realestate.com.au mixed-farming listing for Leonards Carpa, advertised as 441.1ha 
+about 6.5km south of Cleve and 9.5km east on Carpa Road, suited to mixed farming or continuous cropping, with 
+sandy-loam soils, two mains water meters, troughs, mains electrical meter, workshop and shearing shed. Price 
+advertised as Contact Agent.",
+  app.js:5530:    image: "https://www.realestate.com.au/property-image/700282068/1",
+  app.js:5531:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-cleve-700282068",
+> app.js:5532:    listingCategory: "large"
+  app.js:5533:  },
+  app.js:5534:  {
+  app.js:5535:    id: "sa-kelly-lot-50-old-cleve",
+  app.js:5536:    title: "Lot 50 Old Cleve Rd Kelly",
+  app.js:5537:    suburb: "Kelly",
+  app.js:5538:    state: "SA",
+  app.js:5539:    nearestMajorCity: "Adelaide",
+  app.js:5540:    majorCityMinutes: 445,
+  app.js:5541:    daysOnMarket: 3,
+  app.js:5542:    price: 1450000,
+  app.js:5543:    landSize: 6643000,
+  app.js:5544:    beachfront: false,
+  app.js:5545:    noRoadFrontage: false,
+  app.js:5546:    directBeachAccess: false,
+  app.js:5547:    factors: ["Kimba/Cleve cropping and grazing", "630.69ha arable", "Soil amelioration", "Mains water 
+and grain storage"],
+  app.js:5548:    status: "active",
+  app.js:5549:    notes: "Active realestate.com.au mixed-farming listing advertised as 664.3ha at Lot 50 Old Cleve 
+Road, Kelly, with about 630.69ha arable, extensive delving/ripping/clay-spreading/smudging, eight paddocks, mains 
+water plus two dams, implement shed, fertiliser shed and grain silos. Price advertised at $1,450,000.",
+  app.js:5550:    image: "https://www.realestate.com.au/property-image/700335108/1",
+  app.js:5551:    listingUrl: "https://www.realestate.com.au/700335108",
+> app.js:5552:    listingCategory: "large"
+  app.js:5553:  },
+  app.js:5554:  {
+  app.js:5555:    id: "sa-murlong-2351-murdinga-murlong",
+  app.js:5556:    title: "2351 Murdinga-Murlong Rd",
+  app.js:5557:    suburb: "Murlong",
+  app.js:5558:    state: "SA",
+  app.js:5559:    nearestMajorCity: "Adelaide",
+  app.js:5560:    majorCityMinutes: 500,
+  app.js:5561:    price: null,
+  app.js:5562:    landSize: 9995700,
+  app.js:5563:    beachfront: false,
+  app.js:5564:    noRoadFrontage: false,
+  app.js:5565:    directBeachAccess: false,
+  app.js:5566:    factors: ["Eyre Peninsula scale", "Mixed farming income", "Mains water to paddocks", "Residence and 
+shearing infrastructure"],
+  app.js:5567:    status: "active",
+  app.js:5568:    notes: "Active realestate.com.au mixed-farming listing for Chayilmen, advertised as 999.57ha about 
+24km southeast of Lock and 28km west of Rudall, with a cropping rotation and sheep-breeding operation, renewed 
+fencing, SA Water mains to 11 paddocks, delving works, a three-bedroom residence, machinery shed, implement shed, 
+super shed, shearing shed and sheep yards. Campaign advertised as For Sale by Expressions of Interest.",
+  app.js:5569:    image: "https://www.realestate.com.au/property-image/700275072/1",
+  app.js:5570:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-sa-murlong-700275072",
+> app.js:5571:    listingCategory: "large"
+  app.js:5572:  },
+  app.js:5573:  {
+  app.js:5574:    id: "wa-cowaramup-227-fifty-one",
+  app.js:5575:    title: "227 Fifty One Road",
+  app.js:5576:    suburb: "Cowaramup",
+  app.js:5577:    state: "WA",
+  app.js:5578:    nearestMajorCity: "Perth",
+  app.js:5579:    majorCityMinutes: 180,
+  app.js:5580:    price: 3800000,
+  app.js:5581:    landSize: 255500,
+  app.js:5582:    beachfront: false,
+  app.js:5583:    noRoadFrontage: false,
+  app.js:5584:    directBeachAccess: false,
+  app.js:5585:    factors: ["Margaret River wine region", "Certified organic vineyard", "Approved brewery plan", "Dual 
+dwellings and income"],
+  app.js:5586:    status: "active",
+  app.js:5587:    notes: "Active realestate.com.au Cowaramup lifestyle listing advertised as 25.55ha between Cowaramup 
+and the coast, with two dwellings, leased cottage income, creek line, three dams, established 7.68ha certified organic 
+vineyard, winery shed and approved brewery development plan. Price advertised as offers from $3.8 million.",
+  app.js:5588:    image: "https://www.realestate.com.au/property-image/700358140/1",
+  app.js:5589:    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-cowaramup-700358140",
+> app.js:5590:    listingCategory: "large"
+  app.js:5591:  },
+  app.js:5592:  {
+  app.js:5593:    id: "wa-southampton-1192-balingup-nannup",
+  app.js:5594:    title: "1192 Balingup-Nannup Road",
+  app.js:5595:    suburb: "Southampton",
+  app.js:5596:    state: "WA",
+  app.js:5597:    nearestMajorCity: "Perth",
+  app.js:5598:    majorCityMinutes: 210,
+  app.js:5599:    price: 1650000,
+  app.js:5600:    landSize: 213000,
+  app.js:5601:    beachfront: false,
+  app.js:5602:    noRoadFrontage: false,
+  app.js:5603:    directBeachAccess: false,
+  app.js:5604:    factors: ["Blackwood River Valley", "Four dwellings", "Short-stay or retreat income", "Balingup 
+Brook frontage"],
+  app.js:5605:    status: "active",
+  app.js:5606:    notes: "Active realestate.com.au Southampton lifestyle listing advertised as a 21.3ha rural retreat 
+with a main residence plus three chalets, solar, rainwater tanks, machinery shed, fertile soil and Balingup Brook 
+through the property. Positioned as a multi-generational or turnkey short-stay business opportunity. Price advertised 
+from $1.65 million.",
+  app.js:5607:    image: "https://www.realestate.com.au/property-image/700367944/1",
+  app.js:5608:    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-southampton-700367944",
+> app.js:5609:    listingCategory: "large"
+  app.js:5610:  },
+  app.js:5611:  {
+  app.js:5612:    id: "wa-wilga-4254-donnybrook-boyup",
+  app.js:5613:    title: "4254 Donnybrook-Boyup Brook Road",
+  app.js:5614:    suburb: "Wilga",
+  app.js:5615:    state: "WA",
+  app.js:5616:    nearestMajorCity: "Perth",
+  app.js:5617:    majorCityMinutes: 210,
+  app.js:5618:    listedDate: "2026-05-07",
+  app.js:5619:    price: 2400000,
+  app.js:5620:    landSize: 808900,
+  app.js:5621:    beachfront: false,
+  app.js:5622:    noRoadFrontage: false,
+  app.js:5623:    directBeachAccess: false,
+  app.js:5624:    factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", 
+"Three dams and soak"],
+  app.js:5625:    status: "active",
+  app.js:5626:    notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha 
+forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate 
+self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price 
+advertised as offers from $2.4 million.",
+  app.js:5627:    image: "https://www.realestate.com.au/property-image/700398960/1",
+  app.js:5628:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
+> app.js:5629:    listingCategory: "large"
+  app.js:5630:  },
+  app.js:5631:  {
+  app.js:5632:    id: "wa-northcliffe-701-double-bridge",
+  app.js:5633:    title: "701 Double Bridge Road",
+  app.js:5634:    suburb: "Northcliffe",
+  app.js:5635:    state: "WA",
+  app.js:5636:    nearestMajorCity: "Perth",
+  app.js:5637:    majorCityMinutes: 280,
+  app.js:5638:    price: 1250000,
+  app.js:5639:    landSize: 429000,
+  app.js:5640:    beachfront: false,
+  app.js:5641:    noRoadFrontage: false,
+  app.js:5642:    directBeachAccess: false,
+  app.js:5643:    factors: ["Borders national park", "Off-grid lifestyle", "Second house site", "Creeks, dam and water 
+storage"],
+  app.js:5644:    status: "active",
+  app.js:5645:    notes: "Active realestate.com.au Northcliffe lifestyle listing advertised as 42.9ha bordered on 
+three sides by D'Entrecasteaux National Park, with private park access, off-grid solar, more than 120,000L water 
+storage, dam, four winter creeks, powered sheds and a second house site. Price advertised from $1.25 million.",
+  app.js:5646:    image: "https://www.realestate.com.au/property-image/700370624/1",
+  app.js:5647:    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-northcliffe-700370624",
+> app.js:5648:    listingCategory: "large"
+  app.js:5649:  },
+  app.js:5650:  {
+  app.js:5651:    id: "wa-roelands-lot-25-coalfields",
+  app.js:5652:    title: "Lot 25 Coalfields Highway",
+  app.js:5653:    suburb: "Roelands",
+  app.js:5654:    state: "WA",
+  app.js:5655:    nearestMajorCity: "Perth",
+  app.js:5656:    majorCityMinutes: 120,
+  app.js:5657:    price: 2800000,
+  app.js:5658:    landSize: 1978000,
+  app.js:5659:    beachfront: false,
+  app.js:5660:    noRoadFrontage: false,
+  app.js:5661:    directBeachAccess: false,
+  app.js:5662:    factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
+  app.js:5663:    status: "active",
+  app.js:5664:    notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive 
+grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek 
+water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
+  app.js:5665:    image: "https://www.realestate.com.au/property-image/700381768/1",
+  app.js:5666:    listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
+> app.js:5667:    listingCategory: "large"
+  app.js:5668:  },
+  app.js:5669:  {
+  app.js:5670:    id: "wa-cowaramup-8772-bussell",
+  app.js:5671:    title: "8772 Bussell Highway",
+  app.js:5672:    suburb: "Cowaramup",
+  app.js:5673:    state: "WA",
+  app.js:5674:    nearestMajorCity: "Perth",
+  app.js:5675:    majorCityMinutes: 180,
+  app.js:5676:    price: null,
+  app.js:5677:    landSize: 340100,
+  app.js:5678:    beachfront: false,
+  app.js:5679:    noRoadFrontage: false,
+  app.js:5680:    directBeachAccess: false,
+  app.js:5681:    factors: ["Bussell Highway exposure", "Established vineyard", "Cellar door and events venue", 
+"Tourism accommodation"],
+  app.js:5682:    status: "active",
+  app.js:5683:    notes: "Active realestate.com.au Cowaramup viticulture listing for Adinfern Estate, advertised as 
+34.01ha in the Margaret River wine region with 16.9ha under vine, homestead, cellar door and function centre, two 
+chalets, sheds and strong wine tourism exposure. Price advertised as Contact Agent.",
+  app.js:5684:    image: "https://www.realestate.com.au/property-image/700374176/1",
+  app.js:5685:    listingUrl: "https://www.realestate.com.au/property-viticulture-wa-cowaramup-700374176",
+> app.js:5686:    listingCategory: "large"
+  app.js:5687:  },
+  app.js:5688:  {
+  app.js:5689:    id: "wa-kaloorup-1086-kaloorup",
+  app.js:5690:    title: "1086 Kaloorup Road",
+  app.js:5691:    suburb: "Kaloorup",
+  app.js:5692:    state: "WA",
+  app.js:5693:    nearestMajorCity: "Perth",
+  app.js:5694:    majorCityMinutes: 160,
+  app.js:5695:    price: null,
+  app.js:5696:    landSize: 441800,
+  app.js:5697:    beachfront: false,
+  app.js:5698:    noRoadFrontage: false,
+  app.js:5699:    directBeachAccess: false,
+  app.js:5700:    factors: ["Blue-chip agricultural region", "Commercial avocado orchard", "Spring-fed dam", 
+"Export-approved infrastructure"],
+  app.js:5701:    status: "active",
+  app.js:5702:    notes: "Active realestate.com.au Kaloorup rural listing advertised as a 44.18ha turn-key avocado 
+operation with about 20ha planted, a 300m spring-fed dam, MAIT irrigation, backup pumps, 45m x 10.5m shed, loading 
+zone and cattle yards. Price advertised as offers.",
+  app.js:5703:    image: "https://www.realestate.com.au/property-image/700394936/1",
+  app.js:5704:    listingUrl: "https://www.realestate.com.au/property-other-wa-kaloorup-700394936",
+> app.js:5705:    listingCategory: "large"
+  app.js:5706:  },
+  app.js:5707:  {
+  app.js:5708:    id: "wa-rosa-brook-2210-jindong-treeton",
+  app.js:5709:    title: "2210 Jindong-Treeton Road",
+  app.js:5710:    suburb: "Rosa Brook",
+  app.js:5711:    state: "WA",
+  app.js:5712:    nearestMajorCity: "Perth",
+  app.js:5713:    majorCityMinutes: 190,
+  app.js:5714:    price: null,
+  app.js:5715:    landSize: 300100,
+  app.js:5716:    beachfront: false,
+  app.js:5717:    noRoadFrontage: false,
+  app.js:5718:    directBeachAccess: false,
+  app.js:5719:    factors: ["Margaret River access", "Self-contained chalet income", "Extensive shed infrastructure", 
+"Dam and paddocks"],
+  app.js:5720:    status: "active",
+  app.js:5721:    notes: "Active realestate.com.au Rosa Brook lifestyle listing advertised as 30.01ha about 16 minutes 
+from Margaret River and 30 minutes from Busselton, with a 2023 self-contained chalet, pool and outdoor entertaining, 
+19m x 10m insulated shed, 3-phase power, seven paddocks and a dam. Price advertised as Make an Offer.",
+  app.js:5722:    image: "https://www.realestate.com.au/property-image/700389872/1",
+  app.js:5723:    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-rosa%2Bbrook-700389872",
+> app.js:5724:    listingCategory: "large"
+  app.js:5725:  },
+  app.js:5726:  {
+  app.js:5727:    id: "wa-boyup-brook-dp426021-bridgetown-boyup",
+  app.js:5728:    title: "1 on DP 426021, Bridgetown - Boyup Brook Road",
+  app.js:5729:    suburb: "Boyup Brook",
+  app.js:5730:    state: "WA",
+  app.js:5731:    nearestMajorCity: "Perth",
+  app.js:5732:    majorCityMinutes: 200,
+  app.js:5733:    price: 2495000,
+  app.js:5734:    landSize: 980000,
+  app.js:5735:    beachfront: false,
+  app.js:5736:    noRoadFrontage: false,
+  app.js:5737:    directBeachAccess: false,
+  app.js:5738:    factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", 
+"Cropping and grazing upside"],
+  app.js:5739:    status: "active",
+  app.js:5740:    notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding 
+close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 
+acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
+  app.js:5741:    image: "https://www.realestate.com.au/property-image/700393016/1",
+  app.js:5742:    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
+> app.js:5743:    listingCategory: "large"
+  app.js:5744:  },
+  app.js:5745:  {
+  app.js:5746:    id: "wa-nannup-7953-brockman",
+  app.js:5747:    title: "7953 Brockman Highway",
+  app.js:5748:    suburb: "Nannup",
+  app.js:5749:    state: "WA",
+  app.js:5750:    nearestMajorCity: "Perth",
+  app.js:5751:    majorCityMinutes: 200,
+  app.js:5752:    price: null,
+  app.js:5753:    landSize: 522000,
+  app.js:5754:    beachfront: false,
+  app.js:5755:    noRoadFrontage: false,
+  app.js:5756:    directBeachAccess: false,
+  app.js:5757:    factors: ["Nannup lifestyle acreage", "Separate parcel with subdivision history", "Dual furnished 
+dwellings", "Commercial-grade shed"],
+  app.js:5758:    status: "active",
+  app.js:5759:    notes: "Active realestate.com.au Nannup lifestyle listing advertised as a 52.2ha holding with a 
+separate 10-acre parcel carrying historical subdivision approval, dual furnished dwellings and a high-clearance 
+commercial-grade shed for machinery, enterprise or studio use. Price advertised as Contact Agent.",
+  app.js:5760:    image: "https://www.realestate.com.au/property-image/700396804/1",
+  app.js:5761:    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-nannup-700396804",
+> app.js:5762:    listingCategory: "large"
+  app.js:5763:  },
+  app.js:5764:  {
+  app.js:5765:    id: "wa-geraldton-11-forrest",
+  app.js:5766:    title: "11 Forrest Street",
+  app.js:5767:    suburb: "Geraldton",
+  app.js:5768:    state: "WA",
+
+
+
+web search: 
+web search: site:realestate.com.au/property-lifestyle-wa South West WA 20ha lifestyle acreage for sale realestate 2026
+web search: 
+web search: "13057 Bussell Highway" Kudardup realestate.com.au 105.7ha
+web search: 
