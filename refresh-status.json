@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Mackay, QLD; 10/10 possible listings found...",
-  "searchArea": "Mackay, QLD",
-  "searchAreaPosition": 77,
+  "message": "Verifying candidates in Blacks Beach, QLD; 10/10 possible listings found...",
+  "searchArea": "Blacks Beach, QLD",
+  "searchAreaPosition": 79,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Mackay, QLD",
-  "nextAutoRefreshAt": "2026-05-11T01:50:05.264Z",
-  "updatedAt": "2026-05-11T01:50:42.731Z"
+  "nextSearchArea": "Blacks Beach, QLD",
+  "nextAutoRefreshAt": "2026-05-11T02:02:38.998Z",
+  "updatedAt": "2026-05-11T02:01:17.269Z"
 }
