@@ -1,0 +1,2 @@
+title,suburb,state,nearestMajorCity,majorCityMinutes,daysOnMarket,listedDate,price,landSize,beachfront,noRoadFrontage,directBeachAccess,factors,status,notes,image,listingUrl,searchUrl
+Example absolute beachfront block,Yamba,NSW,Gold Coast,120,18,,1650000,910,true,true,true,"No road|Direct sand access|Ocean views",active,"Replace this row with a live listing or agent export. Put the exact property page in listingUrl.","","https://www.example.com/exact-property-page","https://www.domain.com.au/sale/yamba-nsw-2464/"

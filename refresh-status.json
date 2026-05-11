@@ -1,0 +1,13 @@
+{
+  "state": "running",
+  "mode": "auto",
+  "message": "Verifying candidates in Sunset Beach, WA; 10/10 possible listings found...",
+  "searchArea": "Sunset Beach, WA",
+  "searchAreaPosition": 76,
+  "searchAreaTotal": 170,
+  "searchDurationMinutes": 2,
+  "searchPriority": false,
+  "nextSearchArea": "Sunset Beach, WA",
+  "nextAutoRefreshAt": "2026-05-11T01:46:41.766Z",
+  "updatedAt": "2026-05-11T01:46:41.405Z"
+}

@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Property X Factors Australia</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Australia beachfront search</p>
+      <div class="brand-row">
+        <h1>Property X Factors</h1>
+        <div class="mode-toggle" aria-label="Search mode">
+          <button id="beachModeButton" class="mode-button active" type="button">Beach Properties</button>
+          <button id="largeModeButton" class="mode-button" type="button">Large Properties</button>
+        </div>
+      </div>
+    </div>
+    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">Dark mode</button>
+    <div class="actions">
+      <div class="refresh-status" aria-live="polite">
+        <span id="refreshLabel">Next auto check</span>
+        <strong id="refreshTimer">05:00</strong>
+        <button id="reloadButton" class="icon-button" type="button" title="Search for new listings now">Search now</button>
+        <button id="saSearchButton" class="icon-button" type="button" title="Search SA coast near Adelaide">SA search</button>
+      </div>
+      <div class="view-tabs" aria-label="Property view">
+        <button id="allViewButton" class="view-tab active" type="button">All properties</button>
+        <button id="favouritesViewButton" class="view-tab" type="button">Favourites <span id="favouriteCount">0</span></button>
+        <button id="starPropertiesButton" class="view-tab" type="button">AI Picks <span id="starCount">0</span></button>
+      </div>
+      <button id="exportButton" type="button">Export favourites</button>
+      <button id="exportTableButton" type="button">Export table</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="results">
+      <div class="stats">
+        <article>
+          <span id="countStat">0</span>
+          <small>matches</small>
+          <small class="unviewed-line">
+            <span id="unviewedStat" class="unviewed-stat">0 new unviewed</span>
+            <button id="unviewedViewButton" class="inline-view-button" type="button">View</button>
+          </small>
+        </article>
+        <article>
+          <span id="noRoadStat">0</span>
+          <small>no road frontage</small>
+        </article>
+        <article>
+          <span id="cityStat">0</span>
+          <small>within 1 hour of major city</small>
+        </article>
+      </div>
+
+      <div class="results-layout">
+        <div id="cards" class="cards" aria-live="polite"></div>
+        <section class="comparison-panel" aria-label="Available properties table">
+          <div class="comparison-head">
+            <h2>Available properties</h2>
+            <div class="comparison-actions">
+              <button id="tableTopButton" class="icon-button table-top-button" type="button">Top</button>
+              <button id="resetFiltersButton" class="icon-button reset-filters-button" type="button">Reset filters</button>
+              <button id="exportTablePanelButton" class="icon-button" type="button">Export table</button>
+            </div>
+          </div>
+          <div id="comparisonTableWrap" class="comparison-table-wrap">
+            <table class="comparison-table">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>State</th>
+                  <th>Address</th>
+                  <th>Price</th>
+                  <th>$ per sqm</th>
+                  <th>Mins to City</th>
+                  <th>Land Size Sqm</th>
+                </tr>
+                <tr class="filter-row">
+                  <th>
+                    <select id="idColumnFilter">
+                      <option value="all">All IDs</option>
+                    </select>
+                  </th>
+                  <th>
+                    <select id="stateColumnFilter">
+                      <option value="all">All</option>
+                    </select>
+                  </th>
+                  <th>
+                    <input id="addressColumnFilter" type="search" placeholder="Search">
+                  </th>
+                  <th>
+                    <select id="priceColumnFilter">
+                      <option value="all">All</option>
+                      <option value="asc">Low to high</option>
+                      <option value="desc">High to low</option>
+                      <option value="known">With price</option>
+                      <option value="unknown">TBA</option>
+                      <option value="under1m">Under $1m</option>
+                      <option value="1m2m">$1m-$2m</option>
+                      <option value="2m5m">$2m-$5m</option>
+                      <option value="over5m">$5m+</option>
+                    </select>
+                  </th>
+                  <th>
+                    <select id="sqmColumnFilter">
+                      <option value="all">All</option>
+                      <option value="asc">Low to high</option>
+                      <option value="desc">High to low</option>
+                      <option value="known">With $/sqm</option>
+                      <option value="under500">Under $500</option>
+                      <option value="under1000">Under $1k</option>
+                      <option value="under2000">Under $2k</option>
+                    </select>
+                  </th>
+                  <th>
+                    <select id="cityColumnFilter">
+                      <option value="all">All</option>
+                      <option value="asc">Nearest first</option>
+                      <option value="desc">Farthest first</option>
+                      <option value="under60">Within 1h</option>
+                      <option value="under120">Within 2h</option>
+                      <option value="over120">Over 2h</option>
+                    </select>
+                  </th>
+                  <th>
+                    <select id="landColumnFilter">
+                      <option value="all">All</option>
+                      <option value="desc">Largest first</option>
+                      <option value="asc">Smallest first</option>
+                      <option value="known">With land size</option>
+                      <option value="over1000">Over 1,000 sqm</option>
+                      <option value="over1ha">Over 1 ha</option>
+                    </select>
+                  </th>
+                </tr>
+              </thead>
+              <tbody id="comparisonTableBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+      <p id="updatedState" class="updated-state"></p>
+      <p id="emptyState" class="empty" hidden>No matching properties yet.</p>
+    </section>
+  </main>
+
+  <template id="cardTemplate">
+    <article class="property-card">
+      <div class="media">
+        <img alt="">
+        <div class="badge"></div>
+      </div>
+      <div class="property-body">
+        <div class="card-head">
+          <div>
+            <h2></h2>
+            <p class="location"></p>
+          </div>
+          <button class="shortlist" type="button" aria-label="Toggle favourite">Favourite</button>
+        </div>
+        <div class="numbers">
+          <span><strong class="price"></strong><small>price</small></span>
+          <span><strong class="land"></strong><small>land</small></span>
+          <span><strong class="sqm"></strong><small>price/m2</small></span>
+          <span><strong class="city"></strong><small>major city</small></span>
+          <span><strong class="market"></strong><small>on market</small></span>
+        </div>
+        <div class="signals"></div>
+        <p class="notes"></p>
+        <div class="card-actions">
+          <a class="source" target="_blank" rel="noreferrer">Open exact listing</a>
+          <span class="score"></span>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
