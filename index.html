@@ -29,21 +29,21 @@
         </div>
       </div>
     </div>
-    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">Dark mode</button>
-    <div class="actions">
+    <div class="top-tools">
       <div class="refresh-status" aria-live="polite">
         <span id="refreshLabel">Next auto check</span>
         <strong id="refreshTimer">05:00</strong>
         <button id="reloadButton" class="icon-button" type="button" title="Search for new listings now">Search now</button>
-        <button id="saSearchButton" class="icon-button" type="button" title="Search SA coast near Adelaide">SA search</button>
       </div>
+      <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">Dark mode</button>
+    </div>
+    <div class="actions">
       <div class="view-tabs" aria-label="Property view">
         <button id="allViewButton" class="view-tab active" type="button">All properties</button>
         <button id="favouritesViewButton" class="view-tab" type="button">Favourites <span id="favouriteCount">0</span></button>
         <button id="starPropertiesButton" class="view-tab" type="button">AI Picks <span id="starCount">0</span></button>
       </div>
       <button id="exportButton" type="button">Export favourites</button>
-      <button id="exportTableButton" type="button">Export table</button>
     </div>
   </header>
 
@@ -171,7 +171,7 @@
         <div class="card-head">
           <div>
             <h2></h2>
-            <p class="location"></p>
+            <p class="location-line"><span class="location"></span><a class="source source-inline" target="_blank" rel="noreferrer">Open exact listing</a></p>
           </div>
           <button class="shortlist" type="button" aria-label="Toggle favourite">Favourite</button>
         </div>
@@ -185,7 +185,6 @@
         <div class="signals"></div>
         <p class="notes"></p>
         <div class="card-actions">
-          <a class="source" target="_blank" rel="noreferrer">Open exact listing</a>
           <button class="unavailable" type="button">Hide unavailable</button>
           <span class="score"></span>
         </div>

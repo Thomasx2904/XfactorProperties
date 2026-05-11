@@ -1,5 +1,97 @@
 const sampleProperties = [
   {
+    id: "qld-mooloolaba-14-64-parkyn",
+    title: "14/64 Parkyn Parade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    price: 2850000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Direct access to sand and boardwalk", "No roads to cross", "North-facing penthouse"],
+    status: "active",
+    notes: "Active Mooloolaba Parkyn Parade penthouse listing advertised as absolute beachfront, with its own direct access to the sand and boardwalk, no roads to cross, and Mooloolaba Beach directly in front of the building. Price is advertised as offers over $2,850,000.",
+    image: "https://static2.century21.com.au/774/listing/616848/616848_6323962original.1920x0.jpg",
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mooloolaba-149367668"
+  },
+  {
+    id: "qld-mooloolaba-26-84-parkyn",
+    title: "26/84 Parkyn Parade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    price: 2500000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Direct beach access", "Step onto sand in seconds", "Ocean and Point Cartwright views"],
+    status: "active",
+    notes: "Active Mooloolaba Parkyn Parade apartment listing advertised with absolute beachfront positioning, private pool and direct beach access, and the ability to step onto the sand within seconds. Price is advertised as mid $2.5M+.",
+    image: "https://nextpropertygroup.com.au/wp-content/uploads/2026/01/68a3d351-def9-4f95-90d4-72d5e9a2dab4-Mooloolaba-2026-01-07-134953-1-scaled.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-mooloolaba-148865908"
+  },
+  {
+    id: "qld-coolum-beach-52-1750-david-low",
+    title: "52/1750-1764 David Low Way",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    listedDate: "2026-04-22",
+    price: 1100000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Direct access to sand", "Coolum boardwalk frontage", "Uninterrupted surf beach views"],
+    status: "active",
+    notes: "Active Coolum Beach dual-key apartment listing in Beach Retreat Coolum, advertised with absolute beachfront positioning, direct access to the sand and Coolum boardwalk, uninterrupted surf beach views, and walkability to cafes and the patrolled beach. Price guide is advertised as $1,100,000 - $1,200,000.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-13081453-1.jpg?named-transform=webDefaultTransform",
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-150970372"
+  },
+  {
+    id: "qld-coolum-beach-2-1686-david-low",
+    title: "2/1686-1688 David Low Way",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    price: 1050000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront unit", "Steps to Point Perry and First Bay", "Ocean views", "Across from surf"],
+    status: "active",
+    notes: "Active Coolum Beach ground-floor unit listing advertised as beachfront living in a tightly held boutique complex, just steps from Point Perry and First Bay, with ocean views from the porch and walkable access to beaches, cafes and shops. Price is advertised as offers over $1,050,000.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12591256-1.jpg?named-transform=webDefaultTransform&version=nOzsbNx1oBPmkLnVeQnFoBFi6Wah4CLp",
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-149462700"
+  },
+  {
+    id: "qld-coolum-beach-252-131-coolum-terrace",
+    title: "252/131 Coolum Terrace",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    daysOnMarket: 22,
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Prime beachfront location", "Beachfront entry", "Seconds from ocean", "Ocean glimpses"],
+    status: "active",
+    notes: "Active Homely Coolum Beach apartment listing in the First Bay beachfront complex, advertised as a designer apartment in a prime beachfront location with beachfront entry, ocean glimpses, and scenic headland access to Coolum town centre. Price is advertised as contact agent.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=k_Um9XCeIDGDOk5eWnOA0MB3POw3P9ge",
+    listingUrl: "https://www.homely.com.au/homes/252-131-coolum-terrace-coolum-beach-qld-4573/12513397"
+  },
+  {
     id: "wa-hillarys-5-founders",
     title: "5 Founders Lane",
     suburb: "Hillarys",
@@ -1162,8 +1254,8 @@ const sampleProperties = [
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["No road", "Private dune access", "Ocean views", "Village walk"],
-    status: "active",
-    notes: "Absolute beachfront duplex townhouse with private dune access and front-row ocean views. Auction listing without price guide.",
+    status: "sold",
+    notes: "Sold/stale realestate.com.au listing. Previously advertised as an absolute beachfront duplex townhouse with private dune access and front-row ocean views.",
     image: "https://i2.au.reastatic.net/800x600/2bfe467f2b8079bdf35c5cfd75959f8805cacb3a5a48cded71da92f3183ca061/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150228292"
   },
@@ -1918,6 +2010,25 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-150741196"
   },
   {
+    id: "qld-sunshine-beach-16-adams",
+    title: "16 Adams Street",
+    suburb: "Sunshine Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 115,
+    listedDate: "2026-04-23",
+    price: null,
+    landSize: 826,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Private rear gate", "Direct beach path access", "Large 826sqm block", "Renovated coastal home"],
+    status: "active",
+    notes: "Active Sunshine Beach listing advertised with a private rear gate, direct beach path access, large 826sqm block, and sand only steps away. Price is advertised as expressions of interest/contact agent.",
+    image: "https://www.homely.com.au/img-variant/l-Rex-12781317-1.jpg?named-transform=webDefaultTransform&version=NobBJmu_G36BEdMnO0b_ylrFZlRWd6RR",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-150979764"
+  },
+  {
     id: "nsw-brooms-head-31-ocean",
     title: "31 Ocean Road",
     suburb: "Brooms Head",
@@ -2009,6 +2120,117 @@ const sampleProperties = [
     notes: "Beachside home opposite national park and about 50 metres to direct beach access. Auction listing without price guide.",
     image: "https://i2.au.reastatic.net/800x600/98c2824688e4512058e09ab09aa9249481a304f388364c865820e5c5915a6a91/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150924304"
+  },
+  {
+    id: "qld-marcus-beach-49-tristania",
+    title: "49 Tristania Drive",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    listedDate: "2026-03-24",
+    price: 5950000,
+    landSize: 936,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "No road", "Direct beach access", "Ocean views"],
+    status: "active",
+    notes: "Absolute beachfront block with no roads to cross, beach access through the reserve and elevated ocean outlooks. Price is the advertised offers-over figure.",
+    image: "https://i2.au.reastatic.net/800x600/5d8d1854c74bfd3becce5a0999572a2bb4080295c5baa4524bd386c5b32edafb/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150682488"
+  },
+  {
+    id: "qld-marcus-beach-33-tristania",
+    title: "33 Tristania Drive",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: 0,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Ocean panorama", "Beachside terraces", "Pool"],
+    status: "active",
+    notes: "Newly completed Tim Ditchfield-designed absolute beachfront home with 180-degree ocean views and terraces opening toward the dunes. Price advertised as contact agent.",
+    image: "https://i2.au.reastatic.net/800x600/9a48d79deb795fa61fd66f65170bc1dae4aae79f907df4bc1d80029a0297006a/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-149169200"
+  },
+  {
+    id: "qld-marcus-beach-8-tristania",
+    title: "8 Tristania Drive",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: 5500000,
+    landSize: 632,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront enclave", "Opposite dunes", "Ocean glimpses", "Pool"],
+    status: "active",
+    notes: "Prestige 2023 build directly opposite the beachfront dunes with beach access across Tristania Drive. Price is the midpoint of the advertised guide.",
+    image: "https://i2.au.reastatic.net/800x600/9c0bf6d437ca13b6de8457f5af47495bede41328d6dc4d61e541944468bd1ed3/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150574912"
+  },
+  {
+    id: "qld-marcus-beach-44-tristania",
+    title: "44 Tristania Drive",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: 0,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront access", "100m to sand", "Architect-designed", "Private gardens"],
+    status: "active",
+    notes: "John Mainwaring-designed Tristania Drive beach house advertised as 100 metres from direct beach access and two minutes to the sand. Price advertised as by negotiation.",
+    image: "https://i2.au.reastatic.net/800x600/17f6e12c8b70c16f8f9d064a75baa845cd2751e457a0e6eb809ea8959077eebe/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-146446536"
+  },
+  {
+    id: "qld-marcus-beach-16-royena",
+    title: "16 Royena Place",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: 5800000,
+    landSize: 972,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront reserve", "Private beach access", "Ocean panorama", "Pool"],
+    status: "active",
+    notes: "Active listing advertised opposite protected beachfront reserve with sweeping ocean views and Marcus Beach 120 metres away via a private access gate. Price advertised as over $5.8m.",
+    image: "https://rimh2.domainstatic.com.au/Hp8R35WAlw0Q5WrhXIVhanURhII%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020729861_24_1_260402_012724-w4134-h2756",
+    listingUrl: "https://www.domain.com.au/16-royena-place-marcus-beach-qld-4573-2020729861"
+  },
+  {
+    id: "qld-marcus-beach-3-ashwood",
+    title: "3 Ashwood Court",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    listedDate: "2026-03-31",
+    daysOnMarket: 24,
+    price: 0,
+    landSize: 946,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Steps to sand", "Ocean views", "Rooftop terrace", "Pool"],
+    status: "active",
+    notes: "Active listing in an exclusive coastal enclave advertised as just steps from the sand, with panoramic Pacific Ocean views and moments to Marcus Beach. Price advertised as FOR SALE.",
+    image: "https://www.homely.com.au/img-variant/l-Eagle-13017170-1.jpg?named-transform=webHeroTransform&version=gYlK589ft.5lEX6d6V0uJjzbKLTvkjIb",
+    listingUrl: "https://www.homely.com.au/homes/3-ashwood-court-marcus-beach-qld-4573/13017170"
   },
   {
     id: "vic-balnarring-beach-3-library",
@@ -2245,7 +2467,7 @@ const sampleProperties = [
     factors: ["Direct beach access", "Ocean views", "Pool", "Renovated"],
     status: "active",
     notes: "Sunshine Beach residence with private back-gate pathway straight to surf and sand. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/149496880/1",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12601660-1.jpg?named-transform=webDefaultTransform&version=dKAPnSL_BaBW0nfsGrGpNQlOfDVq9X6i",
     listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-149496880"
   },
   {
@@ -2747,8 +2969,8 @@ const sampleProperties = [
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["Beachfront parcel", "Direct beach access", "Architect-designed", "Pool"],
-    status: "active",
-    notes: "Architect-designed beachfront residence on a 513sqm parcel with ocean views and nearby private beach access. Advertised at $9.45M.",
+    status: "unavailable",
+    notes: "Hidden pending image repair. Exact listing is active, but the local record used a disallowed realestate.com.au/property-image wrapper and no loadable direct hero photo URL could be verified in this pass.",
     image: "https://www.realestate.com.au/property-image/150163808/1",
     listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150163808"
   },
@@ -6087,7 +6309,7 @@ const sampleProperties = [
     factors: ["Regenerative mixed farm", "Farm-stay tourism potential", "Multiple accommodation units", "Three dams and soak"],
     status: "active",
     notes: "Active realestate.com.au Wilga mixed-farming listing advertised as an 80.89ha forest-surrounded holding with regenerative farming credentials, multiple accommodation units, granny flat, separate self-contained unit, shearing shed, silos, cattle yards, three dams and off-grid energy infrastructure. Price advertised as offers from $2.4 million.",
-    image: "https://www.realestate.com.au/property-image/700398960/1",
+    image: "https://i2.au.reastatic.net/800x600/9df19943a39fb5d38036f1502a3ec9b4703b52f46f776be26f6e47ccdcd0a39b/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-wilga-700398960",
     listingCategory: "large"
   },
@@ -6125,7 +6347,7 @@ const sampleProperties = [
     factors: ["Near Bunbury", "Large grazing scale", "Reliable water", "Coalfields Highway access"],
     status: "active",
     notes: "Active realestate.com.au Roelands livestock listing advertised as a 197.8ha productive grazing property near Bunbury and Collie, with fertile soils, five small dams, one sizable dam, semi-permanent creek water, solar-powered troughs and maintained fencing. Price advertised as offers over $2.8 million.",
-    image: "https://www.realestate.com.au/property-image/700381768/1",
+    image: "https://i2.au.reastatic.net/800x600/5cd44ef40f095a9c37251b11f454975e586287e52556a495ff4b81bde502a6ca/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-livestock-wa-roelands-700381768",
     listingCategory: "large"
   },
@@ -6201,8 +6423,144 @@ const sampleProperties = [
     factors: ["Near Boyup Brook township", "Productive mixed farming", "Strong water security", "Cropping and grazing upside"],
     status: "active",
     notes: "Active realestate.com.au Boyup Brook mixed-farming listing advertised as a 98ha holding close to Boyup Brook, with rolling pasture, elevated ridgelines, four natural soaks, four established dams, about 99 acres under crop, free-draining soils and quality fencing. Price advertised at $2,495,000.",
-    image: "https://www.realestate.com.au/property-image/700393016/1",
+    image: "https://i2.au.reastatic.net/800x600/a287302f058e86b63020f7db78fd468971d66b8617986436b974f5fd399d79c3/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-boyup%2Bbrook-700393016",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-donnybrook-19503-south-western",
+    title: "19503 South Western Highway (Brookhampton)",
+    suburb: "Donnybrook",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 150,
+    price: null,
+    landSize: 217600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["South West lifestyle acreage", "Former berry farm", "Commercial kitchen and dams", "Tourism and retreat potential"],
+    status: "active",
+    notes: "Active realestate.com.au Donnybrook mixed-farming listing advertised as a 21.76ha Brookhampton lifestyle holding about 10 minutes from Donnybrook, with a former commercial berry farm setting, commercial-grade kitchen, dams, cool room, gardens, cleared second dwelling site subject to approvals and General Agriculture zoning. Price advertised as expressions of interest.",
+    image: "https://i2.au.reastatic.net/800x600/c11999aca54ad9ad0e44a76995c6162b6291c809fbaf312255c6c19057fced0f/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-donnybrook-700389340",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-naturaliste-lot-60-vidler",
+    title: "Lot 60 Vidler Road",
+    suburb: "Naturaliste",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 190,
+    price: 6000000,
+    landSize: 506600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Near Yallingup and Dunsborough", "Rural zoning", "Subdivision and rezoning upside", "Tourism use potential"],
+    status: "active",
+    notes: "Active realestate.com.au Naturaliste mixed-farming listing advertised as 50.66ha of rural-zoned land between Yallingup and Dunsborough, with power, groundwater soak, three road frontages, coastal proximity and potential for winery, bed and breakfast, guest house, tavern, brewery, caravan park, chalets or subdivision/rezoning subject to City of Busselton approvals. Price advertised as offers over $6,000,000.",
+    image: "https://i2.au.reastatic.net/800x600/b36c957ee703804af6a26d8210f96dee35f46a40dad759a7bd750036b33a693c/image.png",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-naturaliste-700401464",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-kaloorup-308-payne",
+    title: "308 Payne Road",
+    suburb: "Kaloorup",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 170,
+    listedDate: "2026-04-10",
+    price: 5000000,
+    landSize: 610000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Productive orchard estate", "Two titles", "Water allocations", "Venue and accommodation potential"],
+    status: "active",
+    notes: "Active realestate.com.au Kaloorup lifestyle listing advertised as a 61ha orchard estate across two titles, with avocado and yuzu orchards, 142ML aquifer water allocations, remote irrigation, renovated homestead, independent studio, restored 1890s barn and previous wedding venue approval subject to future council approval. Price advertised in the $5m range.",
+    image: "https://i2.au.reastatic.net/800x600/539613a7a8e83ce6b1891120453753a2128c7b6dd0598e9bec308bf227d0032c/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-kaloorup-700403372",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-harvey-246-government",
+    title: "246 Government Road",
+    suburb: "Harvey",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 105,
+    listedDate: "2026-04-22",
+    price: null,
+    landSize: 643600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Premium Harvey farming district", "Irrigation water shares", "Near Bunbury", "Productive livestock infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Harvey lifestyle listing advertised as a 64.36ha Uduc rural holding less than 8km from Harvey and about 48km to Bunbury, with a residence, former dairy infrastructure, 25 paddocks, 30ha laser-levelled for flood irrigation, three road frontages and 40 Harvey Water shares. Expressions of interest close 26 May 2026 unless sold prior.",
+    image: "https://i2.au.reastatic.net/800x600/f6b7523b8c30c5c396cc905bf4431ceaf1a8080daffa7dad5e59e1b1aa4b2f58/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-harvey-700404776",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-bramley-512-tanah-marah",
+    title: "512 Tanah Marah Road",
+    suburb: "Bramley",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 190,
+    price: 1850000,
+    landSize: 446600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Margaret River wine region", "Water security", "Near Prevelly Beach", "Flexible homesite potential"],
+    status: "active",
+    notes: "Active realestate.com.au Bramley mixed-farming listing advertised as 44.66ha in the Margaret River wine region, about 12 minutes to Cowaramup and Margaret River and 23 minutes to Prevelly Beach, with dam water, natural soak, solar-pumped dam, approval for an additional large dam, portable office, containers, toilet block and cattle yards. Price advertised as best offer over $1.85 million.",
+    image: "https://i2.au.reastatic.net/800x600/365b5e65223bbd55a2b1da9e81385ce797634d61f9978f1e129ca0f460b737e8/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-bramley-700395076",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-cowaramup-48-holben",
+    title: "48 Holben Road",
+    suburb: "Cowaramup",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 180,
+    price: 4000000,
+    landSize: 340200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Prime South West location", "Producing truffiere", "Tourism accommodation potential", "Near Margaret River and Busselton"],
+    status: "active",
+    notes: "Active realestate.com.au Cowaramup mixed-farming listing advertised as a 34.02ha rural holding 5 minutes to Cowaramup, 10 minutes to Margaret River and about 20 minutes to Busselton Airport, with a 1500-tree producing truffiere, permanent dam water, extensive sheds, stables, pasture, bushland and possible tourism accommodation subject to approvals. Price advertised as offers above $4,000,000 GST free.",
+    image: "https://i2.au.reastatic.net/800x600/c633b5c8a9fb9e42fbec61d1aba5413c5294ed3c94d843cc871b9c82e68b4f94/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-cowaramup-700384732",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-rosa-brook-38-barrett",
+    title: "38 Barrett Road",
+    suburb: "Rosa Brook",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 195,
+    listedDate: "2026-04-29",
+    price: 1850000,
+    landSize: 495100,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Near Margaret River", "General Agriculture zoning", "Regenerative farming", "Commercial meatworks facility"],
+    status: "active",
+    notes: "Active realestate.com.au Rosa Brook livestock listing advertised as a 49.51ha General Agriculture holding about 14.1km from Margaret River townsite, with regenerative farming history, spring-fed dam, 240,000L rainwater storage, upgraded power, demountable accommodation, commercial storage/meatworks facility and potential for a main residence and ancillary accommodation subject to Shire approval. Price advertised as offers above $1,850,000.",
+    image: "https://i2.au.reastatic.net/800x600/83eb20143f115b041a3d9bc8e7eb3e6b6554123cee35b3d93fe4b48932e5bb7f/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-livestock-wa-rosa%2Bbrook-700405764",
     listingCategory: "large"
   },
   {
@@ -6589,7 +6947,7 @@ const sampleProperties = [
     factors: ["Perth fringe acreage", "North Dandalup River frontage", "Elevated building site", "Spring and winter stream"],
     status: "active",
     notes: "Active realestate.com.au North Dandalup landholding advertised as 40.5ha / 100 acres with 145m of direct North Dandalup River frontage, a natural spring, winter stream, granite outcrops, open parkland pasture, native bush and an elevated building site with driveway access. Price advertised as offers.",
-    image: "https://www.realestate.com.au/property-image/700378044/1",
+    image: "https://i2.au.reastatic.net/800x600/abb31eacacfe9a1f0d95bb29a134a4f7bab70e7d71ffa20c597ef744044d98ef/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-other-wa-north%2Bdandalup-700378044",
     listingCategory: "large"
   },
@@ -6608,7 +6966,7 @@ const sampleProperties = [
     factors: ["Perth fringe acreage", "Darling Scarp elevation", "Coastal plain views", "Waterfall and bushland"],
     status: "active",
     notes: "Active realestate.com.au North Dandalup holding advertised as 155ha / 383 acres on the Darling Scarp with coastal plain views, Wandoo, Marri and Jarrah bushland, winter waterfall, machinery shed, 120,000L water tank, initial earthworks and a private driveway. Price advertised as offers from $1,395,000.",
-    image: "https://www.realestate.com.au/property-image/700373708/1",
+    image: "https://i2.au.reastatic.net/800x600/bb148745eca02d63ff1283939fb10a844cb03a441e7a41c2511fe4d4581aae80/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-other-wa-north%2Bdandalup-700373708",
     listingCategory: "large"
   },
@@ -6627,7 +6985,7 @@ const sampleProperties = [
     factors: ["Large Perth fringe holding", "Highway frontage", "Railway adjacency", "Grazing and sand reserves"],
     status: "active",
     notes: "Active realestate.com.au livestock listing advertised as 835ha within about one hour of Perth CBD, with 6km of South Western Highway frontage, adjacency to the Perth-Bunbury railway, spring-fed water, central laneway, cattle yards, sheds and potential to capitalise on sand reserves and regional expansion. Price advertised as expressions of interest.",
-    image: "https://www.realestate.com.au/property-image/700227152/1",
+    image: "https://i2.au.reastatic.net/800x600/4ddf35d8b237edde78377c19959db5e74551a6422506f1541757e34b9cc77efc/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-livestock-wa-north%2Bdandalup-700227152",
     listingCategory: "large"
   },
@@ -6646,7 +7004,7 @@ const sampleProperties = [
     factors: ["Mandurah fringe grazing", "Affordable large holding", "Cattle yards", "Dam and shelter"],
     status: "active",
     notes: "Active realestate.com.au livestock listing advertised as 89.3ha / 220 acres off Lakes Road about 15km east of Mandurah, suited as a runoff block for beef operations with mixed sands and sandy loam, shade and shelter, dam country and steel cattle yards. Price advertised at $1,300,000.",
-    image: "https://www.realestate.com.au/property-image/700338976/1",
+    image: "https://i2.au.reastatic.net/800x600/220464e1db67221bd5b1618cc18cd9fe2d58313efde61560a9637a9daf2aa5bc/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-livestock-wa-nambeelup-700338976",
     listingCategory: "large"
   },
@@ -6666,7 +7024,7 @@ const sampleProperties = [
     factors: ["Rural Residential zoning", "Subdivision potential STCA", "Equestrian infrastructure", "Multiple dwellings"],
     status: "active",
     notes: "Active realestate.com.au Serpentine estate advertised as 29.36ha / 72.55 acres with a five-bedroom main residence, two additional cottages, 10-stable barn, vet shed, machinery sheds, licensed bore, paddocks and Rural Residential zoning with stated potential to subdivide the front 16ha into 2ha lots subject to approvals. Price advertised as offers.",
-    image: "https://www.realestate.com.au/property-image/148584744/1",
+    image: "https://i2.au.reastatic.net/800x600/297af15cef93c0e7bf8f74342f7d49a3c864187ef2a959f2ecd7e41212492c8b/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-wa-serpentine-148584744",
     listingCategory: "large"
   },
@@ -6683,7 +7041,7 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Darling Ranges acreage", "City and ocean views", "Subdivision potential", "Tonkin Highway extension proximity"],
-    status: "active",
+    status: "unavailable",
     notes: "Active realestate.com.au lifestyle listing advertised as 208.7ha on the Darling Ranges with views to Perth, Mandurah and the Indian Ocean, State Forest adjacency, cattle infrastructure, natural soaks including Coogly Spring, potential sale as two parcels and stated subdivision potential into 85.4ha and 123.4ha parcels.",
     image: "https://www.realestate.com.au/property-image/700372484/1",
     listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-jarrahdale-700372484",
@@ -6704,7 +7062,7 @@ const sampleProperties = [
     factors: ["Land banking", "Seven titles", "Rural and urban options", "Tourism and subdivision upside"],
     status: "active",
     notes: "Active realestate.com.au mixed-farming listing advertised as 459.28ha across seven titles less than an hour from Perth CBD and about 30 minutes from Perth Airport, with rural and urban zoning options, grazing and cropping use, established residence, stockyards, dams, power, scheme water, tourism potential and Tonkin Highway access benefits.",
-    image: "https://www.realestate.com.au/property-image/700376756/1",
+    image: "https://i2.au.reastatic.net/800x600/19b2d45d8073f5916355a9221352ff1686e96b52013502d641bf8e992ef1c80c/image.png",
     listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-lower%2Bchittering-700376756",
     listingCategory: "large"
   },
@@ -6723,8 +7081,105 @@ const sampleProperties = [
     factors: ["Brand Highway frontage", "Rail frontage", "Water licence", "Grazing and rail siding potential"],
     status: "active",
     notes: "Active realestate.com.au Muchea rural listing advertised as 100.08ha about 60km from Perth CBD with 1.3km of Brand Highway and railway frontage, 101,040kL water licence, 11ha under sprinklers, 3-phase power, equipped bores, winter creek, sheds, cattle yards and potential rail-siding or grazing uses. Price advertised as all offers presented.",
-    image: "https://www.realestate.com.au/property-image/700340788/1",
+    image: "https://i2.au.reastatic.net/800x600/7cf37a76844e35f7fbb34b8793c8b86509abdcf6e6ebd7013e49e77482872659/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-other-wa-muchea-700340788",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-bullsbrook-73-strachan",
+    title: "73 Strachan Road",
+    suburb: "Bullsbrook",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 50,
+    listedDate: "2026-05-01",
+    price: null,
+    landSize: 311400,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Bullsbrook growth corridor", "Tonkin Highway access", "Water licence and irrigation", "Grazing and rural-use flexibility"],
+    status: "active",
+    notes: "Active realestate.com.au Bullsbrook lifestyle listing advertised as 31.142ha / about 75 acres in the fast-growing Bullsbrook corridor, with Stock Road upgrade access off Tonkin Highway, proximity to Ellenbrook, Perth Airport and RAAF Base Pearce, 4,000sqm under irrigation, an existing water licence, Kikuyu pasture, winter stream, grazing use and a barndominium. Price advertised as Offers Invited.",
+    image: "https://i2.au.reastatic.net/800x600/8b14ba6a8d48ea0605fb36c3675614286e1cc47580722ba2f266f62d92dbb95e/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-wa-bullsbrook-700406100",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-muchea-32-propagation",
+    title: "32 Propagation View",
+    suburb: "Muchea",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 50,
+    listedDate: "2026-04-29",
+    price: null,
+    landSize: 399600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Rural zoning", "Muchea Industrial Park proximity", "Water licences", "Horticulture infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Muchea horticulture listing advertised as 39.96ha with Rural zoning, numerous potential development options, access to Great Northern Highway, Tonkin Highway and Brand Highway, about 4km from the new Muchea Industrial Park, former native plant nursery infrastructure, four bores, a dam, 1km irrigation main, two groundwater licences totalling 252ML, tunnel houses, sheds, three-phase power, solar and backup generator. Price advertised as Expression of Interest.",
+    image: "https://i2.au.reastatic.net/800x600/26054f5e2d4ede7791fc7ba55e90f0d7e131a1c1caff6d006a3fc97d580b92b5/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-horticulture-wa-muchea-700405708",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-chittering-1298-brand",
+    title: "1298 Brand Highway",
+    suburb: "Chittering",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 55,
+    price: 8000000,
+    landSize: 2431000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Muchea flats landbank", "Brand Highway dual access", "Productive grazing", "Two residences"],
+    status: "active",
+    notes: "Active realestate.com.au mixed-farming listing for Okely Estate, advertised as 243.1ha / 600.7 acres of productive Muchea flats grazing country about seven minutes north of Muchea and Tonkin Highway, with Brand Highway and Ioppolo Road access, two residences, cattle yards, major sheds, three-phase bore, seasonal Chandala Brook, reliable water and suitability for equestrian, livestock, hay, cropping and lifestyle uses. Price guide advertised from $8 million.",
+    image: "https://i2.au.reastatic.net/800x600/1e1589dac66dba696f1feb562e506a6d548b87c73f1fdc1b96ec25edf11bff3c/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-mixed%2Bfarming-wa-chittering-700374032",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-lower-chittering-lot-9017-mcglew",
+    title: "Lot 9017, McGlew Road",
+    suburb: "Lower Chittering",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 55,
+    price: null,
+    landSize: 801300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Rural Residential zoning", "Large bushland holding", "Building envelope", "No build-time pressure"],
+    status: "active",
+    notes: "Active realestate.com.au Lower Chittering residential land listing advertised as 80.13ha / just under 200 acres of natural bushland with Rural Residential zoning, an existing building envelope, no building time restrictions and long-term lifestyle or land-hold potential. Price advertised as Offers Invited.",
+    image: "https://i2.au.reastatic.net/800x600/81ea1b94791e751dae8778fed6607b26b194d6e5977517c1b9995ecf27291587/image.png",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-lower%2Bchittering-204238808",
+    listingCategory: "large"
+  },
+  {
+    id: "wa-gingin-62-cheriton",
+    title: "62 Cheriton Road",
+    suburb: "Gingin",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 75,
+    price: 4050000,
+    landSize: 260200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Approved subdivision upside", "Rural Living zoning", "Gingin Brook setting", "Olive income potential"],
+    status: "active",
+    notes: "Active realestate.com.au Gingin residential land listing advertised as 26.02ha between Gingin Brook and Cheriton Road, with Rural Living zoning, subdivision flexibility into one-hectare lots or potential smaller lots subject to approvals, scheme water and grid power connected, about 2,500 olive trees, valley views and proximity to Gingin High School. Price advertised as $3.9m-$4.2m.",
+    image: "https://i2.au.reastatic.net/800x600/32d9d30c8de46ca47be292ee0d179ff10a56aa3b9372acf06c490cbde60bff39/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-gingin-204373984",
     listingCategory: "large"
   },
   {
@@ -8487,6 +8942,101 @@ const sampleProperties = [
     image: "https://www.homely.com.au/img-variant/l-Harcourts-12328961-1.jpg?named-transform=webDefaultTransform&version=ufApA0zyqGO2J1dudRKAiddZKn3xIsRi",
     listingUrl: "https://www.homely.com.au/homes/34-bletchley-road-strathalbyn-sa-5255/12328961",
     listingCategory: "large"
+  },
+  {
+    id: "qld-peregian-beach-10-plover",
+    title: "10 Plover Street",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 9800000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "No-road frontage", "Direct beach access", "Ocean views"],
+    status: "active",
+    notes: "Active realestate.com.au Peregian Beach listing advertised as a rare absolute beachfront home with no road between the property and the sand, direct beach access and ocean views. Price advertised at $9.8m.",
+    image: "https://s1.rea.global/sha/400x300-crop/3a32151db384d46f8c2c188e5c9dd7f7fb2b7e893dd000be250827b82559fe44/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150785384"
+  },
+  {
+    id: "qld-peregian-beach-9-2-peregian-esplanade",
+    title: "9/2 Peregian Esplanade",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 1400000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront apartment", "Peregian Esplanade frontage", "Ocean views", "Village access"],
+    status: "active",
+    notes: "Active realestate.com.au Peregian Beach apartment listing advertised in a beachfront Esplanade position with ocean views and direct beachside/village access. Price advertised over $1.4m.",
+    image: "https://s1.rea.global/sha/400x300-crop/a8181259e1b64d55b33dcc12e1377f7df20e0f20432c585ae2676f1f482f253e/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-peregian%2Bbeach-150812388"
+  },
+  {
+    id: "qld-peregian-beach-1-43-lorikeet",
+    title: "1/43 Lorikeet Drive",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 1435000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront street", "Ocean outlook", "Direct beach access nearby", "Villa/apartment stock"],
+    status: "active",
+    notes: "Active realestate.com.au Peregian Beach apartment/villa listing on Lorikeet Drive, a beachfront street, advertised with ocean outlook and beach access appeal. Price advertised at $1.435m.",
+    image: "https://s1.rea.global/sha/400x300-crop/236bc68c980ee9c58adf661283ea71cecd5d77150bfcd9b4dcd04e991220eff2/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-peregian%2Bbeach-150704804"
+  },
+  {
+    id: "qld-peregian-beach-2-22-shearwater",
+    title: "2/22 Shearwater Street",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 2900000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Front-row beachside", "Direct beach access nearby", "Ocean views", "Townhouse stock"],
+    status: "active",
+    notes: "Active realestate.com.au Peregian Beach townhouse listing advertised in a front-row beachside Shearwater Street position with ocean views and direct access to the beachfront lifestyle. Price advertised over $2.9m.",
+    image: "https://s1.rea.global/sha/604x447-prop/73e58c36cd68e79392b013da7911fc3b64754ac58f8e8b1d741210f06efba264/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-townhouse-qld-peregian%2Bbeach-150656088"
+  },
+  {
+    id: "qld-peregian-beach-9-shearwater",
+    title: "9 Shearwater Street",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 5250000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachside position", "Ocean views", "Shearwater Street frontage", "Village access"],
+    status: "active",
+    notes: "Active realestate.com.au Peregian Beach house listing advertised on Shearwater Street with beachside positioning, ocean views and close access to the sand and village. Price advertised at $5.25m.",
+    image: "https://s1.rea.global/sha/604x447-prop/b1f311a55083c6ad1e0a05b3b03f0b4c619c16a47ba06069b0ada7f9b6e7e0a8/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150401424"
   }
 ];
 
@@ -8525,7 +9075,6 @@ const els = {
   refreshLabel: document.querySelector("#refreshLabel"),
   refreshTimer: document.querySelector("#refreshTimer"),
   reloadButton: document.querySelector("#reloadButton"),
-  saSearchButton: document.querySelector("#saSearchButton"),
   themeToggle: document.querySelector("#themeToggle"),
   beachModeButton: document.querySelector("#beachModeButton"),
   largeModeButton: document.querySelector("#largeModeButton"),
@@ -8544,7 +9093,6 @@ const els = {
   cityStat: document.querySelector("#cityStat"),
   updatedState: document.querySelector("#updatedState"),
   exportButton: document.querySelector("#exportButton"),
-  exportTableButton: document.querySelector("#exportTableButton"),
   exportTablePanelButton: document.querySelector("#exportTablePanelButton"),
   tableTopButton: document.querySelector("#tableTopButton"),
   resetFiltersButton: document.querySelector("#resetFiltersButton"),
@@ -8602,7 +9150,7 @@ const investmentAnnualGrowthTarget = 15;
 const investmentFiveYearGrowthTarget = 101;
 const investmentMinimumShare = 0.05;
 const largePropertyMinSqm = 20 * 10000;
-const largePropertyMaxSqm = 2000 * 10000;
+const largePropertyMaxSqm = 200000 * 10000;
 const localServerHosts = new Set(["127.0.0.1", "localhost"]);
 
 function isOnlineViewerMode() {
@@ -8643,9 +9191,7 @@ async function pollServerRefreshStatus() {
   if (isOnlineViewerMode()) {
     serverRefreshRunning = false;
     els.reloadButton.disabled = true;
-    els.saSearchButton.disabled = true;
     els.reloadButton.textContent = "Viewer only";
-    els.saSearchButton.textContent = "Viewer only";
     els.refreshLabel.textContent = "Online viewer";
     els.refreshTimer.textContent = "snapshot";
     return;
@@ -8672,9 +9218,7 @@ async function pollServerRefreshStatus() {
       serverRefreshRunning = true;
       if (!manualRefreshActive) {
         els.reloadButton.disabled = true;
-        els.saSearchButton.disabled = state.searchMode === "beach";
         els.reloadButton.textContent = status.mode === "auto" ? "Auto searching..." : "Searching...";
-        els.saSearchButton.textContent = state.searchMode === "large" ? "Large mode" : "SA search";
         els.refreshLabel.textContent = status.message || "Searching...";
         renderRefreshTimer();
       }
@@ -8689,9 +9233,7 @@ async function pollServerRefreshStatus() {
     serverRefreshRunning = false;
     if (!manualRefreshActive) {
       els.reloadButton.disabled = false;
-      els.saSearchButton.disabled = state.searchMode === "large";
       els.reloadButton.textContent = "Search now";
-      els.saSearchButton.textContent = state.searchMode === "large" ? "Large mode" : "SA search";
       els.refreshLabel.textContent = status.state === "error" ? "Last search failed" : status.nextSearchArea ? `Next: ${status.nextSearchArea}` : "Next auto search";
       renderRefreshTimer();
     }
@@ -8716,9 +9258,7 @@ async function triggerManualRefresh(scope = "national") {
 
   manualRefreshActive = true;
   els.reloadButton.disabled = true;
-  els.saSearchButton.disabled = true;
   els.reloadButton.textContent = "Searching...";
-  els.saSearchButton.textContent = scope === "sa" ? "SA searching..." : state.searchMode === "large" ? "Large mode" : "SA search";
   els.refreshLabel.textContent = state.searchMode === "large" ? "Large property search" : scope === "sa" ? "SA coast search" : "Manual search";
   let elapsedSeconds = 0;
   els.refreshTimer.textContent = "00:00";
@@ -8744,30 +9284,24 @@ async function triggerManualRefresh(scope = "national") {
         if (status.state === "error") {
           window.clearInterval(poll);
           els.reloadButton.disabled = false;
-          els.saSearchButton.disabled = false;
           manualRefreshActive = false;
           els.reloadButton.textContent = "Search now";
-          els.saSearchButton.textContent = state.searchMode === "large" ? "Large mode" : "SA search";
           els.refreshLabel.textContent = "Search failed";
           els.refreshTimer.textContent = "check log";
         }
       } catch {
         window.clearInterval(poll);
         els.reloadButton.disabled = false;
-        els.saSearchButton.disabled = false;
         manualRefreshActive = false;
         els.reloadButton.textContent = "Search now";
-        els.saSearchButton.textContent = state.searchMode === "large" ? "Large mode" : "SA search";
         els.refreshLabel.textContent = "Search status lost";
         els.refreshTimer.textContent = "retry";
       }
     }, 5000);
   } catch {
     els.reloadButton.disabled = false;
-    els.saSearchButton.disabled = false;
     manualRefreshActive = false;
     els.reloadButton.textContent = "Search now";
-    els.saSearchButton.textContent = state.searchMode === "large" ? "Large mode" : "SA search";
     els.refreshLabel.textContent = "Server required";
     els.refreshTimer.textContent = "open server";
   }
@@ -9018,6 +9552,9 @@ function renderComparisonTable(properties) {
     row.classList.toggle("unviewed-row", unviewed);
     row.classList.toggle("investment-star-row", investmentStar);
 
+    const listingLink = getListingLink(property);
+    const searchLink = getSearchLink(property);
+
     values.forEach((value, index) => {
       const cell = document.createElement("td");
       if (index === 0 && (unviewed || investmentStar)) {
@@ -9036,6 +9573,21 @@ function renderComparisonTable(properties) {
           cell.append(star, document.createTextNode(" "));
         }
         cell.append(document.createTextNode(value));
+      } else if (index === 2) {
+        const addressText = document.createElement("span");
+        addressText.textContent = value;
+        cell.className = "address-link-cell";
+        cell.append(addressText);
+        if (listingLink || searchLink) {
+          const link = document.createElement("a");
+          link.className = `table-open-link${listingLink ? "" : " muted"}`;
+          link.href = listingLink || searchLink;
+          link.target = "_blank";
+          link.rel = "noreferrer";
+          link.textContent = "Open";
+          link.addEventListener("click", () => markPropertyViewed(property.id));
+          cell.append(link);
+        }
       } else {
         cell.textContent = value;
       }
@@ -9215,14 +9767,10 @@ function applySearchModeUi() {
   els.largeModeButton.classList.toggle("active", largeMode);
   document.body.dataset.searchMode = state.searchMode;
   if (isOnlineViewerMode()) {
-    els.saSearchButton.disabled = true;
     els.reloadButton.disabled = true;
-    els.saSearchButton.textContent = "Viewer only";
     els.reloadButton.textContent = "Viewer only";
     return;
   }
-  els.saSearchButton.disabled = largeMode || manualRefreshActive;
-  els.saSearchButton.textContent = largeMode ? "Large mode" : "SA search";
   els.reloadButton.title = largeMode ? "Search for new large land listings now" : "Search for new beach listings now";
 }
 
@@ -9339,7 +9887,7 @@ function render() {
   const unviewedCount = filterPropertiesForView("all").filter(isUnviewedProperty).length;
   els.unviewedStat.textContent = `${number.format(unviewedCount)} new unviewed`;
   els.noRoadStat.textContent = number.format(state.searchMode === "large" ? filtered.filter(isLargeProperty).length : filtered.filter(property => property.noRoadFrontage).length);
-  els.noRoadStat.nextElementSibling.textContent = state.searchMode === "large" ? "20ha to 2000ha" : "no road frontage";
+  els.noRoadStat.nextElementSibling.textContent = state.searchMode === "large" ? "20ha to 200,000ha" : "no road frontage";
   els.cityStat.textContent = number.format(filtered.filter(isWithinMajorCityHour).length);
   els.updatedState.textContent = isOnlineViewerMode()
     ? `Online viewer snapshot last updated ${databaseUpdatedAt}. New searches run from the owner's PC and appear here after the repository is updated.`
@@ -9576,7 +10124,6 @@ els.themeToggle.addEventListener("click", () => {
 });
 
 els.exportButton.addEventListener("click", exportFavourites);
-els.exportTableButton.addEventListener("click", exportCurrentTable);
 els.exportTablePanelButton.addEventListener("click", exportCurrentTable);
 els.tableTopButton.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -9584,8 +10131,8 @@ els.tableTopButton.addEventListener("click", () => {
 });
 els.resetFiltersButton.addEventListener("click", resetFilters);
 els.reloadButton.addEventListener("click", () => triggerManualRefresh("national"));
-els.saSearchButton.addEventListener("click", () => triggerManualRefresh("sa"));
 els.comparisonTableBody.addEventListener("click", event => {
+  if (event.target.closest("a")) return;
   const row = event.target.closest("tr[data-property-id]");
   if (row) focusPropertyCard(row.dataset.propertyId);
 });
