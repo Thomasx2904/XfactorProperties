@@ -86,6 +86,7 @@
                   <th>ID</th>
                   <th>State</th>
                   <th>Address</th>
+                  <th>X Factor value</th>
                   <th>Price</th>
                   <th>$ per sqm</th>
                   <th>Mins to City</th>
@@ -104,6 +105,16 @@
                   </th>
                   <th>
                     <input id="addressColumnFilter" type="search" placeholder="Search">
+                  </th>
+                  <th>
+                    <select id="xFactorColumnFilter">
+                      <option value="all">All</option>
+                      <option value="desc">Best first</option>
+                      <option value="asc">Lowest first</option>
+                      <option value="over800">800+</option>
+                      <option value="over600">600+</option>
+                      <option value="over400">400+</option>
+                    </select>
                   </th>
                   <th>
                     <select id="priceColumnFilter">

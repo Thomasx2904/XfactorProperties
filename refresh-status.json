@@ -1,13 +1,13 @@
 {
-  "state": "running",
+  "state": "idle",
   "mode": "auto",
-  "message": "Verifying candidates in Manly, NSW; 10/10 possible listings found...",
-  "searchArea": "Manly, NSW",
-  "searchAreaPosition": 140,
+  "message": "Waiting for next automatic search.",
+  "searchArea": "Williamstown, VIC",
+  "searchAreaPosition": 158,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Manly, NSW",
-  "nextAutoRefreshAt": "2026-05-11T09:33:26.484Z",
-  "updatedAt": "2026-05-11T09:36:39.379Z"
+  "nextSearchArea": "Williamstown, VIC",
+  "nextAutoRefreshAt": "2026-05-11T11:46:43.145Z",
+  "updatedAt": "2026-05-11T11:45:43.250Z"
 }

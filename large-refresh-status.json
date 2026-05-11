@@ -1,13 +1,13 @@
 {
-  "state": "complete",
+  "state": "running",
   "mode": "auto",
-  "message": "Finished Adelaide Hills and Fleurieu acreage, SA. Reloading large listings...",
-  "searchArea": "Adelaide Hills and Fleurieu acreage, SA",
-  "searchAreaPosition": 1,
+  "message": "Verifying large-block candidates in Barossa Valley and Clare Valley acreage, SA; 10/10 possible listings found...",
+  "searchArea": "Barossa Valley and Clare Valley acreage, SA",
+  "searchAreaPosition": 2,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
   "nextSearchArea": "Barossa Valley and Clare Valley acreage, SA",
-  "nextAutoRefreshAt": "2026-05-11T09:41:26.604Z",
-  "updatedAt": "2026-05-11T09:36:26.607Z"
+  "nextAutoRefreshAt": "2026-05-11T11:44:54.705Z",
+  "updatedAt": "2026-05-11T11:45:06.620Z"
 }

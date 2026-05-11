@@ -704,7 +704,7 @@ h2 {
 
 .comparison-table {
   inline-size: 100%;
-  min-inline-size: 780px;
+  min-inline-size: 900px;
   border-collapse: collapse;
   background: var(--panel);
   font-size: 0.78rem;
@@ -783,6 +783,11 @@ h2 {
 
 .address-link-cell > span {
   min-width: 0;
+}
+
+.x-factor-cell {
+  color: var(--accent);
+  white-space: nowrap;
 }
 
 .table-open-link:hover {
