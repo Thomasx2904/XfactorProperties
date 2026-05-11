@@ -60,6 +60,10 @@
   box-sizing: border-box;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 body {
   margin: 0;
   min-width: 320px;
@@ -68,6 +72,53 @@ body {
     var(--page-gradient),
     var(--page-bg);
   color: var(--ink);
+}
+
+body.locked {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.password-gate {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.password-card {
+  inline-size: min(440px, 100%);
+  display: grid;
+  gap: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  padding: 28px;
+}
+
+.password-card h1 {
+  font-size: clamp(2rem, 7vw, 3.4rem);
+}
+
+.password-card label {
+  margin-top: 8px;
+}
+
+.password-card input {
+  inline-size: 100%;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--field);
+  color: var(--ink);
+  padding: 10px 12px;
+}
+
+.password-error {
+  margin: 0;
+  color: var(--danger);
+  font-weight: 800;
 }
 
 button,
@@ -756,15 +807,30 @@ h2 {
   font-weight: 700;
 }
 
-@media (max-width: 860px) {
+@media (max-width: 1180px) {
   .topbar {
     align-items: stretch;
     flex-direction: column;
   }
 
+  .theme-toggle {
+    position: static;
+    align-self: flex-start;
+  }
+
   .actions {
     align-items: stretch;
     inline-size: 100%;
+  }
+
+  .mode-toggle,
+  .view-tabs {
+    overflow-x: auto;
+  }
+
+  .mode-button,
+  .view-tab {
+    white-space: nowrap;
   }
 
   .actions > button,
@@ -781,13 +847,23 @@ h2 {
     grid-template-columns: 1fr;
   }
 
+  .cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .comparison-panel {
     position: static;
     max-height: none;
   }
 
   .comparison-table-wrap {
-    max-height: 560px;
+    max-height: 68vh;
+  }
+}
+
+@media (max-width: 860px) {
+  .cards {
+    grid-template-columns: 1fr;
   }
 }
 

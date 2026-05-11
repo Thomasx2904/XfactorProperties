@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying large-block candidates in Sunshine Coast hinterland acreage, QLD; 0/10 possible listings found...",
-  "searchArea": "Sunshine Coast hinterland acreage, QLD",
-  "searchAreaPosition": 8,
+  "message": "Verifying large-block candidates in Northern Rivers acreage, NSW; 10/10 possible listings found...",
+  "searchArea": "Northern Rivers acreage, NSW",
+  "searchAreaPosition": 10,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Sunshine Coast hinterland acreage, QLD",
-  "nextAutoRefreshAt": "2026-05-11T02:08:05.397Z",
-  "updatedAt": "2026-05-11T02:06:22.880Z"
+  "nextSearchArea": "Northern Rivers acreage, NSW",
+  "nextAutoRefreshAt": "2026-05-11T02:22:19.341Z",
+  "updatedAt": "2026-05-11T02:23:03.492Z"
 }

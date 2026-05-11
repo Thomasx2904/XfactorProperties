@@ -1060,8 +1060,9 @@ const sampleProperties = [
     title: "36 Esplanade",
     suburb: "Zilzie",
     state: "QLD",
-    nearestMajorCity: "Brisbane",
-    majorCityMinutes: 560,
+    nearestMajorCity: "Rockhampton",
+    majorCityMinutes: 40,
+    listedDate: "2026-04-17",
     price: 1325000,
     landSize: 1012,
     beachfront: true,
@@ -6412,10 +6413,353 @@ const sampleProperties = [
     image: "https://www.realestate.com.au/property-image/700340788/1",
     listingUrl: "https://www.realestate.com.au/property-other-wa-muchea-700340788",
     listingCategory: "large"
+  },
+  {
+    id: "qld-west-woombye-654-blackall-range",
+    title: "654 Blackall Range Road",
+    suburb: "West Woombye",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    price: 5500000,
+    landSize: 120600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Sunshine Coast hinterland", "Airbnb or studio income", "Private waterfall and dams", "Farmlet and eco-tourism upside"],
+    status: "active",
+    notes: "Active realestate.com.au West Woombye acreage listing advertised as 12.06ha / 30 acres with panoramic hinterland views, a separate two-bedroom studio suitable for Airbnb or guest accommodation, productive bananas and jackfruit, irrigation, two dams, domestic bore, 5ML water licence, private waterfall, and eco-tourism or farm-stay potential.",
+    image: "https://www.realestate.com.au/property-image/150408120/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-west%2Bwoombye-150408120",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-hunchy-462-hunchy",
+    title: "462 Hunchy Road",
+    suburb: "Hunchy",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 110,
+    price: 3000000,
+    landSize: 223900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Sought-after hinterland acreage", "Horse and cattle suitability", "Private waterfall and stream", "Near Palmwoods village and beaches"],
+    status: "active",
+    notes: "Active realestate.com.au Hunchy acreage listing advertised as 22.39ha / 55 acres currently operating as a horse sanctuary, with open paddocks, suitability for cattle, equestrian use or hobby farming, a private waterfall and stream, and a position close to Palmwoods village, schools, rail and about 30 minutes to Sunshine Coast beaches.",
+    image: "https://www.realestate.com.au/property-image/150787172/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-hunchy-150787172",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-conondale-189-eastern-mary-river",
+    title: "189 (Lot 33) Eastern Mary River Road",
+    suburb: "Conondale",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: 2250000,
+    landSize: 450200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Productive alluvial acreage", "Water licence", "Sealed road access", "Grazing and land-banking potential"],
+    status: "active",
+    notes: "Active realestate.com.au Conondale acreage listing advertised as 45.02ha of flat, fertile Eastern Mary River valley country with deep alluvial soils, open pasture, current water licence, converted powered shed with solar and battery, sealed road access, and uses including grazing, cropping, equestrian, lifestyle or strategic rural investment.",
+    image: "https://www.realestate.com.au/property-image/147895148/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-conondale-147895148",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-booroobin-1980-maleny-stanley-river",
+    title: "1980 Maleny Stanley River Road",
+    suburb: "Booroobin",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 95,
+    price: 2075000,
+    landSize: 367600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Stanley River frontage", "Eco-tourism upside", "Grazing and conservation mix", "Off-grid infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Booroobin acreage listing advertised as 36.76ha / 92 acres with about 500m of Maleny Stanley River frontage, private swimming holes, 32 acres of grazing paddocks, 60 acres under conservation covenant, four dams, off-grid solar with 40kW battery, barn, studio, stables, and eco-tourism or retreat potential.",
+    image: "https://www.realestate.com.au/property-image/150401932/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-booroobin-150401932",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-wootha-97-155-doyle",
+    title: "97-155 Doyle Road",
+    suburb: "Wootha",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    price: 1900000,
+    landSize: 574700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Maleny hinterland retreat", "Creek and swimming holes", "Off-grid lifestyle", "Nature and tourism appeal"],
+    status: "active",
+    notes: "Active realestate.com.au Wootha acreage listing advertised as 57.47ha / 142 acres about 14 minutes from Maleny Village with Geraghty Creek, crystal-clear swimming holes, camping areas, upgraded internal access, guest quarters, off-grid living, mountain water and strong nature-retreat appeal.",
+    image: "https://www.realestate.com.au/property-image/143895712/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-wootha-143895712",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-cooran-43-james",
+    title: "43 James Street",
+    suburb: "Cooran",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 115,
+    price: 1600000,
+    landSize: 355500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland scale", "Walk to village", "Dam and town water", "30 minutes to Noosa"],
+    status: "active",
+    notes: "Active realestate.com.au Cooran acreage listing advertised as 35.55ha / 87 acres in the Noosa Hinterland with privacy, a 3-bay powered shed, large dam, town water connection, easy walk to Cooran village cafes and brewery, 10 minutes to Pomona and about 30 minutes to Noosa.",
+    image: "https://www.realestate.com.au/property-image/149972980/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-cooran-149972980",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-222-330-boyle",
+    title: "222-330 Boyle Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    price: null,
+    landSize: 4449500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Mary River frontage", "Large development scope", "Water licences and irrigation", "Tourism and recreation upside"],
+    status: "active",
+    notes: "Active realestate.com.au Belli Park acreage listing advertised as 444.95ha with over 2km of Mary River frontage, two freehold titles, agricultural zoning, two water licences, 80 acres irrigated, bores, dams, grazing infrastructure, timber, and stated potential for farming, tourism, sport, recreation and residential uses subject to approvals.",
+    image: "https://www.realestate.com.au/property-image/148268460/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-belli%2Bpark-148268460",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-yandina-creek-721-761-yandina-coolum",
+    title: "721-761 Yandina-Coolum Road",
+    suburb: "Yandina Creek",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    listedDate: "2026-05-05",
+    price: null,
+    landSize: 312000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["10 minutes to Coolum Beach", "Equestrian infrastructure", "Agistment income potential", "Creek and bore water"],
+    status: "active",
+    notes: "Active realestate.com.au Yandina Creek acreage listing advertised as 31.2ha / 77.1 acres on Yandina-Coolum Road, 10 minutes to Coolum Beach, 20 minutes to Noosa and close to Sunshine Coast Airport, with 19 paddocks, stables, arenas, cattle capacity, agistment income potential, bore, three dams, creek frontage and off-grid power.",
+    image: "https://www.realestate.com.au/property-image/151103056/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-yandina%2Bcreek-151103056",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-coolabine-76-beacon-hill",
+    title: "76 Beacon Hill Road",
+    suburb: "Coolabine",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: null,
+    landSize: 404600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Northern Sunshine Coast hinterland", "Borders Mapleton National Park", "Horse and cattle country", "Major solar and battery system"],
+    status: "active",
+    notes: "Active realestate.com.au Coolabine acreage listing advertised as 40.46ha / 100 acres at the top end of the Sunshine Coast Hinterland, about five minutes from Kenilworth and 50 minutes to Noosa beaches, with rolling pastures, Mapleton National Park boundary, spring-fed dam, stables, machinery sheds, large workshop, fruit trees, 33kW solar and 66kW battery storage.",
+    image: "https://www.realestate.com.au/property-image/150304540/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-coolabine-150304540",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-austinville-address-request-mount-nimmel",
+    title: "Address available on request",
+    suburb: "Austinville",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 30,
+    price: 3000000,
+    landSize: 315700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["78-acre legacy estate", "National Park boundary", "Ocean and valley views", "Wellness retreat potential"],
+    status: "active",
+    notes: "Active realestate.com.au Gold Coast hinterland listing advertised as a 31.57ha / 78-acre Mount Nimmel estate surrounded by National Park and SEQ Water Reserve, with ocean, dam and hinterland views, yoga studio, trails, stables, orchard, solar and rainwater storage. Price advertised as buyers above $3 million.",
+    image: "https://www.realestate.com.au/property-image/146866316/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-austinville-146866316",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-austinville-271-austinville",
+    title: "271 Austinville Road",
+    suburb: "Austinville",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 30,
+    price: null,
+    landSize: 267000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Licensed campground", "Tourism income potential", "Multiple cabins and homes", "Close to Mudgeeraba and Robina"],
+    status: "active",
+    notes: "Active realestate.com.au listing for Mt Nimmel Lodge Campground, advertised as a 26.7ha / 66-acre established tourism asset with powered caravan sites, cabins, camp kitchen, amenities, three homes, dams and scope for festival, adventure park, school camp or wellness retreat uses. Price advertised as contact agent.",
+    image: "https://www.realestate.com.au/property-image/149162628/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-austinville-149162628",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-tamborine-mountain-196-276-kaiser",
+    title: "196-276 Kaiser Road",
+    suburb: "Tamborine Mountain",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 40,
+    price: 7000000,
+    landSize: 2203500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["544-acre hinterland estate", "Eco-tourism potential", "Waterfalls and creeks", "Can be sold in two lots"],
+    status: "active",
+    notes: "Active realestate.com.au Tamborine Mountain acreage listing advertised as 220.35ha / 544.5 acres across two lots with a main residence, separate lodge, private waterfalls, creeks, driveways, previous expired commercial approvals and stated potential for glamping, eco cabins, quad biking, mountain biking and farm stays subject to approvals. Price advertised as $7m to $7.5m for both lots.",
+    image: "https://www.realestate.com.au/property-image/147232512/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-tamborine%2Bmountain-147232512",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-boyland-68-70-cherry-tree",
+    title: "68-70 Cherry Tree Court",
+    suburb: "Boyland",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 50,
+    price: null,
+    landSize: 431000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["DA-approved tourist cabins", "Multi-dwelling estate", "Waterfall and pools", "Wellness or wedding retreat potential"],
+    status: "active",
+    notes: "Active realestate.com.au Boyland acreage listing advertised as 43.1ha at the foothills of Mount Tamborine with two established homes, a cottage, pools, seasonal waterfall, DA approval for six tourist accommodation cabins and a reception/office area, plus possible wellness, wedding, food trail or adventure-sport uses subject to approval.",
+    image: "https://www.realestate.com.au/property-image/145400472/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-boyland-145400472",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-boyland-31-four-mile",
+    title: "31 Four Mile Lane",
+    suburb: "Boyland",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 55,
+    price: 5200000,
+    landSize: 222600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Landmark Scenic Rim estate", "Equine infrastructure", "Two residences", "Water licence and dams"],
+    status: "active",
+    notes: "Active realestate.com.au Boyland acreage listing advertised as a 22.26ha / 55-acre estate with a 989sqm main residence, second residence, premium horse barn, 16 paddocks, sheds, manager quarters, bird aviary complex, 300,000L water storage, spring-fed dam and Albert River irrigation licence. Price advertised as offers over $5.2m.",
+    image: "https://www.realestate.com.au/property-image/148414896/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-boyland-148414896",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-mundoolun-2882-beaudesert-beenleigh",
+    title: "2882 Beaudesert-Beenleigh Road",
+    suburb: "Mundoolun",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 55,
+    price: null,
+    landSize: 201500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Dual dwelling income", "Equestrian facilities", "Cleared elevated acreage", "Growth corridor exposure"],
+    status: "active",
+    notes: "Active realestate.com.au Mundoolun acreage listing advertised as 20.15ha with a main residence, second dwelling used for Airbnb income, fenced paddocks, stables, arenas, dam with pump, barn, 3-phase power and proximity to Beaudesert, Jimboomba, Logan and the Gold Coast. Price advertised as contact agent.",
+    image: "https://www.realestate.com.au/property-image/147848200/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-mundoolun-147848200",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-canungra-783-lamington-national-park",
+    title: "783 Lamington National Park Road",
+    suburb: "Canungra",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 55,
+    price: 2500000,
+    landSize: 647500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["160-acre Canungra Valley holding", "Private waterfall and creek", "Grazing and camping potential", "Water rights and dams"],
+    status: "active",
+    notes: "Active realestate.com.au Canungra acreage listing advertised as 64.75ha / 160 acres with a private waterfall, Canungra Creek water rights, dams, camping locations, paddocks, Olympic arena, registered hoop pine plantation, homestead and scope for cattle, horses, walking trails or secluded camping business. Price advertised as offers from $2.5m.",
+    image: "https://www.realestate.com.au/property-image/144167852/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-canungra-144167852",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-tallebudgera-valley-193-petsch-creek",
+    title: "193 Petsch Creek Road",
+    suburb: "Tallebudgera Valley",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 25,
+    price: null,
+    landSize: 395000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["97.6-acre Southern Gold Coast block", "DA-approved cafe and health retreat", "Tourism expansion potential", "Usable land and dam"],
+    status: "active",
+    notes: "Active realestate.com.au Tallebudgera Valley acreage listing advertised as 39.5ha / 97.6 acres with usable land, rainforest edges, dam, existing dwellings, DA approval for a home-based health retreat and cafe, and STCA potential for tourist accommodation, wellness centre, wedding venue or corporate retreat.",
+    image: "https://www.realestate.com.au/property-image/148571332/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-tallebudgera%2Bvalley-148571332",
+    listingCategory: "large"
+  },
+  {
+    id: "qld-tallebudgera-valley-138-araluen",
+    title: "138 Araluen Road",
+    suburb: "Tallebudgera Valley",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 25,
+    price: 2750000,
+    landSize: 200600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["20ha Springbrook foothills", "Natural spring and rainforest", "Large machinery shed", "Close to Burleigh and airport"],
+    status: "active",
+    notes: "Active realestate.com.au Tallebudgera Valley acreage listing advertised as 20.06ha near Springbrook National Park with a cottage, natural spring, clearings, rainforest, fruit trees, machinery shed, water storage, nearby swimming hole and around 24 minutes to Burleigh Heads. Price advertised as offers over $2.75m.",
+    image: "https://www.realestate.com.au/property-image/146917812/1",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-tallebudgera%2Bvalley-146917812",
+    listingCategory: "large"
   }
 ];
 
-const databaseUpdatedAt = "2026-05-11 11:22";
+const databaseUpdatedAt = "2026-05-11 12:05";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
@@ -6434,6 +6778,11 @@ const state = {
 };
 
 const els = {
+  appRoot: document.querySelector("#appRoot"),
+  passwordGate: document.querySelector("#passwordGate"),
+  passwordForm: document.querySelector("#passwordForm"),
+  passwordInput: document.querySelector("#passwordInput"),
+  passwordError: document.querySelector("#passwordError"),
   idColumnFilter: document.querySelector("#idColumnFilter"),
   stateColumnFilter: document.querySelector("#stateColumnFilter"),
   addressColumnFilter: document.querySelector("#addressColumnFilter"),
@@ -6470,6 +6819,35 @@ const els = {
   comparisonTableWrap: document.querySelector("#comparisonTableWrap"),
   template: document.querySelector("#cardTemplate")
 };
+
+const appPassword = "tom1";
+const passwordSessionKey = "propertyXFactorsUnlocked";
+
+function unlockApp() {
+  document.body.classList.remove("locked");
+  els.passwordGate.hidden = true;
+  els.appRoot.hidden = false;
+}
+
+function setupPasswordGate() {
+  if (sessionStorage.getItem(passwordSessionKey) === "true") {
+    unlockApp();
+    return;
+  }
+
+  els.passwordGate.hidden = false;
+  els.appRoot.hidden = true;
+  els.passwordForm.addEventListener("submit", event => {
+    event.preventDefault();
+    if (els.passwordInput.value === appPassword) {
+      sessionStorage.setItem(passwordSessionKey, "true");
+      unlockApp();
+      return;
+    }
+    els.passwordError.hidden = false;
+    els.passwordInput.select();
+  });
+}
 
 const aud = new Intl.NumberFormat("en-AU", {
   style: "currency",
@@ -7477,6 +7855,7 @@ els.comparisonTableBody.addEventListener("keydown", event => {
 populateStaticControls();
 assignDisplayIds();
 initialiseViewedState();
+setupPasswordGate();
 applyTheme();
 startRefreshTimer();
 pollServerRefreshStatus();

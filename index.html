@@ -6,7 +6,18 @@
   <title>Property X Factors Australia</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body class="locked">
+  <section id="passwordGate" class="password-gate" aria-label="Password required">
+    <form id="passwordForm" class="password-card">
+      <p class="eyebrow">Private property dashboard</p>
+      <h1>Property X Factors</h1>
+      <label for="passwordInput">Password</label>
+      <input id="passwordInput" type="password" autocomplete="current-password" autofocus>
+      <button type="submit">Enter app</button>
+      <p id="passwordError" class="password-error" hidden>Incorrect password.</p>
+    </form>
+  </section>
+  <div id="appRoot" class="app-root" hidden>
   <header class="topbar">
     <div>
       <p class="eyebrow">Australia beachfront search</p>
@@ -182,5 +193,6 @@
   </template>
 
   <script src="app.js"></script>
+  </div>
 </body>
 </html>

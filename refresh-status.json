@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Lammermoor, QLD; 10/10 possible listings found...",
-  "searchArea": "Lammermoor, QLD",
-  "searchAreaPosition": 80,
+  "message": "Verifying candidates in Agnes Water, QLD; 10/10 possible listings found...",
+  "searchArea": "Agnes Water, QLD",
+  "searchAreaPosition": 83,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 2,
   "searchPriority": false,
-  "nextSearchArea": "Lammermoor, QLD",
-  "nextAutoRefreshAt": "2026-05-11T02:07:59.756Z",
-  "updatedAt": "2026-05-11T02:06:22.735Z"
+  "nextSearchArea": "Agnes Water, QLD",
+  "nextAutoRefreshAt": "2026-05-11T02:21:49.341Z",
+  "updatedAt": "2026-05-11T02:22:44.897Z"
 }
