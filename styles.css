@@ -787,6 +787,22 @@ h2 {
   text-decoration: underline;
 }
 
+.unavailable {
+  flex: 0 0 auto;
+  min-height: 32px;
+  padding: 6px 9px;
+  border-color: var(--line);
+  background: var(--field);
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.unavailable:hover {
+  border-color: var(--danger);
+  background: transparent;
+  color: var(--danger);
+}
+
 .score {
   color: var(--muted);
   font-size: 0.88rem;
