@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Glenelg South, SA; 0/10 possible listings found...",
-  "searchArea": "Glenelg South, SA",
-  "searchAreaPosition": 15,
+  "message": "Verifying candidates in Denmark, WA; 10/10 possible listings found...",
+  "searchArea": "Denmark, WA",
+  "searchAreaPosition": 48,
   "searchAreaTotal": 170,
-  "searchDurationMinutes": 10,
-  "searchPriority": true,
-  "nextSearchArea": "Glenelg South, SA",
-  "nextAutoRefreshAt": "2026-05-12T03:58:56.505Z",
-  "updatedAt": "2026-05-12T03:54:39.394Z"
+  "searchDurationMinutes": 2,
+  "searchPriority": false,
+  "nextSearchArea": "Denmark, WA",
+  "nextAutoRefreshAt": "2026-05-12T08:45:40.795Z",
+  "updatedAt": "2026-05-12T08:46:25.700Z"
 }

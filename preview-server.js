@@ -13,6 +13,7 @@ const largeLogPath = path.join(root, "large-refresh-listings.log");
 const largeStatePath = path.join(root, "large-search-state.json");
 const codexPath = "C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\codex.exe";
 const nodePath = "C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\node.exe";
+const listingImageCache = new Map();
 let refreshProcess = null;
 let refreshTimeout = null;
 let refreshStoppedByTimeout = false;
@@ -294,6 +295,72 @@ function formatDuration(ms) {
 
 function processTimeoutMs(searchTimeoutMs) {
   return searchTimeoutMs + saveChangesGraceMs;
+}
+
+function isSupportedListingHost(url) {
+  try {
+    const host = new URL(url).hostname.toLowerCase();
+    return host.endsWith("realestate.com.au") || host.endsWith("domain.com.au") || host.endsWith("homely.com.au");
+  } catch {
+    return false;
+  }
+}
+
+function decodeHtml(value) {
+  return String(value || "")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&#x2F;/g, "/")
+    .replace(/\\/g, "");
+}
+
+function pickListingImage(html) {
+  const candidates = [];
+  const patterns = [
+    /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/gi,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::secure_url)?["']/gi,
+    /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/gi,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/gi,
+    /https?:\/\/i2\.au\.reastatic\.net\/[^"'\\\s<>)]+/gi,
+    /https?:\/\/rimh2\.domainstatic\.com\.au\/[^"'\\\s<>)]+/gi,
+    /https?:\/\/www\.homely\.com\.au\/img-variant\/[^"'\\\s<>)]+/gi
+  ];
+
+  patterns.forEach(pattern => {
+    for (const match of html.matchAll(pattern)) {
+      candidates.push(decodeHtml(match[1] || match[0]));
+    }
+  });
+
+  return candidates.find(url =>
+    /^https?:\/\//i.test(url) &&
+    !/property-image|project-image|placeholder|no-image|logo|favicon/i.test(url)
+  ) || "";
+}
+
+async function resolveListingImage(listingUrl) {
+  if (!isSupportedListingHost(listingUrl)) return "";
+  if (listingImageCache.has(listingUrl)) return listingImageCache.get(listingUrl);
+
+  try {
+    const response = await fetch(listingUrl, {
+      headers: {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      }
+    });
+    if (!response.ok) {
+      listingImageCache.set(listingUrl, "");
+      return "";
+    }
+    const html = await response.text();
+    const image = pickListingImage(html);
+    listingImageCache.set(listingUrl, image);
+    return image;
+  } catch {
+    listingImageCache.set(listingUrl, "");
+    return "";
+  }
 }
 
 function readSuburbSearchState() {
@@ -727,6 +794,19 @@ http.createServer((request, response) => {
     }
     status.nextAutoRefreshAt = nextLargeAutoRefreshAt;
     writeJson(response, 200, withLargeSearchAreaStatus(status));
+    return;
+  }
+
+  if (urlPath === "/listing-image") {
+    const requestUrl = new URL(request.url, `http://127.0.0.1:${port}`);
+    const listingUrl = requestUrl.searchParams.get("url") || "";
+    if (!isSupportedListingHost(listingUrl)) {
+      writeJson(response, 400, { image: "" });
+      return;
+    }
+    resolveListingImage(listingUrl).then(image => {
+      writeJson(response, image ? 200 : 404, { image });
+    });
     return;
   }
 

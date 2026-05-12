@@ -20329,6 +20329,63 @@ function isOnlineViewerMode() {
   return window.location.protocol === "https:" && !localServerHosts.has(window.location.hostname);
 }
 
+function isWeakImageUrl(url) {
+  return /realestate\.com\.au\/(?:property-image|project-image)|placeholder|no-image|default|img-variant/i.test(String(url || ""));
+}
+
+async function fetchListingImageFallback(property) {
+  if (isOnlineViewerMode() || window.location.protocol === "file:") return "";
+  const listingLink = getListingLink(property);
+  if (!listingLink) return "";
+  try {
+    const response = await fetch(`/listing-image?url=${encodeURIComponent(listingLink)}`);
+    if (!response.ok) return "";
+    const data = await response.json();
+    return data.image || "";
+  } catch {
+    return "";
+  }
+}
+
+function useListingImage(element, property, options = {}) {
+  const { hideOnMissing = false, missingClassTarget = null, onMissing = null } = options;
+  const markMissing = () => {
+    if (!hideOnMissing) return;
+    element.hidden = true;
+    missingClassTarget?.classList.add("no-image");
+    onMissing?.();
+  };
+  const fallback = async ({ hideIfUnavailable = false } = {}) => {
+    if (element.dataset.fallbackTried === "true") {
+      if (hideIfUnavailable) markMissing();
+      return;
+    }
+    element.dataset.fallbackTried = "true";
+    const image = await fetchListingImageFallback(property);
+    if (image && image !== element.src) {
+      element.src = image;
+      element.hidden = false;
+      missingClassTarget?.classList.remove("no-image");
+    } else if (hideIfUnavailable) {
+      markMissing();
+    }
+  };
+
+  element.addEventListener("error", () => fallback({ hideIfUnavailable: true }), { once: true });
+
+  if (property.image) {
+    element.src = property.image;
+    element.hidden = false;
+    element.loading = "lazy";
+    element.decoding = "async";
+    if (isWeakImageUrl(property.image)) {
+      window.requestIdleCallback ? window.requestIdleCallback(fallback) : window.setTimeout(fallback, 0);
+    }
+  } else {
+    fallback({ hideIfUnavailable: true });
+  }
+}
+
 function renderRefreshTimer() {
   if (isOnlineViewerMode()) {
     els.refreshTimer.textContent = "online";
@@ -20745,20 +20802,20 @@ function renderComparisonTable(properties) {
     const imageCell = document.createElement("td");
     imageCell.className = "table-image-cell";
 
-    if (property.image) {
-      const image = document.createElement("img");
-      image.className = "table-property-image";
-      image.src = property.image;
-      image.alt = property.title ? `${property.title} property photo` : "Property photo";
-      image.loading = "lazy";
-      image.decoding = "async";
-      imageCell.append(image);
-    } else {
-      const placeholder = document.createElement("span");
-      placeholder.className = "table-image-placeholder";
-      placeholder.textContent = "No image";
-      imageCell.append(placeholder);
-    }
+    const image = document.createElement("img");
+    const placeholder = document.createElement("span");
+    image.className = "table-property-image";
+    image.alt = property.title ? `${property.title} property photo` : "Property photo";
+    placeholder.className = "table-image-placeholder";
+    placeholder.textContent = "No image";
+    placeholder.hidden = Boolean(property.image);
+    useListingImage(image, property, {
+      hideOnMissing: !property.image,
+      onMissing: () => {
+        placeholder.hidden = false;
+      }
+    });
+    imageCell.append(image, placeholder);
 
     row.append(imageCell);
 
@@ -21232,14 +21289,7 @@ function render() {
       markPropertyViewed(property.id);
     });
     img.alt = property.title;
-    if (property.image) {
-      img.src = property.image;
-      img.loading = "lazy";
-      img.decoding = "async";
-    } else {
-      img.hidden = true;
-      media.classList.add("no-image");
-    }
+    useListingImage(img, property, { hideOnMissing: true, missingClassTarget: media });
     node.querySelector(".badge").textContent = state.searchMode === "large"
       ? "Large landholding"
       : property.noRoadFrontage ? "Beachfront, no road in front" : property.beachfront ? "Beachfront" : "Coastal comparator";
