@@ -44,6 +44,7 @@
         <button id="starPropertiesButton" class="view-tab" type="button">AI Picks <span id="starCount">0</span></button>
       </div>
       <button id="exportButton" type="button">Export favourites</button>
+      <button id="refreshFavouritePhotosButton" type="button">Update favourite photos</button>
     </div>
   </header>
 
@@ -84,6 +85,7 @@
               <thead>
                 <tr>
                   <th>Picture</th>
+                  <th>Picture 2</th>
                   <th>ID</th>
                   <th>State</th>
                   <th>Address</th>
@@ -95,9 +97,12 @@
                 </tr>
                 <tr class="filter-row">
                   <th aria-label="Picture"></th>
+                  <th aria-label="Picture 2"></th>
                   <th>
                     <select id="idColumnFilter">
                       <option value="all">All IDs</option>
+                      <option value="asc">Lowest first</option>
+                      <option value="desc">Highest first</option>
                     </select>
                   </th>
                   <th>

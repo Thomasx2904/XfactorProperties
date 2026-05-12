@@ -14,6 +14,7 @@ const largeStatePath = path.join(root, "large-search-state.json");
 const codexPath = "C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\codex.exe";
 const nodePath = "C:\\Users\\User\\AppData\\Local\\OpenAI\\Codex\\bin\\node.exe";
 const listingImageCache = new Map();
+const listingImagesCache = new Map();
 let refreshProcess = null;
 let refreshTimeout = null;
 let refreshStoppedByTimeout = false;
@@ -314,7 +315,28 @@ function decodeHtml(value) {
     .replace(/\\/g, "");
 }
 
-function pickListingImage(html) {
+function uniqueImageUrls(images) {
+  const seen = new Set();
+  return images
+    .map(decodeHtml)
+    .map(url => url.trim())
+    .filter(url => /^https?:\/\//i.test(url))
+    .filter(url => {
+      const key = (() => {
+        try {
+          const parsed = new URL(url);
+          return `${parsed.origin}${parsed.pathname}`;
+        } catch {
+          return url.replace(/\?.*$/, "");
+        }
+      })();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return !/property-image|project-image|placeholder|no-image|logo|favicon|sprite/i.test(url);
+    });
+}
+
+function pickListingImages(html) {
   const candidates = [];
   const patterns = [
     /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/gi,
@@ -332,16 +354,15 @@ function pickListingImage(html) {
     }
   });
 
-  return candidates.find(url =>
-    /^https?:\/\//i.test(url) &&
-    !/property-image|project-image|placeholder|no-image|logo|favicon/i.test(url)
-  ) || "";
+  return uniqueImageUrls(candidates);
 }
 
-async function resolveListingImage(listingUrl) {
-  if (!isSupportedListingHost(listingUrl)) return "";
-  if (listingImageCache.has(listingUrl)) return listingImageCache.get(listingUrl);
+function pickListingImage(html) {
+  return pickListingImages(html)[0] || "";
+}
 
+async function fetchListingHtml(listingUrl) {
+  if (!isSupportedListingHost(listingUrl)) return "";
   try {
     const response = await fetch(listingUrl, {
       headers: {
@@ -349,18 +370,193 @@ async function resolveListingImage(listingUrl) {
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       }
     });
-    if (!response.ok) {
-      listingImageCache.set(listingUrl, "");
-      return "";
-    }
-    const html = await response.text();
-    const image = pickListingImage(html);
-    listingImageCache.set(listingUrl, image);
-    return image;
+    return response.ok ? await response.text() : "";
   } catch {
-    listingImageCache.set(listingUrl, "");
     return "";
   }
+}
+
+async function resolveListingImages(listingUrl) {
+  if (!isSupportedListingHost(listingUrl)) return [];
+  if (listingImagesCache.has(listingUrl)) return listingImagesCache.get(listingUrl);
+  const html = await fetchListingHtml(listingUrl);
+  const images = html ? pickListingImages(html) : [];
+  listingImagesCache.set(listingUrl, images);
+  if (images[0]) listingImageCache.set(listingUrl, images[0]);
+  return images;
+}
+
+async function resolveListingImage(listingUrl) {
+  if (!isSupportedListingHost(listingUrl)) return "";
+  if (listingImageCache.has(listingUrl)) return listingImageCache.get(listingUrl);
+  const image = (await resolveListingImages(listingUrl))[0] || "";
+  listingImageCache.set(listingUrl, image);
+  return image;
+}
+
+function readRequestJson(request) {
+  return new Promise(resolve => {
+    let body = "";
+    request.on("data", chunk => {
+      body += chunk;
+      if (body.length > 1024 * 1024) request.destroy();
+    });
+    request.on("end", () => {
+      try {
+        resolve(JSON.parse(body || "{}"));
+      } catch {
+        resolve({});
+      }
+    });
+    request.on("error", () => resolve({}));
+  });
+}
+
+function findPropertyObjectRange(source, id) {
+  const escapedId = id.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const idPattern = new RegExp(`id:\\s*["']${escapedId}["']`);
+  const match = idPattern.exec(source);
+  if (!match) return null;
+
+  const start = source.lastIndexOf("\n  {", match.index);
+  if (start === -1) return null;
+  let depth = 0;
+  let quote = "";
+  let escaped = false;
+  for (let index = start + 1; index < source.length; index += 1) {
+    const char = source[index];
+    if (quote) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === "\\") {
+        escaped = true;
+      } else if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === '"' || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (char === "{") depth += 1;
+    if (char === "}") {
+      depth -= 1;
+      if (depth === 0) return { start: start + 1, end: index + 1 };
+    }
+  }
+  return null;
+}
+
+function findArrayEnd(source, start) {
+  const open = source.indexOf("[", start);
+  if (open === -1) return -1;
+  let depth = 0;
+  let quote = "";
+  let escaped = false;
+  for (let index = open; index < source.length; index += 1) {
+    const char = source[index];
+    if (quote) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === "\\") {
+        escaped = true;
+      } else if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === '"' || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (char === "[") depth += 1;
+    if (char === "]") {
+      depth -= 1;
+      if (depth === 0) return index + 1;
+    }
+  }
+  return -1;
+}
+
+function formatImagesProperty(images) {
+  return `    images: [\n${images.map(image => `      ${JSON.stringify(image)}`).join(",\n")}\n    ],`;
+}
+
+function updatePropertyObjectImages(objectText, images) {
+  const imagesText = formatImagesProperty(images);
+  const imagesMatch = /\n    images\s*:/.exec(objectText);
+  if (imagesMatch) {
+    const end = findArrayEnd(objectText, imagesMatch.index);
+    if (end !== -1) {
+      const commaEnd = objectText[end] === "," ? end + 1 : end;
+      return objectText.slice(0, imagesMatch.index) + "\n" + imagesText + objectText.slice(commaEnd);
+    }
+  }
+
+  const listingIndex = objectText.search(/\n    listingUrl\s*:/);
+  if (listingIndex !== -1) {
+    return objectText.slice(0, listingIndex) + "\n" + imagesText + objectText.slice(listingIndex);
+  }
+
+  return objectText.replace(/\n  }$/, `,\n${imagesText}\n  }`);
+}
+
+function getPropertyById(id) {
+  const source = fs.readFileSync(path.join(root, "app.js"), "utf8");
+  const range = findPropertyObjectRange(source, id);
+  if (!range) return null;
+  const objectText = source.slice(range.start, range.end);
+  try {
+    return { range, objectText, property: Function(`"use strict"; return (${objectText});`)() };
+  } catch {
+    return null;
+  }
+}
+
+async function refreshFavouriteImages(ids) {
+  const appPath = path.join(root, "app.js");
+  let source = fs.readFileSync(appPath, "utf8");
+  const results = [];
+  const galleries = {};
+
+  for (const id of ids) {
+    const current = getPropertyById(id);
+    if (!current?.property?.listingUrl) {
+      results.push({ id, status: "skipped", reason: "No exact listing URL found." });
+      continue;
+    }
+
+    const foundImages = await resolveListingImages(current.property.listingUrl);
+    const images = uniqueImageUrls([current.property.image, ...(current.property.images || []), ...foundImages]);
+    if (images.length <= (current.property.images || [current.property.image].filter(Boolean)).length) {
+      results.push({ id, status: "unchanged", imageCount: images.length });
+      if (images.length) galleries[id] = images;
+      continue;
+    }
+
+    const range = findPropertyObjectRange(source, id);
+    if (!range) {
+      results.push({ id, status: "skipped", reason: "Record moved during update." });
+      continue;
+    }
+    const objectText = source.slice(range.start, range.end);
+    const updatedObject = updatePropertyObjectImages(objectText, images);
+    source = source.slice(0, range.start) + updatedObject + source.slice(range.end);
+    galleries[id] = images;
+    results.push({ id, status: "updated", imageCount: images.length, added: images.length - (current.property.images || []).length });
+  }
+
+  if (results.some(result => result.status === "updated")) {
+    fs.writeFileSync(appPath, source);
+  }
+
+  return {
+    checked: ids.length,
+    updated: results.filter(result => result.status === "updated").length,
+    galleries,
+    results
+  };
 }
 
 function readSuburbSearchState() {
@@ -523,9 +719,9 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
     "Do not add Tasmania, rentals, sold listings, off-market pages, moved/deleted/unavailable pages, generic suburb searches, duplicate records, duplicate addresses already in app.js, duplicate titles/suburbs on another portal, or pages without a usable direct listing URL and real listing hero image. Image must be a loadable direct hero photo URL, such as i2.au.reastatic.net or a current Homely/Domain image, not realestate.com.au/property-image, realestate.com.au/project-image, placeholder, or stale wrapper URLs.",
     `Work in two phases: spend no more than ${timeoutText} finding and verifying candidates in this suburb, then immediately edit C:\\Users\\User\\Documents\\New project\\app.js with whatever passed verification. Do not keep searching just to fill the batch.`,
     "Before adding, scan app.js for existing ids, listingUrl values, and normalized title + suburb + state address keys. Add up to 10 verified direct listing records that are not already present in sampleProperties. If only 1 to 9 good matches are found, add those immediately. If no good matches are found, make no listing-data changes.",
-    `Each added record must include id, title, suburb, state, nearestMajorCity, majorCityMinutes, daysOnMarket if visible or listedDate if available, price, landSize, beachfront, noRoadFrontage, directBeachAccess, factors, status, notes, image, and listingUrl. Use ${activeSearchArea ? activeSearchArea.city : "the nearest major city"} as nearestMajorCity unless the listing is clearly closer to another major city.`,
+    `Each added record must include id, title, suburb, state, nearestMajorCity, majorCityMinutes, daysOnMarket if visible or listedDate if available, price, landSize, beachfront, noRoadFrontage, directBeachAccess, factors, status, notes, image, images, and listingUrl. Use ${activeSearchArea ? activeSearchArea.city : "the nearest major city"} as nearestMajorCity unless the listing is clearly closer to another major city. Open the listing photo gallery when available and set images to every usable direct property photo URL you can verify from the exact listing page, with image as the first/hero image. Do not use logos, agent portraits, floorplans, placeholders, wrapper URLs, or unrelated nearby-listing images in images.`,
     "For each verified listing, also check available 5-year suburb/comparable sales growth evidence. If credible evidence supports potential above 15% annual growth, add investmentStar: true plus investmentAnnualGrowth5Yr or investmentFiveYearGrowth and a short investmentReason. If evidence is missing or weaker, leave investmentStar false or omit it; do not guess.",
-    "If any existing listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active records in the same suburb when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, or set status unavailable if the exact listing cannot be opened.",
+    "If any existing listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active records in the same suburb when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, add/update an images array with every usable direct listing photo URL you can verify, or set status unavailable if the exact listing cannot be opened.",
     `Update README counts if the total changes. Run ${nodePath} --check app.js before finishing. Keep the final response short.`
   ].join(" ");
 
@@ -537,9 +733,9 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
     "Use portal suburb result pages first, especially realestate.com.au/buy/in-{suburb,+sa}/list-1 and matching Domain/Homely suburb sale pages, then open each promising result card and save only the exact listing URL. Check page 2 if present, nearby exact suburb name variants, and Esplanade/beachfront keyword searches before moving on. Also use direct listing pages on realestate.com.au, Domain, and Homely. Do not add rentals, sold listings, off-market pages, moved/deleted/unavailable pages, generic suburb searches, duplicate records, duplicate addresses already in app.js, duplicate titles/suburbs on another portal, or pages without a usable direct listing URL and real listing hero image. Image must be a loadable direct hero photo URL, such as i2.au.reastatic.net or a current Homely/Domain image, not realestate.com.au/property-image, realestate.com.au/project-image, placeholder, or stale wrapper URLs.",
     "Work in two phases: spend no more than 10 minutes finding and verifying candidates, then immediately edit C:\\Users\\User\\Documents\\New project\\app.js with whatever passed verification. Do not keep searching just to fill the batch.",
     "Before adding, scan app.js for existing ids, listingUrl values, and normalized title + suburb + state address keys. Add up to 10 verified direct SA listing records that are not already present in sampleProperties. If only 1 to 9 good matches are found, add those immediately. If no good matches are found, make no listing-data changes.",
-    "Each added record must include id, title, suburb, state set to SA, nearestMajorCity set to Adelaide, majorCityMinutes, daysOnMarket if visible or listedDate if available, price, landSize, beachfront, noRoadFrontage, directBeachAccess, factors, status, notes, image, and listingUrl.",
+    "Each added record must include id, title, suburb, state set to SA, nearestMajorCity set to Adelaide, majorCityMinutes, daysOnMarket if visible or listedDate if available, price, landSize, beachfront, noRoadFrontage, directBeachAccess, factors, status, notes, image, images, and listingUrl. Open the listing photo gallery when available and set images to every usable direct property photo URL you can verify from the exact listing page, with image as the first/hero image. Do not use logos, agent portraits, floorplans, placeholders, wrapper URLs, or unrelated nearby-listing images in images.",
     "For each verified listing, also check available 5-year suburb/comparable sales growth evidence. If credible evidence supports potential above 15% annual growth, add investmentStar: true plus investmentAnnualGrowth5Yr or investmentFiveYearGrowth and a short investmentReason. If evidence is missing or weaker, leave investmentStar false or omit it; do not guess.",
-    "If any existing SA listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active SA records when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, or set status unavailable if the exact listing cannot be opened.",
+    "If any existing SA listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active SA records when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, add/update an images array with every usable direct listing photo URL you can verify, or set status unavailable if the exact listing cannot be opened.",
     `Update README counts if the total changes. Run ${nodePath} --check app.js before finishing. Keep the final response short.`
   ].join(" ");
 
@@ -646,9 +842,9 @@ function startLargeListingRefresh(response, mode = "manual") {
     "Do not add rentals, sold listings, off-market pages, moved/deleted/unavailable pages, generic search pages, duplicate records, duplicate addresses already in app.js, duplicate titles/regions on another portal, or pages without a usable direct listing URL and real listing hero image. Image must be a loadable direct hero photo URL, such as i2.au.reastatic.net or a current Homely/Domain image, not realestate.com.au/property-image, realestate.com.au/project-image, placeholder, or stale wrapper URLs.",
     `Work in two phases: spend no more than ${timeoutText} finding and verifying candidates, then immediately edit C:\\Users\\User\\Documents\\New project\\app.js with whatever passed verification. Do not keep searching just to fill the batch.`,
     "Before adding, scan app.js for existing ids, listingUrl values, and normalized title + suburb + state address keys. Add up to 10 verified large-property records that are not already present in sampleProperties. If only 1 to 9 good matches are found, add those immediately. If no good matches are found, make no listing-data changes.",
-    `Each added record must include id, title, suburb or region as suburb, state, nearestMajorCity set to ${activeLargeSearchArea.city}, majorCityMinutes if reasonably estimable, daysOnMarket if visible or listedDate if available, price, landSize in square metres, beachfront false unless clearly beachfront, noRoadFrontage false unless clearly no-road waterfront, directBeachAccess false unless clearly true, factors, status, notes, image, listingUrl, and listingCategory: "large".`,
+    `Each added record must include id, title, suburb or region as suburb, state, nearestMajorCity set to ${activeLargeSearchArea.city}, majorCityMinutes if reasonably estimable, daysOnMarket if visible or listedDate if available, price, landSize in square metres, beachfront false unless clearly beachfront, noRoadFrontage false unless clearly no-road waterfront, directBeachAccess false unless clearly true, factors, status, notes, image, images, listingUrl, and listingCategory: "large". Open the listing photo gallery when available and set images to every usable direct property photo URL you can verify from the exact listing page, with image as the first/hero image. Do not use logos, agent portraits, floorplans, placeholders, wrapper URLs, or unrelated nearby-listing images in images.`,
     "For each verified listing, also check available 5-year regional/comparable sales growth evidence. If credible evidence supports potential above 15% annual growth, add investmentStar: true plus investmentAnnualGrowth5Yr or investmentFiveYearGrowth and a short investmentReason. If evidence is missing or weaker, leave investmentStar false or omit it; do not guess.",
-    "If any existing large-property listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active large-property records in the same region when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, or set status unavailable if the exact listing cannot be opened.",
+    "If any existing large-property listing is sold, under offer, under contract, leased, withdrawn, off market, moved, deleted, unavailable, or no longer active at its exact listing URL, set status so it disappears from the app. Also repair existing active large-property records in the same region when their image uses realestate.com.au/property-image, realestate.com.au/project-image, a placeholder, or any broken URL: replace it with a loadable direct hero photo URL from the exact listing, add/update an images array with every usable direct listing photo URL you can verify, or set status unavailable if the exact listing cannot be opened.",
     `Update README counts if the total changes. Run ${nodePath} --check app.js before finishing. Keep the final response short.`
   ].join(" ");
 
@@ -767,6 +963,23 @@ http.createServer((request, response) => {
     return;
   }
 
+  if (urlPath === "/refresh-favourite-images" && request.method === "POST") {
+    readRequestJson(request).then(async body => {
+      const ids = Array.isArray(body.ids) ? body.ids.map(String).filter(Boolean).slice(0, 100) : [];
+      if (!ids.length) {
+        writeJson(response, 400, { message: "No favourite property ids were supplied." });
+        return;
+      }
+      try {
+        const result = await refreshFavouriteImages(ids);
+        writeJson(response, 200, result);
+      } catch (error) {
+        writeJson(response, 500, { message: error.message || "Favourite photo update failed." });
+      }
+    });
+    return;
+  }
+
   if (urlPath === "/refresh-status") {
     const status = readRefreshStatus();
     if (status.state === "running" && !refreshProcess) {
@@ -806,6 +1019,19 @@ http.createServer((request, response) => {
     }
     resolveListingImage(listingUrl).then(image => {
       writeJson(response, image ? 200 : 404, { image });
+    });
+    return;
+  }
+
+  if (urlPath === "/listing-images") {
+    const requestUrl = new URL(request.url, `http://127.0.0.1:${port}`);
+    const listingUrl = requestUrl.searchParams.get("url") || "";
+    if (!isSupportedListingHost(listingUrl)) {
+      writeJson(response, 400, { images: [] });
+      return;
+    }
+    resolveListingImages(listingUrl).then(images => {
+      writeJson(response, images.length ? 200 : 404, { images });
     });
     return;
   }

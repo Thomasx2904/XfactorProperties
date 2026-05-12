@@ -510,6 +510,104 @@ select {
   display: block;
 }
 
+.photo-nav {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  inline-size: 38px;
+  block-size: 38px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(5, 22, 20, 0.72);
+  color: #ffffff;
+  font-size: 2rem;
+  line-height: 1;
+  transform: translateY(-50%);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.24);
+}
+
+.photo-nav:hover {
+  background: rgba(5, 22, 20, 0.9);
+}
+
+.photo-nav-prev {
+  left: 10px;
+}
+
+.photo-nav-next {
+  right: 10px;
+}
+
+.photo-count {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  border-radius: 999px;
+  background: rgba(5, 22, 20, 0.78);
+  color: #ffffff;
+  padding: 6px 9px;
+  font-size: 0.74rem;
+  font-weight: 800;
+}
+
+.photo-load {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  z-index: 2;
+  min-height: 32px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(5, 22, 20, 0.78);
+  color: #ffffff;
+  padding: 6px 12px;
+  font-size: 0.74rem;
+  font-weight: 800;
+}
+
+.photo-load:disabled {
+  opacity: 0.72;
+}
+
+.photo-strip {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  left: 10px;
+  z-index: 2;
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 3px;
+  scrollbar-width: thin;
+}
+
+.photo-thumb {
+  flex: 0 0 auto;
+  inline-size: 54px;
+  block-size: 38px;
+  overflow: hidden;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+  padding: 0;
+  background: rgba(5, 22, 20, 0.5);
+  opacity: 0.78;
+}
+
+.photo-thumb.active {
+  border-color: var(--sun);
+  opacity: 1;
+}
+
+.photo-thumb img {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+
 .media.no-image::before {
   content: "No listing photo supplied";
   position: absolute;
@@ -531,6 +629,11 @@ select {
   padding: 7px 10px;
   font-size: 0.82rem;
   font-weight: 800;
+}
+
+.media.has-gallery .badge {
+  bottom: 58px;
+  max-width: calc(100% - 96px);
 }
 
 :root[data-theme="dark"] .badge {
@@ -704,7 +807,7 @@ h2 {
 
 .comparison-table {
   inline-size: 100%;
-  min-inline-size: 1220px;
+  min-inline-size: 1350px;
   table-layout: fixed;
   border-collapse: collapse;
   background: var(--panel);
@@ -760,13 +863,15 @@ h2 {
 }
 
 .comparison-table th:first-child,
-.comparison-table td:first-child {
+.comparison-table td:first-child,
+.comparison-table th:nth-child(2),
+.comparison-table td:nth-child(2) {
   inline-size: 102px;
   width: 102px;
 }
 
-.comparison-table th:nth-child(4),
-.comparison-table td:nth-child(4) {
+.comparison-table th:nth-child(5),
+.comparison-table td:nth-child(5) {
   inline-size: 390px;
   width: 390px;
 }
@@ -775,17 +880,43 @@ h2 {
   inline-size: 102px;
 }
 
+.table-picture2-cell {
+  inline-size: 102px;
+}
+
 .table-property-image,
-.table-image-placeholder {
+.table-image-placeholder,
+.picture2-image {
   display: block;
   inline-size: 88px;
   block-size: 66px;
   border-radius: 7px;
 }
 
-.table-property-image {
+.table-property-image,
+.picture2-image {
   object-fit: cover;
   background: var(--metric);
+}
+
+.picture2-picker {
+  display: grid;
+  gap: 4px;
+}
+
+.picture2-select {
+  inline-size: 88px;
+  min-height: 25px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--field);
+  color: var(--ink);
+  font-size: 0.66rem;
+  font-weight: 800;
+}
+
+.picture2-select:disabled {
+  color: var(--muted);
 }
 
 .table-image-placeholder {

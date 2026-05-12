@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying candidates in Denmark, WA; 10/10 possible listings found...",
-  "searchArea": "Denmark, WA",
-  "searchAreaPosition": 48,
+  "message": "Verifying candidates in Mackay, QLD; 10/10 possible listings found...",
+  "searchArea": "Mackay, QLD",
+  "searchAreaPosition": 77,
   "searchAreaTotal": 170,
-  "searchDurationMinutes": 2,
-  "searchPriority": false,
-  "nextSearchArea": "Denmark, WA",
-  "nextAutoRefreshAt": "2026-05-12T08:45:40.795Z",
-  "updatedAt": "2026-05-12T08:46:25.700Z"
+  "searchDurationMinutes": 10,
+  "searchPriority": true,
+  "nextSearchArea": "Mackay, QLD",
+  "nextAutoRefreshAt": "2026-05-12T14:35:50.861Z",
+  "updatedAt": "2026-05-12T14:34:57.168Z"
 }

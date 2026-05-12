@@ -1,13 +1,13 @@
 {
   "state": "complete",
   "mode": "auto",
-  "message": "Finished Gold Coast hinterland acreage, QLD. Reloading large listings...",
-  "searchArea": "Gold Coast hinterland acreage, QLD",
-  "searchAreaPosition": 9,
+  "message": "Finished Hunter Valley and Central Coast acreage, NSW. Reloading large listings...",
+  "searchArea": "Hunter Valley and Central Coast acreage, NSW",
+  "searchAreaPosition": 11,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Northern Rivers acreage, NSW",
-  "nextAutoRefreshAt": "2026-05-12T08:32:09.715Z",
-  "updatedAt": "2026-05-12T08:27:09.732Z"
+  "nextSearchArea": "Sydney fringe rural holdings, NSW",
+  "nextAutoRefreshAt": "2026-05-12T14:13:26.531Z",
+  "updatedAt": "2026-05-12T14:08:26.536Z"
 }

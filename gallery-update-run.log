@@ -1,0 +1,731 @@
+
+[2026-05-12T13:51:38.213Z] Gallery update runner started with batch size 25
+
+[2026-05-12T13:51:38.215Z] Batch 1 started
+00200 nsw-stockton-26-flint: 31 images
+00201 nsw-stockton-2-21-stone: 0 images
+00202 nsw-stockton-11-meredith: 17 images
+00203 qld-lammermoor-26-evelyn: 0 images
+00204 qld-warana-107-oceanic: 35 images
+00205 qld-warana-95-oceanic: 30 images
+00206 qld-warana-2-146-oceanic: 26 images
+00207 qld-warana-7-palkana: 37 images
+00208 qld-marcus-beach-35-callitris: 26 images
+00209 qld-marcus-beach-49-tristania: 23 images
+00210 qld-marcus-beach-33-tristania: 21 images
+00211 qld-marcus-beach-8-tristania: 24 images
+00212 qld-marcus-beach-44-tristania: 14 images
+00213 qld-marcus-beach-16-royena: 5 images
+00214 qld-marcus-beach-3-ashwood: 32 images
+00215 vic-balnarring-beach-3-library: 18 images
+00216 vic-balnarring-beach-16-tulum: 32 images
+00217 vic-balnarring-beach-3-fauconshawe: 13 images
+00218 vic-balnarring-beach-53-bayview: 19 images
+00219 vic-balnarring-beach-5-bass: 0 images
+00220 qld-surfers-paradise-1903-3-northcliffe: 30 images
+00221 wa-cottesloe-200-marine: 32 images
+00222 wa-cottesloe-8-110-marine: 35 images
+00223 wa-cottesloe-1-110-marine: 30 images
+00224 wa-cottesloe-202-120-marine: 2 images
+{
+  "checked": 25,
+  "patched": [
+    {
+      "displayId": "00200",
+      "id": "nsw-stockton-26-flint",
+      "images": 31
+    },
+    {
+      "displayId": "00202",
+      "id": "nsw-stockton-11-meredith",
+      "images": 17
+    },
+    {
+      "displayId": "00204",
+      "id": "qld-warana-107-oceanic",
+      "images": 35
+    },
+    {
+      "displayId": "00205",
+      "id": "qld-warana-95-oceanic",
+      "images": 30
+    },
+    {
+      "displayId": "00206",
+      "id": "qld-warana-2-146-oceanic",
+      "images": 26
+    },
+    {
+      "displayId": "00207",
+      "id": "qld-warana-7-palkana",
+      "images": 37
+    },
+    {
+      "displayId": "00208",
+      "id": "qld-marcus-beach-35-callitris",
+      "images": 26
+    },
+    {
+      "displayId": "00209",
+      "id": "qld-marcus-beach-49-tristania",
+      "images": 23
+    },
+    {
+      "displayId": "00210",
+      "id": "qld-marcus-beach-33-tristania",
+      "images": 21
+    },
+    {
+      "displayId": "00211",
+      "id": "qld-marcus-beach-8-tristania",
+      "images": 24
+    },
+    {
+      "displayId": "00212",
+      "id": "qld-marcus-beach-44-tristania",
+      "images": 14
+    },
+    {
+      "displayId": "00213",
+      "id": "qld-marcus-beach-16-royena",
+      "images": 5
+    },
+    {
+      "displayId": "00214",
+      "id": "qld-marcus-beach-3-ashwood",
+      "images": 32
+    },
+    {
+      "displayId": "00215",
+      "id": "vic-balnarring-beach-3-library",
+      "images": 18
+    },
+    {
+      "displayId": "00216",
+      "id": "vic-balnarring-beach-16-tulum",
+      "images": 32
+    },
+    {
+      "displayId": "00217",
+      "id": "vic-balnarring-beach-3-fauconshawe",
+      "images": 13
+    },
+    {
+      "displayId": "00218",
+      "id": "vic-balnarring-beach-53-bayview",
+      "images": 19
+    },
+    {
+      "displayId": "00220",
+      "id": "qld-surfers-paradise-1903-3-northcliffe",
+      "images": 30
+    },
+    {
+      "displayId": "00221",
+      "id": "wa-cottesloe-200-marine",
+      "images": 32
+    },
+    {
+      "displayId": "00222",
+      "id": "wa-cottesloe-8-110-marine",
+      "images": 35
+    },
+    {
+      "displayId": "00223",
+      "id": "wa-cottesloe-1-110-marine",
+      "images": 30
+    },
+    {
+      "displayId": "00224",
+      "id": "wa-cottesloe-202-120-marine",
+      "images": 2
+    }
+  ]
+}
+
+[2026-05-12T13:58:06.662Z] Batch 2 started
+00225 wa-cottesloe-120-marine: 9 images
+00226 wa-cottesloe-242-marine: 25 images
+00227 qld-moore-park-118-sylvan: 0 images
+00228 qld-moore-park-86-sylvan: 34 images
+00229 qld-moore-park-134-sylvan: 0 images
+00230 nsw-cabarita-8-palm: 35 images
+00231 qld-sunshine-beach-21-crank: 13 images
+00232 nsw-cabarita-91-tweed-coast: 13 images
+00233 nsw-cabarita-103-10-cypress: 2 images
+00234 nsw-cabarita-106-10-cypress: 8 images
+00235 nsw-cabarita-108-2-6-pandanas: 25 images
+00236 nsw-cabarita-217-2-6-pandanus: 21 images
+00237 nsw-cabarita-304-10-cypress: 0 images
+00238 nsw-dee-why-32-84-88-dee-why: 17 images
+00239 qld-broadbeach-3-177-old-burleigh: 32 images
+00240 qld-broadbeach-21155143-60-old-burleigh: 0 images
+00241 qld-broadbeach-5-173-old-burleigh: 0 images
+00242 qld-broadbeach-13-118-old-burleigh: 0 images
+00243 qld-broadbeach-14-118-old-burleigh: 0 images
+00244 qld-broadbeach-17-118-old-burleigh: 0 images
+00245 qld-broadbeach-902-2-first: 18 images
+00246 qld-broadbeach-1202-2-first: 19 images
+00247 qld-broadbeach-1701-2-first: 19 images
+00248 qld-broadbeach-2001-2-first: 0 images
+00249 qld-broadbeach-155-old-burleigh: 7 images
+{
+  "checked": 25,
+  "patched": [
+    {
+      "displayId": "00225",
+      "id": "wa-cottesloe-120-marine",
+      "images": 9
+    },
+    {
+      "displayId": "00226",
+      "id": "wa-cottesloe-242-marine",
+      "images": 25
+    },
+    {
+      "displayId": "00228",
+      "id": "qld-moore-park-86-sylvan",
+      "images": 34
+    },
+    {
+      "displayId": "00230",
+      "id": "nsw-cabarita-8-palm",
+      "images": 35
+    },
+    {
+      "displayId": "00231",
+      "id": "qld-sunshine-beach-21-crank",
+      "images": 13
+    },
+    {
+      "displayId": "00232",
+      "id": "nsw-cabarita-91-tweed-coast",
+      "images": 13
+    },
+    {
+      "displayId": "00233",
+      "id": "nsw-cabarita-103-10-cypress",
+      "images": 2
+    },
+    {
+      "displayId": "00234",
+      "id": "nsw-cabarita-106-10-cypress",
+      "images": 8
+    },
+    {
+      "displayId": "00235",
+      "id": "nsw-cabarita-108-2-6-pandanas",
+      "images": 25
+    },
+    {
+      "displayId": "00236",
+      "id": "nsw-cabarita-217-2-6-pandanus",
+      "images": 21
+    },
+    {
+      "displayId": "00238",
+      "id": "nsw-dee-why-32-84-88-dee-why",
+      "images": 17
+    },
+    {
+      "displayId": "00239",
+      "id": "qld-broadbeach-3-177-old-burleigh",
+      "images": 32
+    },
+    {
+      "displayId": "00245",
+      "id": "qld-broadbeach-902-2-first",
+      "images": 18
+    },
+    {
+      "displayId": "00246",
+      "id": "qld-broadbeach-1202-2-first",
+      "images": 19
+    },
+    {
+      "displayId": "00247",
+      "id": "qld-broadbeach-1701-2-first",
+      "images": 19
+    },
+    {
+      "displayId": "00249",
+      "id": "qld-broadbeach-155-old-burleigh",
+      "images": 7
+    }
+  ]
+}
+
+[2026-05-12T14:06:21.842Z] Batch 3 started
+00250 qld-machans-beach-155-oshea: 0 images
+00251 qld-toogoom-178-kingfisher: 35 images
+00252 wa-singleton-122-foreshore: 0 images
+00253 wa-singleton-60-foreshore: 11 images
+00254 wa-singleton-lot-165-sandpiper: 14 images
+00255 qld-bowen-151-ocean-view: 11 images
+00256 wa-singleton-lot-175-sandpiper: 15 images
+00257 nsw-blueys-beach-64-newman: 22 images
+00258 qld-palm-beach-10f-973-gold-coast: 27 images
+00260 nsw-caves-beach-10-driftwood: 35 images
+00261 nsw-caves-beach-31-esplanade: 35 images
+00262 nsw-caves-beach-2-21-driftwood: 33 images
+00263 qld-surfers-paradise-36f-80-esplanade: 24 images
+00264 nsw-kingscliff-4-190-marine: 29 images
+00265 qld-palm-beach-69-jefferson: 30 images
+00267 qld-palm-beach-227-jefferson: 0 images
+00268 qld-palm-beach-801-474-esplanade: 0 images
+00269 qld-palm-beach-27-jefferson: 24 images
+00270 qld-palm-beach-801-468-esplanade: 19 images
+00272 qld-palm-beach-003-332-esplanade: 17 images
+00273 qld-palm-beach-005-332-esplanade: 0 images
+00274 qld-palm-beach-004-332-esplanade: 0 images
+00275 qld-palm-beach-402-440-esplanade: 15 images
+00276 qld-palm-beach-205-88-jefferson: 18 images
+00277 qld-palm-beach-43-955-gold-coast: 20 images
+{
+  "checked": 25,
+  "patched": [
+    {
+      "displayId": "00251",
+      "id": "qld-toogoom-178-kingfisher",
+      "images": 35
+    },
+    {
+      "displayId": "00253",
+      "id": "wa-singleton-60-foreshore",
+      "images": 11
+    },
+    {
+      "displayId": "00254",
+      "id": "wa-singleton-lot-165-sandpiper",
+      "images": 14
+    },
+    {
+      "displayId": "00255",
+      "id": "qld-bowen-151-ocean-view",
+      "images": 11
+    },
+    {
+      "displayId": "00256",
+      "id": "wa-singleton-lot-175-sandpiper",
+      "images": 15
+    },
+    {
+      "displayId": "00257",
+      "id": "nsw-blueys-beach-64-newman",
+      "images": 22
+    },
+    {
+      "displayId": "00258",
+      "id": "qld-palm-beach-10f-973-gold-coast",
+      "images": 27
+    },
+    {
+      "displayId": "00260",
+      "id": "nsw-caves-beach-10-driftwood",
+      "images": 35
+    },
+    {
+      "displayId": "00261",
+      "id": "nsw-caves-beach-31-esplanade",
+      "images": 35
+    },
+    {
+      "displayId": "00262",
+      "id": "nsw-caves-beach-2-21-driftwood",
+      "images": 33
+    },
+    {
+      "displayId": "00263",
+      "id": "qld-surfers-paradise-36f-80-esplanade",
+      "images": 24
+    },
+    {
+      "displayId": "00264",
+      "id": "nsw-kingscliff-4-190-marine",
+      "images": 29
+    },
+    {
+      "displayId": "00265",
+      "id": "qld-palm-beach-69-jefferson",
+      "images": 30
+    },
+    {
+      "displayId": "00269",
+      "id": "qld-palm-beach-27-jefferson",
+      "images": 24
+    },
+    {
+      "displayId": "00270",
+      "id": "qld-palm-beach-801-468-esplanade",
+      "images": 19
+    },
+    {
+      "displayId": "00272",
+      "id": "qld-palm-beach-003-332-esplanade",
+      "images": 17
+    },
+    {
+      "displayId": "00275",
+      "id": "qld-palm-beach-402-440-esplanade",
+      "images": 15
+    },
+    {
+      "displayId": "00276",
+      "id": "qld-palm-beach-205-88-jefferson",
+      "images": 18
+    },
+    {
+      "displayId": "00277",
+      "id": "qld-palm-beach-43-955-gold-coast",
+      "images": 20
+    }
+  ]
+}
+
+[2026-05-12T14:13:23.869Z] Batch 4 started
+00278 qld-palm-beach-601-171-jefferson: 8 images
+00279 qld-palm-beach-1e-973-gold-coast: 17 images
+00280 qld-palm-beach-5e-2-nineteenth: 21 images
+00281 qld-palm-beach-802-1245-gold-coast: 24 images
+00282 qld-palm-beach-701-1245-gold-coast: 19 images
+00283 qld-palm-beach-605-3-twenty-third: 26 images
+00284 qld-palm-beach-703-4-twenty-first: 0 images
+00285 qld-palm-beach-402-4-twenty-first: 21 images
+00286 qld-mermaid-beach-5-93-albatross: 19 images
+00287 qld-mermaid-beach-47-hedges: 20 images
+00288 qld-mermaid-beach-182b-hedges: 27 images
+00289 qld-mermaid-beach-302-272-hedges: 35 images
+00290 qld-mermaid-beach-20-125-albatross: 3 images
+00291 qld-mermaid-beach-32-67-71-albatross: 16 images
+00292 qld-mermaid-beach-10-158-hedges: 25 images
+00293 qld-mermaid-beach-8-158-hedges: 17 images
+00294 qld-mermaid-beach-5-158-hedges: 12 images
+00295 qld-mermaid-beach-2-238-hedges: 34 images
+00296 qld-mermaid-beach-5-72-albatross: 24 images
+00298 wa-lancelin-80-gingin: 0 images
+00299 wa-lancelin-1-cunliffe: 3 images
+00300 wa-naturaliste-4-42-bunker-bay: 27 images
+00301 qld-port-douglas-11-beachfront-mirage: 0 images
+00302 sa-taperoo-lot-72-oceanview: 4 images
+00303 sa-taperoo-lot-58-oceanview: 0 images
+{
+  "checked": 25,
+  "patched": [
+    {
+      "displayId": "00278",
+      "id": "qld-palm-beach-601-171-jefferson",
+      "images": 8
+    },
+    {
+      "displayId": "00279",
+      "id": "qld-palm-beach-1e-973-gold-coast",
+      "images": 17
+    },
+    {
+      "displayId": "00280",
+      "id": "qld-palm-beach-5e-2-nineteenth",
+      "images": 21
+    },
+    {
+      "displayId": "00281",
+      "id": "qld-palm-beach-802-1245-gold-coast",
+      "images": 24
+    },
+    {
+      "displayId": "00282",
+      "id": "qld-palm-beach-701-1245-gold-coast",
+      "images": 19
+    },
+    {
+      "displayId": "00283",
+      "id": "qld-palm-beach-605-3-twenty-third",
+      "images": 26
+    },
+    {
+      "displayId": "00285",
+      "id": "qld-palm-beach-402-4-twenty-first",
+      "images": 21
+    },
+    {
+      "displayId": "00286",
+      "id": "qld-mermaid-beach-5-93-albatross",
+      "images": 19
+    },
+    {
+      "displayId": "00287",
+      "id": "qld-mermaid-beach-47-hedges",
+      "images": 20
+    },
+    {
+      "displayId": "00288",
+      "id": "qld-mermaid-beach-182b-hedges",
+      "images": 27
+    },
+    {
+      "displayId": "00289",
+      "id": "qld-mermaid-beach-302-272-hedges",
+      "images": 35
+    },
+    {
+      "displayId": "00290",
+      "id": "qld-mermaid-beach-20-125-albatross",
+      "images": 3
+    },
+    {
+      "displayId": "00291",
+      "id": "qld-mermaid-beach-32-67-71-albatross",
+      "images": 16
+    },
+    {
+      "displayId": "00292",
+      "id": "qld-mermaid-beach-10-158-hedges",
+      "images": 25
+    },
+    {
+      "displayId": "00293",
+      "id": "qld-mermaid-beach-8-158-hedges",
+      "images": 17
+    },
+    {
+      "displayId": "00294",
+      "id": "qld-mermaid-beach-5-158-hedges",
+      "images": 12
+    },
+    {
+      "displayId": "00295",
+      "id": "qld-mermaid-beach-2-238-hedges",
+      "images": 34
+    },
+    {
+      "displayId": "00296",
+      "id": "qld-mermaid-beach-5-72-albatross",
+      "images": 24
+    },
+    {
+      "displayId": "00299",
+      "id": "wa-lancelin-1-cunliffe",
+      "images": 3
+    },
+    {
+      "displayId": "00300",
+      "id": "wa-naturaliste-4-42-bunker-bay",
+      "images": 27
+    },
+    {
+      "displayId": "00302",
+      "id": "sa-taperoo-lot-72-oceanview",
+      "images": 4
+    }
+  ]
+}
+
+[2026-05-12T14:20:26.651Z] Batch 5 started
+
+[2026-05-12T14:23:32.412Z] Gallery update runner started with batch size 25
+
+[2026-05-12T14:23:32.413Z] Batch 1 started
+00304 sa-north-haven-98-gulf-point: checking
+00304 sa-north-haven-98-gulf-point: 2 images
+00305 sa-aldinga-108a-esplanade: checking
+00305 sa-aldinga-108a-esplanade: 30 images
+00306 sa-aldinga-283-lower-esplanade: checking
+00306 sa-aldinga-283-lower-esplanade: 32 images
+00307 sa-aldinga-275a-lower-esplanade: checking
+00307 sa-aldinga-275a-lower-esplanade: 35 images
+00308 sa-aldinga-157-esplanade-house: checking
+00308 sa-aldinga-157-esplanade-house: 13 images
+00309 sa-middleton-37-mcleod: checking
+00309 sa-middleton-37-mcleod: 12 images
+00310 sa-middleton-148-surfers: checking
+00310 sa-middleton-148-surfers: 35 images
+00311 sa-middleton-122-surfers: checking
+00311 sa-middleton-122-surfers: 35 images
+00312 sa-middleton-56-seaview: checking
+00312 sa-middleton-56-seaview: 34 images
+00314 sa-middleton-136-newell: checking
+00314 sa-middleton-136-newell: off market
+00315 sa-middleton-142-newell: checking
+00315 sa-middleton-142-newell: 1 images
+00317 sa-black-point-30-outlook: checking
+00317 sa-black-point-30-outlook: 9 images
+00318 sa-semaphore-9-58-esplanade: checking
+00318 sa-semaphore-9-58-esplanade: 27 images
+00319 sa-semaphore-14a-percy: checking
+00319 sa-semaphore-14a-percy: 2 images
+00320 sa-semaphore-south-27-esplanade: checking
+00320 sa-semaphore-south-27-esplanade: 20 images
+00323 sa-brighton-8-147-esplanade: checking
+00323 sa-brighton-8-147-esplanade: off market
+00324 sa-brighton-1-155-esplanade: checking
+00324 sa-brighton-1-155-esplanade: 4 images
+00325 sa-brighton-2-155-esplanade: checking
+00325 sa-brighton-2-155-esplanade: 28 images
+00326 sa-hallett-cove-51-lighthouse: checking
+00326 sa-hallett-cove-51-lighthouse: 5 images
+00328 sa-hallett-cove-lot-4102-burlington: checking
+00328 sa-hallett-cove-lot-4102-burlington: 12 images
+00331 sa-normanville-25-marrata: checking
+00331 sa-normanville-25-marrata: 24 images
+00332 sa-carrickalinga-7-merino: checking
+00332 sa-carrickalinga-7-merino: 6 images
+00333 sa-carrickalinga-28-stacey: checking
+00333 sa-carrickalinga-28-stacey: 4 images
+00334 sa-cape-jervis-17-elanora: checking
+00334 sa-cape-jervis-17-elanora: 33 images
+00335 sa-semaphore-59-esplanade: checking
+00335 sa-semaphore-59-esplanade: 35 images
+{
+  "checked": 25,
+  "patched": [
+    {
+      "displayId": "00304",
+      "id": "sa-north-haven-98-gulf-point",
+      "images": 2
+    },
+    {
+      "displayId": "00305",
+      "id": "sa-aldinga-108a-esplanade",
+      "images": 30
+    },
+    {
+      "displayId": "00306",
+      "id": "sa-aldinga-283-lower-esplanade",
+      "images": 32
+    },
+    {
+      "displayId": "00307",
+      "id": "sa-aldinga-275a-lower-esplanade",
+      "images": 35
+    },
+    {
+      "displayId": "00308",
+      "id": "sa-aldinga-157-esplanade-house",
+      "images": 13
+    },
+    {
+      "displayId": "00309",
+      "id": "sa-middleton-37-mcleod",
+      "images": 12
+    },
+    {
+      "displayId": "00310",
+      "id": "sa-middleton-148-surfers",
+      "images": 35
+    },
+    {
+      "displayId": "00311",
+      "id": "sa-middleton-122-surfers",
+      "images": 35
+    },
+    {
+      "displayId": "00312",
+      "id": "sa-middleton-56-seaview",
+      "images": 34
+    },
+    {
+      "displayId": "00314",
+      "id": "sa-middleton-136-newell",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00315",
+      "id": "sa-middleton-142-newell",
+      "images": 1
+    },
+    {
+      "displayId": "00317",
+      "id": "sa-black-point-30-outlook",
+      "images": 9
+    },
+    {
+      "displayId": "00318",
+      "id": "sa-semaphore-9-58-esplanade",
+      "images": 27
+    },
+    {
+      "displayId": "00319",
+      "id": "sa-semaphore-14a-percy",
+      "images": 2
+    },
+    {
+      "displayId": "00320",
+      "id": "sa-semaphore-south-27-esplanade",
+      "images": 20
+    },
+    {
+      "displayId": "00323",
+      "id": "sa-brighton-8-147-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00324",
+      "id": "sa-brighton-1-155-esplanade",
+      "images": 4
+    },
+    {
+      "displayId": "00325",
+      "id": "sa-brighton-2-155-esplanade",
+      "images": 28
+    },
+    {
+      "displayId": "00326",
+      "id": "sa-hallett-cove-51-lighthouse",
+      "images": 5
+    },
+    {
+      "displayId": "00328",
+      "id": "sa-hallett-cove-lot-4102-burlington",
+      "images": 12
+    },
+    {
+      "displayId": "00331",
+      "id": "sa-normanville-25-marrata",
+      "images": 24
+    },
+    {
+      "displayId": "00332",
+      "id": "sa-carrickalinga-7-merino",
+      "images": 6
+    },
+    {
+      "displayId": "00333",
+      "id": "sa-carrickalinga-28-stacey",
+      "images": 4
+    },
+    {
+      "displayId": "00334",
+      "id": "sa-cape-jervis-17-elanora",
+      "images": 33
+    },
+    {
+      "displayId": "00335",
+      "id": "sa-semaphore-59-esplanade",
+      "images": 35
+    }
+  ]
+}
+
+[2026-05-12T14:29:36.146Z] Batch 2 started
+00336 sa-semaphore-south-1-10-esplanade: checking
+00336 sa-semaphore-south-1-10-esplanade: off market
+00338 sa-largs-bay-lot-7-lady-gowrie: checking
+00338 sa-largs-bay-lot-7-lady-gowrie: 2 images
+00339 sa-largs-bay-lot-6-lady-gowrie: checking
+00339 sa-largs-bay-lot-6-lady-gowrie: 2 images
+00342 sa-west-beach-94-seaview: checking
+00342 sa-west-beach-94-seaview: off market
+00343 sa-west-beach-2a-ocean: checking
+00343 sa-west-beach-2a-ocean: 30 images
+00344 sa-west-beach-2-stanhope: checking
+00344 sa-west-beach-2-stanhope: off market
+00345 sa-glenelg-17-2-south-esplanade: checking
+00345 sa-glenelg-17-2-south-esplanade: 31 images
+00346 sa-glenelg-49-3-holdfast-promenade: checking
+00346 sa-glenelg-49-3-holdfast-promenade: 23 images
+00347 sa-glenelg-713-16-holdfast-promenade: checking
+00347 sa-glenelg-713-16-holdfast-promenade: 0 images
+00348 sa-glenelg-201-16-holdfast-promenade: checking
+00348 sa-glenelg-201-16-holdfast-promenade: 0 images
+00349 sa-glenelg-305-19-holdfast-promenade: checking
+00349 sa-glenelg-305-19-holdfast-promenade: 0 images
+00351 sa-glenelg-north-26-13-north-esplanade: checking

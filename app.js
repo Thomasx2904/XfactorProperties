@@ -15,6 +15,26 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing fronting Snapperman Beach, advertised as a rare absolute beachfront holding with direct access to the sand and surf, level lawn and unobstructed Pittwater views. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/aaf81c362af89c9e1fb3fa2c90c0047b3500286bd41a3f3fbfad036e56170374/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/aaf81c362af89c9e1fb3fa2c90c0047b3500286bd41a3f3fbfad036e56170374/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1203675c19b7c6cf45fc2f98609142215a94b8a1e605693d7b6a97067722d563/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d44b51ff903359502227dd6e9f208e493b11f9002082336f77ce3ba98b2ecf9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bcdaf90c60f28143453cd703b56f728204cd13212b3dbe9f2c5668b4f21cd41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c292e7caa75838db2dffbeabd112d817d62b088b4864cbdad3e4066aef175806/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d03c571dd94e089a26c212aeba3e2ae8d6955ee3e6c41ecabf98cafdfcc42b08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf10f259eb6967b95e757edc31c8bd280860cdc7d94b5506fe61443e3871b8dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d1b87d2c5c3fd06ded7fc97a0de595140b3a2737af7fd75f54a52d373289c83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28b08b8678a76410dac08993d1e4dfb6ee4acaf4d68e0e6b0516e5b4fbb32776/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ce39ecade4166c155430e5be8e26c1b1584e9ae805772ff6319d284cd755459/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a63c52c694004021180afd0f0a8f875918b3ee607fd7e00317cf89e764536f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e782111a5fc30e184f5359fc8bd222a291e18f6d43b42c4136a9e008aa944a19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd07523f0c282fb51e9c03e6f9fdd00acf429e78785ff002f065abf9400b7888/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85f3126d8509871b24fc111c608c2da749f04d9f8e46f48a50ae66ae727ebe27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc4141182578d5ff475bd14aa97ed6a82b92979438348c1470fd2bc1cc4e41ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad614b8526431782712557577a4b30fc89dc854e863f80e80c7aad6fd67f3fe0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e5bfe6ebb7b0744b5bb65080a477141db0d8d6f8c91b78f7d4e214633fcc330/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92900d09d8cfbd19f8bc8d932157df13d0e08f0d4f20b3e0a64fe7063de88fd8/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-149116680",
     investmentStar: false
   },
@@ -53,6 +73,39 @@ const sampleProperties = [
     status: "active",
     notes: "Active Sandy Beach listing advertised as a two-level absolute beachfront home with uninterrupted Pittwater views, level lawn, covered patio and a boat ramp next door. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/59c3fc6e494d82f4bd9f54b46b9515c30d75546b796d5ec8eedee72203cc9ba3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/59c3fc6e494d82f4bd9f54b46b9515c30d75546b796d5ec8eedee72203cc9ba3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cabc9b21439de65587e1924a2b727fcbf2ede727b38c20318c79854d910ad480/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee59f1bdb099a07a1085a02ff58ddc501242b483102dc886386b613a1fd29411/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5a6a11a4c98305a30fed737586f339ad2da8939fa9c98379ba998e0ed027bb5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c4e2b1a03e5f39d0304852ee8ace67ef99c0bd30a74e135705fb2d0875fc84f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75cb892ed6f1f6caa2c151a5cec6d1c70bf0999427e61946889aa74628ed4f25/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ec09c99c124abb5a7118c5348bab170221368c5aafd40db88c3c20bc2f57216/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa3bbe0a25d3f5325f2a7df65da9af8120a31cc5cfac937ba99f322291eaaa56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/128e62ed89e90a1653bf75794df0210b3be6062a9936837fda656dc9fec31e0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/521950ba833491ca12501ede1b1306ed94dee3df294dc6ce058174aab53d8b40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62496129b14c22e10d043fd875577fadef4548108678b45e4fcd4bb760d15b4a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/442c58f8a2062715c168007da13384aa66a8fd9a3ec509de64537eb9fe8657c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e76eecf5a6d8158c23c1960ee8e5d5a8817d64f78d19890246e65ede2cc4e2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c2a03b20474779ba4039f4337f9cf7cfcf207f44f7640791ff0aa1b80be7a1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fdeb21f814db0e95aa663b1e8b6fad875aff6e37e63578da57769a2df7f0174d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6523fd567c49976bdae391682defcec3be7e9a2f20481180485ba3786206410c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c45be68dd9c7df28daea5f614fe0f7b8944c0b5a2328e46b2ffc23b57a3bfb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fac8471d07facdc368bcea0df2ead2734487ee5a5a218dd745d7758dc6922e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b364bf7854c623d199f1468828f29bd0412d0a0f2ee6dbad954a7fbbeaf31de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa689b61df43e002c2301ea81886272c8667d937903f84b88db9638ec5d92bb7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37c9f17044ed20de3582c29120b229222b0ff5f9d647f48d6fc1b60488bc8336/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64d55e93b6dd96e78c3ce37516f37e3659bfb9847cb5b1b9b91849928e5edff6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e59bca4cfa72e27660db747e4d2c4d550f4a7a1599a6da234273570662d60be7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0ef6f4df52437af832b13a442b61e4562dc0d8f58c4597415a7b77e132f27af/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b4ffedacbcbdff664a3e0d4f94151795927b41e7a39a6371304e77279eef961/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dea97a83c791c425b4ec74b8d3e4ff2110083150c33994657a21a3bc1a57ca27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08e8428fc379542e9184a1c3f4824db4f514d27a4664dc3a858fd8f2d08563bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16bb7bc114e32c5cb468d9d06746a610ae0ff89242215df0c06bae01c696695e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f74cbcdd1971be4500b32e8ff3b94807d14a29922e2beb700e0a53f1d43542a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ed81cdef9cd97536b6bcd9f9337f4131cf9ece7c3681709744e34a74edc78cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f26335a02f6b6ce4e672f7a67e828f0ec5f5cde15e04a7588c1bf0417388cce/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-150576360",
     investmentStar: false
   },
@@ -72,6 +125,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active Iluka Road listing advertised as a beachfront haven positioned on the coveted shores of Sandy Beach, with sweeping Pittwater, Ku-ring-gai Chase and Lion Island views. Price is advertised as contact agent and no land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/66ed1bef6e4c375117c4bec4f67da29d5bd10b29de92168f314a9f5ad279df15/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/66ed1bef6e4c375117c4bec4f67da29d5bd10b29de92168f314a9f5ad279df15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1ab2457c242a8a9693c2808f45defc25af07995f77380cb29d12895233351b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37d96635736dbfca0b34f492e44573911dbb85ca7092222790045c211cc7a6fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90821b8a3adbd3c13741cb36918dc6be11a559758ec1a9648576233b45a4c19b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2d03ffce9ed448b67ecab8e9572975bd2155a6b235c284287ebc106fae52a31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0de2365bc43de3d57d477bff33d8d2f185a6e36ee3d834aa001a2cc3bf31e2f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03aeac223495b6a6f9e8fa7ff19f33430292ae5121d09961146358cbcbfe0910/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de6ba35e24be85c259f2a82a5aab6c159974b8902dda346c8eeba5fc0ede4308/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6051f05c7dcba2665128729620f006ae7262a132f883bca3cba66ab11e6b2fcc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f89412f849effc3582b40569aaa181d20c27924f60df901d70a4ec8e12541efe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21619aac590c248410ed8ec5410a91afa2f7a7b0c7b8a9156566ab3426146b89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/032bd3a05997e0f25fa725f78d5fde06e32fc1a02935cc324b5503f23393622b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03422ca9988950bbd4af33065eaba37cd44bb6cf885e853ef65c1bb760529876/image.jpg",
+      "https://i2.au.reastatic.net/800x600/feb27e1ba8135c47de4f5554e2e97416789506652c79f90e3c6d35800a807406/image.jpg",
+      "https://i2.au.reastatic.net/800x600/331e9bf5c731cbf2a80fecbf7af2674974d2e38bc495423a91005c2c14f70c0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86380f00455fe5833574748edf7efa52452e1843e8008c861bfba7fb2a814a75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cba2d24e97d24859e9521e9ba3e94697edc9c6adcce174abd757c004bd1e5095/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5061706d1e0df826cea22e6bd4138cfd1518e12630d728d280025976a394fc55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0715081983ba0932edd289b67cc807334be036b84b96ac352a4fc1f132cf1a66/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-149801852",
     investmentStar: false
   },
@@ -91,6 +165,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active apartment listing in The Boathouse, advertised as absolute beachfront and directly on the sands of Sandy Beach, with level lawn and shoreline gardens meeting Pittwater. Price is advertised as contact agent; building area is published but land size is not, so landSize is TBA.",
     image: "https://i2.au.reastatic.net/800x600/e634776c5b0e95a2bd59ffabde764a7d0d8e39e23e6b6779e1ead4727022d1bd/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e634776c5b0e95a2bd59ffabde764a7d0d8e39e23e6b6779e1ead4727022d1bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c840bd25a573cc54245e664b18705935ccda44c648263ba4cf0944d6219ec56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb875dcee8182840c05165e78a466bc260b7b489b51b89b0cb97ff0fea527159/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dad2b1d2cd32baf8a3c6051bf7599fc1dd60becb1c3953bb7cc24df2df3df653/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9301908a9d141b5a336ea4c87ccbd3f32d9578a1aa1a92b8f659a6d087730bef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/132a1a568e518e51da36daf90f696303c566952b846032479cc22455cfd2dbec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ca7be5958871695d448b5c84175ac3c88fb4dae20d77a1089be2a485f2c438a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f221ccadd2736d5c061cc78eaf87b374095faf70e29997acbf4425dfc683726/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af842ad8b6e77ace85c5f32cc93aea9c6194a6338bf88b0878df5af8df79bf80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bab38bf053193f22fdfed6231fb455db714e18879c087b18f9a5e632731f37fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e27ab7d9af515a7f7f1af6e128d3c6965a452ec4a3cdee3af2fb4debc243dbd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3f9bf420aae9a1f5831f049a657272dc4d767411976b6af9d46e485c3e3e512/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab5b35705127a63fb3a96f9e4de4be9f9ba3783b17ee30a8bc332b49b215bd49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf36f33fdacd29a01ed88194a0f78ce39c9a7daab3ceda9a11f6b5d8cca5aedc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8388948e92b33c64ed293c6d42bc5d9adcbbc183dd39a9217caeae520476c2ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb1d9ded0a186cae23ac5d871e9007decd0381822c62bf903eec278aec9c41cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c34c0a803e505180785dc4c0bae2338a112f1498244fdadbec9142454ac034c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5d238bbd4f4f8b5bfbfb329605de2b41f48bcddacad5a14af344b02c4e59857/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f9ae9694fb762607bf4e411a5c9ae9a6f5862e32d2fc9f047810ae22a243c84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97586eaca21ecbcc470d6f2b2fb5e475e7fe98e2d2d0525b9192ba9bb598a71d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29acc4eadf747886ff037928a3bd722c456d49b0da3dd199191d53e15e11b1eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d2e6de1a8b6a58daeaf8f1ed829f26ed051a40abe80971fbba0b8c2bf5d9a5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73296a35befee07dc43cdc2ab518118670683bfe58f5e82f6430f843218eedea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bd85f416bf17ca774dffc163fae1eb57a9b01a9127ddad268e279e98ce5ca1d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-palm%2Bbeach-150218112",
     investmentStar: false
   },
@@ -110,6 +210,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active townhouse listing in The Anchorage, advertised as a freestanding villa in a premier beachfront complex nestled right against Snapperman Beach, with steps to the beach and village. Price is advertised as for sale with no published land size.",
     image: "https://i2.au.reastatic.net/800x600/b0a708380370b4f79469107cd41f9ef10895e9dba8cccb6d88056c03f5a17359/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b0a708380370b4f79469107cd41f9ef10895e9dba8cccb6d88056c03f5a17359/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf68bd39a6e0e69d9050a1a232fa1663616a09db9f85419a7ed48652c72d5340/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8b5a2226042b616d9a8534b7d3013b53afda586982dc34e5554cfad256b0253/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0747b7af076e5ae1d58ad006007697d6df8d60cf1a62d64ed34c1e2de14086c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aef0c80af5688001f0e0076d3bcc784235ea531f2a5672395b3faaa41a1606d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65dd956d43432b403316bc2f4f9216894606c6656dc2af23da473016d2a06649/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9ea5a55b39660a4028c46246ae11ccca632608738cce58f1e0fbf28a83152e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bdb13893f776cdaddcbf6e59b2ee90c1e9e2c1cc0a4bf1fa2d68c87c501359a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd49668ee24c78d34c2f41e4fe8b0eaf9f4b4c4884796e052acdb69417bfac53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d95c4fb440f1bcce78aab030b41599d33524e62a743931cbb4150c09a2879a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6dcfdc47ec0e300dc95be09e6874fe859749e599f291cf3bd80df943220a915/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d97b1cb0ee9cd1e49ea921155667062f2ed5b6f56256631af321e8c05569cfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a7f29f9e09e4098da1df04371bcd5be6df201b46bb5bfebfa992e4f99b73ead/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42a1d9451923bb29a13ff5f6b3192ad0196a26ed03f2ace8ef133dc5f91ebce1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6405da9af5941768f9cf3738652874d36bbd8f73213d56ed461f5ad0d6352e32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f2400dfce13acc5a87e0211986e9860629963638c03b864bcf5eb534bdcb091/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31cc1550d56d76cafa2187de9bf065bbf2bc078761b9b26a3e0194f65e3aeba4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-townhouse-nsw-palm%2Bbeach-147188384",
     investmentStar: false
   },
@@ -129,6 +248,35 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised as an absolute waterfront gem with full title to the high-water mark, lush lawns extending to the shoreline and direct access onto a sandy Pittwater beach. Price is advertised as for sale.",
     image: "https://i2.au.reastatic.net/800x600/ff493796acf80dade36226293116b63c56c4b9bca6a03f0040ed839937c22269/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ff493796acf80dade36226293116b63c56c4b9bca6a03f0040ed839937c22269/image.jpg",
+      "https://i2.au.reastatic.net/800x600/702a0c39e5a6e4c9993b14e5c90125a11ca63287c80b604b9151b364433f740d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fe5edf008281b7f50021ed7b20c6957720c7cbc433cc0a9ffd898703b90b07e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97f5cb8e01df3f0f680ce3f35b1642bcdb4b8da5a1599968555fbb169ec0f92e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f6aec35af3a87046ec6752246940c49e0fe0bc38be0cfd56d93854ce014404d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1b0110ef3d59808a4b01e95bae21a2701a3e9769057414e4384799b21b1d8b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af8511ac3e40948c50f2e598758f5b47100f20d09b73e9758e654af9527a6f05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/774826beb1d7122c393c33da1e9903da8886e9a7cc1fa2f9147208ed28eec09f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebf7e4781812b709e093635139632c8c7c46cd040ad97bc6a27db728f9fc6a73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a4193b6ca4eac48c469da214921718027aa51d342b9725978cc5e3131f901c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c11b335b6578560b138f0aa29fc3d09de5e692dbe36663f61bfbc56b2b9d446/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4f2ba02375f74edfecf31d729a0ddcb3104f27850a297ab64115a88ce00ed92/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81f092dd8ae403e902e9b3c3cb8955c6ff72e3bd64a91f6726c7eca491750fff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b40cc8741610c286ea5b3d84d7546c2e612a2e73cbb49d726265c72aa77652a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cdf80e1f2c2da23fbff8c52ccc482a284a7dfdb9ec9ac32fc26d501c113bf0c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b113cbd0354321f407d6749459f87475587014ea6031d283cae37707e9b7a9e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b44a3a818f65405fcf2ec7e46b1679a36224e76774ebe94d711cbd918b60115/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b017a545405cde32c248b9683d8a1f7ad8f37b7c53e2cc1110cb703d8e820bba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7de54dfb6b5f7f5dc8b748b8870611d9fc1653ac8a5956d9ead990d63e6701d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33b1c9456aee83e4ec101355de482e08d30344988b8d5692b554fb4352c8e278/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4477b180bb3928240a28ff44103b32cfdbde885f0a4182c36fc3da7387068d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0ed53b21f15c909059821677db407c9c4b0283d28a900d04ec7490bcadb1c84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ada968a937f379059509def19a413b9dfee838654e3facca01699f92c48ceb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b69b526541509cf3347095ae842f2a15218de8b1c2e77464c27ad13b446b979f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf0ee0e81010e81e28587c3a8373f12bc340861d0bc86c9a093fca2bbcd59f30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc207b8e506d77de710f6f62b9d23bd8107cf948f5bfaad8e6b68def793ab470/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e456cf3ed1d7b6550b9c06e71963615c9329c9a3a3d19a13ce8a3cee799e2576/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-149149804",
     investmentStar: false
   },
@@ -148,6 +296,31 @@ const sampleProperties = [
     status: "active",
     notes: "Active Thyra Road listing advertised as a rare beachfront residence set directly on the sands of Thyra Reserve, with direct access to reserve sands, private boathouse, boat ramp and level lawns at the water's edge. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/3f24f90b8cb07b7a924e1c641fcda34f37b2d6478250eb24b3517605968b83b2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3f24f90b8cb07b7a924e1c641fcda34f37b2d6478250eb24b3517605968b83b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77c0f15630fba15891a51c27fbde70c9de3d2bb8be2374d741130c6c22b4ff32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e799b434c1d6ba6f9baccdec6e38198b2a567e04cc4e848b1f5e7e6cb3dd068/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b119fcaab6b7b243bb60248676443232b09da8087d1804e5ab01dbde75f9d525/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7b6cb99eee7da44de52d62a63a83f8c2fdd9d9248832ce27d94559eb8b41bcd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5523095492478fe54ad3a2dcd752b8722a5bcc405d3a4454ba887585426e8d48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/141cd80f4c18184d3ad1e5907ef3529966d76c2c2eaeb2ddb139ce6362a017ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89fb3a3be9de6f44f19fe74a0b0c61736341f2d50cc7301bf4070351bd1dd065/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e8a562f868324e7e684cc691ad51e1f396c5eb9661ebec7d74b6225c2db433c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35ae3eb328cfa1a3c8ce3f9a0b47f0d33d6b99607bc3118d9d39ce15ab5d4713/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c511edef9adf0ae8fcbc2ff8eae60c1155a12557c155254e0b48d1234989ca11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9be65288c2fe3cf7a9c018cfc85991a04ff9d0ffdb81c791165b58e5c044cb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b25004da3c5b8b9397e09053e37e2b4ee7c355afb2c3d7ebf8d2416fb207f86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f56ad90a6b7990104eb2a2e2c03135b5f2b6ce8cca3d014f06e512c1617da17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2db83125b0d701f54a0abbd8f99a44f5663ab1e71a0a4fe9fbeb58f9de129ef4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/385f398254d0b69e0d4d442e59153329dc8bbdfa4837016da8c1c6de92bd5645/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8247b8675e84da48a12198d7dd77456bbc981974dd8eb31018aa7ee7fe3c8ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ccbc58a34914a245681924ade10bb0eed5ee109c76ce7c19bbc1fb354cb5ef6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a92365d1a76e8c02269d4dcf27bc434087a7a1c38746250b6256e8095613654a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6bc4c62c9dcb9428a2fe6c98d5650bf58e34dd9f60cfa49ada49fe3f01147666/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4341ddc0d8b8f126426f5bc822492ef4fe1cc12a7ed3097438c1d8a9aef612ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8f21cf42017460a82075ab12e43f5ad0f0fe7f78bc49ef72d123ff11c152127/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ddddc5e49efcbcfb3082247b876e367fe3dc81bb4bd17871a1a14e48cc71b563/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-149363596",
     investmentStar: false
   },
@@ -167,6 +340,31 @@ const sampleProperties = [
     status: "active",
     notes: "Active Ocean Road listing advertised as a classic oceanfront home in an absolute beachfront position, directly opposite Palm Beach with uninterrupted views from the rockpools to Barrenjoey Lighthouse and just metres from the sand and surf. Price guide is advertised as $9.75m.",
     image: "https://i2.au.reastatic.net/800x600/345f186ac9314873546e686ddefec661d8786415218bee8a0e0814932b25f0b5/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/345f186ac9314873546e686ddefec661d8786415218bee8a0e0814932b25f0b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ec79369b679b94d86fd977004685598e3d8536a59735b4bdbca3d5d156e4acb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47acbb0e4f4bc2f3654be456cd7604158b0cd16d77f88c98c4894eb53b863f06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36f87214097a2d3e42428bf4c210d2133578e6b5ed7f1de548a70350183b6c75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93aaa125bc5dca9676614301db66032254b8f6604af3c6979a26b3c412f7c440/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1f462cb196605dd9e60d32674fdcbffb488c3740db49d40c4d6f121ad892494/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2d9c6a399914fdeeedc74f374ff9e4ee489013d3ad7b6a1073e79a528f26f5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/426dba8594e642eadeee11c05d54e13c0ca43e0dd5bf1139d827016beedbd498/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4f43b335c08535d9cccde59503233c7d4ff86556a4803831f232e0c547456f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/686019426ecf32793bb1ea48459aeff99a68d2ff836099240da25e61c48f70cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9949c5d6a8ede5849a24a127258d9f4fb8912e890c35b84f588b7c5cc990c3ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b1ede486b50846f3c93d006bcec251b2a67b2183f91fd3fbf5ab6f0d81f4617/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d979cd0fac500f22d43f6883d2e8aba491cd3486849942691a5475a7048a7b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40a6be44a9eb936a87fad04ecddffd03250918d42f8ebaba933499355f734ede/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9d3f387f658d8da8cbed0b1855f2c1370116bbdba57b1c7038f37a93c825ce3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bef5b8b84ed1fa54f883e7f8a7f9fec9b2a813ffae85da871e6b740fc9c3a6bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63f20508d8b07161f910943dfc48c5cdbc42de4d2b8f3ab8b8a2ac45dcb669bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e77996205722515bdc361f305ff42facad5d8dcca8006972c7c2938ad90547a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f14d9aa62e1d337b81e0a1d1b4e864c0b5e5a3305919b0816af046ef33d578d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ce5c28833847d3fe2803761b4c78233102cede90cdf15d3a27e4311dabfc533/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86cdf7771ae1edcdb1517d3a58483999338aa45b7dabe8d517aae0b587f5e67a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20d3cc9dda7792d26125ff3abc28eec343bc961ba622087733d5004e28de6012/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a27b148d27129e7a980534fbaacdbe7d560e28c87e10e5b6e83f8f9267aef4be/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-149067708",
     investmentStar: false
   },
@@ -186,6 +384,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active Iluka Road listing advertised as a Palm Beach beachfront oasis with direct waterfront access, situated on the waterfront in one of Palm Beach's sought-after streets. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/2e3cf0001616baa9f15e61ccde78ba9f3fe257ec393af69b7bf656a67885b63f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2e3cf0001616baa9f15e61ccde78ba9f3fe257ec393af69b7bf656a67885b63f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae19d9b16e5ffaa2688fbb451043c259b1646faef61b7642b568c66fa29be714/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab51a24f1ea566a09818970f3be1077f782cec3cc72439a61f9239a91da0b816/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64709c14f60616e0c2b003e6eb6bca96527b65629af0c19af366a083af83f42b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0289371136fdf1cb789d41fb3b1b81d79e0f185b7592f621822ee66a5118732d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f4559b239c025571b27d924d6501623e20357e912cf87fbb688aa474b62c5d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b36b30aee099437f863c39d20bbe760d09cb17d8a203b2c98f4f562ed028d8d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbda4c5ef4a2f666601f862d31e26505da32f7945219f9850dc76f53fb003230/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58f11d48dd3d3059bf5fc6659230ce38346f43713b2b083c766ec69281a02db9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ec82d1f0d3b920c665ff552bf0cb7e74226edaa338d0dec722b656cfedde3f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aed629a2d1c57210b956f697453ba07779499fd1c1659827b703dbc7bb41ca6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c825ddde5df47cd312053891e5143fdd978094c9e8678a07479e24655fd63928/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ffb1f1ee01437f6f165f0c8306192b9a278b50def82ac3e5e2f5497d1259180/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97c6caf66a893224d685d9a6e93b3341b22f3afc1b5742213f5a0f31af7c78ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ee16e988aebbd5ba578d1bda5b5bc5973aca62cae9d9de4bc68d7dd616a268a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73f656553491f86032d38de614bf427e93ed4355f0ae4b284fff8d8d684b1142/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a6247d124c2066fe303b71615e5d5144a090dbb1f3e967dee63fb59fcb94575/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f845bbc6721447c162fc4baec10abb011c9c06d75b4eaa9979d6d1e62703bb30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16798302abe6c3cf81710aaec561ce3b15910887fc68dc01a0d6290203e7fd3b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd4860793a92717d1386a247e2883c6d6ed1505a14f64e8a25bf79b472f02374/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e92a1e86371187dcbd02e00ea3825bf521812dff625bf55c56ae1f37db3c3a43/image.jpg",
+      "https://i2.au.reastatic.net/800x600/886ced703164b9551ae750d6617390a727c52403ceef960712e4287e1f1a2b6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e6232c86c9e3bb08288bd39926bec72945ac414be9d04dec4ddfec56869a609/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89c86a404c3eb8bbc63ed69f8af07b715c80ad42d73ac970d47c810e7a2ba531/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7631cc13724e81a49cefcd0f08f2fc36c0d1e5f2a29764cdac785dbc5371426/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f44c66a854614ede2e4c1ee84baab1ba4f5cdea65cd71385c81d955b9e92bde9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5e34856999240af1311e2a0540893db676b744c7375fb0cbe08b5eaf44c8535/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8b29b4b947e994eda1ea0af0ea81d027e8d2e67b9e59a7a644b6f3241d332c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf88789603bf44bdd4baf95ebc11ca8e4f79b3c7d0c3ac78ea3c06e98c1e6dc8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e61089b86d8300d18166ab90a92199f514460e353e63fdb3fcdbe7a8f6a18a10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce2354498686bdb8a34e8623cf4750a7e3424a6fa6c656c772ed038dc54c8fe0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a9362edbd9233d171e6d1eb6be24d53d5c1a9d0692ba14831635c1a41504b55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69442bf3006bac164a202c4c07790d8aac9d5002241f29c73f172390c64f2bba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a942fa73a79b57fe78dd0637baea812060b6b5ec62c51baf6502152d921101c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dec7a567df0b00358a227f80df467a22feae3727d6be8e4b256f74ae84e5ef77/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-143896328",
     investmentStar: false
   },
@@ -223,6 +458,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active Mooloolaba Parkyn Parade apartment listing advertised with absolute beachfront positioning, private pool and direct beach access, and the ability to step onto the sand within seconds. Price is advertised as mid $2.5M+.",
     image: "https://nextpropertygroup.com.au/wp-content/uploads/2026/01/68a3d351-def9-4f95-90d4-72d5e9a2dab4-Mooloolaba-2026-01-07-134953-1-scaled.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a5029ab58e59ff501ce76c0bbaa79004a5e8f97e63cf7a99d234cbf5338cf341/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09bf8413576cf165edc746c8c0c90ab36379a0038e72ea747e376ff985cd764f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef723e5aeda2305c97a96153c23a4a950e306225ea21f0a4a5deead9bd428213/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20fbff71b39e2c95bec646cc6aca0efe19dd435515f919b5c1436723da6fba7c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mooloolaba-148865908"
   },
   {
@@ -242,6 +483,20 @@ const sampleProperties = [
     status: "active",
     notes: "Active Coolum Beach dual-key apartment listing in Beach Retreat Coolum, advertised with absolute beachfront positioning, direct access to the sand and Coolum boardwalk, uninterrupted surf beach views, and walkability to cafes and the patrolled beach. Price guide is advertised as $1,100,000 - $1,200,000.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-13081453-1.jpg?named-transform=webDefaultTransform",
+    images: [
+      "https://i2.au.reastatic.net/800x600/96c117abc6903e17b78f63bfb393b7674004d1be549ff653aec38b020b48be5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a317d7905c56dceb5309bdf35264a914f8daccfc652758603d886164fc046f57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/becbcb0a8ad7e9e3efc6694d7d2d9726bb6e6b661cb37b1cffdb9054b2c65ca8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6262aef1d23c3aa5d4bf7ee4fca5e3ac9b9099de993541703843110cf47fd5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8406ec7e8e636329a83e95c723f811e542f81152dd05352b03956987532d50d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/312ccd1ba79104b297a2e3a802a2a7f4df5083ba67b9c7df08dadc4b2ef3012c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf95f0cb17184618e6b78f49c08f41cfcd83f65772fe5733b1ed892077416cbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7298029c9dfba278c3a6fae57cae04a660851512563eddaff2fef28082c71b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ebbb101cab7b9476789f0dd3553882779d5e3268a59f747df0115f35a4e2d77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59e4ea9471fa3b1fcd249b4c182bda0e19ced13ca55060e35783a4c71535473d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92eb9a915bd4476bdbbd0d4d4292cd51a69a27bf6ffa762c3f8913bbf5b6fc1d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b32ef7d994b2ff751fddb9662e438080116f532eff1b92709cf5bf18695b076b/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-150970372"
   },
   {
@@ -260,6 +515,23 @@ const sampleProperties = [
     status: "active",
     notes: "Active Coolum Beach ground-floor unit listing advertised as beachfront living in a tightly held boutique complex, just steps from Point Perry and First Bay, with ocean views from the porch and walkable access to beaches, cafes and shops. Price is advertised as offers over $1,050,000.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12591256-1.jpg?named-transform=webDefaultTransform&version=nOzsbNx1oBPmkLnVeQnFoBFi6Wah4CLp",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e2f7eae397472788cf67f914c618c19e0e4a6ee81f9b48448b599b2196a3bcb8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9cf58bdc289b5e23e66025f73e4ac853371817e14b383dd8814323b3663b6a9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36aa75984caa5c7dc49dac5c21b46cb3f170790aad0c6a5cde63e13946351e39/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f35e3b26c6ed8ed4d3708400dec694f424d27397b1aabd2d0d8510339504ad9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0532eaae0a43e3221c8a7515c513d28a12fc73def71a782f4d7f85bf11babcbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/187522346624a4f0676df0cd3675b7951b648de3bb355a5924d57908ceb71c96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/102c0e73a04efe8c8a9c6984d659a9f6645cc0f938003b6e378bfbcea32bf48c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/900245bc88c605952456e03d7bd3b486ffe3df0d91052f3541795dee25e95881/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62511cc7b10f6c46f8254583d6116f3dba267052d2e067d20da100ce2b855d9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66dfe1d35d9877ba7ebfa4a5caae469154ee9bdbd0adb505132f1b21d3d6b8d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35fd5239858b0b2512099d0035654555c9bc85a0b4e9ef52daddb7bba3b79739/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4c5f1a17f173c730378cf7ae6e9053af3bb9ab045e3cbac290d5b58f1ffdeff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ed47a10fd0d4f2c74ea9f377416ac98089148f55c07cbd5c0e70813cb036e86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa3f0d9a1f32393ccf4b9aa1c6f987658e47be982995e19f75c233fe3740d5e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8f8b3f30bc419e0c471413172fb38041c5e3f4d9314546eaf4c09b93faaa9ad/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-149462700"
   },
   {
@@ -279,6 +551,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely Coolum Beach apartment listing in the First Bay beachfront complex, advertised as a designer apartment in a prime beachfront location with beachfront entry, ocean glimpses, and scenic headland access to Coolum town centre. Price is advertised as contact agent.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=k_Um9XCeIDGDOk5eWnOA0MB3POw3P9ge",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=tEcbegUuRVCGQPGdLNtXTOW90LzKuPKX",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=d0ejNnawQebPJfMOkBA9W1tEBbDHA3qu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-2.jpg?named-transform=webDefaultTransform&version=_GQJzfn4IZW9Bd4A5WNcdJEpYqIqiThj",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-3.jpg?named-transform=webDefaultTransform&version=5.HkVWpuoE.zwUr3NGheyP5PnBBqN.aI",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-4.jpg?named-transform=webDefaultTransform&version=tbB5wlzTPqYrJwDeH6Hoh8Y3BcPUBIU_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-5.jpg?named-transform=webDefaultTransform&version=qs81N7orhmcbqxZFySWVoPJ_u3mgAx9l",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-6.jpg?named-transform=webDefaultTransform&version=zJ8qF8YhD793ZsxoXhmwefmY69yK8yW0",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-7.jpg?named-transform=webHeroTransform&version=zNFpiATE_gpMdwpg.kXK4l2sTzNiFBTe",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-8.jpg?named-transform=webHeroTransform&version=yGSxPb8GunfXqHngBDKmUeLnCpZ40zeC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-9.jpg?named-transform=webHeroTransform&version=HZnkLoVfFWU4U4uwIrWywMO9WDelteyr",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-10.jpg?named-transform=webHeroTransform&version=j8JwkvpDX7sXD7vAEqnzF.CGxEUnKeag",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-11.jpg?named-transform=webHeroTransform&version=zCzi4fktG9FSUJYkM82S2zHyB9yqTzgD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-12.jpg?named-transform=webHeroTransform&version=Tt6sIK6929ngQwENI0JsnpyjvocJPcQl",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-13.jpg?named-transform=webHeroTransform&version=v8CZipaDQo.iWBNFOmniS99BLX_nQugV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-14.jpg?named-transform=webHeroTransform&version=KiT7vLM2TfkpbiA.EsP11jeHhipeKNeB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-15.jpg?named-transform=webHeroTransform&version=EHJj6BhoYmouu0R4YMrGYsXAGfqCO2x2",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12513397-16.jpg?named-transform=webHeroTransform&version=nvVQqR5ALFxYZrXGzVs51u06GFp3Jfb_"
+    ],
     listingUrl: "https://www.homely.com.au/homes/252-131-coolum-terrace-coolum-beach-qld-4573/12513397"
   },
   {
@@ -295,9 +586,12 @@ const sampleProperties = [
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["Oceanfront land", "Direct beach access", "Unobstructed ocean views", "Subdivision potential"],
-    status: "unavailable",
+    status: "active",
     notes: "Active realestate.com.au Hillarys land listing advertised as a super block ocean front opportunity with unobstructed ocean views, direct access to the beach, and potential subdivision into two 500sqm blocks. Price is advertised as offers from $5 million.",
-    image: "https://www.realestate.com.au/property-image/204464516/1",
+    image: "https://i2.au.reastatic.net/800x600/1e91ab3912b1d6878c92052b8cd911a1acc72ed5c9e18a80906279e372ba4100/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1e91ab3912b1d6878c92052b8cd911a1acc72ed5c9e18a80906279e372ba4100/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-hillarys-204464516"
   },
   {
@@ -316,8 +610,14 @@ const sampleProperties = [
     factors: ["Marina waterfront", "Harbour and ocean views", "Beachside sanctuary", "Resort facilities"],
     status: "active",
     notes: "Active Hillarys Boat Harbour apartment listing advertised in a premier waterfront marina setting with sweeping harbour, yacht marina and ocean views, plus beachside resort-style facilities. Price is advertised as offers in the $600k range.",
-    image: "https://www.realestate.com.au/property-image/150341136/1",
-    listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150341136"
+    image: "https://rimh2.domainstatic.com.au/UIjZXNNSZXFoQjxje10ggJ9qazs%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020614862_1_1_260218_040645-w5760-h3840",
+    images: [
+      "https://rimh2.domainstatic.com.au/UIjZXNNSZXFoQjxje10ggJ9qazs%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020614862_1_1_260218_040645-w5760-h3840",
+      "https://rimh2.domainstatic.com.au/ojtP1bTvPmrDNyxqtkWU2fx5LJw%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020614862_2_1_260218_040645-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/7--q7O1iW9Hnj_ctLY1tL2AESqc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020614862_3_1_260218_040645-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/l8a-5TyvBYFkDzXL6zd5lrTyGmQ%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020614862_4_1_260218_041046-w2000-h1333"
+    ],
+    listingUrl: "https://www.domain.com.au/221-68-southside-drive-hillarys-wa-6025-2020614862"
   },
   {
     id: "wa-hillarys-108-68-southside",
@@ -333,9 +633,38 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Prime marina frontage", "Metres from Sorrento Beach", "Waterfront location", "High rental income"],
-    status: "active",
-    notes: "Active Hillarys Boat Harbour apartment listing advertised as a prime waterfront/marina-front location metres from Sorrento Beach and adjacent to AQWA and the Rottnest ferry terminal. Price is advertised from the high $400,000s to $500,000s.",
+    status: "under_offer",
+    notes: "Hidden after the May 2026 Hillarys sweep. The exact realestate.com.au listing now shows Under offer for this Hillarys Boat Harbour marina-front apartment, so it is removed from the active app view.",
     image: "https://www.realestate.com.au/property-image/150800100/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1b5fdb068cc3dab2aef63dfdf43155fd11c76adf5fa26685545022a964c05903/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be41a4bf359fc76e5894b41aa41211168998127760c9c40c9f24b4f3b0c439fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e859b7fb9ae3ae0ab66cb9ea98c1654f377b0c9c69c3963dd3f0ae2f00ef965/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e1b8ae4c01ccac407a9608cce91add6067d11d3b910259f9278f359d0ae851d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/894a4bd907d700bd10fe3fcdcf4dfe7f61294adae10b63f404824fa909c52085/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa208968544a23f73090730a662c91908577e062aac75875fef9ddca77a93fbc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6cdcb93f651d2f0c0e0ce7eb2823c6427dbfb67e342a1bbc0b9d31cc6d31a963/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42f761e83cbc9627f585bc5b7f3bf515c5823e93bfb0d05196dac15b272a3d0c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77ac6131c64e3523c9a9d31f4163a4c6e9d128deba8815f2ab88c610446661da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c542acc16d7547f98dfbaf033d9efadf7d40f6fe6baecf23b6514814c05e5a94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acbd25c341165da9d585c54b6c3f2da194d1360763f76b6939f0abe99b9e0d4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51364086b92b0ea4ec5d14e095c3e1e6b1381ebb8ef961327bea7d1650d21793/image.jpg",
+      "https://i2.au.reastatic.net/800x600/515ebf2ae835f9a335de31b2805bc9490eadcd99a7a0d633e618c42aac74988a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc69350683a3f957789f0d505ea1b488db5aa970fde1481a93b0a6824ecb5448/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a453c6eadf580aba21fab11a938543001e8d57a6814d477fcde3cca10a76b990/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ba4245564318f70acf9e5f31c27c049cba846e2200b757cdc1ea661ecf0e78a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03e4bb1c0bf97caff80cefa2e50761787aa36fe29a91ca87bf1ca9b02fbe3870/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14686bf0992e06680318a2004aae91152623b1fc82ee7e80427279569774818e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3a8c218928e67f963a6641f885077dbd84b6069eda731e56d560acd75f0e1a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2c2f1a3bcfc0fe4ebd6c2dcd3a1715458853c86b7c9b960a1ef8a10696904f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42bcedd3dffcd7b7c28c2ffb8a3c948c45ab799e8bbef2355b7fd034a258353f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ece9eda4a4a10ea8ef9930355875ff932d0efe0f2b930a73b5fabeae4270f340/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1c4e6544a2db8ee0a05e5abeb6508d88ac45a55ca62b867e41717a6f98b2f1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/974f59aed2e4b67ccc10c8b6b6e54c3b517f01da6d2f2616a4fb359ee06cd8b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59766b0621f4721e5107e2e5d515728723d94622e4c08d2cd4f185915cf1bbea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0da674aceb7da6b84acc9b196f37d2723a8d15b0a5aae662b44045557dcb12ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fd46818148737a6e837cdc0616dc6611537c634f4f36174d8e4df8199547c21/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-hillarys-150800100"
   },
   {
@@ -354,8 +683,39 @@ const sampleProperties = [
     factors: ["Front-row coastal position", "Opposite shoreline", "Uninterrupted ocean panoramas", "Walk to Trigg Beach"],
     status: "active",
     notes: "Active Trigg front-row listing advertised as opposite the shimmering shoreline between Mettams Pool and Bennion Beach, with uninterrupted ocean panoramas. Price is advertised as offers closing 20 May unless sold prior.",
-    image: "https://www.realestate.com.au/property-image/151073916/1",
-    listingUrl: "https://www.realestate.com.au/property-house-wa-trigg-151073916"
+    image: "https://i2.au.reastatic.net/800x600/ca5da7e5b2a4cad58f0fd7bcc323ff4289a6bea85dfb2d4bd1de9259765f637a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ca5da7e5b2a4cad58f0fd7bcc323ff4289a6bea85dfb2d4bd1de9259765f637a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e785cfa1eae8034ccca080d96aba093c1eb58a1783f68aa62e27d8221d289dbe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8315fb5cef83e5bd995e747a49bd0246e5e5e48535f664ea8e3b3698a4b999c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6bbe180f1b15505a0ead17a23948e3d4f0aa548489e4f20ae623d6f05f218153/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b72c4d6624faec0b746ecbcb94fbcf646a1263872751f2355d3ddbcd0b5488e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/274bf0eca45ced9c42312692d857d3bb5963d62e1afba932d0bd1902e5459f0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0affb44da718d42fa63d36171948ffa40e23a64be7aae5efab6cf720be69b7a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46fae8c15d0d294ebafcd4a033da1ce05c662b5ba6de6d938cee0e3774a6d563/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d6beab3034cb72607ab528886aab3d2f4ac83dddd55778285d2a9d00ed3c1cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60b703510c94e3f21a1bc6139446401b2c923ef42be84e1fec4d743421ea4713/image.jpg",
+      "https://i2.au.reastatic.net/800x600/973937a877b5fdba77e09086d1ab0d0497adc2ec6b23d6e1036b75c755786848/image.jpg",
+      "https://i2.au.reastatic.net/800x600/993f9a663917ad2091ccbf50ccdb0202a5f52991d75efb04622c0dc0a3e48f24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c178c1f16cc79f736458e3617e43eaa4b53c3b91ca20571b5820bc80ec265c2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71a010703b359ca0b69d6b537f76258f96df50b3aa2688e7c54a2f477996553f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6aadc89ca488e3ec408b76e7fd0a05e817e76c2a90e114e1d2454428fa3eecc9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85340247a164de7dfba2a52da9c92edc5c1a3deffb7ab2da39c84d8f1ea719ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81189c5265328a819ae67f1f72414c87bc5842d4285a98a18005cf5f602c774b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7592fe6a0ace340a20d89c91a52fb24e28cd9584fa302879622fbfbb6aa3897c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a9e67bf3593ec3dc697f6a66b48d4eabd964fd5359b76bf29870ce1fc6971ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d128781672c8d311483487f86fa766a349d5703ae9778df68421e00b62c7e9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a2f64db05b43e44b541fd1349c583af353997cb8a18375258fbbf9d1606ebbe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c0023cd074604040b439f901040f40432cb3540a4ca982d29a9ccb6cf2663f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68922ce32d51b61c6f0e3e10b441ebf3439903f91094a4e63028cab9bd421240/image.jpg",
+      "https://i2.au.reastatic.net/800x600/baff54a9041f4ecb57115ca33d8ef5cc95350b3950426563000ec346aa4e6ec2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/053f03191be59bae212d89fd346e74fa2f44e7807d854a4b0262c6e3d8d84f0c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/035b6208e018e1f0d67fa1b14b6e5ed80139fb03b7fde34fe7a749fa30632884/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f40f06f73bf76c42f1ac2459bb0dbf719d4e311fe0c04ed52345a9c8aa7de7d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/018379a87a98f6a8e2bd0a9d6a73a23e0d0f029628fc403af5446aea46d9791e/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-wa-trigg-151073916",
+    investmentStar: false
   },
   {
     id: "wa-trigg-331-west-coast",
@@ -373,8 +733,26 @@ const sampleProperties = [
     factors: ["Beachfront apartment", "Trigg Beach opposite", "Ocean views", "Boutique five-home building"],
     status: "active",
     notes: "Active apartment listing advertised as a boutique collection of luxury beachfront homes perched above Trigg Beach, with the beach right across the road. Price is advertised from $3.2m with three remaining.",
-    image: "https://www.realestate.com.au/property-image/143897976/1",
-    listingUrl: "https://www.realestate.com.au/property-apartment-wa-trigg-143897976"
+    image: "https://i2.au.reastatic.net/800x600/318ba5d9b0a7510b7e9b1b71c01c2d70574804a0d46136cd27b53599d4c108b6/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/318ba5d9b0a7510b7e9b1b71c01c2d70574804a0d46136cd27b53599d4c108b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b41e74d4344888fa13792bd3f36b2a1660c02864dcc6c6ca40880e85cf4bf2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b2f5c1e850b04f4bb5b4b2a7d161cd1fce3ad663689ddff757485a8b01c1cc7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/659376f17b508ec230d8a78d823d3b06c5c2cdca1b6d0c0d0d804d1d3ff49575/image.jpg",
+      "https://i2.au.reastatic.net/800x600/050edfbab44566b57040bf49467c5d4806081406aa7ce774a18c89957fc9defd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da56b65dee36e3477915be23a079312d3b1bd2dfa06a1a0323825fe979ea2047/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ee98099485889c5d94d6b9dd18c424658885b9eae197def09d2057743256ed6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8ae05a7994be29753222d45f3e3f90fe67e4a0292b9967c77a891fdfab41035/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7aeb37dbb5ff19bb5868f08a724268fa9e892ec98c31428e2c2a91a99f948544/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1efd1a68ce23580195924ca9142cd544bed96685d9e0499ce8f4bdc82f2b38bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e703ac7db3bd68f38c3cf382b67bd99490e4e14328282de4ea0d41b95e55d566/image.jpg",
+      "https://i2.au.reastatic.net/800x600/048966b79ad3dd4956cdc5dccb16b38cd77b1d8c44718d771ae01f7a6d2b1daf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ad0e42906f880db075411344dce1e351a3b96670d041b6c49129215b109d95b/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-wa-trigg-143897976",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "17.6%",
+    investmentReason: "OnTheHouse/Cotality reports Trigg units rose 124.71% over five years, about 17.6% p.a.; this is scarce front-row beachfront apartment stock."
   },
   {
     id: "wa-safety-bay-20-warnbro-beach",
@@ -392,8 +770,100 @@ const sampleProperties = [
     factors: ["Absolute beachfront", "Beach opposite", "Penguin Island views", "Dual living"],
     status: "active",
     notes: "Active front-row Safety Bay listing advertised as exclusive/absolute beachfront, with uninterrupted ocean views and the beach directly across the road. Price is advertised as All Offers Considered.",
-    image: "https://www.realestate.com.au/property-image/150371768/1",
+    image: "https://i2.au.reastatic.net/800x600/04ee21eedc544f051b43a097ac194078439669c2e4a7aa45ea14458a7642e88b/main.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/04e2c55f25171eccb16c7feb8d3bf74fbd0c1acb7480fcfd08ac8b0a00f73592/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bc2f50f13fa6d5592874ab9150f06f487ef1e23f9454978414fe5cef42144d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1131dac1ba0f56bc2edda01f4f22464fd0fcc8fe7993f5f471d88f9f69005e88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06c6454d7da4807538d9a3afdc30c1ac00a90944020bf099a2436a167bccab6b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/246a3d6eee5f45381ec6d7a7e631b1be9907194d3a2deae4497c317dec94ca2a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58e718caf8e4c7e770b22f6b950c2a0d7277fc1535210b3d09ab671144bbd670/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e6dbe960fb31e40f1b0f2dc9e33aa37a4fc028e6a303c742792328c2173fec0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/87a8c8257b4b09425b169f36a585aa19409fd3cbb72d021aed2851f82e8b4a2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1358eecfd06c6daa11a4a6c6fe666057a0660a0e2df93a25bfe854847e00f8ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/314f15e9b7a23afae4a3822b181944eb61fe4d690205e0933ccc5f0c145d9f32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50238b638d0b4be9f27bc1dc58be139b9ba364c522c2f7263f72e690dac25a91/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff9cf9a9a9d6c9ebcfe78cf8c76079c1fbc8cb6e93e9df3446e27ccda9a86741/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b5db9e09ad37d79a504915beb1457632db547fecb2815df1df6ec6550b1e9a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e1dc9a6f26f02c63353e5f0536beb9c594d21c28d6ebef644a42f08e079e5a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c1db403df57e190ff55adc74b4b01e6086271f1c35f38b2d91cc294b90030b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a27bba714ca39bda39f01767616cac84aa50387d0483c711a960040b066c3204/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb924ddf8557c8e8064792ac619a7c3d02ee3b7d4e9e9aa077bcc5439e901a7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b19c2b030852993707a266464af1f0b91ecac8889878d706505a5044a482f15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/990986d5974e8b529607b56b5478dd6698b6951f280f3ef9fbeeb0b42c9c7458/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bda850b5dc963c25175dccbb03621411f83c77e2387abb43414cef9eea8b8b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6cb12c753b591883c83fe544c1b70d8ae14a03f3ad7dc120d913871f01aa4b0a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da4b37715f2143a0b7ddcfc0a88590e9085ce8955f3f104aaa45d21247fee36f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/937ce31d9cdf5fe0ec7c957df18ab3fc900f8556f37d270607195261e5cabccb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a38c26b060c1f53540f7c1ac5c23b57b1d79f492a527ebd62971e7397bb40bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dacf9428288ac1ba3f02ae4571fb493276c1a89b84c0ecb8c36032861292944b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98da303df657343cf3b6a92e8baea68925ca3b11bba0092d5400685689c4e7c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c7527f1eb3ab726a4bc50b845ecbea6742b56f7bd6bdea0d826e7dae54aab4f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d12c9d8605b2ce17fcf0201c366cd73f7933ec42ee0d146d98693a4d47759ee3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d7351f4609a56b2c5c80a740285658c1404ceb98feead25584d426db585b5fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/52358b7d54940a79f8af534910b1971a7c88f98da570f504a615c007519697a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8dfe49b1f299bd0f83892007cb66b49cba25c5e0e00db92989d849be11b5d130/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d3de394f770c6e93e835b0bf22624eeb4be62fcccd6ac9ca5ea13eb20740899/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb41f8fe9f94678687e3d4093f21d41c7f02ccc653c72c39687747360419cd35/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-safety%2Bbay-150371768"
+  },
+  {
+    id: "wa-safety-bay-240b-safety-bay",
+    title: "240B Safety Bay Road",
+    suburb: "Safety Bay",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 50,
+    daysOnMarket: null,
+    price: null,
+    landSize: 343,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Front-row coastal inlet", "Ocean views", "Opposite The Pond", "Steps to bayside amenities"],
+    status: "active",
+    notes: "Active Safety Bay listing advertised as opposite the south coastal inlet known as The Pond, with sweeping ocean views, a front balcony over the coastal surrounds and steps to bayside amenities. Price is advertised as Contact Agent.",
+    image: "https://i2.au.reastatic.net/800x600/1cc3bad74a1a6622da06fc929f7c37d80fa5cd0fc23516c1583f8e79bf9046c4/main.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1cc4214f732843a546c35ef5634e6ba8bdaa70259a7d33f2f05a76230f89aa38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/308efaf3d604730bbeba54613874279e2af6e63169bfeaee2e1637b990de28f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c09cc17b19d84e69daee03618d15e2f1805dd36c954f58ac3b6326c56db013f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cee7b71c30422001ca2d6a49663356f74757633567c629236a3cf9de54d97b0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9679d336d6a99c89afdbecc057dae142e42db216d353b3f9026f73959667494/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e52e0d95abb200fbf8aaea4406539ba2d68ffd7a1e99dc1d68370f6be7e0c0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de7debc5e50ef8cdf549b48c4dbacd74059d459667257fed0af64a9c014e412f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa0f4e5310a5bf6cec91f821b79acd750567fff83e94120ca8d86e47085c13c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e5dfbe6bf1e588c94ab8d1b7571862e7a0a28dc4d24778ccf0e59568a942b08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9eee20403e7bd2676386203dae0646c81f7889cb78cb508de3bdfaf7d9d2609d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/860cf45244371788a2eeea7f2ea89cee81c1cf8a8308f50ed8115b0080ebbaca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/faea151bcf873f69139f58b4ab4fcc815c50ed8ecbfeff638014831887950ccc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0617ab61bdf71cf5c3c91066c3a588b1a42b95e52ccbbf8ac113079133b56265/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b8db3c2c56e7c156a32e681b1a666b43b5439aef43d4e76c39618215ddb4b40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da8a3da1f89d0f7d8716adddb16588fecc83d73612181df662ab9477ecd5f060/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfdf1579bea2e85e6e854155dc398030f987dbd7dcf1d3125f65e360166880b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b522d786728e1acd0192b69639ba8af158fef2c70733be1559ff41cb99c71a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/198bb73d8cdfc430bde2cbfdc404e17f7354812aa5d192fa6020e7138714afd3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fefda67b133c1ba7952f8e227f11be7f5d88afffdbf1694879cf7fd5ce87239/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bcf9b89476b0ef442fcab1619b7d8891f67be1008520def24d6e87b93acec86c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdebec7a13b7e2ed9b55630ab724d170dd3dc9360911cd750f6253db007d8e78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5e935e355a791d367d77bd9c7e2efcd6dc352b352a8ebebacb8a750c189d379/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a89a897f01544ed88b2cbef7b113599385979af8c2a65cb63264ad4a6b38316b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12d6bf7b4f2ec9a7c72e4ad490dad21af1c68ccbb29caef6ae2614b6d36e7f69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/874012ac68cc9ec40520a0b84ceb84c9bfe8508b40168bcb31ebea7c05a44515/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a53b11eac8e8a91e3678ecbd6b80a9122925ad288f0de33a33a616c014df7cb0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/991a4b81f37dfd0cff139b532ac687517bf67be1e5433c077cebbd11613c5783/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c82763b8a15335aab29d0f81874fdf7676e74943feda074fd365d62c6d21318/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51e721cf1be7de08eb8308d72586150b56f252a28b0005d301f5af8db3aec0bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/abeb32b1019f0c8f344586943dd651378342f5e7865e3f292ff13bdfb8484707/image.jpg",
+      "https://i2.au.reastatic.net/800x600/013cad776eb639050e95d559254a573f6c6c03d2a279fdb79e3c403507e82abe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbdee0d6eaf5facfddb37ee563f24986e3e847c397bf8fd2b625bc0b3714d67c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92ded50a989669ac2284b6d8e93a10406e300c3c713fbd1b87741b0ce2402b78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a3aa896c7c8abe4da1013c6e00a30be3f1a70a66b8d6cd1e4d833e41a05350e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a59692f85c420f48c13c8bab5123598bef5c981c3a8674cb5f0a449e03bbff2/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-wa-safety%2Bbay-150787728",
+    investmentStar: false
   },
   {
     id: "wa-safety-bay-288-safety-bay",
@@ -409,9 +879,46 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Absolute beachfront", "Directly opposite beach", "Ocean views", "Large block"],
-    status: "sold",
-    notes: "Homely active listing describes absolute beachfront living directly opposite Safety Bay Beach with uninterrupted ocean views. Price is advertised as Contact Agent.",
-    image: "https://www.homely.com.au/img-variant/l-VaultRE-12699539-1.jpg?version=a9y0OkgMv5tcir7DzJ52fmMEiFwrS1Iv",
+    status: "active",
+    notes: "Homely active listing describes absolute beachfront living directly opposite Safety Bay Beach with uninterrupted ocean views, everyday beach access and sand just footsteps from the front door. Price is advertised as Contact Agent.",
+    image: "https://www.homely.com.au/images/listings/12699539/vaultre/large/1.jpg?v=638982374813663862",
+    images: [
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-1.jpg?named-transform=webDefaultTransform&version=a9y0OkgMv5tcir7DzJ52fmMEiFwrS1Iv",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-2.jpg?named-transform=webDefaultTransform&version=Sv5eMJHBemPsoOPbyd2ZZeIM4e.jztRM",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-3.jpg?named-transform=webDefaultTransform&version=6Be4QliK1wAha9kVdLKya7LggPndTKRP",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-4.jpg?named-transform=webDefaultTransform&version=kfu8GYiItXsDSptXeKOvnr8XLoChHmP3",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-5.jpg?named-transform=webDefaultTransform&version=hp9XK0hNHwNBMSVXcUrHfW7LNez_RZQE",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-6.jpg?named-transform=webDefaultTransform&version=XBhl20TIrI1UDsbRe01TxVdoc3q3Dh6K",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-7.jpg?named-transform=webDefaultTransform&version=toyihnulioh1R_ZozSe1XEGXxTRx0ECu",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-8.jpg?named-transform=webHeroTransform&version=65nhfX30E04dCWsINlI5aRCrYxzWRgYz",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-9.jpg?named-transform=webHeroTransform&version=sbHpYH_idizYk9AT6p0JonXOcvKo2Wdc",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-10.jpg?named-transform=webHeroTransform&version=iAOZWU_Ahek2Loax8zkWV0upCF3Qi6xt",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-11.jpg?named-transform=webHeroTransform&version=9luJofUz8kbLTilXNMJ0F9W2XRvlwXmm",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-12.jpg?named-transform=webHeroTransform&version=bja71O7qiJlEwEIdpmHxYyp03wmuzTjE",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-13.jpg?named-transform=webHeroTransform&version=RNeidk7G_mvw1xGLitVCgk6lQD6sHw_Q",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-14.jpg?named-transform=webHeroTransform&version=Iy56YTWK8VrZ_9t93LEdhH8fX_FJe559",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-15.jpg?named-transform=webHeroTransform&version=4CyZnSOfzRapAZsjexgkntl0AOiAj7nL",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-16.jpg?named-transform=webHeroTransform&version=pfDIAXPR.Ozw1ZE5C7tqwRBW0hGo5PNv",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-17.jpg?named-transform=webHeroTransform&version=YAVqnGad_37mq_6wqWzUHn90P0eyRTlM",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-18.jpg?named-transform=webHeroTransform&version=oF_Nzh3ncS0bscnsW8rWNe6HhsanNAEw",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-19.jpg?named-transform=webHeroTransform&version=p57a0.l4xalaoqKmo5n9RsIfj5Gf2JrA",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-20.jpg?named-transform=webHeroTransform&version=g6iB95qF4XG2IfQ7Yv01142g0oR1imZf",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-21.jpg?named-transform=webHeroTransform&version=_uZHdte7zLn3Ov90uN7Aa60YOV4aHT9V",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-22.jpg?named-transform=webHeroTransform&version=wqMlEfNwUNFnUlAOOjsMxGSUzKkFZ0wP",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-23.jpg?named-transform=webHeroTransform&version=zEZeK8KjSY7DLkJyQZTqLX5I26q6Gp1A",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-24.jpg?named-transform=webHeroTransform&version=TJXF5rtMj5KOcmVIlFsMrnSnXHmd2LHQ",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-25.jpg?named-transform=webHeroTransform&version=62EBr4FGklVVP2dQWt2.1xNAJDhwPjTX",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-26.jpg?named-transform=webHeroTransform&version=Hz94juoSRElkkJZWqDIIrlOcb1cie.Vp",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-27.jpg?named-transform=webHeroTransform&version=RR0kZaYp5YXbfU501xqxl41jl9AYjuKx",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-28.jpg?named-transform=webHeroTransform&version=Vq9AGb9xk9j36iDWU2dkWCgDIpbHor_R",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-29.jpg?named-transform=webHeroTransform&version=76vbnJvgiR5Z.A8Q1Qx0xx7.e6bRzoNX",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-30.jpg?named-transform=webHeroTransform&version=_7IprpC5oqn49648AzKfm1RqPlfiwHy0",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-31.jpg?named-transform=webHeroTransform&version=se3Jg2rqh40fpqZ.JVJsHpeCrbn1aqOB",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-32.jpg?named-transform=webHeroTransform&version=g2hzeM8M4MEkQwkiMutyXpRw1nA4_Fpm",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-33.jpg?named-transform=webHeroTransform&version=hhEBG7ShMd57APdXvbMRVAf.Mu1H58NZ",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-34.jpg?named-transform=webHeroTransform&version=EJDsongWrK9.jRY37LRPHmUJXXvsxG8k",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12699539-35.jpg?named-transform=webHeroTransform&version=v5XXz_BBQG2bh3iFxxK9prtyKG7hAcVu"
+    ],
     listingUrl: "https://www.homely.com.au/homes/288-safety-bay-road-safety-bay-wa-6169/12699539"
   },
   {
@@ -429,6 +936,43 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Dual living", "Pool"],
     notes: "Beachfront house with direct access to Agnes Water beach. Price shown as offers over.",
     image: "https://i2.au.reastatic.net/800x600/0cb37a6eb3b5199532c99469b95110f01c0697abb3f3212d9b7c4752c357bd36/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0cb37a6eb3b5199532c99469b95110f01c0697abb3f3212d9b7c4752c357bd36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db814bd5f694e24ccdb78bcaf2f8135f859e3a6caac65399df974d1784ed9911/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18a4663c70967c2306266e45ee09a2553097f0d83d8a655823aac9a5cf83d73b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e9c2243f8bf72f0b87e862546d4adf9c8295c9603e0c4ef38e0f3810134ce19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/67351a5f26b61bd58ae2b8bd0bdf132c60fac1e929f01ad1d40ab87a175a7ff2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b62697ac5655eaae4f874408daedc5f513406c54e6705bf5d18e1b35be6ef62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80c7a777898f8f1611e2098cc61887809708af6bdc2465398bd006519faec35a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/928fcc3b8346c99dc1a95100fa123ce2652490e9a4576e96b5234fc3b778ede2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c54f30663b28ad092080073178328f4435b06adacad2a356cb58475d364a370/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89bddcb71b978282f0c64812100e4fbb14222b5557e14f7345302fdae8184b9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab35b68021ec73f0b1c2b2507e293aebbba733ac8f25c003bb0a3d8ac9a55c17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60d2414fb3ba08ef56f8c328150e60567e577f2538552d075d16efde5e197f1d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83baa9f6845ac943524aae12e068ece4342d8e1a6360373d60e2d6701d24a624/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fad77b1ad6afd8a5a6fc2c2e70098f81daa2086c091bddd5aadfaf8daffcfd0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8219ff558b3610805cb5001fd272a2e6cc9ee59b43550725f940d08cbe61f70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a856b8436fe2e4f0e028cb7d8c9f68df40fb06cb2e16b8ad1f2b82ddf6483dd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21ff251c2b40ea9ce4b780cbdc24e65a7cf784144b67443c4070837ccf09a765/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a97c697913520f276ebc0e5c02cf272f9fc7c366dfa92170b0f36a1e9d2a0db7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/abb44946aeb5e183d23f271d6dd246ef1287314195334a3751eac089eb6781e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df5b952ec66f6f1edeef7743eea4eba8583ed69a04d9d465755454b0b44c3d58/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a652ee130e3eed6f98e5e3cc24ccefec6b538ec46fc87ac55d32f200919926a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bfe9bdcaf613b047d02865bc8b22363b727535624154cab699643143d593bb3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d31c4147c70d7f990b69bc423e388f6eabf49cb791695d9815c0f7d882de2e8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4598a409d9e9ea1cb1a5da5281ca51161de9641522f500e611bd2672c82d33f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72be60150541e674e077ec1c12688cbc169902d95c480d96b76481c2adb083a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61f497495f632237f66f74a87308128f146225b70d178b540d9f05943f9d1380/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b405e205db9b540a7b3dfecc30d34a9000e5f9d415745961f9cc3140be8d5d52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/26d356dac45aea9d19881ff7950fe94f030dba4066f59b83276daabc4bc0dfdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/587f456d384e10153f578e1c0f6c2314814cb47eceed923d705f1b2bb00b4dee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c16f02ca4a12afc38328eaba9c15a00e8f231efd9705a74a4e4411215ab259b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9531fccd4c4f425aa41e6425909b0a94871230b1fcb641492b851092ba15358d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba7242e5bf841ddaca6d089ad776bdd5e2fd7bbba641a36119c87363c0f16558/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bab0033249cf3559f4efd7afa9e2ec80e9969bdc5718ba47ba6a2f6fff2e61cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a25f23df5c890d00b170e42540e2c6ae93ff78ee17ae1aca08f8fe4f39f0b4a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d2d81a221eb1c5b77fe25af0d160e2ed0f42507d95aea2410ca58ec32781116/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-146193012"
   },
   {
@@ -446,6 +990,31 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Boutique block", "Ocean views"],
     notes: "Absolute beachfront unit in a small block on Tugun Beach. Price shown as offers over.",
     image: "https://i2.au.reastatic.net/800x600/3ea42dad82b288e87c1be2735c226fae9d1273c4789516972cb1e6beadf5a242/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3ea42dad82b288e87c1be2735c226fae9d1273c4789516972cb1e6beadf5a242/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02aa15da3704e4bf693984a859cb4e62a987aca2d86334e630cdaef927f7d55a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e89f1d4d743a23d8bdf0068cb293ebc2da9d4c297ac6c1a7c32457f395e6e42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b72c46b60454c84b6fa58ab4f27e44957a82082920891ed8781e555e4495ffdd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/733c1eede473ef7fe26e5e4c3af3806a28448f868e0474466c4c1e4038622aa0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f82e77d3762ccd79ffb251eb326b3053af1e29c2119ce077b536d0594415b68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d46291ab9689978a2d91106af0cdf92eb5e0545aa38f589969d47c27330f48d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69b17683b29c83af337baae8c7eb6b616635970c707295c0c7d3748d1456a251/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c49a9903af943596c31a08c22cb6d9cdd6ea36ee2511c6b96dc873a4d51f87d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16d5f22d127beaf7c8050707f1e0d3df4b22f5a457f5c84c8667a98ac302a1c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90e26c9dd88ca17fb056a70f58645cf466255b542a4ef15b0052bf9d783a54f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7f3c48671b309317fb70aade952a8a9e080da6acce5f81faf817909a2245135/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9dcdd66bce37bd3ae1ed0e999ccb6301f4d499dbc56d6b699ba3049c33bd3228/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb9d4e5c5ec35efe3655fe4cb8cd8cfbfaaae2dc35d458aaa91b439e525c3370/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c83b425d8dd167ebc15967b623f3813282801a054d2c58aa0809684ab2644b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66b8f1f72418600f86c4159ea0e806ea4e6771da667b8f5e6a7cc0a85b56450f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c3916c1d783f28663e95e7dd19fd58e04ce90eed23b92506cf30e30bf1961f65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/205e126ba47b8ffaa6e71418218ab36f54cabd596e98549320adc9e917b1854b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f8337f410d1211f20749edd4b45b77914a2d1836e5d8af6c8ed10ab70391aef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5393326c51b69c186e701212888b6eb7716b6f4cc49c2e5cb232f8c4ab74aac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50cfafd8a706af4b670dc2e03520fcccd9397a309756f6b4a6092ded3d1a46ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/937f95616ada457988fe4756ca1ad8ab487d877299698c4fe35d7f7f4466852b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8aea3286eecebf10cb2032484e40ecb545fbcb4194ffb2633f16b1e8d2c34b4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-tugun-150764768"
   },
   {
@@ -463,6 +1032,15 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Vacant land", "Ocean views"],
     notes: "Rare level beachfront land parcel with direct beach position on the Mid North Coast.",
     image: "https://i2.au.reastatic.net/800x600/79c6cd01a4053fd49750343e522fd080ab9b90d338b4a158fac4f38886db86ac/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/79c6cd01a4053fd49750343e522fd080ab9b90d338b4a158fac4f38886db86ac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a67b9dd09902c170ae88930779de3a0a0ebf8ff750c9a36de435548994196d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a0e9863a8d99606d7433444e7b96e06bb5ad056cb128a161f6de8d862cd2c16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebbf802c202416685db3255c158be74563335a38c290bbdf4cc38a6da8ac9304/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6756182674c514845792518c6fd300ac6fb2119466864021f88ab42f831700c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/380cd44727c9ad070c2ca24a076848680c9fad92791ce8d7429aab435e8bf1db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12c5e0371b23b4eb99b274211308b11aa6868040ce09d001449df5c60df15f13/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-nsw-diamond%2Bbeach-204433248"
   },
   {
@@ -480,6 +1058,23 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Vacant land", "Blue-chip location"],
     notes: "Absolute beachfront land in a tightly held Kingscliff enclave. Price text advertised as $3.7m.",
     image: "https://i2.au.reastatic.net/800x600/c76f2ae727175c343cb0b37ff0a32e112266d1f1f901808edc9cf224082d9057/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c76f2ae727175c343cb0b37ff0a32e112266d1f1f901808edc9cf224082d9057/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b521443339d18fb54584e8d235b64a4d816726fec9d9aa58bc832e3f9994dcb5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/898325771b3c25d0489e0e560caaad13af5faf43eaa6147baf14e4ee70072b56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ce7e947f967f8a681228db0c447ec40df254ff200986d26adb5cb5b165996b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46273a88bf60dd0eef17405c09bcdda12e662c6c9fc6f249624888a470618b46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b059d9b34397e9b54264ef2ef40990c614afd7e025489ee65c7e2f49b8d15d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c12773214bcd18b4dc0d3f8ba79b33ea54d7ecf47d7b2a906779dea77b8d6e97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5995cda58fdab009edb27fba231acc4560ea8187cd2a3ba74269a1eefcaef43/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7788df88e37bbe4ab787b523326d8996fd3503623b0c6db1db211a1a1a256300/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bef91d4205e63108588655c5ca8abe8271fe0a5a152ca4746bf4046888ba0ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c99a48ad62651933cdd0bc088de0742ff9ca343db409b8e7009980a07c56280/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72162b36191bf24f4dbb092bbd2570b8545768fc9898deb4ee499af1e2916a64/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df14c96d0972064e94857174d6b283ed5dbce43dabf7b0a5c12c4e19f184aea3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61ed5afbfca25c9064f5d52100bd1026f07d0d781864bf0c9da9ed07bb1b20f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/179bb4ac711bc5c7958a9a6e91307207f473dab879b9f072f1d0b53652817223/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-nsw-kingscliff-204401644"
   },
   {
@@ -499,6 +1094,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active Kingscliff trophy home listing advertised as an absolute A-grade home on a 775sqm Cylinders beachfront parcel, with beachfront alfresco areas, pool and substantial basement garaging. Price is advertised as contact agent / no public guide on the current listing.",
     image: "https://rimh2.domainstatic.com.au/vxp3_K3Sttyqm3uwGIpYt_1xwBg%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020620307_1_1_260219_064326-w2000-h1500",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c40ca65e3e4f4fe3a6c29fde6c1454289b0380d36e102d3739f07a85719d4363/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c3385d95f406927aad4dd4da6abf8bb81845ca4e1081d15489ae02d0c1d3eb6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b49c5cc17ee04512006b6a7669097e17c431c02a71f82468f47b146bdc56cfbe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65e6b4b122a4044786dc4b808118b59ddf87f7bc2b74af7fefeefdef9258f6bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/336c2d8e209f8f66df97623a981d7bec712201869594e6c6863feeea2557de47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d17cb02c358365c5f802ebdeedad5aa75bd430156def09bce186a4f932fb3f63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6a837873b7a24cc9a94b2f7dad474e7081a50f041b6daa3ea4c2bd0e0f6fbdc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4618feba13dcdb9c7b904f54594c9bee7c8b491b5a785350a20af1fb3462fd59/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cd95657e13726cf3c3d76d8513180c15680f6992b48488f66298bfc8dc42b26/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3bd88a33b0ac9da081329a32ef6795cababaea926b04156b5882ef6d69b9f03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac972de8a526e18072f70ee1ffded018119c4002f6aadf82bbd2b1376fd2e887/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2dbe39240dc5f9205942ff9ba97393750fd1c3712ee3f5270d7cb2f930f25e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73de6a0c9b9f973f379efe8e73ab6a6e3884c79f9b542138bb432ae6ad9fc141/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5965225e39f605b63a24abb534be11d0d7fb3bdbf27d0b3bcd099db66b6df2e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d8e7f206b447b59f89e5b40c23e56e7aca1fe598454b8a848c17f474a6be7d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/162babc3b864961b14efec1ed0add4574e360eeb4c941b0312bc77878f35e698/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7924e142f41614bb0567fb209476a9379792d666d7598c508ac69e0eb22fec95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f90d6da52342e41db637c393197306128d5b6ac3ab82b6a25b0eccc448a81c1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bd698aa04976b63f7f2cbe85b3708054d14f869ca9b42a6f20d878d574477f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4dc90b07366121c41d83cee7e0ab67bc83ff278400b8c9ce2d901dce05794aa4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b4143f33b26e3be76cfcc929091b4d383ca6946389081a1369b627b6dd33043/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a73d2449e8d9116e6dbc3bd15b0901c7a986052f3ceeeeaa88bdb90e5ce4e8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6cfb61a3398833515075c916675fe2df0bee9ae0b726b6ff2c7fe5bc542e767/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7065a9a1161937fe47a263237d29f84980a5e36b6c21aeba6905730de2037f60/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c99f438999a1aecdce8fb8f8329e813c3b1208550a35fc03925843a4bd01c54a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3f3f1291a903faae7ff4e9a3e7e67602f4cce10c1c5d37bd33351acb221cfa3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36ecaa07cdb6dee31c7a10f1a7e438f2b6d897dfdcf26dea133b4bc77c55e7aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4944d7f4345a736135540f8f0e6f8d1c80dca1a982a723f91ed72d70ba6e98ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58f1945e0f9866883857400895937505fd5ae81fb91bfac52368e592550628b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4361a53eee4c33a20c3844589cfd2ec90823106a95faecfa89de537e6d86cf41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/084b4570f0ee2c4fc7f12b208c2573b37a679d9a1808f34cd25788c8ff507966/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8a0e09c2372852f9c64a96ae485f428c99d86c67db912bf2ca5f82b156698a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15bd7b7cc1e07da6a0804771ee2e9eef6630bdba79011d0bd72dd8c72217048e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ee189f545716cf1100a52f15c81f209bb80b10e7c208ba4ce04f0dbaab8889e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97d51a18b9ec2f41482d4c20c0ee2132382b18feea7d613795e9dcce35bd4c68/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-kingscliff-150360884"
   },
   {
@@ -517,6 +1149,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active Kingscliff penthouse listing advertised as modern architectural elegance on Kingscliff's beachfront, occupying the northern top floors of Stellar Pacific with ocean views from Cook Island to Kingscliff Reef. Current listing price is not publicly displayed.",
     image: "https://rimh2.domainstatic.com.au/CulAeoVkc1rqFQT3UkXjVZDUNd4%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2019313637_25_1_241102_102815-w2000-h1500",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d6892ccfef1767e6e7e5e0e1e38b4de62b6b8ca9aeb740d115474991379fa265/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69d7089afd0a7aae8c99429b8bc1954e6c61b12d3295d2c06acbbb56eb96d08c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60e4fd81cbae998b932f0db3d65ebb2b6671ca8f7e4040dfe08b95929cd0b0b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ba34296b630bddb4080484d6d38b63641f0027acff1585b68b14f8956b40dde/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2a7eed302581e100987ccd5a0c92954708c47c1d87ac7e151dd6383917c1bac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1822b5032ca35cc72e7e116ef53072b6df02d562acb8efb63bb93e89dd917628/image.jpg",
+      "https://i2.au.reastatic.net/800x600/546c0bedbe2c6382964467829c5d62c37fa183415b62e4fbee8662d1425c2051/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e41e19198d10cf4dce3697e7406f381178b6a1f2fa9ab60d10a6440d77943b69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e5dd5da86786e7de14f660dbaaeb40eae5d927f5731bb89bd86d806c361d783/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47c464269846b7ea4fb90ad69a1838ee4e080a5a18d9017a2160e5a6a0a64a6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7131162fbbb19d2145b8dcd19d65f5273330fe6e58ade2c6656304e3ecf2482/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28b91862e725b217b4a40ee329cc1a1df35464a2f562a5b3869354c86bdfec8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e0c985afdf276d2df947ab18d7fe96c4a7010e15c7c464ce331f5aac7e2c040/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff859b10a547898e59e5fb243b1006d3aa5c91eb4283ab97d058793aecb37971/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb5757c4a044fadec623b22422e12b36b923d687689f49e236cda096ad661a1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d9489696cb76a70342de91aee93fa110694607d40f52fa8d9cf402a3c6fe6c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3bb36615e4e8a7f3ae8441411fe0642f781062be10249250cd26d36aeb93b3a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a690edba4bc2fbc250fd2a3837a39b9a5f220742dcf14f26692049709ea495a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bce8b9ed13fdf29ffb81be46e91197f4d838984054078165c6b513414ff29a46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/627b7f94406fb6e3732db971ca53f7509fc919548d7859c001a4a0efab9b5b2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6497eab93c436c696c4b6410aba30b388b4a1b29ed2dd55ba3811da9cfe1dda3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a604b0a08070414ea96ea2c67dbf9128cb559f0bfa4f6e37ba95c80dfb100d19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1905dd8c775084796536e37a245c76306d2d04fadc293b7033c478ba20d0d7dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/322973a7bb653ec531bd49eca909d7fde18fad34b9d43d566b2bfe4d4139ec21/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b100eb287f35f64f22e18a3d47e5e12774f629262e7c1b86da4a34e9bc3b31d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1996873ca13e5b1ca2f3545b78e9463df91ae666adb463a532b415bef3dd2f3d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d18481bd6781d079f4e118404cc5c2df049536e53066e52647d4ad07c8e4fc6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6297bfb0922735d07dd5db2b10d82ec9d24838f2784f87f1dd8d5907e0425a94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16dccfb4a0e179198dc3cd2232eecb0d9aea19f9dc628c63a3f4f5549cda6ee7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fcbd9e54e3a1bf2fa6596a83c0e3612232adf725ae9735b1dee2b2d2196d8d6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-kingscliff-149992124"
   },
   {
@@ -536,6 +1200,31 @@ const sampleProperties = [
     status: "active",
     notes: "Active Kingscliff apartment listing advertised as directly opposite the beach and leafy park, with direct beach access just steps away, park views and filtered ocean views. Price is advertised as new to market / offers close.",
     image: "https://rimh2.domainstatic.com.au/kMmmESqjFnUmAc2fSRDhC7H2B3Y%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020813270_1_1_260504_071728-w1920-h1440",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6b2f6c825ac562bfaf201d05cabf1707795be71b792f870963b407b34cf018d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88c4f355e8eafa726d53d9d9f356d9f6ffc36f585f96ec777efd12a7e4620f84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70fd805b7beeb37aaa5287beecc166ab885f68e89510d551e6c13ac6eef1084c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1aa2c676229c863e3472a52d199f840253371b1158f8d60b3e626157a1f72b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b11404273181f66e0b3ce72cc87ecd6c16ba124ed6253fe53e71e7f7863e5eb3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5535ae444eda6b61174c4430c2ac4033a272f59eec3e8c93b62ad9ca5ec4921/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0e3521877226e1972e25a861dcec04d00623db204e04ed376b6d899c0a858e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0829225a5223b3e6fb5ce075a6a3f4c760c349cb6062c4012efd02f3bc20a521/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16fe5814984473d51e8643f5f19c923afd24b65ef645c5e28c35aa51845b6a10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e04d28dc7b7f390a797f02973942c98cfb13029273f62aeb6bce00cd6e1c476/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ac730ed975e37c9b14c1bfe187fccc2a2b7a01090bcd518b6113a4b8eee345f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afa04350898642b85520e2d8740367c6d7f410afb715d58efb308dc267ee724b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f55bf689ed1404eec0ffad050e811bfdf09f3d15fb8f92c1125790231e9e3992/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72ec7c86115891e110ca3f63bf1b209497e2e0bae67598a540ea712bbd77ba0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05a1beb6e6a06cf1c69f63c35f196bd486327aaa6c789d9145e11b2201fa8c99/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ddde8ea7ca0076e144a65e62aeb7dd378e4053e2ffa215a821759555bcedac4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22a52853c93c81ebd27f88e856937d1f8c6e511a79017e7d5197ff4281b66ded/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c8f3062a7f4ae5ea73813de040d672de95f58836b396c0e24ea5ce0c74df3b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d08571c54100535ab42a074f2a267f353d4a848a1259d1c6d75e4b9ea9ff9dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96983e5576c4ef8e9c033a039814abe6318aa1415d7c90f12fbf9f19df9d2dbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a6e057b493b6af362c7a3ea641a966a3b8c672fe71cffc2d5834563f63e7170/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea716ca1ab1f0c87b11d0342f2f4ac8bb15d5575b804bcef17b8b9ab4ea3dea6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7dac3b86c7026acb4252c2ceb6373f34044b7026d1a07e89c9b6309d6ff8c911/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-kingscliff-151066516"
   },
   {
@@ -555,6 +1244,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active Kingscliff full-floor penthouse listing advertised on the exclusive Kingscliff beachfront with an absolute beachfront position, steps to the sand, sweeping ocean and hinterland views, and a boutique block of five. Price is the midpoint of the $2.95m - $3.2m guide.",
     image: "https://rimh2.domainstatic.com.au/RTMCkiIngNUD3Z-f8SBJm_TwLPo%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020657425_1_1_260305_032235-w1920-h1440",
+    images: [
+      "https://i2.au.reastatic.net/800x600/8034b50760ac3bfb8b802d465fb2be6b7905ce6d4cbe5399b4a487cd24b77e46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de52520cff9924856306f05b3846fccbf2d36af97c7d7946c8fd8accc7acd831/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f58a090fd0644ba1f45d7fe715cbbbfca9ceb0585e3b9b883c53a2bd84d08db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d032c7dedfa77d6a76ace659e6a2cb88c4c24c6fc50f6a1f1faf690ffded325c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85782720d441efd9bb6b9c8236ec60146e607c13e4b2b2d93870164d4da4a88e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4149650cb340a0f82af6a2687af2bc9ad751bd656bd85414b7772b3d258e88b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7aef508c459d686066520f63bac624c013ce76850fab80d5929c6229c4f68043/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63f5b930998f047df6d73bb8ffe04c6933fb3142525cac9b90d8c79d26b6c7c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c800ce5c820e261d8f2de697fe871841371f9b10e97006d98eb6adb7ba3515a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a144a4128081dc0818ff9c9e737efd221d261d7c0e6ebdadeba174a2e7b721cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1009584b682fc40810f1b93e340b7f1bd77fcc6beb8f3f0545117a328795bf41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7a4a6779d1303f15d26816d49fccd472f5f5e2648e24379d2bf814859c66e6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c0a5430761dacbc615d980513169cf80dc52981baec03e0c6f25029b870f99ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a43f0e352b3258f3a0819b16bc632f6385bd84a606f4084c0f11f67ec384bbc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8da4785dfbf90d3980924a4eb225cd4a692ddad3f6cec13ed2ed4f622985b5a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3ba419e9f675cbe310809fd8e9e674c0fdd4a9481f6c57539cd6cb4a4726d62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f63432eae37ea3cdfe08ac4810a4adaa738cccceaca14fed5a7f3f9fca732ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69daaabc795dee2b03f9511281251bf59bbf8d51ca6ca168eb39c7243893c684/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a1c7a90ec765df93285d9c16146e3a638b8922568d2764b9a53490e6a82bf73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31e8ae26c33bef4ae52676794747f723bf5c94a0759171a8ed0ede59b00221a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6aac512943212fbe46d14f2197b0c63f1181dc5ae90936581772f812421ee46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3981ab232c40d3f8f74141b6aeb24488fffade6b310991c40ae709a74150b7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e62334c1d47ec93575f1a82fd4898f1ba767b756ec804c8c81447d92f0472ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c73410d68629733fa583773ae5b300370c1d0c0c5fd30dd189fdc303eef02fc1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d58b3794b9b1ffca581588499c0fdeb057e91f54802c8cdd0a3eb04810f843c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7daa4a25870da4d7b1ba793bc0a3bebc337b6a9d2c9e1c4eddc9553b6a03f823/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-kingscliff-150478904"
   },
   {
@@ -591,6 +1308,44 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely Kingscliff penthouse listing in Aqua Marine, advertised as a north beachfront penthouse directly opposite parklands and Dreamtime Beach, with sweeping ocean views, oceanfront balconies and a residents-only beachfront pool. Price is advertised as $2,550,000 - submit all offers.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12771940-1.jpg?named-transform=webDefaultTransform",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-1.jpg?named-transform=webDefaultTransform&version=Oja4UglwWMD16s6.T2bD6OrnYylzMC6e",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12771940-1.jpg?named-transform=webDefaultTransform&version=us3W4ZrwuVi1FsfwNysX8P7PGfeXX_RN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-2.jpg?named-transform=webDefaultTransform&version=.QHbmgI9Nb8jsGgQZQX_.Z5zLR80j.hQ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-3.jpg?named-transform=webDefaultTransform&version=t_DmBHHpU9SljxiFyVc36561pKc.iD5n",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-4.jpg?named-transform=webDefaultTransform&version=fiW1dRZ9nb.Q9yZmkrw4h1yCWUcX3lMV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-5.jpg?named-transform=webDefaultTransform&version=speh_CULW1DIllnaq36VFQe8ygZX2nyB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-6.jpg?named-transform=webDefaultTransform&version=VniGv.GCJ1SDmDPIPhvRlxNGM0Nns7ok",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-7.jpg?named-transform=webHeroTransform&version=wXyQpgNpAAbHt7fFjkQgGrWT6Um8Z0hD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-8.jpg?named-transform=webHeroTransform&version=DhWl8AuJ.DkmAWQpsHrdEZwKwDs5p.wV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-9.jpg?named-transform=webHeroTransform&version=O1DP9MEJPyHmoK1cBwUAI1Ox2fE4x919",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-10.jpg?named-transform=webHeroTransform&version=QzsDOrzqa0J7GYIR81RBqd8ISoEh9kNQ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-11.jpg?named-transform=webHeroTransform&version=FvwxXYHOoTuq3NRBm8qKBXae5Qucg6tN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-12.jpg?named-transform=webHeroTransform&version=ZjckoXRbj_CMvSSebDSbmIRa6OI6RZM1",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-13.jpg?named-transform=webHeroTransform&version=fW6WvA07v7KpyaXK2y4JanOs6b8o0kud",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-14.jpg?named-transform=webHeroTransform&version=PRDA9yZmu6B.sIGnHopG1vQutoON86UX",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-15.jpg?named-transform=webHeroTransform&version=_cKMXVa0jqZYu9AqU28J24w0keR_F9Ul",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-16.jpg?named-transform=webHeroTransform&version=gPlrkBaKP..h_gKFNyOm5DaCDCHZkH.S",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-17.jpg?named-transform=webHeroTransform&version=3aKO1emmbpwJNGYuCRNMX03zi4Cblv_S",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-18.jpg?named-transform=webHeroTransform&version=xs2FWAxAQ6zx_9RF6sk7Dwg91QNTLCPJ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-19.jpg?named-transform=webHeroTransform&version=HXcmHeWQUSNUDIO3tCBsdyuHLWaTA1sG",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-20.jpg?named-transform=webHeroTransform&version=6n_vykjYuV1lV9lapz3k2E8NpeYxMbps",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-21.jpg?named-transform=webHeroTransform&version=p8xrgV1sIaJHtfee4wDqDV2kLmBBKnil",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-22.jpg?named-transform=webHeroTransform&version=XGu.nKuWEIVQf_3Zt_sPkGqYE0KBBzlG",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-23.jpg?named-transform=webHeroTransform&version=tHzfgKKwYvbQdc09CbD8wxvkHGHVzRWo",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-24.jpg?named-transform=webHeroTransform&version=b1BDTMUY4lAzffURqtQ1ppXilUE6qJqh",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-25.jpg?named-transform=webHeroTransform&version=cLP3aqGSgMucUOGXk4s9zInG8Big2J62",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-26.jpg?named-transform=webHeroTransform&version=8ATNg2q5cUT0_6InN7u4HAi.FJq8ocl.",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-27.jpg?named-transform=webHeroTransform&version=ed.v4Onkdl8XQmtWGxMdTrBEZwzfEaHT",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-28.jpg?named-transform=webHeroTransform&version=OP_4hhh6Skljvw.L02iXAMQsAWhN6u9O",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-29.jpg?named-transform=webHeroTransform&version=48U3XK8ocHVcI55qms8MYu5Fnps8P_ly",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-30.jpg?named-transform=webHeroTransform&version=V5JHn16Mkr2dBZK4Mn3oFaF7sfnHuodg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-31.jpg?named-transform=webHeroTransform&version=Ns5YwqX6EA_gFDJSyMXW9iq.hs_luwNO",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-32.jpg?named-transform=webHeroTransform&version=n9aybxyFZMZegWoep8sBDjqRYfQFjbW7",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-33.jpg?named-transform=webHeroTransform&version=cjEC5dWn5ou_8JsUsYBgqjGt6CmlQwk4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-34.jpg?named-transform=webHeroTransform&version=zVjYvJiL5ULgybDex1mSsfdtFU0p7WFN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12771940-35.jpg?named-transform=webHeroTransform&version=o8qVVN.uK4Q4NLpKnkO2FGBtv__kjqJF"
+    ],
     listingUrl: "https://www.homely.com.au/homes/6-282-marine-parade-kingscliff-nsw-2487/12771940"
   },
   {
@@ -610,6 +1365,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active Kingscliff Mantra on Salt club-suite listing advertised as an absolute beachfront apartment with a private deck, ocean views, direct beach access and resort amenities. Price is the midpoint of the $895,000 - $945,000 guide.",
     image: "https://rimh2.domainstatic.com.au/SVnf4n3irFCGgUgiRuXscynGs-g%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020524667_1_1_260113_125417-w2000-h1500",
+    images: [
+      "https://i2.au.reastatic.net/800x600/118e71512b216c7d2737c12452cc1483212cc7c57171ff1dee5d9e6d683f8504/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c642578d04805204db688f84a9d10b44dcff0e327a4750e47c8877c53421eeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b478dd815b8e03c1655f7841f878d1e9989cc00cec218a741724f40055942a1e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d79272f41e1a150570bcf06be84ceba78a7676a97a9adfaf708548afb9ea1981/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3107413fdf160fc977da7be5764b67395d36828efea4d78f310735d6ef2e8423/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b81d75c1964202d7421c99e32e077e2c02ac37fcf7671f1c9c65c8a3b7e0d17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66de57568ee150fb1a0871f00d737e35745156e9c9240425c3afa7563e2de484/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30a649fb91785353b446868eea46ba38159dee1e887524669c34ea059a6cc523/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5826ec89634449026ebfc4710b77f8f6ac145ca3fb6442d54b3031ee655d020e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c17bc3e24a71dadea61a5749f7f160fc820926edec63ade14926e1eafaa17819/image.jpg",
+      "https://i2.au.reastatic.net/800x600/737b8e1ba1b6ca0e162f3885b1ea7960f7b413f6e99d90d79dbec3230f31fa8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e45b27fef65eaef7efc66e664f942070de7ecac0ba65e57415e03cd312e53a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1203505c4407592b0b74757a051d4051a2321f051dbcbe0003bf06be379c071/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ff99a3227eec7fdb66bbc921d5d18d1b15da8eb5deae7687bd92dc99438a356/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a6d58f9b22363481a86f8ed2c6948d832690cce02caf348e2ad87e455337738/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ac3013cb08236e6b8f94a47cab60c1d49a6e1ec730d8d6dadfc4534abe67f48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac02e251882437e3630d52da0b1397d87ea294e5e782391662fce00ea188045f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a48158af202a659a65d9e52ba76f98315aec42b7ec823d75f10dddf10ac95703/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96437cc0e53f4012d6ffca8b47f75abe24ecb338ef205baa7c3458de9b04469a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b266e8f27c686f1f4ad9c69236638545ba39f8b7989c78f2b225035dd1947cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d5dd9e51f8528ee4f46cb0c6e357ac332041a9eb5de733e2b03402de9e98641/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37fb1f5455460891ff49728a5264ba6d7ed36923f08ad4cf955d8e1a42fbc03a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4701ac38d8c0b961ef33357558b472d758af3ecd21a9feec95079915cc27f7ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51247ad5e5f01d242cb6795054cbcf5977abd79e38011c5c21a0f6fec7999830/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a24acad17f3c77217013f1884bd1708ee262939fbf8e48263df2dc5f17fefdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a087b3fdc3f5c06b05a1b542f864c64ef9eda9765b562c9f01fc3c5e6c96bb75/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-nsw-kingscliff-149991772"
   },
   {
@@ -645,6 +1428,13 @@ const sampleProperties = [
     factors: ["No road", "Street-to-sand", "Vacant land", "Development upside"],
     notes: "Street-to-sand beachfront land. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/6cc1b663015edcbe4555b03cbb7429d922a39fc9a82be372f4bfba878801cc8f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6cc1b663015edcbe4555b03cbb7429d922a39fc9a82be372f4bfba878801cc8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc880657cde956077d9534f1d3ef4feb4f7b91180f97cb436493217d772f8d9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f9ae0933d8b6e25dd80fa95b5d7d60eafa46fdbb56fda6cf0f6ad2c1f3ce1bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8bcde40e672607f94045d4776273fb70aa32dbdb8093659b9c039dc0f17a8c0a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ff6c991ff665c7eee6141764f51c4d6251fa063ee095c734aff724a8910a50e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-aspendale-204184340"
   },
   {
@@ -682,6 +1472,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an absolute beachfront residence with direct access, a beachfront pool and spa, Port Phillip Bay views and a gate leading directly to the dunes and water beyond. Price is the midpoint of the advertised indicative guide.",
     image: "https://i2.au.reastatic.net/800x600/35439e961ed12652266fe74ee113c61b4f4e4f4640a09e0f3dfdc20d4ee1c078/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/35439e476282ff1e9f683634af3210b8259652f4c30729d2c68bf220fb872120/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c571fbb28eb3486140cc8a02e86326ccb6d5de8d9a4f9b19b7de2000e84b2c0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/985a8e4854723f03b32d4d6e58491d9ba563d10422182676fc7b0df0fdf00778/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74e44d14cbb9d5523105cdb1f216e74577e66fe9764e67b205918b7abc68fff0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7cfaf684c27f1f96aa14f9386d6ed7fcbb23e29508c15a264a631db53014040c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3272fcbb7d9af44ca1b692e14dea53e1a29c92f6327f04918aaee0efa7bd6055/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d7c0781f80d0f328d011071514e546c9a1dabc256d38ee8657b9ab37886553b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acd97b6a5438675888329cca60addb288cffd78035ab4e05255f90deea8b326a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/747c796d52460b105ccd12e95255cfe533164f580389ec9aa833a5e2ea6a01b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f70d1ed8aad3536f14b0bf15d583bccbf39fc8dd168f8ae1302f774e5910b31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1e02e4d6f25d205a7a9ca65b63245be24ac2fecd085198d20fff54461c06438/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23eb5dca812d854d52b14694cb52f34d21f2d3c1482a4b683ffa6b3e143fd798/image.jpg",
+      "https://i2.au.reastatic.net/800x600/003b2f4a0bc350d5d8eaa68062825cf38ed444ddc93ad184d3d6424da1b87083/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e259cc3149d8245bcd5f1c557b3e80b6df28906167d72552fe334f86c7ad03fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83bed68d0222ee91033482e4a8a5dbcdc383a6579906e69fc327135741f129ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ca24d9b848a261b01cc9215c3f73f52affec51c5b9abf67ae729e42b0b8c1b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eba4737847e2cb68f6b576c0d946cee051c254863ae37d3e13f383bd1e0fcb76/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27eb8596a98a8a472ea0a1c0c77eb4590b1048135d70fe319e14b5c8eccb654a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7cce3a12bc8906c6d5d9bf9c748613362ddc720ee4fe7e6b6dc9c9f120b17260/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-147636216",
     investmentStar: false
   },
@@ -701,6 +1512,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with absolute beachfront access, direct rear gate access to the sand dunes and Aspendale beach, panoramic bay views and a quiet cul-de-sac setting. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/f119b3c749e40e3190c047c2bd64e0db43dfb65536b584b79d10c0a4497527fa/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f11990861331a08e585caee384d0957d8290370dbbec2e8b730879a9b7e481a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4da83bf73d23b3f4bc3f8f4b8475c3bfb3be9fd9566a864849c0354582ff9f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/360bf2edb5f4881c89e9ff72f2929779b65966aedffd219d71395f78db156da0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99de294dc7f53c0edf932feedce4e5ceeaaf97513615bbcf7a05ecc6b6b58146/image.jpg",
+      "https://i2.au.reastatic.net/800x600/545ae652a50eb388906584bea95cef84e3714596fbea92f8b0f5ae5b29ba94b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82c0fd9afddc682d7db66209d396770d7e812d6aa7f0caacd51fd038876d7c88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3b8e95d43bd9a25a8b5795d8b4f5dbdd28e8933e3f0e38d44f540d1b20c5891/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40a9798026782330f051d7e644e103284d3c8c358c09b1f45fd9b0471b67b28c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33e1cd43b582f220582c0d3298231c8231ba2f6559a23dbcd2b74a1faf150122/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd1af0c2f9021f9908a544256e51ebdd59a4f3938b8f288c4327f841ff13393e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06cc72c4b655156355b29886404496a03e615ff12587b0fd83cbf19bebf8772f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a32280fbb54e0963e8d9252ac46e583c500a459508d666e5d91669ac4d96babb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29a150d8157b0bcada3b06db1709c89851d4ca9039c5215fbf39909ab482c649/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbf643db85660817d8896cbccd82ffa1028a3282ff32471359ebb8a6f2e47425/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc76244991b9fe649ceaf3351cd1c813caf17a0b9d731b7c91ae99780376e539/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8bf8909f93b88a1cd69f974558efcf0580798d69614eedec4c06dece8ff052ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/485c5bcb38a616aac219df0548c021e6cdccc8616f71f3f66ddb2ad644cbe956/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-148679944",
     investmentStar: false
   },
@@ -759,6 +1589,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an absolute beachfront sanctuary with a private beach walkway, sweeping bay views and secluded Aspendale sand. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/4425df370dbda147a6e3ec609039255bfca3d9f790a994e8cd4b98ef24459f1/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4425b8e65aa0c55063b579da6739fa0372abb2fc6ea25b62cd28cca938fd5844/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e523db5a39996d1695ddd0319efe2c5d573d87770828dea7b64f126d0f122ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb8b4996a4f95cec904dd404abe66b36567b94b262878fbc199bb94dd227c6d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/245d7c84e5a5a379369007b730bb886282391ca51eb42732ea317c2184f56157/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5da6959ef975a6ce4015e605614a923e18bc4960884d9fc0f70f59d1fe6932c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cfb4ec83b999b7b394f3423f558c397356fab79590ceefc8137ace2d5783caeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b9f36887670872700655751d5b9b6ea62f0b504c96880de6472a8f9bce6700a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0dbbd24c0f197f31809c7250d5155aa894ab84367aa3c30c5c1e01b39362aa7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7dbaecc72c9a76efeb82c2765b418916ae5f9a8e2fff6c6e6b8f7b972ec88358/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbe3ce3b7554f42e815c1d75eedef56c0631c2f0e1e2a0dbeb9cec73844d7e1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45a70b248c676e4054a8db6222bc588c9861c53d1cf7d70104320e45a64fbc5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/babdd59a67b17d6c365b55fd3043f652204ef2d4fbd38a9076c3fa068dc6e8b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4e832bfb0ad8103eab3c3327a37d120c6b56f158b10daf52efe41736bea4fa6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15eba572d76078d9a6c7d8ec4998338dcc7858e9edd63a406f635cbdf5457aef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81c44a7fab170e0ac4a9cc047e205076d84a0ad4c6ace626353552a318bc7614/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c6fdc87bde9af1a8dff5238a94840d960022d899dd0ea18a5937197f77fe8e20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3ad71079ab93ad8f899fdd5ffcdcc6eca08ed255610cb67021ee5ee64b0589c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94be244f93ff50850d51c4182eefb5d2a12b2cfb242ebae0d804c6d8ef23710f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c468930982061afdbfaa11d2f4d9e481b8dc07869a977caf08f9e8c9c45ad63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b28cc513c0785c238b29bab2ed1af2b238fca19a66763ac94cd2c80d703785c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90a47c6bdec606f27a14d803402bfe154731499e7f64b958ce19fd6bebf6c2cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4154540d701e36655890866432039a2488a6562d3a98083d2dec8c03181f6a0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9124b7cc7258e0d40d8efaaf1b4b2deddc62c6d3d981461019d356a30c461871/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd636061f0ce3aea7ab8ec5ee24985c49acee3edd3d9253d1fdddcff616b6209/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a17eb712bdd3e9aad3f5f3d1fa3918f7acd0963a9511c03f3ae0b48a3270e646/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-150256960",
     investmentStar: false
   },
@@ -778,6 +1635,29 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au apartment listing advertised as absolute beachfront with 20m of beach frontage, direct beach access and broad bay views from one of Aspendale's tightly held coastal lanes. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/1bd2767cac4cfc2395c4e4fa2c69e409c84f87817e29f9f6a3a3d5a697060556/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/9c41e60d9422b70b5c013c00cf4ea9facfcac1eefb583bf355f7c524375fbcfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebfdca5640ce0ad5cc9bf98a85919fb5600a67132147261f20f0b9b12ed497e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbd2c76d2c785873c3e6f6498c8d472e596048f33a048bad07df3ac560890052/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4d70aadb0e8e99f345555ffbb734f1389b93b3ce1291dd3d720b14306cae509/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0447aed756efc2bb63a39a7201f6f2c1f375305d71fd254fd2e9b8cdb78f90fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3672c7b5a5c2df450648140e47d9e0de664ba9a4a765d2498788fccaf2c18043/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4b6ef72586ca775140ca5ba193d5033ff4ab8dff45e9a4b217b5abde579fb5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53eb829048895ad3a0a41a005dd5cf24ab44a070ef3f6a819524ef35fe8b1ce2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed47faf6d2736b4deda74f90ae977ec8909bc066c13c9251babb6dade8510ad1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b27ec2b85497ea8b1e8809f02a8ddfac28dc985ece2123d5ca018c738869d5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93a67b2718049e7ec730d5e567dfd69d1ce6009166777616171155bd7e0c429a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16233541b406f11e760460b2c1da8ca9203ad191bc51ac35bb75a660fb1ad6a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0becb34530a25f2f7c62a6ae2374ebbf2a2e994f11c9393fa791bc2bd2ec55b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f506bdb0740988c43ea807cf68f40021e58e3af21b24d2d49f6eb329cc15c97f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/073b00451f0e8adf2e0f317d1a782f7fcf08d19976cd65072fd600201097dbb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c5116f0d65d982a464dd273b7c4a7962d11c63b2fbbfc29edb7dbf0b505bd70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc0d810a7bf623898b0f7d35c93f8c309e1557d4a146d604c684cce08daad6c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/004fdcba36320e25fa8338c0f5f352c659fb513d7f032d16d9453a710ae4b204/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4228838299354480a49b4d9db491b28d53dda572365622b0b34a47b1ac3d6ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c42b667f1438db5984260228042e50e4d49360921bb9b99100936772826c3829/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7934edbefef54059b0c64724ea571b015212a7dc458a36c48a062570a8eac26b/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-vic-aspendale-144939804",
     investmentStar: false
   },
@@ -797,6 +1677,22 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with beach access from the yard, a private gate and direct access to the sand from the residence. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/a0c032ea8e649cf7ee53aa5d7d8eac86079291191bb82ebae2d7ac60eabf7655/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e480614d2797f5a830e91ccde35224337de798073cb3bff48f0f5fa48b123439/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a842318ea00deed4ac3aaa60ae0371fccf11c1d574c6aeca336b31ab3e19c1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f55221cf9a9bcb8f7956d20fd22c727338c92be9c5fc4dc7b915d02e61827369/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc7c203017ffbe3a1c744c3fb238771cd907934dcb8b18ee1eb5c9db25599d06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9fc88b6b59b4ab0c0359c2e307bab9356edd62ebb2f677f812d4de35d5da09d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38a774b163aa4ba64d23d26ad26de487e7ae0881b6ead6451b02be48bcf49407/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca4fd6284708605716e4571e6bc54d657b0098078bf89423218bd5da66ea4ca1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/620b0abf79d4a1ecfc6f0f094152b65b71f8fa4c13e1b4813e3486050b917774/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2de24dcb5e238b9b32c1723249578665927975c888b9c0994f1b77c13b38db6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ded68fb503cf455b86b4431d967ec4ca0006f798afafded26da5c1ad413f25f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6740235f3043eea371ab2339a3eaf964e0222e6dbe179d2b8fe4b9247b59e370/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7218d4036480b66a1f73244985d21e9613543a0a4bdd6043869591e305f05de4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/224dda2730e8ff1d834cb3fb5f0794c11285950b5c2ae8bb5d869685f9126b46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7da7b98c964926bdff592313c89c0afb604273f304ac4ed28b89b804aea2d335/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-150387356",
     investmentStar: false
   },
@@ -816,6 +1712,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as just two houses from the sand and waves, with direct beach access via Wyuna Lane and upstairs bay views. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/62ec40e94fb579046320a9048456e6a75056e90532b05022ff26217764e6008f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/171e898a41d680d005cf2125e9185ebc742a707493757940ac857dad3b97818f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f0a8e47b185bf2e91f0859a01b94afd7ec87981010352949d55082b6f161835/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2d9e9c7e76c6004b8d0aecb43abc7453b77cf294e9b7a5072b3e5c220555002/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05d3e43666d38098320739d2721bd83a1225bd9a5aa7d6d90daa09d113f64e14/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9330600b1438eb6f22af481a7bd2a11d4240c9cfae9fe628a7fe137119b5e58/image.jpg",
+      "https://i2.au.reastatic.net/800x600/427e99b8dcdc56a3f05f0b103e374aeae373a03b784ef8bdea0fabc121b01bdf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10d441b0e6d802da8511d93c6d7ce7bd63b053f60eb2f73a2102b78615741ea0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b09d35178f174601fe8807f95da120d8692f22ea343daaa7885ce740b5dd7a1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d111f97fc6bbd777c4b08ba9dbbe972f7224519644036800f06488e80312bee6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5b4f442f86a2ef9fc6f6a12be2943e1a1889884673f178ab2809a0fe06e7520/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ae102f173d2bc0e392da50390cd8555f6a850661f5ab6b0cfa497ff9022a42e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/661d6898bb4054e48b2db9ceda51dcf9b051dfd97716a389614de5c70ffc298d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49315e28fca10e5ea3ac0978fe68482d0752dd404e78858d72f597a3a3f53460/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2eaeffe86cd202960fcea2445d7fffdc2d898a612ed78299ea0bfa1ae68a316/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96c82edfeabbae7051800efd582e7613d723698bcfbe9873eece4abeee6f29e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec91a2ec3cee8b58f1db7404adb7bfe2cca48b1db058b38cabb498d1689b685c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65012dec1def7d95fabb0da7bb452c50b56010f08b45c1f9cf7c038da6454f8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a36afd500219a94a640293545672fde2db15910175fff69265b1c239717ba61c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b944919846a773a32e4bdee76eb8e137cf2ccb67e8b40e20d8a0fd392dbcfad4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af0c9b454f8469b6ff9d23b3bc61f1e5c21759b71d6380dc23d8d6550c0c3367/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2e1530fe6ec138a88047aac9cca5857982a7acfc291173f59406d8766c80713/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ad2a9067284cff000d7bdc82d306923a20d48a051cbbb4adc1d20628753d640/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22719be5095ce285272f32e0c0fd07dbabddbd088781a053a3b8246556587f5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d67512065644fa4a3522f78aab3d7ac51f34c1512642dd1aafe10fa9e421862d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-148724636",
     investmentStar: false
   },
@@ -835,6 +1757,15 @@ const sampleProperties = [
     status: "active",
     notes: "Active Domain and Homely townhouse listing advertised as steps from Aspendale Beach with beach access just metres from the doorstep and bay views. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
     image: "https://rimh2.domainstatic.com.au/KWrQee2GS2cMW4ISgG_V2Jg7FI0=/fit-in/1920x1080/filters:format(webp):quality(80)/2019721385_1_1_260211_104221-w2000-h1333",
+    images: [
+      "https://rimh2.domainstatic.com.au/kBbuvR6gd5VY7ZcQNx9PIP8pC1g=/1680x720/filters:format(webp):quality(85)/2020259299_17_1_250910_035212-w1873-h1405",
+      "https://rimh2.domainstatic.com.au/CcrMunaJLdmYrO92rM1wRO8jgxc=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020259299_18_3_250910_035212-w3508-h2480",
+      "https://rimh2.domainstatic.com.au/kpnrVU0pJoK0kvSFr5kySU7gOdM=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020259299_1_1_250910_035209-w4500-h3001",
+      "https://rimh2.domainstatic.com.au/HWJTlX0VkuPT0e6g8AUNU-Lnu58=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020259299_2_1_250910_035209-w4500-h3001",
+      "https://rimh2.domainstatic.com.au/kreWc-xvnJ4CwrqI6oPMWLkIXjY=/180x180/filters:format(webp):quality(85):no_upscale()/https://images.domain.com.au/img/3717/contact_1727639.jpeg?date=639141045147900000",
+      "https://rimh2.domainstatic.com.au/PWmAF54qwJeyGTvvpX_x59EewJY=/180x180/filters:format(webp):quality(85):no_upscale()/https://images.domain.com.au/img/3717/contact_1848833.jpeg?date=639141045148270000",
+      "https://rimh2.domainstatic.com.au/l-q0HwyJH39S_4ZEB_0voihsVc0=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020259299_17_1_250910_035212-w1873-h1405"
+    ],
     listingUrl: "https://www.domain.com.au/25b-bowman-street-aspendale-vic-3195-2020259299",
     investmentStar: false
   },
@@ -853,6 +1784,11 @@ const sampleProperties = [
     factors: ["Beach opposite", "Vacant land", "National park rear", "Low $/m2"],
     notes: "Beachfront-position block directly opposite a long sandy beach, with a road between the site and sand.",
     image: "https://i2.au.reastatic.net/800x600/83115f7af9348b8a1281d62be176d3b6601a07dac7d78f6a463360d20fdcbc2d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/83115f7af9348b8a1281d62be176d3b6601a07dac7d78f6a463360d20fdcbc2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2daa35a6b15c431073c0a1915eab190965bc10a0b3f9dcf3fc868d38bdf7d843/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c688f54f60682da0a9213e9c552aa537380819cd3930493f1affd4aed4e94dc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-mission%2Bbeach-204089836"
   },
   {
@@ -870,6 +1806,24 @@ const sampleProperties = [
     factors: ["Beach opposite", "Corner block", "Bay views", "Development upside"],
     notes: "Beachfront boulevard position overlooking Port Phillip Bay. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/a41282ee27a15bc2164c4595b060367ee5fee2128ec9a08c60b84ed51aba923f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a41282ee27a15bc2164c4595b060367ee5fee2128ec9a08c60b84ed51aba923f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/610bb1ac45b8db7318457b28b6db895bebee81527e1342240f5c34ce2ecec6b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3af235a46b5729521951c50b4f4c73d5c7f8e65b88c875ebc91bf890936f70b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b38dca8f3f89033893c3c9d3467f53e9dc7edad1c5714da85c9214fd55a41d62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff7a841efee98d49c1b03f8a98a119a4d62b7b4e300aa2b89556841997d17c0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02f8d60ff5fdf0f7ed5b7111d054aa4a4b524b82239f2dd3575f31b8d6fd9e79/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c97f93efbafdf5b8881647830e2ee47d5cc6118a058a31c3b2a572316ae65fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/920374de3a2e06e3071f69255da3d94f4ef0a770844237e695df0b3639c62c42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce3584797f9c4102b18f321fd5a4a5de14e89f9007c3baadd9a62b37161accbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6e8a2eceaa366ec5622a71f64d7cda27ea65a6a653d381a60bd724ee16cd6a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d69b38b70412fd8c4bc6a8e24fd12402cf36413275240b83c3a81f9aac9b796/image.jpg",
+      "https://i2.au.reastatic.net/800x600/335520c4b0b210309c90fc48502084a42167a9af0e2deded483d169a3980e9ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79a582b9e8669acd2d66800c00f6ecbd491750355399a823b285b2f8318a3f86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65a1d27d32176d142c55d0795b6715bc515173019db3b1698fe7ea8b90a8740d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7ce07d715281695751ecc990e1df15a0dbd1fa426145b00509aaf7c4587df25/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e02a90391bac6a605353dab2b0de824de78fbd592a97d420576ad86626474885/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-beaumaris-204094676"
   },
   {
@@ -889,6 +1843,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing advertised as a four-level beachfront residence on Beach Road with sweeping Port Phillip Bay views, a rooftop terrace and Ricketts Point and the Bay Trail just footsteps away. Price is the midpoint of the advertised indicative range.",
     image: "https://i2.au.reastatic.net/800x600/83fb8ce9df26b4564576f9be2cacb48c9815b7c738f3588f2a3fbc7002b25a44/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/83fb8ce9df26b4564576f9be2cacb48c9815b7c738f3588f2a3fbc7002b25a44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5540322a69b73519467be578e32b051648cbec8d9932da7589ef1a3b8b09148/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e37acff0582c3c65f5c770fc6b02aa11c5271ec483c26d0962306c39ab0a0b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bdc92ffbf56fbef5d27b47c7cd496a86d5893481a461488fa81db2b9153e19e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13830c85417ba04f071046838db60301d97f4d6a0e0d65e228aff72a2d4721c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de353263d66e07cc10c47915dca81aa8178cfdccab83c90189b233bee1653cd7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04b8107ba2fab513d87f8374ffbccd7adc4028b461ac77639c12a4cb858fd706/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6062ad4887a2834b31c2106cd4bc70735aa0994a11c835c8e863c00dbe904457/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29b57dd519463ada968846ce315634554654863a3d64f632a7df726e1ea730fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55d26674eb30ee19b97d2386088cf423a2d75d932e1d5cd5aa4856549c13f554/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89d00d8b628d9a40070831b3494da4bea0a6a82a0d3b749bf92ec07fd993ea5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79fdbd3808d1435263bdb23454c118e0d2db0ea21bcbd39c76776bd8f12ea98a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b35a65949567c601b1a1b38b8e65895d938a7cb82eee3882d8e2348a7a1f30a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2d75c1d9001b25906ff28f535864a8505fddd9f8667ba3b5824f4478a1063f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c72d344dae614ecdce71c89d523bcb8421ed3c32dfac6d0f8b5ffeca870a7f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/934e545ef1923bf08054902cf146535a1ff14eac5c7c1d87fea4d8f791f63fe5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8bc6ebc5e94d5aacd7d8bc5d3446e2d1f99b07ced9866ee9c4b5e66445b9e36/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-beaumaris-150547624",
     investmentStar: false
   },
@@ -929,6 +1902,10 @@ const sampleProperties = [
     status: "active",
     notes: "Active apartment listing advertised as positioned directly on Beaumaris Beach with direct beach access, 180-degree water views and a balcony overlooking the bay. Strata land allocation is not published, so land size is TBA.",
     image: "https://i2.au.reastatic.net/800x600/e4339678d393ea1c53feb80dc5953d3c1b35aa11e8a73ebd600db0a421324832/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e43aa6adf13ff6d7473c2e15527658630dcf2a14c8d850a213bffba2ec25885a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b83ddb0118306af1fbdf85ac9c02aa7e2ccf24f0af6e40c914bf948d9f5e329a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-vic-beaumaris-150218920",
     investmentStar: false
   },
@@ -949,6 +1926,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing advertised with clifftop bay views, a private back gate to reserve land and the foreshore beyond. Price is the midpoint of the advertised indicative range.",
     image: "https://i2.au.reastatic.net/800x600/2abb04e8405ea43993f7359d0bccd07c9d98356f79bf271875c5f356784f7989/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2abbf84d1c246bb209c0cbaa663d16eae8189f78773938071136431b4bf01ecf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74a87ddda68c1f7302153665ee55241a1198b6054fd81658156c712496fb4d73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a777e9d487fc58a542742c6d303e0aa3c21b70838e599be1902d593659b019b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2c579db86b8e0908861f9d3948b8ca54c16549db4b85906816bd46297708891/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45478e2e12ec2bee36fd4fa66c9af2a969876ab4d8c2f4e38b6f1dd14b9b89ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61a6660e909fe1b831b8355ee2c90cc7b0e286a27638330710fb0163f06ca94c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6bf3f194484c14b241d6a551fd958b18214f1aae512ac3cb7d3cf7d112509cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/538401827599b1cb3bd1ad6de1b705c32883de55d1f3fda75fe496f831441245/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b674db26e4b65226186cf11f799c6a6bed96fc31927492fef5e0dd44887e615/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1faeea2f69730a507826da1a8be4d8f8c74b1fb1273f5ac1a3c0a09f0284582/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e36762abaaac0f58a62c1d05c6680aa1404bb1e71ce6784f08ff605886d4535/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8062179f013aecdd0f20329e2ddc65ae714b6f540c93a5ba1a82b778ebdc0e55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60bbd1a5768799817eb048718d446c78d1ffafcb9b220c5e2faae31039a7983c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a60f68362b1244e7b7ae945f17e49cef81aa501640a1f9c3c19e1ca651da3de6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e47f550adf6454f6e0e1607fd5a3c4364acd795ed110f42ee31550b5d6343479/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c69e6e06f1f9135efd7fbc2181a6cff97c43f512d5436369686ee9f487c41a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5146e2004be2f343321d9dd8e7860734698a18457b80208859a15cce590935ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbbd54cd50aa5afd8ad923245abcc5718b29fc097fc7d6c2d7992bfd727b29c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae14c117a0545c1a8121f6a3082db999cafd1afd22c641a1a88d45d3cbf08de9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6b0dd86a5a22b75169806b951ee6cff1c6f506f97a29feaa74200d424b9ba20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b5448aa67ce335b80cbb8445d3fc2abe49f898a52e2186f179c1443aa27392f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3747cbcdb6c537b34a77c6b750be0ea841b70977b7710ffcf9ba3a371fb884f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d38abba8c234311b5d2c8d536182fedc48ccbcd9edcb3d617289129e62dc0fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03d43219465f0e44624f7a2866c6634f6a812a75b156060c868cc489326d39f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c5bf4e945e10ad2471076ee4bf56a208178b55014e8ffca349a83ae6f674395/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5971f202e481db5c847477ff45425a4d41908513999a24100b13c20afc165012/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-beaumaris-150543716",
     investmentStar: false
   },
@@ -969,6 +1974,20 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing for a rare Beach Road corner allotment, advertised with foreshore proximity, bay-view potential and previously approved plans for luxury beachfront homes.",
     image: "https://i2.au.reastatic.net/800x600/00a82135a0b2e17a3e3fe6d385c1d8e2562d89b6bf251d1d8418f452b69fe9dc/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/773477b544c5dd52376925acbeadbb6c0d701364bf0a444839a6b925c8be8c90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2dbb083d71c6e3b26c9f30dd54a3c62c53a0153bf7e4e05368065ca63664eb17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5669f515d5fac4afaeb27d2d4f5a56efa20a79bcba9745e1b06a05385385395c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7d1a0fa56533c79aaa34522665313d8391cb4314b97499ead058857f3099f4a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/728eaa9789f45034ed6f2407c9b5740e82c736cc78c60135065e872630a5d16a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68e72a02b132b19716ef4190ecddb67ec5ba9dd86ce437d2ef61cc0593884e13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5396d4d17d2896438accb131cbd2ab77350b8ed45703198911c7f8e28ae45a8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e238141b8280d31881e8977307bfda28f6ed2c435f1cd6034d321293e0975fa7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3faca344245bb8f0b8d165e3090f90dc3ebb9d89169af65c54b1744267be31c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92979eaf42cdaa3e77cbf7511d52c317f79a2f8381f6cb778077a679a9f92fec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e12eddff2fec336f035f65c7879b7864480a66f0fc56ef8b1e2ecb9955b1cd64/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57781c74837d2259a24510830fa2bec43711ecc4be9743d47d040a8e7e29004c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-beaumaris-204459516",
     investmentStar: false
   },
@@ -1009,6 +2028,21 @@ const sampleProperties = [
     status: "active",
     notes: "Active apartment listing in the Beaumaris Hotel development, advertised as footsteps from the shoreline with bay views from the balcony. Strata land allocation is not published, so land size is TBA.",
     image: "https://i2.au.reastatic.net/800x600/c646b286192f88e269d6399cfb91632a49baf42b053d4b2030e1481d67be5211/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/fcb2af2654e142ab4e53cb30b02dc497f54e7e71a60e1a2e33033a0376246a53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1ad34c988622d925a74c8c696f832564ec0defeec3f29be9e6b2ef976e0c949/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91e2d86cbcff8d6a53a4de7365717b899ddc162cf2eafc29607773b07ce8ffca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8de25ccfe253d8e7070f63c2b39e0105e218191c9958b90346b84012e1507da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f4e0db964a77ab7fb20d3b1400e262f35c36693fdd3c08294ccc5816b70f70b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e13d8bbb91e0d0062b53d6d3a38a8a9b84fa492cfdfaed214e68772b2246c18/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a0daca77aac29e76eb9b73d3aa3d3c8d6432e05268c397c1abdef25e667a17c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eca0dd1df75d5916939b95ced90e416a4c5b6a9cf4c6f34e66f57e0cb3e1b1b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65fcb6530b4f6e1a95f24d12e7cb3c6d4ef307b8280ca4431ad03526a6806135/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7403f5555414f7adcf30ba7a0bbca13d43aceb24dea5d195360284f28741bc26/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0de09fbf4429f1242d73546f253638f18eddce887979ff432fab46fb6ba14454/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4191f0a3396c5a7080a3f4f6f4488465d70ae2376bad45d7667a1e2bd514c28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/060cd22b9f1984edadf7859ef34bfbe83ccaa01ae9b65759cf60ae2465a9a62d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-vic-beaumaris-149484600",
     investmentStar: false
   },
@@ -1029,6 +2063,22 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing for White Sails, advertised with an elevated beachfront setting, uninterrupted Port Phillip Bay views, about 30m frontage and the beach steps away. Price is the midpoint of the advertised indicative range.",
     image: "https://i2.au.reastatic.net/800x600/8064a2b6fa2c1455b8ee58d7d880bcaa82d6dc646c1cb3ee4333d2ae2aeea71c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/553a069ec316a7888ddf42f8fc037f73e4f5307fa997e71ae6dc8740d4e4fd09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b62bd835d7ccfc952d075101ada6f6ba10688bf9551c8b65cf2935353315caef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0eef93f263e1e91808355c58d9f58b02baebee09514b66358804e16a895e42a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7718c8fac938177167a38e5233e526e3621fda5b14ebfeb4ad7c5adc904c7f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f519949ffcbd41d758aa3bea0c29e66e01c8e8dc2ec2c4973b4350daa3908d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc168cfa09858d14ae6a3f53082ebae4e24a1a235a6c78a4ea4bb628161b444e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/805616dc4e26bec84305315c4ab46c539c9292c480735ead8c3b80727f77e7b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91504c67d292fe645a0d1e2805dd0c7f9eb36e625635f6df61be99d387137789/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fbb6783743a12881722a8028bc48c9f3f277a81a49a2e9b55c6cf4e8250600b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c63b5f8152e549b40f1aa397cd4e5bba32b5fa80372c20cdb2054f721e401dec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa3b130ff76107d5a7c3cd7316c4628735b78df09efd111d50d9b6dc661ef34f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/304f3f6ac75c9c641a15b290dedb95dbe9eb6f54aa51654571287b92ed1b0de7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4488ac32d98f70bb73482630816453c3f472a5b25b2c0317282a6457b3a0e551/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c81d7f763fe6284496d362e40fd84bbe7a27e283efa56aa96c661ff234194f87/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-beaumaris-147307896",
     investmentStar: false
   },
@@ -1049,6 +2099,20 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing advertised as an elevated beachfront townhouse with sweeping Port Phillip Bay outlooks, a broad balcony and the Bay Trail and shoreline just footsteps away. No land size is published on the exact listing.",
     image: "https://i2.au.reastatic.net/800x600/d18c891509fb29dc5f5e22ae673b71ccefead68b282a583b73f1153294a8089f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6856caa3b7ec49ffef3be198c287175eccac22d9b8728738980e76bb6b418b05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b262a06efd9d0986da94b0a6a78c0c810897e4ec77f202d8708c2ee742446981/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4661bcac18ee4ee5d9f48bc95c39225c837264dbf9039ef2ce0da205d877d6e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8ba36aa879700dc000e0cf7acedd9ed1c6f2db80fe1b413390c5405410b1c23/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e94f932ec37fd8ccb5136c81db6edb257ce25f7b08f85dd32da9799aff145116/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36d1b03cc538bb833c52f1ceaff2c005d3cca700621e4aec971155576b0a4da3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4facc4f62d17d1396455ad65d5a4c028f4c8f1ba63d57af5a31d75cd00fcc0bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dfab9f125230556a354068eecaf63d7028a84402f966e0e2b8ac2fc5033cb157/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21222dd5319eefcb62f5be11e70c880341c42c300e9404af0105006fa1cdc609/image.jpg",
+      "https://i2.au.reastatic.net/800x600/638441e3b93b71548689fe5f25f9cfe6a81a8ae0b890c1bdd0feffb7393c145c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8871e4c1610b8cb7c94fc422d6146be36bfa3ca7308964f89c95a2fc4cb050f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f6e0ea20cedcf47b60d874190ed89a087cb97fc4d4a00795926ad08aec05f02/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-beaumaris-150969212",
     investmentStar: false
   },
@@ -1069,6 +2133,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing advertised as a 1,685sqm beachfront development opportunity on Beach Road with wide frontage, convenient beach access and sweeping Port Phillip Bay and Mornington Peninsula views. Price is advertised as expressions of interest.",
     image: "https://i2.au.reastatic.net/800x600/440302103d81f1556239c76270e52da12f8b9d948b7ee885742f1c6596224cfd/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2b1766117693423609d8c78fab569a729d0d599da64772b5d2b4394d5fefa3dc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-beaumaris-204318476",
     investmentStar: false
   },
@@ -1087,6 +2154,9 @@ const sampleProperties = [
     factors: ["Foreshore block", "Vacant land", "Coastal track", "Lower entry price"],
     notes: "Foreshore block metres from Surf Beach shoreline. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/92e02c886b56873f91f7ba4a5346ea07b1f940035c64654423a5347681514b0f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/92e02c886b56873f91f7ba4a5346ea07b1f940035c64654423a5347681514b0f/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-surf%2Bbeach-204442052"
   },
   {
@@ -1104,6 +2174,16 @@ const sampleProperties = [
     factors: ["No road", "Two homes", "Ocean views", "Pool"],
     notes: "Elevated beachfront block in Seascapes Halls Head with two homes on one title. Price shown as offers over.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-11575127-1.jpg?version=FhhDxoE1FDiAesdmHrGumWzBiFX9T7uB",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-1.jpg?named-transform=webDefaultTransform&version=FhhDxoE1FDiAesdmHrGumWzBiFX9T7uB",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-11575127-1.jpg?named-transform=webDefaultTransform&version=HHoktmJyJZtR8C2_ZlyEEOK3L1ZE0jKK",
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-2.jpg?named-transform=webDefaultTransform&version=LasR5hQB8v2R0ZJ87fHyI5pIrBgii706",
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-3.jpg?named-transform=webDefaultTransform&version=wB0yFBCu3aB1WyDQtMekxvvMqTvlOSV3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-4.jpg?named-transform=webDefaultTransform&version=SPW2Wl0xM0.Z7hpOE3MgCkXLXMiwcmKQ",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-11575127-2.jpg?named-transform=webHeroTransform&version=Gxyla_g0Tfd822rwN2LvgWW5tEH86joi",
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-5.jpg?named-transform=webDefaultTransform&version=IEyN6R2boTA38oLijIP5v.29egYlycx3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-11575127-6.jpg?named-transform=webDefaultTransform&version=7SJ_3tg3K1G1uoqBsXqajEUqS9QftL8q"
+    ],
     listingUrl: "https://www.homely.com.au/homes/20-hayman-retreat-halls-head-wa-6210/11575127"
   },
   {
@@ -1119,7 +2199,8 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Beach opposite", "Vacant land", "Corner block", "Low entry price"],
-    notes: "Beachfront-position corner block metres from the shoreline. Price shown as buyers over.",
+    status: "sold",
+    notes: "Marked sold after current realestate.com.au property data showed 248 Foreshore Drive recently sold for $651,000 in November 2025. Previously advertised as a beachfront-position corner block metres from the shoreline.",
     image: "https://www.homely.com.au/img-variant/l-Rex-12525912-1.jpg?version=qjf4R5QBJJaKPxSNkpg5GKeKYlr5N.Ab",
     listingUrl: "https://www.homely.com.au/homes/248-foreshore-drive-singleton-wa-6175/12525912"
   },
@@ -1156,6 +2237,15 @@ const sampleProperties = [
     factors: ["No road", "Ocean views", "Modern build", "Low-maintenance block"],
     notes: "Beachfront coastal retreat in Bluff Point with strong lifestyle positioning.",
     image: "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-1.jpg?version=l0lUnCGA5o_OZckccj_.N5ts9sLi.SDx",
+    images: [
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-1.jpg?named-transform=webDefaultTransform&version=l0lUnCGA5o_OZckccj_.N5ts9sLi.SDx",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-2.jpg?named-transform=webDefaultTransform&version=LVG.kikncZKG31jPChYowceLxkJgjCbV",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-3.jpg?named-transform=webDefaultTransform&version=xofi.qHcy6LZ80mBBWQhoCLZoswV1nKz",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-4.jpg?named-transform=webDefaultTransform&version=ip2VGnQvNM4c8d4tefHsF4ptWEklISRc",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-5.jpg?named-transform=webDefaultTransform&version=3gg48cwjAn5CJW7dGajWjCvO4texSFYN",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-6.jpg?named-transform=webDefaultTransform&version=e7ypkP33c_U0y.fcKHju2nLYuc3ul0Md",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12743632-7.jpg?named-transform=webDefaultTransform&version=rFASiuctMYPgOK8nyRhH.FAzrO9fs.xs"
+    ],
     listingUrl: "https://www.homely.com.au/homes/3a-crowtherton-street-bluff-point-wa-6530/12743632"
   },
   {
@@ -1173,6 +2263,44 @@ const sampleProperties = [
     factors: ["Beach opposite", "Large block", "Holiday home", "Low $/m2"],
     notes: "Holiday home just behind the beachfront on Black Point Drive. Price is the midpoint of the advertised range.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12123023-1.jpg?version=3k0.NUm9Tje8U_E_vqhcqVvMfPlvXPux",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-1.jpg?named-transform=webDefaultTransform&version=3k0.NUm9Tje8U_E_vqhcqVvMfPlvXPux",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12123023-1.jpg?named-transform=webDefaultTransform&version=j0NBOHSJLRcswzIISf7cr4q7.EzAYusN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-2.jpg?named-transform=webDefaultTransform&version=c8XyUBzjaEDmuVnjblX7Mrl0Cx55irDS",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-3.jpg?named-transform=webDefaultTransform&version=tq8YKtEYfgqELAKyNuZxUxjLl3XC.p5S",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-4.jpg?named-transform=webDefaultTransform&version=9kwNJx8gb85CvDQzJQLgBTZTPyaW76xt",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-5.jpg?named-transform=webDefaultTransform&version=kByBaxIrvMftoOA_z10wpr6QMhs631Og",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-6.jpg?named-transform=webDefaultTransform&version=jcaG0u0k95aU2t5w78T_x9CPeUC_0TY4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-7.jpg?named-transform=webHeroTransform&version=J3UEzJHa8ebNXeRhdejVldHX6EYIijFF",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-8.jpg?named-transform=webHeroTransform&version=cbntlSVVSOBaqDLOlOxfS4Bl5k_9IJ0J",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-9.jpg?named-transform=webHeroTransform&version=jUAAnY7dzx7eDh3oo8NyL3j8RT82o7iq",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-10.jpg?named-transform=webHeroTransform&version=cYvVguEnsgFjZNeXm1ZnJeHOM0IETg3.",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-11.jpg?named-transform=webHeroTransform&version=ptQ2vKVqOMzSHfPXRTDzrd2ZHcCnOMVi",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-12.jpg?named-transform=webHeroTransform&version=Qer4XprRI_WjBYVjyLZH8Xjn6AUPGVME",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-13.jpg?named-transform=webHeroTransform&version=SRSfbyvEsMLGXlXjJLd_5eG5vq4d__8w",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-14.jpg?named-transform=webHeroTransform&version=nsszzmCElTkG32aYZLMPnClk3Ok_oA__",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-15.jpg?named-transform=webHeroTransform&version=jXNP4IOFSpg01XeIdQYx8iqpP4orTxcv",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-16.jpg?named-transform=webHeroTransform&version=s3Lzjh6hYszQmX.52Fte.tPw2IEN5k.G",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-17.jpg?named-transform=webHeroTransform&version=1b2bjj6xmfTBDKWvMlc0ryfdxyrRCBRs",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-18.jpg?named-transform=webHeroTransform&version=od.wJfapz2bKvpzre2hmmU1nJqJVcGgU",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-19.jpg?named-transform=webHeroTransform&version=t_0qK5Ry5Rwivq.427Ng25PEZJO9ufr6",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-20.jpg?named-transform=webHeroTransform&version=ZSX12Am401Yslh4RItoe2Z75L.tkNUTu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-21.jpg?named-transform=webHeroTransform&version=kQZK7MeB7dzBCph3eZEFKWxb6pHnW7xj",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-22.jpg?named-transform=webHeroTransform&version=3Vkulwu.jNPHYGkz.mhEpA24.BDrwaW2",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-23.jpg?named-transform=webHeroTransform&version=Fx9gqF4gA1gOoi4mYnqGAYgwb.23DbGs",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-24.jpg?named-transform=webHeroTransform&version=INYR.07vHVuUYajy.zEnjGO1Qm5Iybo4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-25.jpg?named-transform=webHeroTransform&version=vBUO63pt49ZnDGJ9PLjvjsFY_w3GE8Ap",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-26.jpg?named-transform=webHeroTransform&version=ERlIkqsjprFePGV8AEjEAT74np2Us5P3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-27.jpg?named-transform=webHeroTransform&version=lH1F6BKkvtfvWpaHrJSiqNhrufATSKUb",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-28.jpg?named-transform=webHeroTransform&version=R39c.zTY.llgR.CWcB07HRnynoqZ_EfD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-29.jpg?named-transform=webHeroTransform&version=IQFDlzVumlh_FATI0tdcw3FvWVI3MkBr",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-30.jpg?named-transform=webHeroTransform&version=2nEeRWVvjdldUON5yR4Kizh9ZaB6OpYu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-31.jpg?named-transform=webHeroTransform&version=ghgEyDjPM7ac4wGf8ctEodeYrYxcb2Bu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-32.jpg?named-transform=webHeroTransform&version=E5B3lRXyPzVfA8mzVPREHuU6pi2HrSkH",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-33.jpg?named-transform=webHeroTransform&version=t_Bv2Gv79qZjtlLtJhs.qejmIs0TQNSa",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-34.jpg?named-transform=webHeroTransform&version=AyzdmnvQIXElXlHJHTNemj1JoOEHgGVo",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12123023-35.jpg?named-transform=webHeroTransform&version=vDjoatt8KdJariYhnJC3k4Tyo0qIgzsD"
+    ],
     listingUrl: "https://www.homely.com.au/homes/401-black-point-drive-black-point-sa-5571/12123023"
   },
   {
@@ -1190,6 +2318,12 @@ const sampleProperties = [
     factors: ["Beach opposite", "Vacant land", "Town centre", "Bay views"],
     notes: "Beach-position land roughly 100 metres to the beach via parkland. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/6e9fc078cb79da5a26edd2d8decae767822ae37f64f777959c63b8822375dbaf/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6e9fc078cb79da5a26edd2d8decae767822ae37f64f777959c63b8822375dbaf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dcb6c7b7e824677120dad441a42ed1374cf33850eb73500c44361c862ce44ddf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/274a55088774404113327946cf90279ca6d46583c5b23b5fd5ebd3dbfb3eebf4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83db49548c90bc69cf14d5561caff1fe5e55cafc9b3024dd73a918cc710eeffc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-inverloch-203363527"
   },
   {
@@ -1209,6 +2343,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a landmark dual-title coastal sanctuary directly opposite the dunes, surf beach and inlet, with immediate access to beach and inlet. Price is the midpoint of the indicative range. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/a1f897a2b5f1424cdd651c6f97d56e6b5b19d23a6349e5c972ddfc89d0d5de8f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a1f89767dcf0c035e433a0f7997564e0fd3d6a3f5ba017157b43c100f9164b74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3bff16330a88fba0083846b1759dff8d774a887b78b75fb16212c118ff5bc025/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e36112c0e8c25cc1701b3300abb89d274a9710d20c2fe44fe120b826016f0280/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2670fd5f2d9a9007d2cfa6ba783e8976a65c770863e96713d345e5e578bbdf6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a3dd0beb22b5f91d1105e4c767c5bf5d089cec1379323f604cf4f6aa734dabb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51ec602f5667332d24216003b92d09c6a4ffcac7cbcb6267f218b28a5a67bafb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4884fcd9780d1632b6ae3b4ea6047d80999c275f336b85a9d051283ee70986b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82bef8fed69346e2f90a7a91da3f4e85c7fb74eb78b0b59012488b56b5ce1e9b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3791bdcd824f84419a38d63b7d5b488daa5ae2199418f36a223fe844babd6170/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11c5f84b0623a1f1c2c843bb8c0d3e533adcf45fb23e99e46f513e7e7cff583f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37e8bac8474a07b3b727c7c9d9a5116221f2a06fb6e24a57631f766b1633a1fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c0f3a498e05eb52bb1fb8a855ebad44553dc59b96fe387d18098e6841c065f35/image.jpg",
+      "https://i2.au.reastatic.net/800x600/658150a39e52d865f462b4d2ce9958af1a8b231f99e5df08081c79c7ab3e4959/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4d784f3363f1f7737dec8ff6cf66b18bb0b52d260ae8bc74ecbb2cc9e2d9ff6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/948a528674d16b50cc73a98db130b65417cd653bb185fbcb8b8e48b7227675a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2d7f6e281d9f8a6a72c07baa2a1529d0155fa31d38fd2d52e76a441432cb0a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0630506a5ded3e4b06b2b316b2ecb2f6727d1192c70f15ef6936547ec24084c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8fcbe2b780e5c83da80b0d23921046329559213e982e34b385ba2f683e6ada2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa0a05721755e563a8f36029a6a5a8a1a7c4be5fad7eb0951291a26f5306c7ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da856f5623fb2231dfbaa2866f71367c1033a31eeb34367ce65b4ba70bc8c2eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19bda21ec8d08bb450168a09b18dd35a08edb17e0687a33ab915a3ccde229efe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecedf0af03f69bd835285786ce1c3371262bde9bc24b7230443f9c1707ef814b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/985586cf57f9ada4886355627a68eb5b8921ec273d5bf6dc95059ce9458e315c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b462984f9f670ad2ae2b5fc2c885663c51e1c113863cb50e4d52717c359debd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ee68a622546ec6ab8b67446bbe8d7c69da885f16299f2dbade59ebc1450c45e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9994eb347ba222824418ab610adad60a724a872aca9d66e824aa43fe6642b662/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3575b7a7c4b590013d16f22e9a45eb1b7da0ba5c0556065f92373ffbc3b9fa44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aae2c14813482d669301aab640109a94977fcbc8ce9f6d99f39fd1ff3ebaf7ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad2004b77e0bb5f3fea0013fed86961ac0e7d5c890ef760d6000e69592e561dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e037982ee0833752c49d50440b002dcffdf72c4972d8c1dafdf520950ac43501/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-150742068",
     investmentStar: false
   },
@@ -1229,6 +2395,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as front-row Surf Parade living, perfectly positioned right opposite Inverloch's surf beach with 180-degree ocean views and step-across-road beach access. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/54291063816d5727dfd0fb8f4a7e5095d183d90071ac6a1a98cdc38e125d0eac/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a029ee548e1e87c80cf9681a5b5b1903194bd2f19c743e410bf708401af5e8a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5429a8b740760a879e5c72ee8f81e827feaf75b194d5a50fa1f8d744a6fe44df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c225a8c84e4bc6b543050ae41f70044483f9156ed216a7b3d620064d91718aec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b573ac9346b630f130bb9b163799800477f735f41daedbcafa817b19b6a9ba2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ade1255deed46123c3ae8d1b14c547703394664e534aa2495da0cf825db7ac4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/396457fb4cd6613beb5ffff400a88ecdb71c56b5c570f3c5f44c991c98fe8545/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfecdbaabc5ddc3657cee686c3c0d5614d390d04b666df8b9c58082fe88ab930/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f69f0189775b518cb2454ce31694bb4650703d8514cb8d39f376b6276d0eb712/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16c7d1fa6ca1a49d70dc754d3f9a9f9ac0aeafe50b14cd165eca4476832bbfdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51e9212614fb3b0fd4f0383d1d4f12d47252c988690159477f20501dcfa6384f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ba88993b15e43f800345a0949619bf489cfa84be2cada4064e98958f9149367/image.jpg",
+      "https://i2.au.reastatic.net/800x600/717d6e4e16020bb3851af528eab47000947216120b31d318c506df3399f60ebf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1601caa5635be44dc0adae8cd9d6d2219dac4d595c73115da3520f1460953a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91cf34649c1a1e2d5fe7a760c8d50ea593602b59d40d130e013767689c7335df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a589d0a8ba64ebe4a9ad92719f7454406000ab1c4d6c357c790c1bd0b30787f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25d5afcd2640cc3ca03a7cf00b6d85791f016afd5f51aefd2eca63d7b7d52b80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0273b2323bccaaf1e4cc86507ae4fc30b6295f57b23355665d4ea34a3e8da427/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7dd391d6edcf16eaf5979ded8ad0206256911dbc1ce4b8049d18ec486d535151/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35357be4c65da6758a50ae38f424910659dd0dd7b28a13ff61fb2735adba4229/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3ffbd03c74067b84b6a1459d9b21553be241af22939ccb29334aabcdd2eea51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/980f9f8771ba5f0f73ec557048308761e75efa16095eb5779be5ab5ea8b9f6ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2f8923700819ffd4ff50e43ccd9f12b570f81bce16144c64ea6d850c2822a48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a6f621b3f048e32b63e0acb6215090f87c61d66c4b0b79a26a6f68bcff41497/image.jpg",
+      "https://i2.au.reastatic.net/800x600/835fbb71cd22955f048de6084bbb6d65ac23beadd70342c5f186352606e1bb91/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e959470c216ea6960a415ede87efb542ebcddcceb89e851697aa44dcc78b18a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2753cfe4b0f93c206cdfda96963618fe8dd3035e743ce38db34a373cfd493a69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7834d3dfd732b02945ef526e22d986a91d61b187ec9c166deda2b85493182813/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db4a55ad28800ce516eb048f5c958f19cc039d6a9a0dc5a2c60a57519b92e0a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f2997bb0fab47876aaa323de6536d2d5a2c032d79222f112bdec67148a2dfda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37bcc0a9a25ac5dbb8cc187abf922cb748f653aa1fad4f4aa7016fb812d7ccf7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c664c28cc96c51c3deee941c30b93cc842ea34e169f7cdb5eeff9da6e0d041d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8d47b13fe9e1a51fa22a445595d26503263c471f9832100ce49831cea9e77b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7cad7622eaf5d6e3a2dd8c82d5001c677e59657a978dbc5ff7d05f75f1e5d9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afa1304958122f80036573545b2f715e6ed5218cd8e3977c1603733001a22e5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b23930b4f8dc7b588289e645075a20fad35a7701b031fd10afd7166404aa5d71/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-149313496",
     investmentStar: false
   },
@@ -1249,6 +2452,28 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as directly across Surf Parade from Inverloch's surf beach, with a generous block, elevated deck and flexible storage or retreat space for beach gear. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/d7200a37b8557dc95893072a3bd106533defbfff6e66e9e43e39e7ebce04ba4a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d7200ad11e01383ede4a2dc9d7cf763138f056888f152f576b67664471b9bc72/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7bbbe3b94295bdf09e2b3b99a1a81cf8a639b2c6646a86ef53bb62bc3e6f0b8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbf1f045c5e3fd9d601db71d2fa9f3a833748a91c27db08c6e3f954e79913a8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4144be6b2aa3902091167872c0937cdff2b4dcb9e90f1db20b5a650d69eaee75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30c6d8ff428c219e337c4c4ec1e75881dbad5b3896e46a41c3d6ec9646e8f97f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d4832a4bf7a946eb87d0fb37debfe0c7b26df644b31d172d065078b132cde7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ece5c95705fc121f2d7af78b3cf2044981c2f868d1e2d1e8f09706f45403fd80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/167993d6b8771c7ab02c593da86a60804965dfc0a1eae9549203eec5c2162d26/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a56d72d5fc78e578e859d36c1c858b38008e929a0e7bc10de99c0e4febe0bcc/image.png",
+      "https://i2.au.reastatic.net/800x600/298fb0ee9a3eef182947f42891c447d71f236e2bddf8fa27fb1031b34738a8bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66626b100df1ba5c7c9e989b44f3b5797d9ae1ae0798b158dd91c3f3464f58b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ccd055ee0210ff56c5606d6c1563e5f7f811cfa9116a2c5bff43a840d1a082e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06bd60a851eca17e3eaad8e5f431c07ca07b123d9cd4bb756f6b1de71f34b843/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a233a3495b50d8c750b5334abe669fd08c11d74ec2f595f67db4fce98f8e815/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8adb85a18c35a592211e0012e592789868bd2f5e9880bac56ad12507e2537960/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05e4bc47baf4486eb69236fd729dcfecd5a88b5fbb0f77da9e7b7ce6e1286cbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7fa8e488b003525308ce2ea5f90fb0f6e3d07e7bf422123302d6db174741bdd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3465400ff326fb9a87301f281b01eb85eb4c44a90c8bb0f90c6b5e2298b28e3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce0f83205eb975f597a13c0cdc30ec5beeeb86101960478f1930791cf2644872/image.jpg",
+      "https://i2.au.reastatic.net/800x600/154cad0a2e2513e7b60e258294b506f68f7244e0c0918692102f02c0862e4f8f/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-149507880",
     investmentStar: false
   },
@@ -1289,6 +2514,16 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing on The Esplanade advertised as a prime corner allotment positioned directly opposite the ocean edge, with backyard gate access to the boat ramp across the road. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/3ba3f8f578e3f1db3dad56e02fe8c38a3a10fbe90a85378e312b50e94598f753/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3ba3d674983da68cbc2b400462f3ad83f0c6dcfd467a4ddf1c50fbc2d282e3eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba34e214c0ac90ceb4ac27a3920f0025c4f9f6c0c46be5f2b1e1798cc7110905/image.jpg",
+      "https://i2.au.reastatic.net/800x600/448ac72230cc2554dd982ef6942e5cc0385bd20c9df38a6f0d098354d9180dd7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5f36b813652f327f88a3b2723c2e21ddd5c643e7c39f53e851332fe2f44bae0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b92a1b83605e90a7bf4cf38f13734bd75cbaea7904654f781d057a23ad0a6de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a9e61390140104e6f365a9bcc4e2116759fa3381c230addcc9fa8908724aff6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d50f4ac2119ff699030d29c34d7a0a05d1cd4d815a299fc00f4ed73be2f28723/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27318cabfac50d15955b233d269131753c585541ca1d46f19ec47c7de73a3904/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-149871900",
     investmentStar: false
   },
@@ -1309,6 +2544,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au apartment listing in The Lofts, advertised as directly opposite the pristine Inlet beach with sea glimpses, low-maintenance coastal use and holiday rental appeal. Price is the midpoint of the advertised range. Five-year Inverloch unit growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/df03549bad4fd22d771d6f8e5b0acfca65c36046658082a9a0f605c41241fcf7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/5dc570962ee0ab521bfb70a75eea941920c65f6db64d78cb9590789746b1aa69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7133b1bb8bd909531a801c4e3957fc58ce5e02053cf39af10615568e603a989/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24610a1e66cbf776c25da50dda97ed5ac4a5bdb6451a758544f1ec7e324c028a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/832179a733c54dc7f7a82227e8bfef81ff27222aca83191feb1049a0c1b966d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7584735abbfd2e4b9fcf0886938bbf2af70ab341bf1363721d1ce8e5563b852/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07a88ecea12080ab2c3aae047c5410839df926588171aeae7b93508bee8e12eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff0e7a12f6457e1336ed437f96051e2b7f6b5a9098ecef1e008cf75a0d85bf78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e74d51dd6adbf6358cc2737eed96e3a8b1d774ed619b910d6cb34de4d967401/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2d93fae4d3c4e6aed2a816b6902ae5c234a16555b16ca3f88a5b04860b0dd42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9eea158b64af2700320ed1c24297755faff75170b9cf430ebcf6d1e02980ad1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7509b23f06d89a81ad8422fc143208952280adb283a1055c71aacb73d7243501/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ae7e86f4dc26837e1958bc876a3d0608bb72338d6112f6f35ef22bc57049825/image.jpg",
+      "https://i2.au.reastatic.net/800x600/523b90ad80173b6f88569dfd8308a228fcd13ff299f88105a028a756a55b34e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc338206a05b0e73a9b98ba11de90962412d17d1706d0205e0dc14b500c91d57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1e5ac9c2d72a4ae5d16002df03e279f404ddee8f5a963a6c05e544262e52082/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c51952ff5bb357fa62aa7a8dc16838b7f496b3de5111e36a7a0cabeed7b4f2bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/831d4b5b5b46be1d75831f2a43fd5cf930188f606f0821cf8eb3479b40f01ece/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f2aef5d71e90a0518994f98fbc8c1e1849351cd8c1a10d168b840a540a45da9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4aeafc213c76371abe6ea83735424051523db0dbd3ce705911a4a5b498d8e97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc340e21a4624e711f906ff8127d57187ff455ebf45347c2d67c57c1660dd533/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eaf2d9ff92bf7c8b150a14364dcf484c30eb4c67202e3e085e674e5bdcc0cb36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f61e330f05d36cccc7a8ca03b463979df1058149ecbaa07e76295d8cfff806ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a1b71f7ff653ae50741845b52183363fa1718baa2b3a88dd22f8c97ea9a0af4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af0f88e5370e5230a722e2c6ea776d7860fbf061ae2b6ebe7b67090f4b80d96c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed44d3cbaf6f6cedd3f0564a54336535958a7debe923c6d97e78069c0cdb39c0/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-vic-inverloch-149101108",
     investmentStar: false
   },
@@ -1329,6 +2591,11 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an original beach shack literally 50 metres from the beach, with ocean sounds, sea-view potential from a future second level and a 408sqm block. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/c840e89af6a09d1ca5850ff24f6728ed77e0cb1aa5d5709ff02c6a6a6c6ef377/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c8405e42454c0a2d09cb97971689ea90ecb861474a642ba95f4efdb3a291a898/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc6b34b288319dea05ff56cadb49884ec368661c975b6907a4f03e36d9e3a675/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2763adf6c6c9b4ac58893c5b3dcffaff86f3f4520f9c1b5ec0e13675abad1e00/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-141317340",
     investmentStar: false
   },
@@ -1349,6 +2616,11 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a Surf Parade cottage positioned just metres from beach access in a tightly held precinct, on a large allotment with rear lane access. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/2e10128f73802bb491f7fe482095668cfb541da5f140dcf533d4210617d3c142/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2e10165204b633c9a2e22013f6df6157411a8b06b1523b2845659f3a32d1bddc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4e2162e9c2c3809009d36b6744f6ca77c93c6a1dff995f3b08b7f76674035e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44de6ce7806bd494dee0e2078d12bce87ce9bbad660210b68d4edc5975973cc2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-146812748",
     investmentStar: false
   },
@@ -1369,6 +2641,31 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with immediate access via a walking path opposite the entry, minutes from the sand and set into a private coastal landscape. Five-year Inverloch growth evidence checked and did not support a greater than 15% annual investment flag.",
     image: "https://i2.au.reastatic.net/800x600/bf0e6d1c1e54d2878dc6e428c29a3f7547da4f59a78304c6ede4ef5dc0f8fc30/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/bf0e75a55a00ede604bc459dfadb65d1dea20bf88414d8ab77b79309ec165932/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15cf45ccdd696aceda2e82cb01dbf598313b8506edd926cb5307d993f9e49ac5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/688e146bdc344826c77682917c13088443fea62542bed3db8c7e86cd5ad7b123/image.jpg",
+      "https://i2.au.reastatic.net/800x600/752c7b40eb386c436f5e72aba1762c7f48fcea24a325fa4c4559cb5f1c6bc1c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c29655d0d8cc0e8ad93e90f7a0c06832d525e8086d8c4fa0b7b8560a32d70a49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f68a18e15bd0d211a761198ed052e0a9f5d827eb1c86fba1d0964afa0980a8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d18862e26ed81088b9c939fb234d8310c823856480ce0b6cf480355c545932ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bca51870e7ab9cfbff0c80f04a6c2bced8cffb25e79d362b885c1030fdca2c6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b39abedb2fcce0247725bd328fd7658f6903779fce9b26bc6af036443e962256/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eed5cd56e1a746556907ce9378c0dbc7ccd650b7d3684f47212d01b22e37ef1f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee5e50e0f29a9f28c54ac94180b67b5065c96439868b31fe4019a35090f08744/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd8761df39f8d46b9edd51044985fc719714c463d64d8f64e6e6836d17383dfb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/324803b540adbe0a8e999ecf2dd04f40353a9c0fe1b58c78044f77407da71fa4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dffafcf68ee0a67bed0a5c447a26a3babd33f6d3df0db22b3000280c8dc3ae12/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53982ed17b1c98379c302c82cd9d1d294901cd563c0a85bf5dfcaef74c9aaf3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3ff6f19a26db4daefb240a3c770e17693be81e6e578c7656d7aac30ce12fffe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95a55913d74850ac74f27122f9828f3ce41a15b2f2e571eab7ad6fb9941e5d59/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d4572aecca40cf36cf91f4e0278e67290b4ede241bb3cf560f1703dd9dee22b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aae558495e9647eff90fb9e083ede18f39df2ef3276e0605a8543b5a88ddf500/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7207e2b0eeaa3ea545f3caef6f6e1c096894c60c4f4bfccac61697d8956c6c17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a37075fe5f36bf01d6a3d16d2ce23343f3f2c5e55565b018b725b8e3d1c15350/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78f84875b201cdfc74a0d51198e38f8efe58db4b586c9243a1d45153102e3758/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2a4bbd46ab539832de7713e226f647ee79cc91d433a1f93ab6c313db67630d5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-inverloch-148918700",
     investmentStar: false
   },
@@ -1387,6 +2684,18 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Vacant land", "Development upside"],
     notes: "Absolute beachfront Whitsunday-region land with 40 metres of frontage. Price advertised as price on application.",
     image: "https://i2.au.reastatic.net/800x600/e4b933e956e5ea1780fd7e9bbed770641ac78cf4a18af21b1d14b21a2ebc12a7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e4b933e956e5ea1780fd7e9bbed770641ac78cf4a18af21b1d14b21a2ebc12a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1079b647dbd8bdb8f035742cba2f158a089d327b260356d256543c9097407c38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/910e7e6a24b4e5aea416729b53873180e23fd56db764dcf3ee00ab74ca654d7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f240a79b1b90bedda83698eafff5ee4027a343d73b3b32e738e95d026c80aef7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b6eb02de19e4d046fd657b853db59ce0dc290b7e13399854e4d4f727f8c1735/image.jpg",
+      "https://i2.au.reastatic.net/800x600/936906ec21519754e1438c6dbcaa68580e50de49f43234bbe7c2a2248da19ab0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e6e434afa2f621b2a1c6f25f0e3d8816b24a025ae12b0ac41033af8678347f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/779b9301db4df75ff25281a96b69c3da88e31bbfa870fd1224bd66ce4d142fb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c7fbc852f7858c0c22a188d56e8f4f7a07db8723d2ff571cb368f99753ad53d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2384d07f968cf9a6b026e065b43d2245dc85fd8043702153b29c41a10a9dabb9/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-bowen-204010312"
   },
   {
@@ -1404,6 +2713,12 @@ const sampleProperties = [
     factors: ["No road", "Private beach gate", "Oceanfront", "Major city"],
     notes: "Oceanfront residential estate with private gate beach access. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/97da9501559c3d8b2d56da826c16f7914791c1796f839d7a15d6fd3bef854ecc/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/97da9501559c3d8b2d56da826c16f7914791c1796f839d7a15d6fd3bef854ecc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a2af810394a7d02f3aeff1128ed70620fd5278f38df65b3ff0ef556b554c89c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64297696fd8903c6754c813214d9db6b29c77b175a02892d39763010bd49f5b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da70e9ac8b05250c4c240359943fe15374d38f98e701d68ba25b7043a13adc05/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-north%2Bcoogee-203947864"
   },
   {
@@ -1422,6 +2737,12 @@ const sampleProperties = [
     status: "active",
     notes: "Direct oceanfront land in a tightly held North Coogee coastal pocket. Price advertised as expressions of interest.",
     image: "https://www.homely.com.au/img-variant/l-Rex-12787419-1.jpg?named-transform=webDefaultTransform&version=Bzv7AjWXbXQIPvfI3TiJ2bjS5oyOFmgL",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e3df5553e9de717c4107cc711e75bc9c113c39d85ca9e39c2c5e49539981dfb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1093798cb8f1fbd7cb9e95d6b3731e1011b146bf95b32483ad6b542d8fc5a64f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d457ab45d8a02b2c570cfbb77775e4bbd625f04086d59b5820eb4edc4d290252/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7b368a91c565adcb6c44b60aecb4b6de6aabeeb37085a79720b22eb329a0f3b/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-north%2Bcoogee-204403724"
   },
   {
@@ -1457,6 +2778,10 @@ const sampleProperties = [
     factors: ["Direct foreshore access", "Large house", "Pool", "Bay views"],
     notes: "Absolute beachfront home on the Mornington Peninsula. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/3802b81df9bf6ed82db18f6f2286dc2e3140d3cc2085dd876937aa09ca7e725e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3802b81df9bf6ed82db18f6f2286dc2e3140d3cc2085dd876937aa09ca7e725e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbfc121fd0abb7f9556f8ce67c408484c9382ae49d0adf7c0e430663055a7906/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-safety%2Bbeach-150144252"
   },
   {
@@ -1496,6 +2821,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing published 19 Feb 2026 and advertised as directly opposite Port Phillip Bay with immediate beach access, sparkling bay views and development potential on a 795sqm allotment. Price is the midpoint of the advertised $1,950,000 - $2,145,000 range.",
     image: "https://i2.au.reastatic.net/800x600/c1c144076fee5c9ebb9915e7151a32f6aa7c86a36e1b5d060c4c1c641168d11b/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c1c144076fee5c9ebb9915e7151a32f6aa7c86a36e1b5d060c4c1c641168d11b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98e6f281fc3e8adbc9bacf12a672ebbd018e70df57cf4b0fe8e28e228994e8b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acd042b373cbabfcd15f663750552440e2aa8f667ff8df69dcd83b16d1184c4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f0c3e5f115d6bc89898f5589070bd87cc0bc3f85e8a3c33671f8cb6d3fd26fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81d001d8ced8d0957cd10e5d5b52e8771aa3b44adbc16433395364a73c06c016/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e00bbf01825e94fd29489054cdec4cee4898c3f82988245bc59a33284ccc3848/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee9a29a6d4014a79ff73b3d95c5484d5236ade80d4c9cd4764b3242e98918301/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49470c19d50569cf7884c23a2598d1341fb2a80da108ba2d5b0743bc3a09a5b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/772488d610f4192638e884e44c4f44575cb86d433b9f4726527a1c6b62448a11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c46cd2fd38a4831c6baa3150be1075949c0d4a360f9ac0174c4bb5ee609398b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76e52bd1d8fde8c0b3fd8cfb56b19f9b94e599823a147671f71912ebecd52273/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9658c00424df691926470b9a31c9617b31044a56baafd3ea6f6b4933ef1e102/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc9521bf994028a2a4af78036ea0879e70e52233b0a2e692e9cc16ce25e384a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/41090a25982341c85109b0e0069ad014e1ea411a0eb9ae08f0d5ec5223ed8798/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d312d8640804b71181ae293380e49da411eb05aaca09d8e6adcd3d3fe598c732/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c7a94286c9472f63affd75e5864b574253d966851843533764b63a6ca62328c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08569452607b8fd3a68d7b8c423b264936b6cc466a7f27e4080c8f083c625727/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82f52ca1145e4fcef757c6ef61c83a568287e4a3be933b16599e6b08e210b26c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/840fd09e8ed7a0a3c3940771b86e299a01ba81e4c534861397034436f02d02ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dcf9a9e4a8c4ba58ee9e7a9ba72f06e8bb27167d86858187e608adeacf4047f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/626ca89c47734f041f86c44f9ccdbca70f7bb4acb4ba2c053712dc0a485b37cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/384ee11877cc3b490bcb08d6d8e65495d36ea6333dc3461d783515ddd703ae6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6808fda9ed9330d49b6f6bffbe2e53bb4f7548914cd2aeec7ee37be1457fbfa3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61cbd91b0eb9c035e0a424efb37964486821f18b656a45825f781b7c94b3d68a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79aefe3d171a5cff16cdd9c78889329d1d4f8848ef2464e867f297dd0f1e5f51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af0b86a01c00deee32af32eddd95f3de4652335632f1d41c10169e0747a6659b/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-safety%2Bbeach-150361268",
     investmentStar: false
   },
@@ -1516,6 +2869,20 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with unhindered bay and Heads views from an elevated position directly opposite Safety Beach's whale bones and Tassells Cove, on a 964sqm corner block near Martha Cove Marina and the beach. Price is the midpoint of the advertised $1,800,000 - $1,980,000 range.",
     image: "https://i2.au.reastatic.net/800x600/6aab6f4f3f5430dcc4ad6a7a9f2c8d8dc2c2d418c37b9ce638631eafbdae2d63/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6aab6f4f3f5430dcc4ad6a7a9f2c8d8dc2c2d418c37b9ce638631eafbdae2d63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdb3461b5eac6650a33061ad90ca7c3b1efcf8ceb3faf2b49f5632c863a898d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49decaee776fb5f43bc2e4b2e28717318802a3918bdd443971e286e44a7bd4cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b079592ebe3fdd832d63781d6500fb70e1e83d528136c67a112822597dfb9429/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86730b086ce4e1923c78886e2c82016a8e8b1963a506f987edc701a1464bb077/image.jpg",
+      "https://i2.au.reastatic.net/800x600/833bdb1eecc39ba9a5abc4531ee02261bd815923c009af57cbd2a0406060eae2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b887d78f8635cf0cdc3bda8f6501ad8998be2ca5ea76f2e0a56dceb895f2e66/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f52f19a3c5d64ee00f4d4b7b31a3406fa1f76160de56b73964f02a6147e6e90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/339c8806e7504566b0d0e60778dd1c039087ca7203d1bffd2a32498d9d3ff125/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80bd744b26ab925178c533282f68b235e62992f48d12cfcb6b05d1230b70c4e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22e432431f61f79ca442e6d3a9d7cd78b0a944a4f822861e06179a4ce71abe74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16957590937f37dec021cc98b188ac88c7c99b2b47740114af19253dfdfd6278/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-safety%2Bbeach-150086004",
     investmentStar: false
   },
@@ -1574,6 +2941,29 @@ const sampleProperties = [
     factors: ["No road", "Large block", "Renovation upside", "Major city"],
     notes: "Absolute beachfront landholding with rockwall frontage and renovation upside.",
     image: "https://i2.au.reastatic.net/800x600/4b1989ffabda9eb7225eb55f0e05db83daca9aa0c25faf9d41b7d404b0e86e95/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4b1989ffabda9eb7225eb55f0e05db83daca9aa0c25faf9d41b7d404b0e86e95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e43805e9fbe4d095cec7878c814098b4489bd0d13e9094d97ebe209138f02438/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d1568ebec3448a3f0548503babdb37c15d9101513dc78289934feddb3b5c68b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e370c599c80c8cf8b385a014e4a22e70dbd41437f6759f146f79e48c4c6e77a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6c682360ddda8c5658e55675e9f82be0e2377c24ac8cc7e1628469f39f31ade/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9f39d374fe20b12b5c1e5a5187e2dc7c27773e60bb1c15f19e1069ef37aa6646/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae48c8bc1ac70494a42f2aa483048f0d9f91aeb921110984ecf9b3b08bd13971/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab5c8369daf936bd72a5e65a51c5fd3816fc74a07674f4e703fdf50641474834/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2923babf405c3181429f794f37a706a0c22d6644c0891a5adb52362d3205c85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ad775f9f607ac9849988f907e2edb986a493203d2905e13911d068f14efe0d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ba0137694990cf86761f7dd343f37360dae1d3a3360dff0979f44c2ae24351f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/966129ea3661356c3cefaa48ee8c2324463fd2eca3d1e92dc28975da965d0855/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78e758e8a58b087f35c0cadbae209c4c6f82797bc1e88014028f6abb7fed704d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5882394c29520232cb790ea8551aecf43eb42ef3ce66a99827820d83e87b9388/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20cdb01ff594c47e8cba8159de7e833bca7efc5bfb095e797380a4d1a3737f4d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f019323ce30d6a0047b4882779e27c855f0b5f29e7fbea121aad39aba2ba2e82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c472580f35907a970edec357a8b237a6ceb616351740991aeb71e704b30b51c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c08dea47be260a226a965f82e5f9dcc24ca4fdea0bf6efe5fa4de876ae9ca50/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc286f9c1508dd7531d43f4caca897842f58f1678047429d2a1a6b6eefd7dcce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1dc82e1e0d387e569f1e8e82fc5fab9a725219710978b04433ead99f4b1a338/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46bee0729cd741780ac3754d9cf3899b27c893c5899ff3686da0ee370df9da7d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-beachmere-150442556"
   },
   {
@@ -1627,6 +3017,43 @@ const sampleProperties = [
     factors: ["No road", "Reserve access", "Dual living", "Privacy"],
     notes: "Beachfront-access home surrounded by reserve at the end of a quiet no-through road.",
     image: "https://i2.au.reastatic.net/800x600/664e345857f5368e32a22a8a4add07fdef66fa09a6cbb88577cf600f9e210235/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/664e345857f5368e32a22a8a4add07fdef66fa09a6cbb88577cf600f9e210235/image.jpg",
+      "https://i2.au.reastatic.net/800x600/750c69d00dc7f96ab26e2be7a9455290e52bf623261d47d8bba55a7f7320d151/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bf6b0469829e92a03a59a7de79e5fda6103504772dc14eb69944aea618d98c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d658441a6a6e934d10756d1c0e472121174701c9bed47707268bb24dad15948/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ee4a7f3f76c5f95c474162d96a4179f9cb08f4bca3eb83ee0448a0c09166e1f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1f03052e223ae395054b0799c81b5f4b2bd5084653dcd1ca0ecafee08a0f334/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ce78ff0f1f836cfca1f4152169a666bbe1b491b73916013d02d74a926736ede/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6287e0f433962b47855b4c25d24a746347dafb8c154e66005cc98dd353707ee5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a74b986f73af24907d61f90bac87dbbd74170c6f41ffe6a3ec2316f8c98a6e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce3f7f5bc2f3e2a835d65f51837b5549f7f988c6db51b087080a8de04632f3f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9380469bfbd66e1119e1faeb4274aa5adb6a0e495bb19ab13499debecff8c32b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b38dc08f0d32b747fd07ebbac97ea168d897e3eaad0dfd0af1720dd27db6dd5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16ffa9af5251992315f86375918dda6dc451589e106f0329ec1fee115f4146ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e54e2244d418826d70a91511275f4b84823b08334ded3ec687cea911a5238c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad059499f75d73855726cca309e183c9d41ce7bc3dde186059edf2677010eeb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a22c23f0d3129cc08b3e08807d48f50f96e116df30040f1b3412e0ef98b4f10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc3bddb6e580a83dbb0a23621219ee55ea65d73297b26bce52401f1b42ebd0dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38b77ab1d6228d878d837ef80fdacc5f7e7ad0b82bdce76560c939a29e89eab9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd4676c3a8fae32b9c017a0d74097f842efa4c5ba79c4611b6862c4ac2837d74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4980df2fb88325a769f0868f00bad5f2c1618f5e1351a254ef209991e8f300e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51e47d3644b1350688911c24bd1095441205a4c97008009e985830066f94fa66/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d521f53282bea527c4ca0ff5b19e9a60cc03b0a5f57236a5cc674b1dec407027/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1176efcf3e25ba98380fb62c8f06563803ae7b2355d20a7769de5cef137f83a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d08dca5579a52d943c3289a01fc2b740a57251889d663bab82f38520c0c01121/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9f03911863698315b5f8c99f59d03fd336d610eb569c8fac2a0f4cd708aaf9dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef31eec7e5f577fae9e04079aa4e9b03541ca38c9e199d1790c49784cfa2d9cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4a72373065456fd2d62277a107ce5c35190e8fd9d7a0dc23dab757e871a24b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0e28fa36ddee467b9f804b824e484099a16f6bdd280159fec0cbc7eb6e134a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92ca1046fae16aa4f900716ea5213a4823d498339b24262c81b0454d1e2e6bac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c65222ba0811cf9a112312cfbba9e0f33215327770f7337767cd60fc6e2ee61d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d892f6dc9720de55d4412cc020d2de423a51309fbc9953339c8945ed234d550/image.jpg",
+      "https://i2.au.reastatic.net/800x600/208bd428330ff56d7cee05ed201b0d1a42b31a950254d92a400fddbf8319bd08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69912494dbec70c0da9b7c78c736a7c6f37211d58fb69dfb9c37fcb1cf87722c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7fd9a1605eb339780e950068a8e61de32d0ea5c126a14388dc2cf59e9625faf0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/291f56e43cbff43f1a22a3b114da8a37cb06a35cd91db4f14f0ac5d0b8181a93/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-safety%2Bbeach-149920516"
   },
   {
@@ -1644,6 +3071,35 @@ const sampleProperties = [
     factors: ["No road", "Dune frontage", "Dual living", "Ocean views"],
     notes: "Absolute beachfront home on an elevated dune parcel. Price guide advertised at $4.9m.",
     image: "https://i2.au.reastatic.net/800x600/4647ed8c7c9ce69d33d60f6352feb722d0b6ef2faf4711f64d0f167f9f2b1636/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4647ed8c7c9ce69d33d60f6352feb722d0b6ef2faf4711f64d0f167f9f2b1636/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c9289729ea3edcaeea7f2579d1095d6759c2540a60000ab9247a29ddfc63471/image.jpg",
+      "https://i2.au.reastatic.net/800x600/597bfbe9e88cca0b022460cecb9acd8288772a34a0c2df9fe2192e2f4da534cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d3547cfb59ecba6de3c149a5b824f6829f78e2260759943a03eb5fbd41bad47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b926c7d08b1125d61f8344fdec183d8541f1b81fc0f5c540cf2e1fd81805139/image.jpg",
+      "https://i2.au.reastatic.net/800x600/812960006093345cb0794b90c3efa719eec481e4c4215397dd4a3f2470684a5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c2c69a116a9d43d6b099f7620168f4fdb5133dfdbbb74d6553cfabce97ecf88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35479ced727288af007a7f3682bc8c613849fe93daff53646dab4fe52e740daf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1cc4365b457a5c4a3d2c969fe4f2bbaf32c597eac903772ef4a60110c7d38e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/250ae740ed65d087e185cd730764397ea63be3bc7ab43ac63691a1e4c7ae1e63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc48ed54e6d2ea8a7fa94f4038a57f0911201e1a5aa3b76a7ee085b2e2cbf294/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4ddc011204fc7db7a43198972482b36ac4be7a743e03e84bda2c5b81e0e2858/image.jpg",
+      "https://i2.au.reastatic.net/800x600/540070f7d8618833ce448d402f7e82079c799f6ae15dc596c041c8d71c059b64/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf7627271e97df28b25695861f93c3b460bff815296e0fbe2d418e1e2c2b86e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/860d5035112317ab24e6e9ad33098d9c1787c9ed1bbc15b367e8e4cfcd36445a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e52676d4fd9f9ef1983134c22f0d244e76d16998438994ad056966aacc3e55b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2476816c144dd6134904b70ab529985198baabd499beeecfd861bf67f43ac384/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8d8dae2e8c815682bfb9f76393bf54194b1540de29660ba13aa6d42c4649809/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0747750b6e616ce4420a397e40c85186b0024f9fd3f9708751a3e6d5cf511c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b88cdd97c360240eb95c3d4265d10f9b8e10314c9ac31e446d302b699c3bc5ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb4c3f544ed408a6517c68fce8513dc6c63816aac366b27ff419e3a5b1c130a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a9c24936702348a32cbb86eca4685caa725cac17d89fc2e8ad7c0432f867d5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd9817de9693ca96c4c1a87fccfe0a86bc302401d17b74c7cf1b048135ef5ac3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3bea268608483f43318807d0ead91c69659bf9c1f95e06aa21dd48423dbd392/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2561eb3245ab8d9b3eb9c5b08f02082960c6602a5fbad8686a22684d1ea13881/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b139c2d0a75f0fb0a0fb79e9fb66da4d42e59f4de780aa4a417a41310884e82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed3170d9afbc011da08b5467c189ce84068216634a08cd96aeafe91949b8bfb9/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-the%2Bentrance%2Bnorth-149771572"
   },
   {
@@ -1661,6 +3117,43 @@ const sampleProperties = [
     factors: ["No road", "Direct sand access", "Dual residence", "Major city"],
     notes: "Absolute beachfront dual-residence property directly on Long Island Beach. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/6f5cb738fa31a83ad8f25b3c130de688bcf267d2260c03d83a6142211cc15d4e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6f5cb738fa31a83ad8f25b3c130de688bcf267d2260c03d83a6142211cc15d4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c9c7b6ff10339686ce0840f16d8adfdb4e00f05ea9c67f82948c40a863337a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b23bf513771fd986103ada40bf40bc993485124f68059a7b54588e755d622c36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d6d36f661fff7995284bd9d7b1ba26bf18096c56c81cb228ada8d2a68cb0d24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e572171932123c9eaa602bc1306b7594e38284121a3f8250056d4a9db2498da2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac2ebad3ee494061492a75cab910f1f1211e6a47abcab1e87683b2a853b8a55a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c36a591b8e9b2ed248de4003ef668b1ebe85552b4f12e29f4d1ef01da6015649/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae405dcac4731b9e7d5b1b329ccccd07689fa558731859858beb70b4dfe0845c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97b2d62f8c3589c7ca1060f675d7163cf89855676c1cb243089e873caec710cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb4bd8914b2793d9002b37b835ecc9fbf4387bbfdd1ba57c46a28feb6ab02b41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ef8110f3962c0e533ec24002a0d4f8e1be08b401216ba9a5f8afee9e06de022/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15e76afa109781b28e08febe4e9ea7b78c9f1b3d0329c193f277b5b5f38b2835/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e87bdcd919851fa2bff8798094ced944de1b859a2dc987812c0ab83ec27ea3c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9373c17d30d209875f50a50d0cc0b72b31b944a8c9f1e3f683e575cd308c10ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c581e62032cd0bbd94143551ab7ea951da8ba1e04fee71570cb5ad5e41c54ec5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ff85c87cb8ceedd7e37cde8432bb48c82d27063d55ab28a6d37e522a41760e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d170253a252ba0a772afa2fbf6ac37d0b1b2622a9cea2336e5b7290be9fe226/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e272b9f692c6f9cbb55dcd3273c45a8acf2c28f7faed0c7ba6e15a2f0d12ae9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/457d31e8a357987226ad000680108424af22bae466893bab0d6345c0db883249/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20fed06a3454ba5f16968579a6a10685d23c84344342ff12306255318a258859/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2ba9336202991ae157ec59da3b8cc03397ddab271620147a7b9cc817aafc7e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69754d8b8fc29409071dd82b64628c987ee00f13150eeb3abc042668e98ff4b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6499c38c69c802487280891ffdb0b338ab4b46ad14a958662d28270a256da4b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/244434419207f045bc5fe529d89b391ee840de34de0cff500fb4460bb9c6af2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e86ee28e8f43b97b5e06efaf40bc7e692703288dfb2d28a1805d91bc4107a95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcf77e7f51003544da67ae6d853fd48c819a2dffc2d15c9bb2e41077fb504e6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53719e442551462a4bfbcb39ce48d4747d2681c5dcc0d243bf0ed8796b1e589f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8b172512357d114855f1333ed6049e368a1a63b84ad762be8872f924c7ee5c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6b77010462d18e907c8003b6946a2ed62f271c6960ec86fbddfc8bb51bbb450/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e65c3667a99ea98ca56f6ae0a8c8a7cf8dec07fa4db1cf357ae4d647fcc3bfc5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5b5868c4365531cb19f6ee0623996a9f789be7b066516b182cf0d0f0a5664b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91f8bc8856cbbfa26347967e327417ada0df28222410fc0ccc8bda4e06266dd4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcb47508bb20d23c85228c1d9f47278b61c82c6f4533e98f773ce40fa0b2d44d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ec1245f526e7659145e2310e6ec56005aefc3e158276cd7d886cab34a7c76ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88260782a1f763e8f5b059d81f96184bb2fedf119f8256de4dbfc9869499c145/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-frankston-150372248"
   },
   {
@@ -1678,6 +3171,10 @@ const sampleProperties = [
     factors: ["Beachfront reserve", "Income", "Redevelopment upside", "Ocean views"],
     notes: "Beachfront reserve property with multiple tenancies. Price advertised as price on request.",
     image: "https://i2.au.reastatic.net/800x600/674e8b85340b93b1a757a7fa1a4cdb94b93caf0a5d1e45cde8550248c86671ea/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/674e8b85340b93b1a757a7fa1a4cdb94b93caf0a5d1e45cde8550248c86671ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcc95345743bf426837c2ba6c0952ecd2fed3bb2b49a32f587690b141668d66a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-nsw-ettalong%2Bbeach-148928272"
   },
   {
@@ -1695,6 +3192,26 @@ const sampleProperties = [
     factors: ["No road", "Large block", "Three residences", "Major city"],
     notes: "Absolute beachfront Frankston holding with gated pathway to dunes and sand. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/b08dbc9e6c7f2eb1bb9cb2c97047dbd895bbad8c49be31930a4a83308a42edaa/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b08dbc9e6c7f2eb1bb9cb2c97047dbd895bbad8c49be31930a4a83308a42edaa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a74469527511ee676564aa833e64794debc2682c2a4e4a7159802c84f7693b31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fdd7c3ad66a893ad620fdd62b951ee23c429cb149baf3f8ea0862682aefa6640/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76ff727b6448f1dc5e70febb96db5b6d2fd3faa5f2d042b5efb9520181d03a21/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d820e5d0cf3e82add71edd7c92ed415ac5f0622ef89d524d1356bd1ff2912c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cf467c36c92d5e8ff612d7c881ed0864e6c3be966ff05c4f9352d6b184d01a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/577720455bf4c09e4b1b5fc79b48ad91181a5fdd45d4bb7837800cc042a319ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/147e5f651fabd6682826c5961af54507316113cbed7234b10440adfbd1dbb3d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c8e01fd2c9a6f68bc33be4ed1f9b1e8a0a1e763746f5f13b1535f96e13d4cd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d45dc850d6dbb22587ed7d6685d0abf045f6564505f2ae1cd63954d7a343f56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4915c232425e5dec12e758ab69efa89252b69417ddbc2155b4066c6421646b88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9132d40a379c27ce86d375f8ceffed0fc869ff848a3be47a1bdd307ddfa1ab4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7007ed9b7c4ca68ebf68642a000be7dfdb2c2f39a4e2bcd20e53ae1a668224d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d49609bdb57f3fe430dca5f5943c7d17ee7a2678f6f456b9e0a098aba13e4530/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77cc3e342423852af3ae5116eb6920d5826d6595dd912ab927a675e9efccf65b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a750753f9024e704cd64aa11b4fd152b1ed4f13432aac07a2b9c1445fd2c3437/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83951cef0a670b96d414f5015937bda0080776b4eb305500015ba14a21b0379f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee6aaa30143293e321fe86cf3bb6fe9582c8eddbdc0ef860f250b0f7f53b8714/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-frankston-150371332"
   },
   {
@@ -1730,6 +3247,19 @@ const sampleProperties = [
     factors: ["No road", "Canal frontage", "Private jetty", "Vacant land"],
     notes: "Unique beach-front and canal-front lot with no road in front. Price advertised as offers.",
     image: "https://i2.au.reastatic.net/800x600/68a0250b67ec929f2a453dc32f7fde309649ca62fd26ab262772104817f0ca4b/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/68a0250b67ec929f2a453dc32f7fde309649ca62fd26ab262772104817f0ca4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecf20c74ac8e5c8b253a5be4b1aaa032b699dbf3e21f4588e83a6ce55db108c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2e5d69feea9e0bdf29058b7e31d6e4ae4365391773967770926683f5b9cbb75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0116fa9cee924cf94c60d78a93f06c46a0c0f64fd2f7ce7a3ee57ea844adbbd2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca1628ae52444a0d02c694814cd6194551ef9c094afa809bd2c45cfab0efad8c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40243357037ed918add6191aa9ef516a8d4a1e93a9feb3bf722e54b72f75b209/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af5c765d5bd931a583cee006c5f3fe410463f7a2b7b038b07fc138c5bb83ffc0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c68b1064952613b254f9e2130118ca789a515f6953278ce2f97e758feab85ccd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/39f17351e0b5b6398dea92b57b09227cb77aa3bd5595cd681dcc0fb8001a09b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f97ef53df7113e1b3d9edf8778107a40df761e57c333140af621f341a86800c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5df2080fc2e2c39d4e548d935cdc6d1bb810767866cab2d858352fa9f5d8a61/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-geographe-204476880"
   },
   {
@@ -1746,10 +3276,19 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Beach pathway", "Vacant land", "Ocean views possible", "Port Geographe"],
-    status: "sold",
+    status: "active",
     notes: "Coastal land at the tail end of a quiet cul-de-sac with a pathway straight onto the beach and stated beach access within about 150m. Price advertised as offers from.",
     image: "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-1.jpg?version=eG7qfafz1ambWFLMx9_3jq5XKlA33ocw",
-    listingUrl: "https://www.homely.com.au/homes/35-freycinet-drive-geographe-wa-6280/12372097"
+    images: [
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-1.jpg?named-transform=webDefaultTransform&version=eG7qfafz1ambWFLMx9_3jq5XKlA33ocw",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-2.jpg?named-transform=webDefaultTransform&version=fYqOyT5EaWGlkg_SesXf2c9EW8KC8lgg",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-3.jpg?named-transform=webDefaultTransform&version=6wjoPPmb6tbEtk3JTRI9mBGwoFbTUn.e",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-4.jpg?named-transform=webDefaultTransform&version=javrTxIf5_AoUWVIcywPqGbrgTdO9UpY",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-5.jpg?named-transform=webDefaultTransform&version=.st38YkB16Iq9LbuJByqJMm3mYtXh4O_",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12372097-6.jpg?named-transform=webHeroTransform&version=7GB2tSoB83bhSiO1JkyK3que1mEkqTbs"
+    ],
+    listingUrl: "https://www.homely.com.au/homes/35-freycinet-drive-geographe-wa-6280/12372097",
+    investmentStar: false
   },
   {
     id: "wa-siesta-park-lot-53-caves",
@@ -1766,6 +3305,12 @@ const sampleProperties = [
     factors: ["No road", "Direct ocean frontage", "Vacant land", "Large block"],
     notes: "Absolute beachfront Siesta Park allotment with no road or cycle path between the block and sand. Price advertised as offers.",
     image: "https://i2.au.reastatic.net/800x600/840ec8ccbbe90e589d20b41f1a500d45521be4ba6390c08bb61f423132d1be41/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/840ec8ccbbe90e589d20b41f1a500d45521be4ba6390c08bb61f423132d1be41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d3750a69b4ca1f9a7ee72dfa1a71876d8de68760b4ae33987ff61e9ff9b3ae7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/634ee2ac9b2b72538251120cebe2dccb66de16c0eac7fbaaf5ecfd9682f60137/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bc3ac9f1bebfc81c62f2384339346ee9563cbf2f6d48bdd09a6439401fe15f6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-siesta%2Bpark-204443348"
   },
   {
@@ -1856,6 +3401,11 @@ const sampleProperties = [
     factors: ["No road", "Acreage", "Tourism upside", "Creek frontage"],
     notes: "Large absolute beachfront acreage with substantial beach and creek frontage.",
     image: "https://i2.au.reastatic.net/800x600/69977faf8f513c07c79fcc2528108cc65bdc0b7f08653254001363fae96d05fe/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/69977faf8f513c07c79fcc2528108cc65bdc0b7f08653254001363fae96d05fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24f507fecb33d09e5b088e7fb3d1ccd36d957fb4e8132e4278ea8c037a2f93eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9397bfdf3180cb0f3dadf8167ee34b0281b6147b78706d5b4a824be3d6a8966/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-deepwater-139911907"
   },
   {
@@ -1871,8 +3421,15 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Beach opposite", "Vacant land", "Large block", "Ocean views"],
-    notes: "Beachfront-position land along Thomas Street with rear laneway access. Price advertised as offers from.",
+    status: "under_contract",
+    notes: "Beachfront-position land along Thomas Street with rear laneway access. Exact Realestate listing now shows UNDER CONTRACT, so this record is hidden from the active app view.",
     image: "https://i2.au.reastatic.net/800x600/873e234f0a48415d68e55ebea120797b2ab305ea75fd73ecabc0201c651a67e9/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/873e234f0a48415d68e55ebea120797b2ab305ea75fd73ecabc0201c651a67e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/184eb12ea410f28e048a4654cf54fc64ca2ae98ee2831cb8ebd5f0f634f71a8b/image.png",
+      "https://i2.au.reastatic.net/800x600/191adb0986d56832ba6c82baefba3c15a5492b38acefd7212f32c6cd9d7c964b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/564522a301a13231057b5107dbdf6217cc7ab5e12eae6620a9abdfddd76fe541/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-leeman-204288472"
   },
   {
@@ -1892,6 +3449,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active beachfront-position land listing advertised as directly opposite Leeman swimming beach, with 33m frontage, potential ocean views from a second storey, deep sewerage and underground power available. Price is expressions of interest.",
     image: "https://i2.au.reastatic.net/800x600/e4eafb618119f3c48854e6bf8ee1a9ab1be9a50189e6c37d34cbbc4d467052da/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e4eafb618119f3c48854e6bf8ee1a9ab1be9a50189e6c37d34cbbc4d467052da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94354272052f78101e70bc09160a6dc188d190bc847b4c1a8d02e4a90443c311/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ad519a8b24318faa793e8eae1eceaa2a95bc87ce107e4650e29c62adc639af5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4941ba1f8ddfd1954461bddb21e562605f6d27c0f1e675f521971dd1f4cea8a1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-leeman-204460848"
   },
   {
@@ -1909,6 +3472,12 @@ const sampleProperties = [
     factors: ["No road", "Direct beach frontage", "Vacant land", "Ocean views"],
     notes: "Absolute beachfront Mission Beach-area block with 20m ocean frontage and views to Dunk Island.",
     image: "https://i2.au.reastatic.net/800x600/f1c4f8d23818a9909a8124a97a59d1d997be9bca5d5d1d6563c04e4756195e27/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f1c4f8d23818a9909a8124a97a59d1d997be9bca5d5d1d6563c04e4756195e27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1d3f0a0fcf5759f8bbe097cf60eb09e6ef23bb9c0a7fd249bf72fc54f6dbffe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f37993db0d49ce0a4aa5ceb29d558a56e88311a7cce091ebfb247aa8f4f4532a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b76efd5331a9915a9672301cae18485cebba24e1d9870d92192b7df9d5ae0c89/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-wongaling%2Bbeach-204174096"
   },
   {
@@ -1926,6 +3495,12 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Dual title", "Ocean views"],
     notes: "Absolute beachfront land across two titles with 28m beachfront frontage near Mackay.",
     image: "https://i2.au.reastatic.net/800x600/4138231f378a421198596c620638e6199a695526f1b774a0ad61e7dbbc919970/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4138231f378a421198596c620638e6199a695526f1b774a0ad61e7dbbc919970/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7ab78e07d8961c7cd599db63d17d95764bc53c7feffca7426ace460f5e85315/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d8830cc30debe3bdf5a642f707585a88e146fcd009280d07124879649261d51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4e313dcd7b099d83b1a46f331738f8b62b0c655c401e18269e3deecc39a31a8/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-slade%2Bpoint-204470640"
   },
   {
@@ -1945,6 +3520,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au and Domain listing advertised as a beachfront property where you can walk straight onto the sandy beach, with ocean views, whale watching from the balcony and a separate fully contained downstairs flat. Price is advertised as offers from $970,000.",
     image: "https://www.realestate.com.au/property-image/151012560/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a3d4c70b429d91c0da858fa365d416b759411a4d23bde13e2b177493f6c7eeba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d2a587c3f6f1f86b2b74ea8ebb122fa7d1f8ebb43b21410f640398c08b8b1d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1a7f6a0bc01a5a5d41065b821aed27ff3d6c4a0326f420bea0eaab3cfc35607/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0204452c68645c02da052e8d72d4c8f886e4394e265bc7c8c1bb14eeafeb89a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-slade%2Bpoint-151012560"
   },
   {
@@ -1964,6 +3545,36 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as directly opposite the Slade Point coastline with the beach just steps away, daily ocean backdrop, pool and rear shed. Price is advertised as By Negotiation.",
     image: "https://www.realestate.com.au/property-image/151033204/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/13466edec3d90186efcc17d3bb9acb9822594f374bf2f3b11bab8cc494f0aeb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8a859b8866b776c7c188e13e07340ecdb4037ad619d19181d8d3f7d28cf1e56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c468688538d0d9638a4ca3c78d253214295fc75619d5fbde6eef75849f48125/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ecb8215b2a497d63879747af8fe9561c9e7371221f8e98305b0a888b19b2492/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d900eff869af084ff4938b14778624fbf54a0031ac9a2ff4f322bb543f9bd5a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/704398f6564ff5733686af89cc31c66599f0a8ae980e6aa3ac9fd26d0e4bbcc6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c863317669058f34029e079ab283bef45c4c468c03b165973e6979455d82ce6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b92b05b4c457ec81e9e2b42ce2241748c89bb93a740c5dbae09e87f56ace7844/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae128228ae2120a80fb8062797067ee274ec3472dedcf82bf4dfb183380d0cdd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/100b764b6e2dfc28bef17249737b89629da534cecba9c841bef384ccbeae5196/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7100d1a8db294614332de79a6477463d98387f0d055495885d9875af229a6e67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c85d342ba122d02980281fadd80d48db7de96bf3c67638f922e347948ca32405/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9073ac07a4aaa1f257195432b69a6492263b9ac5489469b463f3a4945f98c4e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23550cbd8735cf56201558abebc0b3f00bd8508841b54dbaf68f29c80f482472/image.jpg",
+      "https://i2.au.reastatic.net/800x600/409af60ded9abc9d446cce9483dc2ed9bf4a58cff966146844081ded436dbe1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/679d9b7068f93f0dad9c8c300c18e7d3e0518c75eee0b1ccd6e7a8e16ca18abd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec3a7262a9148b9000e85adef42b800d8fbd15ac00b8267e3e7a4a4323fafda5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0cbe24a221c6259c9e3c13c2ac6681f442abc2a7e504e769db6dc2f95fedbedc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5c0b2c442d2ff5cc9b9f28e19469c462d16ce2d9f7815d46234c7d6e3b1916c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1ae332427b8a5c1f7c68c351d70f1aa7636c45b89bea75aa620475eebe39531/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e665b3c1362d587176b25850125603ad43a33d45c1f566b9c14fac9ca0646899/image.jpg",
+      "https://i2.au.reastatic.net/800x600/515d63071034b0f3aabbc30207526e64a3e38223b2e1123dd780194e72db1179/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77b18b1a07ebb055ec74f80fef7f8c03b95a85edb16bf9c18c88f955cbb0178f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e237f32fde5b8e47c198145bd8fd5818ab91e906f0de9b6d2048fb17f18597f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c0d8f24abb125efbb52bf06cea573f3acd5d5d8c04d6248db35b1faa6d0fbac1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19fe01e7a5074414255b0481db80c9e2f9cc6fe7ea031dacd7ab77a2ba5b2d4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a467444d8b56b91210bf3c6d6fbadc51c39738d41cb94f5d11b6478b52f62b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b75b432c52e4795df9f283ac467a0e826b3428d17f1a046c65896df403a4b5d6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-slade%2Bpoint-151033204"
   },
   {
@@ -2000,6 +3611,44 @@ const sampleProperties = [
     factors: ["No road", "Apartment", "Direct beach frontage", "Low entry price"],
     notes: "Absolute beachfront apartment in a boutique complex with wide beach frontage opposite Bedarra Island.",
     image: "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-1.jpg?version=trT_h4GqyWCBNKGNIzXXWWCtoafe0Nq.",
+    images: [
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-1.jpg?named-transform=webDefaultTransform&version=trT_h4GqyWCBNKGNIzXXWWCtoafe0Nq.",
+      "https://www.homely.com.au/img-variant/fp-MyDesktop-13024961-1.jpg?named-transform=webDefaultTransform&version=haLrF67xMlKLxzH9tJXUxks8nEAHpVYl",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-2.jpg?named-transform=webDefaultTransform&version=Hyu5EpGGjpK6_H8Wd556YSt6BarjCSaR",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-3.jpg?named-transform=webDefaultTransform&version=2Lx_enox5fY7is30F7DkeCbR0tkW1Vnt",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-4.jpg?named-transform=webDefaultTransform&version=wZtUYkcy_FohLxnpidheQKWflOmB6OnB",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-5.jpg?named-transform=webDefaultTransform&version=oFKos8Pce1fOj6gDQkE9Eb45hqaGAKEz",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-6.jpg?named-transform=webDefaultTransform&version=zngCqKdBnyl8bpbNqQGvT.t90VSGH9SH",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-7.jpg?named-transform=webHeroTransform&version=iZYdd0Zy_gj5Zt1zr_ccuesZqcUljoT4",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-8.jpg?named-transform=webHeroTransform&version=OBuveHpDu8LWSGGChG5iDsHvMIl1Hiu3",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-9.jpg?named-transform=webHeroTransform&version=wl4xA1wDuAkpT3TxgKvAkkC90ARfhg5N",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-10.jpg?named-transform=webHeroTransform&version=EMaxgxIl0ol4hUQhJfwqaXpo6FLHblwL",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-11.jpg?named-transform=webHeroTransform&version=qTMPpNciWPEBcoxR0yk5rLfQ7UpQD4_m",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-12.jpg?named-transform=webHeroTransform&version=LmZIA3Vc5VDcngW5etm8rPcvklFL2pv3",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-13.jpg?named-transform=webHeroTransform&version=C9ZbuWM0k3MNjOK3erdkCmlZUHgFJ0iH",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-14.jpg?named-transform=webHeroTransform&version=jhqWIdBbcGs_6cI1cONodtvw0tt57ZK2",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-15.jpg?named-transform=webHeroTransform&version=Eyh.uC6v3lvwcnLF6sn5ykigZpdr8acj",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-16.jpg?named-transform=webHeroTransform&version=P_JdOXudeRc9fZguxOjtefHQFZ2Dr6tr",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-17.jpg?named-transform=webHeroTransform&version=hpKU2uQjSFMHTYGmyLeMOcxVuJ8c5I3N",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-18.jpg?named-transform=webHeroTransform&version=X.jd5hSk04paAQeb1_NHio6fmGJxOWD1",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-19.jpg?named-transform=webHeroTransform&version=YqGlM6vcLcckQd7t.ZZ1X59OEKmKEhRf",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-20.jpg?named-transform=webHeroTransform&version=AM5zyAZ31E.rWGjjw52IWDXQy_sNDCWp",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-21.jpg?named-transform=webHeroTransform&version=erPauz.ruBzlBB0iK4anK_36t4urCJ52",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-22.jpg?named-transform=webHeroTransform&version=B3p3cpOH7RrX2bDcInvlFiGBk3VLTHzJ",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-23.jpg?named-transform=webHeroTransform&version=s9AkI0Bj0pTl2dLrwxp.B5iLNSNGpJ3q",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-24.jpg?named-transform=webHeroTransform&version=MnIlieXCcmVafrsVXLRYxTaISK0bXlz.",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-25.jpg?named-transform=webHeroTransform&version=PUCuIaGkt.hSBKqhldHZX0iZk3CRZiZt",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-26.jpg?named-transform=webHeroTransform&version=sgAlQqC1L26LmrzmPk4Twu6lc2JLBfSX",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-27.jpg?named-transform=webHeroTransform&version=qLjQwIqb2_AzkpO9vYxHjCHjEH9OhV6J",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-28.jpg?named-transform=webHeroTransform&version=RrusdQOoeFPVZkaAIwEMyvc9EzP_81ZV",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-29.jpg?named-transform=webHeroTransform&version=iHd5DbHPBZAsVo6vlb40XQHpVezP1FP1",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-30.jpg?named-transform=webHeroTransform&version=5OyZVjgB693VZplrAEXZD5HKkJ9_xF39",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-31.jpg?named-transform=webHeroTransform&version=UkuKn7ZTzM5HgI3Q8rO3zstf4mR2Drjk",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-32.jpg?named-transform=webHeroTransform&version=tozH_vP97Sh2st1tJs9dmmt7lZB0EUuc",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-33.jpg?named-transform=webHeroTransform&version=9Ibm.opAGtMFTQEM.L1gdUUz_dWqp.ca",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-34.jpg?named-transform=webHeroTransform&version=GlMKVVpMzhLaggOhIWNAx1xoTjLqtfLT",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-13024961-35.jpg?named-transform=webHeroTransform&version=kr2wQy6qCHQx0jUVjduY_JXizwPsuQtZ"
+    ],
     listingUrl: "https://www.homely.com.au/homes/8-64-68-reid-road-wongaling-beach-qld-4852/13024961"
   },
   {
@@ -2017,6 +3666,31 @@ const sampleProperties = [
     factors: ["No road", "Direct sand access", "Architect-designed", "Ocean views"],
     notes: "Absolute beachfront Pearl Beach residence with direct access to the sand. Price advertised as contact agent.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12669194-1.jpg?named-transform=webDefaultTransform&version=3HPOZYhWw15D1a3zzwajOh9M7fE2AOJD",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-1.jpg?named-transform=webDefaultTransform&version=n.kZRCg5biJPr6VZ30fcEUPAYDT2mkL0",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12669194-1.jpg?named-transform=webDefaultTransform&version=G7vCZ2Ejd8QgmbPzilwdiTqXVOeFcCWf",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-2.jpg?named-transform=webDefaultTransform&version=04BHubG1DibDFH0F.zcRtmA2271wXpr4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-3.jpg?named-transform=webDefaultTransform&version=hFJuN8zemdLkJbaJK_HwnKHJaDbA3IWW",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-4.jpg?named-transform=webDefaultTransform&version=IbMuAtGa_pXElWGgKr0YIoboLRHMxzPH",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-5.jpg?named-transform=webDefaultTransform&version=1jjuqoXGEs0tLL3YxZN.AwpfHzyAi8JB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-6.jpg?named-transform=webDefaultTransform&version=UfIg5uYCWu4TprXBhifpnIp9XSM3DaOc",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-7.jpg?named-transform=webHeroTransform&version=XHi3weZ7AsaVUJz3d.lutxGhzunXU0CN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-8.jpg?named-transform=webHeroTransform&version=VBkkdSas_ecyrWYVhohwHTaQ6dDz7hHj",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-9.jpg?named-transform=webHeroTransform&version=H8rPV3nyppMIP2oQK4CaPFRAVcffuxNP",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-10.jpg?named-transform=webHeroTransform&version=692YV8OdXLtpzh2FoBOLyiN9.wQ3kaKr",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-11.jpg?named-transform=webHeroTransform&version=Rmz4u52fi9ep8seu4GOSdjDdPxmaZnSw",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-12.jpg?named-transform=webHeroTransform&version=BZ7law_MahYRVly0gdyGPKNQFaxu50hB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-13.jpg?named-transform=webHeroTransform&version=0gjzrCyFibWWof1r773b3OjXWkke0B2q",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-14.jpg?named-transform=webHeroTransform&version=cLqyzH0eukTkWcGZpVLTGgZej6fjU49X",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-15.jpg?named-transform=webHeroTransform&version=dBnalhQPdusptgbxLPrm.VA4m7hxiH.3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-16.jpg?named-transform=webHeroTransform&version=AyXVMsYopKkDh0Ywqxd0h77zHT7q0j6Y",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-17.jpg?named-transform=webHeroTransform&version=muTTSHbeZgGal9BcSxZlGd8jwn6Tu2_c",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-18.jpg?named-transform=webHeroTransform&version=B062EnNS0GnVkxu9mH2CJdYukyyDW8mx",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-19.jpg?named-transform=webHeroTransform&version=ebY5quMYRqpnKOU5NOsMnYCmRtgoHwDw",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-20.jpg?named-transform=webHeroTransform&version=Dja8ujohv3e_hS6S6SS8bGL3W6.9LG0f",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-21.jpg?named-transform=webHeroTransform&version=_bc_CsjEQ6EGf9BrTY0AlNwep6cC78AP",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12669194-22.jpg?named-transform=webHeroTransform&version=8MbesUz.uyuhs1RKG4QxmugppoqP6MUP"
+    ],
     listingUrl: "https://www.homely.com.au/homes/10-green-point-road-pearl-beach-nsw-2256/12669194"
   },
   {
@@ -2036,6 +3710,31 @@ const sampleProperties = [
     status: "active",
     notes: "Active Pearl Beach listing advertised as a level north-facing absolute beachfront block with direct beach access from the backyard and 671m2 absolute beach frontage. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/cfbe63bd503f10edbf41085ecc8458214840e566a3d216e0a01eadc3ec93d506/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/cfbe63bd503f10edbf41085ecc8458214840e566a3d216e0a01eadc3ec93d506/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f09b4d0989fffc3037c239254e46e37b6ea3db3cb69e01564c192e13589f7fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f321c0e4c55be5ca42a4df7b8b10b93e2bd9417479da95b192bfb894a1615c8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1b5758e3171018c7dff7ae106e77754b03262f199e6d1e57c5b72ce624bfcd9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64449df025ede6b618c6fe69db5521a0e14b7eb498939ebe20f13c5c0383c407/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b799cc964c3c81e1c18924f5a41e3c051a508427a984e2c10d92dd6fc7b9dae7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5398edd7662a304ba1ea5be1be347619f2bff22adbbad978733f40c55df590a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3512efbcb171a6ce48c781dfd332ad30e35e7a10ace755993403580c41d1f1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4475127a134de0c003c5d3bd94f25e90a2eed4f2cc0c19d4165f64adb47734e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96de76c2fd5e0004ddb8e2275e7eb67d621f52648c63390b1ab617928a66a053/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29a291056d187a2a9a7a4f54dc628eb30273b91a5d435fffe65790a1d35b9730/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63b108413d27c6587f35243b3c9a46b26b7fc37605a0539c60b9d56ad827f9f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfd1c591facb842aee93ea726f9416f6bd87fb7bb7602596bbd925680b4e8042/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25bcdac34bbee717755172edcea3b4b17e739e5602a9f30d0ae8fe40e2b2d1ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ac990781ea27add2ac4c62b73a886624a39ea84e3bd482ffb89f1dc20ec41b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb8699df74f29dc319788b0be93789bd48a4ae94756a8915c9fe51cbbf313d49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42dae822a8626718d61ef8e28b3012dbc55bc75e2f7499cbb1299f4f1809a197/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f58602b23f9a87298bf0773a5217e36f3f785958e8af2cfe28a9fc8c0f67286c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d118579088f0a38a9d48a77e0d46a1f879694460904db85e7b210881dd0a0676/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a720377cd88708fd9f70a78194d28531cdd1169829a818b8331dbfa88de548fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/005706549a3a87724004dc551434f60e21c6410adea02c21a8f59282f59c08bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd1bb1b42d93621935e81aef8a6ffa9ec7fabcc6b5825c339e03cdcc293de71c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c3de8e53edfd0f59ed889ca375ab98ba5d2ed18d5bb409ce0383b6487969d16e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-pearl%2Bbeach-149488560",
     investmentStar: false
   },
@@ -2056,6 +3755,26 @@ const sampleProperties = [
     status: "active",
     notes: "Active Pearl Beach townhouse listing advertised as directly across the street from the white sands of Pearl Beach, with Cochrane Lagoon views. Homely price guide is advertised as $1,550,000 - $1,600,000; listing text states land size 530m2.",
     image: "https://i2.au.reastatic.net/800x600/13675a27a2f6409f89efae179d18db31b14827c85794853326b580e9b8d562b8/image.jpg",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-1.jpg?named-transform=webDefaultTransform&version=PD0SDzunThByESNh.w8vKfbXGDvK33RY",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12457520-1.jpg?named-transform=webDefaultTransform&version=5BoPqrm_pteR1wWdbozG55JNI2INy682",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-2.jpg?named-transform=webDefaultTransform&version=M8zdLQ9oPuVHSPWLvXWuGzW.mqwnMdx8",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-3.jpg?named-transform=webDefaultTransform&version=.x_vdYmkUgn1LeQro8IQaXCl2JKO_oVn",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-4.jpg?named-transform=webDefaultTransform&version=Pwzm0sLBi.WLflBUfUepoIGuz9oM5d1m",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-5.jpg?named-transform=webDefaultTransform&version=LnqjA0axkTmdO18EMLCDoVxn9z_pCHkW",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-6.jpg?named-transform=webDefaultTransform&version=RP2MU9guEnkGQWdBvYZ8LnOGaqDL_7_6",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-7.jpg?named-transform=webHeroTransform&version=hbbZWcUhAvOx2sQiNEBWaHoFQGWuOwS1",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-8.jpg?named-transform=webHeroTransform&version=lGS6JK3w23tJWm3gk1p6Y9lzGJall01X",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-9.jpg?named-transform=webHeroTransform&version=uJgP7zOMa3ziFVnNIrSauRsNV2YuT6EV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-10.jpg?named-transform=webHeroTransform&version=HCzdiqVicX9mMfXnvGhtUZ1x30bbjmjp",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-11.jpg?named-transform=webHeroTransform&version=oR3mq_A4z5.QHbBcy1ZbKHtquqzJ650u",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-12.jpg?named-transform=webHeroTransform&version=ly228kc0f_VdxxmuGWsLWd3_51d5Ya3U",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-13.jpg?named-transform=webHeroTransform&version=mqsqRVh76ZIqhB5XZ0Ml3tseHk9JcOxq",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-14.jpg?named-transform=webHeroTransform&version=VwIYB9xfNV7r3wYt3xLvMltGOUf6XrRZ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-15.jpg?named-transform=webHeroTransform&version=pjm81xU86e5rJW4kNdcVNBUxvu2rSq.i",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-16.jpg?named-transform=webHeroTransform&version=GVlLpeQLuyvVq54HGLWsltmwoKuKmRkX",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12457520-17.jpg?named-transform=webHeroTransform&version=RWNxcKDlTs_rkeEWxGC6KQkL5gucAVQ7"
+    ],
     listingUrl: "https://www.homely.com.au/homes/1-51-coral-crescent-pearl-beach-nsw-2256/12457520",
     investmentStar: false
   },
@@ -2096,6 +3815,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active Pearl Beach penthouse listing advertised as a stone's throw from the shifting sands with beachfront views and access across the road. Strata apartment land size set to null so price per sqm remains TBA; Domain price guide is $2,250,000 - $2,350,000.",
     image: "https://rimh2.domainstatic.com.au/W15_zOkdHnPiJo_HVKaFX_NmoaM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020439496_1_1_251120_035636-w1254-h808",
+    images: [
+      "https://rimh2.domainstatic.com.au/W15_zOkdHnPiJo_HVKaFX_NmoaM=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020439496_1_1_251120_035636-w1254-h808",
+      "https://rimh2.domainstatic.com.au/4nikYdQPNI-nTST10SkWEQV4_NQ=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020439496_9_3_251120_035646-w1187-h1405",
+      "https://rimh2.domainstatic.com.au/t2qIHPU7EQF59U-wehk8I43cG6g=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020439496_2_1_251120_035636-w1491-h807",
+      "https://rimh2.domainstatic.com.au/sdjmEXdDorUmFZvuOSsMs-e1U7g=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020439496_3_1_251120_035636-w1255-h811"
+    ],
     listingUrl: "https://www.domain.com.au/unit-3-1-pearl-parade-pearl-beach-nsw-2256-2020439496",
     investmentStar: false
   },
@@ -2114,6 +3839,12 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Vacant land", "Ocean views"],
     notes: "Absolute beachfront land with plans ready for a coastal home. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4d6481e39c189f25a11335f34c92de5e27116ebd853d6af7a047fd4e48e8b99/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acd5d7f235c3da23a53f1a93f0decd9aa4a82aeb3c23c55d3d4629be7f215e5d/image.png",
+      "https://i2.au.reastatic.net/800x600/7a981e04909e8111632966c603e6593756e5461e4c2f894eacef0aae8b5331b5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-rules%2Bbeach-204463904"
   },
   {
@@ -2133,6 +3864,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Rules Beach residential land listing advertised as one of very few true beachfront blocks left in Queensland, with absolute beach frontage, 4WD beach access at the end of the street, and gated estate entry. Price is advertised as $650,000/contact agent.",
     image: "https://www.realestate.com.au/property-image/204051980/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/90da1befddb960d48eaefafb1a4e1146abea4665b61ecd24fd1c60ad51cc6908/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79ee46cb246a6690f049c38f05b5013fb0a2de8f4df9c3055b18086e6ea77e36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35f60cf811d51e096f036ce6f7c476a173fe52444ab5508136b8cccdaf775be3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a5cf04dcd9318e75d7bf96b9e6306583d9f35f63816278b5340d7943a0ff0cd/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-rules%2Bbeach-204051980"
   },
   {
@@ -2152,6 +3889,11 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Rules Beach lifestyle listing advertised as an absolute ocean front grazing property with frontage to Rules Beach and Baffle Creek, a four-bedroom residence, a three-bedroom workers cottage, sheds, yards, dams and fencing. Price is advertised as $6.2 million.",
     image: "https://www.realestate.com.au/property-image/700217275/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/5c7afc8dc93a5801f4180df8d4e488214fc23aeed4333c094b4c87580dbeb619/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35c59718e908ed2aa0afdc8e74161869057b840aafe0eafe301bc7f923bc5a19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c209c266ce3d350331a9496337720fe7083c98803fa9c56653e8afe6ee28302/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-lifestyle-qld-rules%2Bbeach-700217275"
   },
   {
@@ -2169,6 +3911,11 @@ const sampleProperties = [
     factors: ["No road", "Direct beach access", "Vacant land", "Approved plans"],
     notes: "Absolute beachfront land in a small coastal subdivision. Price advertised as offers over.",
     image: "https://i2.au.reastatic.net/800x600/dec8d53813a0255d545a03b9c019ec325bc47a986db76f1722f996500eb6ffcf/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/dec8d53813a0255d545a03b9c019ec325bc47a986db76f1722f996500eb6ffcf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4338ee2e01b5e04bbbbf7b394fd0900ac85247ae9ad3675c2ee53423f30a8575/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1930afbd353bdc00cc3787596bee50f08cb24e3664e095a9973583f912c0dc3/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-rules%2Bbeach-202888902"
   },
   {
@@ -2186,6 +3933,10 @@ const sampleProperties = [
     factors: ["No road", "Large block", "Luxury home", "Pool"],
     notes: "Absolute ocean-frontage home on a large allotment with direct backyard access to the sand.",
     image: "https://i2.au.reastatic.net/800x600/e8dbffcb3a81a789e59aaed84ac81517b80b5f544c74bf4dcbd2b2ab34e5205d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e8dbffcb3a81a789e59aaed84ac81517b80b5f544c74bf4dcbd2b2ab34e5205d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca94c1182fa6802ff3c8668565825332bbc67b086fa2c0ddc29aba535c94ea8f/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-149793732"
   },
   {
@@ -2223,6 +3974,12 @@ const sampleProperties = [
     status: "active",
     notes: "Front-row Esplanade beach house advertised with expansive uninterrupted ocean views at Woodgate Beach.",
     image: "https://www.realestate.com.au/property-image/150719740/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f24f7581e4969cdbbe58aeb46490ca73d53dffe411292e8f8ff1b825986566fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ada5cf55cac1bb6f320a638562f1b7208d0e1cde079d982de00d4dd46ff3dea8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23eab8dc909d0fa9c66338f59f3f7afbb7f0d16f596a5ee2d32d7b16bda7ee98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37d4fabfb227e17fb5075c466ab190b4a293a34cd000bc728e94662914ce6709/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-150719740"
   },
   {
@@ -2241,6 +3998,12 @@ const sampleProperties = [
     status: "active",
     notes: "Ocean-front Esplanade home on a 1,600 sqm allotment directly opposite Woodgate Beach.",
     image: "https://www.realestate.com.au/property-image/147711392/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/03df552985758933a07ec06e4e442c708e4e6a083addd23321e54664905481d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/756dd55426f525b36085a3608bfd22209be1273f02973061d04613107b26b807/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a8b0d40c0e463d2965f2389591c8f8fbc1784921f4ee5e55a98c0c31f4dcf30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12054a0e1a9641aef3db5e9ba0959b4f062b09f69e4d223f81c852f038279205/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-147711392"
   },
   {
@@ -2259,6 +4022,12 @@ const sampleProperties = [
     status: "active",
     notes: "Advertised as a sensational ocean-front property on Woodgate's Esplanade, directly across the street from the beach.",
     image: "https://www.realestate.com.au/property-image/146862292/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/80fc20ea52131b0d2b669afd12a939432de89e485a8738c158007c5adeb85b1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15e4c816523790ad4885ec1282305902fef562cd7ded325f2d5ddcf099812145/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16c38d012d2a4b9170ca876574dc0cc0930fe14f8f12ded4d9860c9324bc9060/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fba29187ffb654589ee84877500e19b4b40c1dccdf9d0aade9d91edc2e336c3/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-146862292"
   },
   {
@@ -2296,6 +4065,11 @@ const sampleProperties = [
     status: "active",
     notes: "Not absolute beachfront, but included because the listing advertises a beach walkway beside the property with sand access in minutes.",
     image: "https://www.realestate.com.au/property-image/150246216/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4568cb0d6a8d7c264b70684d614fc3fef56d1f610272634410e4ddee416e71ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6ea1101d8b401934f71a77f73ddf7fc41d768d4044b9cfd0250136201b9420c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ba726f3dcb0be1d3a83fca86e9968d08528b68f99a20ef1c05fc01ab32ada46/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-woodgate-150246216"
   },
   {
@@ -2313,6 +4087,9 @@ const sampleProperties = [
     factors: ["Beach opposite", "Large block", "Vacant land", "Low entry price"],
     notes: "Large cleared beachfront-position land with two road frontages.",
     image: "https://i2.au.reastatic.net/800x600/0c79f17a33020257c14fd7de5769b3310aa650f67c720f979a6d2465a0c239be/image.png",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0c79f17a33020257c14fd7de5769b3310aa650f67c720f979a6d2465a0c239be/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-vic-golden%2Bbeach-203866996"
   },
   {
@@ -2330,6 +4107,26 @@ const sampleProperties = [
     factors: ["No road", "Absolute waterfront", "Large block", "Major city"],
     notes: "Large absolute waterfront landholding with about 20m direct Moreton Bay frontage and architectural plans prepared.",
     image: "https://i2.au.reastatic.net/800x600/6f718d1ca8c064620d40aeb07d7300bc5a75cd80e930a5e4d48a7a07a13e253a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6f718d1ca8c064620d40aeb07d7300bc5a75cd80e930a5e4d48a7a07a13e253a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c5262d27863d839a5105fd7758594947b14ea9dbb12fa0921b7db4f31b8446a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/225319b76f41f5519cf2252ef5c20b025686543c10e7a2e2394457fe30fe2e67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab28334e31bedc64a9502861c2fd1af5cf5e73c8322c47c8b31626457be0847f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6c42070057229c8c9174fdc587cbbe9b2465e5041e796c42422f797f3525fef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b87a6f5332d9c6a3ce77cdd5ab49acf43e5afb21d853ce2b517965d88c79d54/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27dadacd941a1a7792d72d3aab733ae53169254625452740cceda3fd94aa0ac0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/725a21f16ee5ae181b32b47a67743320f439a95190ac876ffdf1fedb9d455bd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85fcd9323b9511ce3f0f9ee9b3be6bd95427ca2457cb377494f8f58a5529eaba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/670dd7057e05e3400a3609e565a9bee6b8156c25e54c532b8eabc40fbb8e1d9b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e985f4889d9c7ecc9eacb3d0f0a08925971e3adb69607835840368161eade7d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5de52c95b9a9b761d18f4270a4e8cd4389b99e6901fc8a73ed3b4d05559506f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61e41584964e38869ea8b56c0d4d74f3100b5bfd3158452dc9c8fbcb8aae04ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91779c63680e2ba6cf642b6c7961fa60e3718582ebe85a60592a6742bac521c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fed117cc87ea50f7b013e09a81a437aed714f024f8b6d685abc5cdc902e4d9d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/776dc167d34e0bf3c9a94bc775950482b0505038d5c9f027ec6a99b5e9f8f7de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/300e4af049cda4827b649e7a06437c838674e27db9cab0adfca4f8d0e1689349/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66c377bd0068525d42e099f1a9834563982faeaaa0a3300744b0905d7508e253/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-beachmere-204441212"
   },
   {
@@ -2347,6 +4144,34 @@ const sampleProperties = [
     factors: ["No road", "Subdivision approval", "Commercial DA", "Direct beach frontage"],
     notes: "Absolute beachfront Kewarra Beach land with subdivision approval and a commercial development approval.",
     image: "https://i2.au.reastatic.net/800x600/3b462bc45554d154387608a578b18025b82465af8d5fe68f7558912329ab93fb/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3b462bc45554d154387608a578b18025b82465af8d5fe68f7558912329ab93fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b22acccc1117af556e303f6a36f8bd6e652a5b36ce1c2613078f28bfc017d245/image.jpg",
+      "https://i2.au.reastatic.net/800x600/193c04059eca8772918cf40ac63bc429506c5514b231a701f3b6f7230a4d3633/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46f1ad42426063b0a5193e5fc244f44b6953c5b39740041b7a3ffe053f77e46b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5f9b219628f5ff1f0c3ac5a7b850149ad1b5cb7695e162f57f6e85bbe4fe2f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c3ecadd64af7f34d2a3d21bb12c5ae5e4eb46dbe81db48a503144a17cebf973d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb965ecf314e53a789ff92bb913dd841e51192ad1e6be06648cb7c6a6e8021fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15f44a8e7c865c2473a1bc7edd1b718016da0b8dc715a70c71affb828fa7b5ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b64a60547d931f491bb99a838d833f5fee97b50de07af7eea26773836c23dcc9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec47c6a6be68739bb77af752eeeebed729c840c32647b1836ea7944e79e6b237/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf7153a29136f0bf5d13603bf9d253ae6c418ff787fc3c0e7cbf1d1e83c386bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6947f715d779d7017bc7e0bec0fa856f1d2f87fb35b401f793ab94e39d188597/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08e125d4a24736e7eae05543d6b21aa989b28f0c8bf7449cbe928ee20364d8ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/620f952c477514abfb0b4f0e1e61753c4bec81a6282c8ccf589598d2a16d35e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44923df3a4a9cec9b238c5029307e4223a88d1f7a04e557c7b7a1915c1916e7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/238d0111d04f3afadac65bb878154a9b3ee3f1654b6e1ddcd00fb4a9ecfe2d08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14dac2d483764c2252cb53afef17cefe52b1b4e9017aa594ce3ec964a9b5aec1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/060b038ad4315152bb2489a8e1f67966d2af13716279e35bde7a72cda57b5638/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cefec8863c9a284d5ec0f5d87ba33540522e2d9ec328fe751e81c6f2c618eb0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b0c0cbf3724869c81549f5a2ca677bcab6f8fd186309c402fb14d43e2c895ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66eabbe0e77b5a36dfd60ea7b034f58de5131091af5a4d7ce2db13d55681d62f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9894ddd3fdbe824c3009a2e90d09d37a85fb60c82bcaf8363721379470ecf6b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd62346f8cde34ae41a7812ffe4994e85508ac40fae6e80f09d9420d84289c08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/541201aa1101e0256904737e6d0d308ba66e5069953ae75a51401cca42f44d84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4786f896e3e3037729ca2aef9cb15a086548e4a6f3de4466fcc8d3850aec57ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30c7537a6ec5fb8bd3898bc3e566703cd1b376efa44d17a6db8b867832c5e9bd/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-kewarra%2Bbeach-204500784"
   },
   {
@@ -2364,6 +4189,27 @@ const sampleProperties = [
     factors: ["Beach opposite", "Dual access", "Holding income", "Major city"],
     notes: "Grand beachfront Esplanade allotment with existing dwelling and redevelopment potential. Auction listing.",
     image: "https://i2.au.reastatic.net/800x600/2d64caf6b1bb5668cfa8ddd09d08a82c351349635699a11b80465a7eb6ab7c7c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2d64caf6b1bb5668cfa8ddd09d08a82c351349635699a11b80465a7eb6ab7c7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f38daa8ccd3f9d767c3e0fec0265a84e8a9e57b200726f47ccd6dd17c9a68472/image.jpg",
+      "https://i2.au.reastatic.net/800x600/558bbcf20a8822f3466ec11f2629b5dd600956831d79f73c0198d5568389c37a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e1e5e7d4a9e9f2b4552ff872bae07305beba4afdce9e48bf0775f348e35e4bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b661f5543afd800216a4e66a6d87bfc8b53fbe8e42e8a4391a09566b2630c875/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f37602895859a99cea1151240d77f2eaeb785252ec4e9bbe3edf522705df2c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36df892974828433219230cd13f9306cd41891c8cbe88d14e941625fa35ea082/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ccfc958daa312e706ee98489678c5295513c7404d05399874ae4d803ba586169/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f896351ef1a96db228e9fb0a11251c43207c18b5153cea7cfcddb481ab2bbff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6801bff07bc07fcf27d1080c439018538392fb77bda6038a85f2e314fe33ded1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0aaf1acb931ef13475057346997c813a43692d8342c50dde0cf5ec3fbcfd5163/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60dbef116df243b06c4317f9c9ed5a000650b553cde8e09f95dead59448401f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1cb63b9cfd956860f94adaf1b607813881bfba9bcab81aceaeea9d7e9f5c9d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71860f143a410463cd2110d012acfd216d25f5e2242d38d1cad87c3c19e4dc20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4983a885d3d528270768bb2bee896467df788644136e1d5b60409b7135599ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbe49992cd7fd2c6bfe3f1926befb3ecb2627d351536aa17058c3ccc650293c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fa8e80deb8b6e83720d05da7222141a599a24134ec5bf79c6587971593d2edf/image.png",
+      "https://i2.au.reastatic.net/800x600/d6ca34eb7c89a27ef4e3d3eb7f025c605aa86c516cb51265acd69e1547aa8559/image.png",
+      "https://i2.au.reastatic.net/800x600/6d2e30335f9c79ee2f6295f3e029dcb7d5791a3e1f10d3d3e3da2eb26af4c965/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore-150718904"
   },
   {
@@ -2400,6 +4246,23 @@ const sampleProperties = [
     status: "active",
     notes: "North-facing absolute beachfront site on Home Beach with 17.1m frontage and development concept plans. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/48b40855b126639901cb416e5ca583acee3079ec37bd9f0d5fd2b4868afd9a2a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/48b40855b126639901cb416e5ca583acee3079ec37bd9f0d5fd2b4868afd9a2a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/481df7d79778c1cc1f2043bf439e0a7f7898f1585294c96c5db1952278db5c23/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33b0ab29fafacea30cbaf15880f27667ade56ef2cca21578bc5bf832faa95064/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aca7827ae98dbfb73020db254be05407cf46d243cc38e479d973e6ad227f39cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1eb95b38ed430067f61b1b89ad1b5ba98bd6a779fe6e81b23899f987426d933/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f01c3d9c6ad643382561899864c37f8a84245d585b5dd5e7aaa8ef929e65c886/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4e3eadfa3e5ee97c5db969beac56374b29ff86cc0797a1846b343e8844c5feb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e17c2a9758567bb80fcddf6f42d902e14d928734563f0d2aca78a18b19fe957/image.jpg",
+      "https://i2.au.reastatic.net/800x600/012d0b9ca6e00f094cf0ded5c646b98c3f3289c48cd3cf47016683c196664446/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb74bf071e53d09d3a4979a1a4384debb51ee2e7ffcf3d371cf5bd2ad170b8f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63e2d4fb06fc067b6c19af986cb22b694b4afb1575e5d47be41112d511eee6b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91a6cbcd9b555d6f83ef483b5cb8a0d72558aa456b12b7e6df17086f6ceeb2a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea5496127547cdd1258fe6a3c385031e7524d193efbeb528aa2ef2914fc8bb56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e562b8753a93aeb33058df320d0798b7a51e918274f25b134256b368d7756ba8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9c32c03bfa8b31e7addf70f7eaf3b1fd4658e12b4ab556c5f5031d5c90ee752/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-point%2Blookout-150772416"
   },
   {
@@ -2419,6 +4282,12 @@ const sampleProperties = [
     status: "active",
     notes: "Front-row Esplanade home opposite Zilzie Beach with direct beach access metres from the door. Price advertised as offers over.",
     image: "https://i2.au.reastatic.net/800x600/f87e903df64e00f1afdef7a8451fcad9b8a20866e61adc9a1ed3a37eef4e3df8/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f87e903df64e00f1afdef7a8451fcad9b8a20866e61adc9a1ed3a37eef4e3df8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/919edfabe031f4078668a03cc628facf04c2241cb8df68ec7c0697e0f3110a48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a19becd71a569305642d207c2aee39e5458e3988a170defed54584cdada85a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c5ac6da62f5df1a00ed79bdfc4a8ffff52f1c70775939237f35cfa2c8dd4e585/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-zilzie-150923540"
   },
   {
@@ -2455,6 +4324,18 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront apartment above Freshwater Beach with direct beach access. Auction listing without price guide.",
     image: "https://i2.au.reastatic.net/800x600/f363a9866cae2c2a279dbdb861b4fa0c7b3702c74f4e7c79551d1d34cda58688/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f363a9866cae2c2a279dbdb861b4fa0c7b3702c74f4e7c79551d1d34cda58688/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d6a2bb4a67d0e15d39ddbd885a4276685954ba1f1fe3a8968283ed6ed73f971/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d51356d3485587f86dc322d4b608850777df36d4f3a149cf2eff8b970047ac5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bba7580030f5f8c59fd70877216a5e040531974f06d71fae8ad687cb28df855e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc29f0655fa4e6662b52d7d24ad2a4b9ae155ab80058aab5ea182d5596030182/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2e62932d8a6f48f2246dc57e2cc199ed98df4662cc351b653636b32c1724def/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90ed9b5d28e4dd9afffbc4a1e73a8be6d4ea41227809e445b40da0c96ae5a1fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8e6488c7484fec82d02e2748cb1d13eb02e652b7956480da28652422ed48e9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56692943b1bde55e97e425c26b137f259d9423f3adb34eef61d6a5c6f969181d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30d07654244d6794ceb7a12b2810857156c8cea07087c72728ba0d7e6e3f444e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-nsw-freshwater-150434852"
   },
   {
@@ -2473,6 +4354,38 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront architect-designed home set directly on Cabarita sands. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/3989da009664db0a1fe4922a4f4e33bd1f22d569e95a707618debf75209b3923/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3989da009664db0a1fe4922a4f4e33bd1f22d569e95a707618debf75209b3923/image.jpg",
+      "https://i2.au.reastatic.net/800x600/254115b10ab5bfc405c32de7702bd5e48f3403bc59665e05efd578f5cd4c2811/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef3ad09c202314d0892e8f616aa5d4dad91c63bfc9f7339b440b7ce4085eda66/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba833a7d8cce8b82d1eda6e428f30018595ebd5fa1e3404cfac5c7b276c2f5d4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bdca6833ae5d6c3f9dcf898db184f6b29312f26e27c9a973de9a2d317074b87d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9eb26184ca6f23309319d2a293378ff28f65f054f42bff498eab9aae13d19799/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7b78236841a1223fc1f7c1bd0db49bcad07c0c6ddf348fdb9ef96797297e434/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c600dce9deee0522b4711e4269a41d28f36a6b5c3d4aedee83ce0a19406657ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25e1d3386b30e512a89b70be2d80af4800a527afedfa22dbe352f03b66ea16a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/392c135a896d47f804980a3862404e8bc3c112e027e8fc80645b5a3d90874b9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1695bfecdf953cfee2908afd443081d6d9ef59540cf79434dc4d4c13baf1c632/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90ca5de5110bfd68a76de02208fc39d1500a32370386444011680462a55a5bd5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c313be0a29c9b1deef67047c7ffc5cc239dab543a8b1eb447490fc6102d61243/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28846a8fc925f9675c47fdb34c1b5809f80216e4588ca88c4b8c7597a5c7bc32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f45eb90955977d016a23989086b90f02d617636bd26008f12e763c865c8673f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01f595719c02efa86d491031316898ce450643f7043e626b3cb93d87f0490971/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad89f2c0bf90fec8345672dafa976ef34021962da0c8dae5757087fcd7ea377f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/440bb3063ce5c096608d660f0335e18c419cd37bfacb4dbacb40247415e4a11d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94546b04c16c1faf7c0bfc713c17c94b90bb7f0d617175a17411ad42e0abc767/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75c1172924e54662488e37563427b662f7cc4e2a023a913b37c547b74b1e44fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/572a6423ab7c9056253e1cd14c136b065ba9415a9b1494d19025cb9b7b230801/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c6611c98e6c4ace9e62b67bef7057334d0fecddbc6076cac93eabe1f23f158b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8dff672d9480ca36ee84aec04e91bc6aca73996e1d1086a65ffc083074658a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afb7f5cffc723a1065c77436719194e6b147d2cef8c80447adb4a657283dc1d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7b8e07e461f4bda62bc339f4381460245a2d0643d081989b06d7be9f5143be0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/324f2c60d6083574e6c41f168adec7e05d0f9b665df4d5733bc398f07b241852/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9e50479213037985752768d3318008727f4f0823e0169c131bc62abba35e139/image.jpg",
+      "https://i2.au.reastatic.net/800x600/013faf54be98b6869a9f2d6642a4c142660b3a733f966176003ddf74c9d2d119/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0258527d985e6316aadb141a13decdb131f49e060780079a75f19b15447fddcc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f54604338702b03b3e6a04b9209aacc336c16199121d857c292c180360d54bc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-cabarita%2Bbeach-150991156"
   },
   {
@@ -2491,6 +4404,43 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Boardwalk Boulevard residence with road-free access straight onto the sand. Expression of interest listing.",
     image: "https://i2.au.reastatic.net/800x600/d81b1691b0fd7c6adba7a0c44c926749d613eb0561252b9213608a6a7dd22d1f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d81b1691b0fd7c6adba7a0c44c926749d613eb0561252b9213608a6a7dd22d1f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be0ce6914aad337fff60cb39cf16b62f4b40ef5411688a961da4487fbc229d8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f9d95fda35a7566359f4d8ab1e6453eb2b7ee1b77a66b2a01db1563c8c017f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c47c821dcf0775b5b329b51e97c1aaf155de1c62b85133de8c789c366e568991/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d2f986027f5eda0fe4f4e494b1fd4a9bf4cad47d56840da25ae85cfe04ce101/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0fc380e656e21b5f566cc1957f18433a06e0a08dd06cd59fd8dd63947fda816/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8be4cc09a837a40793ab526729d9a38655254f5f98c624fec2bede6ff18fda2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/814b80b8209e182f5b2ade7a6278ce734752726b5f61590661cc5aecca2a8e11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/512f9cf230977bc33fa670881e2a88343c0fcae4834672f78b058ab2f2122944/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74f1459923510c8583ce8656a1fc7f3998368190050e444cb2ad900af4707a82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/baf5e417777c1035f2c2710798ecb247328ba71daa3ec92a96efe29c32bead11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f434377919d6aeddaf3b3ff8298325975b15a9a02f9b0648646308bf301bb72f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43e480ac3ab570bcce7738ba163331519f4e308e3c0db00df17e81dab916ad94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da4d8dca26929f1a2f58191b5e1a41d816905efec5f0bad5279c8a3b269a74fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e551aad9c6de3142125a39d11efab4baa1b114610a13366f19abc49d40b2e17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c08bea06d140c3890dfbe0142202c9f696e193ce9692226864f9b62f13005b9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c48d78633548a1faf2e4a82f6c03f3f0b3be4eeb29899f4fe31356bf6aa388e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/076805984897e2cace26c38277d5713b7b6791273da372860dc798319388f481/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02453384928fa9bf6926dbf4388a22b3b36c354229a8c92e56b0910be919cea7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6e43884d68ca6d2eb4c6e003d2eb14253240193955b976b2dc21ee3fedcd342/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2fe2058f993fefc92fb925c0e15bd0d88e34fb2103e2e8eba7112d9d1b6f8e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a7dfd277f58b6a38b8f8d2e809c0d49a483f74586c07e9113ede0779d980042/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e18e0439f54561e083bbf826b52f1932ed2f5484b1f24f6813be077b90ceb82d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f367c2f300fedd11fa2da0ab99b5aeb220543111e9fc5f2685afc28ca9cfff40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0390e510177ab77862c5e9de35c96e19a6b15cd76cbf09ab981f95cf83cd2c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3717458f0052e15df2690468d1331a33f222dc79320ece0cd6ac5aec76964f3e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66053363eea1d61daedbfba2b987dbe2440444289989ade1e09e7f1e0b1ec52d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c33cd512979bc55214cbe7aefa19a9cbc8b9f0d0fedaeb10eb6b761c51b7c1f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f6ceab0c46106453225ddd1b1206b14f37a62cd22e2d7a50519d60bf763f0c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/612f6fe6b1f16b1c7634d144382b8414c2db009ff98f76a28a7fd09cb0135c73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a3f35dfe506e87e2f794d4b4ea199b40bedad4234f36e65266c6d2025576676/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60a285b6773a8108ba8c0dbd4f6a7f8ad51d7da1e1aa5b631a261a776bc5eb29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d97f8874c23a6d42231f0ad9b069a7f46d0510b07a0ebbf2cadb498c3eb67339/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86cf5b08fdbdd7511b270600af9560fd125bd21db7dfe82a99ece8ba4231cbf0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a0de587b7ab867a8926c37f7d9f9566fb8de6b77beb742fc8a04d4edc4f45c8/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-halls%2Bhead-150709364"
   },
   {
@@ -2510,6 +4460,12 @@ const sampleProperties = [
     status: "active",
     notes: "Elevated Seascapes oceanfront residential land with uninterrupted absolute beachfront views. Price shown as offers from.",
     image: "https://i2.au.reastatic.net/800x600/26e92fe9c8f126118db6527ff494c554a4edef89d663f23a65e65c7dab82f859/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/26e92fe9c8f126118db6527ff494c554a4edef89d663f23a65e65c7dab82f859/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eff4d7b99bad4081af772219dd74ffb16e9f2d4997316abe23f147d7e0ae2e28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8dc209e566da24b5f6130a29758f2c5fdd4f399b96aaef42286d6e6dc26a5a2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a8827d7bc82e5a1bd07ab0654e731c93be03fdc6ba6d6412806662f78a3aafa/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-halls%2Bhead-204493600"
   },
   {
@@ -2529,6 +4485,10 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute oceanfront Seascapes residence with uninterrupted Indian Ocean views and a solar-heated infinity pool. Price shown as best offer over.",
     image: "https://i2.au.reastatic.net/800x600/766d3a681c3caf61ebcc9b1df7f095e44f33d233abfa9784d3328e3c917a25f0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/64dcc23637a1143d01b6ab3a24abd0c457cfbb0125af609b951fa8c2c16b20ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/766d3a681c3caf61ebcc9b1df7f095e44f33d233abfa9784d3328e3c917a25f0/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-halls%2Bhead-150991056"
   },
   {
@@ -2547,7 +4507,34 @@ const sampleProperties = [
     status: "active",
     notes: "North-facing oceanfront Old Halls Head residential land advertised with direct access to the beaches of Old Halls Head. Price shown as from.",
     image: "https://i2.au.reastatic.net/800x600/024b2dd143b81d9461ad1aed855c20742acd309d945922eae729d9ae8267fc77/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/aabdbb1f7d37c4736214081260dfeb2a9943fbd8488aae5cb561461ae6d7061e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-halls%2Bhead-204178920"
+  },
+  {
+    id: "wa-halls-head-18-halls-head",
+    title: "18 Halls Head Parade",
+    suburb: "Halls Head",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 65,
+    price: 1750000,
+    landSize: 892,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Oceanfront", "Doddi's Beach", "Ocean views", "R40 zoning"],
+    status: "active",
+    notes: "North-facing oceanfront Old Halls Head property directly across the road from Doddi's Beach, with uninterrupted ocean views and R40 redevelopment flexibility. Price shown as best offer over.",
+    image: "https://i2.au.reastatic.net/800x600/36450d18f3739a7bd8c06de891e737ee86093d5e4ff96e317f9043333a6d708a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ad4d81a5cdf15f6392b33714d101768d9d1c84ed6412694e1e5be1adadf81b7b/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-wa-halls%2Bhead-150040996",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "15.5%",
+    investmentReason: "OpenStats reports Halls Head-Erskine 3 bedroom houses grew 15.5% p.a. over five years, and this R40 front-row Doddi's Beach site is scarce coastal stock."
   },
   {
     id: "wa-halls-head-9-11-halls-head",
@@ -2565,6 +4552,37 @@ const sampleProperties = [
     status: "active",
     notes: "Old Halls Head apartment metres from the north-facing beach, with ocean views and direct beach access. Price shown as offers over.",
     image: "https://i2.au.reastatic.net/800x600/d5721ff690a3f5c6cabb8b4f5b03e7bf8fa7cb0feabc8f2298fe020fc4de9e6c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d5721ff690a3f5c6cabb8b4f5b03e7bf8fa7cb0feabc8f2298fe020fc4de9e6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2caeed709e3ebe3e64273a313a25a4ce5c6664098f7269135bfaa91c5bad750a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea01a3a3d93728fc8a32ef8867018348e1117e941f05dabd640c6af6f86697d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5cd0fa648eba801be4b8b2b67b617b3fa5c3b3fc5bd61c2393e985f719275644/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54da9b74fe1aabeb703b7b5bd05ac9e8aae305095a1cf67d71db1739390ba9df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/156a036f924f8a4ff5fbbd5e4f85b7889ec644bbda49490a09844535ea1334eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff7b446b71ddd228dcba7678adf7260f236fc40571eaa126e31092dd10a94dbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b0c56ac4afb8a60cd98de4cf628271ffeed755d245219109be3ac73c347788b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a347b326b877ce5e2ca565d3261de82c3f6273a2d1600ddff7084433d7ff234/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2613425ac2b8328d0e8abddca84d7091c3999ca9224f074fb27cc25e85e90ef0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b5e59644529639abfdde323dfb6deb954de39ecdf234655a8092c66ef362c2a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82d59ab5a08be42333abff97cc223c92f4bf369b9874daf7061a2191099cded6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22cb9031ef877f56ebe582cb6f51dda1fdba6588b48697db2383767900384d98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74cb6de11ca5ae2c087a4c051ae6c3bba46649de3a96324f26290cf8d105f055/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bcc60c27264caa7721ee8f10373527cd904d732095f430b0a496545ec49532a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa49879d77d35f876697dd1eb3e3ad0f6bcab2c99c037ad2738c29f1157de184/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5a6b1c57a4df364c2faa98be7a7046453527ac94affe4e1ff8b7a34f98537af/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7afcd01b8fe74e36c25cdc30f35a091be45ab3651106b0f6918b55aabd9a0c2e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72da530e58c7daeeb9c75d42fad1576c17eb7dc698dfd1d204df4d590dee5aa7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b13f203b24ba6eb2d10ab7232d6877c842ceaf298ea0f322e21205f68bfc0d6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e89c375c598482379a14ba3e34a98b7d275079bfb9dfec0dd265dca8038a088/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a33289d744ff27a4e2114305a64fd54819d59f9fda710e4a5defe6244bb899b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b63df2286e881307b127fba9e023b72fd3f17a00b692c2e6d1b911e8a237c4a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a260bda816dad29ea8da01509af06e4c0cf123c889ffb2397115c40411c0a73e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8252541c7054b804f1279b5c93f59407b1fa3f81abf242f873bb8ef0e9720c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fbb184bcdd7c96b305f3ca1e1e42f8c2a1fae734bfd89d0f9b18e8ae502409f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9be095de536dbf0c9e36dc60ae60acfdf6fd13ac2b6668753b6304b677c977e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a6514961f3da27c76a9e44150ea91a1ec42d1b005223412b51648d0c833711f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e56180ae7169f258d6ba504a211ac46bea7e22e914eeb9224b18ea8fd8995fd/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-halls%2Bhead-148992216"
   },
   {
@@ -2583,6 +4601,9 @@ const sampleProperties = [
     status: "active",
     notes: "Single-level Halls Head Parade villa less than 150 metres from Blue Bay, with ocean views from the front lounge. Price shown as offers from.",
     image: "https://i2.au.reastatic.net/800x600/b92a6342717fa0f9cc10c9dd3526ed13246d0a22c6c0a6df0136f9d316b0e94e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b92a6342717fa0f9cc10c9dd3526ed13246d0a22c6c0a6df0136f9d316b0e94e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-wa-halls%2Bhead-148880936"
   },
   {
@@ -2601,6 +4622,30 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront home backing directly onto dunes with direct beach access from the yard. Forthcoming auction listing.",
     image: "https://i2.au.reastatic.net/800x600/734750974c31054403b2839e0b4655913e5fd5f101301c8670f568b6d8054d1d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/734750974c31054403b2839e0b4655913e5fd5f101301c8670f568b6d8054d1d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e87059635e0d2c0b1eec673d94b97b9491a51bfa310b2ef5af3362e58150577c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ffd1800b36a2507b003eb5bd058b00b8491a28b7d2a6fab96a938be861ef157/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11002fd53402f1ccadadabfb70c776b3134ea82146509fec6192d2a10ef8ea59/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3bcc7a1e96ffff51f45e3fb1dee964c591b6c141274cf4b3148be942cbb6586/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85006d672ce78504080689ab0e3abb5fe52698eff9c635a2b7ce1423617e7701/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e18555f2c7240ae24a0c19311ff8c0d5cc537155a198450f5ae467340695941b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3073d9293aae7290c72e39c4a45e8bf5ab8a9eb2671c4c16f1ebf765705c0d7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2cbdfc4bc8903e6b5d440bab3f9ace04980477676a31cd4a6f0da38bf5a6da78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7be329f14c80a759e0eaacdbabadd609036b57a042b1a04f560e7af96ba42d0e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18224833a96460a7d582e608c1b735eabec4d22fc45e9ebf1c2c108aa6996a30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0de9d3544ddd4ca21c7e9bdeced796a0e434803f516b1dcff7b160a13d951176/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f1baa78955130657eaa5e6c99f58c35f238eabfe88728734a4a1950879c6765/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f3957dfa9edf484d7cbd00b13cbdcd9265b575724e452165407dcbba8a75b32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbdd0bed18718cac6130c01fb774610eb66655f6f12f8e2e75c099c32bc4d714/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ecab819323f26ee06d6a28671a469c349afcdab9765ef57a0983b8f444cc569/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e89b327743fe85539c812e2c722e8d808ad3adef67600f9a7596b665c57d8375/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e603d9812bb1c43be7aae279373f62a9ac582f9281ff7cda7d3ef792aa9718f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ff99eabd596a79bc3f3523d2a471239b6f610e5ebe5549eaa7595ebc2f3d6ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10c5dd356b8aa692a8a432269525a98ad778860cccf509742dfd946c03f30858/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a140d7e84e9acb53a8d5c68bf5c726da61fc497db06dfde981fb6a425552027/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0dcb5ffd66e8c6858bbdef1e88ade1fa0021aeea51814e9c38a5068921b1fdbd/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-pottsville-150252800"
   },
   {
@@ -2620,6 +4665,23 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as one of the last unimproved beachfront properties left in Pottsville, with direct ocean views, a backyard outlook enhanced by adjoining nature reserve and beachfront, and renovation or rebuild scope. Price is advertised as by negotiation.",
     image: "https://i2.au.reastatic.net/800x600/9d82587350f916f03ee3e2c2b0c620c81ab344a14bc884851c6f42ed9c67f525/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ec248aa1df808edcd1f4465dc5d11b14c440de717f3c5bbb3f1f70a4f34269d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a2e66de7c5376a1d0f2a31a0ab2f65213213f9918fb97c6b78df8299e3da3a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2192ef5de7024f8e9a08cc38dc275bffbf22e4baced77e75b5b71ea2c406b819/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2c741391f7bfa51fd720d1b83f7be607f90eb537d9b58c004cbecacdbe03fa6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/623148f98e2dbff159a49314b7c158c8d90bfd5d3c923d0bec97bfd90ee89a9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c797474b9a55eafd1498c51ca996dd951cadd9627e347acb36111aa109ba8d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a2bf0b2980900863846407895c198adf3fa07687081867a385f8920f9e328b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2640adc3c369cfafb26ec6cadd2f0f8d0229dbae5e1ef9f4e22a3643b4a7953/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a06e55dd97b6aa3880a435b28e8cce5c5b8495e9752da9b3ce6a3b56e42928d6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba64c8e55f8ba7af0161fdb294ce0a2400f297e356e5028ba632af7ddff25622/image.jpg",
+      "https://i2.au.reastatic.net/800x600/173ff6be0e5f1440452381d08ebe1b43ca13325028be66753e820ec8b88174c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5d3d60ebf558c726f0f3bfe0b4b6b560c116e1daa06b9d90a3f120bc3f89442/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b8e4132783a7294739b95fcdea209d3e968f32f6d7a6996cf74b70f8a890746/image.jpg",
+      "https://i2.au.reastatic.net/800x600/661d9d3cae92c90b6aa6a939900d183d573a21d7c2a138f3f14ac296c9d1111a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9dcea56dd0a9aeeae06c073b63b6e09178647fd3d8f68cebe6eb4c42fc617b85/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-pottsville-150655528",
     investmentStar: false
   },
@@ -2639,6 +4701,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with direct beachfront access, a back gate to white sand, steps to the surf, and a 1,063sqm absolute beachfront landholding. Price is advertised as submit your offer.",
     image: "https://i2.au.reastatic.net/800x600/0a55e977fb78894cc71589905f5f3f9daf8f41e819a9156e4388eb2457b19819/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/87a4d8ea398eb00c055c82242eaa8d7c68ac9bcafb64c25ade7b369818a0b9db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58e17095f105855ef0927b32a3caeb08cff6ba0d7cdbe725ee843476cd8dcb8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b111bb6b140967dcbbd19acadb9e4fa5327e7cac934e2284970770f3a510e7d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df407f732dd4cd0a31e57d630ecb7b8bd95c2d33d2b2d1e2aab6cdc08b265a80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e6e9e16728cb86bcb672c049db7f9688a0436f52fbab68dc94e62ca0bf53392/image.jpg",
+      "https://i2.au.reastatic.net/800x600/416abcdc3c97d090b844433eeacbcbdf7d0be637670df3638341819693fabb1e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb455d4bb1bce7be21f5c9a3579bff0fce7297ab2d44f77042e712a2f657e75b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03e688ebca19fd8a0c90faf7779d78d7956d1910ab85152dddb2e517093081f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e6e52b11fbbc5eaafe62be18f2b67269182740d781a946b0c3fcd85ffeef14b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a99aa45ff726e0795138f4bc3ea3198f5020b1f352cd8cd9fba47687edb2097/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f592eccbfcf0a89d71c21ea711ebcb0b8b3f3b3f3585778ba3f438583fbacfc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30cfb202498e21402b3b531b1a5dc0d780460494762447f99d0a59d726ddccf4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54c1e300233dea8cf3f37ddeee3da01a31b7b38fc243a65a6925ae2e87a49c27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2559cb5156b4ebd01d3a06c8e3d005f66d89a9a7c2629efd1172dfd53109737d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed6bf8f9efc966659f93589b442da734443260cbbd05c6b6121d4010088eeaf3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ede56f2597a427c2e30e93c4453020c0db0b615761a1a8c8f1c0e5229e0caa6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be5541dceb7791826d0c85dbc6e293ede1b78cf2394d814b9bf11438fd4fc826/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43e64d6c17b7da14a5c0f74e69ebc1dd70967e4af9a63447b60b43835fba57ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c7c24862734489e60d67be2df64cb5734721feaae4dd5573c3bad4fb6e96039/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01f500b1c8369ea6bf304aafa72f8536bbdffb96162f2a4085d14de0c70bb164/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60a758fd173aec36ba6ecd3f9fed0fd8ec639d1c04572a746c00466d66b81d77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4810f6831e5152f03bb05fd6ab273b99512bc8f1264bc3929e12d8dd1aa2ff7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd383735beb478e1a9338860c2f03b736655e1e20bfb25dc32258740ff457958/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14caa724ef41e78233ebcf78c30698c789195bf9e05c9e196e2c4ee637437a85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46f467036db812e24e2b165f7c46e943ba45ea595f79f9348cf272b49b80788c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1831b452a628078c3c2fbe19cafbf87bf2a19ab03c55de0f61357e4907d0d61/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-pottsville-147324080",
     investmentStar: false
   },
@@ -2658,6 +4748,43 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront home with direct backyard access to Blacks Beach and a separate self-contained pavilion. Expression of interest listing.",
     image: "https://i2.au.reastatic.net/800x600/e230559d19d0a1bad182f04c23a52e4a82deab524fadb98570df881d254be865/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e230559d19d0a1bad182f04c23a52e4a82deab524fadb98570df881d254be865/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d663fab0dec5bb97c9ca02529aa950828741d076ace304f8100de1270f540f6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/431f9691ec46852f20cc3e1492269c72acd16d18f38b76a827d73e6ab519b471/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2c851574b1807b106a27de89fc05c81edb5828fa6d7cc33a793578b97b7cc91/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e603c5a3eee380989918aa142bf1d0066f54f11769bbbd3bdc93e30070b650a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/237b36fd071106781251fa049a2d848651321323984245ceeefffda66b060cbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7bc04072458513bc990ad7940c7f7242e02200c56b8efc5d234415d9e56f3cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4297ac8ef546b025acb54d92e6b59ec9fdcd189402a0f5570bfee3e959ba23c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af745c3dc15a5a5767db6ab59c81edc049588eb7030b3f4e3e1b6c501ba05d8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53e73ce184b1ca0c352637b4ffc8518d22b9de3517d1525a913256c749ba3f98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10ba8e95cf298e2b2a3789eafc10e19023c741f5a2d4295d47f41fb883c06a2e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9548ba98cf13b418b95919002dda04f78f7ab602a993dc075d50ae6f92c28ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3762809d36f93f60e9dbd5f2bd0ff270a401a3686ff0f60dc0250564d35fb880/image.jpg",
+      "https://i2.au.reastatic.net/800x600/17cf9ccb0d802355119c0d89dfacdee036d61d09bcda164effbcce3bad631cef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6dccf314bca104e928470bee638cf7b67e269fb0150d591edc0b4d2d2f07da0e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5100908d9e9fe19638a3a403cd3e7fc0bfec661fa775d7baf13e33a27eb7103b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7e54032931d8d340f6816788721dc81a1b27e57af0de932ca256e5dcb701aef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0e663387b283b2b6afa13ad582e9cb89b1bbb8aebf60e40375649de40d13982/image.jpg",
+      "https://i2.au.reastatic.net/800x600/143c7a3ad08117eea0bce0441bd06276bf18ee61250fb28cf28422d0352e56fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d204e967bffd6864fb4b5460c4737902240034d98e3cae8f56af78ccd020828d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f24ae71b2b1f27a49287368060428df9dcf71cd7e6ae481162f9e9ffdd1cfb02/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ec98f4e063dafea6ae17e261b32be62967547becb11debf621b4f8f6728c339/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f064e4b97ae7ff2de5a105454f9d9767e60b3ca3e20f9835a0a049a4080f6ba6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf185a8aa9369e099a7d666f83cb231771d9f3b171d2d8d9719d433be91120f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61f29497825edd361342a415f55a2ebb8aa15b0d4750890b392d050a1b9bee2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3969c222cb2e55ad357b1ad35167d3f75e4622ec2c4a5ee6478a573107fbc50d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed4e5c709194b347ed6b52219041dbbf3084789e5f2733d020a09b43074af8e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df3dbb21128f49ddf76c2c18f69297018c0ffcf2ef4e8477997b29678012b041/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d36701743b23079d5a70887b7aef77b1862c1d44aa2788768fc2b01653b21f07/image.jpg",
+      "https://i2.au.reastatic.net/800x600/699d47b1c678415849d2111b4a36fe918e320878f7d3b70ba63717fcd1f8904a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a562058b44ef325e2f91d843cf21f293d22d57a68a0cec951272b63e10dfa562/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f186cfef851092add59ee8d48391aa2ac7c749aedb4bc0c91cbfbae41be0447f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3521ae38aa902af38976976d6534c66462d940fd6839cad0e70d6fa5112e0280/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6d84512e2792a07966f8d6abefa71d51f32d5f7978176146ccc2fd312502aae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b69eebc948b5387b2f1fb48183e1bf6773d0ca9ddb74c9f505762933bc33dc60/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-blacks%2Bbeach-151031396"
   },
   {
@@ -2676,6 +4803,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au land listing advertised as a 2,280sqm block with direct beach/water access, two already titled 1,140sqm blocks, and MD3 Multi Storey Medium Density Residential zoning. Price is advertised at $1,350,000+.",
     image: "https://www.realestate.com.au/property-image/203801984/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d8ec0c8ef2d67e561710056c1fceda0322318355f50e9ae0606cb656d5e41225/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-blacks%2Bbeach-203801984"
   },
   {
@@ -2694,6 +4824,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au land listing advertised as a large 916sqm oceanside allotment with panoramic ocean views, close to the water's edge, and easy beach access via Blacks Beach stairs. Price is advertised at $645,000.",
     image: "https://www.realestate.com.au/property-image/203636884/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/faa4efee74e3ef7d9609e8fb5a7b4aa84bb7b86e8c290e7dfa316c6567c6a0d1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-blacks%2Bbeach-203636884"
   },
   {
@@ -2712,6 +4845,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au house listing advertised as backing onto council land with a direct track to Blacks Beach, no neighbours to the south, a pool, solar and separate approved office/shed space. Price is advertised as offers from $997,000.",
     image: "https://www.realestate.com.au/property-image/148986132/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6eb335091747fc6edf5217a0f4b58398e731f8972c07a0568a4a4a803f48e0e8/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-blacks%2Bbeach-148986132"
   },
   {
@@ -2731,6 +4867,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au and Homely townhouse listing in the beachfront Comfort Resort Blue Pacific complex, advertised with direct beach access, two pools, tennis court and holiday-let potential. Price is advertised as offers over $389,000.",
     image: "https://www.realestate.com.au/property-image/150559088/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2e2b19d28c1a4766807a8597e24eb5a4396fef788f69607e31c67addd3244f88/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-townhouse-qld-blacks%2Bbeach-150559088"
   },
   {
@@ -2750,6 +4889,37 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au townhouse listing in Blue Pacific Resort, advertised as just moments from Blacks Beach with resort-style pool and landscaped grounds. Price is advertised as offers from $399,000.",
     image: "https://www.realestate.com.au/property-image/151022976/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0567f545841e328e4dbac77eea8f06e1259d8fdcda6a3376aff44ee1dda35b6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/055989eb2a61ab2757242e39defafc1b3978866b60eb1f012c777c5fb63ee95b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64d0ccaa8b0f9e7a20ffa46afdfd086c462a7977697cdb4140dd8ab30b4b3979/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afb09b334c2f445459a16517dd55833793d82ebd6efce54e48418e3c0ba9557e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b830253e66f4ab1660210704d87afbeb26432a515a9ed046cfdbbc45f1d4872/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebe8c3dcf5e0782ef237f961f2e385334228e3680072b6da223267807b80e5da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79234dbeead3ea1c566de141646f998e567fb3bd39e2ab1d15befd7aba8ef543/image.jpg",
+      "https://i2.au.reastatic.net/800x600/622205c6fb08a0370b25d50fee6688978bf2866d736e52bdd098d05a10d43f99/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94ebbaea5c11afa3abf5c9d6fa4a7d4bd1fd1e8745d06e4ee045ab01bbe9b80d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fadd30848c4505f10b0103a85061ba0d3f66729a771a68c32d2e86b45ad1edf1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b59daaf5855e1cebaab8c335f3eca41dc85660f4d1fae7c883284e7f000a2ade/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d29c620dde08b70b7c3c568a778d658ffc8ef382878119e7e03d04bcf5b4309c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c90a28ae4ded1ea6f12a55840dfce0bf3c55c0f6c3d318eac8a9d4f39c9de6b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e06769605cf5fec62af3b64a82d58db73219e608320bbeb94162236fc0c51721/image.jpg",
+      "https://i2.au.reastatic.net/800x600/332451d0e3ba3cc3b5a60ced35bf2df3402b4056078995ff8f09c6ed528ed9c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63ac7086505e0c5f912f5158f85124def82ef436bea93b1633e4f3fd8387da03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/629d9ba58dcfca82a189c015fa45b1b07544f91ce1853073d05e3d98943328a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f86f8453046a97874c9ab9ad8b6c8200a3c72a0f3c27831971a90aec842ba322/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15652597ab0dec0f322acb38b093a3af193b3373e7ede3ef2a77335326f7df44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbdcb2a8cacb8ed4a5467124950b5dba792e2e2a1b96039a0c84d3cb1fbc86b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eadfb018f772d37e0a1cb6a1cd1c0d2687d9e8f049eaa84e2fb532efe2cdbd1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a538a43446c30163833db315f0951b89c8cada2e6e3837bddee02a03b0ce0422/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba289d6a021f2a51c7347ae42cd59d243ab2c13793d650c5a9c300d62a562f67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4b00a847fd282216c95ccf534bc03b5846b57e7f98b4d596e4b0315220e7498/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b59f6d6f02135ba3ee1cac309fac82e257483e151efdc72a63d5e5e30059b9e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1359ade923c882dd3fbb268a4a8790e61a650ae03939c6428c12c082db0d20ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/67e32d0f9b57cabc43a00ca85c27eb7b53d1bd81f374c5e53af89a1949adf01a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c2b91af6168934c7d101d537ab334cd2ae0c5c297fb9a7da152d67683ed963f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5dacc5f119a8729cbe33665fcfda37ac2fcdba506d2539bcf56f289c02df8272/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-townhouse-qld-blacks%2Bbeach-151022976"
   },
   {
@@ -2768,6 +4938,36 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Aspendale estate with direct private sand access and indicative price guide.",
     image: "https://i2.au.reastatic.net/800x600/4ad1321499197fc4225f9bada68b3048886e50249f5a257dfc57c7dc39d5b36c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/65714a4e1043edabf9c86f4fff7ffad94ad361e947e71b50933ae4dd22c26611/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5b1192b7b29e8b86e1c0533f0db743622e98980819081cf3fd1300f4e8753f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f248d2fa4f519065651aabfd0be844de5af81e3469cc2aa84b12e9ed1bdbe5ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/470dadbb09f236ee1f45eb4bd7d7e2e3d7c130316c66e700af620fa4fdac1568/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d130d62d2542eee0810eed63f8ccaaa48406b7057da73a0209bf7013a59ac53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/618738749aa7e77952651c23afcb225202138c8de6737b13a99fd7c703d54d52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4813f9ce297c4004049a210c5a01d68448e26e7dc697fdff2d55661133dad421/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92bd5439dca58d14d28bca128ac1a9d384f90017a85006e1770da817e1416b7e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7bd909b3d8d004b3c87ecb344818f3abaad530e045dd9c8fcb9cb99026413e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fc8cac191b07b7f938ed157bdf1468111ba2f940d7da5acca0f327098c66a98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96d20e3b9b54505bf8a1bb933c6e65d3a9cd8553da0d9a904afdd95bd206582e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3db727eddd86ff3b60cfd2003be9e38efdfdbd490ed6b372735db8eae070f12a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca67d21a3205bc45a09122363e0313d51d8be32143640f6377ff008a9d84e66c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a5be10caf746eb61e3d1fdc956917e7c3eb530f078846194ba0329daeadda6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b72b9ae602b4cb8f235698f4f98eaaff9eea3f2534dfc6d0dafe06714b511d40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94ad88dfde78b76718ed02caa4d20a09c0739106ff9f59600579aa20ca8ccf3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49377cd8c640426de9ff2ec1210d67f25c626f57b369b8b67ad3ecb552eacdc1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a8dc5f24ea27649683697e12e8891452f784bcd815185ce087f3d48f1f70d7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1c8290eb638d8088b3ed5441d5af94fefd53f0687c2234c014dc5b6beb88704/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61d1486fd98b4ae002cea5043ce937ae445a80ef8c599a9f263e6e1db1320dee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e893714b1ea1363942f66e5941469594e964d3c7924bcd89dd09cf4b03e435c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/abab04319f4809596b1182b1c4e73f28e45a58f9d2ef8fd69a21a9ef8b4e56c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee979054b1b2efe19c097d30ba2614f05e0b16a59429875ecb677822d614e012/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9628794b0b77117e3f9a6b3f10c56672586e7ef92f61e4dc15794fc714f8ceca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3eeaa606d77f9a8de732adda2abab300d87f756755152cc5f5f9a874187d15e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5be8bf8f43fb4d5025ec70651a9693293568a69149edd4e28c6163222d1b193e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48b95ba125779be2d8324ae7c969d0fbb365ff4e3b376567e3fe3a5aa034bef6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8e0dbecd973d6e4550b5c6703cfe1c6893bdb39e08957b8478ea786dd33c9df/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-aspendale-151020004"
   },
   {
@@ -2786,6 +4986,29 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront estate with private access to Dundowran Beach Reserve and a large 2,265sqm allotment.",
     image: "https://i2.au.reastatic.net/800x600/4246e0b4bdffcce8c17201cb904801d23855be5d60268d580b0df65dc71ab326/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c990247216aa9820415e510e7380865127e25117f5b1afbed0fd20acdef2c48f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4246e0b4bdffcce8c17201cb904801d23855be5d60268d580b0df65dc71ab326/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fbd704769555e19dc069df3aeaace6b875e14d40e1c111c4f7f7bbe83330fa40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/193ff432e0b787e6ab50b3ed85be50fed1f1d84b3e5d45abaea3dcba1aaa8257/image.jpg",
+      "https://i2.au.reastatic.net/800x600/879ffc95d5683128093092285d8ee2e771babcae76ebeef9c47e5559099e875f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/180cd086e6d01605a8070c93e4924244e5c662a14b54d7331d983704bca7d1e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/769ef771149d8bf09763aa446746f8bfaf63e60d6df6d6ac21c445bcdd0c1aae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b9602992908425ce67853baf660666b3458282137372f0319e8ce7592467a67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be8357d536bfc7794a57c14e3e70d935290bd617487852a61f2f62f995bec0d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53ea9a09c8d5f2e696c570c713e06169b845900d7e3c79e3f445553fee154d9d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa755d05632b39ec7f792cb6890e62fdb9668781ac0e2c50e19c5b483c5e40c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/844ea9ac8d999354de00a53f9b5ababf2382e348068756d52ab8a67d90843cf9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32ed3172543735347db9b8e12e7f89b4358b207851b8c91a913d95dcb7c5a089/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8bcdfa26d1e8c2bb765af9cab4c29581a5234a9896ff198d1ff19760064e145a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/948457d1f107d5c2d7f1aec73e292699f1ad38d9adce77381059d6fd6bd8b5d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6614c1fcbe76b7039da0dea09d572f0231f63e302059db8b79b8a8204441bc17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e212971f98e6c2432aedfd2d7d4d40ed744b3eb3ad618c24a2373351dc7ac0ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea9f9f96728630c46dff4aa60189e51f68e0a2465545adacc5fb4ec6832c44e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/efd5dc56a4c30ff3a9b347f317ceb2b7e93cf53eee1451ddec533f8f021f2152/image.jpg",
+      "https://i2.au.reastatic.net/800x600/342b00c8b37063f0718a73213b76eb2650542126f4434024662d1169a421515f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e60ef48a0a04bf6eba3ae56f95f322fdc6181c177be59574a9cbc592c8de907a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-dundowran%2Bbeach-150036160"
   },
   {
@@ -2804,6 +5027,34 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront house with direct beach access from the block and no road between the property and ocean.",
     image: "https://i2.au.reastatic.net/800x600/97486c8a0c624c02457c9c8c515ff90af9f6b61e1a1ad2c7d63796469caae25a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/97486c8a0c624c02457c9c8c515ff90af9f6b61e1a1ad2c7d63796469caae25a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d828f43e272e16413e890e6b2de62cc3e134bad632864f25e840f38b8ec2621/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8af7c63e48eb05bf7b9d1e4fad6529fbcd4b9f392e3e59c0af6fd4427c793fca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2adc27c556cd81a38f6398142bb3f8f4157f263f536cded73e29f64eb32198c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3da67a5c748784ce0c6f55702d68d41d2a2a2a34470ec1c38b2a62059565e64b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8975300b4a4d2c443683270a98c475a947667db5029a7f488739637f7147a591/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f8546863c821ad83f6ebc7b2ae057d29a98a10ff7f7ce3c01c6e94ab71cf915/image.jpg",
+      "https://i2.au.reastatic.net/800x600/930ae11047511585ea4d561080fb740aaf0ccbb9bb52ad90e0a3fc6166f2ad54/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b095d9a63c6c03815a5220dce957cbbbb337f8bb85a68fa5225f3b747bade07f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d371584265a986f16d1192234b4dd6cbd21977b5ade21237677aaf899425ad28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61f2e15d90f65300d65d14c570827b7398cea2c2272c0cb84a825f57d71bc33d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98bd5cfe967581d31bb2e4826e25a2c05792ca39f1926b1612522bb97ea5f978/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3e1ba79ca52ed2cae0c573f809725214a509ace6628e6a37e0c14b913312730/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd2cc6d202d4639b604a4d085a02561feeac57c86244d1063d7f3d6253d93f1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21a0ce058ac86e7eb67e666c42f54273687896871ef2c209eb484777856b63ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbde94ee70fa12af7974ebe89fc45e1b042fabae540d0171f207069676ecfdbc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69c473ca246176f79117f45290fab3f73f5f17f414edd2025afea65e12e2eec8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5371028da63f2f2197c10c7213887d92b6b5b4b2a86c5a3f4bbeb1c7420263e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42647b2837dbd6a9fa41de26701c7252b63eec897e4e0e9d5f82c925b2bf7d6e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe2b78dd2669132f119043071ca3f6d26e91838a3f72a102196001d9c6bff8dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65daa9c0e9c272852b3f02128cea56d92f9162f071023266a02d8ce90b909351/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32955d0e53bee4f605b40217505eb342883dda8df04ef0acfd6c9536755146be/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba3d896ac4aa936361af5fbba3ad66f031cd2442663d3663e1e5c04917f2e3ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc0bae02df788f295d63d4e5636c113c01b76ccbdf463382fdaeec3da666c0df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8df2f0eb1542dd0574c4fac4361651d57a937428554685165fad4755e063a2cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98d347a00f65e534c2ebdc2b3a636fbdf58e2536cfe42397a4f74b9bde89dd25/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-flying%2Bfish%2Bpoint-148271516"
   },
   {
@@ -2822,6 +5073,43 @@ const sampleProperties = [
     status: "active",
     notes: "Private acreage with extensive frontage to beach nature reserve and walking access to Barragga Bay Beach.",
     image: "https://i2.au.reastatic.net/800x600/8eb70ab801d7bc3bb8b944a525d055680390a29ba0e11c87246b81913acbb58d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/8eb70ab801d7bc3bb8b944a525d055680390a29ba0e11c87246b81913acbb58d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/181abce8eaf6e03e4526e11a6c806ee11eb718d43bb814d0aff9d851d892f194/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a27ec5cbca706080086ac2301814e099c8b431a8229d31f2e9f78a7163856d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4f728a6ad5d85abf1702c56f8c25837472ff8a4433e73013e7377aef49eb5c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/107dfb1975bc47069914fc47c70d1ec837305069744dbf4d2afd23398b338a67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/544cb86490699680cf1fe6eb436fbf0fedc92aa1eb229e995fa29a9d5ced0097/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d88bb9261e6c264ce3ee00193e1bb64f318da823b9c2f3e9576912be17cd15de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/478fc7bcda016452eb42abcf62c9b067eff96f3f6f9404351d8f8c4cb0c8093b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7bb228e28948667d403af10d58c69385c0877b54805c9ed2c07bb65ad4fdac6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9d15311fb1b36b70bdf5648a10f4dab30523a341bfd6702eea4ae557e9c79ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/753fff9738e9338d292675013c82c77c53cf80764b3b83449a486fbed17e0f85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9e006c816f83cdb4a5fec710313dd5ff3ee4919cf7b68894e9527a0fb34b9ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d21bc577368f95dc29701888757b428a0cb89a4c6760340f12c8b2759964c4b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8e5aaa1948876c8c8ee9c27b4c9f0cc3b0d6962e2c437cf7d5615f0d0413d95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8a96e2249cd6185f62062b1c289d8aa4d1c32e5968e600e35f3f770f5d8244d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1e3069782541af83b1560428c16899aa33f2b0d32a6be61485c67479adb6f81/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83713559409cab97845c50f8a9458d26855652976967b8057a43d7ffff1fce8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8e69e946ad30709dfdac6cf7495aad2f1ac16f2813bd74fb07a5f8f4f433531/image.jpg",
+      "https://i2.au.reastatic.net/800x600/512715a67ff3f2510355ded97779bf1cfd5206c47d142671c977d2e44b587756/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82a7f46049de645ffa87c814a9256232ed1696aad06030db8f861add5de828fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2aaaabe1b2e6418581eca779104a878760dea0ed53acedb56bf53277b2bbf9ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/552783fe47fd759d0c6d8431ea9c817caaecbe8ea34ed47ec474a16b92f8bf5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cedb0af11b3143ca06cd4971c48056f4272d9985dff2f11ba7a4fbfa9f8e903/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6373ef3dcbf788b07dff0971d989a04ec727b70d0929a06cef6bab1d8a22b754/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e4b28cc88555e49f04b06ab63f1c72b1fd47a4abc255de5e85776f3f8e27cc3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb72c2af587dfdb2e4ad752b61fa1dcbe05e10b908c5f00f5504368366ecad1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98811aad82deac497abafbccfb5a4cd88437c8ab535cededaa91459ef06b41dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de508337c680251ffc3080989b223606a2b843b58fcb97e32df198e91d583ce9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ec879c9011b9c86838a0a622eb4e1b7003025299875a2704121ffdd86699737/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6449ed5cdd1cf931fa3871df438c7f1b4d4a9e5cbfd70ed0d875aba24764192a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e97169514bbcea3bcc6b10183e0cf054054065bc1e15e5af9836c9a33516ecc2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fe6dd2d85b764e9c42f26c0297d39dee1da24766560bb31c8893b3fd895b442/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21ef5e02a69ca70efc734c1c5cc550eee357b04ad7998a0bc40e2825fb8f92d6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c306b04566426b34da19aa0745715a43bbc2ca1ed9b67c8fd03b9a9e34fa777b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/945a4dea6b9ca16292d6c30cfbb7ebf3fa5517d32c7db468257a9415e64f232c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-barragga%2Bbay-149672520"
   },
   {
@@ -2858,6 +5146,15 @@ const sampleProperties = [
     status: "active",
     notes: "Classic beachfront holding with direct access to Whale Beach and a future auction campaign.",
     image: "https://www.homely.com.au/img-variant/l-BoxDice-13086833-1.jpg?named-transform=webDefaultTransform&version=semrEQ92poY2MFv3futNtw_QrJJt4Xs_",
+    images: [
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-1.jpg?named-transform=webDefaultTransform&version=semrEQ92poY2MFv3futNtw_QrJJt4Xs_",
+      "https://www.homely.com.au/img-variant/fp-BoxDice-13086833-1.jpg?named-transform=webDefaultTransform&version=kEdzlhtxFZM4fm8A.GGI8QoZEBTL3q8Y",
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-2.jpg?named-transform=webDefaultTransform&version=voA4x210aib2TlUWKsQh8EkWJdtIV9xl",
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-3.jpg?named-transform=webDefaultTransform&version=MImUMdfYOL4.RYAJy5ApapsK.B41h6ZM",
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-4.jpg?named-transform=webDefaultTransform&version=ClgpQvab.GP3p_f_2jUpF6KRD0lk2Z02",
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-5.jpg?named-transform=webDefaultTransform&version=AMlEIruLnAjfm.cdfUHmGV0AwJgIfjqs",
+      "https://www.homely.com.au/img-variant/l-BoxDice-13086833-6.jpg?named-transform=webDefaultTransform&version=toowja3F8NeRdcHiHMTY9LIh0o8nI_dq"
+    ],
     listingUrl: "https://www.homely.com.au/homes/215-whale-beach-road-whale-beach-nsw-2107/13086833"
   },
   {
@@ -2877,6 +5174,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an irreplaceable absolute beachfront position perched above Whale Beach, with panoramic ocean views and easy access to the surf, rock pool and local cafe. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/cc45eaf8fc393e0f4cfb82db41bc64c2a473ed749f20bbbb019cc8ee8e16031b/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/cc45eaf8fc393e0f4cfb82db41bc64c2a473ed749f20bbbb019cc8ee8e16031b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe9012c3d6c82ac54fd36127bbbb5e40399516dd88a19380c0556d63ad9cfab3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e9e26afc8bf3dee14787534d9ec7676e1cf3010a0666ae33108ca6e5784c0c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8aafc4dabc8cd078b3121a22bf2d765908277a4a34dc23cde8bb8e3c99a6169f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/155da63e50d364fc3519158a0f4d3763df1cbb66e3dbaca7ede899a3fb410475/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f64cd77c736c975c8ce9c7d6523ac8656d462ed73650030a6114c99a597dd53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06d25184bc563413fd90bcd82b4339d85f06a1f6c7f9411402bfc77f7c325651/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fbdf731525e0a9532fc7ae0e32cbe76762883ff40f7edae3e6d5b66d7e5f4da9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7caa46b2a3189aa392d50c79f0de36375a23860d0e6db1a8c21fd8d1a1a71acc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72f56f3d91e496faff89965e814d0e2e2f2cf3ee1ac8797edff7271b54a584e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/623e31afcf2a7e1d5c4936ff39a72db918ab786536de5e8ea1ceac321e14a7b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83ab07f4f03329de1b3ce6aaa68cb259caa352ca2ce0d820f720dabd8c0561a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7297251a7dbd6be2583c1dafdaa2df6dcb7c6c2b90ec02cb8c81c859d4c02898/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac7fbb94227604bafca1dec6ae3c120ffde7b031259ef7ebec22cb3c66d62201/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed0eb91b87a22f6b94b799635a78b8584a3a9d644e73f81385579f12c77fde70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eba059d72571187f4cc0bb022f98e07e3c0caaebbbab8b5dd256466b3fda9777/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1926b6d1b29f8457820a6b688b644beb59f98ae0d45c8d610225c07737d4dcfd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06616afc03b495c18debdb3b81fd6164e84d060c7cd019c5f8c7e82fd59f0648/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4063b141e967227842a289c00331cf23083f72e714c94117417b9a55c9e67ddf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21d2d4fab3fee6c2dfdce3f2d49825a709b4b100da23ee5d68b7d2ea2d635a64/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74e9d63192b577aec77d74a44068f4540a7539beaad9ebd984fe24966b387a62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5cb32241e5b1f179b5045383299a9883d72e70bcb2e8cd545a7d413d152e4b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbece42f2dad18a20fc7fedb6b94c3b1e979cb06d01161a90279ff8025572cd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c98eda8e0128c6e25ea10f9b60e9bb146565c3f0a71dc8f30303e7ea75068b7d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-149444936",
     investmentStar: false
   },
@@ -2917,6 +5240,36 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a beachside Whale Beach home with unobstructed views, mere steps from the sand and less than 200m from the beach and ocean pool. Price guide is advertised as $8.8m.",
     image: "https://i2.au.reastatic.net/800x600/d26195ed95ef2f10e0008cd0f33f136d1f9de466c5980ba7f784c0efde6ab795/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/9b9c9bc33380cd7e8b8bec95a8d9cad70c6cb2ebb11b4d4041ae417a2ac3e454/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ceb3812c301ffb7b5e53d6325c877666705fd9656a2316fde0d7dbf07ee03bfd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10f684991bd60fafa321c2c12638116537594f3d0808189ed50bfd62cc73c2d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56588b4fe5e26f4262276e10a9979d2273e3e9e9523f1941e53404ccf6d3af1f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6065958e9b5078d5e295c7382fc5d2b52c0313d1d6248eaf0d0fde18996eaeae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/00c0a9ca835d0a79e0b806d962aee4a11962753dbbf7f1e941c4a677b5fff4b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/400442c6044583f7685728a3417f8b81216b235bb69b136a80174b2423d6daa8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e556392f952976398b5248039934fe092934b0d5bd1ea571a2d3ec1c7a1479e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f026aae9dc412337c88a6429bb9db4817a0b237a541a9a757e18f420bb764b6b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/608bdd30d79a15231d8bf800028808d6be3cd4e854d34ec16bc70b52d84dfc86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f57757af79f25f870c6c53d73b9a08da96416cec22174d38e2a2f85b3def992/image.jpg",
+      "https://i2.au.reastatic.net/800x600/566eae2edfab0a381365299878fd9b6d0b520b5d5704838aa6dbed3b90bd649b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf512b2bdb69b2817c351c0c21f75831cb5c94907412385c6bbd3d7f9b79af8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12834bb57d9f7bf522c30baf932cc93ba945e0ee705d825f2ad28e654c1d3374/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ca570ad820b1e655c65752b2842685afd277e5e3224ee3dbc028679284465b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85cacc35e49cc92abf6972cf35cfb28264fcdebe3396959a3744ff0081450adb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97dba14e4ce4ecb4b1b3f5afa3c07d7a9ac12756e632173bef336844648ed1ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12ed71525147fc2cd9941a5ee59729bd7f4dd1b34fa2add04721784eeec17582/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63959048bddfe25dfe6516c0662ed19ea9b169171236a451913bf196d113b6d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86bf8136d5b40e71d9b2ece7f3e3be65074efc4a1765d8ce02a108c9a513627a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29487ec7159bec0e9bcbcaf108c539a152ccf45cff352c5bc2643063e3a79b6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/929989404d9fad49d34213a8969b60d5daedad4c7de7c104b96278fdae12ac44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e1906de086849ffed0c9251bd2a9f7c03831fa19550116e0341bb2aa5035710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e2b66f0e00168f87330898be02c691803296cc18a52518979b79fb655adab11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e501dff2dc356c0d9f52bb1acaa2d3c167cdb125fb287eb6d30d9b16c23d9715/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5eed9d6e0eb7a923841a92ffdb3b55b2b976e0bc3e21927a0228ed5868389c74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eddf62cbc7c3592f62f8ace695887eec407e863200d452d74ab35de777939410/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb9a6ee3107e5c8415dd8c7450df8c4684a352aecade3974542fc86203b39edb/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-149904792",
     investmentStar: false
   },
@@ -2937,6 +5290,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a north-facing double oceanfront block with 30m of ocean frontage, lawns cascading toward the coastline and panoramic views. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/e1d4d2a104da2fbfa8435c083cfae5009a2cf0c636c7ba3d2e58d657c96b4ae4/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/216606ddfe7515ad96d619166bc663526164f025aa8a41909ad77f13182bc201/image.jpg",
+      "https://i2.au.reastatic.net/800x600/986962eb26f9392393c8535308d7a9d61b844965490c0a19bdc585850e62350b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2b0a2ec59c4391f22764b3d35bc33d4da0699b5e53a8ea5145fcc852b4c038f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9d4e6c5e309a12d58de7fd50dae3770f780791de21b3f5257a81173c14ae137/image.jpg",
+      "https://i2.au.reastatic.net/800x600/599848a55b6e8ea1b1a11c19109de378728bf7fa61e58da49400108a6b5f630e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba308a9f3c64c9a4bea102959e43dcad0e8c8ce3f1ee398052421a27c4d6bbae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7358ced5c86a434edee08d22c713449fe74cf035f3966acd97e021860fa5e2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/41e3b8836aa91b783054c7f8cc1a0cd88ddfd6c4bb3120f69f900636fee1070c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e07d9cf39c039992405e7d05a8c351c61a509684d38909e9e0ca963088ce864/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13a9a7c578fa8727df33cb47447398a2f3c665ae703d4d6613234d2b76db787a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d8f098c53ee15008c83562eb0f276f4176d38020208f461f854a4cfafae27a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fa4d72c1ad12e71d02a3caa79586497a0532677b8085a8584fec98b7d01e5e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd7798aaaa8f71c71037f623a7aea0436a9a8cc62c5053e878169f5f06d59064/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1668fbc6cec492b94cdc71a6cb916fb83268d4b16039291379c009660c7716b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/620e1b55de799ca1c30816933cb952e2c91a5c13c185cbcce5f79062a286dbb9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20e0a466b1a280a35931a7f5cab8254eac7bde102f949403bc38d5460d297684/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab4ea53e63873da020dbdaf7818a14bd718cdc706b1587de020b9c6f8dd218d0/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-139571839",
     investmentStar: false
   },
@@ -2957,6 +5329,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a unique oceanfront Whale Beach resort residence at the end of Rayner Road, with uninterrupted Pacific Ocean and Whale Beach panoramas. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/156ff298acb60b0d487fbdf6293d750328258569c050f55cd386c4d4d4d81738/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6884d6ee172cc118ed885fc837862fad46c9694cf2ae4e61cef94df16e0e88bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d2022dbbbc416b8f98d48678b1d5ed9999a17dc031ff157d01ab79126f81dbc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e93f87a5daf421cd19aadaab73127869cfd85eeeb7774d3cc77b35d99ade3a60/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3506272dc24f308e36e06ce530ddcb4af3d6484544bed32b83eff09217400ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14de08ef051805f048fa17813fdeb80878ff9c6cc17db0178179aa2f5c615c29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1bfffafbb4319a2384a33d5a6a3cadde7ba829c91156d55df8bd884f748663f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09267a4011d72ab0cbef8c6b6981ebf5c2b6abea4e0e63bd2300de739431b411/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c91b6bf9bb685ea5455cfe84ae9c8df551452af1259b79aba76171d7cef8865/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae786aa9b65476a1e86446a7aa3d9233f21e56f59d960d0b848407c1159a8526/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1028197f27dc29a38c3120b34caefd20e786750ccd34c40e22b9d15fd7f7276d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfc50785e2d4709510b047975e067dfd0d944a1c93c9f83e8fac0c0eb99791e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3c77af756fb8d563579e7eb362e0d468d1d88e680b19ad55feaff5126da3b87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33b4ef689f20da252394ee383f35302cccb05ccad7c8c2e834383a5e4ac2c8a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9cc86e4b82fef2deab6b3e9bbbd2ffd66e000df3f07ef64f2b7e9406f6dfde19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a7b80a87ce5e246c1c4629370b21963deb0a71ba22732459111ad18562b6e7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98100a09ffdea92be01f999606fc33a83375bc3a3d70151132f0d42ede0ed16f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/746a08265c0ebc68e36ab11f676dde8f81a957f368234a0c0b298d34a5741128/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-149414428",
     investmentStar: false
   },
@@ -2997,6 +5388,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active Domain listing advertised as an oceanfront sanctuary perched above the seascape, with sweeping ocean panoramas and waves meeting the rocks below. Buyers guide is advertised as $5.5m.",
     image: "https://rimh2.domainstatic.com.au/GkUOh5tbz6THlAORa-bPCLieG3g%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020806729_0_1_260501_092854-w1600-h1067",
+    images: [
+      "https://rimh2.domainstatic.com.au/lKAjfAjS4ZDZO4tBLmog_22zj9k=/1680x720/filters:format(webp):quality(85)/2019216496_3_1_240501_070636-w4134-h2757",
+      "https://rimh2.domainstatic.com.au/AywjyqJm2cE7S3bnvaDkCdyEZcg=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020806729_16_3_260501_051532-w791-h1120",
+      "https://rimh2.domainstatic.com.au/Cmkn8QnzXiMrrjp-E-XXajth1uQ=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020806729_2_1_260501_051532-w2048-h1365",
+      "https://rimh2.domainstatic.com.au/k6rExjloZ3Kd9LqpEHiqJP312DE=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2019216496_5_1_240501_070636-w4134-h2757"
+    ],
     listingUrl: "https://www.domain.com.au/187-whale-beach-road-whale-beach-nsw-2107-2020806729",
     investmentStar: false
   },
@@ -3016,6 +5413,15 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront reserve home with direct access through the dunes and creekfront studio at the rear.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=ApV17GrNN0mZdRjWs8YgdJUUHJg3Pqg7",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=b3U88aVBcqFqa5HfwvZZEO1AxJgu..7h",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=u_L1f4xtG8IeyvabebSJDzGVXY70qN2V",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-2.jpg?named-transform=webDefaultTransform&version=HW3aZe5_AxjOv2i1vOFETdkKJIuljvxR",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-3.jpg?named-transform=webDefaultTransform&version=1L6Bgv_Nrmt9mekFfAvaSOmaBABw5wRU",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-4.jpg?named-transform=webDefaultTransform&version=tjVSkcwGQpAiP8_H0vIWOHkARLXTfvPy",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-5.jpg?named-transform=webDefaultTransform&version=aA9Xxb3ueIwfoCaHoIdt1K2JWCuRRPcq",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12876856-6.jpg?named-transform=webDefaultTransform&version=eJCtCHMuVs7lrsbj9by8vxa9_wke38fd"
+    ],
     listingUrl: "https://www.homely.com.au/homes/5-berrima-crescent-umina-beach-nsw-2257/12876856"
   },
   {
@@ -3054,6 +5460,23 @@ const sampleProperties = [
     investmentStar: false,
     notes: "Active realestate.com.au Umina Beach townhouse listing in an Esplanade complex, advertised as a prime beachfront position directly opposite Umina Beach with elevated beach views from the main living balcony. Price guide is advertised as $1,750,000 - $1,850,000.",
     image: "https://i2.au.reastatic.net/800x600/6e679d9ff5c13d40876f00019f86e7f68cd06ccf6d100c29c531fe264cd7e4e2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a0067352c5e7c42289b3a6296c26c0273faedb713a9031f30c49f8655c9c898f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4595d0b6d5ff7fb46ae823c8f2e3e866e5c83c038db6c5133da8fefab19753ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e71d2296a19fca54709d4b368807b8f798807b7e4f6cd16c0a80579f383ca16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb10f1d5cdcc22269613b4bbe1092bbe632f4bd3f267fb1e04846bd56a08ce6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff4b4d204338da062961e2f7a00fe75467408bb641739e87c89341660373db71/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec9688bd71dea471ed6933afb2c61318e6b256e35cb32aa18d0991db10f6e42f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7f3b3c129bbcba7c039e364b03af68f1d623455e80f13e7d966dfcde28433d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb49fcae6179a2a268c27a51393f8bf3a0ed425cdcf720f6631b5ddbd80ea8b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57c77fc00f64fce187cf78beba5315bd5f0fc66c47f80e07748b28078fae25c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/157d47f28345132bdcd24e96f44219a0168944bc73e73d5f9dd84828be7abfc7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d42f7bbc0281f8ed8f3fef9d2497ff5df0c5a2a2f7f250bd20873841682943c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6511f7cfe3054d6b402c295671035a1d1d77ba2a0096c08056144135139a4df6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9649bd9eb1e4b68ad9cb650bdc23567c390968f14cbbdd85aecede676fc490e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/291827d0f83f73d88b604b2a4717994b96f86ca8a87e927b719166512307fcf9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7dabff5989d66d46fe3a6ed94c50d004e2c0f12a27659eba61b8b81938ca927/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-townhouse-nsw-umina%2Bbeach-150241988"
   },
   {
@@ -3073,6 +5496,23 @@ const sampleProperties = [
     investmentStar: false,
     notes: "Active realestate.com.au Umina Beach duplex listing advertised as footsteps from Ocean Beach, just 20 metres to surf and sand, in an enviable beachside location near shops and cafes. Price is advertised as $1,300,000 to $1,350,000.",
     image: "https://i2.au.reastatic.net/800x600/19e13ae2fd7808c5d220675d84a8d6dead8ddd632d5e8f52e6acb9bdd1179c65/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/19e13ae2fd7808c5d220675d84a8d6dead8ddd632d5e8f52e6acb9bdd1179c65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77cb2ab5469a33e2ed3dcf10c1ee5a31bb41523c6880fd9b4855530efb60b6fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c74dbb3166ad9642ed5dd3f364fe037adc30cda13b8b37c689741c17450d7eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f6cd9468e8b35849d06451d656df7ddcf1b6b5789191110af1c49ca41928f20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/133a19a5910ea24e34052770635f26f96ec8f2605bedec7528fd692eb725d9a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2676735bccaa7810f10cf6bc8e6c354e5cf2adfea0bf31a9150b0e004719d403/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e2079ce7c7494df1e44588d75d4fa446b2d1973d4de5277eae6aaef5433a8c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e5da1976b09df47d954222d9461f34392704f93f326b7c7fd47df1b37d8c818/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0841da3562950fc6f08bc6e5651c85fe28bf57c0ce6755bdb4b597e6e56d3106/image.jpg",
+      "https://i2.au.reastatic.net/800x600/025f5dd2f3b61ecc4df5aa991a2b434613f70f6977ae458254d592d3ff4de8ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dcdae7e79e2dba3bbd65fa8f8967a4369cd345f166816b5b879b121f193555c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88f0e2bd698d83d04cf0641a290b3675d1a221cfb2f0fcc8872bd019a2a392a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02ff94b4142bb966ad4e9e8ff6999fb117bfd7bd1683b506c570b56cd83545a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f92ebe8c6e15b063a2e8a11b8286c652dd386decc99394eb9f2b411356486b93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f3caaedec10e6b422f2735f1d0f03e6cc0faa8fffb61faa6a3a0ff63a085556/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-duplex%2Bsemi-detached-nsw-umina%2Bbeach-148178272"
   },
   {
@@ -3093,6 +5533,26 @@ const sampleProperties = [
     investmentStar: false,
     notes: "Active realestate.com.au Umina Beach townhouse listing published 3 Apr 2026, advertised as beachside living directly opposite Umina Beach in a tightly held beachfront pocket. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/3b74303825fe7a243a2ef1897b0e88b6a7570e29bfd8c48a21f92f19983a63ee/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0e2c9e2aea85acffa80bf45c37ef7489eefca4dce368bec3214a0e72a821f7d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a675d5638eed3016182cef422e8f86ab31867a5900708a0587350f0a1013a624/image.jpg",
+      "https://i2.au.reastatic.net/800x600/917122cdb5205726bbcf4bb7b02db0371dcc4f4fb55b803c25b640640dbd2a0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7161c7ab4cc38a58783bdc0000d46b46ec796783c356c74392bc3637e2b328f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78f12db4a4450ba7bfb11b7e19484f7bee602ea692d0541d2befe2541a4349dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99d4c2cfe0601f5a4730e5b40f1460827c2430f4d6f8cebaf9077e61ccdaddb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f459fa20e4c3afca178d641e0824930d0ad7e980d3362df37600f551f9783768/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94c0b3f20acf1f1d2d3a4d02c8d333d80d43a63fbe61b675cc7a381ffcd8fb0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/856ae9b4f1be1d2c5c4d1d1ef81afe2e2ea280f15da51cf87890714f9e75c865/image.jpg",
+      "https://i2.au.reastatic.net/800x600/579622da1d6aa6cb02686816b271e798c9d0fa7f1573cf20ce2a618646142c71/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81fbaa6419ce8b49ecb071228cad3c223a9b5a0414d38dfcee27696dd43c34a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1fe764ba47bd27246d4149eb65f1d6e8dea782d5c8741b948070ef2a8403b6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6fdfe3bb453383788a2e2374f0547c3293d86a2520b331c4f53ded18b640802/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2f7b2c13bd4674314d6f0192d98611b10c95b0f7788a098bdc96d292c1385ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef04775c0f4a7f923a3bf13dd17c5b25ee84164b22c316c78fb8a604b4ba914/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5595d0c470a01e750f213b2de9b6d51045f863454b802d00172ec826784203da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e8712959440a46e25670a7233f3da5ef0db3800856a5b7634c3a04a8f13147c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/299ab88f82649699b28796b1ebc154da7cfddeb9f39c26b8dc7fa218162b154a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-townhouse-nsw-umina%2Bbeach-150785152"
   },
   {
@@ -3170,6 +5630,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing for Ocean House, advertised as a beachfront masterpiece set against Wamberal Beach with beachfront terrace and uninterrupted ocean views. Price advertised as price on request.",
     image: "https://i2.au.reastatic.net/800x600/60a8683dd8701b09e380ae209f161567e7fc73a4cc0d1611fbd4b1612646d0e3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/60a628da32732bcd5cd63a77f78d6c786f86a8f21f691012717538df67342b6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35ca7624889bebc1c04741ae2f3584bd69d3b550dc89fbabcc95a01d78bf918e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/382141978397d1215edba08f51e4af06b6d457d7e40ccb9b53eaa94fdf7d056b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0fc645f63c9fd75682b612151e419df607116bb8ca9a34c072bd443c23b6f202/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9a8fbaa917db1099c1b75515d6b0796045b5113f10301946e800acd8740f97b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84093e1eb890b2c91a87756397eeecc3ac7b378e4fc6feee104c4fa6069cc101/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fec559f958637f21c23dbbb36e641105a8a491c9c9bbc1e848b4017cf4298bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a68964c9bb996bbb34133f09262d4c866269f4a5f16df14061cd660c3e6d112/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b96d42f8f76a21d64b29abca6601e1fe2fbdee641de97945a4061282a04999f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8c1eb3ff63396bb4edca1454ef009a967da6bc5c68d6e89510cbcba2f6d1003/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb2be88e3c1f62eec3f69af3e1131bd693c20e429e87316c4c379f33500e74c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1f2356ea8bc73ffecd72ab85fd8549e90ea572469911bf8cd0ac4304830663c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e227e868c486b05b6cf50e648b6e18e13b60d187a487bcd65d964d839fba8577/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06d1e0ecd87fdcd807756f2e31a652f272831c56b09feba1be0df8ed90606b97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/638b9be094a581db68dc427f70e58c16679f9f75e571ac249dafd9e4ef6062db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/190880dbf59b36443daf729fc4764bddb7295eecfba6147dad85f78dc32c649a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90602724130bd41d2475801fb4cbd68ecbb77d0bd77403d32ffd122e1dc50ae0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b93332a0d21d733bfc316d299b4c25ea09a13dda6ba59754908f6eb38bd2ff39/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d8e79ffa2291ae1293e02899f08b0acfc677de3b82381a38ab8acc80a06a264/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a2eaeed1aa2f900bf88e0eca4f03f8f7560e9c4d72e3d4e87a7bb8a0ea0c24b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29dbc7170c11cb015c4ed68cb1e0d18298c51edfd33fbb8c4c929e1ebcc7e6c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8017b0a71961035f2295c6f9965828978c154c4c317589afe8c45a0f88c1711c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/943cbc75fd19a1ed1b307998e6175a2674724562df6dec023843de82506af045/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b08c0cf1d29414ef59bd35449e161ab368d8fc4f0ab3bfe3203bc88f8b612d09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8399bcea5e319878aaee3d3dccb0d67a38048c8892a3554bd7f38e6e841dda85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef3207badc301a001c7408dff67ff925d3541ab749389a9426bde5903913fbb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b080c9cd89f985b2b803df4d0c667c9d7e77df411ef99970069cf670294e4a21/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1f81cab4b2ef54462e42987d0291b5ff4010b89b3ec67bb3b588bc343635b33/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a15a1cc481855a69ccac3f5eb06c4c67c0b0027965e4d84c418a7ff7b8d640e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1de54a73b598406074474e0c7a00be2867078782d6fc087689fee4cb77d57754/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df3484c73e8e34c2fd06700d96e7f3cbde850dde252e0e2e2602e03ca836eb38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b24c43619cac66a84fb63f785dc17a6691a70c4f1095d8b1329d538055d0732b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4dd81aee20e3a0f85de7599ea33494e2f22092dbe4d1d733ebbeba37bf73ceb7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58646456519a9b56873ff9e4182be3d5bafdf61efa823d17be3b0981d137835c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b730f3e6d8a6c57b4bf398aed3e8df3692aa2658562d53e7f367d0f898679fde/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-wamberal-149194200",
     investmentStar: false
   },
@@ -3190,6 +5687,21 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au apartment listing advertised as directly above the sands of Wamberal Beach, with private gateway to the beach and sweeping ocean views. Strata apartment land size set to null.",
     image: "https://i2.au.reastatic.net/800x600/997fd11f6f69160b971ff491fc40f022ee93829fffef2cd17be2d9d25d64ecf7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/997fd11f6f69160b971ff491fc40f022ee93829fffef2cd17be2d9d25d64ecf7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f63ff7b7b7ed97358a17fe01c399065e8e500dcde1ea90adcb72098c742e43c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bda07403761445423e9d489169dd56b517e5a874623383a1921319acc1615bd5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4fdc0449a1e0263a928b2dca8682578b2e7aebfeec2115c7457ca0030ceaaed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b659337757da7357d5f15db9d5367c8d707afd5a93d05cdd3ed70ab68f5c4528/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2fe9425654c330a1d487b26ac38ee3273306f83df34ab5362f2e31f2576911d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4f2bf93017d9b5ec992545b73a1e4ed32c23fd71c1d32663ad9909ee9f7de25/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9100a6e6059c5e06c29838bd9479d785e82a3ce90fcfe5ef1dafc63a6da9cfad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2053f5ac0543368f009a9e3ec0f1f83549cfb97dbcf5a81727baf434a7a98b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d8059132adc38184d64dbe9dc8c70bf03ed0b38ea1ba10149ac00a6d044d197/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f298054a1f361d0a50734e55eeee05b40a2fca6356e2f8e1ce9399743f8125d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd46d5e1de002cef21f60e0cd41bebaa8b385a04f160e6f613175e8495cd4f5e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4f12ed978d864a276a81d9a15f2b63aef94716f0dab4f85e5e6b9d08efd6427/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-wamberal-148201752",
     investmentStar: false
   },
@@ -3210,6 +5722,19 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au apartment listing advertised as metres from Wamberal Beach with direct beach access via the complex common stairwell. Strata apartment land size set to null.",
     image: "https://i2.au.reastatic.net/800x600/52fa18a3dc0bfa1103f647ff0a076960ff3fd67fd9f57036da5efec1867c2881/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/52fa18a3dc0bfa1103f647ff0a076960ff3fd67fd9f57036da5efec1867c2881/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfd2c06ba14613ed06ad306f7d4ca3933105fa7731e73614acf8b7d50b1920bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c7bd42b26930c1b283f8755849d0c8a1cfba31d93235c853c5e79be4f2f4e80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aea1263c0922ed1f277ec985aac837db2aaba176cf8d840d8749cadc20b27a09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5032e4e0c31be464b72b866e353393a73625242a90a5d8206df1b78d85900d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47cdfcb4a4b148dc220f282c93873ae85fb529ad1ad92cbc0c82212c2308fd60/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f44818aef0d3c15c57b4a18604e77270ccffef1026fdc017b2772e137bd86710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bf03533918334fa1c12d0cda6ac6e0acd4ed18df3256f260b1e09cc6c549b31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9bf267564d522500e736708c605955f7a443678f6f45cfb47ae85965a4c039a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fb95058cc3e5a4a68261416f6dc2403d4221726426dd5932182e83ca2c67168/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30f326b855471b37e0115124912583c47eb99857d2a44f9fc2123fb37fb9be26/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-wamberal-145967892",
     investmentStar: false
   },
@@ -3230,6 +5755,23 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as fronting Wamberal Lagoon Nature Reserve with direct access to the reserve and beach, plus Wamberal Beach and lagoon views. Price advertised as auction/contact agent.",
     image: "https://i2.au.reastatic.net/800x600/df0c303154d51ec617a3a45de3aa2a10123224584688c456c5957c05de318bfa/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/df0c43e41c7160b632e3ccbda4c213fdf06c3125af205bfbeda15d7597e1955a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25faa7066251018ac7101a414a829afacacdc1b07753b9ad992ef4c157bd3bfb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42ce00ebd49c8253e892d07e9581b637c4fb76f3bc0cc1bbf0735f5ceff7aa84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4badf94fed58aae9dc42441c7ae7cbb22d4e0c07553434dc7b4ef13ae8a9a0f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/106103bc368d30979fa032d63eacdd98d545798aa7fb5b9610f2019130844f71/image.jpg",
+      "https://i2.au.reastatic.net/800x600/585ca6feb856e411144d291645e559bf4b02fd0da568c6f9bd05db373e196e37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebb8d05512db42e2cdf624fb1c065069022af36efb5e71711fcf85fbfecdc12a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d11e7035b2fc4b174993ae6439f5f10cb8be32c382cc064bce9a3c419782023/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94e9354b7b8a560ef154cf15d01488d75d810efc5af078b334dd611cacd147f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/418abca87aa47ed7790100c8656f1e97ece423df37ca52a8bc77578e06608010/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd5b87b4d39c4142b8d115c9141e2c9aad2f4da9023c77578b12f9386ff746ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9b89075bc9903b3c356d0e8f97fa5ebde7634780f190a7b89ded75dfb8a27d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d015f96814041662591094da5808d558e1254d1f62a3469dbd6bf3c351a66de4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f10536b5e0ec03843959cf37e4e56364d89905245298d24715e71f5b4817abd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1be1bcc63ae58800aede80f9296577c69f3536cf329b3d7c928a41a166d79fe1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-wamberal-150337236",
     investmentStar: false
   },
@@ -3251,6 +5793,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au unit listing advertised as approximately 100m to Wamberal Beach and backing directly onto reserve/open green space. Building size is 61m2; land size set to null.",
     image: "https://i2.au.reastatic.net/800x600/1e4eefca314531cc922407708f8501a3178fe09c165e006a77f5c293cc8e8493/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d5180375e94c140808021c66a5628cd863963da327c76b6ebeb22680dc55fe43/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e4e4c80ac38c2b82568de23d16dbe1faf0462fa6ee574695e8a3d240549bbbd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dab9b7865563f6bd5bff10df17c85053c2f147257fa755aae75b4906e1eb8ff1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60b743f81e5945f8c95366cd0ec2b6247c8666b4170bd5b08cc7f7aa1e06159c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a082769f0d384d25479dbfec245ebd4f6c05892367301dfa83d6d2b2311145a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe42573c41273925918fd7823a1c69becb0573ac6ca609a5fbd71ef23707a3b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5592cf9e3b27508b0113830ddd93653fe54394930060913d5086afa387b08e5a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97f7df642eafeb8be2780547eba15b7d20355fcdcc8f502f292a29b40d351c65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/195350aec857d2c0362733826391076fa22a65be924bd7f7f10d5b87c5ff257e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f0715e31fbcb794052be07e3a0753606bea137efcf5d5d752265798f0fb0a17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f88906ba5d4306fecf352141ebaf11af1f32238eb7bb9422f1ae47b14c80fe75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b49ed57d9beff2218af90e075040d302674e85c5e8c8e4bedd7b7eba87e9cee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c58c94ff3aacd89b7c17bec54f7e17094b3e603b20015e24065914dd9b221b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd527402e57f9a623133dabcbd313da18dafa33a182b27569e02b0ecd088e7ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9cf9167b7440c2fce47fc30ef9c6107ed8f7368548f61679b24cddbaee3bd8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2239d2a52c0fdab2fd8538d5542ba99a74a66e2fbdb9fb275e463a33489b4d3d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55102717905a89c7bca5ea094bb4a9a5b7f06205923f725c05a801f700830212/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a67c102243c8f44dadd283353311f3a2080b67ea2ba9dfce952d3ece469706f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4acf951715b0375185c1c9a9093622edb2aa762addf1dace283cd376edf4061e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a11d9519a8b6f0c53b1221d8739b3d036035dd7bd415118abb9b07cc8acf5836/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4267e3e47fbf89b0bf02444777fb06a39fa2e7d239e6873360f9f419a928b255/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdfa4f51600dd71b5af6bfa99fa9c4a079ccbb4f2de071163d7b74c4949970e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7d729e7a8fcb050aa68348c6a1c1e632f712b894db97a9555c699f469e7e585/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0769753a1bc62931da00e08c84a00dc2807514075b4947137f258aa4c2cdea55/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-nsw-wamberal-150795444",
     investmentStar: false
   },
@@ -3271,6 +5839,26 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with Wamberal Beach views and convenient private access to the beach via Remembrance Drive. Price advertised as price on request.",
     image: "https://i2.au.reastatic.net/800x600/61d805615a21e1e08d047fe6aaad5f7411c465c1cb84f0148949ddfcd0bf498e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/df85bd93d2a7f2d50392c3f30387fa6d7603386988d1414407ece9370ff9285f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/467cca96c702d4ecc093f5952fbf191b3ed09f1f2f96525db1140c94a6136fd9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5731bf8b8a15572d42babb100886652595ba9a52a6bc806cf9d2074c5c0684d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f112528e7db6e04491e54e0bbc3006d72ae745dded08460f8a39fbb236f73205/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc8d7a33f02965bd80904a84d09d19d949d4837082d17a04ceb049e159bd38f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c15b999994001df6ea107702d18cd4ffd082e4b45c794d06b841d2645bde49c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7578580b8e0c99664c76bb15fe4016ea57d06fa4f7d863da84ddc84831acefc3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82122ccaf380f7ff553caa2bcbebb16da6a035ebae646847dad2a47572775980/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af20f25adeecdcfe0195172461239b68cb2123ed4989aad7912a31565b7c300b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24a40b33d0463fa1643887fe48dadfbaa844a9bac07a8d32b73e13312855915e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af7d153157ae6086d40a2338ae1fd90fb5249ffb533ae4bd8c928c31e2c25169/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7429ce399a8497344950b63430e201e5a7e57464154b597fd9c9f2a7c72c8655/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f10486f7da0d57b8899aed9c479185d28f7a36f1ce45b09894976be8a87e99f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c5f928289d9f0fdd0e345532f8d776c88141fbd1e225c8c4846a7f10cb6d98fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7893787210f64cca934334d23341dfeaef931e63e2a8ac0880e048100467008/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f31874f9484ccdf94b82818a470d55570748d84bd36373c0100767fe4b8afa37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/170905ca040c1e50278c63322ca88a70fdd552a2dc119be890f1a633535327cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1270af8b66e6bdc2430c2f7c37c11f28fec1dfcffdf56cedb60e73c0ca6b5761/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-wamberal-149988360",
     investmentStar: false
   },
@@ -3290,6 +5878,44 @@ const sampleProperties = [
     status: "active",
     notes: "Architect-designed absolute beachfront home where the garden merges directly with the dunes for beach access.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12481769-1.jpg?named-transform=webDefaultTransform&version=1ymfbbFgPemMacmPyxUHUJAPW3IpuSnB",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-1.jpg?named-transform=webDefaultTransform&version=1ymfbbFgPemMacmPyxUHUJAPW3IpuSnB",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12481769-1.jpg?named-transform=webDefaultTransform&version=8IwCDLHT2x2aK68WgU_QI.z4_b0ukBsO",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-2.jpg?named-transform=webDefaultTransform&version=V0df90s971wyUbHeybx8i3vvMF.2oDRC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-3.jpg?named-transform=webDefaultTransform&version=1KGseukIyQCUt5a3MydxIcYM8ImRu0oX",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-4.jpg?named-transform=webDefaultTransform&version=UlljeMrG2CTqnu0T25reBk5fcazCPWkD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-5.jpg?named-transform=webDefaultTransform&version=s2RVqFluWRw0mENsTwmWXa3sBcOm_.2K",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-6.jpg?named-transform=webDefaultTransform&version=L_YuQXYdNflFYoNKz8iAOWdtkHH8AoFT",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-7.jpg?named-transform=webHeroTransform&version=4t4GY6FAP6UAgvODgUHVTs6.G4PEfC5I",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-8.jpg?named-transform=webHeroTransform&version=SpfmNgFp1cmcoMSbrvUkH1ubMaUx3x3I",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-9.jpg?named-transform=webHeroTransform&version=.aWsoVYWxiZySLHzWjneJU2mqyKny9HP",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-10.jpg?named-transform=webHeroTransform&version=P2xqS4JO0kaXAVvVeGQsrTD.xYUr2Pd0",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-11.jpg?named-transform=webHeroTransform&version=D.9glj1Ih0kfJep_gTtAi37HfcSeljO3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-12.jpg?named-transform=webHeroTransform&version=Yapqq3TnlDHXVKULAZDU_Zby3tJtUxfq",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-13.jpg?named-transform=webHeroTransform&version=.2m2Yr67THV1Ko5oH8l6jzKbM1FTqu8O",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-14.jpg?named-transform=webHeroTransform&version=NFIUwHs91yIa7b1T0FgwDvbNrV4IcKOp",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-15.jpg?named-transform=webHeroTransform&version=f2pSgomzx7CZ6WqqZe2YgZ4B8sXy1yfK",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-16.jpg?named-transform=webHeroTransform&version=a.6nSs5PGwVw1ZCUDu7JEo3T4AyEvDd4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-17.jpg?named-transform=webHeroTransform&version=Sp1.ffw1sRIM9DPPDiBUqhyiOm6z5Yig",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-18.jpg?named-transform=webHeroTransform&version=.VGPU8nkPU8RyBMbbaAe3taciQcE7UxY",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-19.jpg?named-transform=webHeroTransform&version=jvlVSrTiPgcBySowMGivPgWNtfPq1Agu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-20.jpg?named-transform=webHeroTransform&version=qTGxRR0XzOLSLm5R7q3ETmDp8s.sJH7B",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-21.jpg?named-transform=webHeroTransform&version=Yg41mt7xxvro5NvrdpAEAzxj1T_Pd6NH",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-22.jpg?named-transform=webHeroTransform&version=OOgOyDM4U0Z2TZWWdQKtL1tmyRMfrQDl",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-23.jpg?named-transform=webHeroTransform&version=Tv8._zgiHIKQMoPeLMkcQe92o0CTWYo8",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-24.jpg?named-transform=webHeroTransform&version=ELjZzsnjTdbu9VOytKL7sAybrnI9y7kB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-25.jpg?named-transform=webHeroTransform&version=AEOlhRbVYh8_ZvP.MqjWVMoMR2EiWwxy",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-26.jpg?named-transform=webHeroTransform&version=mH1GIY_F7yDgln675mmgEQxLhh3QmxM6",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-27.jpg?named-transform=webHeroTransform&version=xHZ61WcjSKNaqC6G3dJImxmNEM_tBnxz",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-28.jpg?named-transform=webHeroTransform&version=LKSSOtmszelC5zu2WTga_7MO3McsSAlL",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-29.jpg?named-transform=webHeroTransform&version=cpBWBx1K9SpH6ngjgzLkTBCcnXB5kav8",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-30.jpg?named-transform=webHeroTransform&version=39sSKdHgH3nQ4a05_5ezqL1wcfMnDACs",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-31.jpg?named-transform=webHeroTransform&version=G31bIFc6qVjE5olp6wBdkZu40Vtg3pQu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-32.jpg?named-transform=webHeroTransform&version=fxA7XkZjalL5a_O0UvETnFd6uZF7jIVe",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-33.jpg?named-transform=webHeroTransform&version=a7aobOfKamgRLCICSWRCSfc5DV8uP8Vt",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-34.jpg?named-transform=webHeroTransform&version=lRxwDgEZMsoGPV73r.UcwrGsdESu7jYM",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12481769-35.jpg?named-transform=webHeroTransform&version=CtWkC5zbw8pK2G2jTRNQH2hXgNSTTb1O"
+    ],
     listingUrl: "https://www.homely.com.au/homes/76-newman-avenue-blueys-beach-nsw-2428/12481769"
   },
   {
@@ -3309,6 +5935,37 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront Mirage residence with gated access to Four Mile Beach and no road to cross. Price text advertised as mid-$3m+ offers considered.",
     image: "https://i2.au.reastatic.net/800x600/11c5e191c98bd23ae5cc8df467e3a6ef33495b316247264dd2853b5692a797cb/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/11c5e191c98bd23ae5cc8df467e3a6ef33495b316247264dd2853b5692a797cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/083b6363041ac985f474c7d3430ed8196f40d3d296aaf05abfc3ff4ea6c5bf70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a092c48034fb97dcdd1829e7da7463fded479a7ac104a6156ccc3c2356e4bca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b2eed8fd82b99efd73d19d04f58e83ee4584d5c6ce4279ccec7f5361a8af6e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d2209e0464ed6577b9e1110c77198ef419dcf15a691029d58dd6449bf861b83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c2670996df7a799a9590ce0d74192ffbe5a0e4678527b87dd81a2a69f9254ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16e75c83ee6582a8ad0e9c3288a2df8fcac16efc529ef219c32eaff4777b8213/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cc690d3a269c7636a52ebf16cd1ddb03d2d5a47eccabc5104b875a1e44e614c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24f5f4c8c958c05ed49e81549b5512fe38785adb6fab50b72fa4f95f21008dec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88be95589948d85ef2ada98008f1320162409688d3576dd947d0297b9dc4f7b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16dea7e0b45f720f4725f66806f034974923d86809b89029db59daf39b596200/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e51a959962b3b58c306bbb49b3ad52d80e3fbedd64684a8f9e591ccb01d41207/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a1482b53676e57742fc20c5e179d87b1f1ef79405976bde17c875472d8865a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/040438595ee1de7b9fb7c9398ae2501f7f94c825f7935e2ffeb12db9d3263671/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fe3a2a453ab496f5856858582481258a65e9b35085543cb5e4d3c76591e115d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/810b527368d3339e4d62caa44027a18404df3a524a8c3f8fd60ca0a578bb0499/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ef59fed9c5ddcc423ba2c3aac4fca4297665683a04951c593fce9a46b880608/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e36b494272925bb73ee0788295075ba6f6c39c8562a55a055b95507083a7b49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a318d115c4c83be2025f7ac7950d860605fa490ad4d834fdf549d1a3509c2cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/41f760c5070d976eafee31cd1f1ffc4439a74fc69049984cac7dcda590889106/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2525eeb643b849136e6707bb8c2410e736806895fc76ef148664ea34bc5a2e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b24914b9f109339371f033af5129b13bb97d51b55aa447f0395eaf5cc95d84ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe4acd998148c0de834a15f57f095b9066042190ffd5dc07ea942d8b08da0376/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2c2ebbc09753659107656c33d6d76f4ad0309497ca403fe839b43a3bb78a2ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e81c19d22dbae02759c6285273d38321e2c584adfab7f922550bb7a0e8b2023/image.jpg",
+      "https://i2.au.reastatic.net/800x600/901b08c9eb1127cf489e1bda7233df66b25f1d1bf4490c5189f99b644931eaf5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f45ef7ba3903b48f85a4b0c9dca64b5c574dee285b5728839878081b55bd8d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82dad8a6383d9fc10e94a9107c6fb28bfdc29886fc84d0c152ded15a665e1bf6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1556db9bc55688044d4a445d3e1f87e850bb1f4e9f8cec4d535ed24417fd147a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-port%2Bdouglas-150747496"
   },
   {
@@ -3328,6 +5985,43 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Byron Shire holding with direct, unimpeded connection to the ocean. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/86a0885fb5fe6babc9979e9b14c6238ed4ecc732f3cc99d5c1d92b0010c8c239/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d2bc1816620e88d11a98a22741150e107e1f47ee6c0457f115b12607358726ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14febf3767c0424c3f6255b9319ae274ab305a7c08beadd2f63f0058a051ef7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f52471e13a5b339e7db2380a4b5f1d99c63ab2b55a71298b0b1a1c31de7a555/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91a6d2edc9dd29d0a7a590782a8f9d2bfebec1c581dc643efaf594ea4d0c2e82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db8ad0b3788430f74ba4cf81e9848abe33f30cf98ca9231d4612e6b4e24bc219/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f3e129346c393517f5a913af7c4b193778c781abdbda5acbb350e94414bd464/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04dc19cf0fb28e54cc1093d1664f5dfafae025b21d190bb199dc13c9d5a05cb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2b589ce97fbbb886e2e7373aad6e4131eab558a66f93086e58a0be768f2291c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6817cd5c1cee363abf563374ec37917b54f069734fb15bd60e50d8ca8a0309c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad6bdcc46ef508c263f964fe997582e47dd94c021f33dc12da48575a1febe542/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c05355fefa08b5fa43591dd6a6fce7bc686ca35421f346edcb48d92c2771632d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d9dfbf0920cc8f8a81b95da16fae96b8c84e29307101b3a80542ceb385827c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62ee86e9c705089f31923ecb51e62f9b3195dbf87d3883830a8ed36b98eaaa34/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0803f1cfaba44d646e913835309c9790db50759b52433e929ed900e96b6e36f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c6879674b5430a358fef2c140820c87c32e0ab9d7fe55c9a164f641f4729d4f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8174d6a08b9df7303f9b46dcb5bc24c34facba443beb800b7bbcaec0bc791e72/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c96c85feb26734dec555816ca7fe3debb2764916fa788edb03416fdce7de0de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ae184ced92e552a2b1268be4596b90294ccdd9a836e75b06571dd4e1d263c07/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be7904592ee40c4e36c9badd42f548225c7a91c3294ba716990b647b7fd0d9ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e46986a92030ce1c0dbb8f058e70d89d14dff0bd6643b47ed7bb9d878a51b740/image.jpg",
+      "https://i2.au.reastatic.net/800x600/469f6af40c5d2e728a2ab93488e36cbd91d61e47557199f85a7a1982fffcd71b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a45e6787a09cd5528e7c54ae3fd78cc5a0dc9144199de2ebdfea12abd73193e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e49ff495d9d88d91e0df35e942b695c6201e6a980ed825a978154399ce47458d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b69dc050ec41ac8da7612b0c475b4622a036d0a0cebaeb0336f5ece2b959b52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2ed4401b95c5c75ee2ad70b6a937c8020399e0dbb955fc1e2f1e94e70d205f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/340e6d54c8daff2ff8d18b93a01805167e9c048e3cbb9fa56addd0e7342b0914/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43cac576a37e44b41fefcc95db57e0157a11298d1064e2ee7570937cdddbf693/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f93b0a7f954b62ae88ee628dbc6a32053a7c4ab067d28b716f658dd47ffddda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/337f1ac0e28666c6a26c793f0b189204ef1e4f9fc082b0a687021594da57fdfc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6cccbac0acc3062ddeb41c9f23fa2e739a504c3b699e114f7447d4e68d6b8bbd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e087bf2b90e5840b2b7738d4ae95e69315835c70635376979dfeb009d7e9c44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e12860d0dbd01626bf4560c75d87b12feae4899f9a559af90d711eaf37bf5dd7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/381cf52c5af9e2ecc8669e9b3256c256e988f1ad9661011d0184e1073625b286/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5272c3c3ad983337c0bb98e61e3eef8e0d723c95f94e96571384809b6c933b50/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68613d8cd3213b771953c1bc935af83b0049adfdd5562174c435ff3106e82c6e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-new%2Bbrighton-150857756"
   },
   {
@@ -3347,6 +6041,33 @@ const sampleProperties = [
     status: "active",
     notes: "Sandcastles 1770 beach home with direct beach access through the resort. Listed as a fully furnished beachside residence.",
     image: "https://i2.au.reastatic.net/800x600/c491c23685ceee8441ad95e96001c971a154686cbe6bebadde0c470b66927d0a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c491c23685ceee8441ad95e96001c971a154686cbe6bebadde0c470b66927d0a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f647305d10d8dcf6aa09b9827badcc7b6ca443db054481475172dcecb25c3d82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ef925d60eb487928e3ea6f92a043a1b67f4ea342a3d8e1055593253ecb19f59/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b42e42f48ea699c73ae88d797daadacc24217799b0ee6a45a0eaa1257b712542/image.jpg",
+      "https://i2.au.reastatic.net/800x600/781e97cec9e0f7ea65a188def0d2e75b4652565729281735a38f587ef649d119/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1742bc34cc3689d03d37d7b32259ed16d36aa38ddad305565ed3ead1aea28bce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72a03c15960c50286c118345e531f211768dc4f4b6797d69effbb61987ca82d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e5ac4a60cd580f7c76e65f20bfc2e3828dcb7519e564b01f2ab3197dc27c031/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82340198c2ba76628631e1a616e6cdbf35bf1e9cd30d0b7100fc73e48ba1bdc3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6a82d910a0d2a29213d7e1c080ede632f6b6a16c53619407a8b26723780a167/image.jpg",
+      "https://i2.au.reastatic.net/800x600/316ef09037eabf92654223d3e7816ed81f4be8e5970048312899406ee160cd81/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c633440d9b81fd8ceae8cec2be19af18b3c88995b733f908b5907a2133bebe9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9abcc80bfbec5c760dcff45a9708ba6b44537b607d84e37697580cb034ee73c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c48001b772cd2b3b47b37a42a7952a204f42584a69d3c92b6f76e515089860a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b42e695d5758f494e6a29e88a54222c888dc0523a46765e3510d3e757c18197b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e62e93bec010d6a4b64b6c1235c3fd0cbc2f296f46667df6308196270256e8c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1fb2525d3af4e370d17225b3b4c0ced42d2bec82fde197adda40b1fe27f2446/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fbc15d24deaafe18871818e888effcd25b86de0c120700424357d859ab8a148/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c538769eb598966b007b9c1989ad3ec6cf2d709be31fd8f5c9dc0a06b751b3a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d7df008ea0d8b12709725df2ea6388e4a5662a999db47eb3a21e2726ee4bf27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f38d4e6c077b0b8004ef4466124c8db87001b951e1a513580b10c638ba4c33d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fec677ea922bc9c7a9fd24befb8d2582458cb21e422d5b9ce182aa16b37d705f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70c2ee870a42d68da73450c44b341475d5a30963923b58ceda39c82dc03beca3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be11b09356decf5de9e2ecbc013a446722e44730a051b6754e85d3e8cc9d9447/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e0f642aecc06329cf3e745bba575fe008726746fc67ea5e2ab4526425e755e4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150789928"
   },
   {
@@ -3365,6 +6086,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a 1.25ha absolute beachfront holding with uninterrupted ocean frontage, direct access to an uncrowded surf break, and views to Agnes Surf Point.",
     image: "https://www.realestate.com.au/property-image/150660708/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1bd5464d1aa26a355f6c5f1e0e52ab68f3e10ab79968ffc397c541728c6e31b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d8f59a91249a604446711d8fa1f4a1e4dd596899c9fc049d23946ef571f9710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11b3e5074f1344214f009ca3c56f0c7ce3b8980a296f1b1b84f3325ee0668b8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ffceacc4fd438e6cc45a7aec1bb28c130f27b66a569919074041669b3b5fa7e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5bbac6b013f54c70adb3c58f5173076ae296eb3d1bb125301a55cc58249dfa9b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68bf553687796c7afacb897f95adb00173a6614f66db21df82791583fb3a0df8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f70de4579addd6d67549920f3a5268b6315322085875b50809509eb31aa44214/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2cc98fa3f652e68c57e2b205975159fd31f3ad48e955da2e28b6f74fd286d410/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a806cd7936591a4678e330d9011cdefba4294b2f8d9e84fe245cae1df04384c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbae17f30c7930b04a5303b6b697966e3982a1a7700762ea250c982196bf1e4f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29390b78077795a82b53a04f3f59768d0e877ff08cd1c8cbcb585c47e55f43b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40121cac0e5e1d0f8781b7b394fb83d1dc028a2d5f04c39fee1b0fe9fffa3e46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/031538a087e45dcc4fb80eeb377cdf64c564d4eb9285dbd46780ae6f6e9e94ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b20c17fc816e72d531ffada638743466775a8282b854e5164f6e9bc715362873/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6301730ad4588814d689f93968042747ecf5c152ab807e640cd1f32004ece76b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68eb7cecb65048f4eb9e1973a8f200c6c41c600342a56eb5c978761803be12e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e6bca047a6b80e66f2095840559ba0a231ed388d0e5e51c49b1ad90d2f09075/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d652172aecd5eaa4d97df652dd844572c7f0bb703df117efc4e031eba6461d29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf861f8a3644685403b40bc87784dca0c073e651585e85c0cc33b71bac7ab33f/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150660708"
   },
   {
@@ -3383,6 +6125,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an exclusive absolute beachfront/on-dune residence fronting Agnes Water Beach. Price is advertised as suit high worth buyers.",
     image: "https://www.realestate.com.au/property-image/142344392/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ab2555130454f873aa7f30aaa59f3bc52f50dc7b4d88a0dd47e1ea99c4e4f8e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/521f4439b544504dc575c1b5aab44607e2d62367d4052fb52cc1b27e807ca993/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2437754637d177921802629696c6bb96ae2d852c19fb550b5c79f5f678b0eb11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/038ee6e134bf039b3179a041af61dbb2132a465dc109ce146ee490e4d71b7a76/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-142344392"
   },
   {
@@ -3401,6 +6149,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as a premier Agnes Water absolute beachfront residence with direct beach access, surf-check views and dual living potential. Price guide is $2.35m-$2.45m.",
     image: "https://www.realestate.com.au/property-image/149866564/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d163feaa19af90e8c07358d11452b12f022ed51ed6ea137a83a3c5f01c713713/image.jpg",
+      "https://i2.au.reastatic.net/800x600/622475fb8b8c962145e59820e8da52698518e352621dca37a3a0bf8ad6cff2c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dfd347532e3d3373f1815da6cf8fbca94364d77ef2227798d00f35ded4f89f89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/469beca5e2405587d2ed7e05763a343bd62eb366256e95849033c2160f671941/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9240e36a924c2df88037fb10e6efce7a3854aaf3febd35761a0c9e885160d36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08c064a0d805b45edb88ffd791a58c1dff8f3c4630526e3d7b7e76ff57df9382/image.jpg",
+      "https://i2.au.reastatic.net/800x600/241f04856c45434611caf9607084a6018c1cd6d45e7ab8a68527c60910d73eb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93c81c2142bbc17fa66d9a09e82fa2cd75f21267f06f998d7dfe0b368a6e84c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d86c01f7d576800aa49000fc9e04206c0cb7dd2d9efa6305ddd6cd9c290e1a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6383058cbb82f484641f8e01b51c6097a9c1d7c865963d81ea29a01dee7a1c9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d58e5a86b58aca658399d808a0739de79c5ce61c69da119db087110d057a5773/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d455d6c8b9b133b501279bd3a43cc1cf47820693c02d41dd208f2da144dc15d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1983785949a0753c1bf816437f70098d641574912d37258eb7e35cf54c676ade/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05132fda3694d082164deb0c64b2a6d8ab139f0956f72bb0a0dca99c07c2ed37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3eb47500d94d1df7af740416ffd53d6d060f6b0fdf353194a2170780f0467148/image.jpg",
+      "https://i2.au.reastatic.net/800x600/161c18f4a2d59ed1393f607099e46d1f99ef5fa6e35c28d04089a43340127b84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d94f4dbf194453ed264370d9f226920a3d4b882608df2dff43c2cedcbc68e37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/704bd29a1cb360fadd4ea4c768c96befe18734352ec3d0d08d2afce486fb87b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7340ec6664326b18b9b10f795cf999fe9fe4d1dfa63f9cb0bbfba693b200935/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bcde743c2dbeee8cfc84b53bd12dcc651f9db1fc6c00063223b9da6517b917a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9d093cddde1d781ea0adac39ebde371c59e1dd8124c7a50b90aa79993c0978f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c89e91385d0ac2f9030bf6644086567d0262684226fbc1ca972f5b7e26e97397/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6d224b527cd8e02baeb1d9d16716da6b2487fb139ec63977c9e38da8ff8646d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9feec8368ad500c19fa06f83f7b2de4f79e8b213eb4f575b689d13accd059a06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f2d92b1568500a8c296af428cd788786a8a039a310c7f12fcc08b4ac015ea54/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed51e52826ce0bf1a040f3cf8a2ac24f5ecb09ccbe26b4f4cb1b89e7b1e2b22d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0af0c40604cba03b466e2bdd7b193b723b3f8ebe1eac368b4d6482df17d3fe8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/742acbb32f54f62f1e37d75b92943a98ecd5fb7b574b003642a559069aced87c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0640ac8556c576a38f1ff3b9dc2d57a5a8f9482699d13132d8b2f4c7628da195/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ace41493035b172199fd2a24549218b15354fce77f5291cce8c016d10c57ff6a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-149866564"
   },
   {
@@ -3420,6 +6200,10 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing in Rocky Point Estate advertised as an exclusive elevated beachfront retreat above Honeymoon Bay with rare uninterrupted Coral Sea views. Price is advertised as offers over $4 million.",
     image: "https://www.realestate.com.au/property-image/150753696/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0c7b6aa25e674da1ddb2837184b393fe5d1c601f96f0b12d6f01c9470556316b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/774662214ed940ba9d536257a33bda7b5c0e133549458493a7f7a7e3e18a4676/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150753696"
   },
   {
@@ -3438,6 +6222,24 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au land-and-build listing advertised as prime beachfront on Agnes Water's main surf beach with direct pedestrian access through coastal reserve and ocean vistas.",
     image: "https://www.realestate.com.au/property-image/150226576/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e07f309dce224fbee4cebf1d67da9e243bd4af9c8529f92e48e375f62e35dbb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/effdf0b1c7b5e75e43eebd6b13819c65c57bfda18b766dbf38df5a75f8c010b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fecc3e289b073ffa249d13420a0655c1427680075d89a71ef9e37b42a3b67b69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a682ca97ad06e0858017edb665c11555983ca52d98eae6e30dfd92ee938be4e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e638d11dbeaa44044b23588550b2a8807620283db584df21f5c473656c2c429/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9128869e92a9cf1245c65733674a223a7f01d309c37bfc7043bcc823fd64c183/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ecd3a9b1f19c6ae6129fd272231df73acb290c140881bb5f4467e816e6d07b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4509900698dda78dc81a1c54a9fb3ca48639e10753f2e32af0b66b1d245a52c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83b40d0c656d640975592c6280a9f60cdcc8990d251fec2ed68e43900762d7dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d177161f8868d81956d4c0838a03d12932e00a0f01db413fc3fc33ba909d48d4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1820a65b61bda0604f15f55cb5f1c32acda028402dfa99c4bd3653bfc0278ded/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43204180fcce537f3d45e76a40b61e4deef8e23747265e2ef6ccf2802b69add9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9505659d2493953fe7398fc4883a0b66bf766c58aa1a47d2710d0e41580243f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dfd3b7783aa5f6326988ef29e3aa2fdc7872f221b1165e918a05e62b30bfb8e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cee3df569d70d1e77e1d75b50455ecd5a5709adf0542bc18519f937754fcf0cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5de5da988631bd311c21b925ce9fcb47de8cde6d6c6a8240dcdd7ecebc3f58d5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150226576"
   },
   {
@@ -3456,6 +6258,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as absolute beachfront living directly on Red Rock Beach in Sunrise Estate, with ocean views and established holiday-rental income.",
     image: "https://www.realestate.com.au/property-image/150523260/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/fe29fc105dc18057e1a73490ac0ab3ad58f31f9bf5fabb102bd242264a972b08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b65c13d436ccd573698335c37b9a15560d0662e157b618c5cd058cd4654e6c0e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c8d7fe94ff2da9988019c4aa1d7000fdd43221fde14bd7cb036566a615d23d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd800e76ceef2491e2f141ef6aeb182c3b0f104350ca0f191f0e7b2c3311f25a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cf8a4a5e351d53d3b50b9e53204282f5b2901e2f0e07ff7df9e1e772bd7e199/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55d36517903b26d2fc4d46c77fba0567e6180a25e36147e040c9595af7874087/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f212647a95877f1b0053a2eae0b6a9c47d14c233fe862cdb40105872e16848e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7310e2788e15835b741b3188c4638f797da667132594ac95c787e0dc29dc01d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d80442e1051992c6b7ca0407be37290d5fc8bbcd203b284e9cb36b6f78bf098b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f264a81134a519dc83c2e4dc54552fb397342d1150cd6939c42b149afd1588a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d64cdc7189cf4410808ca0ed9a817fd0b099411bccf258553d6c2c16af33ebf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acb6641f10427c4536759d35024e6554a62ff03473408d3d13160f1cd5f4d8f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f9d1c76f18359ed1725ce220ec353f347c7feceab02b67ce8b36c8f439db892/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a855583577060009c0b2c54cd0c5666a9f2baa1d0d226c0e1f9619e670798588/image.jpg",
+      "https://i2.au.reastatic.net/800x600/449b96f16ac18bd542d0a9b24b597f13d83095ad16b1a72f22f41e6ff38f9301/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3024fcdb7333709dbd77217f04ef2de357171a05d550db2116d20833626618ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3b076bbc0fbeacdf25cb1e2f88a009a608f1d5135fd40e0701587ce13976948/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2c63291125d3d62cdbb85e5b63bf85842b0ba5aa4d13e9d0d17a1356403080a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f37cc9903d68921fb395dc16c65f6315b28a1f70d83f326b170eda969f00a64e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5853f6bd4103e26203809113fdf34d43003351cb58e8e38dc1742094daa0c572/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e8d6ae48810774aded2de61bab2f073911081fe72c3d1c0b1783e044eea0cda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa9db9e57b053beff301e9f8926c9071bba4f1b498f8c75168e7fb89568f8a7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fafd8e3a7e06549e806bb35be877b2c9d501bdec47d88a324a2906852c17455/image.jpg",
+      "https://i2.au.reastatic.net/800x600/876febdd36c0c4e2375ad99f5780c0d63fcaa2d57b6a7566947393d4b8bb6094/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ad2de25e8a5615ed30c957edb6df0b9e89f1482e8c30dc5e236120915d1c156/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48a353ec35e79400112d9ae6b414f694c76286941ea02ebb0bb947770e9d83bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2acdac3143df517bc70c81081fc7dc967b7ecd5bc492cea8cfe64b1ba125763/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2be521b39d9d25f6ab3799d0380fda8df734d2aa8dfc0f100233f637650f46b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32ea6d152aae5bcb57ce2f392d3ce95bf580907127fa29a449aef80bd339ecdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/521788d65da62c3ffa2ada02f33ffd10bb39080b8c581df72f9c40d9450e3e7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c74819c15fbab568cea6be0bcee7dac89d2b987a1dc49d562f5b88aad9879247/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22ab4071982ce784082c670450a54922360e7121b98dce404c4e319e28654151/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e4fd9135af69ff781e823a89a36b0ff5e7607daab457b36a267aefdf56a253a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7d402790861168b48b2caf457b582d3a5bffc3dd54cda586044050a5477d0c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d546976a0b74fb4b5ad42ee7c1facc784a3e3bd91230cd1c364f0876dfaba693/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150523260"
   },
   {
@@ -3475,6 +6314,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as one of the closest luxury beachfront homes to the Agnes Water surf, with direct sand access from the back gate and surf checks from the bedroom balcony.",
     image: "https://www.realestate.com.au/property-image/150752604/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ef04f88819c57bcf711cea6a4151d98c576ab5ff5557cbb245b07da36495f773/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf0f0c393b6df6ff9316bfa3f70ad76da38b879eaf654b36b0694e94808843a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7d611322e1fe62bbbbf4a5b8dc1545bcc7bf23135795ec3ab354c454d1f805a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e86d137a025b171171d0ed14c42022883207decba3878b10c43c3f859bef7cb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1ef2c65edb30e7957595aa3a49df6aa458e7563bd201409649db9157103704c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c25e17275c2d0929689a0289a45da3d1c4f8262e26ac89af4606303ed57e493/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7acf1b48fda77f5395073b5e65c6ea531afae9ebec99c77d0c9263b470e17051/image.jpg",
+      "https://i2.au.reastatic.net/800x600/560b820d0bb4bf067b30e00ee81966dd403c09cfd1416ec93b8daaad367e10ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4239c60c85be9225093176867bd549a1e135bd2a009ba6bce4dd6fee03d9168d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b622fa5d8e2b1d4729833ba798f3f6b837783dbcd8eb0a8bef3c00284263613/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4b84f0ed373010b9a52d535206734174a2dbd7d132520d94241189a75ec1b74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec456c2b87f5690b311dba8c5727bd81f5f1e51588aef8aaa7f90c02a4162882/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3addbe6a06723449db2dd19e0c4bdfa89223810079f2544e093919372db4ab7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3295cb3ed3384e1c0765e765cdf8708c13dd63bb63c7aa7fa47aecf8dd6eaa90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/007c22558ab5a5d70d3f7806d0a8811e32c2637f4fe90bb5acd56e93e5010595/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc2831edaffbe84c134160fcea651886cc6f06668f9eeef6d0efc7e5f9a508f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/046d1f5ef733fe913841168fc96506267b2d6fe21f60df6de5445ceb973cf73a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19cf30ef58b625465f231245083c05fe7da9ba058e37fbdaf8ef6898f7ccdd03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/873858cd0657fc960b15570b0e1c3e2216ab3bcaa762939a599b217cb2831048/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85f0ff4b943b3722fb9e9045016aea922865677d32f9f875af46156b9650eb00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55da0454eecd5beba39f38ee305f142c1656d8ac09d2f60199ca037237ecec0c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c93c621a27706f4eb590cfc3fb14d0e82f0c45775e1264f4235e1c8fca4e030b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1a16bb226573ce06f4e5b1c63b016207c8c7daa6151da92c82cc159e73d4f89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6861e367cfae4738ad79a892a7d8bea98f36d8e2c26c9afd9863514d7359758e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7a5e9fbf245d4f16c634a348870c53868acc539ede17333be1ea930b8bebd1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c2be4524693e92f9afbfcca9096f7ff13a424b11f59dc21488b8c547dea1bf5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/917b5c61d423b5a14915d8af99227b7e4e66ac788fa666ee0921e5283228e7fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40422c5f278b631b8de2393aadcb730c1a26edbf805c9079727488a7a38902d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/766610e9fcb6da701a6275354faef32db5c4a416191c11a2b4ddf950410c25e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83642ade5605b80e3a32216ea269fd6cca22f5f2d2b4c37fedf876b2d6f6256d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150752604"
   },
   {
@@ -3493,6 +6364,28 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as Shutters on the Beach, a luxury beachfront residence on a private three-acre estate behind the dunes with direct beach access near Agnes Water Village.",
     image: "https://www.realestate.com.au/property-image/143819720/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/257e828d6995694d1c845aee20d6e127b688b69449cd3172a2234bb6566f7bc8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/787dae30cdb1fcfaf1a7d1aec80653e54ce0559e763a7efe29fbfb341085fe2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d79d47b4a1351a86a9e440e7fa28418375256ae794789703391f0ebc9678c9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f5b4344b9d624d467563b0399fdc69e2a5f931e6bc88cabf0fb3636ea504d54/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f30b75fdc7058310729e00052407a6d21f49e74df1ac5de4cee39873c394026/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5bc56a7e8cf3986c307b4cc0d845dd0bf11f9877c9e3495ce649d14e1eb6c1db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbc16ce969705954debc83a863e963ff6f014fc78eafcbb12bd6d89918e59c88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13bbc5fa457dff96df33b51f081b85d9d0f6c408edb09af09efdc24e4258474b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8f7f543690b612faf00ae0c2c277fe69c192a07fe81409cf4b03c333bee977d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e07bdf63e204adea05999ad3f53f7101e5102a7288a72725fc17ca3663773e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7e99b1e88e5f3865c31ffa9347ef3087b7064c4536fb3f65eeb921082bd8d83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df5551a1f292a0468c2a73d184dcc63b083bbdde51f2ddd6d35ddaffe8e90042/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a9deaa06d9a8a3b4325c556208d341568807f5614f7737178b82db75af4ae5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a83adab22be1bf7b0ecb37b53c5e27ffdc5a59adcd0885cad9ccedad7d4d9f15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9bc50db553967b1bd58a6c12b317d4da6a084c31dae1289a09edba9a51f296a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4efeb1375a64c1a944439573ac5838d11a29dbe40d0f66f5b735e9a04e5f97e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c80a538914c34adc510a52a033896b0ddeb615073e00620a52e5d2590b6cfd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31488c4696651455e899e5461e0a421b2670779550bc62b7fea537cd42d09a5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4a3a242227d6e880dec414c54244b3eaeb034ced2cbc25bcb8debe26de6c468/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff0b0112290e4eb2fce3e48036fc92e2e715683f5728c1a0ddd4d55b026f8124/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-143819720"
   },
   {
@@ -3512,6 +6405,30 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au unit listing in Pavillions on 1770, advertised as a premium beachfront complex position just 50m from direct beach access with resort pools and secure parking.",
     image: "https://www.realestate.com.au/property-image/151009968/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3ba5e7d961be1809b604ba8c037ac5f4950bf34ab132a259419f3e97f5ffc6fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c65165eddf45bdd317a4fa5d3d08ee1b4d79187b9146021f762b79b2d4d11c5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31d35df1d93114755211a3647e3e158ebea73d648bec036e61ef7c0c057cc04e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b65f42cb10e3430bd31bca662cd592e0eb40cdac78821277eacc94491f80fad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ab4130033a133c6414754b08390b2891008d95578dcf69c15e63d04ddf973da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc2933386567d20ed57b19bab597683ba14c1ec196b6c2eac7ec27aa9b415d07/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be7d37d2652b42fee0e9a89669917fdc4d1c1b8deeb271ed2cd3622e65345c5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0bb792ce6e6894a99e381ad1266f4299141ba634118b430c4558d7f2e9112236/image.jpg",
+      "https://i2.au.reastatic.net/800x600/121cfe0e6d39381fd3412cce6907077de6e0df1ad14bf966162e40467e174316/image.jpg",
+      "https://i2.au.reastatic.net/800x600/275d9c80e63ee3ab35f627de1ede337fd2d230b1b20c6bfeece0d5110fe3055b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96f73ac2c3c400e9905db141f77ca48c830f4a48876b10a7656bc71627a16c3c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c9ed312f0b2a63c00a420ce1c93aaacec74d1dde2daba1040c9f5b4dc2ffac3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1f840f9f9fac4b5016028a8d951da449bc3422442d520a0a5641a746082c9a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73da541fb62a995e4c8c13a7399d5bd030922ff287e1b87f3e41886f846de0ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2460b7efe62ce52375b4bde92b48afccccf31e026e8d045e1e9a716dba66d7e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0977eccbc594f4acfc1fdc930905eb0f6e6d0cad28dd57d587f8bd3c6849f04b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/303e7b56c69e67c654ce664734efab1b152eb75392bb54828351e7670a1289f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f4f7fffc28200f27bb1d46a002e782b66218ca699a48f251d05a6bc12ee3123/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1997662bc010222597a3b15485b1a62eb283ca733169614e1eefbd356d5c785/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2ebbaed83b8f3932fff1955e11f1485cb0449b2a7507770bbe9c35671847a7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/483bf53500b3359cbaa055ebccba6c93918dcb2579a85c42178af44d22ac40ac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f97d178dd670c535c640f708db383c08ff59e13bcd874b27846d9127c8b8845/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-agnes%2Bwater-151009968"
   },
   {
@@ -3530,6 +6447,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au land listing advertised as a 1,500sqm absolute beachfront parcel with Pacific Ocean views, headland vistas, and approved concept design material.",
     image: "https://www.realestate.com.au/property-image/204345900/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/fb5ed62caa212f1099f9db3f34237008702022778ef8162480a9b1aeb05c5ee8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8925d80f43dc90c5cd509ad4e241cb89758818aa32d87738b26031e6402f035/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d9fa09d5c3cc365299fe9c5aff1648388f2457ed8a27d6c9597fe1c62ba5019/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9c5c92111813f8e1461de7ad8d05712539a65ecf3e60759f3f7188179447112/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-agnes%2Bwater-204345900"
   },
   {
@@ -3549,6 +6472,37 @@ const sampleProperties = [
     status: "active",
     notes: "Tightly held Sunshine Beach home with rare direct sand path access to the beach and flexible multi-residence configuration.",
     image: "https://i2.au.reastatic.net/800x600/8a98253608b0bdb8233fe39e1485c4664b026955e7a57fea30b337205096c508/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/8a98253608b0bdb8233fe39e1485c4664b026955e7a57fea30b337205096c508/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcf44f76a8afef66f0bb60be6bf291b091dbbc2117b5b24834f8cf3c027953a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f4748f16e990d297ab9a1076c6b886ae6f9e53d49b86eec085edb645da70cbc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb4bc393ad84a22df7a33e72ba376dd18b21be0dcb71f116f7e6fc75ea371dc8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4e87f9360a90e25e430875f9584ce9bceff365956dc6e62c9d2aac1aabc33da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba49bee266d70cc86cfc07764b6212c9a5f11be6f230cf56c16b7085cabdc26c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84caaed2b512f6ae02e0742eb17f0a75943bc51847c7366995f723023861a9d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/990610ab490696501ac57dee514f5df4fb8aa03d4d6f734868023c44766ed94c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02d8e6211b9aa585ad3ef9f77f8a719ee76d8f4de7b37f0124e743d48140fcff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8affb326d8ccd7288d859954e362f35f5f5293837c5d18cf838435dfd4048f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c859d6401f51c76351b0b8f7d2456a80822ed214bf064faec9e4e62a7c1edb81/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db4d473780a6ff9d8f0c825dcef22eafe5558811111bfe0e50647027d0a8fc03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7528ab9504e21a6a90f965909de3d919ec6ab93fe45474e0abd720ccaa233cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5ec3cd674f5e9cbda4caa71a87bfa64a5860252f9f6d7d36abe606811202a6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60a581094c3ddd662b7ff15e7d2e19c61d8866478ef0785991cda61eaeed218b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aefbd84d47ece870610774fdf6c08200a2dda3a6a92d1c319ce49a4bcd1f7278/image.jpg",
+      "https://i2.au.reastatic.net/800x600/514483291b6a93d6a4a0f2360ab2c1f79aee13fcf0950e22537c98c7fbaf0463/image.jpg",
+      "https://i2.au.reastatic.net/800x600/811293d02be2137fb14bcfba0407d2ad0376087daffb1526993b935e54f7a6dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e919ecd7f8e1ac100b2d2352451b2d15b2658d5b3f614713a9a00d317e2efe1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/699a6cc3ce4a20ebe2fbbfcae63e6075942619c547f320f13c2737b3eeb584a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da10ebc53a30ddc307d855d727072cf462f2e7b0dc9944ff239cd4fd67172ef7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80d3349ab78dfda9ffaf546e0ab59458dc08db77f82de841ec436dce73e47d7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af1a08af39616c957b5984f4ad8601cbe8b5fa11e174c63a8bf96962a37b2650/image.jpg",
+      "https://i2.au.reastatic.net/800x600/720e1b0dcd17df0a8ac6cc5bdb86968efb2b21d40bdc052e3bef82837a9074d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a68fd56b8e41761f27439b49c1dd544b47e1747c27f4f149a9007c6ea727001f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38ec3b702a9fa2831a298be2bd3d6d323450483cf32f7b8b0ff742cd723a8843/image.jpg",
+      "https://i2.au.reastatic.net/800x600/700c61b9b7f269dc2fec6459156ee2ff6f8e4da0b4d82e3e60bc98335d3d7dd0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c7bda52f3dd84f4ccf20b6f1ed74b84cd2e3a15fb6dd31fbadd745f4f07bf4f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cfe1faa8cfac96291e2d93d45aea23b62244b0eae2a87fabddfea613625a2ff/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-150741196"
   },
   {
@@ -3568,6 +6522,30 @@ const sampleProperties = [
     status: "active",
     notes: "Active Sunshine Beach listing advertised with a private rear gate, direct beach path access, large 826sqm block, and sand only steps away. Price is advertised as expressions of interest/contact agent.",
     image: "https://www.homely.com.au/img-variant/l-Rex-12781317-1.jpg?named-transform=webDefaultTransform&version=NobBJmu_G36BEdMnO0b_ylrFZlRWd6RR",
+    images: [
+      "https://i2.au.reastatic.net/800x600/56f5cbcb14f770a15aa35ab43a33f6588bc488f855199340b8b055802a8d3181/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d17a8ff8677c0506b11986e4c22e433672fff99659e1955478aa2c81c006621/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb907a6efde94230507431fe0a813772d26343ffa4a56be8d117e2633f1ca946/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7caa4c02848bd535f268e45492bc1d8fe09697b8b79d452c36d19e505fb77ea2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/17e088f0e362691bf1242aa5f7a2e2b05d53379183198434f51c4c55499dff50/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6583b4d76aa02ba8d17b63f1325588263d45e402e3467c3a981b258eb9f42629/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db44320e4bbdc6ab8009f94d3dd6a685d9c44e478d9840257a5fba3b1cf3968e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa8cbe47b9326c5aab935ca12b2840008386ddf546ed8e7fa61d136e573ecbfe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/575f7e3c5e130e02de24b9284e577dcf00cb846aa40f85ff50c206b43aeaf97a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b13ae9e3665f9ac8242f2993db7d0f5198276201605c8b0c6fb9541ec5391bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9352e5bed00f687a67a2ad39293e35115a7ee7eacbb1595dfd800b55d9d40306/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e30b1a108ab6cf4447665b23664926788092a1321a96c1d3919ea7f02a14dd9b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4afe278e6677f62fdd69126f6e3b9c01cf82a2e8843d321ddd5248020c446e22/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d80abd708f355886cf764a0d9cb5d400c806db0b2a97d1c06ee1d4e4717dce9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2070231443c15564cf88b705603dc5640a2849a95d27a5c6e49cbafbd63b066f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5445a8e7c92054be11398b1c0812e62ea2c34dfaa5b598d2a425e2af2b4f17c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6063489476baa4c394b8c3640acf638ebc9b97503e986b4fa033756be58ce21/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75e91f907dbcf7d71c7416e56a576a66ce3ccbae3c267b7514f8c600d5c6e128/image.jpg",
+      "https://i2.au.reastatic.net/800x600/570b6f9101e08d4f34cf8b443d46a5a14c1c7babccc50106014307a5c6a365f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/00a78793488073467ac14ba5a9e3998006e9cd9971a2ea7da6e7e66a7837736f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecfa33011acaeb37b41c98c856db6f73f2e0257c5ad14e9153d0fd42a4f6a13c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6966d2ea64a23ffbe1eb054bbd435e2430180371891a413bcfc23bd9a87b17e2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-150979764"
   },
   {
@@ -3586,6 +6564,43 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Cakora Beach House with direct sand access, private outdoor shower and 360-degree sky deck.",
     image: "https://i2.au.reastatic.net/800x600/dcfbeefbdafe65a0dcb57adee42d9a6b0477a5291501bac5886e5c794d4bc531/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/dcfbeefbdafe65a0dcb57adee42d9a6b0477a5291501bac5886e5c794d4bc531/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18dc8324f751b938f9f03da61808bb6c8bae15cd5772f8d9da1403792557f8b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2f91224d39c1a351bb4f58ed73bd247f85a5c36a38535f61dcedacdce2f9356/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47473ca11f8c1308570ba92b789615d1929849e3d5bac6e892df8d26026552a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/137723c4a5a8d70ea0e64766786ee0533039be9f57fadf271dd11d245a1fc83c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7d449e99b6f76acb0b1832e98407eb2f6615308d01b628ccb9606ef9336c926/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29ebee76451f855febdeaf03d18844fe129ad000ee51a93f9c106268774eca03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a60282ea29f8901890989b05e99991fbc2af025386c2136c875d7081d4f278b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f79feed19490342503bd00933ed153ad8c3f30279f750dab54e102d975954007/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a2a5933530149419777414eb6ba08b86ef511741b4e98610f2ed6681a24009b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/347673853bf3889919e8cf568795a31a5eadbbe4eee69e1038e3e8846d0c5df9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/adf9a6579a7aafc59595ea6d4d7ac73e2ec48f3418411701d32846419013e405/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bdbcda00560c6f020429e5a1bc35cd207b81c2a71c2d5229143dc3f8a76a5ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c1289eb178ef4c83ebcb6f83fa88464be0fc670ba1806ddca1129ca0284e6ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c392bf1e508c7edf82b718ca149070f068d1d82c0d18101ebdf10d078f762750/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82b6385d04a900b9a0e99a52c231e8246cd7faad384f6e87c460a4f7ed7f8756/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8943e053897df79871ddf3467131ec1533dda95f03f48c67914ef3a0474394ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0306788cc33e5dcd01d5e53a5dc475479c2fa06b3115742c14dc5906ee903e04/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9850d9177b71b06db9d2cf4d27b16dda5d3349ebbd9433c6fa56125812888703/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70fa43c7181eceb724749390bfd54e604d969e3d6b1365085560a125fdca1dd5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/632da08aca14535bf4bdb75d5a4fa7dd68bacf4b5c20e31611a01a4ee037d341/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18f6ab985379453b509daaeb53689d636fa1c0bd44b9c41780584fe7081f840e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06d2f9a54922c37c275af7b338d00fe5ebea0a8b702e9f47ec636cdb248c6881/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2697bebc5e2a9b79671f973637944956217f2a50c92d30a3c33ee01de0500812/image.jpg",
+      "https://i2.au.reastatic.net/800x600/399b2905631eac6528202ccf44cb663817881955f6271d1b4acac10b762945be/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f81721da01546cce841a7bfccbf34e4316aa7dad93f57bbc5aee61d04c9e0b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6203af9c37e2c19bc941369d06c30f2a1f360bf938cb933ae2755a63cd689ec1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f45c26b9a2863bd1cfe639722ff613e4db528b76dbb27e367ee63e476763d38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/410af8b3a6aa78672fc476c408c7223be7b771141b1f1a8273f09750300cde0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebf6584bc5defc8ec0cc8558acb2bc6e7ec90962c548b106949d306119ad9325/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fce94d9e8ce3ecd536de44a842484e0d760c2bc125d366f44876b78a30f6416a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/519febc4abaf85926a118e314786c4dcc4a051608476b3696570f8472fbbd9a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9667d141bde4bbc7b911e047f1f6a587f34b017585bcced154d4a44710cebf3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71c6d2fd42503de514e02aded28feccbbbeb35093568476dbe49d3932a24d52c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a3319dd47e4aabf992d78ee34631c37b5d30ea9482490ffee6303b2eb030c67/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-brooms%2Bhead-146857560"
   },
   {
@@ -3605,6 +6620,40 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront duplex with uninterrupted ocean views along Stockton Beach. Price advertised as Your Next Move.",
     image: "https://i2.au.reastatic.net/800x600/627ec56950a0d9890da36a8e8e473a5aaed82be21ddf99d24d1b276f0b2cc573/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/627ec56950a0d9890da36a8e8e473a5aaed82be21ddf99d24d1b276f0b2cc573/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8970c65f028f5a9c777fda905439fb9698dc2a7a83e5ce95f0797aa8376aa67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f97b8cc84e8665d6572a4824a7c2f724360d69f9a75f946641c2535792aff40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c199c7e321ace1574a8dc87a580acef3a7c3f7f6b2ee2b3ec17d37cc19443bff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c52ac0537f67e16987162722d7090ce1c1dee9ff7695661be0457c2b433773d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd0b7fb613cb955c657f50c1c9cf93ff719dcf30900a04ed6619f294de06706e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9153c8cb515171963bc6655a75629dec70dcf58bf82ef60232da47d2b010b745/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e337bb2dbb1e77ca26ee9c79d358425116a8a56dda0080d4dc2a836835c5a64f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ca484d61ff41e25f1f86874b44043fee46ae3657c229c5f16254600e8704fe8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72c81ad0d98c3266f119c807b22397a030257a3338cb49df568f345b80436f33/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7fc75e4cafdc7f804cdc6ae0cf81921b99d3189b4dfa3d97ad357c9f557c0b27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80a0340d395f46ae194fb67d2a73fbd86ef409e01cd282c5cc7ff3182d34aace/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ae32467fae723719baf051fb861fd2fc37f941b68aac3575f0253ca229c7d45/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c419f190388021f7c3d504b2cc172ed247c3abd4d1d72e06e6c3c7f025d9750/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e6873319e1d60d5fa9e31af2c66524f3663bad50b6a9be02b409215bddd8043/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a333a78c7c8026d4e2d827d5750638b69344f97e1ff7b67807e25502f6479222/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3838b10d23439a84c4c52b5b95e076fb330c9911b2e930cb6e7368edce2caea5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db2323673311658feaf5def2b79c96fdc3fb53a303b1ddf7deb28267efa546e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18014e296b3b00258522e80c7f3d5ad53275abdeab144316cf404bf97b030502/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09737d7a52e171138f9914b0d5a8b021ece957f0e3630511a31261dc0bf121ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7fa7299c606e8acd3b47f89c3ac02869850245ed100cbd34467c3329a6d9da0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1615292ff42be33cf947f6fa3453bc20406528a4a3f70b80794ca462d01d6d65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d5e7bf33b9cb191ad0ebeff99102ab47450860abd5492446dd16bd1939623ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ad3fe40aeb7dd84200fe7cec7899cf13a2b8511174a79bcbfddaba5ee71a9e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50107c2d8cbae5547da844841451f806a62dc32332af09d263ad92e8ff4077a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33457d88c9b266a2be85c93d28363b59d3c5b7299025174c23c3c01394bbb529/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44c50973e4f765a6eb88cc8af3f5eb97508aa82120aa9c4735b144474139a021/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1a825e256eb2a9141fa3fd721e8351df00a8b63af27d7afeed74cc286a88a8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a624d55d19b2c0c0f85a71fbbe955f6af688a41703375fbeccdfb7b5b92d494e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dab0abd04b2e4801a601684b3662298f8b2be41f5120a67f9e28ccd3882e74c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37ec2c3b2002930f051b4568c2f72d69baecce82a23f3a627354678828d01f95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/460afcaa7fc730be5b9fc61444ce782477dba2980a6708b8400bbe5738d16cd2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-stockton-150255948"
   },
   {
@@ -3624,6 +6673,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an absolute beachfront position with uninterrupted Stockton Beach views, a full-width beachfront deck, and a self-contained two-bedroom granny flat. Price is advertised as New to Market.",
     image: "https://i2.au.reastatic.net/800x600/021fc71dff5987ffcf24cad31214967f50c69e8fd7077900f721defe9db7f5d1/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/021f18e0c5faa7585293e52d6721e5082a1edd9647e3a555ca781462a53b0ade/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d8a8f140cb86359004535c1f88597159836f47a2cd5e19ecdff5f1558485365/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1272d5bddc58bf5780092ba0abc8a0bd719bf9b8f06f76d2cabc6da5c4bbc40e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd285d79e3061f3cb43b5f65fda12d210a0732ec6ded04b9b3b3724d062e9b8c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a377679f0a8f25f4c6908a29dfa8f010f7f66792fe6d7636ec6da8e5d776c4d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7a62eb0aaa7a30c0c82bc9389ee5743c53888ba9a2dd91289b96717ae02aaaa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/87191cb5120f105052dcfc4d43367632e09100b72ff5bb7e3904e87c86085b96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98b967e4a7e4157c665875c583561685173cebf008ba7a7975962a18f1f0bae1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d556f3200a45a94f4167267514ae98f5583e677cb5b7505df34a3bcd07297c44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1019b9c631de84bf709908b9b803f1cf9e2e530fd7a7a5361b2cd335d74016f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/084d4f8de4fc31d28bcbe3000feebc45ecda9bd6e945f349be44aa28a981deb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fa180d7fa3c28aa022d2a0be8d26668e6ddf1d3e5894ca4e94ed564a883bfb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ba111e9bf2bc56f6db08c8425e80feb276ed679d4a74ff7a4981abfd0bb6424/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30a6395dc77e40390b2f92117fa1fe3b3679a2029fe08484965a96cec128e70a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8a150818dc9d12c8bec6785862aa5cb02707a1f4fa83f5fe675121f6d2e322b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7a587167b7f59ba956f17af20a5f58fc9924bd9d417928bf72ee1d467c48b77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c27358b53072ebee57880193f6c078e9d79ec3ea804fb4cd652a2fce89794dd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58230099cafc61079775bb994854729111f7a25a31b101ecb69ef34b89426b2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf3ace70ca541e72ae41308e8454dc0c65eb3b72f8c1d4604f0bb01d288c398c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e682187cbab0927adc6c24a08b72086dfed06f2b45bd5d6fa5417dee8b4b3f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9221f2fe56f1b04ba1c6007dd38727aef0866ca9147c8b3dbadf79f7142eb265/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d0df6284ba5fa47d0fa371840f8775b46a742bc5173a9990a546b943b6d42a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cab67e2565de2b636b0c112751fc862756355756777a90347fe7e31367bb7a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9058643bf48d144e9ae69d6a8efe611232acfb5a307ca787b74a83e7a66fe140/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2607f6c7d64eff6e9900642585eea832a8309e2db18dfcf84b0ef9f30d9408b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/500ed7fe5545d5511a458e5adcaa959425eb855ed41014164408727099d472ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8630d07715be8697df7ff2e365998db45e9a1800805025247b07fa4558854a41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3225dd590280704fa530f4bf954d34aa338a1e34cf568f506362a7e327ed205/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9143dae088284bc63d48bb40f6cd05f29ab850db4bca9a855618e851a1d6432e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b79979d83586567157ed389b334522159ae649f7c6996908f6012651d6756ace/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28a1164ad72444c9bf761103134309a43f9b63efa89150ab8a84c7e30f5abb2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5b0b1ae9696aed6ff96ca13b3b0dc14ddfe335a85a785947cdf27877191f362/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac2541d042b5ac5011184f5c8319dee233b6e40998063280265572552f53a782/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55430caff7fb3212d171b139c8cf8c9242672e16fc6a564f5c4a22cbf4b49e37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9be0c52dbec9c0f58b496282466e56e3b68ad655d35a1938664b62ab19f23652/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-stockton-151128592"
   },
   {
@@ -3643,6 +6729,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as sitting directly across from Barrie Crescent Reserve and fronting the beach, with direct beachfront access and oceanfront reserve positioning. Price guide is advertised as $1,955,000 - $2,150,000.",
     image: "https://i2.au.reastatic.net/800x600/f946fc9c6617ac301740f9c7de6fec3ef50a54a14a20d145a6c1b858fbab7fb1/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f946f9550ed4177ba089dae237fc594007a6e3aff7fcc5443002d9947c5dbf68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e3151caffd56982b25a7ee238a832e83486967eafc6207932438903f5955b77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0d98280efcabb9e20883b2e3dbc4a16b7322faf750849ca1f38dfcc48ec5995/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94072835eaef4c90924ba00cd9521e68fd6c7796e3ee95aafa30d4fca4f00e4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60936828a32a974660b354ca81be27b9b7ecf045a891d4d370b6e99def920e67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf91d203206b72e686abbb0796b4a3c9362797d6daea5929a8a5bc1d73bb3bc0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad2db72e72760168b210ea2afc046379e918407e34d5a5fbef2e8562a3fec1d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19b2de17da9723d2b81afc83464b738cefe44dbf1ff5a3a4d2305a26796a4a41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e06225ff5cea20fa45ebe3d8003bfb264635cb3198ffe3494cec42af60d47629/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3227c0c043f69f217d22218aed1c9d4b1c4f49061cf59923ce5923708fdf6834/image.jpg",
+      "https://i2.au.reastatic.net/800x600/304e59e4502f281ca24a8357a7f5330735505806f044819c6edc2fc69028ef80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/987359abd88a4d7c85fc21eea8c010ae33328f1469c731f99a0d2819983ba6fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9edf2c1852f9f61565ac4806f763de1523313ea986dc4a0d7bab2fce6ad250e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5bc92763896f9ca0b7836708371ab85b5347275232a1a10c59c826e413265627/image.jpg",
+      "https://i2.au.reastatic.net/800x600/027a6cc6178ec74734095d62258bad53a4ef6a711ec4e2d4f80fdb4e277f4e05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bbdf2617237776d4693d470f26fd0c3565eccd463b7fbf2141e6976e2f2090a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91a7c5ba887cfeef94c924daa087a88271be6652fa457302ecf06dee95e2dd97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a5bab6890b5453fb8f745e2e3cc5b9884abe552a0aa809e2c6351f1734cfa43/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd3310b469edec01c49de290727bb5b08192a94d98a9f44bd03504fda4009a3b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a49f7383a5e3dfb3956bdda1dffbfc8ccf4eabead7bd9f68c6bd00aa40d0fd0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55daa9f3a6086798937e1e37f8bf2caa40a19e58ebd014bbf0b17b054bdb12e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4306843ecab4ee1df97c84f18cebf21a7997d557ab613b0b08dd702af4cb60c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23ed263d82396d9b52981d26f6a756ecbe14ae4ef3227810d035657428168068/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3c80afffa23e9f1772b6a8d767f4c5f141a42e8ea8f0bf313a66ab4ee223f3a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-stockton-149562424"
   },
   {
@@ -3662,6 +6774,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au duplex listing advertised with sweeping north-facing views over Stockton Beach, surf breaks and fishing spots on the doorstep, and a low-maintenance beachfront-pocket position. Price guide is advertised as $1,850,000.",
     image: "https://i2.au.reastatic.net/800x600/ea534be59525d22bed8c67295fbd50919ae80ac18f3b5c045742e5f37b6436ab/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/45f9e13426a93ca81d917060089b53e89f1e10667a0017e5dd56182cce8597f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7aea5e94a24b4de2e1331825a4d5960cc16a38bc6d687eb2d584f058c82843ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e129f819afd6f68dbc22f122ef64b9de3133d60b9130a00aa380080e34e359df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ff2a5efe463a5a52d7f6adc003cd1accbaa80da5214299c004ac144742f2688/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09099b32faf4cd89e01a2d52ce41275e0f151c71086eb16855cdeb146c645efc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b650927ac76386b98cd32512c2514507c31cbdf7a877259c3cfdebc6845f567/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e74178dfb164c537cdd2ea62bf00822e2d76e67dcca8fc4d69131d0de78c7d66/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad4d3bdb0048663673def41f850525526adeb50fcab479c1791449280b36c6c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c4e437a5716c81b557d8acd6b29651ba2fbf8ab3f9f59a0dcfc573f4c897ed1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bf0e435331d9464202a7ac2d7b9ae0409ae1099cdc0c69c9ef9dda36ebcaa79/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84bb65e4001636e1742ba410ebdb490ee89f303a13add05e9155d9c333e93318/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29a0070cb8ffa2dc21e95b414d7c52252b93fa2e0aa3cc506d0c87e5d0c85083/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d306a6153a4e7d14b1109d9ea9c0db98aa695963553344d90d174f940b9f9b4a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8e166b1ef1c46979b8dca81c8ef87dd8fb74005e5b93f928bd296274030cd93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31caec234f768fc2f6670b7ad60a3cc09b66ae184448c8d65f6ff044a4e1bf94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/762baff1cb4921a642822dc7e2f0dbb7d62e36433cbd9f0943fe9919a3bc5eae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bb1e0d489f9845a9e79c26e94c6a8778ca65e7c80685343959e984f15f2352f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/40fca6b450e4f068729a6a6a5e16124040a90e9132b2e3b4979843f591ef2c0a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35c3b344dbddd20f98165c9357debaa2d0dc64bd30aa2030cf082cab76925f37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9ce85a953115afb6be6825d4ebe2be16a6860d39efed49f180f7afa906703cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fc1a8b023025b30833bd42fbfc182b86a4ebc7cbdc81a6ccd3f4c7377f742d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cc70324fb713ccceedb87e713fe18da3805189991aa28871e85a3ecedee5eb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e04479f1382ccee4a4f8b868b46d54f8a75d332699beb88bfc362261303be84b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d13c4d59574178e72df875b9aac36b4a0d1369035a09a9d8b1d3b353066532f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/045d7a02fe8dfe0139059cee95ee4ef8ba402ca2be49ecc903dba2834bac0cb7/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-duplex%2Bsemi-detached-nsw-stockton-150265048"
   },
   {
@@ -3681,6 +6820,39 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au duplex listing advertised as one door from the beachfront at northern Stockton, just steps from Stockton Beach, with ocean views and breezes from the alfresco deck. Price guide is advertised as $1,790,000 - $1,900,000.",
     image: "https://i2.au.reastatic.net/800x600/b9518954de7feda4374192333b5876018be8bb297bf8724edef38ddb82061c0c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b9518954de7feda4374192333b5876018be8bb297bf8724edef38ddb82061c0c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32ba23bb0f9818c4e94e9c72be145a0ab2d2586f34a69e0ec1318d3bc9349c8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f275723ce89a238983719e5c26adaddb35f129280b4d0943ee82cf5009f09eb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc8c3effe0099305df44efbcd70e88bf78c5f2baa32173b1a880e6bb0e3c5975/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cedc1780a9208bb1b7bc5f014c0e24c8590222db9e9e13bdde3fe73392c7c90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fda9c8d0e4bac77eb150f82bc0c96227a0390683b3479fae12290b12a5c0dbee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7afc6fd1b9818be39033021abcd2a67b568807028d360f0ec50a13485a272661/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9f82c7e6d13043fcdf728f4d13c501a34e7a98b6a17417caf53e2f432a082b33/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3530e5ccbce93fa720bcb95607953cc486e7660775d6901d4f8379f9bedbf79b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a105baaa9bb407774386a2d66a46c4634f9d20fca62d003c15e6ca117cfc12e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d3b1ebc3c798dc628c5d3c2e83969f3b01a8c51b919c764ae4a6be2da3719a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/beefd0877614b2080291a74849615031ec5ba44aa942f4f62d9fbd0203780354/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63116e214b467335a1c598d29e04f9b37078857cd13ba5dd4c90f2098a94bb96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5482629dc4c07ef78c0081eaa5f2c84498bd1eb3515e227e775ca011a8b3cad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f93f87c8d4bb8583c2743f5c3f13f554351619f22ac12078ac352e3963e9d13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b545f05544b04e19a7e4f73460d559a1ee0a889cc2eb0988cc6baa72624160e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55c6df6ff26fdd0d5f7844ec1dbc6597798d5a1c1a15259e5a6208cfe7aae2d6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61db0088f35429d46367be850e471301e84322691ba2acacbb79327445a7e25b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c41fc62bbee4345da982a6289b52f5624adc521410ef8afdd858369fea97aad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/39ec927031e13458d630461e487d051b7d5050e46525feeb002dc780110c6184/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b93c753791588b0843795ad2579216d32266c0fd372b456343586367a2a721b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56f79e2858cf94cd71d720e79167ae13566a8e89495ed50e4e078564ccf36a2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf27dd3cbd0833913c34c7b855ee4b3d34c64f747bf099f6f6c44937ae70d41b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ccb92e89e4d0aa691c7ddd6e5624d47323337492da821997acd7acc10a5de7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6506fe39f37fcead0a882eb9abaeaf648ef8ad1a61a8b4c9344ee395d0a8acb5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10900d77869672a7c1e5c41247a0d5fef04bd93569abf232e16624138e6a71b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb91b735beea8d0f2bd748d208ad120a8f1bb925071c66513c4bf61b884265e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2914fa783a031e0c9b86d4d758fccd9978fd58c4c22e404868c072010ac1c152/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ce35b34f487309ba2285262567a814b2af2238f93072813c315e8a4579106a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/519c51840ba10065570898b1cb061d8d309b26b7e3a6289d021336df288c7efe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ead5fa1a30882e7d88edf8d35946b97e6818677666ad41e237a85b9eaa8ad13/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-duplex%2Bsemi-detached-nsw-stockton-149964124"
   },
   {
@@ -3719,6 +6891,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely listing advertised as a beachfront location with parkland directly across the road, Stockton Beach on the doorstep, beach views just across the road, and Nobbys Lighthouse views from the front fence. Price is advertised as New to Market.",
     image: "https://www.homely.com.au/img-variant/l-LockedOn-12638192-1.jpg?named-transform=webDefaultTransform",
+    images: [
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-1.jpg?named-transform=webDefaultTransform&version=NG6MCHHVkF3WDOsQaSuVbYZmOm0Zae9v",
+      "https://www.homely.com.au/img-variant/fp-LockedOn-12638192-1.jpg?named-transform=webDefaultTransform&version=HVS8utYcY0fqCwkjfuU3tqodOnWDgcn9",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-2.jpg?named-transform=webDefaultTransform&version=bNhArWzpR6P0C4hIgYJ0k._Zf6CdUNPr",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-3.jpg?named-transform=webDefaultTransform&version=GnzuJu2JU4lnPF5oWFfBjZxR7oBvdrrk",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-4.jpg?named-transform=webDefaultTransform&version=gHTXIYh.sC_XZXQ2lqtaW2QUienwuL6.",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-5.jpg?named-transform=webDefaultTransform&version=x2.td4PUsGBy0Z_GKQJkqa5jGRiZIFVi",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-6.jpg?named-transform=webDefaultTransform&version=tLa00DevHHgCuLWuEpkiMy1Vv5T1uLLf",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-7.jpg?named-transform=webHeroTransform&version=BWntqHkRz9X2cNhDXaZZeQ9rR3u7RcsX",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-8.jpg?named-transform=webHeroTransform&version=SwoODhg4mfVulYa8RGK_SPBe85KODrRg",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-9.jpg?named-transform=webHeroTransform&version=GiIyKwJStyjg6KZ7MaviS5Toxuykrn.V",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-10.jpg?named-transform=webHeroTransform&version=VPD8n2C69ABWKCywT2IdTOvzeAVh29N4",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-11.jpg?named-transform=webHeroTransform&version=dDrMGYqgI2ckDLhDLGXViRtZD9zklGdX",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-12.jpg?named-transform=webHeroTransform&version=M5g.8YaGXsrLm36QMwJr5gOD9WvfD.HC",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-13.jpg?named-transform=webHeroTransform&version=ztU5HRFUSdEv3idoE4b16yIJqd9SAymH",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-14.jpg?named-transform=webHeroTransform&version=Wo2LJVvseazNRvEuhtPTi0hlOb33hZyk",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-15.jpg?named-transform=webHeroTransform&version=lCaDTx2K_rbE_qxJVkIahOlbPeuYPMbT",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12638192-16.jpg?named-transform=webHeroTransform&version=d1YWJSpxCVPIGGQ9.01YIrctlttX20jw"
+    ],
     listingUrl: "https://www.homely.com.au/homes/11-meredith-street-stockton-nsw-2295/12638192"
   },
   {
@@ -3756,6 +6947,43 @@ const sampleProperties = [
     status: "active",
     notes: "Architectural beachfront residence with seamless connection to the beach, private bushland sanctuary and poolside living. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/0aa293109d52422b8dee7dbed7c58588d56d83e87e80e1166234827e94072ea4/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0aa293109d52422b8dee7dbed7c58588d56d83e87e80e1166234827e94072ea4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0039e58673e7018d014d01eaaeddc72106e2cef6e0e1da399a59d3fd7d3d8adc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ca46253f718bdfb8a0f178dc66f3c17e518c880fbca8cf8dd1eb3bfe1c607f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ab2db2e8945834bef6af8201310724193f0268edd3048f26cb7df7df2a039dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f5592cf41f653aac016daab7e3dc6bad560cdfa169daf0ad3e8d88920ed4b19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd44c3f68d670837b4d68a0636b0ddc2494ba665bda681d33991993be95b3184/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da65336fd08b9fc43e914a584f30db7dbafdc17364abc770b296f9bfb01bce2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a833ea7cb65d659dc69ac7c44b6b8d3ee87cfc58c2bfd02734dd336f9796602/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a23fe56da9d1072d9aeeca1899a394d74aaec765caa4d4d3738ab77e38659df2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8135591f6fa7eff57947a8a547b40b8d6a0369c6a6a0c9df13854ad11543b78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f8e8eecf51d0accea945925f9a949898928c0bfaed160aad6e200233fdb010b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0ebbcc6b60de77b7bc0abb4fa532faffe541d1c154833bffcf24ff14934ee80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/932243f5ada5d85ccf2703bb422a70fe8d838ebcc8fc2e1c7237c09fead545c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4365c9c638d33f57dca9865779f5e92c67b608c922d49641a30968d7e1eeb246/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8210b1a00238bc48d8c652b4e4cd6ed520f381ffa5d30c07964f34ac867a031d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c6674e435dfb30f3b92828d4008669d80c919bf58e6bb8d62ce56c55b5e78876/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b4fb619ad6dee8ea09ad7dc8199e9565eb424b63af5d22ec54abf510b27edc6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bdfe3d895f6dc282685b4134a40a31e2df1cdd5c3d9f0aadeb878169d9fb2bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/433e4adb2b381a0a0d67f500fd9d0bf7493f2c7f0d4ecc102260a1f6063576ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/963fa8b3e3968b424d00e91b92347a28b85b16711f3c3da1425dcd6daed68b13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/52d176f5cc6411b48bff7f9c6171defa96d5b4133956fea2d22dbe84b3245fa8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58ece180d6046504395fe2e29aa52809d2ffafc52035800323aaaf8a58868fda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af0e2ec4b960af2f24dcf07d8dc5114e45f386eb851494a249528ea9d65e32f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9823df9c0eef532c4414fc2c0f198b8a02987ba94dc50a330f0eb5ff7f82d178/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d88cbe6210bed20adc4b426013a0ddc8e510affaaceca418580b52a930c2822/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eaa79f25dd82f688eff8260401e8ada1e4354ddd4a8d82024b06f1174a70fc26/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ffe3ceb669441e5286c920e9e274cb82206f9459b921d17b487cccb6e436339c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72200e3749e618179550d31997d6c5649ecc936696d8db2afe325c517dfdaf38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/957d40d3b556c3d3283eb694c79e14ea6472aa9b11346ab077bf04985d834626/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df342f008fe6b23a4863d2a978d775f6e9b3678ac947bdb0b5e1449d4ba315f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ceb35a9ee5ec259a19cd3f04550cf8cf5a5f0145e4299e0c9d7ddb15bb21c6b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02a2bfd96d7a63eed90b42ab83c0d168f659e805f7fe373cfcceba5e55e68113/image.jpg",
+      "https://i2.au.reastatic.net/800x600/efb34490899a08cb745f2f517c0d9dace37d15b1a046e052b9a360eef218e6f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57b5115a20d116a17a0b393f32918589fbd5ffe7faf1675dbab6da72c7da3e9b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/baa39359f3de954304a03e765983ffb2fd19bc145e29cbbaf7d0a0f9aed1c2ae/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-warana-150785952"
   },
   {
@@ -3775,6 +7003,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely/realestate.com.au listing advertised as a 554m2 absolute beachfront block with 21.5m frontage, backing nature reserve and direct access to the coastal pathway. Price advertised as contact agent/auction.",
     image: "https://www.homely.com.au/img-variant/l-LockedOn-12809479-1.jpg?version=638774407386700000&named-transform=webDefaultTransform",
+    images: [
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-1.jpg?named-transform=webDefaultTransform&version=bwXNdChGbx7lxMLNj.7sSeLWj462rX1X",
+      "https://www.homely.com.au/img-variant/fp-LockedOn-12809479-1.jpg?named-transform=webDefaultTransform&version=HzDyN0YtkhAdECBaOVMXFzFQpu5MHoQ5",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-2.jpg?named-transform=webDefaultTransform&version=aivcOPj8cmeot0Aboylh9qdxMAGh1qpZ",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-3.jpg?named-transform=webDefaultTransform&version=fChDqsGQK3b1pQXOy8BYITzrkn3kSO0a",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-4.jpg?named-transform=webDefaultTransform&version=aajt3bkPXlPu4FhP1.ivcoEgGqT_x2jH",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-5.jpg?named-transform=webDefaultTransform&version=GaSyAvc8Oq.hoIEMaF3nYetgtMD5KAwO",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-6.jpg?named-transform=webDefaultTransform&version=hlR5p6A1VB5OL9OqOX8cGVd3O31s3xdW",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-7.jpg?named-transform=webHeroTransform&version=VWFeJQoXx7nam5uRdccxs6Z7q6bMTQPI",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-8.jpg?named-transform=webHeroTransform&version=8MZ1HUZKJ6wczdOOpc6.e2gi49p9N3s9",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-9.jpg?named-transform=webHeroTransform&version=b1_13rmGCFL0HL7BpMwkP_dFdKiwwA28",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-10.jpg?named-transform=webHeroTransform&version=Tc7Wwep5uZqkbZ6XKIBWZWIuvUAs6XsH",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-11.jpg?named-transform=webHeroTransform&version=pR0W2Tbc1f9Vl9OoZaEO_z24aiF_AnJX",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-12.jpg?named-transform=webHeroTransform&version=ay_aeNPO5rxcOcQ0oG4USKQIN0Wm6ntR",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-13.jpg?named-transform=webHeroTransform&version=2Q0lYz7._xR.oFDy0ymYVYzCFz14y4Ex",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-14.jpg?named-transform=webHeroTransform&version=XXoHkomTon8RibKH0ZeAwcDANUmmvMOj",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-15.jpg?named-transform=webHeroTransform&version=4lMPf6GRcaDlpxWUXhMn0ivO8J4pxTOp",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-16.jpg?named-transform=webHeroTransform&version=L5toqHJDJdi98sH4uXHkkmF5fReGuQhh",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-17.jpg?named-transform=webHeroTransform&version=sCJ9vp5D4_buDg3IFC14ti5nl3Yrke5P",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-18.jpg?named-transform=webHeroTransform&version=1eQZQ5owAQnvPTI0z.5ahzSkJcWGg.TJ",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-19.jpg?named-transform=webHeroTransform&version=YPtMjsAre9_PXX4Z2DS926xTFkKlxkbq",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-20.jpg?named-transform=webHeroTransform&version=MXh_5UY8FbFzJCnIbfD6UXsYK5_uP6jg",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-21.jpg?named-transform=webHeroTransform&version=BUtiPo2VLjkoxSmiA1e1bL.6KNd4n1br",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-22.jpg?named-transform=webHeroTransform&version=LdYjtEC13lcnu0FQn3rmOe_akugSVoor",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-23.jpg?named-transform=webHeroTransform&version=NlvAn5QK7eQSi3XclSV0B0zvUTCLqNrA",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-24.jpg?named-transform=webHeroTransform&version=mU5qAWLc207HSq6hkeB.NTdIsVb2jjqn",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-25.jpg?named-transform=webHeroTransform&version=WvRtFgLaG0ld1lY28Y.3d61t1eRyZdkl",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-26.jpg?named-transform=webHeroTransform&version=dig_zhEt.DnO.JM3fijhcfPFPEbrHFlT",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-27.jpg?named-transform=webHeroTransform&version=JKVR41pjSGSM76eYCGwV4v5rMkSh69dJ",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-28.jpg?named-transform=webHeroTransform&version=RXHwHgDS2Zmx3iRHyoKaTSZeL4Y_tvZd",
+      "https://www.homely.com.au/img-variant/l-LockedOn-12809479-29.jpg?named-transform=webHeroTransform&version=zy5ZuRgDweMrfISD5NnjGtg92VEG0kDj"
+    ],
     listingUrl: "https://www.homely.com.au/homes/95-oceanic-drive-warana-qld-4575/12809479",
     investmentStar: true,
     investmentAnnualGrowth5Yr: "15.75%",
@@ -3797,6 +7057,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely listing for a near-new Oceanic Drive home advertised as premium beachside living just metres from the sand. Price advertised as now selling/contact agent.",
     image: "https://www.homely.com.au/img-variant/l-VaultRE-12954678-1.jpg?version=638775409009400000&named-transform=webDefaultTransform",
+    images: [
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-1.jpg?named-transform=webDefaultTransform&version=OuCXZbrFh66et1LCci2tfqvsM7VwiIy_",
+      "https://www.homely.com.au/img-variant/fp-VaultRE-12954678-1.jpg?named-transform=webDefaultTransform&version=FDqVdzUovkTM.96F.Rj2gLAikJ4FOiu6",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-2.jpg?named-transform=webDefaultTransform&version=I03v2nwWFBYoEFWyVU.a2hm01EeujIe0",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-3.jpg?named-transform=webDefaultTransform&version=xDE_1RARNyocbTnksWCgYGywk.NV0LKK",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-4.jpg?named-transform=webDefaultTransform&version=4_UZS68lm7gldO11v1kzb5DluvHkwfmy",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-5.jpg?named-transform=webDefaultTransform&version=2L1BNLN2c_3D6W8tW5Fy2tp1qcH6ja..",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-6.jpg?named-transform=webDefaultTransform&version=znOsC.S9X44Og.tzJK6R8ls1kVFwpUzJ",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-7.jpg?named-transform=webHeroTransform&version=6OpsgD66KdNjqwsZwO4gVDwLpPJHTjLk",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-8.jpg?named-transform=webHeroTransform&version=5hgFXrkvmJQ6HS6YbXh0xxuvb_DuVJET",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-9.jpg?named-transform=webHeroTransform&version=ESduZhaaefR9LR1aP75ql_5mE_3.vX1.",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-10.jpg?named-transform=webHeroTransform&version=I2ov5jsaAWfm31nmkSyhJJhIxKE6mX0j",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-11.jpg?named-transform=webHeroTransform&version=JEFy6ZJkm1430zlRdZTrGON6kSI5n6Nr",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-12.jpg?named-transform=webHeroTransform&version=V2YnETjzDeqXWToqRWZQ1E_FbAI7y32O",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-13.jpg?named-transform=webHeroTransform&version=4zE5CVU6YsiOkQuiNNAePBVqlXwA_Bjs",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-14.jpg?named-transform=webHeroTransform&version=l_SJb3APY8Gukf65yealCfCYRqFGexGB",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-15.jpg?named-transform=webHeroTransform&version=noFNuzYe4fQVwiYO52oSbkQ86iWGds8l",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-16.jpg?named-transform=webHeroTransform&version=Q04DJSPIPgNopUwsJawMI6DXDAZ92Yri",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-17.jpg?named-transform=webHeroTransform&version=NrGbvB4_BjsFLZ6hmLRl.bAmkNvnTreh",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-18.jpg?named-transform=webHeroTransform&version=kzUfSW10z4NjvTOs4f6SQjSLogA5sza6",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-19.jpg?named-transform=webHeroTransform&version=nmZZNRoWZ0CXT.tUIK4XBOxt7wHv4TJA",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-20.jpg?named-transform=webHeroTransform&version=c2XoxPlQts9mLgv58X_TaeZocd09brLv",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-21.jpg?named-transform=webHeroTransform&version=2lFG3wuyz4DtZchS0DD_2lmLeU9RZUyb",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-22.jpg?named-transform=webHeroTransform&version=O..Nnj7KNw6YU1wTJW92usa0rdGcsE1g",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-23.jpg?named-transform=webHeroTransform&version=Z5p2ItfEps91dHhKqArwr8K9Vnw8s.Vr",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-24.jpg?named-transform=webHeroTransform&version=pVE3ftmD30ugnoqg0Hi.tl63L_hT2Ajw",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12954678-25.jpg?named-transform=webHeroTransform&version=cBU4MHUp7jpPhDMFFJM9lMlK9jg4rIXX"
+    ],
     listingUrl: "https://www.homely.com.au/homes/2-146-oceanic-drive-warana-qld-4575/12954678",
     investmentStar: true,
     investmentAnnualGrowth5Yr: "15.75%",
@@ -3819,6 +7107,45 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely/realestate.com.au apartment listing for Tingira, a boutique Warana development advertised as moments from the shoreline and coastal walks. Price advertised as starting from $1,265,000; apartment land size set to null.",
     image: "https://www.homely.com.au/img-variant/l-Rex-11706215-1.jpg?version=638474585772970000&named-transform=webDefaultTransform",
+    images: [
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-1.jpg?named-transform=webDefaultTransform&version=JA0dWahEozpBUWSic7C6JhZo0ei6jjxJ",
+      "https://www.homely.com.au/img-variant/fp-Rex-11706215-1.jpg?named-transform=webDefaultTransform&version=n_S7EydgZmYXeOpExdYWUaBbPpzU4Ktv",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-2.jpg?named-transform=webDefaultTransform&version=jOiF.ymZvyG6aw9XUoEtyBinf7dy1fJ3",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-3.jpg?named-transform=webDefaultTransform&version=jjZxi1.y5V3MIiiB3InX2tfYeeddDuPs",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-4.jpg?named-transform=webDefaultTransform&version=jmwqc_4734UQRQaKMy9_IsBdm_gKEAMH",
+      "https://www.homely.com.au/img-variant/fp-Rex-11706215-2.jpg?named-transform=webHeroTransform&version=b7MPzUFxBKIuyOtgMD4uCswyvYMC0YQl",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-5.jpg?named-transform=webDefaultTransform&version=wW2RfG1ct6wZW0YML3CeEEtg1u6rHau0",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-6.jpg?named-transform=webDefaultTransform&version=SnNFimaoGPl_DpkQ_pn5tP9XxrNjEm3g",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-7.jpg?named-transform=webHeroTransform&version=3qpwQZgj1TSQhxphdiP1_Fjz.Eemv3d6",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-8.jpg?named-transform=webHeroTransform&version=3O.oA1USl3UvMCzY_XOPrPvZK2ltTfe5",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-9.jpg?named-transform=webHeroTransform&version=E401AXcLV2VRUMSdsjfnV2Q7T_H8AJNT",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-10.jpg?named-transform=webHeroTransform&version=9YFZpSNzkxNUe52W2vx0o3FbzRZiF1_5",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-11.jpg?named-transform=webHeroTransform&version=p3JWcP9Hg1IBH.jtT3DTh1cinSm4U46V",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-12.jpg?named-transform=webHeroTransform&version=4gPAy8cN._N7ezMPOZVKAuZMwd_bXJVR",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-13.jpg?named-transform=webHeroTransform&version=YMUCBBlhkH9zsWKf.QsQs_JugmbAZRmt",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-14.jpg?named-transform=webHeroTransform&version=_Vs8QACcVC5J50pVyyPRwA1EjhX3or8F",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-15.jpg?named-transform=webHeroTransform&version=y59G6ByVqnVYUbR6xhLBVm3cLunuCmR.",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-16.jpg?named-transform=webHeroTransform&version=3Y.CgLWcB33Xxx34jrxlIekJyc9ccmmh",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-17.jpg?named-transform=webHeroTransform&version=M1Q6WV.YoDLkjZ07JU5sESkAOVmwfmwA",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-18.jpg?named-transform=webHeroTransform&version=EdLFNJTphLeoTxVs.29YUmobr52NgbJ4",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-19.jpg?named-transform=webHeroTransform&version=HKw6BvDnQGhf5zqxF0YAhATqHaLQ7YpC",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-20.jpg?named-transform=webHeroTransform&version=5hCN.KfMpG4TJVt9XTfGz_eKbF1Nm34V",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-21.jpg?named-transform=webHeroTransform&version=q7WU74RQqNsaFHzvNhUNh4XpA0BhD35B",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-22.jpg?named-transform=webHeroTransform&version=frr_EmFuCXS2BcUVf8RaxJsTMnTx96tO",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-23.jpg?named-transform=webHeroTransform&version=.BAobWNp_HokXd3qylT7lTnTm0FS5dYC",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-24.jpg?named-transform=webHeroTransform&version=KHI9p4ceOpnbKvS2zZ70iVaxiEDyCxWa",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-25.jpg?named-transform=webHeroTransform&version=C.YhrZ2sTUOx6yy5HqYEq9Y3mfU_uL3r",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-26.jpg?named-transform=webHeroTransform&version=C5gsvV6g1umZyuApnYG7_Di1L7O8EFmK",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-27.jpg?named-transform=webHeroTransform&version=9y4ZF0TuAB82SypMEXuDuh.OiR5Jmekw",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-28.jpg?named-transform=webHeroTransform&version=n9xMBUhuMFI3jo.iuS05INYJtFF_q6_R",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-29.jpg?named-transform=webHeroTransform&version=qg02Y84GEcrQn3bAlsUuplo.Fwj.UxIS",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-30.jpg?named-transform=webHeroTransform&version=PZw6zKiycxzniLSH9mFwWeaFutYrUl_.",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-31.jpg?named-transform=webHeroTransform&version=WqsyT6n5IENd08q3vZB6Ilev5iPty1pf",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-32.jpg?named-transform=webHeroTransform&version=GrepTw1aORtC1N43c82vUt98pjb9ezmy",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-33.jpg?named-transform=webHeroTransform&version=zKw6M5EYF8oyJCyR6v7cBaU1XuITgi2N",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-34.jpg?named-transform=webHeroTransform&version=ueQJ_sle9DKr6FJh6QwH2WF1iNvrE4aj",
+      "https://www.homely.com.au/img-variant/l-Rex-11706215-35.jpg?named-transform=webHeroTransform&version=4xkeoikIq8zMdDmJX0Pd92EfHeDxFVb4"
+    ],
     listingUrl: "https://www.homely.com.au/homes/7-palkana-drive-warana-qld-4575/11706215",
     investmentStar: false
   },
@@ -3839,6 +7166,34 @@ const sampleProperties = [
     status: "active",
     notes: "Beachside home opposite national park and about 50 metres to direct beach access. Auction listing without price guide.",
     image: "https://i2.au.reastatic.net/800x600/98c2824688e4512058e09ab09aa9249481a304f388364c865820e5c5915a6a91/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/98c2824688e4512058e09ab09aa9249481a304f388364c865820e5c5915a6a91/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8fee4e45b0b897e8b4691931da71414b11f69524b8f05763f1c3970a4507906/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a30c00b3a7dfbe8b48e2850aa2c65d6c8a0bae6462252c6f2a0249aff57e466/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1bd0e24fbea66582b5db5d43182b77c604459942eeb6373aea91aec41bad5c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/414d386db92a1bdc126d0758e520faa9268f25590899c9c48208f2ed238b9d53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6136d203db588623f38c4b1696da46a42bee31b0fd5960344b049a716baf6a98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aab17de71e48956f0d09e6d3e0f58f2eb2383c4dfc245bddcf8b5dcf9318f214/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ef93279ae4b9606b68f4a0e31fb77ca857aea6e8c8421c79ec18b781b0c24c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5e6f16688006e6f83849096630dc58d1ee5cd9e25e21094e70ee01f97684c4d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e6fdc7beb9492dd251e4534925a3a2e75d52cf8887df6c3f533a5cdbc6b0c7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/220205b3fb8d89fb3e52a60727b545f06e154b88cdbf9306b4a7379a3d5159cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1096da95a0071cb7f45a2d65ad08effee29e497a6b338a389e88bb5e7df8086b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15cf76d76689fd9ae75f5b53974ae2fc6c07e50deec19e9586a8f8e867cf1edb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb4c8a968ee90fc85d76e1959bb2acbbb18cd095640e6713c1e29c4133f250e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64ea459a6987a0ec7931e6cd00b53c5a7f0e3a53508462df0f1c8d7385172e9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/538ba3817cea6965e0a958b794f6bc0bbfdbe67fa47c0f042c28388a9b24bc20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d1116a0e3ee595ffc363a0aa0a8bbf21d754f0cb721944e9ab38f2f62ec9684/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f42de04c60ecae2cf064d8552892937e8ac665e9ca6f8ad0705591e9b9cc0e3d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7164d5c22525d702a4d06d21dbede34827836a565a04ed299f5de7fc7998958a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c10a7741d6c20d306afd6ef45b9daf8cd71831a5e358fb19aa903b96b15c1f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/232801056bd31ba973b7c755d6958f665a9cc862b6268dde95ad6ca56f31f94e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/87c2517576648ace6b756c875a64d70c1e893deefd2105a7e296e4d745587e89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b80fe584c54d324c2901ad598567c385c22cc3b50dfd35bf71237649fe252183/image.jpg",
+      "https://i2.au.reastatic.net/800x600/450196e02785235e8636f9d7b20414e728882077d8fca7e4170d46868f7e5292/image.jpg",
+      "https://i2.au.reastatic.net/800x600/348c70f5a82b065615cfac2ca90c1b76dd55d07a8486f11e68c7f6e94a340696/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f63f7584b9b27f09aaff69f51d4471db2615ae7cbf89ccd29dd10d2aaa43aa71/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150924304"
   },
   {
@@ -3858,6 +7213,31 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront block with no roads to cross, beach access through the reserve and elevated ocean outlooks. Price is the advertised offers-over figure.",
     image: "https://i2.au.reastatic.net/800x600/5d8d1854c74bfd3becce5a0999572a2bb4080295c5baa4524bd386c5b32edafb/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/5d8d1854c74bfd3becce5a0999572a2bb4080295c5baa4524bd386c5b32edafb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a00a0699a1c3feae400af7ebfbb8d5f81496cf431656377617fc74d0ffb1245f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f146e9655fdcfbbb2a24c5ace47c0c5a2feb7ece6fcf4c986c7bc0771ba1b0a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1398cc1ef1a19e5446a9d23c7752440fa9feaad0003d9170d6fc32216869c2a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7eec81fca9bcd3fed005b4e398e956f70b6dc827a09d168a725507487e3bf993/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12d6b2ddc38232ae971a0a9777769c653d464901b03cecaa80a90571b28b7718/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0025f05d15701cd89018716b33c0251ea1217a201feaa57a809c3470cbb73739/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7ada67ab797d5bc590607259aa90cdbe0157aa36002565be0327873e1db7eb5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ecac7783920aba1c8ba24a7a820c15110bfc3c5a23489420cb75a49dbaf9d42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff221706bcceaf81f585bfa760f04010eb08c32227a3fe688f4b9b745527ef4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5afbf3cebce708efc2c6c178a10907cc2a00aeb224dbf38482371975f8095c09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f90acd4c1cc33c30c1ebd05518fea649806d194235113dcf0e9ba4b3b09b017/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f5d2f36e049c99dcadf3622ebd81f95b499211d8e637bb964a64fd915ef5288/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6092e9e8f6b28991fd1b1255e965faaa5b9c634dd7da0020a524c4352af7d1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ccb95901bc740ce233935b2d601a6abea531c74c0c109cb0b15c3501bef8edc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5a0d9c9d5f42c62a487688018223e8ae2a0479e9db184fda6724ccd1f4c4983/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99e071e01c2da08daa611d41ff1283ceb26b46894df84f3eed8e285eb5234147/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d622b0733081d52faa9f59a0a87f86d9f3fe0615395e4da7c2d28daea486ae0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ad58dc72ecd8a0dcae469c6377c88ece2a4522fac8c0e7faf2988dca8006c9d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59a21ebfadd2b71a0e149a1a17f4e34a61205e279055feadc88149e9b1a0592a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdcc869561ef030832cd1ef7817936e882567921fb40e7404e493fa2d8abeedb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d17502c05fca196efba84e7035d300ce3e284e644d5c2d9f317e3f4d5670bd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94d813ef736a0d698bb4f8c390527e910e21c0b07086cb523c7f2f7fe701dfb5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150682488"
   },
   {
@@ -3876,6 +7256,29 @@ const sampleProperties = [
     status: "active",
     notes: "Newly completed Tim Ditchfield-designed absolute beachfront home with 180-degree ocean views and terraces opening toward the dunes. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/9a48d79deb795fa61fd66f65170bc1dae4aae79f907df4bc1d80029a0297006a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/9a48d79deb795fa61fd66f65170bc1dae4aae79f907df4bc1d80029a0297006a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/138fcd591ab929552ba4fc507e40ca4689162a5f392b27085f4c966b9c5051cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c626ffde67fd14c52d6d927b2385deb3e2a1d6fc7e99021d2c0c3dc91cf0987/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e4fa3a43f3575c7dae85c6734009f78f48a0db77416b3d9a8cec1762be9e975d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/413963ac8676e9cfbccb4b950d3e34865aa1a806781be5f7ddc10761ed376ff9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74b70c0c48fe5592fccba9127028800b5420997a4da2ab936c9c4ef1b232b292/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f3f5aeb59dac360f4f37f48ffe13e2521cec1926172e37a76538d84534856f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b6cfce29f0bb6ce569d85cc8e8bc0e7cb3b3504c4453245fadcaccea45e986d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2802fca269238b37e12641ead919809414d7fcfee0059ecbd714ab81f954c458/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0bb6f9ac72cafb2ece7e7aefda910f52ece3a4fb92453424525b0e34d8718e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6dfc7bf03d435c6558b2cfec2102f9383889fe1b5edcc4975248f654e9bf1fe5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afa0c7bd0950f392501336d139d99a47f4ce31ad56d14fb3dc8c22367b46c819/image.jpg",
+      "https://i2.au.reastatic.net/800x600/578b0ad64169193a06f3492f271b089ff04c3aff388ab7a77c2fa92a57cc6f55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ebe16da7538915b5ddb46bf36c3afd1eeb07ac46f0119fcd387369717ccbf85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df1e1613841a1673097971d38b6dffc2ad8f3b1a9449b20cc9cea245d84866e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7c2dd44142c3910cbcb48d1719605e49ef90e3a141e8a63de1f0dc5e84794bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a5f205ec04eca800c54369a9887cc401aae53a4343255a63d852e64e974365f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d874b4f8ba5d59e30a682891a80847e0b3fc651cad284bb8ac7a3bca108ff8dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f24bbbe85c0119a216094d740bc00b22f468acbd4231a911aceebd67087f489f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08d543ffad1dd4898ef620cd30e2f0d83f7e7574ab2507e97372e86bbb3bd47f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2a5b41d4ec680775d21c7b5b0818e030880a0f6e3970d0df38b1fe2109d6ff7/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-149169200"
   },
   {
@@ -3894,6 +7297,32 @@ const sampleProperties = [
     status: "active",
     notes: "Prestige 2023 build directly opposite the beachfront dunes with beach access across Tristania Drive. Price is the midpoint of the advertised guide.",
     image: "https://i2.au.reastatic.net/800x600/9c0bf6d437ca13b6de8457f5af47495bede41328d6dc4d61e541944468bd1ed3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/9c0bf6d437ca13b6de8457f5af47495bede41328d6dc4d61e541944468bd1ed3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/618eda74943d8133cd3c862a1c18cf7a81dda37095594c092f245b35c208fa93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/245b1b2421dbbd5b36b7b616ceff49d2c16c88b3f5c648956f360748b446db84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e74652b2ad2eac5a02f1b383f3932b67fa3c2b64066f877e93c738b54ec1847/image.jpg",
+      "https://i2.au.reastatic.net/800x600/943351e9c01bd751716b75899719d0322c0acbeb840d2c1231f3d73bbe0fd255/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5651fd98240f5c90be231fe54b9732ecfbf348cc77e2ee4203b9ede58449dba7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37de102aff39d26609902d3d9870928dba19843d730f6c3422aff13b21b264d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/393341387529aab2d7ec599ea5a13cb375111669f7d8650c71aa32450e085eed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fcbd8826a60711681529ec110064b3a3a7b871aab4d0238a78d99ce0a8fbb77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ad7ba229d4539621b85e4c38441ca4afd994c1241f6075f738f8c0af2cbbd39/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e482a07523afd76636a2c5ba32dde7e03cbd2890cf9d684421ce548ebf96d695/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3b3cbd87b9d7b255b3db22b9b10ca9281703569ec51c5599f9e0793beac96f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/34800579af5177d38727a96931b18d1aae5f3db9b2a95419d8ba9a95f5206c71/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a43d0896be5d84519f478209af936a5f534fb844c2b1a4f31e0095fe0435b2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78362cab3a6d88dd5a0266ca3e5b8a65dbf82634ac4e1598bd64d4c5dc5672c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cdc67e57720adec0a97a59adac6dce9bec200cdddfef11223442eca24453a74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2a787d435e442cef79b6dfff0efd4efcaff4b828f60c2f59eeb0ffa6be2a41f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bade7899c456cf1b85661d621a99bc73b4575d0b9051eb939a8f60678bf9bacc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1438c1640c996c7f94e72c5d743bdfff77dc537705af13c7a749ff2b548c09e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c5613ebfad267fc191046b7ec239070c577eb086ad4c2875cb209ac549286c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93fb0e984fcac4f947ec2d33e1917f81728e6e9377cad736fbe68c2eb335a492/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de09935816c5d4e0306eb46b52e501d1338b89cf9cea4c138ce9202f17e1ea52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7457122696e20a1645fe8683f11d6d69431996b99b3bf578565fc9029e470e3c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e684340c5e7fd2b2155b7698731dbd203a94d20a76385f558de73d06e1127dd7/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-150574912"
   },
   {
@@ -3912,6 +7341,22 @@ const sampleProperties = [
     status: "active",
     notes: "John Mainwaring-designed Tristania Drive beach house advertised as 100 metres from direct beach access and two minutes to the sand. Price advertised as by negotiation.",
     image: "https://i2.au.reastatic.net/800x600/17f6e12c8b70c16f8f9d064a75baa845cd2751e457a0e6eb809ea8959077eebe/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/17f6e12c8b70c16f8f9d064a75baa845cd2751e457a0e6eb809ea8959077eebe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba5c880b7f28c0026f271e43a2884c9166753f7cc959ef0fabece74a246a8498/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38876d1d0507701542e91575e3fea546e2a98b755d494b5c1e1a644c81f5ce9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fb837ab1fb51753268128d2b28f480004c6795302bcc655a3495546b89c8e98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74a447e2dda309ec9639bfaa16dbf77fad65a9f4fc5b7952904d74dc178c799a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/394467c099cdce3fbf080a1c4ca3027ad8d7860377d2c0eba476d2c12a229606/image.jpg",
+      "https://i2.au.reastatic.net/800x600/084b970837b64ef22cc0276ff42521e761db8c7f8c8d9c808ff24fd2c6da4e51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92434aadf4e80a8af844803890ef4bdd00ecb2fd6970a970cbe6948ba3ba9b5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72de00b2bf1d61535061f13b86cb29d4c64037442eb1390d8f256f3121c3c842/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9063b2b62cbbebe2a16771fa985ada101421d327c6dea1c7068547c78ef5680e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48c096090c3114e828aea6ca3877122fabb694e3845c1d7c88b6a859a86b895d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ab599988a1a47504897852f23eb08e096a601ff51c44200e391e80a760932eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0dfc0a133a68949ed47533f8d3b49ffec0589396729689fdc9774deb7174b70e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c642fc9f468717f778c27ca62f17a13d130f6cc4daf32e06f27046355456771/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-marcus%2Bbeach-146446536"
   },
   {
@@ -3930,6 +7375,13 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised opposite protected beachfront reserve with sweeping ocean views and Marcus Beach 120 metres away via a private access gate. Price advertised as over $5.8m.",
     image: "https://rimh2.domainstatic.com.au/Hp8R35WAlw0Q5WrhXIVhanURhII%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020729861_24_1_260402_012724-w4134-h2756",
+    images: [
+      "https://rimh2.domainstatic.com.au/AQdX8pwDrnt3kgeRD1KxZvK01Mc=/1680x720/filters:format(webp):quality(85)/2020729861_3_1_260402_012724-w4134-h2756",
+      "https://rimh2.domainstatic.com.au/kOlUcM7Gfafh9ZGCD5i0wlUxgEo=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020729861_25_3_260504_015234-w1200-h1200",
+      "https://rimh2.domainstatic.com.au/MYOuFDXItuLABo7sjzktXTbXx2U=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020729861_24_1_260402_012724-w4134-h2756",
+      "https://rimh2.domainstatic.com.au/JGmTv8pgAQhj-GyVhebRBzE5lrg=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020729861_1_1_260402_012724-w4134-h2756",
+      "https://rimh2.domainstatic.com.au/K2sXY2oyo71u9xoq0kOXtKnQ4lk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020729861_3_1_260402_012724-w4134-h2756"
+    ],
     listingUrl: "https://www.domain.com.au/16-royena-place-marcus-beach-qld-4573-2020729861"
   },
   {
@@ -3950,6 +7402,40 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing in an exclusive coastal enclave advertised as just steps from the sand, with panoramic Pacific Ocean views and moments to Marcus Beach. Price advertised as FOR SALE.",
     image: "https://www.homely.com.au/img-variant/l-Eagle-13017170-1.jpg?named-transform=webHeroTransform&version=gYlK589ft.5lEX6d6V0uJjzbKLTvkjIb",
+    images: [
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-1.jpg?named-transform=webDefaultTransform&version=iAyzwRBNeRdvW.YSd0ZYg3rBAIf0S8IQ",
+      "https://www.homely.com.au/img-variant/fp-Eagle-13017170-1.jpg?named-transform=webDefaultTransform&version=tsx_ObQEY0UkYB.d1dArvbjZuJ4oY0eo",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-2.jpg?named-transform=webDefaultTransform&version=_KUCpYU6VZW.MHid3xIba6vPCFWyJIBg",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-3.jpg?named-transform=webDefaultTransform&version=Nz85QgVWkGRCdjO9BtnRbkH2UyP0ZmHn",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-4.jpg?named-transform=webDefaultTransform&version=9PJIfZQUDFWgPBgg1hCNREyjB70Wedbt",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-5.jpg?named-transform=webDefaultTransform&version=kJn.GCx3AR1xOnKWZSGcHtRX6qYMTX3D",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-6.jpg?named-transform=webDefaultTransform&version=SdGOXtnu30fSQ9MwQsMVqk2zTJ_qFjdJ",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-7.jpg?named-transform=webHeroTransform&version=E4X0N37igUmDPSVJheJL0cXXUVX7c97X",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-8.jpg?named-transform=webHeroTransform&version=IgLZE793StzkdUhbwvm0RFPRjZ2knpNr",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-9.jpg?named-transform=webHeroTransform&version=JLnOpqaEGlvefEw09_.Xi6M8ALxVPgAm",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-10.jpg?named-transform=webHeroTransform&version=hU_kFsOosLrGRRiFJh1tiER.A5Ky7eUI",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-11.jpg?named-transform=webHeroTransform&version=_fkU78TMiAea6nliRg5pLnTRdyEPVa_V",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-12.jpg?named-transform=webHeroTransform&version=oKeQ8ftPHZetNkAir3ui8P.EoiW2JPa5",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-13.jpg?named-transform=webHeroTransform&version=ctVQREP8.dy0sBtkpGnM81N0Qs9mPdPS",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-14.jpg?named-transform=webHeroTransform&version=fF5P8k5VqsTJPwBUxyJby.5BZ_aGiGXq",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-15.jpg?named-transform=webHeroTransform&version=BDnmWn_KnnO1o6ogZ6A3FuMjnNknKDzK",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-16.jpg?named-transform=webHeroTransform&version=WRNjaGp68CeCrA78SC0a.j9riL.YrJGL",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-17.jpg?named-transform=webHeroTransform&version=X2u2YwEK.1o.ovte9SusRiwoNo1kITOn",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-18.jpg?named-transform=webHeroTransform&version=uVhxY.39WFE2KOQJfG3hHNYYwnbL5YC1",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-19.jpg?named-transform=webHeroTransform&version=CQ50eNBQdLJ6a7s6bfwzLIP9fFSLXvRH",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-20.jpg?named-transform=webHeroTransform&version=8tfh9CbkX1OLO_19DiOfBqXjQw3gJ.0j",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-21.jpg?named-transform=webHeroTransform&version=6TItGAuvhD0IMVzHmz.gmyi1Oh8xY52u",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-22.jpg?named-transform=webHeroTransform&version=QNp0t8V6IXFhUGMKF0iznuv4KOGf2i.x",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-23.jpg?named-transform=webHeroTransform&version=.f04Owtf1W8m0JxiTDhsfw2c2tT0PJ.d",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-24.jpg?named-transform=webHeroTransform&version=V.5EQl0Z1aBBcGbF_p6lL0._J5VqHacv",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-25.jpg?named-transform=webHeroTransform&version=BgV2lp74P4Sq_40.RZNEXjBoqkeUvwNn",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-26.jpg?named-transform=webHeroTransform&version=4wVVUKavP69yun7kvU7CcU.XQCHXjWhR",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-27.jpg?named-transform=webHeroTransform&version=9BwRJVT.PDDm6sMjTSWvIW5A1IHEDY4K",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-28.jpg?named-transform=webHeroTransform&version=q4T4n1ioOke_gx7Oy9hBbmTJNOz.NsE8",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-29.jpg?named-transform=webHeroTransform&version=en9LPCWZZGCpsaEEYo52KQEL099JleFe",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-30.jpg?named-transform=webHeroTransform&version=bZkcPJG.00a55skKCpsk7eSANX2hIowz",
+      "https://www.homely.com.au/img-variant/l-Eagle-13017170-31.jpg?named-transform=webHeroTransform&version=vsCLGVLyqWQ8Y45qTT9vn2sJW4snNxyi"
+    ],
     listingUrl: "https://www.homely.com.au/homes/3-ashwood-court-marcus-beach-qld-4573/13017170"
   },
   {
@@ -3969,6 +7455,26 @@ const sampleProperties = [
     status: "active",
     notes: "Foreshore home bordered by protected beach reserve with a path through tea trees to Balnarring Beach. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/554f81f0f56035631928e7042a3c8f0e831980aa4975dc24115f34b4b54840b4c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0720017d76d8fbfb906815cdcc90efcaed83f92b0c7b17888cc623bb1e457c6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/554f81f0f56035631928e7042a3c8f0e831980aa4975dc2415f34b4b54840b4c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9266581d273cbd281842ae8cf30fa05b2b81186122d25b2e2923dcdc6280fa6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4567db9802f754140500343c8bcc39b30c6fc478541f7b404c4edd0133f0f6ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9c3f5ef7582d64129a2d887cf0cc25045f036c0416c14602f34e6f4f1810017/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b26ae8a9e726a67dc60ef51bdbe2cec57e407727a9762db206f5b3697c65ce3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd16c85a2e9e52104b726f6e39a6fc5dc61504cff0fced14d0ba003300cedeb2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c1c3028ae038c9adeec4d0b7dbadc6362cd6ae23f5c237aa4c37f33a891e668/image.jpg",
+      "https://i2.au.reastatic.net/800x600/896753e6defa742a6eb95fe7413da8b9e8d160a48a9e2f04c5b45db934b7d74a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ad3b50d9dd54c7644e9c68800cba4d382e83454b226001d8564bb6164dd67df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a785effd7082a6fa362755d6d5f5d1064aa5b7f1bd7f63fe06162587aa66315c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/058dd744d31ffa764da9d4b171613d5e27fae85a8c3168cf095c96e8d83808c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/570504ef1cb1e589e4e6aeedca52f426ad4e8b2f0a08bf7046036b7d43998f93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12d742eec8d553530549bab17d05b024432ed5d6057547ab13ed1c7288859210/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6323c6892d4fd88c04624bcfcc0a60cc9a4dd2a5bb459362c6759cef279200a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b37ed43b8497a59d0dcb328e388f62e0957ceea5e29637aabbddacbc5850c49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59ec69a44486c183580cd0fc99212945658294658ebede5086f5241d02a4f3c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8beb0bd82fcdae81bbb77f69af2486c1f17d2a12746de96bfa6ccce8134da567/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-150664124"
   },
   {
@@ -3987,6 +7493,40 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an absolute beachfront Balnarring Beach holding on sandy dunes, with direct beach frontage, uninterrupted Western Port views and approved Moloney Architects plans. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/eb9e53f7b38b8e3bdc8bf0c588ad1da1f158db45824eebdc9a184132aff24f22/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d0f25eb5a24c08125bd4c76fe93f24f5d3fc8615bb255ceab7b234d14f7a34a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79d451556ffe9e76b464a5bdbfe4648efbe4a6b72262fb8bc05d7ec6fc5308b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6797f5bf353d40cfb0428496cb9d8bfd4fb8d2a635931402a8a66dae89c2a804/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb9e53f7b38b8e3bdc8bf0c588ad1da1f158db45824eebdc9a184132aff24f22/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33a8a81ebdc723fb0f99f3fc6ee066225cb938e7d87e3a647954bbba2e324708/image.jpg",
+      "https://i2.au.reastatic.net/800x600/affe3ab5b2c3100f5bd08310cde63ec25f146959512cbd563715bb392fde4caf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/070b6aeba5b97f66ac3574ef20cd63e52b1ee173560f6d83a587c0e4c7322e08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0c85d39b2827673f44367912f04b5029c7e9b4ce441213c28018ec7ad6ce64d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aca61f50533e4ab87fa190902afd185681f50b3ae503bf9a1f71e1538f8d9bc4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54471821ec9b0ff0d18e9dc0910f5ac3b93ac3e395174b192029ae1c15481076/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a82c9ecdb7052f05c464603318f2cb6ee2fd76c8928d9878f4ddd1c11925803/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc8773095036d9d8431b70a0a2649e1a676b96a574f70fc7c5e6bf6f1adfa735/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2c5ded2769b134c969ef725978e8b305d137a05d9c4ec67986d3b55ad08430f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8245b569459587ac399f747dbf30aa22e99e7e1326b8061e609f1636719352e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/285a410488d4a8e8d474a2b46890ee521d1d03b73fb4385e5b95795e3072bbb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/018c8bc8243b292a869fb93d250d962f55191f4570d98ab03880bc6767bf8673/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae8fc0206e467263968e01135c5f7e86bdcb2bc4bacb252bc2c4c73d52315ff2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9f2498fd644dd84fdb06a46d3b9ff13536e65a9c9894de859de09a4c7ad3ab40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2316be408bdfe118128dedb7ec726176461c2754acfd693c1857662b69787d80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f862014a57f36f18586c27269918ef3bd9f8263d084289d5ad24bd7054913980/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d27e10e69a10200b3134e5ba2a8e0dc88b962f7f5ae3c53e096e01f8014b9bc9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0443f7290f28ece5ff6b145dfe2cf8bafb1692a61800b0fcc96a968db36513db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a56b71612e39b334fbedb06b26c2a6bcbf92de39cd5a20de38c3e267d0cbd078/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6969e68a2ade5e9a4b7d116842d2dacd170a2281cb2f981b1495533de0484ea3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa88f09a352a578492fb1f0c9b33977c7c76f2d39a83bb8dcbc2e1cba64d7efd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/17c848febd596c9807ec7b80f1a372333dfb1df96b5b726dbe8b5599f366cbc8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84e1d7a83d8f6b3b48cb17608d93c8493ac4259007e40635b74940e87f75f381/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acfed7fd9105cc58565fa907e0060fbe56462ac55f7d4ce6d65d0929890bc276/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a16d2097b243dde7eae9454b6deb7a3aaf29e4c33b027affec915e471fd5abf5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/208952eb6e74103bbe189b18fac9ef01b446919a7ffa2a41f8aa85b162af3970/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43a04bf2b97b1cd480686574daa9d87e256b37bac9941da29cb8a8b79836aa47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfc40cec57dbde13be44947fe5024a896d5cdce69f496012a858a06da8869f20/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-149570108",
     investmentStar: false
   },
@@ -4006,6 +7546,21 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with a back gate leading straight to the pristine shoreline, steps from the sand, dual frontage and a 1,013sqm flat allotment. Price is advertised as private sale at $1,500,000.",
     image: "https://i2.au.reastatic.net/800x600/da35f4b9ea427afa26692ab201b031e79cf87b97040659cb196ae684e5efc252/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b5f24996dde0df962e1ad4f3adb2f6e07aec6f7a833265f77366000c6649a1f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da35f4b9ea427afa26692ab201b031e79cf87b97040659cb196ae684e5efc252/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed801322603610d2ab7fbf95b7ebf7eb74c57ca6b027c46c9561b70d45c05954/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5126a66cc2bb9fc4f092e5e1e7f6ca26a70c99b8a119f98c455605f56f1ff2e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa0bbdc670cf74bb2260f56488342b6c0ce5bb88d3f9c512b5a048dddd369520/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1311c44815f24d513a2d78689ea6393b941e4311ff52cf4c81ba0ef1392cea67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f3ee6bebde0e10992b922f5cab786a210ad7af1c162ed004c1018b5238d0c613/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4268378a4f49e3e76e1c0155d1ea6b60972b8ece21762b6e0b7aec3703a3e070/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2736fdbc26ac7f72533000f7ac3edd2e19268221382f64f1d0144de588a11f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e942af914d928d0f36e3f32cfab7ed478fdf68dec3e94663df40d255c79a4675/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0ab66bd1dfbc6991b043fbb829e319f1f74a951f36830a92cfa33e7581b2459/image.jpg",
+      "https://i2.au.reastatic.net/800x600/abc44612432558c483f8482fba2409f468bc3a5fe3f02b551f3e455e3ee88584/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77d4b1d5d444c9156d11007bc1e7f943a975772b09c2a8a87d8cd97a8735c590/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-145031000",
     investmentStar: false
   },
@@ -4025,6 +7580,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised with sweeping Western Port views and direct beach access within 100m from the Seawind Road garage entry, plus multiple seaview terraces, pool and spa. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/cf3b1d690b390d0d2c5a58c14db1de1779c5c1b1534ce0fa69767d8bbb73c5ed/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/cf3b1d690b390d0d2c5a58c14db1de1779c5c1b1534ce0fa69767d8bbb73c5ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fdf2724917b26c5618457994fee0b3aebd73b3b1170ef41e947bbeadbf4fd9ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11960d0e5fb021a783ff73136726eddaabbd1b00e2c32b4de59c7fd1ed4db4a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d500d722a51d9d55ce6cab06ef0564922ea98bd96f6adb72318d4d6e7874dcf8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c4112bf1a647ed2fdda5eec940e736a3720df50c6d0c832a2a2aa8fce16ce73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff76c77a16cdbc0114c6b35ba776b573c194b2ee749ab6299b69492f3826b3cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/235ae3776b1b746e64ad19ec7da7b75dd6eb5f4f2f4de580e00c8a91bf63411c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae65839199fb441e2da4fd9f40c89e5097775b8d33909b255ade52899edba116/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed5baa78502ade1f74caa1a84939fca407ad76d39798b318fd6a90cce2b936e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0d5f9d5dd38dd2ab4a0dff5e8975f566ea1a91b533564f8ea7e1d1ff138b250/image.jpg",
+      "https://i2.au.reastatic.net/800x600/753d4b7e04df7c1dd9ebbfc1e1eebc5cbf1784c089e89b3c4fad10f91c9c4e76/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94371ba43d4e1342a06e1f7320291859a1601e259d058142795eec87120ed9fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b1e2c7766bf53bb8ab523a5992dae283604a7c7b6797f585e14fd8fc07e157b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef943119a6a058b91d5e171c77025c35d0fa2df4664881dba8a731a3fbc34de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a745e5a94bced739ae47663a104e1d7d20b09868a9460d5585ed5b257c70d1e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf1a4bb3921925b3a4ee1907528b6557f264766a041d7c8cc2a2e48f6c453a18/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19a10a1da53cec00b9b4f364fb15bf7721cd36607d553a3579fe7f5dc4af82ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/170a1a7a54f3361e400c744bc7a9c23b6ba0e369c2dfa0bf222c2a23c3fca78e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0213d9bcb466e5a09f108669d4ae8e374d7f71036a6ae5e840473f7920df0d5c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-149240916",
     investmentStar: false
   },
@@ -4063,6 +7639,38 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Northcliffe Residences apartment with direct beach access and ocean-view Beach Club. Price advertised as contact agent.",
     image: "https://www.realestate.com.au/property-image/150609700/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/bc3d04b498cb56eefacfec8c406579ed9fa9723ef884aade1f76408a887278f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d7fcc5d59fb4273e2fd50fc40f8f346fe3b51c64bff5cec743f9f197f864b68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc4d61e1198781aa524f9ad8799189b350a532e7ca029642a8d4202bed51779c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fccb8af2ae09bfcc710371370bef35284e2120fbf66d64a7dba9a60a8bb51b36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/577d1e3f7ae480ac0ac18ed338bba1bf4621ca786da66f1f1b9d7745d913fa5e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8422147188591822d13b34099679e9891de4952b535b5cbf435a7f8e26e849c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f40d1a8723c35cf029c3c85e0c4fe78f5a027d8a25aa2ce9da6dd31bfc412a49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31594815776470adcc81246c8bc14caf829c25709b19bff8ea7edfaf2bd106f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/264f16201f3ea8113d4d7a4b87a46e5e0a31b8734d7020ac0565c952456902c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec7d5ee440124be1b2f67f5b4a597ae82940612bb2b4096a00dcd40d5498caeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7a937ef9c66f9339c61567968ee1a4d7825e15d108df1bb88c2796406d38245/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8cd94d9838de44be6a90cfe89c3f6ad2edccb97538a09b5983aa8d61a4d85a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d9e1392c70334fed89389e4957f12f10945b4f91e3c99eeb1daf5891f1a5df0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2507d5ec4d67e1048a5d448ccc70e37905d99d5be64f9ede6175fc8e759effb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05a184f47a7f28541941e91c040e8bbfba0be7919d08ec02acac44103b804f20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88379c66f72dec5c0f31e4192b2415382a0095a0bdfb974b187d39ae395350cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dad7e4e5b301b5103012174b68a1530020563a364b4e0b1b690262009892e99f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5de3aa8f6378dfaf46eb53330533b6efc1f1eef5c01490bc7457c776cabed389/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c92bffdc8f791238bcfe5e534c7f1d249bcbe859f2fd4a32b0a1503ca68ff8e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33f7975df191e2e7964c05ac6a5536d668b4a89c35f0fd58758959ae736bfbe9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e388ceb1ce6b6d11b11103cc668650e953479721982293809c4f7bb06b40ce62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab66dcd58b3d8138835c0d5e2095950b30d92c48ebfee792786759e0e22ddc57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b3cf8d11fbb7adbc1a226c042deee7506d7ca87589b13830137902c3c40f837/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b110ab5bbea9070522b7bc51636a2f98e12328a82a71f23e535526dad2506f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2790cd32ec1de9d8ebd4f649cbf473c4acfcaaad30b09b6c753faf28073ea2a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98de7888253ecc3c630a5694143feb5f9030220388d7e390dbb22966a2dbdb60/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d2ee7ae1d5cd554aca8d27596c0568d8acd07bcb7941ee4c817c392fda475e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/784d053307b1a33faf4625690662ad2958e8b9511c6a9ce3a08bf74ca4fead4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02b3a7c8ec73c6351d8abc19c6b86769114dc9e46122aee9515cc1f3278de0c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4db527fc49d711ef4735f3d6dd6da671e8264585cacf47d41e45faf3933f0953/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150609700"
   },
   {
@@ -4081,6 +7689,40 @@ const sampleProperties = [
     status: "active",
     notes: "Architect-designed coastal residence metres from Vera View Beach with ocean views from nearly every room. Price advertised as offers.",
     image: "https://www.realestate.com.au/property-image/150648048/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3bce7ddd162c450900df3d796f64448bce1f60f80a7d38edd3402669741732a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d172bb3416176e9edcbff058ea4a3e7935fccd591814bbb15ee30ae017e3c46/image.png",
+      "https://i2.au.reastatic.net/800x600/5c226596cd5fed13677c37df884bfa7e7bf6d2b2922104bede3a2d00871a3b38/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4b924514b46d695694db0389605f1bc522d8b41e06d4b74eba3c3cec24a1f6e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99974ce2b25c05bf26a7769199352105bc0d9d0291769d1809cc0b29ffa8163a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a028b71aac926d85a7b4c2948cbdccc0fb5f66531dbee33526a3e4c5c03090fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bcbd6f073adb2117ec9ea091f2595ed760b6e75ff85e864cad7fadfe0e57c1f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e328288116b1a365407d1c0c95c52ccf83085ef646b8753ab25c45bb236a1ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c59fe4002934c1fa07c37423fb3dea31e79a14acf1b6128fe9f7b99653b41f03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3f4ccd36b0bdc4b1217695f0c8338977e1e8b1ed6961e537cff7e9165cc26a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eae5058089995ab59eeb7f2608ee76883c2ef901ff1bdc8d3e757f0f8cced9f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2511c7ec7084f25a59b4004e99905a6911c8237b67afb0b5f0bde2705db8d72f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9b8bc46a6aa1ed3e3124ab8f8a20cdb3181ba3b0b73686816e999273be83c29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7f42e4e468a1f1b3d49d861963074db343d18946a4443beebbdefaf9e973d16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf6b35bc34e24c2296eba4847c96be4bd1e650414f7281b0c39f16b39561d744/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c08893d312ef3b18f42fe5d8aca6955986ebd6394c3d6b0ede094bc9158f4f4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c921000e3619c240ce3138af6b4d1e31972dd2ff97c6ce8416e79980e9bee0da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6623d1bc048ef566028945cce4d004d4ccaae1b7e06317710dd236dda69d13a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2cf0338abd909b4c71ca9095fe3dd388720d4e15b152c9a87d01ac769fdea2a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cef743358a724bedad4878fba41b83a7131bd027e44e49fe4dd0b734c4a51bfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a761b2379d24669681868bac952e03cde0c1dbb94d0dac452b3db34352490e62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d3aa6451a8fafaac0da8b3800d325da32c8d226aabed9da613a8c7e7db90655/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b8cfc3c1f2fed819c2b0845cbe1284e2574e2abbdae811c067b952b13a3d93f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a066d58dc0606af1e9c3af0d71524dff1c3a78086cdc3096441c2b8b2755c63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/062b9e81be99c16cbb3a93d87563736940b6e61ed12065cce5fa2af402ebeff3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0bd497c641e4dc00996ed8b9b38e2505e18a6693bc691b2b8f878a4f734e758/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc10423288d4a9dfdda5f490cb5e5abd88aa667b87902e62e3aaa4a25a99df7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03bd218cdf793ce8824267f1de450bc43237ff0b49e875383d816ffdee3f484f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da911cec8aa5aa44ac3a8e689184aa2ad04d525ad0723a7b9fd2d11f288c1402/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba90ef0a372f1b2f9a7ef6863784e7b245a52caa72d048e85aa8b3eca5da7231/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf91d754400a38ac015bed8df2df16279d25cb7d3bdfcddc4190075ced95ac7c/image.png",
+      "https://i2.au.reastatic.net/800x600/131073b70028a6f8a3a9963cade245fe1e3a0543a6c4f67be48055bde1a9558a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-cottesloe-150648048"
   },
   {
@@ -4100,6 +7742,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active direct listing for The Glasshouse at 8/110 Marine Parade, described as on Cottesloe Main Beach with views over the beach, pylon, groyne and Indiana Tearooms. Price advertised as EOI.",
     image: "https://www.realestate.com.au/property-image/150906980/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ee1795b406b701f91d5bba8f0a219d4f97046a628a56828d781a754e4a02beb5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6ee2bdb820e55af730ddc71d26bcae07d278ab1e3887b2abfff7b61c17e7be1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12b782a4628c81b8db66f6684df487499e0ccae859cab7fe6f343bf2ce90c48a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e485e983bb42d981f2d1e723a28c49f0c5225795a2f52fce29738550023b5f88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6490902d13f99aa5483748fcda5fad369c76aba5a16fa24a92c6526e2ca1c45/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf8b7a8e5fbdf7658016228615a9f340d46bbff8d90a45d6d491c036e63f7dba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88de17e86a52f0d746f1af2c2250f8eac4c6b9287e4b589fdf1a557719afe0b4/image.png",
+      "https://i2.au.reastatic.net/800x600/5055e4b274f1c42d63cb4bbe91f0c6661631265f4ddb14ed9c22787f4d5b5b9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c34984b778b86572662df1ad820c90aa550bde71d84480b9094d5929c5e311d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f0a25f57cacc0f1093c4a7b272662180192e168280a107b25411b443a7f69a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e054e02aadebc3b460c536d2421d3cc7009fd10f461615bb8c8a00c00c5051c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71156ef518d1efdb75db129b4fa8d606af176c3bcde4e3e061ca34ed4ac5e319/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9861264d8abcd1acfec6ac85bd6c93d70be61f92fd0de468eb50a1879828f5b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/753c2c694ec2eb838e55546166c9e02e7c2630e7088562541d42f0816070fbfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19e71154744501ac86a244228fb95965d4d550023ec862ce01dcfff0ff81da0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99bc4e509425595750deb661dedbf7d48f9de7ca876868fd9790539a2806b33e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c78aeddd43ba0fca4e8d63e1e1421b7330b72511aeed18f5eaead77ed19c7a56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f09d9294865505c662d7c78ac2303c15369e9cfad2b0934949ea76e8c3fe372a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/be918091a7ce3aac7620c1742710a5987ba860b8fab281e198e02d9c635bc97a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7edb6f1f6b50d38626013240a1a694fe48c6dd7a2455da404146e5ed7f09599/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a52922b4a2ffbfa765cb079c400fba60b0d42340b86fa7f390b120e5894c553e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61ca6138fd507cb5b57dd213cddaf523e0b6fb426c429222e1a68da401852654/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef1ea1434bd2553b7508625cabdce84ea440f51729f41090fad82b275a448fe7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23a808a98a8d8a7853cfac4711bb2b3860cb438c89b22fe3b97518d9326a68ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/330c44c7fa54d2dd99274c722525079b7feb300a4764485c9bb2f4ff8d9dcf9d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3d077cf5941a13384fecab0034b66b93c46199df91d1550eb9db39cb661ffef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/402e4dc4e7e43db4f4a36407ce8eef2ebd050654513f510b7d9022b8378c42ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe9de87952b2ed6c319ecf3984013f8897b4066343ef7ef7bf4d297cf8ea3a19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a890e1a243a235c6e37d3d7eac292cd2f2f55f5a980486f1a55e830975291336/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d2b06cc3d84a9f9c515551e8f6b052a243914bdf6998fe816943ec8f9f9af06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1bcb66cdae6927c072e3bde34436740020031a3f82a58101019eee578888025c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c93a0c830c29f52617a4c8766a059256cdf139c8900ad6e0a1a2e645cc6c582a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1c2a1be1ff8dcf6ffe32fc30f6872fb7522aa8487380fd2609aeeda7f0cd899/image.jpg",
+      "https://i2.au.reastatic.net/800x600/472f18e099d690fd9a63ad89165646305a86128f6ede93ffac38f0d2ef5d6b00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da143bdea56ee9fb9d67870522b188d7dfc3a90837134c4025ce481aa9747bc1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-cottesloe-150906980"
   },
   {
@@ -4119,6 +7798,38 @@ const sampleProperties = [
     status: "active",
     notes: "Active apartment listing for The Warnham, advertised as right on Cottesloe main beach with the ocean's edge at the front door, 27m ocean frontage and unobstructed waterline views. Price advertised as contact agent.",
     image: "https://www.realestate.com.au/property-image/150584224/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/431acab1e97772465c5f071c0302e85c9405213f7b2234cedada738e1fb28aa3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ebbff84c6e0129c47bdd81f148e71f59120bd9244f16ffc793d4dc52d470fca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1aaceb4f29ad68d808133e59815bb76c08b74898278625b3cb4c3bda9962a86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e807b2d98f3c774f60aad61d24cf3f4a97858e268897d78275d6f2bae779589a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9437d15fc8503f5da4ebff8fbfa527580726b83d9311b1521177bc429f43d5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9dc9db3f337c5bdea220affdbe31d431504dd5f599a1c4507ca55728a966817/image.jpg",
+      "https://i2.au.reastatic.net/800x600/825adaa45719089eceef5a026033d7520e29ad0da66c352d32d459901f5c6bad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4a556485c531ebfbabc8168ee8a14757d9c05be3c0d1c2f97380fed2af12659/image.jpg",
+      "https://i2.au.reastatic.net/800x600/137addc833afe7accfc960034b09d049cfc5fc7ac05dbdbca801b99ce8c07d9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb8820a6d96eeb48fa12b9c1eab79f079ed26fa269d0c1e7df0ed0bc4cfa9f63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13a79cbdeab6a945fc7ef466b73347aea83f8a8fe8e811ac5489ff2d303ab067/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c210a252ddea2423741311ba244a25eb139290511311a3d81f970da96a74ab7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d288de542899e59b144b2cf3baf1d3128432fbf003ef70491fdf2d2cbd957ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ffdd105f3686066a1496f4700d4c3177e4a008aec258e3f439026ad0af7291eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0cd39611ca3f9a47b0557d6af1753cb5b63facd6774bc33751ba8f45480d489/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20ec2841f325361d1f71bd63e4015bc0b6842d2550f245e7b8868ae46f052b2e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53464a38b4b324389e514ce4d999db634dd27f70407b8981be8a316a1ab8f14e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36426bf7c42aa4120f81ce7b10bc94651f50d2ac1487de2a261d75febc83f1f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04768ae10b79dedc7c369022a3a97ec894a1a13fffda13c5ebbca731f98b2222/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4642ea15dc0e8b8de6296cb32d1ea343d1d19c4b54e3516c93bf7356c167f3a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07ff5ca53f5e190fda7246792789ff872e89431cf8edc998e43fb43d33cd420b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10f9f6330a35db43dec49fd819a7d3cd45582740dbe0a34b18de99da47537e51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba620f691e8ee80f81227105808e80f2261ea4d877e9ffbfbdf4a0145942f6ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/417667b44c7202161aaea2ebd5e79712e8465a9288776352614fee404c3301df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a62b672c810ee68af3b923f41f3291ad4a733c5f32cd4a1b52ff2a69f5306cd9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97ed85a9921ffed7a8e58dcec9612ab778d11cdc626a008d879884e6c5e33450/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3197637653f43971fc4175460c0a42a27c13d2e6a7d6a27dee8e8a8bd6ed158d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88d44bc751fe1ead8dcb293542ce891e0d90126eba8b857a2f4bb54808496e15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f252f797e73d96e0b87ced976efd6a093ec9bc72cc5dbc7713fe3c2384be5e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c8449c443ba8c18142306a4adf9a495662342853b20993f15bcb92390a816f6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-cottesloe-150584224"
   },
   {
@@ -4137,6 +7848,10 @@ const sampleProperties = [
     status: "active",
     notes: "Active Meridian Cottesloe listing for Residence 202, described as front-row on Marine Parade in a rare beachfront collection with uninterrupted ocean views.",
     image: "https://www.realestate.com.au/property-image/144303764/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/30778a5a87a97d66204ea0b9069b4f68a1593629f90902a7efdbd0f712b4474a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9351dc0056708453b8dc3119f73f99b663158a8e8c7e8064d7c6dbdb71f5f02/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-cottesloe-144303764"
   },
   {
@@ -4155,6 +7870,17 @@ const sampleProperties = [
     status: "active",
     notes: "Active Homely apartment listing for Meridian at 120 Marine Parade, advertised as absolute beachfront luxury on the beachfront in Cottesloe with sweeping ocean, beach and foreshore views. Price advertised from $6.1M.",
     image: "https://www.homely.com.au/img-variant/l-VaultRE-11861737-1.jpg?version=fXqrnPPLi1wjsu927P8PngnMI1B8SwX2",
+    images: [
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-1.jpg?named-transform=webDefaultTransform&version=fXqrnPPLi1wjsu927P8PngnMI1B8SwX2",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-2.jpg?named-transform=webDefaultTransform&version=MOADbQt5JnHxTNkc50nNZz8sdoyVbLU9",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-3.jpg?named-transform=webDefaultTransform&version=kTNjaKUShMbrbntB4FjwdHAK2qa4V.JW",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-4.jpg?named-transform=webDefaultTransform&version=ncPEYkKp1C4Zuu_sS35W8Y8yQybPfiDz",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-5.jpg?named-transform=webDefaultTransform&version=Ey1uZgWra.zRWOeuHpmBjQPw6lPxNhoe",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-6.jpg?named-transform=webDefaultTransform&version=cB3AN8rjUBeIzvUiCzLudnyX2GxLEM.k",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-7.jpg?named-transform=webDefaultTransform&version=CaF95_aZdMMi0OW_zPEclLamBRCbZEHl",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-8.jpg?named-transform=webHeroTransform&version=SRmqVj.mhgqyr.p73yB2NJLUx8jYt9oq",
+      "https://www.homely.com.au/img-variant/l-VaultRE-11861737-9.jpg?named-transform=webHeroTransform&version=nBWrnZA1se9PmGiuYoPuZBXyOjePILiz"
+    ],
     listingUrl: "https://www.homely.com.au/homes/120-marine-parade-cottesloe-wa-6011/11861737"
   },
   {
@@ -4173,6 +7899,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active Marine Parade listing described as front-row living with uninterrupted Indian Ocean panoramas, an oceanfront terrace and the beach directly across the road. Price advertised as offers.",
     image: "https://www.realestate.com.au/property-image/150403124/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3013650741cfcb0ccaa87f5a5e54cf475907b528b66dcd346f7504c0f8eb7af0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bdd1c254499ca9b05720255e4160222c46376b1f0237e076288bf16e4a919290/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a541f961d6be13dd5c80492535c4402091566a6b2094325a4c17260fbfd330a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43260420446d9e352096c68b2c79000d2939e6d5ab7f3ae57390cefba5ed0c79/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eebdce2879ad18db7096596caf95fb9a6d7f8e45b0d6c4627265b48d357e71c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/105f2a88050dc377b48889f6dcec8895816e95bd4776db2ef4bf2793ee40e381/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c36808d32db76430d8e98011b313f2dfdeb28d77421a0caffd4dca3f5a5108ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20526653663b3bb240088453fe8d34b57b06c0354f5389e42846a7aaf6f05679/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4204c8e304a6a1ee1db21eea6a4bd2eaca359f8ea44e7ef8d0243b33c7e0e6ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0fadb367876091fd76fb8b13429e6eea04dabcb3b8642913a8417e3cc1081b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b83781c711fd36451908e0c77fac57bc9bebfbab13bb97285f496b829444f96a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/549ea4806a1e4a89971e7c9d8db12267f48702c1e46c25283f75f265b3025149/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cd319e85406eab9a3c9488c4579e6381ec49014c192c5c4c0da23875158d43c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed101896051d377dca691fcf9571cf58782d52dfde1611abd699b2be7f51fd22/image.jpg",
+      "https://i2.au.reastatic.net/800x600/668ee399846cc95cb30b40f64540a4bbecdfba37f27dcbdc9de80985df504952/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd52528ff859b63b7b647e56bc04d8c2a0b59888056b3f2baa42f77f378ab110/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60f58630b48771487f4da5d108e2af1c91da875404379b874d1d9651538ac17f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b62c6a0fa710e735b5d8c09feaf654c7bdeb1c8ecffadfa1f3e2cbef66826408/image.jpg",
+      "https://i2.au.reastatic.net/800x600/adee84827490f43318c2e88a17e885ae33e55877b748670aef69bb60d1d7e504/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98150ed06949e53b2ba47699eb968143d1e813b281e6eba5fbe4f097617affe6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11d4abb401372cd59b0afa14d5a58e49e4db1f75c419d795fcbb029564c6091f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d0cb673b7d8bbb39fb1aa25cf50a070b162f843dd546f8e9e00b936b9f40f8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a926d4902e5c82dfb9df23c4ed4865d986efe8c2c353f146f4ba56d884578ec4/image.png",
+      "https://i2.au.reastatic.net/800x600/4a838371376934d0822f7b91c737851915800e241f1655c4ad34b86814d33cf3/image.png",
+      "https://i2.au.reastatic.net/800x600/8320fdc4b0339d73236961ed54701a43153e29a3ba5f73bb093f69aa7607fe82/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-cottesloe-150403124"
   },
   {
@@ -4209,6 +7962,42 @@ const sampleProperties = [
     status: "active",
     notes: "Oceanfront Moore Park Beach home on 2,082sqm with gated backyard pathway directly to the sand. Price advertised as offers above.",
     image: "https://www.realestate.com.au/property-image/150475484/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ce1ed6577aa977ab9867be7a19c06c181b2f4878e2c5b7c665efe80f2d96da65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/229270e1283d3ba776c9a962d9629b28ee6acf05af0cace6794b59ead733cf7e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db515caf4e81c49311d70c0c86d06334ed19b1172efae3f3e8c26ac54127c902/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbc85d73dbefb0d8f1988ef92cffc6b691333afe0f717f8014ca623373aaaff1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ee4a7eebfc2638f956b0a1357cef42aca244133858d0141e83db1c3ba852504/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5b459de4d0ad7acbf0bedd50aaab941c56e4b00b5a7dd0e2db08e970b606283/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cf71de2bf73be38a5bd00df752c167f95f892af05815102e48f2ee91f5ff9a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ffe09d188c3a61dd314e763200cba57f3262ca364ae27e23dfe6e370808ae17b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/308d93a6ee337ee8edf9cfd3ae5969696cac4492dd120b43ba2d31dd956b312e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43b130c68df32772873f4be04501f64abbd127fa314c48de30ae163a25ac7f9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ccd0fe1d0fdc6434f6ddea053657edd8c4279458c95930c06d8dc52f34fc8a3c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f720a52efd0348a34e0ed21378aadc8deb81a06a071eaa48388cddeac0712aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78d2fb1def6bd7733428daa4df2d95b2bf7fea12de2490f009e44ae12fe5c098/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ad59badbab09db7d93b935b1a9f311f7385615af8ff396c61a9188beb0295eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f8a077bd60ca7e90d1432ad2079c01304033ab4df1b637606dd36112b2ae30c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1118234c8b9000dab82615075c9e2827786caac6c54caedccfb4fea79b358a9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fa45a237bd464a1229b886a104702380daf8a9807c7c5ece1fcbfefc2f4ca93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9741ac27e4ebcc1f8cfb903a893433bf8602ce28d2d1c90199fa6023fd1cc8d4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a34b6431d8f750445662e53ff388578f6f237b61bd908fb3f4be2ac249959a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/895c910e0897367bf06874ed61fbd6cade87f331a40be6ea3502db41c265b73e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2106c8e0f7be5e1bc6bbe51f33b4e855e272e382420279362d839daae14a3e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae71d84e9ebf5c95ae2e579ff6519b480c50a9a1d5bc0a61ea1b1ef23e9b055d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d34cf87ca3fb6026dd78f689ce2de1486b9a8cce12e1db9ad81ef53440ce5170/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d2d79dc2ec50998b07e6922dc7d0aa5f66de5fa39fa7ed9e1020c45d7d3df4c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d7c7316ea95886d89628a36b89d9c63868a973b2198c8723d94d351c6b10560/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4a5be75d69ad28eda40d6ad0c8aa9adc4eeb4acc3b3f8d12aa064a403f4e182/image.jpg",
+      "https://i2.au.reastatic.net/800x600/480efc8e962c504cf2a85610718eccec6cb3cd36f3ba4a984925626b4517cabf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebea3699d1dda2d4bfb959154c16dc406d87c47a7be4ceafd70582653c9d69c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a6686fd3db98cac040c74326bf51193aed666c6f3b94ffaffa6ba1cef540c6b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/725ced9b8fc1fddc337985c344b5b5aa3e9e0e8ba6568a930defc249f062850b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1740e9f56317a52c58730b3ab56ee4b79ae78e6a76e5a666286391fecd78c5a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9f3e4b7234b93cdd45d0b0f3554701a05ab0f6939bc943d35a1d4806b6b9fb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/283aaa2b07a8b6502c622445716a19c73739613ae8306a9e1fc5e2ed5fabfac3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/554eacfd824808a90f8c98cdb85cbbeab140b6e8cf4c2189f6a12222bcb69a08/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-moore%2Bpark%2Bbeach-150475484"
   },
   {
@@ -4246,6 +8035,43 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront luxury home with direct access to Cabarita Beach through adjoining nature reserve. Buyers guide advertised as $12m.",
     image: "https://i2.au.reastatic.net/800x600/dd275384d4c9c14ae6430cc3dabea3abd2ba5982b35939786d12e59a1a8fbcd4/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/dd275384d4c9c14ae6430cc3dabea3abd2ba5982b35939786d12e59a1a8fbcd4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b08c4248172784a65c6d5e2e9ec8b248b13624e3005c82a6d224e576e3e5b00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d45b2d682af12d88d3440be3d5645640e72964850b3798473395971456b1877c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12fe02219ca1737041ded6067ec58c7e94571c747e5c8b3a7b9e27ecb19e79c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fffe630a43692cb97702bc6cf3d869a095685e42f9c04a7cdc2c27f01fc762f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b87d15456eaa830304974e866c62465f9be31bb72d7ec8915f483b9c268cfa6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbcfb4b1385791f705218487afd85222a31010418223614f7d00957833ca88f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44486fca72708416c8d37b5000ea4f3456b0ea2090ec14fe1f3059e512d03cbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c721050c0c2a20d5f9240edecc6be63c8b66545cd1cd5003d31ad8fe8b67e17c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/623bb5fcc6eab8dbe8db9824157d589a1ef4221a1b4d623ef2809284e23318bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9373258abea68789913fda58a14a1084828b0808aa799e992b75a806bc4331ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11496303cf6492ab9915518c9e003744f2a8e5e3bdc3c2892cd9048978b5e149/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1983b4ad6321c3a2d9849e57e86de7face5f98f308d772ed2e7af5e4891c4c2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb28958c770efbe4543cbec7e6acb973cc38369531a9ce1dc02649ca01d85740/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc2412fc1b11099eb77137dbb90f33ba0bb3a9769d2a1077c7cca3788ab9bf7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7765cfdc944a9f8ee614ff323c0a6b57502ed9637dd0dea33377c909be289031/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c639227ea87ecc3af0fdcfbc49a140767b7bf8566a4114ed3e781a63718600c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6b8784c8907a3120d19f58b25f7eb08ffbae5cb13ef49e628aa05f60b492343/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a8732aed0b8c2978239ead4295225e4136a43dc3f9c470a105928bff2b9e392/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48ecdfff9c638888e96c5f575a1a0fda0c580a83cdb5222b2db3f8ba90982879/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9015cd9281fffc1a348562e5fbc143ca0999a4629f5fb22f96a0d9dbbfa977f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc3d472e34e5710c76d2f0918e554d94bc95298ebafd6be287724824b4bcfd17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f28b6fb15369ad7a7daeee82e0d76ce77fb8d7824ccb74b7e13757d9d011eb73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d45c46a5365cab7257816317d3869214e8015b5de6f0467f0efe7c2509c8761c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08cf380f1185356611435a4faae1996ccd1708e194e1251e0bf3c1e9a0bd2781/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3bb7e51d765c48a1b5290be778b3e3b5ce93012892c068628c7173b8c25d9522/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6918cb18806ee4d6be363c4b0f38e55d7f62e59ffd3bc71a258a3ece3e77415a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ae91f20ef902d51b3c3a1ac82b183de1e0a7b6c04c799fe236a36ee569bf50f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0672a3399a6efeae96efb68476513136ef3833d770da1334a0c3df1d4da241c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f21cd7ea8efdba85c26e1d15ac8c9f637fd27be5f747bc8279b7da1cbc1a7131/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfa8a0e2a92c44fa581b4a3fe19a80b872cf10d6e9fe861c006c8bf20d918a29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9dfa0725ccf38cf23dfb343878e212f5e789287a33120e259252e483049eeb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71122725f4f99f8658309f4b794747b1deab93dcd681622f36ad383ffb53edd4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/755d3f7393b2f59260217472e926a9d3feba93e3b3ae0beaffcbc6edbbaeb0f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5678409bb92f9063e15aa065f3641590e73f0bd14189042ad18c8fab624fa27/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-cabarita%2Bbeach-149496300"
   },
   {
@@ -4264,6 +8090,21 @@ const sampleProperties = [
     status: "active",
     notes: "Sunshine Beach residence with private back-gate pathway straight to surf and sand. Price advertised as contact agent.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12601660-1.jpg?named-transform=webDefaultTransform&version=dKAPnSL_BaBW0nfsGrGpNQlOfDVq9X6i",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a70752552ad588a46ceb2723c7d9d99b145ac21e537e8e3a76415a54507a8eae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9ceaff626bd5fa569d82fbfa2e9cf161f7951ebf117d2a893eb6e7770173261/image.jpg",
+      "https://i2.au.reastatic.net/800x600/febb8d923b776935ec98d25f46225ce942d6c5daeebee3a97639fe3c548ad22c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a820e1fa8488990b738c7e35488cb7ba2e646c740e6d494a3042753d5d1be96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/210e13eddc19e75b2df9331c0b7896208df4544057c4cb3cc3d0e1a2e3ea6dd0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0a647ceea1b98421de4e9e0a077a62bad16199543d495c563e0c90155ba06c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d343c2ed1eed8b6215d03ad51707a65d8b59a8ef6f564e4f623f0275956d1984/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae17ab1332d7f3b3a1c9c9e6047d15d362fcbf444c80b2a5771de90daecb3a65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bd2f17e2befc39155e37ea5a63be5eb74187a0fbf273ba6a1fefb20595b8cf0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa05076b603bfcd18fe29b40b72f46fd035fcdde852f7efa400551541363caf4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45fa0054f4e318d07f312a7dff3b972eec2e41eca293caf30906bdc6fcb5d79f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c2abff65c1c7a1ad93a4b7e9e0c71198138f812a143a8d60b4c3195958b0908/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3e87f54d12db8c01b8f78e8f9083f53134e471111f20c8cf3b7916250972642/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-149496880"
   },
   {
@@ -4282,6 +8123,21 @@ const sampleProperties = [
     status: "active",
     notes: "North-facing oceanfront Cabarita Headland parcel with direct beach access and R3 medium-density zoning. Expressions of interest listing.",
     image: "https://i2.au.reastatic.net/800x600/742ff8f2da621fbaf8bd57019f1f081be14276c8674f26bcbb379afe961c6464/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/742ff8f2da621fbaf8bd57019f1f081be14276c8674f26bcbb379afe961c6464/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5cf0c29a4d49e85ef3d5f9439c92e918fe4c9219147a8b8aa2e229d3e7b6260/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f91bf54576c2db2f4e9e1603a14a4099509200db205bd81e5461a3abb6020cc9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/813ffdcf9df5adc975b70370a7a06e9cd370c8b6f6dbcd7cca6dfc98a42c1f00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/685d260b9c9412e286e7b6a30f8841c1dd1a48c6c33c4b20a160dd5574dc130d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ca758630a0d453166e80b53fb2ef1f97c6d04b2696d612df14937957ce7489b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/017d624e4ea44276d49b387176dab880aa57a5d34d56321782cdd85e25fda636/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c86ed65f7bc2beae0e121400dbdb20e23fa04309eb7056bc825decb2001d6be7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36e4b9158397e2b51cc4e817bb853d7f198f5ab495f2353e3c7a175539657a2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/286cfd33a50649c4c98599a5de9b559df3eebde7b55b72fdbcb46c1dff4d22b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/749bb476c2f4dfa01859ea389e58eca4aae99861332e51ba73c1dd809c23a550/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13c13ec921064bfb560cddf5151456767a97c35dcad4bf6cf825e8b790ff4627/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9750b3a65bedf115e92a23e11293e31c794e2c37c405a4f8fff13260ed463e1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-cabarita%2Bbeach-150734472"
   },
   {
@@ -4301,6 +8157,10 @@ const sampleProperties = [
     status: "active",
     notes: "Active REA listing for a CABA Residences apartment advertised with direct access to pristine beaches, reserve views and ocean glimpses. Land size not published for the strata apartment.",
     image: "https://i2.au.reastatic.net/800x600/0e877cb5aea745976bc467f0755aab82a74422b2440d84c6c49dbefe0c8d74fe/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0e877cb5aea745976bc467f0755aab82a74422b2440d84c6c49dbefe0c8d74fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8792334f68d678dc8a57f6257555f778329bcb913b3c89a3ac9d1773326d2b13/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-150025664",
     investmentStar: false
   },
@@ -4321,6 +8181,16 @@ const sampleProperties = [
     status: "active",
     notes: "Active REA listing for a CABA Residences apartment advertised in the heart of Cabarita Beach with direct access to pristine beaches. Land size not published for the strata apartment.",
     image: "https://i2.au.reastatic.net/800x600/782b61320767d3913fe80c6c8898a00ac37d30fe176a05ea5e0770282b6d0d55/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/782b61320767d3913fe80c6c8898a00ac37d30fe176a05ea5e0770282b6d0d55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c912fdd28202f4b8768efceb5818013fe115728a53988adfd216aae6a1b45211/image.jpg",
+      "https://i2.au.reastatic.net/800x600/297387c1cbe017ed59083cc59988acaa679f24d57d0e743bdfe637590293f995/image.jpg",
+      "https://i2.au.reastatic.net/800x600/928429e528f7357f3f660b9d56aa60f76e998fe1e74029ebccb751190b2e3bd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f242f3b9a0e24b9507744577739e104f7e700606c0054f42403e17ba0717ae49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/695496f9403dbc1eaedabb9f5d2c945437defb4713426dc5addca9de50cc7c95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/325845b972c68e7b8d42ff4e5660f2aadacab2ce492139af3d06494252ae8042/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e78fa2d87d89ac6eaae70a91ac669c7915790e1988e632e8000a0b4307212946/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-148315832",
     investmentStar: false
   },
@@ -4341,6 +8211,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active REA listing for Apartment 108 at The Beach, advertised as beachfront Cabarita Beach living in the 2-6 Pandanus/Pandanas Parade resort complex. Land size not published for the strata apartment.",
     image: "https://i2.au.reastatic.net/800x600/0f2a453f2183ee9f18e5bcda349368e131bc18022628ff3339f36acaa4be7884/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0f2a453f2183ee9f18e5bcda349368e131bc18022628ff3339f36acaa4be7884/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8e99c21fe3886b8ba00281879ecda555d20e4a12adca6ba61c386634366ac46/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d725bf7379f28a7af1473c529e75f837a1fab20ce2a4fedb1ff358885b65365/image.jpg",
+      "https://i2.au.reastatic.net/800x600/074ca3af49b7c9f71437eb1b63942f7fae02ff901abb3081f74418c0c575d69d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0076e6e9de3c3a287ecba38de1ed91aa62ccb8447bcae9c9bfc89305f06c481/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2000c5efb509ea3d231a463a7f14aafd4127549b7d444a730567216efb9195cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb79e696c3b24e62a4ad28e33d9441fe343a4f2eb24f370c9bd457b1cf315e29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c7b5b5c5a47ab022b557345eeb50b0b23b82a4a46b74fe97990cca2867b3f0e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f02ca7e8e21b59f2101b5077dcb03ac2a0d6f6248e141a6c4ce05645f889bac8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75581ddc76ab650901b3902f00a657d2a92e8f34388ff11803a59a033e57f933/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14365eb56233756cc1a4bec533d0fb0ac6fc72de017d29064d9545e049a7d5f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a330bc4cad91f0ce3daa4ccdd0e914da97d9371554f6733f070b82644f9c832/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05465b0fcfeacf9307c45e28e2a77da7920f0f00961f89a43c91ef4f75cf0541/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79a23dec3ad0f71e9e247882a6b17f19a1c4fb651b2f7952df8bbfdc7e9ca5bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1f712b1b938290ea481643399e3ba1c48c1aa45acfe2b517f59f91ac9ee2220/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27dde44d767b116deab369405635e33b5fb6717147f4ffb59dedc4a29af20e40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22494f6a6327cedb708e223e2346fe015cfea00dd855063306bc71929b7cf13f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43944416c720e4a8100af91bd3ff1c61577d9111c5989d741a0b6e7b9e931e85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/546048bd52127238f27fe8ce732479b89ba721c1d175c2905327477642eaea2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecd3b6be72e3133be44a4b2983ed59a5bfa77bb597487d0da2b743c38a9723f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64ff00670b68c251597068d9ddbc0a6334c91b07f25d3df6e030d7b6a5d5940b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1f5092dcc4a7555bad47d39a0fd649e3d45bffb4d184aa2ba1b678e011836369/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38bd6e6d59e3e17043d405ca798f8f447915a3916d3d1a1b41a5108a6e7cedc4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/516e6485724e0c6c1ce3d2142488804caf2f63c1946fcf0d5caf58a7aee222cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a4c1f3712618c4f2e8024e2673b4d61aab666a2efb42909de9fa72bc4d81b53/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-cabarita%2Bbeach-148167292",
     investmentStar: false
   },
@@ -4361,6 +8258,29 @@ const sampleProperties = [
     status: "active",
     notes: "Active REA listing advertised as absolute beachfront living at The Beach Resort, positioned directly on the golden sands of Cabarita Beach. Land size not published for the strata apartment.",
     image: "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
+      "https://i2.au.reastatic.net/800x600/087d16dd927797644a8959d4986d49fce9bd3b8f5f52798057655e81ace0e796/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53f10f41c1a898587d0e02bb8bdbc4cde5d3d44f671bb8a4d8d3392af9ceba22/image.jpg",
+      "https://i2.au.reastatic.net/800x600/089bbb695c76147c17699784855a843bd22469da7a430ec99d4d40915766e671/image.jpg",
+      "https://i2.au.reastatic.net/800x600/088fd4bd5c49e9949d272f697da378f2b5dff9813442fa8313f2d95fbc90f5a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54e8964bcafbbb6ec9c4032baaab4913dbb616515acd8690f76f026e4b5638cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/121ef065cab93854cc9a3ed6b8fad7a182fe8af5492936c99e549d52baddbce2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a17aa8609f00c08de0de9df744b5285c75e95fd7731cf8c4f205892b91f269b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/afe0ef33e99a7551142965a50a94e24e76289ceec097e647c0cd1f0ccf50df97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7101bdd12ae525b2bc4e41d5bbe6381dd5aeadf0a22a62cf1ec9b7df45668d24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6fa95072696e1d06b14d55291d13be18a92ad88c7ccb7d5d8740b155c8288c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a58d79bed817bcc8d4a2ef0fb42ba7107995e160dd2695897de6d11608ee1cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16fb040da33911d0fee9dc812b92db79c354bec6c16e6c52514914c0df5fd338/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc51136742fc11ca5e0de016e32b8bfc752bec6b0e19885bce686cdcbe7f73a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84a676543b776f91e75ade164b7c546d76ef4a02819bfa5b73b9a92448510abf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e93577e6d19b715d79616b21c3a7457e6fd184321617869fb4cab70ac98f6c2e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a3baf6cd8cdde2a01f3eac588a475b96f914d6becfce0e4f4350d095bc80e623/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d149cf0d630f2bd3a2e786f053160cb370d638f5e3ae9dfb1641259db924310d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81e6307ca885a50b3cfee5000b4c128d39fedbbc03000b55630d9729fa607937/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1876e6a69a5f7b0f97d20553d45b8245b636e3f8118e487b9f2ecb403a460e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70282fb71029e0d29c869a36711b4b1c499f568091bbab44fc4d3b44d9b6fd33/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-149979580",
     investmentStar: false
   },
@@ -4401,6 +8321,25 @@ const sampleProperties = [
     status: "active",
     notes: "Level 7 penthouse apartment with back-gate access to Dee Why Beach and reserve. Auction listing without price guide.",
     image: "https://www.realestate.com.au/property-image/150059312/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/7e8702f9f0be251de017d2f214bb7194fbef02adfe8db90fc5e1f0dc512548e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff07cb9353fdc23f2f85c0011533b9e0bed56b88af48b13e80f78d213553c18e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4fd8d57c339e49ce3afc9b34ae39ecb6b08e0de215d79c3d2ee21020ad9e2b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c4030a1a9468b2549df6cbda903b0952220f735efeeb3fad08372db3a50a693/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab58dfc04501e3d20d86527eca0e1b97033787b7f697d46704dd5e564c9b1142/image.jpg",
+      "https://i2.au.reastatic.net/800x600/159b7c5eca940628dfcb1fd79f98abb09b68a193a20912187a2475f2c05b2beb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/621852355c69573cc4b87a1199c24ecec39e43ad63c832f5b88152c9dd6d2765/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e11ae56d441a8e43c6503be4902c9e6158dca3e90cc775bff5d38d1ec83535c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2eff98b96f39881628b75c5b9fe77a03c7387db30f86656871decd0346780756/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac3fa7d3b7e3661686bf8f7a27b5556c6fb0df7012c82b4b991709096800de92/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43ba5b788b44154749e76ae5f86ed8e0128c24178c199b011d228555446da676/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20e5bf5f7f76506d8442dece1754df3877ce451ce1a5cd391f94e9b3eaf7a48f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19f9472bf1dc9c49a30cd7e084e4d10b169abd4a0f12c2140bb004910541fea0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ea31b7da5eeac95219ea5e888746e5bdc7906d0ae345cc81aea7a8bf627b32a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7b8ac25925c2af2724d37b92d55954a403c62efee9259b957d7bb9c5b7aa7a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a476d55d4f1be4e5a480aedba083dc91bd86663a43fdf853d7208c671c6bf7ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/545b13160844afb821cd2a39e165c5539dbb6317b1a4eb7d41942893e12bdbcc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-dee%2Bwhy%2Bbeach-150059312"
   },
   {
@@ -4420,6 +8359,40 @@ const sampleProperties = [
     status: "active",
     notes: "Carmel by the Sea apartment in an absolute beachfront building directly opposite Broadbeach sands. Auction listing without price guide.",
     image: "https://i2.au.reastatic.net/800x600-resize,extend,r=33,g=40,b=46/a466ad4a45f3bd36eb83d68ce7fe66f3c9cb7f4fb98078facbfb09e6794d9aa0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/97c6f7d55385bf6509cbe26594ad6bd347b4db481a499ea51e0413cecccf96b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ca5f64ec544e5016e49f3835e697130f40c0dcc7b3d602ad4515e6bfdb1b4e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d837e0604157b953c1e7332d4b1467832407b201bdbe348b3725b21dc26f2d4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a4d967795ce2a26061f7b6fe9344e7b8038eee55ade334806da336e60dd49fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab5f4aa711f3b48c98331104810fdae49901a82063846f8c2caad07faedd2afc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/897c30116342e62eba52a4041c8ce25e0938c192f32c7b83836a20e1531aee89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0758c715a535c3c4fc845704faa50acf38e552a3e4b8d4606e51f546653590f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ce57ca8bcf3b7940cdf0d204505bee2769127f2151b71ed6e711549af63d310/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e7cd0b964d0b3ba8f2a2e8100eed27a5b87dd07455469262b47f2bd145d1751/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef9b06fae7334f97cb34137a3ea8e07d7fd954bd93bdac23cdbc18969a03eefb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5eaa1b8a50e53ae06ee7e25f07845a69a1a2953b5b7104c13eede042a2e94b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28764f5741ead924b05434b7b8dfa5633f8ca81e2048e9c52efe612eafc89f11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/215b9440bde53517a0fbfecd62d6be8c4bc1de6c1751ee03f10673d97451758b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a1f3492fdff6b71f5339378974ea95fbadabcb3e8c01e2737f8a3955cd67c32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71c20a318718c407bd98f87877f3ca036af22c4814cda019237435fa0a2987fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3cec5a3452f32ac6fc2b5d1cd9102b1a3117cec21168f49e72a272ab49c615e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/372b9d32e254bf9241aefb095840142ef0d5ae994a95b54ac8c96f205719829e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef7c2384c1df530b684c295716f37f236a983b6f22b10ed4d510084d46d4d8b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bab39f69b6808df55014776b5806ada74c53a0c7a538bd8dc24d3aaf4b49931b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91a2ad05efab9e7396d9447186b254175129746cfbec92a0a646cf52acb3690b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/34e742d8626dda00eed49192311db567820845557e56452dc4d4ec6716b20aad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fc713d318bfa8aab59a219400e06e35fb0fa514586369493a5dcf1d8b3b4552/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e8989d01aec1a14c488499a1d91cd792a1ebe1e0cd74f10fdf64d8dbaaad5c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da8b862b40715c781a812999e9a1ac3120a9de724fba8600ed8762669eae47a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/002230f3fd0c9a18d31d67870a955e4dd7a2ac6c5a3bcec4d9e370ba56ca0257/image.png",
+      "https://i2.au.reastatic.net/800x600/08c2ac5f52b8668d38f2c6ac1e0871af26ec56cbc9b2337da48b1b6d4cd87e82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe9b5f254c5a58034b519d75113bd88b6264d44f0bed33535fbf8658cfdc7a01/image.jpg",
+      "https://i2.au.reastatic.net/800x600/485a0a6bcdf417b4d6dac39b0f920244d0e7f19c37c0a95efb3ccc80ebf7adad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96da65e365735e1d8a52f6e31261a0d07dd47f627097593ce0ace3f9344b08c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6dce7d3c06e3a148de764ec231eba650a3a0b5b0f927abbc4830580721504662/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13ce7f2f088a94e6289de576013292f359739c4e6ee8bdb1f813d29acefacc69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02fa9252d3339ee64f955c9abe579d21fb61dfd5f96569fdbf33560e7e233bf2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-broadbeach-151138456"
   },
   {
@@ -4529,6 +8502,26 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Sea Glass listing advertised as a large north-facing half-floor beachfront apartment in a boutique development on an absolute beachfront site, with panoramic Pacific Ocean views and resort-style ocean-view amenities. Price is advertised as $5,250,000.",
     image: "https://i2.au.reastatic.net/800x600-resize,extend,r=33,g=40,b=46/122caa9d07f37f5648691f56d3387d0761242212f29118cc76ca6f5b80d3d0b7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a0256202fd988102767d29a895fae47cd51130c1c0862dda1d69c951f9d28416/image.jpg",
+      "https://i2.au.reastatic.net/800x600/380c12b4d35de39e867bc9314406b6be22e245df913f25b34039f82fccdcb545/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7bd5aa3d3f19a93b8eadb47979922d0f2d67f35425c02e0591a0f757e463632/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc9e563123d27ab8fbaad3569542a02a9fa990fc1ac638666131f38f4738b4aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/448c31fb15c31f42ea1ae0b757cfd0d9460a8db26df6e6b6c6c6a7073d90b922/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81396d55a97bfc63bf1a9779ddc7ac2eab8966cd6dec4d22b9b9bb411ee9ee4c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1287c9f44213aa87c671281f72f7eae17908331bf901064c925408db3d2a58f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/063582f37b2ac5816865e15bf1d382794767f8b4611a31c92fac0ceae7835ef2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cf0bdc33cbd96c8f8b2af9dff8556e6dc793266402693a5269f585c946a2a6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1ea98e7ac2c6017cb99e5cb411fd58295fc307409550054c3eaa73cd7c9733c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acf856e7e1533f06007f0d2534bd4bad91dc5c59772bce735d23732112b9a0a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef9edde932f5352439b026c53d16b13f4e1d930972db75adb8dadfda7fd9764/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fdcb7c43ad2a590b59910c018c76c77922c1fec39d696d729afd44f2dd866c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4add69d8fb98622880053f7c7e2d3b62c560622190819bf765b33646abebaf94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7dc371bd7c75645d1a5497599477baa0def67d52d4ce278a74083abf1284dbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a8e0371038bf8377ef3e7cb43b08a76e119c7c84ce2b81345e2bdd7228b9dab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6213beddc6eaed3553619295c78cbe59a78d24b57f5d57b14c7718750e3357c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf222d8edbeb0daf6bb07f62bd820d5707a4bdc5275ece8a76d228e40d9fc985/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-broadbeach-141213784"
   },
   {
@@ -4547,6 +8540,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Sea Glass listing advertised as a north-facing half-floor beachfront apartment on an absolute beachfront site, with a 252sqm floorplan, broad terrace and sweeping Pacific Ocean views. Price is advertised as $5,700,000.",
     image: "https://i2.au.reastatic.net/800x600-resize,extend,r=33,g=40,b=46/241491e19f8f52d5e8bf1aa0d945abf70b37e9181f5d753e4ae9d564d2a1dff0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0db862ee627edad88f64e961f1340dff1b98231887caa8b12f285e2b82afc8d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fdcb7c43ad2a590b59910c018c76c77922c1fec39d696d729afd44f2dd866c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1287c9f44213aa87c671281f72f7eae17908331bf901064c925408db3d2a58f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81396d55a97bfc63bf1a9779ddc7ac2eab8966cd6dec4d22b9b9bb411ee9ee4c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc9e563123d27ab8fbaad3569542a02a9fa990fc1ac638666131f38f4738b4aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7bd5aa3d3f19a93b8eadb47979922d0f2d67f35425c02e0591a0f757e463632/image.jpg",
+      "https://i2.au.reastatic.net/800x600/448c31fb15c31f42ea1ae0b757cfd0d9460a8db26df6e6b6c6c6a7073d90b922/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cf0bdc33cbd96c8f8b2af9dff8556e6dc793266402693a5269f585c946a2a6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1ea98e7ac2c6017cb99e5cb411fd58295fc307409550054c3eaa73cd7c9733c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acf856e7e1533f06007f0d2534bd4bad91dc5c59772bce735d23732112b9a0a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef9edde932f5352439b026c53d16b13f4e1d930972db75adb8dadfda7fd9764/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4add69d8fb98622880053f7c7e2d3b62c560622190819bf765b33646abebaf94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7dc371bd7c75645d1a5497599477baa0def67d52d4ce278a74083abf1284dbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a8e0371038bf8377ef3e7cb43b08a76e119c7c84ce2b81345e2bdd7228b9dab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6213beddc6eaed3553619295c78cbe59a78d24b57f5d57b14c7718750e3357c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf222d8edbeb0daf6bb07f62bd820d5707a4bdc5275ece8a76d228e40d9fc985/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c069e110e75becf5bc0bd7659f99bfa9c8256e9f25631f8e0994873c508a09de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f5d932513db88358a9e0a7ac9d239d6d33155b2462ffec723c512a4df4167d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b30fed5d5d5a4d4a176c388146aa6a30f0f6135ba9efaca57d988e440f3eced9/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-broadbeach-145285336"
   },
   {
@@ -4565,6 +8579,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Sea Glass listing advertised as a full-floor beachfront apartment on an absolute beachfront site, with a 557sqm floorplan, 106sqm terrace and uninterrupted Pacific Ocean panorama. Price is advertised as $13,450,000.",
     image: "https://i2.au.reastatic.net/800x600-resize,extend,r=33,g=40,b=46/241491e19f8f52d5e8bf1aa0d945abf70b37e9181f5d753e4ae9d564d2a1dff0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c1205f2b4f1d853863c91176dfccfa9718a1ba9e4556c73c0556d4b1c90aec7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8354389f2c9dfbda01e41b541c94f79eabb14b1d39b26158c7da8545eae80785/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0256202fd988102767d29a895fae47cd51130c1c0862dda1d69c951f9d28416/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd9654a9b32dac49501f49bf40f4426f9f2c4201902976208c18b581181a7f98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/380c12b4d35de39e867bc9314406b6be22e245df913f25b34039f82fccdcb545/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7483ac5a2e6b00fca05a2d454f6345fe8c0d28f385f3862a465c12a5fba3c9b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fe768c5fad2c3da7bbf6f189c483f7931a8556a45606ef3c002092a86ddfa2b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/448c31fb15c31f42ea1ae0b757cfd0d9460a8db26df6e6b6c6c6a7073d90b922/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7975be1af058ad75efa1fe1bd6257a846f27ac4be54cc5211aae039d7a4a81e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1287c9f44213aa87c671281f72f7eae17908331bf901064c925408db3d2a58f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/063582f37b2ac5816865e15bf1d382794767f8b4611a31c92fac0ceae7835ef2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fdcb7c43ad2a590b59910c018c76c77922c1fec39d696d729afd44f2dd866c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7dc371bd7c75645d1a5497599477baa0def67d52d4ce278a74083abf1284dbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a8e0371038bf8377ef3e7cb43b08a76e119c7c84ce2b81345e2bdd7228b9dab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ef9edde932f5352439b026c53d16b13f4e1d930972db75adb8dadfda7fd9764/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf222d8edbeb0daf6bb07f62bd820d5707a4bdc5275ece8a76d228e40d9fc985/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4add69d8fb98622880053f7c7e2d3b62c560622190819bf765b33646abebaf94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acf856e7e1533f06007f0d2534bd4bad91dc5c59772bce735d23732112b9a0a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bec0d629f63c51325522b63944aa99d57830874e95c8567150f01e9b9a6b669e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-broadbeach-145285312"
   },
   {
@@ -4601,6 +8636,15 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Sandpiper listing advertised as a north-facing beachfront residence in a development positioned directly on the beachfront with immediate access to the golden sands. Price is advertised as from $1,855,000.",
     image: "https://i2.au.reastatic.net/800x600-resize,extend,r=33,g=40,b=46/968fd1920467b75f3d3b3d6cdb224950d91d35ed1ee8fc78575e3960454f70b3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d9b0e26468ec5f1edc6c0bea9c56bfcae047cb4ae8cf23e67e5ac393c008864a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b6341625b9a99afe78f3b68ffba7db2348f5c68c4c7c883b86c677c1821323b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d22562f86cbb3cb79917e0db815944e52b9c82bbed4882933c7fa73dcff49fd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d8810352dbb650592faa8bc735aff58e1b6157897cd91c8532a2751c84eb4ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07955adfa96fa241c8d5320c978f975c61544dc4bf5dc0ad2e8d4d3d12774733/image.jpg",
+      "https://i2.au.reastatic.net/800x600/756ea71ca6c6f97daf6f759163a81dda4491b5d76b337f53bd20ec5c641fc709/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b4c42c26f586b6d57811348584e8fac0a8a71ccdd9e3342ab415a364142bb30/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-broadbeach-150153872"
   },
   {
@@ -4639,6 +8683,43 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront property with parkland and beach access beyond the back gate, plus two separate residences.",
     image: "https://www.homely.com.au/img-variant/l-Rex-12977022-1.jpg?named-transform=webDefaultTransform&version=o1OP5FD7pIu.u_guhA8xYWQgnH.kIi22",
+    images: [
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-1.jpg?named-transform=webDefaultTransform&version=7Ldj93LVY60OZiCBhJa9K6lno2n6T22L",
+      "https://www.homely.com.au/img-variant/fp-Rex-12977022-1.jpg?named-transform=webDefaultTransform&version=Ft5x1YXsBTLXkQz0dnsiadExhH.x8xsj",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-2.jpg?named-transform=webDefaultTransform&version=f9d5SsA0PnVVWvlQfdYqQpXK4GrrTVcW",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-3.jpg?named-transform=webDefaultTransform&version=SbOwsvw6IZFT9NUxWriEMGDw_5SOFJNp",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-4.jpg?named-transform=webDefaultTransform&version=XAq.jQxiLJOZEtEUfUPKzd4Vz9ChmM81",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-5.jpg?named-transform=webDefaultTransform&version=y9TNwQ8azEkUy5UdutdMDRW2mzbA.WjL",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-6.jpg?named-transform=webDefaultTransform&version=tF5WI7b.PlnvSWOOWwr3P9R5MRYlfjSD",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-7.jpg?named-transform=webHeroTransform&version=cA95baKilrWukGEQqxWGtWCPFCP4yMtj",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-8.jpg?named-transform=webHeroTransform&version=8nHFc_jo0XRulyvEaRg5aVdJarUVePAR",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-9.jpg?named-transform=webHeroTransform&version=rVn0y60YBZ91d_W9L.QpYRrDzfLEBUxa",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-10.jpg?named-transform=webHeroTransform&version=aXQMBodAJr9OQ6KcFJWIJYPfxLSoH32U",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-11.jpg?named-transform=webHeroTransform&version=9kyLvy9CE9kbo3.b8oq80e2ZCdXttgoJ",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-12.jpg?named-transform=webHeroTransform&version=fJP95MIcipEsHKsfJoX_mj7Iq2cmugvc",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-13.jpg?named-transform=webHeroTransform&version=SmFaJ6v.Oo_NaS59DR_Fi4HBKGThsV7z",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-14.jpg?named-transform=webHeroTransform&version=_F45fClwM8jJ4GC_J06f4MeEyC_NViUC",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-15.jpg?named-transform=webHeroTransform&version=BhB53.HRM.Rj2EU_kLcpcEehvpGOzeFy",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-16.jpg?named-transform=webHeroTransform&version=Uvz0AFTHeyZRZo980qZxmYKuWN8OHqiF",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-17.jpg?named-transform=webHeroTransform&version=BtnQpln9LrWwfIBiSYL0LITohsbBFI_f",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-18.jpg?named-transform=webHeroTransform&version=BfHgBDg80pkjlkEAbwOQsVyMX9WpOLBN",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-19.jpg?named-transform=webHeroTransform&version=PPvVqeRkPPRYYmO4s9ubhnCXeyJYCjT.",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-20.jpg?named-transform=webHeroTransform&version=2Xu79drQvbXLeO2CEDT4UmM6aQHuCh7p",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-21.jpg?named-transform=webHeroTransform&version=4DMfb0bj6oMK0x3mK4Kp5TYr8gR2Vzk5",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-22.jpg?named-transform=webHeroTransform&version=rc2fjkPEeJd5OWOsVVd5AnNpMOFu2f5y",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-23.jpg?named-transform=webHeroTransform&version=AyEZNIw5NATHI8RZEPsMj.L15ynTdqiE",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-24.jpg?named-transform=webHeroTransform&version=oBrhUsKxsd8stildy_dTdV41XlndqK3Y",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-25.jpg?named-transform=webHeroTransform&version=PN1gwtKHlOVoA91TRNXUHiOEclZRG.gC",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-26.jpg?named-transform=webHeroTransform&version=DCXS1tEay8IrMgWCgqzSdz3fW8vYBGvO",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-27.jpg?named-transform=webHeroTransform&version=d8Mro4P68ug8na8yfVkl12MXtBQvnz5o",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-28.jpg?named-transform=webHeroTransform&version=kriqxmjJ2f.kVuv7P.lvVVowdJsQVkFH",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-29.jpg?named-transform=webHeroTransform&version=_E4S1CFkqhWTYErat7JOSzIh6nfE_kbn",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-30.jpg?named-transform=webHeroTransform&version=f.lkpYPqhwWkUfwIVAVYDeeR4qBOjVLB",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-31.jpg?named-transform=webHeroTransform&version=aeoJhJevPZdUdfIQNfbAi.fNcisy6YsZ",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-32.jpg?named-transform=webHeroTransform&version=gmch9Z15TPrzYa61WD7HvicbsicHqGH9",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-33.jpg?named-transform=webHeroTransform&version=sl8f_TX.yc20wpYXT8vuvIkNSxfDCU2H",
+      "https://www.homely.com.au/img-variant/l-Rex-12977022-34.jpg?named-transform=webHeroTransform&version=FAALt0wHKMBXwfSsDtoGQ6FhVF3jIAU3"
+    ],
     listingUrl: "https://www.homely.com.au/homes/178-kingfisher-parade-toogoom-qld-4655/12977022"
   },
   {
@@ -4675,8 +8756,57 @@ const sampleProperties = [
     factors: ["Beach opposite", "Direct walkway access", "Vacant land", "Ocean views"],
     status: "active",
     notes: "Elevated Foreshore Drive land with ocean views and direct walkway access to Singleton Beach just across the road. Price advertised as buyers over.",
-    image: "https://www.homely.com.au/img-variant/l-Rex-13041064-1.jpg?version=g6xl2XJZ6E.._naJdkJGYWOwNXsTIJXJ",
-    listingUrl: "https://www.homely.com.au/homes/60-foreshore-drive-singleton-wa-6175/13041064"
+    image: "https://i2.au.reastatic.net/800x600/8ac89c6f0e217f30783138fe276d1d756a2bc500de7656ee2c94d4c933946a1e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/8ac89c6f0e217f30783138fe276d1d756a2bc500de7656ee2c94d4c933946a1e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ddac638d294f1b6b75bf4cc65fdce6a76575d4a91820f9595fa747b45f5e4554/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea791c8660a91be9583fea61c05b64cc9ac6e1f9ea8d7283c701bbbb970ff343/image.jpg",
+      "https://i2.au.reastatic.net/800x600/025d17d493823701add4ff3a2a04d44ded068563e8b38051106adc3117e33cb8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ef6f8df16656495e9201143b2ff656d50308bd12e26089433c1220c32aed33e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6cc09a9608507fcd4bef99c0beaf46a1b1aea9fece0b52ef9e5efcc2e29e2857/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a557a2facf94dbbede2575dd4ba66193fe2fd422397f6e569c37b012e46f03b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e791337d31a2232eb8d4b91ab82ce75b3f7f7bd56918e73fde5bf4f08b4d3c4b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d4386c86dd0de6943a0b24722c07f699feb365225b3becd0feb8f70348812aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/560b0ec56d006e9207b3984a8accf3e7cc3de4f26690e3d8aeec049414e909cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/083e002e9eb6c91cda9fb20bd81069cf9093540bb4d8f47ea14d42b77dfd337e/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-singleton-204482280"
+  },
+  {
+    id: "wa-singleton-lot-165-sandpiper",
+    title: "Lot 165, Sandpiper Drive",
+    suburb: "Singleton",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 55,
+    listedDate: "2026-04-08",
+    price: 556000,
+    landSize: 475,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Absolute beachfront marketing", "One street from shoreline", "Vacant land", "Bayshore Beachside Estate"],
+    status: "active",
+    notes: "Active realestate.com.au land listing advertised as rare oceanfront/absolute beachfront land one street from a wide sandy swimmable beach in Bayshore Beachside Estate. Price advertised at $556,000; titles expected Aug/Sep 2026.",
+    image: "https://i2.au.reastatic.net/800x600/f6f703fa77f32acdc3b83e86dcfd3f749ad5c3a30f46c454f08040ed8158434e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f6f703fa77f32acdc3b83e86dcfd3f749ad5c3a30f46c454f08040ed8158434e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ea6e619e2649b0257d2c7df01fa1e3cdd90e5f0168a99d58e399c3314b083ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a17bf952665eca9a999cf66c7a9431cf48bd2695998dbdc698e847b28a99a88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3dadff197bed421c8b5ae7efbb8a2454ae245058b7be5324104e41251324a28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a021deaa292f98c8c7b9939352a465b83220505160f1c4e3b38fd77b40fa3fb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7036f7fed1287c492985d3153d5173a6921c31bf1215b88197f3cd593d1d76c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2593790d7b27d754d1c951de65de785d1707f55adba00956dfae12c87a3a480/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd684956f2d0b5412f1215cd6e3b2c2a54a485accdd037cb9c36b647df985d1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a75a34d266dada8327da9f49a3957a39507854697d6956d5a155f0b61c9f889/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf342384f3da99c6dd534f81163805855ee01e388b21474997e9a762c21419c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8eee5d1b9227a8af2678948a61e27c781fb40c7c8ce842243cdcbd32cfe76221/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bec9593dc63703e212fcc3e31a060f381872d0c9ed2a966c412f7eec6168c63a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4330c40d3065e4f5f452850474598567837ef68041241177a74968d8e44d9bbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90c5e0840083a290147df48c4f4a38f2646208a6d074873adc7ae99de3c26385/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-singleton-204481036",
+    investmentStar: false
   },
   {
     id: "qld-bowen-151-ocean-view",
@@ -4695,6 +8825,19 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront-position harbour land with 21m water frontage and easy water access. Price advertised at $349,000.",
     image: "https://www.homely.com.au/img-variant/l-VaultRE-13026232-1.jpg?named-transform=webDefaultTransform&version=5eZ1qG6RGCsONdFPP0W6YSN4ybMFajUd",
+    images: [
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-1.jpg?named-transform=webDefaultTransform&version=5eZ1qG6RGCsONdFPP0W6YSN4ybMFajUd",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-2.jpg?named-transform=webDefaultTransform&version=EFnaXhrjfWrW_00w0mbBQkWpmF.5bWPm",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-3.jpg?named-transform=webDefaultTransform&version=jilMIEvNPLQPQVh0qQQX4NxrnGudfjgI",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-4.jpg?named-transform=webDefaultTransform&version=gBbb7bhxinByRC6wUVtHZKjlf1fsL_Xa",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-5.jpg?named-transform=webDefaultTransform&version=hqKZHD2c7wxxuenuvxp58cNNQ_sqYejm",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-6.jpg?named-transform=webDefaultTransform&version=70qirYXmYDpenzX9cl.6WE6UjYTFj3vN",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-7.jpg?named-transform=webDefaultTransform&version=ixhpQ8LDZfU8jLA.6SW3EoX3uMQ3ugEb",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-8.jpg?named-transform=webHeroTransform&version=ayVa.znO8wO3Uwpr8D2QYEmGhEQR8nH6",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-9.jpg?named-transform=webHeroTransform&version=ekmk6AIIls4LJ3GUQHv9EKrqx49HfvU4",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-10.jpg?named-transform=webHeroTransform&version=j.Lylmll.DVAU34LxP4PcL0dCViCOPOm",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13026232-11.jpg?named-transform=webHeroTransform&version=B7zrQFklE2dnGmvGXU7ye34WDeK6M550"
+    ],
     listingUrl: "https://www.homely.com.au/homes/151-ocean-view-drive-bowen-qld-4805/13026232"
   },
   {
@@ -4713,8 +8856,25 @@ const sampleProperties = [
     factors: ["No road", "Oceanfront land", "Vacant land", "New estate"],
     status: "active",
     notes: "Signature oceanfront land in Bayshore Beachside Estate with no road between the lot and ocean. Titles expected Aug/Sep 2026.",
-    image: "https://www.homely.com.au/img-variant/l-Eagle-12898797-1.jpg?named-transform=webDefaultTransform&version=xFpaNP.g4SnR.cRK6v3Jj5LrNsXe6qZ4",
-    listingUrl: "https://www.homely.com.au/homes/lot-175-sandpiper-drive-singleton-wa-6175/12898797"
+    image: "https://i2.au.reastatic.net/800x600/f523eb107c01ba5a625768d504ed36a549d9b0486105d6f8cf60366b10397488/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f523eb107c01ba5a625768d504ed36a549d9b0486105d6f8cf60366b10397488/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ea6e619e2649b0257d2c7df01fa1e3cdd90e5f0168a99d58e399c3314b083ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6f703fa77f32acdc3b83e86dcfd3f749ad5c3a30f46c454f08040ed8158434e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7036f7fed1287c492985d3153d5173a6921c31bf1215b88197f3cd593d1d76c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80aca48996afed8bfa40b76a4a1175232d44128f62484327cc63ef8fe177bc24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c74f4193ade074640b319e9449c38af2e5a003d8eb33163bcef8461b141b0c75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3dadff197bed421c8b5ae7efbb8a2454ae245058b7be5324104e41251324a28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a17bf952665eca9a999cf66c7a9431cf48bd2695998dbdc698e847b28a99a88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a021deaa292f98c8c7b9939352a465b83220505160f1c4e3b38fd77b40fa3fb6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2593790d7b27d754d1c951de65de785d1707f55adba00956dfae12c87a3a480/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd684956f2d0b5412f1215cd6e3b2c2a54a485accdd037cb9c36b647df985d1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a75a34d266dada8327da9f49a3957a39507854697d6956d5a155f0b61c9f889/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf342384f3da99c6dd534f81163805855ee01e388b21474997e9a762c21419c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90c5e0840083a290147df48c4f4a38f2646208a6d074873adc7ae99de3c26385/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4330c40d3065e4f5f452850474598567837ef68041241177a74968d8e44d9bbf/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-singleton-204466816"
   },
   {
     id: "nsw-blueys-beach-64-newman",
@@ -4733,6 +8893,30 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront home with direct beach access and panoramic views along Blueys Beach. Expression of interest listing.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12475911-1.jpg?named-transform=webDefaultTransform&version=soupaD38_UHSu_yROEH0fTHiLX6smNgm",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-1.jpg?named-transform=webDefaultTransform&version=soupaD38_UHSu_yROEH0fTHiLX6smNgm",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12475911-1.jpg?named-transform=webDefaultTransform&version=Jvc3NkQ51udDVyMUIYrkaZxpwWWkNk3d",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-2.jpg?named-transform=webDefaultTransform&version=VOhqCBhlTJnjzf6wwDmWCSEljMC4a8yg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-3.jpg?named-transform=webDefaultTransform&version=6518922E8QbL91TL0VFppd9BC_ohDV6I",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-4.jpg?named-transform=webDefaultTransform&version=yO1Z1mK0vr6bVtkI3DZjoWHuajVGfT_L",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-5.jpg?named-transform=webDefaultTransform&version=ONU462lrlvPwi0m2QWKLnsiMffPX7Ufz",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-6.jpg?named-transform=webDefaultTransform&version=HMzKmggjUB0BnjWw.6maNwn5CXG9C1n_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-7.jpg?named-transform=webHeroTransform&version=XT2zr9tK3SBZ0dZkkvSjbLZt4iE5XHqB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-8.jpg?named-transform=webHeroTransform&version=jg5YnLqdJCri16uEegSuKpvjEQy_dTVu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-9.jpg?named-transform=webHeroTransform&version=ecsEHH0HCg7WLHQhvzskdu2KRPn.nFeM",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-10.jpg?named-transform=webHeroTransform&version=bpCXqV_5EdWbYtlcykdT.RJf2fNVYaXn",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-11.jpg?named-transform=webHeroTransform&version=UC5fkkQhxLDOCO.w01u5M2Xf3Hg1W3NQ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-12.jpg?named-transform=webHeroTransform&version=HIBsaY0r5voOuUdt9Wf6A92m7bLaNQya",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-13.jpg?named-transform=webHeroTransform&version=19Ybs.AY0y7k35M.TiF7rN1RbHFr.fgO",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-14.jpg?named-transform=webHeroTransform&version=tzfmviKjgDY6TeVf659NgK39nBEommlU",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-15.jpg?named-transform=webHeroTransform&version=MB2lDU9VlIKJhGtGDGIezXA.HheZl.aF",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-16.jpg?named-transform=webHeroTransform&version=e6aWEo4MwoGiSu.2qQI8HlJkcHmV_VrN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-17.jpg?named-transform=webHeroTransform&version=rj_OzHaiQ5Ib8w6r2A7KvhNGfGArmcx5",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-18.jpg?named-transform=webHeroTransform&version=f6EqBADqP6h8UatYYsp48xg.r1AypWn6",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-19.jpg?named-transform=webHeroTransform&version=6wwF0V0KLfYuYb7HnFtipmt9GFBVlMsd",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-20.jpg?named-transform=webHeroTransform&version=bVk.HDP1egtNJUywBtpkE2Lrm8I.3t4w",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12475911-21.jpg?named-transform=webHeroTransform&version=wXVpKo0N11I8tenY6QiEmkdQrqAneeeS"
+    ],
     listingUrl: "https://www.homely.com.au/homes/64-newman-avenue-blueys-beach-nsw-2428/12475911"
   },
   {
@@ -4752,6 +8936,35 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront building apartment with no roads to cross and direct access onto Palm Beach. Price advertised as offers over.",
     image: "https://www.homely.com.au/img-variant/l-Rex-12921050-1.jpg?named-transform=webDefaultTransform&version=B6ZUN6O3NgDNVJxPPo4mIbf84lJx1PB4",
+    images: [
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-1.jpg?named-transform=webDefaultTransform&version=B6ZUN6O3NgDNVJxPPo4mIbf84lJx1PB4",
+      "https://www.homely.com.au/img-variant/fp-Rex-12921050-1.jpg?named-transform=webDefaultTransform&version=ELiVp3mSCHff9h_bZr8o7O6WA9lVy1tU",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-2.jpg?named-transform=webDefaultTransform&version=E2atX0KtQRvKQYdfeyc3xfTeJkb4ek6T",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-3.jpg?named-transform=webDefaultTransform&version=HR7H_ZL5Xozf9EzR7zZ_kYFhS36MyEON",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-4.jpg?named-transform=webDefaultTransform&version=jq9Hoti.IvuYxU3mpKn_1Y17XKVNC4z3",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-5.jpg?named-transform=webDefaultTransform&version=veL.DYld.xn8rndQIEdmgygQctvqj7Q4",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-6.jpg?named-transform=webDefaultTransform&version=ptih317b4hmDmKiuByBLRtQIL9iSgPPX",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-7.jpg?named-transform=webHeroTransform&version=WV9qYUcvxDHdyD67wb3rqR5X5d3kn6kE",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-8.jpg?named-transform=webHeroTransform&version=H9I1WDUXOQr7MinkBLo23Qaq8NqOqGzl",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-9.jpg?named-transform=webHeroTransform&version=s33wOCUphQAaPLfMLh.fq4dy_C0fdd1J",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-10.jpg?named-transform=webHeroTransform&version=a5gor64dPM4xG_5xpBOeJGAB3G5I1WOa",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-11.jpg?named-transform=webHeroTransform&version=lCq88SbjK_ZgPj7lhHP5O.5wzTzOiENT",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-12.jpg?named-transform=webHeroTransform&version=FGO54tnE3EzdcoFUizuEHxC_iVzBGbta",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-13.jpg?named-transform=webHeroTransform&version=NH000YvTyylWxtrTMIE_s8MmEFfBhyEf",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-14.jpg?named-transform=webHeroTransform&version=pXmlKMqTmTdQ9XSGCReTI27zepRZvki_",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-15.jpg?named-transform=webHeroTransform&version=Jcc7NVD9NDZjT9zRkEEmnRelSCoB56cp",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-16.jpg?named-transform=webHeroTransform&version=Tz6CQgs1gX9JPxZmBCBMKkxeoYhKVogF",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-17.jpg?named-transform=webHeroTransform&version=Da9YOf4iPy6JZm_HqAoAXITq56MMc5Jw",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-18.jpg?named-transform=webHeroTransform&version=uiuj7VS4erhArh7UdWYT7z5nqT5vrBSz",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-19.jpg?named-transform=webHeroTransform&version=x92aJ20.9_h6CGSwL.kPkpfUd3HovsU7",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-20.jpg?named-transform=webHeroTransform&version=HIykTQSgUy_QnL9OiUqE3tiOq_Cn..Mx",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-21.jpg?named-transform=webHeroTransform&version=xhh9S4..y1.Qwh3pqmE.4ofoXYtHisu4",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-22.jpg?named-transform=webHeroTransform&version=FWoXwyQ1AkkyW_8DK1dS0Qb3OwlgeMoq",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-23.jpg?named-transform=webHeroTransform&version=9XSoHfiOhHpUkcFulEu5Mj57NEe1NI3v",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-24.jpg?named-transform=webHeroTransform&version=CrsstCRJ.wuO89vZG8BDEissMfDUUjkD",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-25.jpg?named-transform=webHeroTransform&version=nxynewEH3xkgsOQ0wdPBaMlnj_iXmnDk",
+      "https://www.homely.com.au/img-variant/l-Rex-12921050-26.jpg?named-transform=webHeroTransform&version=WdNdaevVeQ5mcAWxrpUYdrm0G2uuGFW6"
+    ],
     listingUrl: "https://www.homely.com.au/homes/10f-973-gold-coast-highway-palm-beach-qld-422/12921050"
   },
   {
@@ -4790,6 +9003,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active Caves Beach listing advertised as a once-in-a-lifetime beachfront reserve holding set directly against the reserve, with private access straight onto the dunes, no roads to cross, ocean views and two dwellings on one title. Property.com records the active listing price as $3,000,000.",
     image: "https://i2.au.reastatic.net/3500x2625-format=webp/c28832b95e15e650b8640a9433003b0532c3fa73707336f2a41f74608acde9194/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3472072eb26c346b7668caf51faead9a46635e34e60e8e0c5482351ca6ba9901/image.png",
+      "https://i2.au.reastatic.net/800x600/ffa4fba7cf3d523f72ed822d4cc27dbc66fcc5e6df0a5594ba5f007f28c0e27f/image.png",
+      "https://i2.au.reastatic.net/800x600/c37d12b74f13442923575651d0538f4fe8a12eb7530fb11e65e2046a9e85935e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86577635ffecd90c555aaf52f8753d61d3edb9a7f9e3fa89de2a7034d55b8246/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b7bf50cab81c8563cb61577b499a1739ba7795f470cdb9384ae945c2b6254c9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23699eea92472792a96912bcc0b0597190ac2a8c2b715d234b53fd7f6a8b6ca9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54c7f276105206c741bd234e68ed80514e3869ffd87a5018179e3210331e8fa7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ebaeb762f96ee6214215f5f48287ab3d0357675dbc2133510072040438ce157/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02b3013c84cd178fdb0842a32d1f510ba16be5fa34ab0f4e29a509d1ca2e0f9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ae0418e1eae030ae73aeea17b7ff0889e1f107e460b39e8bb1ff9ea1993bf09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5906899a6f79507c2d763d5d6792bd6a17daa0e4a6537148688aa3416ce577e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b20d8ce7481785fca0a5ce4181720862588f75a81356ea3073b1ea08189aafe1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/744fb79dcb34d42d2b8dcd0da493635a19fd54267328359e57bbc196b405359a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77ce05985ff931e1cd467e6d10e27c8e21d968965d3b598d965eb8aa349d904a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23c674edde276b89cadd77757deb4914e02762de6d36d2059eab34b81a14b502/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8ce46a77dfd616fa63ebc3071638009be7304a1f2c9a4e4ca49dea9e8cf0e1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10f0272963b6415a84b1635ddd7bc5dbd7c80c03e0b70bacec540a8069d8dc29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96db567609143eb0d2fe88d050aa7b38457d6768d94cd20dcb76085fac0bfa12/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab682005f3059424da32533faad745e031096214af0790f484b66875e2e6f997/image.jpg",
+      "https://i2.au.reastatic.net/800x600/544c96472bb1d7f6843dd509b4675118b7a4ade94f282a5362540efe369214f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0c1eb7c3805353e740f35fe82d5f345677a39570e466302ae53677ed8270bec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb784a0ed0b246d172e6a36fbe828a014aa1b88a59a92b6d004bfcb72f34d4ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/002d617270999e85a172e0254769c71d2eb5390234ee1c3bb3d32a40d13d6ce6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e45adc5971d47dc2e88dc510039c32851ec5d9d92494e8df1ed59dd773d67eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19bacd1541ed23faa92b6d8a7e1917f9bb9b2ad607fa49b473c208f94318174e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04351fecaa9c085a86f441e53124c64d0ab1f6f2e98d5651aab6bdbf118bc079/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5f87397d72924b275a7ed141eb336971b6d5ad34b879203f7069f8e1121bbe9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/34d4b8b0264af71bd4f7fae19ab546bbddb8577319c9f34d8c18b378aeb14f90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/edd53bcdb314aa98a19da0dd058af8a1ffe86f729dc5d9f4167f3eb26b2a4ed7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4690e31670e74241fc13062292290d599ca6eeba0c55a8d5caff2be1734944d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c33e9f0a5fbbf69b908eea8f13e4f1cc802854adf4c16a86b8de10fbf95ccd47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8c56bebdf0dfd5b3dd2afd3af11895d10243079dfcea1cec47d46432f6c0058/image.jpg",
+      "https://i2.au.reastatic.net/800x600/249498ce76c2515cada1fef8c59f0de48fb0d6e976e3fcc7dbd544a10b040e2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31ce7bb23c155c24fe5622c3e588c649a9c136b72a8d207e124bc4ace09a9eca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b10f8e71125c11a582f224e301e05c5a09be1e60652bbad20c3f3dacb13ed671/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-caves%2Bbeach-149649208"
   },
   {
@@ -4809,6 +9059,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active Caves Beach front-row listing advertised as directly opposite open green parkland and footsteps from the sand, with protected ocean outlooks, front balcony surf views and beach, cafes and village close by. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/3500x2625-format=webp/49165d8690e48953fbf37f0d24a1205ad8c829335b28ad7fcf2e6787761ff4bb/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2ce5e01420acc096a0bb392232a26dc2dabb5eaa5c43034dc5acd0f39e29e637/image.png",
+      "https://i2.au.reastatic.net/800x600/cd0680ceacab16e40b7c49281c43d0dd681e70f21bc4ce5608591e4ce2fe7555/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dac815c808bf3191dd2c18325caef06c21c582a68233e8487e38969cbe6ad66b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43927157cb35edcf7bc4937dd719df9369d9ad3ba2807064d63da6ee6a829318/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91eac5d83ab0f9d44a189f7ec91536053d3907ad393bfb9cd099aa00a29926ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a17eee49fbf31ec8e8903274388fd5c69fc3fffa2439e0fd5cb673da1a0c3f9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/576cd03665df1fbb96b2046a9cdd6acaebc965c285a0ed9378362cc928934571/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ca88d9d82306d44f6d8d0149678d4277ad7a68be169f8c05c1067b510b65d3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2e4d33dd88a66b37ea29d0000e938caf83c1e12ed2dec1618213d9fdbd39fd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f79dd99b454984e850b16fd9c44aa3b7b2ad332f7801fabf2a4b929f2bae25f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29feb807a7c26506e3b559344d018f920258ada874604280c4082d4777d4f466/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55436ec559006c177f9d34b8667b97e341ed0496b8d53d99da8cfb1a8355a841/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49ee9ec83a258f1031eb693bb823713d68475815892afb72e5ad9b145477eab1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e1835c3cd24e56dd4920869884d7fcf74f66741bc3e1126a2b0dd52ae7322dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91f77603c6fb4227526467f56cae9256479f9ee3458a3b4575348c6d219114e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbc7e68a36b2f978e507a07cc56e372fabf3d24fa8202a52b687a89838f9e243/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27bb96540172edbcb22fa62bb6682ffd120ebe42326b79f6f416bf79da57ba62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5d2be99b4c9fdf658f3b11f1e4d11571c4d27f7c8a4b5ba7317ae5ecf233087/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7bff38fb156f0c67ae8bdbb725ae7b2a3f32aa5fd4554d492a66fa4cedc4a1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20ea3497f87290254fe75455857a7a245453cc84e3e10d22a5c95bb88fca3cd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c08678e07354f3dadd822dea37ec0d0b64ba921a9fb0f88ce1042fbbc72410e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/add8a193b2164dd34c2257ecbad780030ec703704e716078af5f6665d94ecaa3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/806e58780f9e7fcca344c55259f7eeb71db07cd5165bc83b7a6e490864ac1538/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64154091a9af6aa8649bd9dce22bdad8d6b0f11b538cde584439ee9ee217a4bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4dd1f263831bc18bd89334160a0d3f2fefc8db73da2df64e01053b3fb482d4d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/736e283fc6e25c5ffe570eb6360b3b19fc9d3b8a8caf1bf9307f5ffc681fc882/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cac0826d7a8a9d9b14ea84631fc7bc4f8f8443522af9caff9d135d7c5ba175b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04601082aa749c6cbb590da6bda8d91e1e30751b21f40123a9589445c1b85e67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/908d0c22e08429de98b94bb43e32cf50ad021097c86c132c0c652745d1d098cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/db3c99651f20c7ff0cf5dbe055ceb720b772af8c3a15ef6ae29e8602fb2aef83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a475ecab43e8d9ee30c1b03d48f04827cd8424414a1ba38eeada087bea5f70a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f58fa726cbbdcf9e8c46d3ca9ddd9bbbae9193d7a32cbe30e03b60df74babd6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c0a4e40f6e2e928c423a6a6849caf86b991dbecfac03b91b5d6aa92b11f99dcd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c6e78d7a311680eb4e11038202365e6a607aeb882df689f7a9f3cd7f88bb38f9/image.png",
+      "https://i2.au.reastatic.net/800x600/b25f48880d389b851cbf4c73b4e19b7be64a372c6d4843ac945967af24f4c5d5/image.png"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-nsw-caves%2Bbeach-149884628"
   },
   {
@@ -4828,6 +9115,41 @@ const sampleProperties = [
     status: "active",
     notes: "Active Caves Beach apartment listing advertised as a beachfront reserve apartment with sand and surf literally at the doorstep, direct access to sand and surf, ocean and nature-reserve outlooks, and an east-facing entertaining deck. Price is advertised as contact agent; land size is left TBA for strata stock.",
     image: "https://i2.au.reastatic.net/3500x2625-format=webp/236b4b0687498c606a7040052521c978baf6100ca3ef4384109979cecdf57863/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1cfdb380ca45127d8d11ee0c9052676b2e0d7b3fa1d080e03fb4cc6fe215bbdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07ab8b1e9786c0438d6fbea1699f180d4ed09f3af671891f66925301a6392f29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2637f24575148c9e875945031670568edda250b3392ebcafa4fa78264f64c612/image.jpg",
+      "https://i2.au.reastatic.net/800x600/654f54a614df1eed7dea0efecab6674a1816fe1c0f7898bdc4a846e92afcbfd2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25b6228a64835060e91194a61a7de8dac352082caccd2cbe421c6b522f216611/image.jpg",
+      "https://i2.au.reastatic.net/800x600/265e9ec12f87d5ca52606bb34d67ff3fc34b851a777d3f670caa92369f54b37e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7251c49b9c73ddd75543bf2bb2e8b400bea0603efebacfdca940a17ce9dd0ce8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/978b7c930abe21c78db9fea3c432e72b0723434c7de668a0dde7e0f1d9da9424/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c103b077ec1c9e9cf49d6c60954637abd95e477461a9c64a7177e5920799aeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c3d57fb519654b9d8df5c0adf8e93037abe054eee3b24d9964fb54257e907b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1bdb47263d4e87f61a6ee6f932387ea786f175745f7fdf78d8450450d835ba15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9671d7786f5a2253b3f9b9dc75c7b07f5ee9e0748881b243050416859496649/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ccd6432b240d8b1c63f739798e76e2b870b3f6dc65366fd77a34051d2ea8f8c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/035f8bfe9a69fa37b3282508bc0a47c381eef80661aece202218d3e4d4737bd7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1288c3c6f0241c4d288a504faed202b647eb0e62bc68bc569ffab078ad593579/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85ece641b458536ed2da316b00c61a6830b620e8495b352144f4238b9c6cb773/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d63f462efd075f4887cce97398cafc0320bc4fbbf71db2fef60b39075558cbba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b47ef01edf8ec5b7cb8aa2d49199bf474c05a5e871871d32f551eb468076ed84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/612a83199fe633402e31df9890811692fd40ed07f6f7d58a4dbb7440ab483e0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45ca66061475385d0d2d7b6160c56ed471ebddf63f5b6bca1ff46cfabedf9272/image.jpg",
+      "https://i2.au.reastatic.net/800x600/793c482d7f7707892fc91bb3b2be5ded89c977910f6eb35cd79fd17c90c08285/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac9b0cd268589001a0069207d8aa644087a3b8167fb729b542f37642646abce4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb776e14bebd9421cf2c2d3b3ae875576368646fe8cb5dc54ea4a613b7366e40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b76248339ffbe996d312d55224e92f20caf02f51976512ff656c4247e03b10d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4dbf2d02222d82ee0397576ca9617e2e66179052db2455abbcf3e169f2c8cab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4ac181d45dce714e0ebdeb643530c8277f65fb57a7b9033035175364e0c36bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/347138a77994e7e876ee049760606ff4b1346d0e10434c4454f0c0c2ed1f57a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/834573dd421a3b48ac1a32e847c1b375da0675bf037327669fe57d8bc1b0d8fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b7b1de0b0012945199742e899216985a854783a56b474d1f5262f9e44dd974f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45f9d61ff6f360aa8082168f563ad40989fb4ee5a7dda341b63a558d29262317/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80f9e7676a4ff3992846eeb24e792a00250f33e5fbb26e3f2c89ea6682e9a3c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/231c27d5af3544ad7af0f18b674b8bf0d50e5741c143afd5baea02930f73e89d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b992b237165b46b7f224718a90b046669fabee786b2edcd1bf0b658d4ee6436/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-nsw-caves%2Bbeach-145074428"
   },
   {
@@ -4847,6 +9169,32 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront-position half-floor apartment opposite Surfers Paradise Beach with unobstructed ocean views. Price advertised as offers over.",
     image: "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-1.jpg?named-transform=webDefaultTransform&version=wRc9XgwUSJPdRBo0SC.8fsoeIfwIL_Rh",
+    images: [
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-1.jpg?named-transform=webDefaultTransform&version=wRc9XgwUSJPdRBo0SC.8fsoeIfwIL_Rh",
+      "https://www.homely.com.au/img-variant/fp-MyDesktop-12837924-1.jpg?named-transform=webDefaultTransform&version=bwvyLROvNSmSWPUbmA2HS9D_GtQdax2n",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-2.jpg?named-transform=webDefaultTransform&version=MnvwOyG_bMjrRgW_uefKeO1tR2F6.YTM",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-3.jpg?named-transform=webDefaultTransform&version=obNJDRyntYPTDILS5WnxHHrdWyFnMeNZ",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-4.jpg?named-transform=webDefaultTransform&version=F4rPc4e0qFr.GsF9ZeaiZpWOp0fBL9Bx",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-5.jpg?named-transform=webDefaultTransform&version=dtwUNcexcak81FJOcVZdbyuO.72eqwyR",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-6.jpg?named-transform=webDefaultTransform&version=V2DtXQIrPA3rYyzpY6azhb7pa4XywzxT",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-7.jpg?named-transform=webHeroTransform&version=JrB1ouLkMRJEq2PdbroCCTQidAf1s46k",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-8.jpg?named-transform=webHeroTransform&version=4XiRKdgu0nxKD0cKYfnIvE1d5gdc30OG",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-9.jpg?named-transform=webHeroTransform&version=oQwMZNZcLD1Xa0OtXvt7aWxdMqRJSlKq",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-10.jpg?named-transform=webHeroTransform&version=3vbOYNMF5kZV55URyaFkB_gSjf42yyXa",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-11.jpg?named-transform=webHeroTransform&version=R50fHAstL4.gJj0pLfECW2i5k_hhGKmb",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-12.jpg?named-transform=webHeroTransform&version=1StcJcUoCRyCbXLVTdTfDETKqsn8MAWd",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-13.jpg?named-transform=webHeroTransform&version=.4Q_WYyQ38IXmlTxei_MeuPkKNPl22lQ",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-14.jpg?named-transform=webHeroTransform&version=t8vGcqMAqUf3tsnJ14NZTfe3BwWNk4i5",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-15.jpg?named-transform=webHeroTransform&version=r8xyTB5sJ2h1bDCAVCG7CNe1n.9zHQv8",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-16.jpg?named-transform=webHeroTransform&version=k4viyCkJ0b9Nl6pkpey2ZjBZT2V0y1_4",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-17.jpg?named-transform=webHeroTransform&version=7l3YDaJfR36caGrtm4xSIDkW8grIC8br",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-18.jpg?named-transform=webHeroTransform&version=NUXmFdVNG1qpx6YksnNQaH4YugN5mUG0",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-19.jpg?named-transform=webHeroTransform&version=mDUDazK_yOSjtf2IwnSKFCVwkdz9ypL9",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-20.jpg?named-transform=webHeroTransform&version=PPj7W.mt0_dFfywBV510bkFZPPlM2lGr",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-21.jpg?named-transform=webHeroTransform&version=1tQrtxWAH75T5xZId3ejBuWvhQjyXpSl",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-22.jpg?named-transform=webHeroTransform&version=6atnf0umBDAbalo75WRxbdjDZOkEfVf1",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12837924-23.jpg?named-transform=webHeroTransform&version=9y0nZqm6v8Z8aI3FFFy7Fh_Gk7_lx9_a"
+    ],
     listingUrl: "https://www.homely.com.au/homes/36f-80-the-esplanade-surfers-paradise-qld-421/12837924"
   },
   {
@@ -4866,6 +9214,37 @@ const sampleProperties = [
     status: "active",
     notes: "Beachfront Marine Parade apartment with ocean and reserve views in a boutique block of five. Price is the midpoint of the guide.",
     image: "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-1.jpg?named-transform=webDefaultTransform&version=f8kiu8jOPKnbMSpgr7YURxW.DIr67HqB",
+    images: [
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-1.jpg?named-transform=webDefaultTransform&version=f8kiu8jOPKnbMSpgr7YURxW.DIr67HqB",
+      "https://www.homely.com.au/img-variant/fp-MyDesktop-12776324-1.jpg?named-transform=webDefaultTransform&version=V_cdaJCd8inWMyymfxSO7z8nW2wIPZZ9",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-2.jpg?named-transform=webDefaultTransform&version=Dr2lLIiJEV84eYl23i0mv9igkk4gdiQs",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-3.jpg?named-transform=webDefaultTransform&version=wQut_cH5OmlGF4A8hXJ18wPVNDdXQbu3",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-4.jpg?named-transform=webDefaultTransform&version=ObcAy_PpODR69gYOtUi1xaJQLwGZAVRr",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-5.jpg?named-transform=webDefaultTransform&version=_IhnKewzYI2OOqfgKh5Mt4ejVdhIAQRW",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-6.jpg?named-transform=webDefaultTransform&version=6hq9CXVZP2Ma4xp6PbCPxnYnRTSyMmZS",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-7.jpg?named-transform=webHeroTransform&version=m_K66t6EsJOrkPoYCDxp0_fND0w0ZE8V",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-8.jpg?named-transform=webHeroTransform&version=iCiUTedx6JhlZhhmjJ.Y17quwrYk8ID8",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-9.jpg?named-transform=webHeroTransform&version=.poIqlifQ599diyonaT_xwNe5xbuaU.6",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-10.jpg?named-transform=webHeroTransform&version=Y6Ln4vTpEgbYoFgqJLx7GvMJVBuwBerX",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-11.jpg?named-transform=webHeroTransform&version=6dcoz90vIgMSju7tOmvOq3mL8LX5saAn",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-12.jpg?named-transform=webHeroTransform&version=mnL2lRsIUMqgOBi_vCJJKd16gXlkCVZY",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-13.jpg?named-transform=webHeroTransform&version=pp5490XrBrn2jmndLRKHD96I_RXlbhdT",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-14.jpg?named-transform=webHeroTransform&version=yH9JdRFxkftJLFFxkU8mzsrLkmaKI5yS",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-15.jpg?named-transform=webHeroTransform&version=wzbqfxQ2MoYtHHq376a2MkHIRtl9DTob",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-16.jpg?named-transform=webHeroTransform&version=Z6LoFIj53.uaPUNdKX952syhrI15E9JN",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-17.jpg?named-transform=webHeroTransform&version=G1birD9qCoOlCK0UlUPfPmVi2nQVffi9",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-18.jpg?named-transform=webHeroTransform&version=goM_ClwM0B6LkCX.nEqNrEVp6x8vD5Vn",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-19.jpg?named-transform=webHeroTransform&version=TKN.xJlDLQd82KzNqLDaCiYaR.ZKCnWE",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-20.jpg?named-transform=webHeroTransform&version=YoYt8.jsBqXXbs4EOIf4U27z0_yQbYdh",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-21.jpg?named-transform=webHeroTransform&version=CZzOZufJX1rg88SfxDUREWXHfJutUPLz",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-22.jpg?named-transform=webHeroTransform&version=qg21Yu55iwVJ5DgSjMIcwOaqYi1_.Yew",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-23.jpg?named-transform=webHeroTransform&version=.krLM0P1lzOwTqgHCueEINbQtGNJxVuO",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-24.jpg?named-transform=webHeroTransform&version=NAMMfYOdqRLZwORkvJC5UlZVjtFcuCLj",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-25.jpg?named-transform=webHeroTransform&version=q0uOnrzURcNhUJnnudyWy7xL8RqGjloC",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-26.jpg?named-transform=webHeroTransform&version=MeuWx7YzIGaGQs.nbRHriWOyJDasa_fZ",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-27.jpg?named-transform=webHeroTransform&version=F43fQc0hWlqwt4x8ae.FkVPDKSvW03dn",
+      "https://www.homely.com.au/img-variant/l-MyDesktop-12776324-28.jpg?named-transform=webHeroTransform&version=T3twyik38Wjil_0S9fj.96tJMY.ME6Px"
+    ],
     listingUrl: "https://www.homely.com.au/homes/4-190-marine-parade-kingscliff-nsw-2487/12776324"
   },
   {
@@ -4885,6 +9264,38 @@ const sampleProperties = [
     status: "active",
     notes: "Jefferson Lane absolute beachfront house with 10m ocean frontage and direct private sand access. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/92e17d21007f1c7a915d9962cbd6d5b56503b39f31d177edc92023977dbabfc5/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/7f55ffe50aa8be48719004caca0f98c89e14c7e5b40d3b31fe2963debf923aa2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f572bc35d9177d9eca3ed897f1d4a989be037eb3a232f8f7b59fd07f3da554e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5cdcdc79c06a4f2494e152df27b8e1493dccbd83ead88ce467a85ad184065736/image.jpg",
+      "https://i2.au.reastatic.net/800x600/108f7de0f6776d89f4f512cc654ceb95b4e0929d2061968fc5c03455cb7ea1a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6768e0488709b2ed6f44fa5879bf7357d68b6fa8a063ba3edce56da6673bf169/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0c740d26289e2a965943f19c24bd141256fac5d2d9b0de0bfb74258a416d56e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/650b8353edca5f26e893aaa13e15f13f25733552da6051db810170765d0a1330/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7eaf42b6fa61abb82691c0d440139b1ed39334229c47ae5ebca79ca423d2c3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/761fcd42814e7cb556c815971bb411f78ea4dba829abcec68fbf4dee8f48d869/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d4061c5ae3f7a8d57f876570dd37ad9036ad9ab996558d0dc8595e2e3195879/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a80baac5fb53e4a434dd75131ecac2943ae266d6470c1806c4f14cf5553b7e4d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7be62c612b5643395add7acd1032f5485ac0390b10d4f09e55800f7e362c291f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8a348e5f4195eb0b974fb3db87719f45cff2d07e822f232f1738092d7f15e70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86c8247133e95be74bc2472f2df8b8a64acb4a6c034d5b683e7e0671cef1e36e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/993d29ec238f5a0ee89018c04fa782c41a9e66d355743bc3c846339f91b2fba8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78c68b31f62c10b2bdefcd31edc3c10354e28f473deaf275364adf0f2afa0581/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46be809fc3489dc6ac2448d83ad26cb261028cd2d0364cc78c209e63835a7f50/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10283497fbe968bd7b4de9d28d3ebe3c1f5219d1bf06bb78cfb0ddb0a199697e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d51a96ef141d554b87f6f0d1fce4e87399de7ccc6edff34b73f79acd45f86303/image.jpg",
+      "https://i2.au.reastatic.net/800x600/391e8029252df07d42cddf621b24358639998972994783ddc258891c31f22f31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e46f3a24fbb866244b70c852c42c53111c8d9f1b755154f4de9e6bede6a860d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/579034a2ebd531d1ca6fdd9ed4bfb31c1151795a95cd7cf9182c362c185877fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5cd4244526617735c8d77fbec79367d3a1c55baa78a22fb50458b61e2a0c191b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7937dcb98676ac10bd55acdc3b788af775eb0faa56e5a2f64ab1f712ed1f1778/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6daf60f67fe58063e1e940c07dbcc00853b2a3db30d09044e0d1ae295065d82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a9a43a8618fe1e48616fd28d0cbd3be52b6b9ad1a728a67238dcbbec08e871c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38d427cf7ce13f77d6c3eb1bbe3d06d87f3e5a281c0c6e5f3cb92d6f6fc3222c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6315ef36cdaf1192f28b0908c404355427e9cd15b2573724ab4311e184f5b8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3252c48921571e34a045d842ae1c6799009036eadd3bbb6289ce5f12a00ec79b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25fe02bd5c81e5279a8ae922c7ddf4587948b89370c473c007f692ac6d4d0f68/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-palm%2Bbeach-150390700"
   },
   {
@@ -4957,6 +9368,32 @@ const sampleProperties = [
     status: "active",
     notes: "Jefferson Lane absolute beachfront block with 11.9m direct sand access and redevelopment potential under RD6 zoning.",
     image: "https://i2.au.reastatic.net/800x600/0bfb7bebcf49838a4f5f15c7e254547c0bfdb6ff1f844a72f5086b779a69720a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e9a8504976d7a32120fa68d5ff0f51b85d1c725106df53ebd24706e641d6d0a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0a6a56553255cfe3a7f961dbee603749c96c4c3f16e0e4a3798197f1f7d9402/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25c740213b108c15a2ae877dad8fed2997da660883b8d7c5d33de5fc9c7cdb62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a3dccbfced9fcc86570d07d561f98c2e367a8fe8b326a2c2db3709d9ec25e11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20486604c1f6a869dc636a7fde98d57d92ef1b5b8e5e08b03a1d0099fa32e657/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53c1714900f312cd1c79e3457cc5a41acd7e7f0fbd8d6fded9a993a77d06cbce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e87e8a1dfbe92dc195eb5c1cdea4a717e3426e280f1d41e37c53f356b71f6086/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25946c593afb6170c67dfb97015d975377c4d0dcb37290d459b9181b13a37af8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cbbf94d7e9dc98bb688f4e075ee93dd04cd568561e598f8547005b552172279c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8da71871d5eaf41d3cb7174d1a476fce490e7cb7c7e8797c94da37032fd484aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c932f028720995a6b48018cd14f8772aab4ae9b3cf70ef77d08534c3cb110ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a966069208fa43eac48736bc234be6d3f09bcce9fdd0aa598ae567d9f27a75b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/759556627a325482b33928254775e7e2d2dfdf6df3d22ef504386053d76835ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc4ef6d15d5c16ceda5eabb3f9fb0791ab7c1bc60f7810f56b77978e37cbdd6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09f6d0325b21794597c707c8b4be1cba188dfa5abbbf6f7d50908c231a1f09b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f16aa58d56465ea14b148f979ede1c1fca76dbeab6d553b8aff17e7a2af18864/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4f302fb987ad7d776fab48c3a5ddd92fb3d270ae1d584812316910bb1c86a7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/375c0442abeb6de9cb7b183afb2072075f52b33987d4531b723c53b7b2413c23/image.jpg",
+      "https://i2.au.reastatic.net/800x600/80ad66f0dc2600297d82f6882fcff4f7cdfcd4568536ebe08b88b4e4e12fde35/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38f87190806817f45f08d8fa3df3483216fe72c773a35ac385f9e40a68f54034/image.jpg",
+      "https://i2.au.reastatic.net/800x600/172e515d2425f8cc8ef15939bf523f7da4351cdc3e8729ae38eace236901beee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b49f4f7626ecd16760a2af83f3f9ba312fd0e92bb312a26c8a4ac362ff1025f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e20ba8612d298e3b9bbe77140816531a40904b20d28fd484845c6fbbfe3c219d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0784ffb6676ecfce51a2cc575b3b50480ebec59be57b9a5bff32ecdf5de7abcb/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-palm%2Bbeach-148894788"
   },
   {
@@ -4975,6 +9412,27 @@ const sampleProperties = [
     status: "active",
     notes: "Omnia sub-penthouse advertised as beachfront with an unbroken ocean panorama and a full-length beachfront balcony.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12716050-1.jpg",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-1.jpg?named-transform=webDefaultTransform&version=xy4ba8iJ0GaK_JYa5TCX8s4EBz3lVIJ1",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12716050-1.jpg?named-transform=webDefaultTransform&version=vLtaZC.fkehjSlb6TZKeIKOhV26pAwap",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-2.jpg?named-transform=webDefaultTransform&version=isE4S_vCQvl_N4LUvHmSuG.eocy8JXh_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-3.jpg?named-transform=webDefaultTransform&version=3tx3197MeudcRGHIN1ptLb9arlk6a2rK",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-4.jpg?named-transform=webDefaultTransform&version=7ccxoUmpLufK_ZK2.0puAz4joZ2FlOPC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-5.jpg?named-transform=webDefaultTransform&version=.F.45zHer2VwVdOLRVZoZwTvdWEpKuW8",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-6.jpg?named-transform=webDefaultTransform&version=0ntGBpMKtXzGzKFj3mjB04itH8B4ZCqJ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-7.jpg?named-transform=webHeroTransform&version=QaQx53ESEzrAL6c3bFjNzEr8F.WYMtoS",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-8.jpg?named-transform=webHeroTransform&version=Y9jq0sW.y3jeY8ZpxCsMrOWW_seHAiHz",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-9.jpg?named-transform=webHeroTransform&version=YrB0.cmX6.lBUTliIFp2zrUjbF8oDqlM",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-10.jpg?named-transform=webHeroTransform&version=SwdB.J4gzIPNqgEGsqpF4obNf5KCzmXr",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-11.jpg?named-transform=webHeroTransform&version=.n8cQWVk9IU5ckaMVWyl_WK8udlEma5U",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-12.jpg?named-transform=webHeroTransform&version=pnYUZHajulXVJ4SQWnWuEB391a.hLb1v",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-13.jpg?named-transform=webHeroTransform&version=oP6nUtLtuaQV4n53JlWhsXtbLW8GIXO.",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-14.jpg?named-transform=webHeroTransform&version=Hyq_WtYzNxE_srecBwAyF8pnyTppqQkw",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-15.jpg?named-transform=webHeroTransform&version=h0t.N3xBgGJtEVcPijLhxRlpfDUxXCzu",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-16.jpg?named-transform=webHeroTransform&version=zYyI4wgy86TmcySR.t5NcRos3vJCbFmz",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-17.jpg?named-transform=webHeroTransform&version=8flT2YLNhhdpEZPvXS8M6.zwqwZBkNfk",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12716050-18.jpg?named-transform=webHeroTransform&version=gDFMjuFVr6LCbJSufFYc864974Ff12CE"
+    ],
     listingUrl: "https://www.homely.com.au/homes/801-468-the-esplanade-palm-beach-qld-4221/12716050"
   },
   {
@@ -5012,6 +9470,25 @@ const sampleProperties = [
     status: "active",
     notes: "La Belle apartment advertised as absolute beachfront with direct sand access and no roads or pathways in front.",
     image: "https://i2.au.reastatic.net/800x600/0f0f6b28993821b8578e2fd4a02d18d46b0a33b460a134d8dba839a785e2f1d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/fd982e457ccb3e61fe3c004610d1f1c1a4f712e7b42ec56c85af3cba523b81ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d79718b6cc2da16e0db5f8b640f494a14d06b85e4033fd7d99aa2c1ad27e4d83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/833c793ab7372f99a65eb0c10ce9946f135d4c89d955ebe49a16e94b0d1bf63b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fab6c4af61ba3b844b86a3f15ef51563423f8c4b0fbbb386a12f4fb72372635/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b27495b41d38b4fa86208a729dc937e0c96e4bd7de353b2995569b689be2556c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc68913e8092ded3d0675427de29c202034dfc5830d2b6d9dc348002a71b1c37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3435b69083df2716d8ad952a2e974b231f17f827290afd969f159a718b564ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f5c18902f9bb21903ef75e57b8e9f6303a8c12abecea673691d6e907c9b1eae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1290873f8c0f18c0c6c0c2266d93030e7fd9f36a6c9e97a754ad564b3b5a1b39/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3a170eb9159869f7644a4af48e8edfb6cd04d287cd0a5a86429e001152819c2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fbe5910cedc426e694ca872851d9db577fa95af3f4fcf77a3c08b735ee7173d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5f635d5747518a1e61aff2bd1333e457045f77d51abe7827e8ae9eb1744a927/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d022e5c6a52536dd46ddd2942fa563cc0ea41f427291d621187f8c17c7ec09d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0403ce70daa37fd75cd67794bc970504a6b674941192878ae3e609614d2c768d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea868886731ca6349dafcb537373698f231bcd9bfec7cb0893e781efde43af89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68ed9372ee001ef1f526ece4ee2fd2b441625bcd5bc952e8a7e1aa2ee13bf906/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01af3ff79aa6587ee6ec050d4a8f3e9ca53c795a191f99ce0c59ff555d69767c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149839892"
   },
   {
@@ -5068,6 +9545,23 @@ const sampleProperties = [
     status: "active",
     notes: "Solmare apartment in an absolute beachfront development with beach at the doorstep and panoramic views north to Burleigh Headland.",
     image: "https://i2.au.reastatic.net/800x600/6f7103bb4a3a5ea8de117b05c7e311564016565e922747037615bd450e2f7b9d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/cb2a67258b1a7878f9aca6010cf181c66900272bab025fee368bf03368747c7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef6f8f87cf8ab62ce2bec59d58be033c0f4e09c00d89384eed52b0b67c9b4a67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a95f3bb3fc96e4f02d60dd1e5efc73515186de2b9e66538e3ec01702520bdb62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0560a4c0961318f86eff85945a5b1fb890a8be0638ec803029071f4eb5e3e1af/image.jpg",
+      "https://i2.au.reastatic.net/800x600/007b9fc3cc343fa36533f2265a189546828057cfb46bc18eced7b79a35ae5aa6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8ddc77ec4922b8df8abfbbb9b585e1d19c1f4ea92942a1aaf5b3774d4ff0639/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71ae48a917d38e6bf349e4b96e5323fb35a370a846fba61fb5d076a1e5f54ace/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7bbeff125cba5c058dc2a08f0bb19cb3f348c908d754ea43a5e4c9ec9269b8e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16131bd503c0cd77fcc8c5e446b9ba488c75d2fd8242e9c8b9c21ce479e356fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d86f6f1b5e222c434eb6b4b336f18fe0b2141c43f1decf95aec9f6ece9867c17/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a04aeb5801bc3f2442243f762d00f13c8421309d230f16ac5f7e6cb693f78e18/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae092a040fe00769703f70c3eb116253b3710b2efc9027818bb78f96717c4d57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c6489a554b0e9a789d3d9a7e941bca3799b13ea2f27a2df71c61f2d33007271/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2b26beded2298f2b9a76d3a77b8cc8afbbe9ca301f94cb3b4ed75bdd898c0a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12688e9dc55bd2e9cc437154b739c07e83f9760a30f6354a3dd0fa2a5c964221/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149688884"
   },
   {
@@ -5086,6 +9580,26 @@ const sampleProperties = [
     status: "active",
     notes: "Active Sable on Palm Beach unit listing advertised as directly opposite Palm Beach and less than 80m to the sand, with partial ocean views and a $1,000 per week tenancy in place. Price is advertised as offers over $1,300,000.",
     image: "https://i2.au.reastatic.net/800x600/929a62f762cd0a0c9e351ab2aa5eb099af531b2254b73638737edea9dd9296ef/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/035d57f7cfe8da03a15222ec2bda9c5c9f34a274d0a739b5fa0d3e8cbed3c671/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c998bf206c3892c933c7b3fedbeccc31966a8e4909651fb5a552ed83271cc64c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2348a957c4315e009fc46a210563a6c95a283c4869ddbacf4523c33f0b146ae6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9f195d540ff67b662c433d4c98c4e2c8ca85a8735b51a1f72923d8c5c80cecf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3929a828d23add05120298f22831fa187c5ac110c55c07c60b6ad8527e4e8f97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c850dd127a98176ce8f5133c5e27a3008f274859abf66ec5e3e1f5c2d8ac22a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83ad4802825b9253f2f8eac4caee4d07d89249eeed5fcad5559573ed97d8df36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73f0cb7d642ef666791048cd58efe218fbd85a4e5d2a56127133a92a8ec7182d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1348cbcf16c88a4e046b6392cd5a1e6904a42eb361bfdd01fecf87b0213b5159/image.jpg",
+      "https://i2.au.reastatic.net/800x600/180dccc226e4a4f5ec8b815cef0891864280d61b2176ab4a89a8c8ee21c5edbb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea1f72ffe51a2fa00b3197b40b3f7d0720bea4db397bc95e917a93822408c6b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b4fbb765fd65ee7fe75801d9b3a876624779c0fa2fa9f96ed76a03aacd46aea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a62f285dc3c96926b54c0a95e9bc9fdd80e78c2b1377cb3498dd7c726ef6209/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec47537fafe058b26d57e2c33d448a0f3bb049011f6ec968098af71cab175f89/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7f90d74d0dd317047d0c0404e7df57216e4d6f5ac4ceba3ac229c63673ef33a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e612cc62f1dba50e2e165a7801abaedf17f6074ac4324657637645813582717/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c4f6dca9a1a9a402013af4cab449c2599b29f07b346967392c6c8e373b8f9318/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f681fb94ef4b1cf9a21d12f359f9cfca2bac89272993e33105a95234f1667fdc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150386084"
   },
   {
@@ -5105,6 +9619,28 @@ const sampleProperties = [
     status: "active",
     notes: "Active Currumbin Sands apartment listing advertised as absolute beachfront with immediate access to the sand, surf and Currumbin Estuary. Price is advertised as interest over $1,550,000.",
     image: "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0491be76bdaff44ff74eb8d9b2ca73a822af5f4a7c26ef077330fc429ca662c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1503805b8a7ebdcec7801c4048fef961c576e456614fcfd52f18e3a13d85708/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ac640f1b451537d47f983f27753bfad20eb8fe3a8e79f6f8b47cfdb3b214fdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22aa94abe91d1adf35a8371309e7055702a86cbe20f1b3d1f843b3107ab210f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8adf245456705dae058173b517529bfcc88516e44975d5deb30c1e10eaa34ed2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd727c298acca780d89c35a66f1f925313d8ac38e8a21bc0664f1ded0c247cd3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/538bf4571cecd7ad09809d3994c939eade9133777b9d2943832240208787d5f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d98828c9108646449975b87f66d3b4886767a8da6c4dd7bcb27fabffb1ea7e30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77f6d20ac538f074d7f7f98eefe3a0ea7eb24c41c322e6873642b7c290a131cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e24fa5be9854f2757eed90e5ad22dd4d809288f4ea5f1c5559d7da03ec5fd45/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dbe5b7ceb233e41259b5e90ae958898eaebdd50a5c8421d168a72f5a96e4d409/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59960e61d143d6d574adf8109da1564fed68ac70d3027e95b26c2f441e8ee351/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70b31e035015427ab0009c0e0c1b2f1169bf097c223df8b9d16023575c397f79/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a292baa5099c0379d449ad32ac58db815ad3d542adbfc6fd9f8f603b0aa75722/image.jpg",
+      "https://i2.au.reastatic.net/800x600/251b911eabc476a775449b38e32fd3fe7698231d4c3740219a8e0906e561423e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5adb33a00d0abf4fafe743790fb37268e40de95f8da889f5a6c2891e9bbae930/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f4bee018f3597a6c0c03b6fce07d56d378936a9395b7a0021d20bf5795a69fe8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9bd8410306c122381d9c6966189170fd31904781c04b7bffbe5b990994fbeb97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad8d47cee65c11adc3740b665cf41f6d71d3afa947241893be3dd1f0a0d0877e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150982924"
   },
   {
@@ -5123,6 +9659,16 @@ const sampleProperties = [
     status: "active",
     notes: "Active Palm Shores apartment listing advertised as beachfront living on Jefferson Lane with uninterrupted coastal views and a wellness centre. Price is advertised as $4,850,000.",
     image: "https://i2.au.reastatic.net/800x600/f25edbd68dc2d098a8e1ed1d2bb07f2c9349f5cb63af4bf7b6c314f18f5d6401/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f25b03d03f0a9f1ba67787c64b10113cba1f8b8b6380013c35d338520ca8bd13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/516d5d69e750c89b61ee5823b8b1f9e04a5ade7ee9a95dca9723d5153525125f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0343065b086c229846b844c482f8774a6b7df196ee30edc1739fb75b777a5254/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f13925a9d9c8d4c92ef76a167647555bff63c40da5d9b549d7068a02298616c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/492d28d71c58cf3392eb304d491bccdca5c3bfad1f84a936f43578471c0ac1d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd59e96696e468ca4290669d0ba20e4d5e446a612145a43fe009f4cfe510574e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b21dae20d6cebb5a01f8b3ef448ab69ec2d8546961e19e51dafd09ec9dd9240/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e0a6f3e60771d7d932cfff8cea77c8de032cb2c7d25220ca4a5314227f3cfba/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-146889512"
   },
   {
@@ -5142,6 +9688,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active Royal Palm Resort apartment listing advertised with direct beach access, immediate access to golden sands, resort amenities and a lock-and-leave coastal position. Price is advertised as $1,100,000.",
     image: "https://i2.au.reastatic.net/800x600/12a4c1f79627059e551be42352eb893ce174d6f87e8a64e0428f69bd14fe2e47/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/028d27bfcaecb94a66f5616eb0fd9434c3e990cc1d8b49d805ab84b5ef3d531e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc025be5a02665251d9ed8906d01415facc71734ec2801e390200612836f5e61/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe0dcb2a154416224032ea5aee4421827e2fb232b12b5844b9a5ffc1e98877a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e85c2739652c041f5f7ef19fac1bfcbd565563ec14230c24736753f9a9bce7ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/299fd69bebb1a87142cbbe93662aa2c86f1b7626b447237a0cf485f2b21c1f8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fdb0b08f62c0916bb2542192e184de711a70735852f8c8ef56bf8a853ed6510d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11a6c7e056fe62f5b530f4768a13a1a0f023fdc36efe826e30d6a6dadc18c5b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd15ca1d56181dbfacca0341bf682ecd8b67a4968cb4edc1217dc240f71f72a4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7227d3c59756d941b3b9a904c85d59236216e71e550c131fd7150533fb7b67cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f2b21109542d04cac9668d0e880bef8527ec40c0be76a59df3024eef7c3313f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c19c84aae157ad81d2118e7856ea09a7cd5501697b93288399fef072bade9b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/144e436c4551cdd2491d5f0299d644338b245c4d427f32c6b42759c211566e7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a193ab6f816591ec3118e5945664fc38dbe47697bd0bc59a15466e6135fed13f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d68c5b7dff2c18090f6961a2f8bed1ee5baf5b9bb2ac66df8d11d8d59e7a846d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81612c27401ed23c6103a46ad51b46b832ba75357044ec2e72958e78c78eb5da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b35b8ac9c34dba27e9aad202825ecf434c92f974d232a402d96bb2e687064600/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29705a7721fa36d70f5025ad5897fa642354f9b94f3fe1cfb8239f750d749d9f/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151036488"
   },
   {
@@ -5160,6 +9725,29 @@ const sampleProperties = [
     status: "active",
     notes: "Active 19th Avenue on the Beach unit listing advertised as an absolute beachfront apartment with uninterrupted Pacific Ocean views and the beach on the doorstep. Price is advertised as offers over $1,250,000.",
     image: "https://i2.au.reastatic.net/800x600/4236702e32f64ffc40a3f14354fd255aff6bd8c578f3f66e401f4e338929763/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0eb8864d228a57cb2500de1abc3d778c7e58450f7224cea949e58ef9470b182e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/409a4d587e48c218d19ee896febad46844133aa35456f04d52dce4a41224e0da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7691d91c1b2edb2517e3b324876db4c52ed9e40189677bd2ff0762cc2e7a6b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ecf8059cc097889ef5c2bc11d484f7ed36f327895fc317832b321e7ecad4179/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32a6df5e27cc339179991bc2d7aeaa2690cae2298f1accb14a8c61c4adcf4b14/image.jpg",
+      "https://i2.au.reastatic.net/800x600/441ba847351afc7dee016063ddcba86892c85a5bd8eaffa46b6d0989ce7aa18f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa848b89cb871d4b7743094b936cd61505ae61f1327c5cddd263728c1d9e41f2/image.png",
+      "https://i2.au.reastatic.net/800x600/4b1956a7eccd5a50d855fc50e73c8d01821a2d8050aa83e95d200422f053ae12/image.jpg",
+      "https://i2.au.reastatic.net/800x600/905e624c3c0ab4de7ffbb6da265962e0ba00081d329fb0420164652ea81e5c70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98c014f7133d34e1daa4ce7f949a7b9a84537c9544ee41551b19502a032f872d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85d7d8da493782564102655f61887d91cdf52b54ceb06fe137c2f38e692c6419/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d142832b58562eba9e4dd787c30edecdf05127cd3ede25ff259ed988dca2c7aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f52cb92acd1a53294d122715245bb0f3898f0a217c767ff82a31524a31118010/image.jpg",
+      "https://i2.au.reastatic.net/800x600/caf1323e9257289dcd9699cbb892e5b2586f0e64659dd5ba3a6a8b07aa837bed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55d71e3fa6efafa7c76cf3f69ba0569404542f6b2a86cca88a100dc0597adf2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f954834963dc9586b0f274133a5c01ca19ff05f714e68c4721725821cb7967a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af5b30e54336b3d0b3f46bfd49935fe215803ee5c720426f3c3fb1f2ed6cedae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0cfd2c132a68a30a88fa142e559aca723df26f5334fdc70be3acb0da055f220c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ce9715852016207565b8a2b19370cdbef821cfea2e211dfc3beffbbc43a2128/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22f806f614805bfbdf00b0fa284ae4175b9eaaabba12bee9e4ce7f0f84e6ee4f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a08913a8a3101caad2c43faceda192d3fe4b16cd1f6d93fd7e34ac3075f09e5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150770284"
   },
   {
@@ -5179,6 +9767,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active Evoke Palm Beach penthouse listing advertised as beachfront luxury along Jefferson Lane with direct access to Palm Beach, 180-degree ocean views and a private rooftop terrace. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/7291375000ec55fabd6c761996841c2166e34df48eae25183d81e81748031e9d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2323c1842fca4b51aaea3b58de50715aa2c140135a0f538c907117350c903380/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca52c4612960df3723dc4bbe12457dab3064fb00ecfddb9e9d3c75f5e5be16f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36da94664762969faf14d9ac4b0955432c182123042ff65f87483a47d6c25eb8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57a125149fc8ccc8a4a0046db44ec6e61ef4ef15bfbed91ba95770fbdc0c8b3f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48c1064d9207bd444a6ee6bc058018ba536e79d6d3da0b00e26b26d68561456e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e849a0a00f91d3da0a683bb37a1d8f807559923ada3af49fc77be3d9b6b0ad8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ffb607bc2eb1b25e7643b84868bc0c6d52148a775d2ee3dfe6ae66cfb631848/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a60ce1cde1d89ce770984d9459f89f716cdc0e22bf911afce63e20b0aa6f035f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22849673ac95006156ba26a5d3e153787d210c94117d72417400c5b047b785ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecb9417d24e0f1722308a37894b0d2e6efa377f171e0521ec80aeccc621692f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91464ee385e77c57b930dcd720a291d212ee9fb5b38ab9c71032b92a157e1a33/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2841e730847162d4073babf0c70f7b14e1dcd1a31751dd94428397ed282e6322/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45d0dcac1d171762600f2a2c7aa8c476dfa11ab6878e621426ca8203d909ff15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/647c511e1a74e2058a184c3fd7ecb60fcfbb76032c3004033795cb33970e837c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6febe79912a9f2aa41f073a7e6b8862544891adff8bba1c75c37b0b906306854/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0ede2ed72f9e6e35f9a983f92fc2e56ccd5767b9153c3df5603aa669987cbf8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2aeedebb1613ca22f31a4301e6feb053bfac9c1dc049e272f8612ebf72628b00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb40336c5d6bc031444686ada051f4573cc86caa6beb12ad2507f7bb4d98c32a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd272a655d80fe61e9ca69bb56885774307d85ff012b5e611f4cee13a7797b8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc0ed3afb1e1d2c5fa58e17db801f796664409443454a7d5673af0383c62a6de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f5c587c9bc9e775dbf99c72d88f49f7ba7c2fe4804a304ddf9279c9b9ed2a628/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8dc49c200401b9d8ba7ab8342448083b98091c9b6f1d57da3697dc7dea0b6d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/752c28bd925b7af33d3eccf81dae0cab4d0b47f84da0bf99fbf8353bf583428d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd9930d80e6d8148453c14e6755bda822906eea84a57b9914c7d052b028748ec/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-palm%2Bbeach-150341576"
   },
   {
@@ -5197,6 +9811,27 @@ const sampleProperties = [
     status: "active",
     notes: "Active Evoke Palm Beach apartment listing advertised as a half-floor beachfront residence with direct access to the sands of Palm Beach and sweeping 180-degree ocean views. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/a2e5d5a16f711ee57f55d7c6cd4b6900b67e5869b1f83cd6672f0393f8d6b8f8/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/48c1064d9207bd444a6ee6bc058018ba536e79d6d3da0b00e26b26d68561456e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6103b4ae562c972c8b538ed36a12e1b01493fee011ea30e8dc69476a461ba1ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3beebafac74403aba95da3ee8861e6985155e29ab5654cd55e07ba9835c79391/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57a125149fc8ccc8a4a0046db44ec6e61ef4ef15bfbed91ba95770fbdc0c8b3f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73327287e3cad6755e4bc6fa99b90b18d057817913ac5f24c735c012e502a954/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b31fc0cef6e10b8b0bbd3fca142042760a907c2f9fedbea404d50d26734effb1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ff06ac0de4f2a5a1fc3e85806fd33fc20fb3ba24a5783f157b970fdc49a34f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d7d06554ac798edbafbe7454216642a0d4e63a355b6ca87944560ac65c5565f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecb9417d24e0f1722308a37894b0d2e6efa377f171e0521ec80aeccc621692f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/32122cbc1e2b7849e673cbbcd0e48cb787b9500c0d7d991db2ffca7327a1e468/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22849673ac95006156ba26a5d3e153787d210c94117d72417400c5b047b785ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd272a655d80fe61e9ca69bb56885774307d85ff012b5e611f4cee13a7797b8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36da94664762969faf14d9ac4b0955432c182123042ff65f87483a47d6c25eb8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45d0dcac1d171762600f2a2c7aa8c476dfa11ab6878e621426ca8203d909ff15/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6febe79912a9f2aa41f073a7e6b8862544891adff8bba1c75c37b0b906306854/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc0ed3afb1e1d2c5fa58e17db801f796664409443454a7d5673af0383c62a6de/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91464ee385e77c57b930dcd720a291d212ee9fb5b38ab9c71032b92a157e1a33/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2841e730847162d4073babf0c70f7b14e1dcd1a31751dd94428397ed282e6322/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21d70ff340153fb73fcd4958ca86cbf018a4bee80c726ad7d53d8d7049c20f70/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-palm%2Bbeach-150325208"
   },
   {
@@ -5215,6 +9850,34 @@ const sampleProperties = [
     status: "active",
     notes: "Active EAST Palm Beach unit listing advertised as less than 35m to the sand with no roads to cross, direct access to the ocean way path and sweeping ocean views. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/0a540ba13f353052283d772b872e672c2aeffb951297b3b3309ac92eaad27929/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/70c99142f5438446fc843db374aa29f3efadda961040f2b68e0792131028a71f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb872af1379ece3af24f3fdc722317dc90d187aa60f1eea4290747c1a12b39e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/022f8e83ced9109dcaa6d7e8821c7d703fc065223a4101c2ea5f132dce0050a9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50eac5eeb6b220f957be317e13eaedea61aef2d4c12d6c94496938ae88434ea5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4853c11bb23cbc91caeef9bda879a9c7966b1ea6677ca6ac5987c32ce6a5feaf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/488b5fad277a2c5a14583f09243a5237555e6b8030efb2f2d3cb98e849cad335/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a80a8b381166c36e060db5d0d86e921c96a03cd3de1334bfd455179e04b442ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d571af33dfb7855c6ae5a58770e8e51326d528ef0a9cd70029299ae74b03bb63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3995dd2d0b4f76da5bc2ff4ba47fc321004ab4127fe7bdbd1f2b616ab9cf13f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/34af655ca3831956d69e405c5838f91f824865ef122e1d7ce9dcb7b3a1cc4925/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fe84969ba136f6e5cf161317055d119f2f27d293f96fb86606c9385a0eaf376/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ef5487e65722da69eb9e9674005b28a1647401589ac85111d639f26c2f3b0d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98e5072814cfda50c949c8ae6cb407defa1aefa258678093547efae40109aa6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2454313ddd8b73df45dba29387083ec3d1574c505f554915d34797c83efac61/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ec0ab45da96cab599d58ddef5d5756366b4ad45281d31a9badfcdba1687fc6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fee7cffb69fc6536eced9d1f478eae5a6023747082bea611dc0e7c769663941/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2037f69dcc06bcbfaae06dda1b180b22b95eba0598265f7d0247a180e1c19697/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9f8bd93b9e198a50abd33ec835965220947b307658ef2e0bd7faf02cf1a14fa4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dabb374dfd302105455c7237d7cb055e89e1cd023c68d6d903d41e7dc15697ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4d658935d539b3289381078b566812d1e9463ecf3296dbfe9a50d924b90f134d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b15654b43383187c374d408d42ae0fd1924830dacda45ddd39da4d23d77861a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e8d3e08fbe7486e80171e2461dfb12708e010b8aa9de4f667ae1bfb425324e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45fbd04aaa845460666de398385a6cd9f904c05279dddbb332c1ac479ac886e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b26f4b4f5b1b2e12d7b4022661d14b26b63d47e7977308d83880311840c86efb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b20cf1f784c151ae87448af763b21e1ddb3b9fef0fe31d972cb0287eecedcac5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d360141b8303be873ab1721744ccca166548ff6dfa1ba567226e06d9d794ca7/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-149098224"
   },
   {
@@ -5252,6 +9915,29 @@ const sampleProperties = [
     status: "active",
     notes: "Active Seaclusion unit listing advertised with direct beach access just steps away, east-facing ocean views, rooftop pool amenities and two secure side-by-side car spaces. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/d33ac76cbfa6688781de370ef95b28e38208d1e4b51bd5b10f4244176f5364ac/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/eba14cda0087a208277e6a2ee21b7aad115835e0aa8bc43e680beb56646a7d03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/587545b3b27b1cb51d2c5f5cf76a3b7285560ccef1ba30d7209df933fa1a05f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f758a5df7c0890c2780bb9836f954d57b2cfca8eb8e54ba741746def2049d0e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53de20480cff8661849cf54886ac9d1f8e2b55bac2b0366e321b3c36aee60f1e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8c0b38941cb46c1af7e5b8337867c183fefc0ed50dead9f518a53fce2dc12a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/043587545ed3257fbdcd5febc07ab47147fd9ee9dff2f8578b88f95924fd2611/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ecdd5273902b35f4d44c31a6577c1fdd86b82a71501235aaf49e3eff86b84e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d419be840f55ff721972d8992323f74646ad8dc6f27d333b5d997118a362c500/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6c8c6929e0ae9bdb815e0be94f3f2ca3e2ce7a47e1da8f608dad4beb88669d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/441670d6a016071ffa283fc68bbe7ca20580a7e929294b79ec406fdb5dc24e08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/923d88ba64f4820c143090693063f25ad114167f742f1460a6a796f43c0473d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6a5a8e116dfa13154fae7fa0e3db9ea4c9fbb9b2fae928f5638b20e9198231f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/889825af61f268ce285170a8e621ac3164e43998061762731c8c2c6eb1986bde/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8660213f6895b0ad40b6dac4cfc64955c9ef77da17ee0d4d9737dd6d41275e8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e6e1b76e696d36ecdf7065841abf3c6a05a881703caeffac69a365a5c6781df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9b4937e0768c98fec8076908e0b14118af6c6f38c3d4f361432300a01276b75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b45e41575395c35d8a4b3adef3c93e4fb54a6af7ee6a681edf974daf1290ffb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d255ab1f08764cc68c3656b15dcc9906b08da8e14054c2b36ddb453f94395583/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1941432895fe0e28c5349e73fc8fe22923b0454b6f2358082ed903a5173c68d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d79dca38b051dedce8257ceaf2504f77901724a8145bcb8d84d494a43c2a672/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93d58a31c52bae9f6ebfabcba5ceca496a6ca914483200f1cdce99fd669398a0/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150631684"
   },
   {
@@ -5271,6 +9957,27 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront apartment on Albatross Avenue with direct sand access and no roads between the building and beach. Price advertised as offers over.",
     image: "https://i2.au.reastatic.net/800x600/0ea305b14354bf5b1832ee96825f8961d14422f32be561e772af6fa625a163d0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0ea305a8d175fd98079459e87f009afedf3a0af7d3ed13ce57a205a1237cfe9e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/57440f9f993df3bf3bb24067a42dd67fe96155ff93932948b02c74b428795002/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5570009766732293e4d3f8b977a5f1856e5e22d9888f6d4b4192cf949b2e72bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3fa1f1f26bda076fc289182e0b57fa412c9d1ef40cf37b0ffd4c16e13fb36f2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de27a0dc42ddb95e0a03b7d842d9cd4d41a9b114cd934823207f76891480b24a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5254cba5985b52d4e608fd3da907434afb016a86d907ee85ac14b1a3fac273c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16d2515ae6cd67f6e0c35e77bdd979180ce320e349f26ce634f540e08c449b49/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6797edc9d6f8e80cabf52acb377d07530bd444093732061bcc731ab8164f2f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01d82c687d8535f6c1bfba363e9c605beb40b24d6f28dfd53476008b5f86a762/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9922b2e2be809488e1c72e8b11ff347bcdc2e3d311d172d4170a457a9fe0182e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3749072070bad7683ef5045166dc44b21d549b0aa0399fefd4c9f15b30c69d31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5e5f55db623d059099e037a781f6ba47e8bea877ba584b9c1c5dbda4133401e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f869151969cb7a1a9ce45e14fe59f97ad2bdb593daf23bf7c1b611320b6b9dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9fc3cd481e770883bdffdbc59a4ecec0d16148f21b0dfe03db1328957278173a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2b7b8a5f2de8ac9d825e40ac24aaa826ca3c759dd6966ca8e331a5d0cd9be87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/051a81c9e39a51483cbaf66f9700ee37b14769980b9939094a479d1af1d479cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6bd38f3a0a21de1439fa956a965dee33211ef5d92e20196479019ebaed9678f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcc6d7bd14a917cdfa74d84683b2c3a6680e78175c909648131a5a996e623b44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca9539049d55e249146e53991c04ec9753033c31ff3bf53894f51e80cecb81d2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-150282784"
   },
   {
@@ -5290,6 +9997,28 @@ const sampleProperties = [
     status: "active",
     notes: "Active Hedges Avenue listing advertised as an absolute beachfront corner position with private gated access to the sand. Price is advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/c09c10d591245ae4757c68763801f35a047a11cba952d951781ac0670cb22c22/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c09c10d59124c5503df2336b22cbd9aa8bc422de952fb5665da71f228d178162/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2a22bedb5fa35d0522af659bb7bfe73716592eb497f710a402c34886f3107a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4060e2b103c6a5d040e5f3bf05b1ec96ae2ab7b815251436cbfc2b1d3beb1678/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e003365c230b90e8066b9898b0209a98378c19d49cc2548a00c527f49624cbd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/040d5fcfd6a9efc66637c91c4464ee5ded6e0496d51720d90a20ed4ce8eb51d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9755ea47c2e45133c3bfac84512f92617b3c2972bc522eea139fff38ed3aa927/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d464ff2f6592647569bcb1a6ea26b7b38fbcc4f00fa92fdfd3204dcd9d9db57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/040e2a19f95259f9d1df929a36f62aedd2c07d2e7acd4c0beb33c7f66230330e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d490a8b4ec8d49b70eb0895552dac28911f44a4031ddeb12e70252f3699979a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d87eb2e382398f6f508d81bcfc5344f3d5751a575ced9e1b531b39f56e193292/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8dffda0001187fb22cc0a765c6f80386d7d69ede87dd2375679d2227f7307b7c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fe256406136612a984aacdd9420d6e29b0bae7537db5051d570f259bde9e524/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e12b9b0b758c7d1cf501140740f3aac9102cf75011467da35bdcf6c77fb47d5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e529272cf22fc0ca36ef46fc43ab9123c51a1aa8434cea51ee1114ba359f8800/image.jpg",
+      "https://i2.au.reastatic.net/800x600/438e5806d2c0e3fc6965292d48350a6c22820e506fd37c7341f73bd671dd0714/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1da28629a4c403662e4bca04c48a071df17913ca96be21550d074781acefb3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3592925409fe0bcdd4261ae7c85e3986f284bd9c5024fe311684979dfb8034a2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b1ab2d4cbdad93dd565eb4def1c482e320f02f8e65c0c2b07e5e19e77ce2433/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9be02bd6ff70a7e035c0755a9757676ba56d6c642539574ebe0e4ac251d42c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4715ae05b0bf10968d37e137c855cf62f8ba7156069719b33cd4a1f4956a1df3/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-150684752"
   },
   {
@@ -5309,6 +10038,35 @@ const sampleProperties = [
     status: "active",
     notes: "Active Hedges Avenue residence advertised as beachfront luxury on Millionaires Row with sweeping ocean views and moments to the sand. Price advertised as offers over.",
     image: "https://i2.au.reastatic.net/800x600/86e0db5c63c88e98cf3384a51d6526d83bac77594ea3d1fb383c967c20391d33/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4b0030eb09a5266e5c5d31cd99c3d9c9f6db3b639f4709c77a6c15e89d30593a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f29f5aa01e472402880af6c6bd5f86c06871237e8d08e6a1691efd1dd580adb0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2fd0afd51ce2201a40bd1d08d10c69e6832b1597a2d2c427e813db387d96dd36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2941523195efbf9dbc7f1ff04e2ba746ce8a1cd7868ee8afc8ae9fd44227c5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b49432c1bd63e3a64de82cf862563748cce5d1709b1de84a51a74d855521a899/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35bb21a50ada99a74768bd11387b21c7b06a05f4745c96f4dbe6eada3463b0e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2026fe9eba78047d735d84153c762ac9936282ec62df226ba0949f983fa787bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f358fe5e24ed5aeebfeb91d77b2ea2ce5bd42eb592ce2a1fd336eb5a9b18938f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49cd389bf403dc19fc58e50f27f5d148fef502afad357d440970ee6879b86274/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd0047d97f8d263fecc09851c9bef0e0ab11c3a2522a97c91587fb09c467acbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/26e426d21946bb6730566b5bdf99d2f25a94f399bb35798e33e29282153162a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05c42a4571d069556f6fb62aa7bedc7a9275fee920a863a688a2da2f2493b074/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d6bb399f9fd8f362ee6a7ca5bb828a1e029099c0f37b418045bd0e52a89540b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1fc08590d3084a964f45f8b7663931506f361ddb8045b6cae51e1e562857e26/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d647c2964de62ed42ebd1747180c97e261d56e48d03f9b684d3f3924eeb72b62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a0fd2be407c29f1ba06ab36e86cc4e547950964b259cd65e58971408c2b2d4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b12b14d2158d5ca1b0a27455675a1bedae31f50868ffd06653c42b56d72b9804/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df7decbffa2ed0be5ebbdbbcca6b486716e797beb66ac278f02028b278122771/image.jpg",
+      "https://i2.au.reastatic.net/800x600/205232dad2bbb9fbb9aa6b9aefd79cfe0d2f328ae1d4c39d8b19bb91ad3791b3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/58291814ae4d6ffeaa293e98125bdee0382a06ae04f64218b4a3b6a6e2821571/image.jpg",
+      "https://i2.au.reastatic.net/800x600/845f5ac60f6dbf1d04686cebf45f8a3e63b2aef46ef1b2a50e9b6b6b70e62426/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9caf784f420f736e2aa35b79b7c7878e6a888aa74fe9dc98a59f252c00ce7a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb8a845648cd8adc505c9ca37736ac830fc237c26d27dc2ff8d7758cf627d9cc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/233a620f9764551ecda30b55001d064ca70100b36c3c05a17f04ec276f5741c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f9148b74b40b9f6a456df7285e939b52b04b12a7fb205ad69c3fc612fad856d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d65eb2d5527656f9c5bb01eb362237ce2eb35e7139162a0f6b78c996ad36dc1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9ad7c930ae64d08cfdf0f72585624a9eab03b9fa60a749ac608536807feb671/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-150780840"
   },
   {
@@ -5328,6 +10086,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active 272 Hedges apartment advertised with beachfront sophistication, ocean views and a position directly opposite the beach and Pratten Park.",
     image: "https://i2.au.reastatic.net/800x600/7e4ea189e9b72a3b0f3ab1f26a0f370202c87c55ad7a5e420519a0767bf7a0dd/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/7e4f8eab8585eeefdb7b3d81c4fe8f975db5dfa76818b1fb0b128fa645c92ee9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f5a4523d9d6d3ea871dc9b575d3320a1d52d5aee5978c2081353296ec474dd3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ff56dec06b35d1eab2d58f10c9349175c854a2e51fe8d4a8173a8b22627b0bfc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8df9dc31bd99ad549e047784629e31434597ddfc0462318b2f54094fac06bf04/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5bb9a2c32dd1cc4a5ff4c80ae2156bb76f045cd5c3460978118207010109f13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36e3a107d7fb8eaf1db97a6532cc871bd5de5eb0299270a881be5e3410ae2a6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/873ad92d1799e39252c2a2faf656c1e692d326de98fec2db0c45599e679ba3d5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5fb463c0f3f4dc8a8ac8a000f83e923e8220dbb8973178fcfc54ca27e501c98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b66827bb594f001f831ad736fdf289227d0638287c3ee2724de41eead83f737/image.jpg",
+      "https://i2.au.reastatic.net/800x600/074f938f453bc82f4fb6f4bc98b3d636ddde88a548a876261effb5b1b4e5e267/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eec23034f3a4d7d126f1e432efee91234cf59c9238245abbe4c0ac3f9f430a92/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22360ea11cc78adf0cc4720e8c87d096f9af681fe943317aedcc364dc8cfb77c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d38acd5de8456f7a640efbfcdd597bb6563465642d9d4763eada26e5f601e897/image.jpg",
+      "https://i2.au.reastatic.net/800x600/caf82ed9cacb0de6bc12700f6b07bf47d3a81e0cf59a7f81a78af7bbaa1181ce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6907477c02eb48564d56dfc9fc0ded4466348fc5dfa6e62323a2168dbf45140/image.jpg",
+      "https://i2.au.reastatic.net/800x600/105ccc1cd410680de35185ea6eb57d04456c77a82b7b71eb52524f1721ed5449/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9517d1686f71c41d4a57c8e0a6e01583ae5b596bf1eb0ec78560dc83d3b7040e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a75a342e887b5b87bd891345b5e83b63a6c4dc46d0031bd23451bfaa5c84f103/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76c1ccc54607ea130b6526f307f68a5b0b1896a0ce2f6ee7eed03d19c3e21478/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cb2b75b70aca3a5ab6208128280a1ef754bab73d52c858f6740c066a2578420/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3f67268bfbbb5fdbf9ab99fdcbdd6b4834a40fa874f722639ca1d5167a5d707d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9cfab0574d39923291f0327dc07b6279005215af8b1480b5d279ade662709bdd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3849c0eb773e0de926d0393fb39ad9179e04b4c2b90658084843c16b170ffac/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27a16054dde94b7cf44c9ba8a1ea3e9236d49f9dc3fd8c79c2cb4167df839014/image.jpg",
+      "https://i2.au.reastatic.net/800x600/765adff2881ca9908aa70c9c390dd74b523520a402fd4bfff7ff8d3b06e25123/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20e34b08bec5297bd2dc542b5f6fb9d98744ce8c2b2acc86447ce3dab65e17a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c5e97f9cd0ffb0f32ec9e36d1f99e2ba7b66f9ff331c498ce03131c5808e7cca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3152731c9e86f94c2d04d0aa1f0914c451a9e58585ce61b2cb1d6b7495ec6adc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/128f9162bf38a3eef7d8f8c4c69ad1a374df16700dad80f48e5f1eddf0fed53e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c5c1030a28b5f12d681a647358d473dc9bf3719d7ca6224df6633d31ca2f932d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/03aa348ad9e85428cd7d1ee884a002bb0c8b26afc720fdc78089d54756aa753e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4dbc81acd1666280c502c26a6b3e612ac4a2ca9404362e484bd45d4320bee77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5be7182a05fc243c0e1ed5b13cc2673faf8bc2bc03faae4b91a58d82ae3a407/image.jpg",
+      "https://i2.au.reastatic.net/800x600/46d0586cfcd8ee68a094408184820b3dea9e0e1fc3509241acdfa0ba0ac7d341/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd39a9b6b74c3840ea48585f9d4197749a7917f1be665f7fc1fd2377ea72d306/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-150264484"
   },
   {
@@ -5347,6 +10142,11 @@ const sampleProperties = [
     status: "active",
     notes: "Active Albatross Avenue listing advertised as rare absolute beachfront with panoramic ocean views from a top-floor apartment. Price advertised as offers above.",
     image: "https://i2.au.reastatic.net/800x600/85e23f8e3698fb6d54fe9746de72493505904fc6f81b40e714869670618e561e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/85e2bac3f6ace7064d3343ed0ffa29bb8109611f550349ee551a4d4d886d2aae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ed6fce778bc00b2d0602e5808afca2db65192a6f762216338c1346ee67c1964/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b583a8f325052ab4f68eac8613a0a43221193d6020faf32d68e4023fe107edae/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-151071300"
   },
   {
@@ -5366,6 +10166,24 @@ const sampleProperties = [
     status: "active",
     notes: "Active Foreshore Beachfront Apartments listing advertised with absolute beachfront land, direct access to Mermaid Beach and 270-degree ocean, hinterland and city views.",
     image: "https://i2.au.reastatic.net/800x600/2d780dd8c30923d6b1c385b531fffc074686f88111bca6e6b76a4117417e2e5c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1c0ae2aacaf4e67f28b5c62d38d961e73204a69d839b0ae1b955848034dfe151/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84c706df8a5244ed8656444ccc5e441eaecfe61c7c82e32364f05396160e9e80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90d3d81a9443dda39cb149dca81f32686b3886cd8520e53298a93f68fd89f0b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5bf2558728ec6376b36858932e19144d931f5e83a3c6829213d4c7916cc54c70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c992a8a132f6945b7f7880e9eedb8f703d82514c0d24c3cb5752ec2082830fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8efb232d8cb68c3e51ea8f7f12b5da712e7bdc65820e36b78a11ccb246d7ecf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ca9b86e8d5befdc3acda5548483bdd437f9201cd6b2a1e4398005bfb54e0c0b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06c4db3cf00518c68d52c4aefc4ac4cffdc7e550ae11ad2238bce98e7acf6be1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a1f8bfb70ec4dc3ff16ed7deb01e0ff800f99b2062a55d6e1fa76b819b109e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9df1357bff8d0e82558381a33a91d672cc3d4ed3b8f53f8b05e52675871b0321/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07ed4912a61482c40b72a94a5d12e35c81189665e776f7d8e02ebd6e7e91ee37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7bceb969df53acc8ebae697a8bcd708b207b76f6fe804dd7ac242640526c09df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73cff094646a4619a61c31591eb1c16ec77741ab7fe54746b84addd64c25a69d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b37105888204812d0f99ca6f9e4fc7787a513e0a5c33159bfbd26161b78b83a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a0ee83c294eb202a92cdda203878453240d4433c825740219c10dffa2acd34d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4352e1bae69788723864353353f35ef66b84cfdf35b8815fb9b492b78224e7fb/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-mermaid%2Bbeach-149664176"
   },
   {
@@ -5385,6 +10203,33 @@ const sampleProperties = [
     status: "active",
     notes: "Active Sandown Apartments listing directly opposite the patrolled beach on Hedges Avenue with ocean and city views. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/f7f7b52e339d61e5ce3634462402f5f7deff1b9df8bc7c2269cba04b47a35585/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a792af7d30e6b934dbec609ceca7ae1c33ca941d8564fd05891de34269d33587/image.jpg",
+      "https://i2.au.reastatic.net/800x600/419ba5815986e3f025a8009d93d7af203ee94e98d1e1387dcf4a4d91033da998/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8590b49ff37e27ce150af9a50f7dc9362c8f8105aaf6500dea348b7eb8c0624/image.jpg",
+      "https://i2.au.reastatic.net/800x600/535ff81ce4eef79887445ba2b99167f42e683d0037457bc25039c68adda10bd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ec54723fd9760cf5b5ab618d88f7e85b7aeeffb061c3c0109db23d2ff41f2549/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae2c0810d8244323121eb551bf236404f15996a927b8932ef47bc41e54ddf067/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3876661959b4464231f1f3948fb5659f4901faa137ffacac6fd0f604366e4961/image.jpg",
+      "https://i2.au.reastatic.net/800x600/48f200c231b81fdf5d43e94b456d15acabc28d5dd8f58ca24b6593dab3516ab3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19fc588c9224ed9c29a069cb134640b2c2c8139993251e796e219ff47cf00234/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77c7f5b67a50bfbde155a6d29bea18af910dd16d33a062df0b6de458d15943a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22418a46a905cc9741609d29e170429e38637cecad7652012c431c8f6307fd29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6daeb817a83ac64567c47796e762c8a4a42613ea4eb61f0daf3148fd9f5399b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e91fc7c6b0348bc76473bb1b6e1c173378a3c62a767063c5e8a8344cab2a17bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb34b31b242c0cf69d5b7bd1cef4f74a9fa64bd054a9f667f62f9c9253958342/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d00e2d37604523808c7c43239efe266823a66a29ceba9ad8ced8e2238486a08d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fbd7c6ad7759cc8efc05bdba001e561535f13ba28050ae4188618beca433304e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0c3bb5b054dc6b4a3de7de142a21634c57c6c0780c4e6a8433efcbc190410b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f8dfa775f84a5f7448a0eb0bbe23bd676d774048e85a72d3ced522a439549e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61fe4a8615b9e86f444b21b6f0911e0651b622780f9e277220344c647f3f62d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5948e01a597f1dde6d47ef260b510ba4f99a63d68f7e420c06e8f4c6cd86df06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/efaeb25d98a7119c6e45aef492c7c44b065cf76f547152b63fb52d33373d11fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfbeef38b4f5b44d2b238dda8a5261b4c11b9f42e0bbd889fc88081ab2d3c7c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3597de49e0a5a2da0e97475f851e909435178b437324fa191768211241c7bd27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/feaac5c876e30dfa381279fcad4a10c3ecec90183efb2b9157edc42607cbed0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c8fb7996fdff2d43058864fec487bb1844ee54ee7b8cfe5bd8e769cafe01f31/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-150609392"
   },
   {
@@ -5404,6 +10249,25 @@ const sampleProperties = [
     status: "active",
     notes: "Active Hedges Avenue apartment advertised as just steps across the road to patrolled Mermaid Beach with ocean and skyline views. Price is auction.",
     image: "https://i2.au.reastatic.net/800x600/543758d50752f2538e8321b87a98169b3843f79211ea8ea608022b080b084bb7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/8e635e5d030f1671cb6634d246eadd0d54e43252bad3ebaf29a7c22f9f733bf3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1da271c507b453f91347d53b5c1c8f1b9fd258d2e0f6fd23622d1e2cfa09132f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9322a05857e8cdf23438a8813fcbfca822bf28c64f55b64a638b03d61c2a4421/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95d7440c37c01efd8c48c7162649bc9fa4294f5fbd78319688fd6f341071d916/image.jpg",
+      "https://i2.au.reastatic.net/800x600/928f9a550ca78da0bc796974dfd584db13392662e4abedfe30166e9e13c26f48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95bc1c63dd3679678e5e4996a5a667f0fec3a54fa82188246fdac4bd43292c24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9724d76675558d6c74b12d64696af5b7aad383d4a55ec49d079afa0746ce29e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f113e3c0fcb891bf7bf01dde35e75ab86224f5b3f18e6f8e2288eef6d78223b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e525ffa27fc91435086d8ace7b03894d0e0fe73093136bea93ca26497708d931/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b75ae5e9c45684d510bd1729b4cf61765a102d5361b00cf94e099bfb2878bdb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b5cca9e005d1b4627fb02cb8d82d63ff3f5fa36ab512ec920d738cfc3f75fcd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/524721adc82cdaf3a0a7a9705317fd5090b731589ab5743f0cf726087cb98bc3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef79b7406212bf5d8ef894a9a8576895bf2c7600a1fed139e551077b9162854c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfbeef38b4f5b44d2b238dda8a5261b4c11b9f42e0bbd889fc88081ab2d3c7c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3597de49e0a5a2da0e97475f851e909435178b437324fa191768211241c7bd27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/feaac5c876e30dfa381279fcad4a10c3ecec90183efb2b9157edc42607cbed0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c8fb7996fdff2d43058864fec487bb1844ee54ee7b8cfe5bd8e769cafe01f31/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-151033348"
   },
   {
@@ -5423,6 +10287,20 @@ const sampleProperties = [
     status: "active",
     notes: "Active Hedges Avenue one-bedroom listing in a boutique complex directly opposite Mermaid Beach with an east-facing ocean-view balcony. Price advertised as guide over.",
     image: "https://i2.au.reastatic.net/800x600/0e29a1136d6c5c6ce65c5ac03862c90e8febad474a4436e8c26d6147ad458fc7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c28558e605c7f65169bd78df902bdd5432df46c1017c7c639cbf78f0108d6de8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/346d39e059879e602f04fc2eaa9c68401513989ba5c7350fd0cd42511aa22357/image.jpg",
+      "https://i2.au.reastatic.net/800x600/87bc03685bf98491e75e84f4a390e0f4abcc6077c47ac360217912c7c4fdb9ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2df34f0815ea64e7d7394846f263621eba5705cc01534d92a181338aa01cae2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6000c45bfd47af4558c02b6f501e072ac3859c35d659f5707ffb02b78ea603e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae5cb9d1afa693d9c91eac445527e8ddec126f18594750e924e6023f8dda971b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2aaba9e29e840cd94b322e63bbc9218b8b20a9000d85d842537fddaf28524c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37e2d802c53b87f2025b3a47d2f328cc33ffa3308bd7a23a9dcfd61422328fd0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70c217e956a11e55cef64e62004b94faaa027931a7da95ba7783f8b5318c9963/image.jpg",
+      "https://i2.au.reastatic.net/800x600/246bc15c7c2e248200630282327be050a1f834b88050cb89fcc96b6e6d9ad77e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9dbd21089146422cc0690a30bb3e0f9ded12e67e7e999849537f48e2ce61393b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0d5354c00099a2d2ec0600a807296bb1506a631400d6e9b1347d72376aea3ef6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-150935036"
   },
   {
@@ -5442,6 +10320,42 @@ const sampleProperties = [
     status: "active",
     notes: "Active Hedges Avenue duplex listing advertised as metres from patrolled Mermaid Beach, 80m to the Peerless Avenue beach entrance and with ocean views from multiple levels. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/b428066667d2a69e06407e964fc1075e81f268e557718a20c3f1bb2cb1d5528d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/872dfb0d935c5a5efe33f0735bf9b39f45a6d2d4f7dc65d51e5969e8110bf0bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f1086393ed356dbe5e2ad7947e80b76588d4e82aadd044a1c270c13d254f3996/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1bf6fe25c282d84f6606b3f0c87eb99414becd0e29315f50a0618c3559367b28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7c5ac7614a257a026647df8040236ae8f39d067591d8d4ae11b49c963b32f5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e03b079935b9895f549f52cd2e6801de307809a1c643200dfe717056dd228b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ed1cdb16cff21cc16027494ef959e016d3a465e45e1206e1c099404b3043333/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98b349623729d3558c08b3893044d1849c5b69027e88b4448c3cfce2442aa173/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0733ac427e5eed36a4167eef3a6df115f2390c0f25c7a843b84a558fafd57c03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36d718447d644fa27881e346f2b70e71bc824585abb94847b23530d54cf2e2fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6119ab1456e7cd89437d3a523b34ca29c1722dbfb48cd5c1b3671926e777df2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc94051ced5f84fbfa7a8a91e8117e4f819c8950cf96e01adbfc9abb6e918869/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c60da9067d843910747b10b0064aef2daf247baf596d4ba46f1c381e45560390/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5f1e2c58c1e640939732928d20ef6e31e3bfc50dd978ab631e6b1e8b957aad4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86bc0f940407a65e05e37355b6d1260efe9e04dd9c4fce4028c2ea357f47cb6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/995a866e39214eab0a2933e2dce5c979de29b4249368984b21c23982359353d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/529c639999b089c8e5879b34bfa29f9f74abe4d05c6dffbddd08a41bb76dcc11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d4fe2defe32db18e244aac3f38c10c34cd977ae94627f5a9e0f130ca96e4408/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a3ff6739a300fb3bb5da5f84a96f0a3a91bc61959a47d791e537756a1a08f68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/072d4ca30558147fb00ae6f29f5933f88f47a6bb79c88adc88c138465ba6e89a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e00ca0c1aa577157611c43ddfe9402a2849149ab861160d8c7710ba66299e762/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b9e01747dfc7f67a8998205d882b6d7f959251c1ddb4f70b3e4727b86dcca03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/352195e8e3637d2557e1021a519155f08a5b8f767761fa30aebf7ecbbc4cfa6f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/711ede27502fdb2dcb6b5ea5bead623830e76fca4f71f0fb2dc473f162c53ef6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c09225c40cbfe991497d1bfd3c81cd095afc3745bf6067ccf55ce17e2851a01/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d59d6c0eb91102470efd1687076ec84299fd1c953fa8a1c453cf5302fefeec2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8be3b11f445921531993007f1e7ccc04ee7b895068d39dae9dd1080c873e77b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3e883736766111f02f5d33cb6d3cdf3b66ac329231689e70255dc35ce8afb06e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fbc50ecb9d6ca613912d0bcb7f400ed7d598c6003e70a4e75a080a5d063db1a7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73ee2c5e3b0947da9b1ecd7d15a50462446696071a590965e8a1df725b55bbb7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6a72324ae06d8649bd5744fde6f106bedbd3ac79e24a69a84fd2934e9644f11/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b2f7f96219740642e47fc8de2b919eacf6df9bfa76c8229fd6659745e3c76db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc5254505a473b236d5113fca3b6473398f0f41e99dc9ea9ac4fce3f442f5728/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fccc3ed8531947e425d6f629356c1292c6fd1777d2c7db0b15a4b4144dbdeb95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c52699f5374b3295350e6f3147a1e6c28ef091ef76a19a977ac87b0d2aff1a2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-duplex%2Bsemi-detached-qld-mermaid%2Bbeach-150337520"
   },
   {
@@ -5461,6 +10375,32 @@ const sampleProperties = [
     status: "active",
     notes: "Active Albatross Avenue apartment advertised with beachfront Gold Coast positioning, footsteps to sand and a 230sqm footprint directly across the road from the beach.",
     image: "https://i2.au.reastatic.net/800x600/2fc40c7dd8e62183a9a98d69b088df411261b179b94ea22e2c2e52f96dff653c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a2f88719f708288daf1f82e5cdae8817e3cb677908f1bca28541cdfaeff8c6ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/09c8971d2712bcb7f8db2898dad3f269d22eb2840f3a1b1b0316526c6eaccecc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b449e0dbafdf9d74e5aae70dda50d3036d6da828645481d7fca3a953eb7736e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6791134fc46fa26bb0546269837afd53aec8e4d0a3dbc20ad175de0eb08e03d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8348a5d457978822494e04e586f59d9cbb786778e181d5dbc176a3dcfeb89446/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bffd79ac596690cd260df97dca492bc4c962cec816acd128ba2b2ebaa5adb4cb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae5c9487f00ca5c568f06fa1df4088077717666832c810c7398d70c42d957aae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f47a96cb529e93a39ce16d728540f863ed9b7cdc73572b3b1779b234e1328fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9585344761306382dd3e91a9b55897db2e58998894bfd9f991c1eaddb61a637f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b50502af9ac9551bef76d3df9cc7b3de5dca805765ee0b18c11b0efca7d586c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66d99a0e32dfdfbd10dbc89c22fc63551f7f2fa801ffd0127d6b8480623542b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96473eb112c49198287e769d57dc833221f3a33b21c0cc282856f3d0ef2fe7df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8c4d6a3d2ce13adf28a6d798ed1741f9ff394d317aca94ed352110adb06aff8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2fdb10eec796493d8bfbedb043834cfd628bc7ab3b5a8070b141fd1e8549670/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13a15a24eb45b3189a2e7781f1f27e498976f9eb7e4e289ac0b64113d7bbb52b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f807203a8d3b691157f5d690dbd33e95ffdb4a5e224194c99e7a17d13447cc1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a452829c394c51c429f85315cf7368f8b8db98e6ec0cc08f21e1dabc6f158bdc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2da42ab14234f3cf13f812506b31c5af43bf2b47dffdd6b91358d8a6597fd87d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/765ccec82ee7d5cacd829c6c988d09dc10f35962850463aacd2f5646b0852c7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/596dbfb0b7af87cdfdc16c534af211234dc97162d125382d1eac316bf74f9f5d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0e52bcfd9a5ea1f985b2d995200d52950438690108e1bdcb0f6c667b4ba29b97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/566eae9062f9489279f6c61f0fad3d6e6ac101e829ed2cbfa964fd3b04fe0ae6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3462d9fa9086e2629b5ba9ed7e12ae1f3dc0f89ea6b6f4b8ee576f6ea6328b01/image.png",
+      "https://i2.au.reastatic.net/800x600/be1a1d5569d968cfab5523ecdb6c8d6312bcca65436c942d3a09ad4c4899402c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-150765176"
   },
   {
@@ -5498,7 +10438,10 @@ const sampleProperties = [
     factors: ["No road", "Back-gate beach access", "Dual living", "Rooftop terrace"],
     status: "active",
     notes: "Absolute beachfront Lancelin home with no road between the property and beach, plus direct back-gate sand access. Price advertised as all offers.",
-    image: "https://www.realestate.com.au/property-image/150741000/1",
+    image: "https://i2.au.reastatic.net/800x600/ba0ba9dba2b511c0e8d24781c4a1267532a33ee3c9467f0c3a28751343a23a66/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ba0ba9dba2b511c0e8d24781c4a1267532a33ee3c9467f0c3a28751343a23a66/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-lancelin-150741000"
   },
   {
@@ -5517,7 +10460,12 @@ const sampleProperties = [
     factors: ["Beach reserve frontage", "Large coastal land", "Tourism zoning", "Potential ocean views"],
     status: "active",
     notes: "Active Lancelin coastal land listing described as moments from Lancelin Beach, with the ocean just beyond the coastal reserve and powder-white sand within moments. Price advertised at $1.1M.",
-    image: "https://www.realestate.com.au/property-image/204454776/1",
+    image: "https://i2.au.reastatic.net/800x600/92f4e98e6471985c01a62d469324b6cc21a2a73373bc711a689eb32907ac1ff7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/92f4e98e6471985c01a62d469324b6cc21a2a73373bc711a689eb32907ac1ff7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66e64148fe48f92dd1b597585d58860de5453931d6bf229ac280f6988730b459/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4cc9ddd31b704657b31e862ed283dd1ce3d246cfef08ad9387469019183de138/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-lancelin-204454776"
   },
   {
@@ -5537,6 +10485,35 @@ const sampleProperties = [
     status: "active",
     notes: "Absolute beachfront Bunker Bay residence on 902sqm with direct no-road access to the beach and shared resort facilities. Price advertised as offers.",
     image: "https://www.realestate.com.au/property-image/149959248/1",
+    images: [
+      "https://i2.au.reastatic.net/800x600/bfd3298bd9cfa30c7bfd5488c059ffec73086c450deacd34ef520c3d68c44b06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ce7fb69f6a680b68c76d197e1b3d18976d126cf99f29bceb9eeb4519d8c3948/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b1f6c990801c270004ab09ace7cab3c425f77d6dab4d45b5b1bc8d30b8b1731d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd46ac8a3fb6dd70ced0fdeb02e07c8135302bbf15c6b5e80000a23218ddb656/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b579d840be32a60fef163f07bcf32aa1c962733353f58f2925f382af72b9188d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d78261ad78a559261a9c864da949e3bd004d4fe83d202bbe62f1cd516141b4f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ab99f1596486a9811493e12c32d4650f89b7f8d943cafed13c41b15441149cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a0ddcb2b8bee30fe0a3017562653cc21a1fa7da7d1425f33ca9fd084bd87545/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a7772087ebc30110f4683f1fedec36daf760dd5eb37a014fa742ecb580330bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9a1d055c87caf832800fc0d8997e381c14d6b40587fe9ab8540eed41109f79f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a2d9d3f005effb64f0bc82c565d95d740c4d2ae49ad8d45d1f13fc0737ff8ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89878c96fe1c41e8681ea9f73d09d32ef259f48a44d929c00408ee131c595cb3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f404c8260f74dfb7ec57ba2e41341998af81f224417c67e247d20300a522e70f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a52e92e50a35fd75a662e1d3fd040324af35714f1bb8a4cc8a38de32cf016830/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01e922b6ba43c5caaa1f33e2525776de31bda365a5636568062a1283232e3e81/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ad9e2b2d179aa6cdba53e00c85b47b0c984a7171bc22e75963b65516be2517ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a08d1f7f15682742cfa2ad49ce4734c35475d984a2652db8b7fb6cf1e8c1b8f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c64a02e0a8d3121105e74fd0ca6d48122827ef62ed983573863f79f6db77d509/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98d76df4e2bf7291447424db7776fd10a36aa30b0a9f03393a1abb80cd1e4b24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de4078117edaa5389173aca32e468f5d1af7253b47576279a103eef2388a7f52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b559534f7729996a04842430a6cd8fa1da7051b7b8acd9716e6147d15892185/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c6bf8ac8f2bca40358b28059f763d4b0d0f21d42e3636dbfdb8ad69ad25b6f73/image.jpg",
+      "https://i2.au.reastatic.net/800x600/398b637ee400f8a8b624995ed665736ec133301c8fe81f7c73f5c0337c9e6fb3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51ac9f113442604f15f8193e6c47cdcd9d971590b8b3597810c823a9ceb10e56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76a25a3bda5acd70fdc42d5983be58b18cf193a006916fd0281c2db67f1b9a54/image.jpg",
+      "https://i2.au.reastatic.net/800x600/079db1fb4ed6d33d1c7f144cd34b9345335607246448e6b3c86de05c90552c9d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7063bcada1f058aa5585be1d0306964c66c1fd3ba695989deaea74a25788540/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-naturaliste-149959248"
   },
   {
@@ -5573,6 +10550,12 @@ const sampleProperties = [
     status: "active",
     notes: "Premium Fort Largs beachfront allotment with uninterrupted ocean views, about 30 minutes from Adelaide CBD.",
     image: "https://i2.au.reastatic.net/800x600/090ba112aec7ff8adb63dec9b816b966ae3f1f34699e193640b49970c9e373c6/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/090ba112aec7ff8adb63dec9b816b966ae3f1f34699e193640b49970c9e373c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97a2ebd1d4c851a3d9a13b20d388c1110df52e49015bd27902e65be1046738b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/17fcac0335b17a52678a4d000e0fb9f1937916dd5458a82583325de281c96500/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0fc01d546373ea5cdaf281a1cd96f9b13b775a78369270db09ceecbb78da8f2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-taperoo-204275416"
   },
   {
@@ -5611,6 +10594,10 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au listing advertised as an Absolute Seafront Home with absolute beachfront living in a Gulf Point Drive cul-de-sac near North Haven beach and marina amenities. Growth evidence checked through available portal and suburb-profile data; realestate.com.au shows 11.7% recent house growth and OnTheHouse shows 86.78% 5-year house median-value growth, below a >15% annual support threshold.",
     image: "https://i2.au.reastatic.net/800x600/07e53a96548a4e78715326206e13b826721fa7385e756d693a47a34c4024a9a7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e4f37f5f3cc1872f7bdd394038736bd93668ff609198fc757c6c3ff41316b9e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e59ca5ac1cadd675a1827e7ef8768a998c2e334aa0671c0d4e202cbcc1b30a7/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-north%2Bhaven-148273172",
     investmentStar: false
   },
@@ -5630,6 +10617,38 @@ const sampleProperties = [
     status: "active",
     notes: "Front-row Esplanade home with ocean and reef views. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/dd999601746e0d4c4cb1554c3b102ca3318087ea847c9042a7abb7b326ae4a2a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/dd999601746e0d4c4cb1554c3b102ca3318087ea847c9042a7abb7b326ae4a2a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8ed80962575d9773aa7c756d6cc44c18d758a17c281539eb40abca296ed7d171/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae10a8d808450bd6469ac415ab6cf3b770bbe263b176d5e17a1032604b2bcb97/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b0e136cae673bc9c5d62c6f2da5470b7ba42af50151c6be880321730b928dcd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b84f4bca8fcafe21861eaeba4d4e41ddea37858dfceb8ec352d1c5428142b69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/229c593e871a24ca28c42c7ea427f23e2caaebc0a6e7784a94cf48f9a1a83b67/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5286fdf4f829958002418a13c4ac31b9fedb07d32529bf24cc7a9a103027b413/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fc1a1e4ef80aa49e6cd0599b4bd28bf624c3bdb45aa66dcf376a21bffa9cf9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/154ee5b52732c78b193ef7fcb188a228702dbf1337a27bd2216554704fc19f2e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10b68f0c2d7a3df673301d25e35bdd342b7929c7609deea9c4304c1c5d078792/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8e72545b23bb9cd92bb0e86cfda35de4b5888f9445df81b9b062f65f16fde8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/635c8d8994deeddf5f6a6aa0901acd94be460f1782e5bd504c581de2b152e33d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b6f6b7b907f0ee72f37b4f10778cad77300bee85467a791b3255d8b901e4973/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6b3cb0bd482f2fa0ac23885b25d1cffd133a748777b6b3f92bbcc939d07df5e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01f5506b5b93e1d5dd036755edbecaf5d79f297aa560a004a91c86d37eefa9ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f13bf234e877165e08949504e08adf763304f2df5095d592842434f781a1f360/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f53ba132a152fcf656b7a7da2a7cc2b6ccb0583b0ee667c215b487edfbca248e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/709ecabd82c792f9bccd9e7f832ac0ef367ae78956819a8d29b811771e3affa9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee7a2409c0ed612efcf9b297d5cca5f112b7bf288cc01f73f20a39fffcecc8af/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7235ca328667f5726e0a4b015f6823ce25ee10f663258624855e50fc7880fb68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44dc5d1e0435de47e1c6611cbaaf0b0edfe530c061637bb23136a932c38b6ccd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ba710dbd8bb04130ef7f13c2174e111afe67ec39d73da674a6e56009205fe5a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/25e1a81033ebed2c6cd32d257fcd8d6409e604e16abab9cb931c86cb442c34d1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c2b5b2fc637984d04e2552f58523acc375336f9579879c4a0ad7424ecfeec09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/937bed7ebe1a3d644231972a27bccea5374611df495aadc76cd459834571b19d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c9728109b209c7750790698137731802d1de7de9e08fa5ebd07e7ac675326bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f93faf121134948419d6e7f3c0da803f01e0145627ef6b935f93d283d05771fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02bccdf135c3d2dfa4da77d87d7ed5a0aeb8d086cf2379bccc6c1298b8c554eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/522a2ad0c7efb2f13559d94641e141d9578bc080447dca1b772cc35fb5bec5a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/71dae140ef24fb97d1a6c1f67622d35beab74d915b021a0f77d0b51834ab6d55/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-aldinga%2Bbeach-150095992"
   },
   {
@@ -5648,6 +10667,40 @@ const sampleProperties = [
     status: "active",
     notes: "Large Lower Esplanade holding with 180-degree Gulf views and future rebuild potential.",
     image: "https://i2.au.reastatic.net/800x600/e82ea4f333c2f5fad82745fca6c8c0e75d74d0035cd70f683cab7b98ebea4243/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e82ea4f333c2f5fad82745fca6c8c0e75d74d0035cd70f683cab7b98ebea4243/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f0dce1a11c2a85ada85c40f25e1c62832e5064f895b7572aeae284a70ececde/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1db331fd70aa83a80432d03a6556ddc45ff9d68dab49bd1b2afbb736f4905f95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa394f3b0b116e4437f5348b1dbe7054fe358239af7778eba10e2aadc6b42a7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ea64266479728ee2e4f98f697068c7d06643d5dd73a1a96ba592b4908282caa5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f41fbb3a3ef27f7376eaeb37273ee5fc561fb9fe72a3c6c45f50983a1f752d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd2c798c2455cd27d6956bab61e15c40552756e0e774c822daff314c78b5762b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f813792b0003afe16110a09f521eefe5ee1eb85d172de7fe31eecc8e6d8ae013/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1f05ba3a01fd9d7def46e4001c0b15923df0800506a4a33c3f7f6859fd81890/image.jpg",
+      "https://i2.au.reastatic.net/800x600/636053b1a2340ba200de5504fbf4f542d7f9c187e1327034164d77c32e7328ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c1ce13776a553cfcdcab1de6071b4cd71fb6b4844cd171e30733dc90c1d73d4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c672a9452e8464c23576a3eef3814459eff26f20e1ee8a4398d4e08d4213e5c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bdb049254989234d0b771573c7945ecb6e064d4dc600f8ece7cbf3764a83cf31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b7257e63a6097ab22c3ad265f1d18ce7738d2e707e0a6eea7adf67e6b482c85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a64629414c4851cfb2c4a2610eb0f0af152760b6caf3923023ed65f3568b3a65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/934706d529a02b3a748a47acd9c69506cb146d917ed7ad55845a9a8f6e072125/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2e62868524518b0efe791427e78adfa55dcffb34d4e1d473148e6506f350f05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e949377b0dbe4d9f32cbe2649886862319fd49373cfddc72970106f592db790/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11798a1d0da55bc04dfbecf3db98db1e59229110c27146a7336cb6664af10870/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2353772d33d2a7a9b3dd6e05459a36ecf36109939cc13a6454411667d9798c4a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4fb50b5d2d0cea4629f37340ed58c8d05475dbf2633267f17b9d1a6ffec83c82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/601071e6a8e62dadb6b214c5e7bd2fee7a6d68b5391ee9baaee72af1cf33a379/image.jpg",
+      "https://i2.au.reastatic.net/800x600/274c09975e69a93c630d1e1edfe58f705cdceb1e99e8e39e37377fbddde0e911/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ddd5621614fc7ee0879ac326d03a67a49be8e856ed968be0abdb6632b5c01b66/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74b07241da5d2950842d24f99523d635fda8840d4361d3139c5c7883c6dd8466/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b84a6bfba4e0f67a3457d28edc4b9af6b5c65b7137e7d48c4aa2bee687b1f5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af1c47153825f94aa6d13f826370847e14b174750141ca973a0ff1051ee0969d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14f79d4788304465ea7fdb68963b825cd2bdf65689c4895539083538a1a38582/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4dfafa049c8a6666c48effe584ffd1d62f32e2773529f640a514508af07a0066/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11515cac0b36856a5e207887be7982db16cadb34da87c888e5b958abd81d7a10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c261d992c23becf5eb67b924ce249a3ae1008eef968462348d1da1f00033498c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c090cbadc77f7127da75cb231648c3661d9235f0c4b54c0f71d170876a69c72/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-aldinga%2Bbeach-150249668"
   },
   {
@@ -5666,6 +10719,43 @@ const sampleProperties = [
     status: "active",
     notes: "Tightly held beachfront-setting home opposite the dunes with flexible dual-living layout. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/5c62d3a797f012f964cadd8abb8f33bf8625a6b1c26c981dc8d3cf93b8271d1a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/5c62d3a797f012f964cadd8abb8f33bf8625a6b1c26c981dc8d3cf93b8271d1a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b145b73e24c96aeb6151ed1955af2904ddfc39201eb99d7ed1805f8fce7fc65f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/39dd12bcf454bfc6dd0674d74272a2c69ec9b02e8443c4a195f972c702e9d888/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0012e47502089ef473902d1de16c294b8da2f8566cdf898a45982ab279adf939/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0d5f267ea676367ef8150cff1b5f72adf6dbc9b85c58497b190e26c46ea4bba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b320df2bde43c994268b0834c3e46abee752d519441ba7ed6c67b00d47d297fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01d81fe1bf867f5a747c534ddd72c78a5743da06857142e3cea8a8f2d2d18ccc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74d0aed70884ce8d95d87fc9dd985056b9a8b371eb96302747dd6187c483e0ea/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b74a84f5d5ae261fc542ba9b2c62d0a0c11efde17a5519fabb8d53b89b4dcb20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa527823e687203d88986f1cebe2fb9781c783f8010676e1323bf133a8e81a65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a79716e3d695286ebdb88395b5e4e83a3ff52e50c604f1b9ad5795e6c834f9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1b986ca73983e6942841c9141776e93d5e46c98a5fd1fedccef09dd004e8ff10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c06d7ca384b2049293563d31efd4cdea3a0e04d41eee0fc9d519b73c1cf8b1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/868aabbccfc3a6ac787859b56a1cb94d4e017eb707a8235a885f0deb55e16228/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0532dbc1ec065cc415fbe10d1c92ba6c6d165367a69238e277b70095e4843a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dedf680cda7e684d6181817e74fdcd9f1aa6c36c2091b8b7e9525759bf6aabce/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47d7b799c48ae4add14fa7c90580727555b2f9bcf59dd0bf1b6bb69b8f0e65b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b44650b189e7cc242deceaadf81d227953659bbc22565e51ecec5e674042a1c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cc9a00b65ad9d55b0303a74f307c0bb7e34b0701e0f638644c58b3dc6a1565f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5cb3373f5d00fa2fc5a3db36fb73d044af0523e255f872f49989ab2a191fdad0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/677f5e4755315a17dc67db87ae5210d82abea67523c7e1a67e0dc960e2c33701/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2956853d81f73f9306fad43a4dfc19f636230aa352cbbb6a237a0ad7c650f2c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f51200c4c8b675a8a9f34c50921cb7a5645962441556d5fa620c808782a542a3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b885e951570288a8088190c5e185dc5b7ac2b88de2996b3efbafdb02637ebd7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24568e2d8ee450b35699a902c201aba0d28989f26cc28a35d760f3ed7785480e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76078306503abab8c5f54faffc77233e95b7ff43cecd48a8233820e0d914986e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e62521ad06950cd5067833786bec7b771e3ea72a78b402902af166156790bed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/72ffbcf1014a4c712c331194955c593b53ca6ae246929269da6791b9e0079722/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bf1684d0a7d2bf303e5796aabc21c211aecb9cad154d1bb7a8ac779fb9062a68/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bb8aa60a3d82ae9a362a9d0447f7a2b900929095aadf9b239e1f25eb08c6c82/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5b2566541f3e12ef31f30a5fe7e209afa7a0ba70768745da72f6d86660a8136/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b7ca9da854ea789889f343c5f74e506d2e22470e1ecbd9d20ec8e69645f4910/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2805baa2af658fcc5d9a12b13bbc3d66cbf1af9ca200bc5a1f93a4c3b7969de2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d644a2efb38f99a76410abc13f2a2a99fe8deab042a64c934483854159a75983/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e79b0379f30dd705526296a590e1aeb68309c68f1826ed3688c4075cc9d1745b/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-aldinga%2Bbeach-149975092"
   },
   {
@@ -5684,6 +10774,21 @@ const sampleProperties = [
     status: "active",
     notes: "Turnkey house and land package on the Esplanade with panoramic ocean views. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/4258ffa47b95908d60cc3d7553a85334e8019e4d955ab866f21dc08b8cd6c5a5/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4258ffa47b95908d60cc3d7553a85334e8019e4d955ab866f21dc08b8cd6c5a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0eb3614aaf6c53ce78e6366b2171bbcfc8d9d5be7807af2293b7bb767805a322/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a21b9be21da99f88f03b760f9910a371c71fad36bc914e371226a7575a42ed13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ffaf3cd32085f97a9f96635e165d68d304476df191dbe9f1054e3774a1d2ae05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cec6e0d1a42ea605e73e4135d579512eb665905a5a6158357f54cc9f4cc1ceec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9c9a450bbf3612b8ded7d67df7517360900b9bbe82afe3b289829002fd8a98c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/edf9f069470d12c4e5c234d5c784ff8f77d4fad324697a6906405011db2522e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f20e2af699dccf864e16247e8657dd0dfe1f9b89c07a20bd0889098e033e9231/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c5e05653b486f98e218bb665439ddc0d4d90433e17866fe8b632ed3f496d9bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c6121149f02ebf998148a0acbf057895928f82b9e8342ac045269f773323cbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce92f8430bf8a6ac77fa0b4fd6966f1f9cceac86dd8b5271d617274261927221/image.jpg",
+      "https://i2.au.reastatic.net/800x600/08e61175a2134dfc3fc81192149619efbad40cebea19a873244cb8055afe3d83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6635b8ab8d8cdaa85c9b9c04000dc401cc2ad6c0e089edddd103fbecf53e442a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-aldinga%2Bbeach-149717988"
   },
   {
@@ -5702,6 +10807,20 @@ const sampleProperties = [
     status: "active",
     notes: "Large flat coastal allotment about 400 metres from Middleton beach. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/0f6198434cf3a22da21a584e38e5b3cbd60cf53d75c06ddc31626b8803722d09/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0f6198434cf3a22da21a584e38e5b3cbd60cf53d75c06ddc31626b8803722d09/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c53f6eb02aa6f4a58621c796ebf2499f8e97a3279bcec6585eea5e6a6bfdd5c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8a0aff02efbecc5b9ba9dc67950f4dacbe4d9512cd341458c561e98e6dbec6e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c7d832b7f46155ab8992d6e4a0f24142e0519847b50fa6d0e7f39244004e38b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e81cf65aa236db93770940b6307cbeaac74c93c6bef9c1308a0ef512c7fe1f8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f97fc4db478609e08228fbcc6719b95648d4b7e0fd2f907ddad7124733d49ef8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2275a2cf62a5a682e4c28d1424972d99a0895fcec7a98fe4d65ad107f48b965/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63f9acfaf3310ba0db1bcf7f982d7fa5bd6eb665e6df1605022307b458e146f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2de82fd4ae7b9c8a4724696807542779333a7a57e661ab19d7a1a6d59e4adf08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/52d0e15568e0cf3d1392c89c6726b623ed0c7e98092074a6643ad4e247054f75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85a7c0dc3c8bf83f4d43e0331b0ba35b10a7e822000a64c8e47d0678196d254f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35fdc83224177cd8a0dacfcf2b7bd99e6c5fbedb5994b8541d722c45618ce151/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-middleton-204468824"
   },
   {
@@ -5721,6 +10840,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised as an absolute beachfront architectural residence set directly on the front at Middleton Beach. Price is the midpoint of the advertised $3,200,000-$3,400,000 range.",
     image: "https://i2.au.reastatic.net/800x600/b0abf9dc6300ace997ae804442ca079915a24131566a6827da4bdcaed0a89f83/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b0abf9dc6300ace997ae804442ca079915a24131566a6827da4bdcaed0a89f83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecdcb2542412116d0dc0196bacd4e4a1f26b77c7cc1ebb9057b93aaa9b1f54b7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7bca74b0aaae5ea5fdb0f6d73f7dfc5bc89dbb7aaba5d0fb649668e850e99670/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6c45dfa1c9397d99a7341d57b14453b71bd91d435d986110d79dfb8e38f7437/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9df223687b9a2c44894aa52183f23aa6a20b48c049538b9dc8bb673f8410fca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8b81a58944d8142383077b9b22587b5091b34c6e509589343723a41ec670131/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d9d1eb939ec86da0cecab6fd4adbb365eb95f95359db8c076dd35afa468799fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa18a10b9939d977cc0433ae683513723ca6ec5f349629909799e04f356426c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f50a7a47e018c57d57691afe4ac0c77ba9f2b3978c3d9e56f9ffffa1bfc3d104/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8c2f72856ed5f1a52c2bab228fa1177756b64421a716ccbeb2b66bd8e0a35a1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/12b10da4e3253e757afce19121dd809e43ac860a25c9ce77f7a9bbbfd26b02c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/885a229ee794e4a205882e8ff13bd5867da66652c9c1f79a28fed18566087f93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f1a85a014c2fb417c4eb73c4d30cf74ac0d66cc8c13685658f7eb86e3992643/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51ecf72f63caae10234e4f41367b310ac1d0b3eab0280291b3676e0cc50e26b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13e8e3509017504e0c5ef5036dc3293fb8b53ece043b0b4e6987abe37a030068/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5208791f92e4c2af3e947e5ef94f931904647db15b5b330b246f7cc96588f236/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cad726e89ba58e7bc631eec518e21a3b1b2c0d7f0e204c04a9a5801ad18648f3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac8ad9d09ff89e7495381b1ac7fba9bc0b87866b9727256c6933386c91d933e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/efe0d61e2616851f4beca74e5f3609b1a8bca48349fa31eb5e37499284a46efc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/338ce975fe71eaa3ada086165d9577bde474812f58e537d20db79fcddd56ef95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a751a942eef87d95d8c5000b475d762507d1954b516285952c6b0afaccc73d75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a23007c9445d82209e90de6f18d27feab82028ae9f1a4af2544fa682c9178990/image.jpg",
+      "https://i2.au.reastatic.net/800x600/591a08ef96b578be980da55d7f062b328361e06d6cd485341c8fe3b1497b158c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7815a4bccd9e911a4cc5cc6312d0758068b5f233bd6c2e9a34775912784a29c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d274eed6046fe95bc079b083da608637f032d7f4b738da1760df9ea008f25f41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4dc99f14a1c4c22d407ad5d4f480cd9401835e7b2d70c63d106136ef62224745/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b21dad83ecef54a918d5c740815dba1115bf44f0c9b3dc8852ad726d4ab7e195/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3cc1fdba0e40c5ee7a731d4d6f39e13f1fe5551e4e51c8ae1179a9af8cfae05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30590266b49bfbc94040291e86e933b3a842c9c96109419933d51c6b9812b793/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c16c4bb78e200d398396fc6b96fcc79bee1ec68ac32e8649b8faf2689a967dc3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f67503320061b760c6bddd9907b98fc8343a128ed4eb6968055a91f8af3bb975/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e01d381c8f904aa44b4f0e822a43dc1e4b9059d18378024dfeef8ab6d6900cd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc1a2c5b5e542802f901a4077a6aa860a34a37810f9cf921a8b29a80feed8364/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f05fc29b07b2301232a984ff8599eeaaf986a68f5dfcab655653f1660e961753/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59e35489641bccb7377d7826a4b545e93acc5038711779bbf7cc65cddcd16af5/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-middleton-151050700",
     investmentStar: false
   },
@@ -5741,6 +10897,43 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised as a tightly held Middleton waterfront home positioned on the front row along Surfers Parade with uninterrupted ocean views. Price is the midpoint of the advertised $2,000,000-$2,200,000 range.",
     image: "https://i2.au.reastatic.net/800x600/77aa57508da5330b5c4a07dc7df578a46d7ef4179b8f62d982b84488eaf2489c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/77aa57508da5330b5c4a07dc7df578a46d7ef4179b8f62d982b84488eaf2489c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c8fd45355175c7e1b9fe661abaeec534f32b43a849e6fb461b2d9ae1fba52b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d0995dadb3c4faed138fb9dde79b1e8514463657d99ee67e710a81518e23abc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/323ba71d13531283161dcbe3e4979c2ef281c73c67dd1dbd50738fec4e0cb968/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c47fbb03490bc563c4b376735728d814543646dd90b8cabc2152f3ee48696207/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9243dffc47391a44044857d97d862ddd27136da60098b87ab8ab6b0ae1d49f9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10a9a8ff4202eb40d97e560434f13a682d0726d746ffe84cf8a0fe642ec20165/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2085ab75bf57d06292e1b4223742276b834e27ec8dbf70ef152619767aef0fe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b0c84ed9dddf83e33f70049e0c13b682c9551a3de0680f9451e412959e863388/image.jpg",
+      "https://i2.au.reastatic.net/800x600/73c7fc565b8606225a20efaa817289d43f55cf5275029b5036162626c4507675/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1db7a934c2b72024187738327c4bed95abf1ee07fd6671aa8e9f656b9ceb05b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8388ebc0200adf30f5954618c9a2263d69b757899e405ebf8f9c06373673422/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9fe27228b17acad2669161c0ce3db531ac9f86458eb9088bc8c4ed691ed2428a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c26ae526ebe4d75b05f18944a6c70b8e2ccbc0f8b6151917fb912ca3704dfed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c3694512bc254697897801d69bacb41fbba887fbd88063e286bc87d3ee8be03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07b2bb2694238380da5316d3e8dfba6a5a541202223aa44eaca6d071b9ed050d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fcedc59a4e5f9c76abdd187aaa12849087d9cbe1b4b59ce0a15f08f511d7537c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca8957e4598ff852eea602906206d681e5a985a6c1eebb619e6ddf325bcc7c08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3087ccd7c4884ffdb67d9bd1e0a29ee19f259952510da22c1d2ca4d517d5b2fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/191fac61c7443df4b071ece34055709d6112001a58c585ab464c192c51e7a7c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/69f40a2e199ed168e2508f73fe0afb2744c2c06a772e4ba1b2987c2338c8dbd1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28698d6b62a428d95ec695d61741cabfd9a339abebfd8081b00e7f6ecd864226/image.jpg",
+      "https://i2.au.reastatic.net/800x600/60a0e9781cb9c4502b432d1093350159ec758fba8e0d22ff276fbef164b8df07/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c5421af8860fcbbf9212cb1d1c144fff09fc80ce98d3ef056c80e5f85e97e571/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb56a02f53eef32e86b8a6a1aa6f0f55a1b77886a26f6bc8570740b3e4a3f683/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f54f4c1a0a51dfff6ef4d43b42ac6894011682e236da2f75b4aa606df466ad36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/65b640569bc74d4cb376a7b29c4b48e4d0709006c29a7a2c8e4f8704b5b8ea65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84c7d7e46961b06b9614b6cd5c21fced4ab20759fc8ea938c60df8bfc5f139db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/740bfa64d35dc2150b3bb67cfb888231677d6f5d22470f4b7c854d891eba546c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ded9a3c28e98a47f79232bfe4a85763e4f672525c73c7f9f319ff7e53887c0e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b08402005f99140a6f55a414c2b0d3cfdf4792950d45ef7884e7c7bcff3e782/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53af1dea50e99df21afa543062ea2b33ffea1e99adfd471cab5382f127d754b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5042ba15e0c5afd18358949b12fdc68e866a4657f59b6b5882ddb10eff5f6452/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b7d500a6a192f5c6b9f3647dc7fe057bb370ffbb2d44aee0efabe063300f5e80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c73fff69829c77ad8d6f071eeed008711371688860aefa5cf06f1c6392dc6c52/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-middleton-150902840",
     investmentStar: false
   },
@@ -5761,6 +10954,42 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised as perched above Bashams Beach with sweeping shoreline, Pullen Island and Port Elliot views plus direct access to the Encounter walking and cycling trail. Price is the midpoint of the advertised $3,200,000-$3,400,000 range.",
     image: "https://i2.au.reastatic.net/800x600/862238e7c3452081f173290cf07710c1dfdfb47925f77b96cb769fe2b19a7e56/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/862238e7c3452081f173290cf07710c1dfdfb47925f77b96cb769fe2b19a7e56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/20c9418f0bc0d7bc7f25d048ace51a805a62e0c4989fcd0badddca1478da42ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ad25cab8532a6239791705c66274fe2e123f234dbdce29a4f5ed4e312b1a28f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5078dd9be57da0a724f581b9e60f0cbb00b9c02a329a8c8c8b452ce5e31677fa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fc47e4ba202404a2c568dcea11acebda7725118dd639ca7ab741799ed1f7b94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d867abceb773ea0a2b6942d420d562de772a095051b4285365cf65e6d140cbd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56c5566d599398a938f5b6581c31b81d3bf94167e9dc79df9ba870d444d566f6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2b9fced58350c884a31f0471477810bf2c0fd7130e08abb704269f6495f86035/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fb121ff891de5fcd419dd4f91decd054dd7aa38d8492b593026abfb6ba3b5046/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f9f64bba711813ba5318006871fe4409c6b1f4ebf426e12cffcdefd1f71cfc7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83bee2e9352bb31b9fa6f7055a2c25e7cfa2b466782ff8d472432816b7b41903/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bc90ea3077816b8931080cb62e007f5281e64aa7e20e132175bb2774294b585b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ea45d0319b389b8f763df57c2eafd528028386e26e1ab1c43db3a6154efb513/image.jpg",
+      "https://i2.au.reastatic.net/800x600/66edb0f2dab2f470b51e5689d7ba82f06027428c3ca45a2c4f29e93bb1ca09df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a70e3804f8635a79147603e71733df828622c747cef5f4502ce77e1a495de9dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cce2ebc0c60a0fb1ba653cdc4bf5fc45e5c49042b1de323a61b045dec947286/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4ee0ee044c98bdece211c3320065da537caa69ea9307c8de1463a026f929006b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a879fd3bae2490205592e462e0c32fd2b94d1979babee2d3a70e3d3ede2104b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10a3bf0ab7c37c1c226a7c58985fc25c0fffcf628fd3b6f1e6ce4b38ce96378c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d806e40a86960f045172834d115a396634836e36aa67f2de34ae4befea81b52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98c7ec715d64b427ec5330e056db2e4ddb7c186be0976e6757129e6de7634cb0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/156c524a058fb59cf57f4a12b47a0689195a02100755a29ea638bdd1064c5a87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b344ed68e5dca131b1db64ce0256c64d8b3f23cbdb5c391e5099495e21047705/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2975f1ed9d02e3932f1a596b2d3171a897d2ad0034aa4b3b94c4cf67cea20e37/image.jpg",
+      "https://i2.au.reastatic.net/800x600/44f176d826e54bc2fb4f88444b68baa869df7817c48171105af75dff5c1e811f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f861d3244326239a53ad501946b8243355fe987b601d22af49b4bb7ea055b324/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5a212d55b672655cc5e4321dd2696668f6ae711bd1330549a2f083bae6e12d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c8f35453fa316572b1c030cc00ac0e822d24712561d17a8822350cd81ad7412/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a7ffd361d15615119ff0a15945433fd3fb15dd7e1bb95dd878ba3778b1cdf39f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/699317a66a257965bceed1cfa7830d1bbb8b7d6b5ecf8d7097f48eb8f1cd025e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81ae9fc635843f8909e028755696013aad9c822311025dcd866031e076d84c6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f578cf3befe108eb638dc86390d7a1ee7c7585e1567f1393ad595eefe2446d9f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a45612fae6e3d801abc0c3746eb3f6c867e33c6d7e87d1d98479b6e16480b6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c467cd1576a628f444b83198628bb3ec73309d671a9475aed4d96f2d57c470b2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-middleton-149261128",
     investmentStar: false
   },
@@ -5781,6 +11010,42 @@ const sampleProperties = [
     status: "active",
     notes: "Active listing advertised as backing directly onto a quieter stretch of Middleton Beach with direct sand access and views that cannot be built out. Price guide is advertised as $2,500,000.",
     image: "https://i2.au.reastatic.net/800x600/d96a67ea2c1f165e53c375088ef4d04a342f9d83f19fcb3d6153a02773e48836/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d96a67ea2c1f165e53c375088ef4d04a342f9d83f19fcb3d6153a02773e48836/image.jpg",
+      "https://i2.au.reastatic.net/800x600/05f93fa65632f79fb2c8338d0562bfd78edcbc45b502149d10bf595614186823/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acf426beb6973a4a5d46f897dcc1dfbfc97baa57b2dbbcc0b69e12b73f179113/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ac55dec38ca546ce82cd163e00234f27708709a16b1d8825cbef5ee25be1fd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/87ca77d644281cd3a33ef4365eacb5509e6d4d9039166e7de0390939b2439693/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47f18e8a15892d8caacaa0efb8a0ee27530f0af21c844495bb1b1587ecac0d5c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e8ef9ef26e2bc1e40971b5f07d83297ccf152f999c0922f73a09b9aa4b4a5bca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bcd03f2a387e10d107bf03919d0a7c8a624291cbf1df91846f88feb9ebcb2282/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1589f8a4215dfff37e6de58c196eb53403437b4b11c0c4b2f9180ff0f7ef91b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/033c38a049336da0b49b4905384c654100b0dcad9a3939dc4270094d21a04287/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e9f78456bdcaeffeb51b21b0b62871403865a19878ec0676488117d5b1e872f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de63a102b1e8465a1912004bf463f26aae09053a67f3f893a4aaf4c985f0cb93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/602669990f417071782b3ae87de2f38fedb9fdc83372877faed5121aa589f55d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df0de50883d3abae2b191dd8484443fbaef224feca63ea014749072c9839859a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/014e7943d2e0f8c9fbfed681fc238fddc38ec8d81276398ee031451758060dbe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4676b78e2757069a3b780fe689bda2c76a71a90441e94e3aba2ac007f9262825/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3cea8d1f8c5559ab31c4430e6c938e935b2a6cfcb7addbb93c4336afbe4ce796/image.jpg",
+      "https://i2.au.reastatic.net/800x600/262ce96c59c5555eef528d132fa440a6fc8904b985ae6f99f6100465faa4d6d3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4141cfe7fbbe2c887903fb850be49a4211f65f3eb5dc38799a35532278ae2dfb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c965bdef9e6d12336b3c745e75c7552097ca3dc4352eb8bb62e5395b84966d7e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99ae6dbaf77cfd80389f7af8da63b952c44ff4d6908d67620893cd632c528588/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95ef2348542b5c7eda6d08f3529ad7bfc9e93edbc9f52b9ffb8ee5a2d290df08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/603b8ad8bde022802b63f4c63962b15024b800793abf6dbbce574dc8d6fb1cd4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/04b185c4d8189de30ae90b51a171ab76963e8128acd4f73cbfb125dd1880892f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a94de6d20401c66ee9319936bfb6097dbae562db702985e9973727271fe18f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e2eb8d6902526cad04b1ecfe7b7934dd1b8a0e05d7f2e677cf59d0ed7301eb91/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eb76ae1f94f8573b3cbd5a9acdddea6c61a5f0f6f374af3156e23616718bcb55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/444fe4b4f469cb096bcf84e0dc7b7816246e1a368dc47d7a016c47455abf4a52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fca78d7b910efcfa7586df9b8254ef3aa0755d193babc90c93bcb256c9d461c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9914669552a669f87060176d7f779a1492f753f0387db94c8a37fbd942732c7d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2baa91de1b51f18f82e8b0d738084a4f3b997bc16467148bed7612a7d0906283/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6250e5a12aed1befd7add86f9e7fa1bfefc539b19ff5a8cd4ecd56876ee7f3d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98cd114406a8f7e2f28152183bee8bfafff69ed07995760a7d2083977d58951e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8e070e69ee7ecf6f2cc3ad78c9e60c5f0077ebfc4bb160f9c99cc7f083570b69/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-middleton-150665088",
     investmentStar: false
   },
@@ -5798,8 +11063,8 @@ const sampleProperties = [
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["Front-row beach living", "Direct coastline access", "Uninterrupted ocean views", "Holiday-let potential"],
-    status: "active",
-    notes: "Active listing advertised as front-row beach living with uninterrupted ocean views, direct access to the coastline, and successful holiday-rental history. Price guide is advertised as $2,490,000.",
+    status: "unavailable",
+    notes: "Active listing advertised as front-row beach living with uninterrupted ocean views, direct access to the coastline, and successful holiday-rental history. Price guide is advertised as $2,490,000. Exact listing appeared off market during gallery update.",
     image: "https://i2.au.reastatic.net/800x600/9ec580753e4c5936872d907c488d2d6399ecad5c1714348140dcf7ccbcb72f97/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-middleton-149859076",
     investmentStar: false
@@ -5821,6 +11086,9 @@ const sampleProperties = [
     status: "active",
     notes: "Active Ray White listing advertised as positioned metres from the water's edge at Middleton Beach, with unencumbered ocean views across the reserve and out to sea. Price is advertised as $2,000,000.",
     image: "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/22aa-H3454633-187250401__1771207014-57336-Icon-OffMarketOpportunity.jpg?format=jpg&maxheight=2841&maxwidth=2841&quality=90&scale=down",
+    images: [
+      "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/22aa-H3454633-187250401__1771207014-57336-Icon-OffMarketOpportunity.jpg?height=924&maxheight=2841&maxwidth=2841&quality=90&scale=down&width=1284&format=webp"
+    ],
     listingUrl: "https://raywhitegoolwa.com.au/properties/residential-for-sale/sa/middleton-5213/house/3454633",
     investmentStar: false
   },
@@ -5859,6 +11127,17 @@ const sampleProperties = [
     status: "active",
     notes: "Coastal allotment at Black Point, around two hours from Adelaide, suitable for a holiday home build.",
     image: "https://i2.au.reastatic.net/800x600/c9ed774a2316654a2f0d19d2a43be0480a3a8b2a5924095c5581d625b5511113/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c9ed774a2316654a2f0d19d2a43be0480a3a8b2a5924095c5581d625b5511113/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ada91bfb5da82b791f7a276bfb21fa0cbc724aea5fced13ecff9d0d3348c11cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdc4c5db82e99513f83a0d8cd52c852e2bc859154d532c6e63fad4fd3529d5bf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8b4efd4fb05a4cf93ba3a87aaf6ac903faea58786276b2f99a6fc8c95d1a371c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68ac6b38abaead8dc27707ce1d35151346f2cb215769986b7ca62879dafe12c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e719446f3f920ffe1614e937852bcbeb0cf897f1b70cc4233e6603afeb19ed0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99afec5c640d5c58916c3be60a8c91e61757e5b96887984e8400891c6a743509/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee1d3d1f6afd7a10b1052401a2bee9be56ec83fdce996b8d0aac990ce8b62cdc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61adac955e80280e145bc9c60d8cf8364f7b96d80e5707974dcd3479861c204d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-black%2Bpoint-204168804"
   },
   {
@@ -5877,6 +11156,35 @@ const sampleProperties = [
     status: "active",
     notes: "Semaphore Esplanade apartment with sweeping ocean and jetty views, steps to the foreshore and cafes. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/b445b81c49f6e9f3f629181b90b1c6c5076c014cfc8007f4d6c4c2ca1bf00625/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b445b81c49f6e9f3f629181b90b1c6c5076c014cfc8007f4d6c4c2ca1bf00625/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62834b8f96d99cd0db55030c71feeeeec1fd5d08bcfe05876145ebcca45e402a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bbc611e5d1af3ea8ae3237c963116199285258672969e918e2ff40807f4f81c7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e817205d80e9dce9c85c451a734ff5758216f78a2cf8a76abad53d4831f076c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ccc9277560ac226e1dcbb76f075d7a287ddc5e2945cf6142958b5d2aec18e98/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4f13360a59738e1f865a298ffb3bc8701371485d8f0fafab6c717d18df4f054/image.jpg",
+      "https://i2.au.reastatic.net/800x600/49e5ac434c3a8906140d1f6fdadc5e2dcbfb5f2e74142a9494c07250d9593ab1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c85e5e097c7c5096f5743445366700cafa08d54637ae7d62c7df83c12336402/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14814ef700bca45dbc15f9694c94e34a60a188caf44012c0debb108acc91cc47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b6076c56a89d9863feb91b01283e5f2cf839fb14631422306bc0ba42edfba27d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d616009a5653c5746dd9aee2cd7db12cddf85a9fba8cb6cfe72f735c5dd818a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cd6f0325242945ee8b931897d461ad840856b70691656732b7b97354655b916/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fb710eee30485e1c24c06cd491fe7f1929e65c347c31b25b668205ac177d2b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1ce5ada6a435e81c77b2e8ae5b283c161c05da48ba3e1b738dc6024486b37710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/766025ab6e98304a54b242ceff4f744e36932329dd71a120bc0d68765b10b62e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d1e17806230eee0fa53390865abdf18338d656f575af8e98f5d07727a81e90b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d42d0cada660c7a2bcab0096ff8a4ad664adacc840ecebcd870d1001fb88619/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9e95f104ed593b7f1ebb0d207dbe7d464b5a914a44e25561f906110ce2809b30/image.jpg",
+      "https://i2.au.reastatic.net/800x600/019cd2828a23c5edfa4c3646175a6e30207e24d65a7e5b4c6343a9fe37f38220/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2f06295eccf07ba0164d819d2a8c779bd1b7a5c263ba999e4caf569857341e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8bb2bca2cb3ee5a25d420af716ab2b7b8b04355385b5a35843a79b3065f2d0e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/221ea5e16d0f58bf3989b1e8f8b410618b2a219c6805f084c645d3702450eaae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5d9d63af0ddd356841400b879df48634585bd46bef5e1b42b840ffaaebc8820/image.jpg",
+      "https://i2.au.reastatic.net/800x600/59e221e74fb681d4ae467a3d0066b0c16fb8708ab5c7d813698f7b96eb923fed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/730a8d2a163bc10485522e517bfa31d4e1a6f51dba90922ea0621293114d7020/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b88d7dafd703115d6d1188b06715a33779c4ff720f71908fe37480d4760d4da6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fd651a360c5f87b83c110006f00dd3b8b32a5f091fcf7cd70a4ffaa0e6b8efc/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore-150552716"
   },
   {
@@ -5896,6 +11204,10 @@ const sampleProperties = [
     status: "active",
     notes: "Fresh Semaphore beachside home one street from the Esplanade and a short stroll to the sand. Auction/contact agent listing.",
     image: "https://i2.au.reastatic.net/800x600/089605bcca84a19e7e267b2eeca07fb48d06cde5aef0e0db67131eeb7eec384e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/089605bcca84a19e7e267b2eeca07fb48d06cde5aef0e0db67131eeb7eec384e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8389c50a8433190d367d8abc527366b501f6b84f1217701ad4a44f495580caca/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore-150538096"
   },
   {
@@ -5914,6 +11226,28 @@ const sampleProperties = [
     status: "active",
     notes: "Substantial character residence on the Semaphore South Esplanade with a 935sqm allotment and prime beachfront setting. Auction listing.",
     image: "https://i2.au.reastatic.net/800x600/34c4e98ed7619eed791c9d9958ca73e1d15c49f677fda5399f13cafc7eab4e7a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/34c4e98ed7619eed791c9d9958ca73e1d15c49f677fda5399f13cafc7eab4e7a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/816a021cbcd1b3ebab86202f3b3425e9c1ee9456cd5754593d4517ae1d3ce440/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fed8f6d09941bc9bf8107b42fe201ff4918c9777e62ce3d509d4160f2b1e4480/image.jpg",
+      "https://i2.au.reastatic.net/800x600/710d0eeb5691c3fb1443a93f8c0c459bf88544fd64fbf7dab771efb7d85d88bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/18e405fd8ac8940ac3f25b58aadd327f8227c3930a577a7abd020171f19d73dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/85c72ce651ae2f20e0ef2e703e6b5a8f4ce4f408a0c121b5fcce98bade801f06/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c09a9b46da7f6c217f60db27023650e13ba569db3031c86abfa19e8527376d72/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca6fd3f92e6bbd00b310c00577015aec08107233f83bb3b2cd11ccdef0eb5059/image.jpg",
+      "https://i2.au.reastatic.net/800x600/41c44c68fee20b8d2a8a4c1d39dd8a726e332fb97b432038770be21086ff4b3b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4df509df541da00a2c1025fb9e7e2903c4d66eed9b95dcb6968545713e3aeb70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/653a6ccf6d8c0d13e767c56bc5d267f287f8fa2761c5ba77a1dd8d4941bc03bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14b328482e0ea070d4e2cefd6ba0fad6d35bb068ef8066738e2845038da66cb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c10b8c51f534a881040e68176c9b5d76bb63f1ab6795cbbcbde506196469ed10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/256eaf5a419bead2555587be1a4880557084c4f6409d09f5a3bc7c72ff1fe5db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d2a74bc49faedbc097f2ada7984b2478fafdeda68041c37dd1e267aa1a77ba1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dff38f6d2e412b9b848a1697c6858e3e2fa943eab24182f01de952173428a760/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0c4777bded011fdfaa446ba665def45f17fc135c55b0d3c5308bc10bce131c4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6027e45a0d7bf257013d037181e506ea1769537632bd6b03399130b8a4dd6f77/image.jpg",
+      "https://i2.au.reastatic.net/800x600/521bd8a53fe6a3716d3a7b738b9535cde184be049b27f4f6c46fc47110ff327c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1a9bfd7d7e440a578a8b28807c2fa5956747e956631a1feea2fb38dbdcbb1f4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore%2Bsouth-150646552"
   },
   {
@@ -5967,8 +11301,8 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Esplanade position", "Retirement living", "Walk to beach", "Major city"],
-    status: "active",
-    notes: "Active retirement-living unit on Brighton's Esplanade. Listing describes Esplanade living, nearby beaches, Jetty Road access, and age eligibility of 65 years or older and no longer working full time.",
+    status: "unavailable",
+    notes: "Active retirement-living unit on Brighton's Esplanade. Listing describes Esplanade living, nearby beaches, Jetty Road access, and age eligibility of 65 years or older and no longer working full time. Exact listing appeared off market during gallery update.",
     image: "https://i2.au.reastatic.net/800x600/bce293c34db107a0d352519bf97951807643ad13b023992e338d503ce1bc1940/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-retirement%2Bliving-sa-brighton-146055848"
   },
@@ -5989,6 +11323,12 @@ const sampleProperties = [
     status: "active",
     notes: "Active front-row Brighton Esplanade unit. Domain direct listing shows it as for sale with best offers due 26 May 2026 and describes uninterrupted coastline views; property size is not disclosed.",
     image: "https://rimh2.domainstatic.com.au/DmMgRcpNhUrhMva3etq0s2jCVcc%3D/fit-in/1920x1080/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020822606_1_1_250507_092205-w2986-h1989",
+    images: [
+      "https://rimh2.domainstatic.com.au/rAiLo6Rp0-n5QvQYMaHiNSKIKrA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020822606_1_1_260507_020120-w5272-h3516",
+      "https://rimh2.domainstatic.com.au/US0h6wmVmcT4h_IRgd54CnvseXg=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020822606_19_3_260507_020121-w3000-h4500",
+      "https://rimh2.domainstatic.com.au/usgTywXMsSfe2eDYhPY_KnOTgYs=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020822606_2_1_260507_020120-w8192-h5464",
+      "https://rimh2.domainstatic.com.au/ZsYrWBtPdgidCFjGSXYgcpKyflE=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020822606_3_1_260507_020120-w8192-h5464"
+    ],
     listingUrl: "https://www.domain.com.au/1-155-esplanade-brighton-sa-5048-2020822606"
   },
   {
@@ -6008,6 +11348,36 @@ const sampleProperties = [
     status: "active",
     notes: "Active realestate.com.au Brighton Esplanade unit listing advertised at $995k - $1.05m. The direct listing describes a sought-after beachside location with the coastline on the doorstep; published size is building area, so land size is left TBA.",
     image: "https://i2.au.reastatic.net/800x600/574372a8100f70e3349fe8688b714a2fba8556c8d4a71d7dd8a8426b256e5812/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/abf7e8aeb93db69b312a16257d48201ec1f0f7301102aac0571265706dd8c204/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d9da068d5195ea71761e1d11fdca22c49c2b18c23b2fc1a95611640de2c1ade/image.jpg",
+      "https://i2.au.reastatic.net/800x600/27eeb70a3ceb0276a54ad4102c4effb133fd491e9df72f165d365f84d598696d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/082600efa18453081eacf8b4f71409047da5b36b93a8f0205d20e8196e0e5e14/image.jpg",
+      "https://i2.au.reastatic.net/800x600/faa569457c89b0eda3c747fe35fc36a76bb694751a4674c106488bae9c1eca9d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/085975a1b840ee387880ae8b4471b137412258efd63d15096399bbd0715de37d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4334cbfef3b70ae72e37df0a567367d20eccae6a70a4a41e1c41250747757fb7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a1da3d056971e5b0404d2d58647a0910dd3848094cf3d9a36f37f3b899e5ea5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35de2b60b60fdc0b8a750679bc7d17689aab5e6b136ef244f91872e703de568c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b2cc533391102d8d90e2261d9989eaaa62ec5584541d2e206d564251b0345ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdf515b3c6334705473c6c9a72929b5eda97fa2f71d62c27f5abaa1d2638f921/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8d90f9770c4450d64a7037cc92b0d2c9065a4c61d7fa6d12414556bf15c036eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f76204c33ff06523155c2eec6c932d9695cab943f5d01281de2587cbf6b5572/image.jpg",
+      "https://i2.au.reastatic.net/800x600/665b3836c8dbecfa5ef0306e9b24aa85cd4ddfa5c3f398983dc5c7b45bb74430/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e40aa926e1dd80f1241446d20ece67ff6285e50a2ed9eeb8b51181572faac6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9523372591cfb825ae7132e1ce9a7eb7b2beb0bb1e3404ef26fb5d70f3d24d52/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2fc9155d7e23fb50eb026902e3b76d67cfc1389fdba968818aca391b278f2d6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74f1e9e2e73e5bcbe695d5af8f535fc236519a39ded2515cded6c72438ae6417/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e7db419748e75ec89ea102368567705917cc16afeb573b4d51ba5456649cc429/image.jpg",
+      "https://i2.au.reastatic.net/800x600/842a3b1e0fa3144552bb3cbe8f448378fe8ac2cc7d87391f05f23521267bfc64/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6b3b5288795e3ee9a50a3beaa9d3a0476c3e66fb6f481554a429edb5b2d6cd47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89277eb1fe067e1a356de7bc11f5cd81bf873cce324d5fc2277560f83d63b9e6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4bf9292b35b7dc74b08f1f1811331d091b52da6c6f5fb98812b944ddb629f7fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/355e6c1c480c77ca50d1945aa19b994efe551a3155e871946da5037303c50139/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f121c232dcac4c1a22ad2f505f1ef9ca279cdd0e2e33204317f40d4ed95a0a42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3a8c7a56d1059991e664bd884564f948caf692650cbc7dad5ea8ec1c23e1f85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c356963f3fca82c554eade28a561ac1a4c31157b43930dde95ca7b6219759f95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7a0d4c95470049641ffce62d8a6af206f406892f0c592a6e41baedc459020a7e/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-sa-brighton-149002028"
   },
   {
@@ -6027,6 +11397,13 @@ const sampleProperties = [
     status: "active",
     notes: "Elevated Hallett Cove corner allotment close to coastal trails and about 2.5km to the beach. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/b6ec24b6734bf6a793449c60162ad1a95745b090a9608c2b3c27acb6620113b2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/b6ec24b6734bf6a793449c60162ad1a95745b090a9608c2b3c27acb6620113b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ed94b30866d7030c059e6ca7c5be477179088d683f9117013594c3c4617616fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ceec65b37a578aa82744ab977d6255ad952df8a515d3fa15fc217a98990e9620/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdb66e54734510ff1be67c37735059477a621f5d977a10be997cb254b1d3c128/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1733c896710e963d5847d81b44c3a02ac29587e7dad80b1c0c29bbfc479480c6/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-hallett%2Bcove-204473492"
   },
   {
@@ -6065,6 +11442,20 @@ const sampleProperties = [
     status: "active",
     notes: "Large oceanfront Hallett Cove development site advertised as directly on the ocean front, with approved allotments and coastal panorama views. Listed for expressions of interest; the direct listing remains live without sold or under-contract status.",
     image: "https://i1.au.reastatic.net/768x512-smart=80,r=33,g=40,b=46,quality=60,progressive/3aceaa7efe3ab7d485a02cf6dffeb4a634a78d210cf3464cce575d99494ac427/image0.jpg",
+    images: [
+      "https://i1.au.reastatic.net/170x46-fit/8c9307ecdcd8e7a8f8ed965a6eea2540bcabd229947388799bd0132e59087637/large_commercial.jpg",
+      "https://i1.au.reastatic.net/768x512-smart=80,r=33,g=40,b=46,quality=60,progressive/3ac7a6907e8da1cebfd5caac5219b5657f2607c9a26fba240261b7c5b05064ff/image0.jpg",
+      "https://www.realcommercial.com.au/listing-ui-assets/img/play-button.svg",
+      "https://img.youtube.com/vi/EbyTMT1R2nQ/hqdefault.jpg",
+      "https://i1.au.reastatic.net/768x512-smart=80,r=33,g=40,b=46,quality=60,progressive/f7d8979860e9409ba626e103947e8dd2d94e128a4bb4fbc8cc04428f61b29c16/image1.jpg",
+      "https://i1.au.reastatic.net/768x512-smart=80,r=33,g=40,b=46,quality=60,progressive/d49840a3928600e6acf406e0761b429f3dbeb40accbcd0dff3be4893ba9b4729/image2.jpg",
+      "https://www.realcommercial.com.au/listing-ui-assets/img/listing-quality-badge.svg",
+      "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i28989!3i19798!4i256!2m3!1e0!2sm!3i779542900!3m18!2sen-GB!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZixzLnQ6MzV8cy5lOmx8cC52Om9uLHMudDoxfHMuZTpsLnQuZnxwLmM6Izk1OTE5OSxzLnQ6MnxzLmU6Zy5mfHAuYzojZjZmNWY3LHMudDoyfHMuZTpsLnQuZnxwLmM6Izk1OTE5OSxzLnQ6MnxzLmU6bC5pfHAudjpvZmYscy50OjM2fHMuZTpnLmZ8cC5jOiNmZmU1ZTgscy50OjQwfHMuZTpnLmZ8cC5jOiNiM2ViYzcscy50OjM5fHMuZTpnLmZ8cC5jOiNiM2ViYzcscy50OjN8cy5lOmwudC5mfHAuYzojOTU5MTk5LHMudDozfHMuZTpsLml8cC52Om9mZixzLnQ6NDl8cy5lOmcuZnxwLmM6I2ZmZjJjYyxzLnQ6NDl8cy5lOmcuc3xwLmM6I2ZjY2EzNixzLnQ6NTB8cy5lOmcuc3xwLmM6I2U2ZTNlOCxzLnQ6NTF8cy5lOmcuc3xwLmM6I2U2ZTNlOCxzLnQ6NHxzLmU6bC50LmZ8cC5jOiM3MTZlNzUscy50OjY2fHMuZTpsLml8cC5jOiM5NTkxOTkscy50OjZ8cy5lOmcuZnxwLmM6I2E5ZTZmOSxzLnQ6NnxzLmU6bC50LmZ8cC5jOiMwMDc4YmQscy50OjR8cy5lOmwuaXxwLnY6b2Zm!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyAF--L8XyGISzm-5vhpxto5dzI74AZxdEI&token=51098",
+      "https://i1.au.reastatic.net/170x46,fit,format=webp/8c9307ecdcd8e7a8f8ed965a6eea2540bcabd229947388799bd0132e59087637/large_commercial.jpg",
+      "https://i1.au.reastatic.net/71x71,gravity=north,format=webp/e9a288380a3215a11d97fbb4aa5c2ee86fdc1efae21de1ab71bda506e416bf3c/main.jpg",
+      "https://i1.au.reastatic.net/71x71,gravity=north,format=webp/0ef83c6ff220c03f1f9d37995344904454299aa460d063af96927b0a0731edb2/main.jpg",
+      "https://i1.au.reastatic.net/360x191-smart=70,r=33,g=40,b=46,quality=60,progressive/8205a720419a3dae3a4ba452716493a25fa00b8b6452c57df302595f3b2c8490/image0.jpg"
+    ],
     listingUrl: "https://www.realcommercial.com.au/for-sale/property-lot-4102-burlington-road-hallett-cove-sa-5158-505054252"
   },
   {
@@ -6121,6 +11512,32 @@ const sampleProperties = [
     status: "active",
     notes: "Coastal Carrickalinga Sands home with boardwalk access to the beach and Normanville amenities. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/4261383785822fdbadd961afc13166d8d52dafae19e3ea34aae986f92ebbd5c2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4261383785822fdbadd961afc13166d8d52dafae19e3ea34aae986f92ebbd5c2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d138d1ff59becefbc187d342ab7684b0aa79cc0515b13da296d51687880ae196/image.jpg",
+      "https://i2.au.reastatic.net/800x600/055f69a80569e5f946e928a2f0013e4d45deaa590bd99494505400409810fe3f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/807b1bff74faebd7d6faf75fd229cd634cd5d73609d91d2a3198219069a5ec13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e37e5c3013bf0b10f8899da81118ec027fd8fb30810b609ecba6bf7d9d3b2dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02f405a23e917ea9e9f01bd766ef43b67331e416281226cff51098e5b5711ba8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fc3a57fbbd3c7248a89a2c85b1abafe7b6a9b45372ce0a6a89558d4949afd29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e20a5fc132fb67590ee2d202ad7e046d5e5f823fe43b6a6af1bf6fd833d09e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/86540a1cceaecc99618498d11d8f4814555e2a9b52c3f02195e82f5151a52ef7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e019cadfa19690c4943d99542f26833c6dcf4744cec14688c17eea253b0c41f9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c7a43888c6b371d5d1d268a0bd41a5cb143e298f62a8261187bd60c97d4db00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24301f4cf8f4da85f980ae9cd96fe6894ae305e3b08caa201d12930b079d2e34/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4677fff2dbca7e921c8dd41fc568f20f22f48f61b5dd64820d7767a5ed252030/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7bf36c75f6e29f78712023d4647533936dc702ba47534ca13a83f0c8b181fd5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d2a4c545654d406c21fd417fd247332bee0174b0d933f6bb521d6a38816818d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aec83f7d778e37c8d024b72669b7f1a582a4aed8e346d5778d075650eb418094/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75185ee62d05e9e23fe3dff3c3651a4856e9497042faf9963faeb180957870fb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c051e27565265a911615d1f39bc2d89926dcf1a0950f956aa2e3557678a351e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0e6422176f2d3ad2f6f24f0bf907fff1b18d74c3b7f51e0299acc26d952d6ed/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d89b82999b00ba7cd51f5e37895dce55c082ca8cc55003d5f2686aaa5b0a3723/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6fb9c851cf149c9a48e843c672985091343533d434ecbc37d6b660355260b149/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ccdd37ed41b1c366fbf778f7cbf47c8f112c88167ba2ef2e05182ae6f564fe53/image.jpg",
+      "https://i2.au.reastatic.net/800x600/020aebd3c00525791e80e272815c5a21a4f5133e4720241008c8240324a7997b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e83e19218bbf5a6787f53e3dc6501573486c4318f759930204996580633ddc94/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-normanville-149230020"
   },
   {
@@ -6140,6 +11557,14 @@ const sampleProperties = [
     status: "active",
     notes: "Generous Carrickalinga coastal allotment with elevated positioning and potential sweeping coastal views. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/621fc03829d4fe3aebe176b67ecb1aa519cb1d4df798d29c2cc1f3428fb600b0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/621fc03829d4fe3aebe176b67ecb1aa519cb1d4df798d29c2cc1f3428fb600b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/24aba8637796369f2d6bd00f717e598681b7f7d8b8af4920f93d17b5d4f7423e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b2ce2c9af1459837ca1e9e4327c89f5940107447267f90f3f760adf1e103f5a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d2c5d580deb66a96e9e23bbf308164ce920d4d63ea003fb2e2fc2fe7c90b3e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bd58399e22a33a3fe40275e24a8ceddbc92fc3acb7c0abed5f860af704b0cf16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c8a0eeed7cf62f86900484ec66cb8c6d48d049fde550843547abaa7e0273aff4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-carrickalinga-204477240"
   },
   {
@@ -6158,6 +11583,12 @@ const sampleProperties = [
     status: "active",
     notes: "Elevated 1001sqm Carrickalinga block with ocean and hill views, close to Carrickalinga Beach and Normanville.",
     image: "https://i2.au.reastatic.net/800x600/257614634f8edad65105f79f7d54aff3baddf34ac02b931f6d18480caabe6761/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/257614634f8edad65105f79f7d54aff3baddf34ac02b931f6d18480caabe6761/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c14d81664fb41df4bc94c07bfdb4192d99cafc2925fe0b25eb527690fd1370a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5a3300c44714f7125883e0be7947d2e60df062c9b66f42a6d1930ffd7471c03f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/06bc56e97ac6ad9c2231c9cb1a6273652550a09b0bf86a2d6aeb33750c55d813/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-carrickalinga-204271816"
   },
   {
@@ -6176,6 +11607,41 @@ const sampleProperties = [
     status: "active",
     notes: "Cape Jervis coastal home with sweeping ocean and Kangaroo Island views on a 931sqm allotment. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/d967d6b82f5142ba5094a29fc2d2fbb3eaee2455bea16379741bbd2926e8fcfa/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d967d6b82f5142ba5094a29fc2d2fbb3eaee2455bea16379741bbd2926e8fcfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6f817c24414faffae39f27dea4b09ce762edcf82469d10aa16ea3d9c87df4f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14cf7e9646d5210df029b445e13d17edd35573876276574f05d8828e2b0a5260/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d736fea26c13a4c6da238468478b71614381294187a6f478527794152a4ccb44/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b41e0bf03d2895757867961f3d89f18ae8d35cc71af5ecc90541f77f8553612/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca5cdb07004eb994aaa5ed4f798533eba5439811fdac8fd18371d99680a177a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bca2c35d108f8d68d389c6527d182a70d369bf76b1939ee703036c1852661538/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13e2a265abac5d52abaadac8362b2f2c453293a0d9e1948263e101ad2d8b8a63/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8af4e2ba68ef285e035170cf37a06293c0b6dda5a80f1517583352cea3077199/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a55f1cb9fd52bd56520da03ae62be8f700626fd0a4e11e90ddad3a3e457e9585/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e0e0d98f91a579525643f4b913d6b486e7535e11f2672107e564d39013e3215/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cae34b38ece431185bff1ea70988de7e9678869e0c3c17536077876961eaf982/image.jpg",
+      "https://i2.au.reastatic.net/800x600/106b47dd14cd66687a12a5d217cf0374e00dac566653a497c516ac4533bc961e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/526e8077a8136b6adc1251427c031233c8a7ec0eba5b1f5855d2b09c0f8a64b4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd058ee960695d22dbeb1a7a22b060acf2a02929de8f162c3fdf41906ec499cf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99c66f401c6895396e618cd939335ee2771bdb63fac4d62482b7761dd3ce28b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3c460954baec089b7a7e791ab23e53533b77ba0a869dc5eeb5affaa9523bffee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6af08b30f5875df958439537bc4e39d00af010d4a9115aae24008d031091c307/image.jpg",
+      "https://i2.au.reastatic.net/800x600/36aada441f5cbef91412a0e577b8d9ffe7740f7f3c86b48dfc0b4753ff8d403a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8951fa5aee6f9676df81c19ce7ac743b50d77e0a1680e63a6ea285344236378/image.jpg",
+      "https://i2.au.reastatic.net/800x600/129c6160e74e1f5ded943a0c17812ee60939caabc80a5d0c7c0d8b598c05f9ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5f0450a80f438a926de45c61a9b5a3bb82695161a70b4eca2f60862fd9f02a88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/78bc5b789cfd3173b70a80c05180cee71dacab20ba3605f97532edff3886faeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/af23ed447c41f3215749f0e6c7ac66c9645fe04f550fea6c77206cc4045fb61c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a973aa56427b3491328eeaf070a859cf287627bc3379b4a0065f5a5c09734c74/image.jpg",
+      "https://i2.au.reastatic.net/800x600/14f1901a2df72667b1568e93058007028441f8cdd332277403e7feb4c6d2586e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/469f555aef2574fe268dca1e80f95eb31c19c435f443a59e05cdd27be38ac564/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01227b53fd570007b0e5df1d52d9790c853c3f5092997a9674546669b1465c4c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f687f82d1985d4719084f5c38aba90cd4951693f0afe8a162de47351277a46a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95b693662c1cb7b0f5973bcef99f1a92658ec16cae26eb6a7f131d271d3f69ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5fbaf4746a84cadd4e7822b6835d99f007f20eba6981d9ab151a638d6ffd2d7b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a61a244d1d536d57f69d855b90d73083d18297f74b2ee2b77145cb79a5dec6ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/785c2d023945a2a1ff93344a569f0e408ea745c97c0fddd5cc5ec6d9bc98f6d4/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-149711588"
   },
   {
@@ -6196,6 +11662,43 @@ const sampleProperties = [
     status: "active",
     notes: "Iconic Semaphore Esplanade beachfront maisonette with panoramic sea and jetty views. Auction listing.",
     image: "https://i2.au.reastatic.net/800x600/52897cc6120cc5ac67cee577fefb2d2ea50c78bb79251634183eeed3d6bd4987/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6d11b145e38c76aa4bc95eb81e49d5ec13620cb9d4731680bbcc2e8c6c82bb6d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/52897cc6120cc5ac67cee577fefb2d2ea50c78bb79251634183eeed3d6bd4987/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2f9d63b77ea5154152f9a3bcc081f4388d02509bc670d97e6e63074cd50b93e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0237b2415085c10b8bdaacf88044b71e5bb41b412a1de1a42d5a2b52851e2533/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc11bdf02408f1e152777850f6049f1aa236f6f87a339ae6be2a6470139ec4e8/image.png",
+      "https://i2.au.reastatic.net/800x600/60c0660055c7283a7c47b237d0d3886f277c4f5d3ad506015f361f40cfcbf8b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c92e52052ff91b3adb2bd565de65179f04ccd816d145edc830287fffd33267d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/995897dda01e1346edac52dd8fcf80d0f42a17e1237142d2f75ef27d13e1a97b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/419dd031b88d0d315aafdfa81ffdaca06c7080d5b742d80d8e627bed170aed69/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31fefb66b7973fc693d0a373fce70932844289266366b2fe5d4cda2e755502e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f2b9fa32c3fb679a9d9cde748038a60d7050addd5323a2b4e35ebf10bab4a6ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/400d88ddcbb5897c735b2b567285a848cc3a19ca9b735793cbf71c7aadfb1fe7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ba37ad3939b4e78c7bd15eec87eefae512ac3be5bbe623b8b76dfdfaf567b042/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b9ec364c0c0bda786dc2b3adfa503aa94b4ed2f14b501a1840ca26b41570fc8b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cf0d53ad7a7bfa06e9a46936510f9d4996dce18a7d339da200130c6489aaccc0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e50afcb5c62b3dfc4cc37fb839417a69a3481ee24e4a50f3a3e0167e5dcccb88/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92bd514618ab83cb58fc6a0392240a7b87d5cc2dcd80dd73e1762864272afd80/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a0ac3be06910075b69e2eec9103d293f7c819704c40b44d305ea0679883d95e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f95655730f620b9e61219e852e0ddeecf3e45660542501e1d2ca4dc2f58e5e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7446ef7aae179f1f17c1a67592d8a82d102d332852d7b928669e224a3564cf5b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a24bdfcf8058c4651e1ceda58a92b9a35a303294dd7343b5184c1d7e3cffd989/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd51d254484c6461e407849d381346038f3cb9bbb114c5027e2fbc4fa28fbd8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9a5e82c2caee83b1798f13a881d3af2e1fdcf77d3b5620050019fd1b8b62dad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8310e01c03ba10c1d458400a038e73bbeec8d7717b592bb9fadc9fc51656cb3e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/19513b91b2394818192f0d5a691c024f282bc40385770e620ab5e547856c73e0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a99f21a34b039ca76abf3e463a1441cb046a10f5b78e5f30b9315d3f323e8613/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3b6f1de1d293ceb459f07c9e29133f2fb99be35028fbcccfd784c4b8513c7de6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9de2343716cfc924b7a4f0d96b6068685c20b5cd91da863932c780d5c53e469f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0cce9d80fa1e46e58544fa0772556bc30b4b029723090272429b24fe58bc5dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54b556364c58d91b8cba16b2d340761608b9df907150062e19fae11e6d6cfbda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b4674091ab244c7b963c072536036e04773edd32b875850ad2b4ed45135c67ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d3f10428e4d58c581dfb90830f5b6670659ccb815fc2eaaeb39ad6d9184eb5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50be8ff9382111811a650bb1144cfb5d87742c8570bd5368b6511c88fdb77e9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5e4235d0b653fd50ad8890ce4d5b3142df10375e0f1d608b0fa1f9134b948f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ee1f334bbf0b595ca16fe7b8389c3130bb0ef958c8ae54102d84f1a46178d5bd/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-semaphore-150944280"
   },
   {
@@ -7269,6 +12772,36 @@ const sampleProperties = [
     status: "active",
     notes: "Ground-floor absolute beachfront unit with uninterrupted ocean views and direct sand access. Best-offer campaign closing 18 May 2026.",
     image: "https://i2.au.reastatic.net/800x600/043c0b95ca74fd801dc1f7b953c22111e9fde21f9fe22020a2e157485a9f951d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/043c0b95ca74fd801dc1f7b953c22111e9fde21f9fe22020a2e157485a9f951d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/26641c5c437ebdde1c888db2f63528f836f6174ef09f924bfe719c7a056237aa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e189dfe7063ca5a1e2b1cc6df11fbbaceff67c19eafb771f8c14d3ad87b854f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3faf59199f9317ecc11ac08bf19c3ba7ede69777205604ca7d69a077fcecfc43/image.jpg",
+      "https://i2.au.reastatic.net/800x600/42fcba0ac40a031b79c118f8ba1332cc849818f0a246ebdf99865c6076fa6a3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2d402ffb422cd24e4a506b8fdc306c199d571b93abee0fa323293271684850ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a8f5560e3bb4a84c280bcd40d2e8331d468ac9a4826e4d7cf372d088aafb931a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/239bdb9923e6bb4914fca5e6fb169b5999c1930efa6dd58fdc866594a76f4fbf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b47600d4e58155537e734334f97fb614ac45a6eb3275a28485feb0fa7c517ea2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3db04e8c36dc5516ca14a0e8c86d0802992d187bcce66ba642981294523577ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/33a35d73c91d152fd90bc923b3b7a96d51271516bfeb44febfce3541d6918d72/image.jpg",
+      "https://i2.au.reastatic.net/800x600/181f2ab223679eb307a4fc5359c2110439a5333b218cf6722a8d0499fe121ea4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa1092003dd2f08dd6549da04cb432153d28e0b8593ca9d5a1eaa9474322895a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b2d2c9175d33ae7d9c71eb50836b8106561a1fcb729bb551341fd30024accbfd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/916d219417deed69d98e48f5897b3a06f5250947f889372a9413a6029e9b685e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b0e21408e364def9136540509e7ef4ac9e7731431131bfdabd9e50e00fb5920/image.jpg",
+      "https://i2.au.reastatic.net/800x600/973938117bf64158213e1d9c0cc81861da4df2e8bc9da01b0e5739d99270a733/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30035379ec6a5747282677597971e0efac52c9735ebcef9b60be26ec023e7556/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b6544867dbcb545af1bc7cb262943a6937da2a695a713610de31d62dfd3e680/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e6900da3ab4a3a38cf4d34e901ce18cb6cca836aa8af9a6f0e5483876fe897bc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02aec2b0a1b52829a65d52e7a565c082375f89d49a4fe2e8f679ed740c63bdfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d939a2c87fcf7c3f8e6a23c36eb8f5163ed94494f39b23b22f1c53fcc4c17986/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d9f89e4ad8b54a5a163460ca33e0f1f39258f8d5ac722933a22f8b86b072a4d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e407adc884eaad45bd175dedff446eaccbf5e7b17a95801315c6bd4c9be009b0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c81f537c1bd0d9b30fb00dc59a8f72ba477d1190c97c3f5a0947026d4de4135/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a1980ffe9f0ad6b0717804f206b1a89a98134aaf6d9e977d974d581fcd12ca83/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da83364725612ccaf7bf1a7b7085712e9fde0b7499c27bc298a4d9354aabd9a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f7564c4236bad8c5f2ac030c73a743a9730ce6b2d4d531dd31c166aeda4500a/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-henley%2Bbeach-151040560"
   },
   {
@@ -7399,8 +12932,8 @@ const sampleProperties = [
     factors: ["Beach opposite", "Ocean views", "Vacant land", "Perth access"],
     status: "active",
     notes: "Coastal land directly opposite the sand with ocean outlooks and residential zoning. Price advertised as expressions of interest.",
-    image: "https://www.homely.com.au/img-variant/l-Rex-12489313-1.jpg?version=iB5fcMxPl5fDHJ01UW_Rpz3a01XDBlXY",
-    listingUrl: "https://www.homely.com.au/homes/160a-warnbro-beach-road-waikiki-wa-6169/12489313"
+    image: "https://i2.au.reastatic.net/800x600/9f4652a926c24fe559a97ae16e3c1eb60c0c3940f7644a8f2a2c1735f368ff13/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-waikiki-204318572"
   },
   {
     id: "wa-waikiki-160b-warnbro-beach",
@@ -7418,8 +12951,31 @@ const sampleProperties = [
     factors: ["Beach opposite", "Ocean views", "Vacant land", "Private driveway"],
     status: "active",
     notes: "Rear elevated coastal land parcel set back from Warnbro Beach Road, advertised as just metres from the shoreline with uninterrupted ocean and inland views. Price advertised as expression of interest.",
-    image: "https://www.homely.com.au/img-variant/l-Rex-12489336-1.jpg",
+    image: "https://i2.au.reastatic.net/800x600/317ffea9215baab29adbf0afaaf7dcc8b5e4a54f15c3c8dab05d2ffa24f6c61b/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-waikiki-204318584"
+  },
+  {
+    id: "wa-waikiki-5-shelton",
+    title: "5 Shelton Street",
+    suburb: "Waikiki",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 45,
+    daysOnMarket: 47,
+    price: null,
+    landSize: 5226,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Beachfront lifestyle", "Ocean-facing terraces", "Large coastal estate", "Perth access"],
+    status: "active",
+    notes: "Active realestate.com.au and Homely Waikiki listing for Bayview, described as a rare elevated 5,226sqm coastal estate positioned high above Warnbro Sound with a beachfront lifestyle, ocean-facing terraces and moments to the white sands. Price is advertised as contact agent.",
+    image: "https://i2.au.reastatic.net/800x600/4bc0ac479593d48a86d188bad3796543a14e1015a2c06d4456589e38e9802fce/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-wa-waikiki-144324248",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "18.3%",
+    investmentFiveYearGrowth: "131.65%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Waikiki house median values up 131.65% over five years to March 2026, annualising to about 18.3%."
   },
   {
     id: "qld-palm-cove-1309-2-22-veivers",
@@ -8172,6 +13728,32 @@ const sampleProperties = [
     status: "active",
     notes: "Detached Del Mare beachfront residence advertised with no road or traffic in front, uninterrupted ocean views and a direct living-room-to-sand connection. Price advertised as contact agent.",
     image: "https://i2.au.reastatic.net/800x600/57aede530b52373cf69d5decb1814ad6f7bc22a2503321dc9111e708d69adb57/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/57aede530b52373cf69d5decb1814ad6f7bc22a2503321dc9111e708d69adb57/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fead9df0cefb4ac4f24e55594d51ffc45f786bd0e3c916cc07caf86857aa212f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecb514ffd96266b53754f9dd5b7f912dc9904078730679ea8d0aeb392547777f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83c6b72c593a27ee0d927eab8092427bed8586b53785c4660e581972475d1ece/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6eaeab4d537d5157ae676d11e04f7a3f1b2c47e1f2e2551bea3fdc686aea14c8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92869a3b5d3a6f2444c5e5a009a6ed007d99091c758b80be95e9349f487f0e7f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c3f7125b86cba8293b6237e072c68a5151be45c9fafe7ebca1eb422950138ad/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ae198fadd6fcef56880331cd45d2ca58b73d95bc04a9715de4eee4a5bb5a7dff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c86960e0b8b042e8ba76f4545a7ab919efd9b3a8796c2fa341df69c112a3cff/image.png",
+      "https://i2.au.reastatic.net/800x600/59ce3df91c3f85a5c22488138ec6f2abea3698ae665b16d24edf24c96ce4f58f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b56c9ae512abc4881eea1c8ff97062d31829af02fea51add37058e2a8ed121f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e1f40e200a8da0bf35d3b42b1dd900667ed399a14b7ac5762d215908e2b26edb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53a7ed0aeccf317b1755d171179c9d076d579fabfb34925f2fa2fd5d89073ef8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/937d5e99397a831a5119d5bfeb05be46cb329d895f22e22555676210a79d14f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7aeb468e3c6ecc02596ad4bb5e4ae54d63e5acf9658cbb8be296a75d3d3c903/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5b3fedf39fda450d80e0b106679ec304ad1f09256bf8857e851825793171936b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dd9c2f01f068c724f8d971398dcb9c61b4c33d26021fd472ae5984a3b93b43ff/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97f235a22052b26b0e7ed3eea5e4e2e498c5b2abc89d200ec0f646658d541887/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e21102162ecaa4d20a0a29819190c5ecf482a3796b4a5e66d837b0a7c5ae0a20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fff578746c374a49f81c47ff60a9bca28d2862cfec0d8f120eb81ab123b0e75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/74bfa74db9f2b46c03e76276a79045b93a372b7e25d707a0b3a6c5a434a1f367/image.jpg",
+      "https://i2.au.reastatic.net/800x600/caf65e38a9a552f602593f34ff21073b032fa35df275c624408492411a40f348/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1da78c2fa56d2fbe686052a03b498428ad0857e467998f6e6fad76cfd3b4021c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b719eed0aeb94203f1de152eff7c9c54411116511afcee408fa424e1008986d1/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-tennyson-150217692"
   },
   {
@@ -8231,6 +13813,11 @@ const sampleProperties = [
     status: "active",
     notes: "Active house-and-land listing on Seaview Road advertised as relaxed coastal living just moments from the shoreline in one of Adelaide's sought-after seaside locations. Price advertised from $2,075,600.",
     image: "https://i2.au.reastatic.net/800x600/d652d31851b8bec931221b03dba0a048bdb71830992e1ad2d70c9836675502f1/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/d652d31851b8bec931221b03dba0a048bdb71830992e1ad2d70c9836675502f1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cb17a918e994ff5101a3bebd4b4c0e96de8ab375f3d61489ba6e576e83427124/image.jpg",
+      "https://i2.au.reastatic.net/800x600/379fb4c947fb2cbe8b0212f50c5ce7cd939fb8882d9b7f041c6b5a3f99cd3e16/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-sa-tennyson-150982880",
     investmentStar: false
   },
@@ -8554,7 +14141,7 @@ const sampleProperties = [
     factors: ["Front-row oceanfront", "Directly opposite Indian Ocean", "Protected ocean outlook", "Vacant land"],
     status: "active",
     notes: "Active front-row Dalyellup land advertised as an oceanfront opportunity directly opposite the Indian Ocean, with no future development obstructing the outlook. Price shown as offers over.",
-    image: "https://www.realestate.com.au/property-image/204406404/1",
+    image: "https://i2.au.reastatic.net/800x600/e235058c4722eb46b105e5e1244a5499147f0e82b4f50f86da282adfe7d89804/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-dalyellup-204406404"
   },
   {
@@ -8573,7 +14160,7 @@ const sampleProperties = [
     factors: ["Ocean frontage", "Direct beach access", "Uninterrupted ocean views", "Vacant land"],
     status: "active",
     notes: "Active elevated Dalyellup land advertised with ocean frontage, uninterrupted ground-level views and direct beach access. Price shown as offers over.",
-    image: "https://www.realestate.com.au/property-image/204394932/1",
+    image: "https://i2.au.reastatic.net/800x600/f4362cea9cf1f93425b20652f04560fdeed9ba708a90436ef6f4515aa2ee1b00/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-wa-dalyellup-204394932"
   },
   {
@@ -8592,7 +14179,7 @@ const sampleProperties = [
     factors: ["No road", "Absolute beachfront", "Development potential", "Marina walk"],
     status: "active",
     notes: "Active absolute beachfront Mandurah holding with no road between the property and ocean, a 1,424sqm R40 allotment and direct sand position. Price advertised as offers from.",
-    image: "https://www.realestate.com.au/property-image/147272980/1",
+    image: "https://i2.au.reastatic.net/800x600/5793509fbc705a47d12c947d3cfe2d36a6f315f4558c7a2fcac4b647f50b11b8/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-wa-mandurah-147272980"
   },
   {
@@ -8611,7 +14198,7 @@ const sampleProperties = [
     factors: ["No road", "Beachfront residence", "Ocean views", "Town Beach"],
     status: "active",
     notes: "Active beachfront residence overlooking 1st Groyne, Town Beach and Silver Sands, advertised with uninterrupted panoramic ocean views. Price advertised as best offer over.",
-    image: "https://www.realestate.com.au/property-image/149356464/1",
+    image: "https://i2.au.reastatic.net/800x600/7c5dc0d91043a924e9002a79375cb63f9c30070f5b8c94adb0b31db2330c1534/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-wa-mandurah-149356464"
   },
   {
@@ -8630,7 +14217,7 @@ const sampleProperties = [
     factors: ["No road", "Beachfront penthouse", "Town Beach views", "Resort facilities"],
     status: "active",
     notes: "Active Seashells penthouse positioned closest to the water with north-facing Town Beach views and beachfront resort facilities. Price advertised as buyers over.",
-    image: "https://www.realestate.com.au/property-image/148926296/1",
+    image: "https://i2.au.reastatic.net/800x600/545d275629c45de5aa66feb2e3905f916534a7bd509607c619033439dc5a2aae/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mandurah-148926296"
   },
   {
@@ -8649,8 +14236,48 @@ const sampleProperties = [
     factors: ["No road", "Absolute beachfront", "Corner apartment", "Ocean views"],
     status: "active",
     notes: "Active level-five Seashells corner apartment advertised as absolute beachfront at the closest end to the sand, with panoramic ocean views. Price advertised as buyers over.",
-    image: "https://www.realestate.com.au/property-image/151075692/1",
+    image: "https://i2.au.reastatic.net/800x600/8c128633c8fdac82ebdb2d085beb1d6f836f7e8ffab30f617fbc9be98a6947eb/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mandurah-151075692"
+  },
+  {
+    id: "wa-mandurah-20-89-ormsby",
+    title: "20/89 Ormsby Terrace",
+    suburb: "Mandurah",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 55,
+    daysOnMarket: null,
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront holiday park", "Silver Sands Beach access", "Low-maintenance cabin", "Mandurah foreshore nearby"],
+    status: "active",
+    notes: "Active Ormsby Terrace cabin listing advertised as an easy coastal retreat right on the beachfront of Silver Sands, with Silver Sands Beach a short walk away and a 120-days-per-year stay limit. Price is advertised as offers invited and no land size is published on the exact listing.",
+    image: "https://i2.au.reastatic.net/800x600/50b89720da75c3943904f21be7ad8147de1d4eb704aeb0fc54a446ce6b90eb96/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-unit-wa-mandurah-149782336",
+    investmentStar: false
+  },
+  {
+    id: "wa-mandurah-13-78-ormsby",
+    title: "13/78 Ormsby Terrace",
+    suburb: "Mandurah",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 55,
+    daysOnMarket: 6,
+    price: 999000,
+    landSize: 275,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Beachfront apartment complex", "Direct beach access", "Indian Ocean views", "Patrolled beach at doorstep"],
+    status: "active",
+    notes: "Active fifth-floor Ormsby Terrace apartment listing advertised with jaw-dropping Indian Ocean views, direct access from the complex lawns to a patrolled Mandurah swimming beach and the ocean literally at the doorstep. Price advertised as from $999,000.",
+    image: "https://i2.au.reastatic.net/800x600/b9bde8f7d9365fa997f1cbb2d8b69b58df0d422bc96485f954431ea7a6341caf/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-unit-wa-mandurah-148958420",
+    investmentStar: false
   },
   {
     id: "wa-rockingham-1-127-rockingham-beach",
@@ -8668,7 +14295,7 @@ const sampleProperties = [
     factors: ["Beachfront access", "Ocean views", "Front unit", "Lock-and-leave"],
     status: "active",
     notes: "Active front-position unit about 100m from Rockingham Beach with direct pathway access almost opposite, sweeping 180-degree ocean views and multiple alfresco areas. Price advertised as Contact Agent.",
-    image: "https://www.realestate.com.au/property-image/151137576/1",
+    image: "https://i2.au.reastatic.net/1600x1200/a3660c4549342b2dc600c4a3edc55a5d6e43c171dd2a12e755c5a3c5679bcd1e/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-unit-wa-rockingham-151137576"
   },
   {
@@ -8687,7 +14314,7 @@ const sampleProperties = [
     factors: ["Beach opposite", "House and land", "Protected bay", "Foreshore walk"],
     status: "active",
     notes: "Active house-and-land listing advertised as an absolute beachfront opportunity, with the beach directly across the road and a short walk to Rockingham foreshore cafes and restaurants. Price advertised as from $900K.",
-    image: "https://www.realestate.com.au/property-image/150188844/1",
+    image: "https://i2.au.reastatic.net/1600x1200/f10ba63d444379f6a7493f2b48d7c167cb810afcb0def883ed6753b1d8a42043/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-wa-rockingham-150188844"
   },
   {
@@ -8706,8 +14333,31 @@ const sampleProperties = [
     factors: ["Esplanade front row", "Ocean and jetty views", "Palm Beach", "Boutique complex"],
     status: "active",
     notes: "Active Palm Beach apartment in The Jetty complex on the Esplanade with unencumbered Cockburn Sound and jetty views, opposite Palm Beach Jetty and close to foreshore cafes. Price guide advertised as $1,500,000.",
-    image: "https://www.realestate.com.au/property-image/148782768/1",
+    image: "https://i2.au.reastatic.net/1600x1200/49e6956231e7fe1e8fbd4c406c892c235cc54e88f1443927e103836e5cf71422/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-rockingham-148782768"
+  },
+  {
+    id: "wa-rockingham-14-7-railway",
+    title: "14/7 Railway Terrace",
+    suburb: "Rockingham",
+    state: "WA",
+    nearestMajorCity: "Perth",
+    majorCityMinutes: 45,
+    listedDate: "2026-03-23",
+    price: 1200000,
+    landSize: 167,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Waterfront apartment", "180-degree ocean views", "Foreshore location", "Secure lock-and-leave"],
+    status: "active",
+    notes: "Active waterfront apartment listing advertised with uninterrupted 180-degree ocean views, a sought-after foreshore position metres from the beach, and secure parking. Price advertised as offers over $1.2M.",
+    image: "https://i2.au.reastatic.net/1600x1200/26846d202fa9c725fba26fae7216d4926176a582bdb78ddf697491f58e0a752c/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-wa-rockingham-150673248",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "17.3%",
+    investmentFiveYearGrowth: "122.25%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Rockingham unit median values up 122.25% over five years, about 17.3% p.a."
   },
   {
     id: "wa-scarborough-5-356-west-coast",
@@ -8839,7 +14489,10 @@ const sampleProperties = [
     factors: ["Front-row marina outlook", "80m to Claytons Beach", "Ocean views", "Beachfront resort amenities"],
     status: "active",
     notes: "Active unit listing in Claytons Beachfront Residences advertised with marina and ocean views, a front-row outlook over Mindarie Marina, beachfront terrace amenities, and 80m proximity to Claytons Beach. Price advertised as All Offers Presented.",
-    image: "https://www.realestate.com.au/property-image/150986808/1",
+    image: "https://i2.au.reastatic.net/800x600/c536e6fcfb16da2c5d3caa760bff636f33865a2873f694c1088f6a5cc7b067a2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c536e6fcfb16da2c5d3caa760bff636f33865a2873f694c1088f6a5cc7b067a2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-wa-mindarie-150986808"
   },
   {
@@ -8858,7 +14511,10 @@ const sampleProperties = [
     factors: ["Uninterrupted Indian Ocean views", "Coastal pocket", "Moments from beaches", "Resort facilities"],
     status: "active",
     notes: "Active unit listing in the Claytons development advertised with uninterrupted Indian Ocean views, resort-style amenities, and a premium coastal location moments from Mindarie Marina and beaches. Price advertised as high $1 millions.",
-    image: "https://www.realestate.com.au/property-image/150874948/1",
+    image: "https://i2.au.reastatic.net/800x600/9be1d144f50acdd92ca3303267bc8455c88af7ab26866d495199c73cf13f5f07/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/9be1d144f50acdd92ca3303267bc8455c88af7ab26866d495199c73cf13f5f07/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-wa-mindarie-150874948"
   },
   {
@@ -8877,7 +14533,10 @@ const sampleProperties = [
     factors: ["Ocean front luxury", "Uninterrupted ocean views", "Marina precinct", "Coastal vistas"],
     status: "active",
     notes: "Active house listing advertised as ocean front luxury in the Marina Precinct, with uninterrupted ocean views from every level and sweeping coastal vistas. Price advertised as All Offers Considered.",
-    image: "https://www.realestate.com.au/property-image/150434344/1",
+    image: "https://i2.au.reastatic.net/800x600/da159d934410938a7dfaea28e3e4c38cc0f60639bda22f4599489eb05fb1ec54/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/da159d934410938a7dfaea28e3e4c38cc0f60639bda22f4599489eb05fb1ec54/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-wa-mindarie-150434344"
   },
   {
@@ -8896,7 +14555,10 @@ const sampleProperties = [
     factors: ["Direct beach access", "Steps from shoreline", "Beachfront development", "Private garden and terrace"],
     status: "active",
     notes: "Active Claytons Mindarie Beachfront apartment listing advertised as a premium ground-floor residence with direct beach access, substantial private garden and terrace areas, and a position mere steps from the shoreline and Mindarie Marina.",
-    image: "https://www.realestate.com.au/property-image/149894636/1",
+    image: "https://i2.au.reastatic.net/800x600/1fb54ec86c3202d979a744d7d14db7cc7fd708ab6ae04845efbb28be314ddeaa/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1fb54ec86c3202d979a744d7d14db7cc7fd708ab6ae04845efbb28be314ddeaa/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mindarie-149894636"
   },
   {
@@ -8915,7 +14577,10 @@ const sampleProperties = [
     factors: ["98 steps to the sea", "Ocean and foreshore views", "Beachfront development", "Resort amenities"],
     status: "active",
     notes: "Active Claytons Mindarie Beachfront apartment listing advertised with panoramic Indian Ocean and Catalina Foreshore Reserve views from every room, resort amenities, and a location just 98 steps to the sea.",
-    image: "https://www.realestate.com.au/property-image/143112068/1",
+    image: "https://i2.au.reastatic.net/800x600/3582e03374573fe89ae8456d1ae9423db1e43d3177b174fa2ec8b6f5e29c5024/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/3582e03374573fe89ae8456d1ae9423db1e43d3177b174fa2ec8b6f5e29c5024/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mindarie-143112068"
   },
   {
@@ -8934,7 +14599,10 @@ const sampleProperties = [
     factors: ["98 steps to the sea", "Ocean and marina views", "Beachfront sunset terrace", "Catalina Foreshore Reserve"],
     status: "active",
     notes: "Active direct listing page for this Claytons Mindarie Beachfront apartment advertises marina, ocean and Catalina Foreshore Reserve views, 98 steps to the sea, and resort amenities including a beachfront sunset terrace.",
-    image: "https://www.realestate.com.au/property-image/143111424/1",
+    image: "https://i2.au.reastatic.net/800x600/c193968a36f8260f21b3eef30d334c5e669a2c6af18fd1332d60647119e3cbd2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c193968a36f8260f21b3eef30d334c5e669a2c6af18fd1332d60647119e3cbd2/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mindarie-143111424"
   },
   {
@@ -8953,7 +14621,10 @@ const sampleProperties = [
     factors: ["Penthouse apartment", "Indian Ocean views", "Mindarie Marina views", "Beachfront development"],
     status: "active",
     notes: "Active Claytons Mindarie Beachfront penthouse listing advertised with dual balconies capturing panoramic Indian Ocean and Mindarie Marina views from a top-level coastal residence.",
-    image: "https://www.realestate.com.au/property-image/150591164/1",
+    image: "https://i2.au.reastatic.net/800x600/1dec3cf10b6acb1bfbde394cd82c6e03e9fc8f40172e41a3f535eceab0b52ef0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/1dec3cf10b6acb1bfbde394cd82c6e03e9fc8f40172e41a3f535eceab0b52ef0/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mindarie-150591164"
   },
   {
@@ -8972,7 +14643,10 @@ const sampleProperties = [
     factors: ["Direct beach access", "Ocean-view terrace", "Beachfront sunset terrace", "Ocean-facing amenities"],
     status: "active",
     notes: "Active Claytons Mindarie Beachfront apartment listing advertised as the final oceanview two-bedroom home with direct beach access, an ocean-view terrace, beachfront sunset terrace, and ocean-facing resort amenities.",
-    image: "https://www.realestate.com.au/property-image/143109552/1",
+    image: "https://i2.au.reastatic.net/800x600/56df2b860dc19038a77d36c7e3f94fb743a7be168f177b35e5842dae54e15b23/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/56df2b860dc19038a77d36c7e3f94fb743a7be168f177b35e5842dae54e15b23/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-wa-mindarie-143109552"
   },
   {
@@ -15700,7 +21374,13 @@ const sampleProperties = [
     factors: ["55.5ha Hunter River frontage", "Operational turf farm", "Large water allocations", "Two residences and machinery infrastructure"],
     status: "active",
     notes: "Active Homely rural listing advertised as The Old Crossing, a 55.5ha operational turf farm in the Hunter Valley district with over 1km Hunter River frontage, highly fertile alluvial soils, 171ML general security allocation, 82ML supplementary allocation, 5ML stock and domestic water, two residences and extensive machinery shedding. Price is advertised at $3,950,000.",
-    image: "https://www.homely.com.au/img-variant/l-AgentBox-13162593-1.jpg?named-transform=webDefaultTransform&version=K2rqqw6GkEjT78cFfsZhH6pycRP0IfxN",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12219661-1.jpg?named-transform=webDefaultTransform&version=LlPuRv3Xx7QGocZfiUsUBas2bvhIfFWg",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12219661-1.jpg?named-transform=webDefaultTransform&version=LlPuRv3Xx7QGocZfiUsUBas2bvhIfFWg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12219661-2.jpg?named-transform=webDefaultTransform&version=LlPuRv3Xx7QGocZfiUsUBas2bvhIfFWg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12219661-3.jpg?named-transform=webDefaultTransform&version=LlPuRv3Xx7QGocZfiUsUBas2bvhIfFWg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12219661-4.jpg?named-transform=webDefaultTransform&version=LlPuRv3Xx7QGocZfiUsUBas2bvhIfFWg"
+    ],
     listingUrl: "https://www.homely.com.au/homes/477-long-point-road-long-point-nsw-2330/12219661",
     listingCategory: "large",
     investmentStar: false
@@ -20210,7 +25890,7 @@ const sampleProperties = [
   }
 ];
 
-const databaseUpdatedAt = "2026-05-12 17:36";
+const databaseUpdatedAt = "2026-05-12 22:42";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
@@ -20223,6 +25903,9 @@ const state = {
   viewed: new Set(JSON.parse(localStorage.getItem("viewedProperties") || "[]")),
   known: new Set(JSON.parse(localStorage.getItem("knownProperties") || "[]")),
   unavailable: new Set(JSON.parse(localStorage.getItem("unavailableProperties") || "[]")),
+  imageGalleries: JSON.parse(localStorage.getItem("propertyImageGalleries") || "{}"),
+  pictureSelections: JSON.parse(localStorage.getItem("propertyPictureSelections") || "{}"),
+  picture2Selections: JSON.parse(localStorage.getItem("propertyPicture2Selections") || "{}"),
   view: "all",
   unviewedViewIds: null,
   selectedTablePropertyId: null,
@@ -20265,6 +25948,7 @@ const els = {
   cityStat: document.querySelector("#cityStat"),
   updatedState: document.querySelector("#updatedState"),
   exportButton: document.querySelector("#exportButton"),
+  refreshFavouritePhotosButton: document.querySelector("#refreshFavouritePhotosButton"),
   exportTablePanelButton: document.querySelector("#exportTablePanelButton"),
   tableTopButton: document.querySelector("#tableTopButton"),
   resetFiltersButton: document.querySelector("#resetFiltersButton"),
@@ -20318,6 +26002,8 @@ let lastServerRefreshUpdatedAt = null;
 let lastPolledSearchMode = state.searchMode;
 let investmentStarIdCache = null;
 let pendingRenderFrame = null;
+let imageGalleryQueue = Promise.resolve();
+const pendingImageGalleryRequests = new Map();
 const investmentAnnualGrowthTarget = 15;
 const investmentFiveYearGrowthTarget = 101;
 const investmentMinimumShare = 0.05;
@@ -20333,6 +26019,75 @@ function isWeakImageUrl(url) {
   return /realestate\.com\.au\/(?:property-image|project-image)|placeholder|no-image|default|img-variant/i.test(String(url || ""));
 }
 
+function normaliseImageUrl(url) {
+  return String(url || "").trim();
+}
+
+function uniqueImageUrls(images) {
+  const seen = new Set();
+  return images
+    .map(normaliseImageUrl)
+    .filter(url => /^https?:\/\//i.test(url))
+    .filter(url => {
+      const key = (() => {
+        try {
+          const parsed = new URL(url);
+          return `${parsed.origin}${parsed.pathname}`;
+        } catch {
+          return url.replace(/\?.*$/, "");
+        }
+      })();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return !/placeholder|no-image|logo|favicon/i.test(url);
+    });
+}
+
+function savedPropertyImages(property) {
+  return uniqueImageUrls([
+    property.image,
+    property.picture,
+    property.picture2,
+    ...(Array.isArray(property.images) ? property.images : []),
+    ...(Array.isArray(property.galleryImages) ? property.galleryImages : []),
+    ...(state.imageGalleries[property.id] || [])
+  ]);
+}
+
+function savePropertyImages(property, images) {
+  const gallery = uniqueImageUrls(images);
+  property.images = gallery;
+  state.imageGalleries[property.id] = gallery;
+  localStorage.setItem("propertyImageGalleries", JSON.stringify(state.imageGalleries));
+  return gallery;
+}
+
+function selectedPicture2Url(property) {
+  const selected = state.picture2Selections[property.id] || property.picture2 || "";
+  const images = savedPropertyImages(property);
+  return images.includes(selected) ? selected : "";
+}
+
+function selectedPictureUrl(property) {
+  const selected = state.pictureSelections[property.id] || property.picture || property.image || "";
+  const images = savedPropertyImages(property);
+  return images.includes(selected) ? selected : images[0] || "";
+}
+
+function savePicture2Selection(property, imageUrl) {
+  if (imageUrl) state.picture2Selections[property.id] = imageUrl;
+  else delete state.picture2Selections[property.id];
+  property.picture2 = imageUrl || "";
+  localStorage.setItem("propertyPicture2Selections", JSON.stringify(state.picture2Selections));
+}
+
+function savePictureSelection(property, imageUrl) {
+  if (imageUrl) state.pictureSelections[property.id] = imageUrl;
+  else delete state.pictureSelections[property.id];
+  property.picture = imageUrl || "";
+  localStorage.setItem("propertyPictureSelections", JSON.stringify(state.pictureSelections));
+}
+
 async function fetchListingImageFallback(property) {
   if (isOnlineViewerMode() || window.location.protocol === "file:") return "";
   const listingLink = getListingLink(property);
@@ -20345,6 +26100,38 @@ async function fetchListingImageFallback(property) {
   } catch {
     return "";
   }
+}
+
+async function fetchListingImages(property) {
+  if (isOnlineViewerMode() || window.location.protocol === "file:") return [];
+  const listingLink = getListingLink(property);
+  if (!listingLink) return [];
+  if (pendingImageGalleryRequests.has(listingLink)) return pendingImageGalleryRequests.get(listingLink);
+
+  const request = imageGalleryQueue.then(async () => {
+    try {
+      const response = await fetch(`/listing-images?url=${encodeURIComponent(listingLink)}`);
+      if (!response.ok) return [];
+      const data = await response.json();
+      return uniqueImageUrls(data.images || []);
+    } catch {
+      return [];
+    } finally {
+      pendingImageGalleryRequests.delete(listingLink);
+    }
+  });
+
+  imageGalleryQueue = request.catch(() => []);
+  pendingImageGalleryRequests.set(listingLink, request);
+  return request;
+}
+
+async function loadPropertyImages(property) {
+  const existing = savedPropertyImages(property);
+  if (existing.length > 1 || property.imagesLoaded) return existing;
+  const fetched = await fetchListingImages(property);
+  property.imagesLoaded = true;
+  return savePropertyImages(property, [...existing, ...fetched]);
 }
 
 function useListingImage(element, property, options = {}) {
@@ -20779,6 +26566,194 @@ function markPropertyViewed(propertyId, rerender = true) {
   if (rerender) render();
 }
 
+function renderPicturePickerCell(cell, property, options, images = savedPropertyImages(property), loading = false) {
+  cell.innerHTML = "";
+  const wrapper = document.createElement("div");
+  const image = document.createElement("img");
+  const select = document.createElement("select");
+  const selected = options.selected(property);
+  const selectedImage = selected || images[options.defaultIndex] || "";
+
+  cell.className = options.cellClass;
+  wrapper.className = "picture2-picker";
+  image.className = options.imageClass;
+  image.alt = property.title ? `${property.title} ${options.label.toLowerCase()} property photo` : `${options.label} property photo`;
+  image.hidden = !selectedImage;
+  if (selectedImage) image.src = selectedImage;
+
+  select.className = "picture2-select";
+  select.disabled = loading || !images.length;
+  select.title = loading ? "Loading listing photos" : `Choose the image shown in ${options.label}`;
+  select.append(new Option(loading ? "Loading..." : images.length ? "Choose" : "No photos", ""));
+  images.forEach((url, index) => {
+    const option = new Option(`Photo ${index + 1}`, url);
+    select.append(option);
+  });
+  select.value = selected || "";
+
+  select.addEventListener("click", event => event.stopPropagation());
+  select.addEventListener("change", () => {
+    options.save(property, select.value);
+    renderPicturePickerCell(cell, property, options, savedPropertyImages(property));
+  });
+
+  wrapper.append(image, select);
+  cell.append(wrapper);
+}
+
+const picturePickerOptions = {
+  picture: {
+    label: "Picture",
+    cellClass: "table-image-cell",
+    imageClass: "table-property-image",
+    defaultIndex: 0,
+    selected: selectedPictureUrl,
+    save: savePictureSelection
+  },
+  picture2: {
+    label: "Picture 2",
+    cellClass: "table-picture2-cell",
+    imageClass: "picture2-image",
+    defaultIndex: 1,
+    selected: selectedPicture2Url,
+    save: savePicture2Selection
+  }
+};
+
+function hydratePicturePickerCell(cell, property, options) {
+  const loadGallery = () => {
+    renderPicturePickerCell(cell, property, options, savedPropertyImages(property), true);
+    loadPropertyImages(property).then(images => {
+      if (!cell.isConnected) return;
+      renderPicturePickerCell(cell, property, options, images);
+    });
+  };
+
+  renderPicturePickerCell(cell, property, options, savedPropertyImages(property));
+  if (state.selectedTablePropertyId === property.id) loadGallery();
+  cell.addEventListener("mouseenter", loadGallery, { once: true });
+  cell.addEventListener("focusin", loadGallery, { once: true });
+  cell.addEventListener("click", loadGallery, { once: true });
+}
+
+function clearCarouselControls(media) {
+  media.querySelectorAll(".photo-nav, .photo-count, .photo-strip, .photo-load").forEach(element => element.remove());
+}
+
+function renderPropertyCarousel(media, img, property, images = savedPropertyImages(property), loading = false, onLoadPhotos = null) {
+  clearCarouselControls(media);
+  const gallery = images.length ? images : uniqueImageUrls([selectedPictureUrl(property), property.image]);
+  media.classList.toggle("has-gallery", gallery.length > 1);
+  if (!gallery.length) {
+    img.hidden = true;
+    media.classList.add("no-image");
+    return;
+  }
+
+  const selected = selectedPictureUrl(property);
+  let index = Number(media.dataset.photoIndex || gallery.indexOf(selected) || 0);
+  if (!Number.isFinite(index) || index < 0 || index >= gallery.length) index = 0;
+
+  const update = nextIndex => {
+    index = (nextIndex + gallery.length) % gallery.length;
+    media.dataset.photoIndex = String(index);
+    img.src = gallery[index];
+    img.hidden = false;
+    media.classList.remove("no-image");
+    counter.textContent = loading ? "Loading photos" : `${index + 1} / ${gallery.length}`;
+    strip.querySelectorAll(".photo-thumb").forEach((button, thumbIndex) => {
+      button.classList.toggle("active", thumbIndex === index);
+      button.setAttribute("aria-pressed", thumbIndex === index ? "true" : "false");
+    });
+  };
+
+  img.alt = property.title ? `${property.title} photo ${index + 1}` : `Property photo ${index + 1}`;
+  img.onerror = () => {
+    if (gallery.length > 1) update(index + 1);
+    else {
+      img.hidden = true;
+      media.classList.add("no-image");
+    }
+  };
+
+  const counter = document.createElement("span");
+  const strip = document.createElement("div");
+  counter.className = "photo-count";
+  strip.className = "photo-strip";
+
+  if (gallery.length > 1) {
+    const previous = document.createElement("button");
+    const next = document.createElement("button");
+    previous.className = "photo-nav photo-nav-prev";
+    next.className = "photo-nav photo-nav-next";
+    previous.type = "button";
+    next.type = "button";
+    previous.textContent = "\u2039";
+    next.textContent = "\u203a";
+    previous.setAttribute("aria-label", "Previous photo");
+    next.setAttribute("aria-label", "Next photo");
+    previous.addEventListener("click", event => {
+      event.stopPropagation();
+      update(index - 1);
+    });
+    next.addEventListener("click", event => {
+      event.stopPropagation();
+      update(index + 1);
+    });
+    media.append(previous, next);
+
+    gallery.forEach((url, thumbIndex) => {
+      const button = document.createElement("button");
+      const thumb = document.createElement("img");
+      button.className = "photo-thumb";
+      button.type = "button";
+      button.setAttribute("aria-label", `Show photo ${thumbIndex + 1}`);
+      thumb.src = url;
+      thumb.alt = "";
+      button.append(thumb);
+      button.addEventListener("click", event => {
+        event.stopPropagation();
+        update(thumbIndex);
+      });
+      strip.append(button);
+    });
+  }
+
+  if (gallery.length <= 1 && onLoadPhotos) {
+    const loadButton = document.createElement("button");
+    loadButton.className = "photo-load";
+    loadButton.type = "button";
+    loadButton.textContent = loading ? "Loading photos" : "Photos";
+    loadButton.disabled = loading;
+    loadButton.addEventListener("click", event => {
+      event.stopPropagation();
+      onLoadPhotos();
+    });
+    media.append(loadButton);
+  }
+
+  media.append(counter);
+  if (gallery.length > 1) media.append(strip);
+  update(index);
+}
+
+function hydratePropertyCarousel(media, img, property) {
+  const loadFullGallery = () => {
+    renderPropertyCarousel(media, img, property, savedPropertyImages(property), true);
+    loadPropertyImages(property).then(images => {
+      if (!media.isConnected) return;
+      renderPropertyCarousel(media, img, property, images, false, loadFullGallery);
+    });
+  };
+
+  renderPropertyCarousel(media, img, property, savedPropertyImages(property), false, loadFullGallery);
+  if (state.selectedTablePropertyId !== property.id) return;
+  loadPropertyImages(property).then(images => {
+    if (!media.isConnected) return;
+    renderPropertyCarousel(media, img, property, images, false, loadFullGallery);
+  });
+}
+
 function renderComparisonTable(properties) {
   els.comparisonTableBody.innerHTML = "";
   const rows = document.createDocumentFragment();
@@ -20800,24 +26775,12 @@ function renderComparisonTable(properties) {
     const listingLink = getListingLink(property);
     const searchLink = getSearchLink(property);
     const imageCell = document.createElement("td");
-    imageCell.className = "table-image-cell";
+    hydratePicturePickerCell(imageCell, property, picturePickerOptions.picture);
 
-    const image = document.createElement("img");
-    const placeholder = document.createElement("span");
-    image.className = "table-property-image";
-    image.alt = property.title ? `${property.title} property photo` : "Property photo";
-    placeholder.className = "table-image-placeholder";
-    placeholder.textContent = "No image";
-    placeholder.hidden = Boolean(property.image);
-    useListingImage(image, property, {
-      hideOnMissing: !property.image,
-      onMissing: () => {
-        placeholder.hidden = false;
-      }
-    });
-    imageCell.append(image, placeholder);
+    const picture2Cell = document.createElement("td");
+    hydratePicturePickerCell(picture2Cell, property, picturePickerOptions.picture2);
 
-    row.append(imageCell);
+    row.append(imageCell, picture2Cell);
 
     values.forEach((value, index) => {
       const cell = document.createElement("td");
@@ -21212,12 +27175,15 @@ function matchesXFactorFilter(score, filter) {
 
 function sortProperties(properties) {
   const baseline = median(state.properties.map(pricePerSqm));
+  const idFilter = els.idColumnFilter.value;
   const xFactorFilter = els.xFactorColumnFilter.value;
   const priceFilter = els.priceColumnFilter.value;
   const sqmFilter = els.sqmColumnFilter.value;
   const cityFilter = els.cityColumnFilter.value;
   const landFilter = els.landColumnFilter.value;
   const sorted = [...properties].sort((a, b) => {
+    if (idFilter === "asc") return Number(a.displayId || 0) - Number(b.displayId || 0);
+    if (idFilter === "desc") return Number(b.displayId || 0) - Number(a.displayId || 0);
     if (xFactorFilter === "asc") return scoreProperty(a, baseline) - scoreProperty(b, baseline);
     if (xFactorFilter === "desc" || xFactorFilter.startsWith("over")) return scoreProperty(b, baseline) - scoreProperty(a, baseline);
     if (priceFilter === "asc") return (a.price || Infinity) - (b.price || Infinity);
@@ -21288,8 +27254,7 @@ function render() {
       if (event.target.closest("button, a")) return;
       markPropertyViewed(property.id);
     });
-    img.alt = property.title;
-    useListingImage(img, property, { hideOnMissing: true, missingClassTarget: media });
+    hydratePropertyCarousel(media, img, property);
     node.querySelector(".badge").textContent = state.searchMode === "large"
       ? "Large landholding"
       : property.noRoadFrontage ? "Beachfront, no road in front" : property.beachfront ? "Beachfront" : "Coastal comparator";
@@ -21374,16 +27339,58 @@ function exportFavourites() {
   URL.revokeObjectURL(url);
 }
 
+async function refreshFavouritePhotos() {
+  if (isOnlineViewerMode()) {
+    alert("Photo updating needs the local server on this PC.");
+    return;
+  }
+  if (window.location.protocol === "file:") {
+    alert("Open the local server version first, then update favourite photos.");
+    return;
+  }
+
+  const ids = [...state.favourites].filter(id => state.properties.some(property => property.id === id));
+  if (!ids.length) {
+    alert("No favourite properties selected yet.");
+    return;
+  }
+
+  els.refreshFavouritePhotosButton.disabled = true;
+  els.refreshFavouritePhotosButton.textContent = "Updating photos...";
+  try {
+    const response = await fetch("/refresh-favourite-images", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ids })
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.message || "Photo update failed.");
+
+    Object.entries(result.galleries || {}).forEach(([id, images]) => {
+      const property = state.properties.find(item => item.id === id);
+      if (property) savePropertyImages(property, images);
+    });
+
+    alert(`Favourite photo update complete. Updated ${result.updated || 0} of ${result.checked || ids.length} favourites.`);
+    window.location.reload();
+  } catch (error) {
+    alert(error.message || "Photo update failed.");
+  } finally {
+    els.refreshFavouritePhotosButton.disabled = false;
+    els.refreshFavouritePhotosButton.textContent = "Update favourite photos";
+  }
+}
+
 function exportCurrentTable() {
   const rows = sortProperties(filterProperties());
   const baseline = median(state.properties.map(pricePerSqm));
-  const headers = ["ID", "State", "Address", "X Factor value", "Price", "$ per sqm", "Mins to City", "Land Size Sqm"];
+  const headers = ["Picture", "Picture 2", "ID", "State", "Address", "X Factor value", "Price", "$ per sqm", "Mins to City", "Land Size Sqm"];
   const csvRows = [
     headers,
     ...rows.map(property => {
       const sqm = pricePerSqm(property);
       const minutesToMajorCity = majorCityMinutes(property);
-      return getTableValues(property, sqm, minutesToMajorCity, baseline);
+      return [selectedPictureUrl(property), selectedPicture2Url(property), ...getTableValues(property, sqm, minutesToMajorCity, baseline)];
     })
   ];
   const csv = csvRows.map(row => row.map(escapeCsvValue).join(",")).join("\r\n");
@@ -21491,6 +27498,7 @@ els.themeToggle.addEventListener("click", () => {
 });
 
 els.exportButton.addEventListener("click", exportFavourites);
+els.refreshFavouritePhotosButton.addEventListener("click", refreshFavouritePhotos);
 els.exportTablePanelButton.addEventListener("click", exportCurrentTable);
 els.tableTopButton.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -21499,7 +27507,7 @@ els.tableTopButton.addEventListener("click", () => {
 els.resetFiltersButton.addEventListener("click", resetFilters);
 els.reloadButton.addEventListener("click", () => triggerManualRefresh("national"));
 els.comparisonTableBody.addEventListener("click", event => {
-  if (event.target.closest("a")) return;
+  if (event.target.closest("a, button, select, input")) return;
   const row = event.target.closest("tr[data-property-id]");
   if (row) {
     selectTableRow(row.dataset.propertyId);
