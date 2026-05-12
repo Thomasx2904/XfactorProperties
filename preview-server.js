@@ -423,6 +423,15 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
     if (response) writeJson(response, 202, readRefreshStatus());
     return;
   }
+  if (largeRefreshProcess) {
+    if (response) {
+      writeJson(response, 202, {
+        ...readLargeRefreshStatus(),
+        message: "Large-property search is running. Beach search will be available when it finishes."
+      });
+    }
+    return;
+  }
   refreshStoppedByTimeout = false;
   activeSearchArea = scope === "sa" ? null : currentSuburbSearchArea();
   const areaText = activeSearchArea ? formatSearchArea(activeSearchArea) : "";
@@ -535,6 +544,15 @@ function startLargeListingRefresh(response, mode = "manual") {
     if (response) writeJson(response, 202, readLargeRefreshStatus());
     return;
   }
+  if (refreshProcess) {
+    if (response) {
+      writeJson(response, 202, {
+        ...readRefreshStatus(),
+        message: "Beach search is running. Large-property search will be available when it finishes."
+      });
+    }
+    return;
+  }
 
   largeRefreshStoppedByTimeout = false;
   activeLargeSearchArea = currentLargeSearchArea();
@@ -638,7 +656,7 @@ function scheduleNextLargeAutoRefresh(delay = autoRefreshIntervalMs) {
 function startAutoRefreshLoop() {
   scheduleNextAutoRefresh(60 * 1000);
   autoRefreshTimer = setInterval(() => {
-    if (refreshProcess) return;
+    if (refreshProcess || largeRefreshProcess) return;
     if (Date.now() - lastAutoRefreshAt < autoRefreshIntervalMs - 1000) return;
     startListingRefresh(null, "national", "auto");
   }, 60 * 1000);
@@ -647,7 +665,7 @@ function startAutoRefreshLoop() {
 function startLargeAutoRefreshLoop() {
   scheduleNextLargeAutoRefresh(90 * 1000);
   largeAutoRefreshTimer = setInterval(() => {
-    if (largeRefreshProcess) return;
+    if (refreshProcess || largeRefreshProcess) return;
     if (Date.now() - lastLargeAutoRefreshAt < autoRefreshIntervalMs - 1000) return;
     startLargeListingRefresh(null, "auto");
   }, 60 * 1000);

@@ -1,13 +1,13 @@
 {
-  "state": "idle",
+  "state": "running",
   "mode": "auto",
-  "message": "Waiting for next automatic search.",
-  "searchArea": "Williamstown, VIC",
-  "searchAreaPosition": 158,
+  "message": "Verifying candidates in Glenelg South, SA; 0/10 possible listings found...",
+  "searchArea": "Glenelg South, SA",
+  "searchAreaPosition": 15,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Williamstown, VIC",
-  "nextAutoRefreshAt": "2026-05-11T11:46:43.145Z",
-  "updatedAt": "2026-05-11T11:45:43.250Z"
+  "nextSearchArea": "Glenelg South, SA",
+  "nextAutoRefreshAt": "2026-05-12T03:58:56.505Z",
+  "updatedAt": "2026-05-12T03:54:39.394Z"
 }

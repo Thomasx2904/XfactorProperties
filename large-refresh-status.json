@@ -1,13 +1,13 @@
 {
-  "state": "running",
+  "state": "complete",
   "mode": "auto",
-  "message": "Verifying large-block candidates in Barossa Valley and Clare Valley acreage, SA; 10/10 possible listings found...",
-  "searchArea": "Barossa Valley and Clare Valley acreage, SA",
-  "searchAreaPosition": 2,
+  "message": "Finished Great Southern WA rural holdings, WA. Reloading large listings...",
+  "searchArea": "Great Southern WA rural holdings, WA",
+  "searchAreaPosition": 7,
   "searchAreaTotal": 15,
-  "searchDurationMinutes": 10,
-  "searchPriority": true,
-  "nextSearchArea": "Barossa Valley and Clare Valley acreage, SA",
-  "nextAutoRefreshAt": "2026-05-11T11:44:54.705Z",
-  "updatedAt": "2026-05-11T11:45:06.620Z"
+  "searchDurationMinutes": 2,
+  "searchPriority": false,
+  "nextSearchArea": "Sunshine Coast hinterland acreage, QLD",
+  "nextAutoRefreshAt": "2026-05-12T03:50:21.898Z",
+  "updatedAt": "2026-05-12T03:45:21.901Z"
 }
