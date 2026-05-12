@@ -30,6 +30,7 @@ let nextLargeAutoRefreshAt = null;
 const autoRefreshIntervalMs = 5 * 60 * 1000;
 const standardRefreshTimeoutMs = 2 * 60 * 1000;
 const priorityRefreshTimeoutMs = standardRefreshTimeoutMs * 5;
+const saveChangesGraceMs = 4 * 60 * 1000;
 const prioritySearchAreaKeys = new Set([
   "Palm Beach|QLD", "Mermaid Beach|QLD", "Main Beach|QLD", "Surfers Paradise|QLD", "Broadbeach|QLD", "Bilinga|QLD", "Tugun|QLD", "Coolangatta|QLD", "Currumbin|QLD", "Burleigh Heads|QLD",
   "Peregian Beach|QLD", "Marcus Beach|QLD", "Sunshine Beach|QLD", "Noosa Heads|QLD", "Warana|QLD", "Bokarina|QLD", "Wurtulla|QLD", "Golden Beach|QLD", "Beachmere|QLD",
@@ -291,6 +292,10 @@ function formatDuration(ms) {
   return `${minutes} minute${minutes === 1 ? "" : "s"}`;
 }
 
+function processTimeoutMs(searchTimeoutMs) {
+  return searchTimeoutMs + saveChangesGraceMs;
+}
+
 function readSuburbSearchState() {
   try {
     const state = JSON.parse(fs.readFileSync(suburbStatePath, "utf8").replace(/^\uFEFF/, ""));
@@ -427,6 +432,8 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
     if (response) {
       writeJson(response, 202, {
         ...readLargeRefreshStatus(),
+        blockingLane: "large",
+        statusPath: "/large-refresh-status",
         message: "Large-property search is running. Beach search will be available when it finishes."
       });
     }
@@ -437,6 +444,7 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
   const areaText = activeSearchArea ? formatSearchArea(activeSearchArea) : "";
   const timeoutMs = scope === "sa" ? priorityRefreshTimeoutMs : searchDurationMs(activeSearchArea);
   const timeoutText = formatDuration(timeoutMs);
+  const killAfterMs = processTimeoutMs(timeoutMs);
 
   const nationalPrompt = [
     "You are refreshing the local Property X Factors Australia app.",
@@ -475,7 +483,7 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
   writeRefreshStatus(withSearchAreaStatus({
     state: "running",
     mode,
-    message: scope === "sa" ? "Searching SA coast near Adelaide..." : `Searching ${areaText} for up to ${timeoutText}...`
+    message: scope === "sa" ? "Searching SA coast near Adelaide..." : `Searching ${areaText} for up to ${timeoutText}, then saving changes...`
   }));
   fs.appendFileSync(logPath, `\n\n[${new Date().toISOString()}] ${label} refresh started${areaText ? ` for ${areaText}` : ""}\n`);
 
@@ -528,13 +536,13 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
 
   refreshTimeout = setTimeout(() => {
     if (!refreshProcess) return;
-    fs.appendFileSync(logPath, `\n[${new Date().toISOString()}] ${label} refresh timed out\n`);
+    fs.appendFileSync(logPath, `\n[${new Date().toISOString()}] ${label} refresh timed out after save window\n`);
     scheduleNextAutoRefresh();
-    writeRefreshStatus(withSearchAreaStatus({ state: "complete", mode, message: `${timeoutText} ${areaText || "search"} search finished. Reloading listings...` }));
+    writeRefreshStatus(withSearchAreaStatus({ state: "complete", mode, message: `${timeoutText} ${areaText || "search"} search plus save window finished. Reloading listings...` }));
     refreshStoppedByTimeout = true;
     refreshProcess.kill();
     refreshTimeout = null;
-  }, timeoutMs);
+  }, killAfterMs);
 
   if (response) writeJson(response, 202, readRefreshStatus());
 }
@@ -548,6 +556,8 @@ function startLargeListingRefresh(response, mode = "manual") {
     if (response) {
       writeJson(response, 202, {
         ...readRefreshStatus(),
+        blockingLane: "beach",
+        statusPath: "/refresh-status",
         message: "Beach search is running. Large-property search will be available when it finishes."
       });
     }
@@ -559,6 +569,7 @@ function startLargeListingRefresh(response, mode = "manual") {
   const areaText = formatLargeSearchArea(activeLargeSearchArea);
   const timeoutMs = searchDurationMs(activeLargeSearchArea);
   const timeoutText = formatDuration(timeoutMs);
+  const killAfterMs = processTimeoutMs(timeoutMs);
   const prompt = [
     "You are refreshing the local Property X Factors Australia app in Large Properties mode.",
     `This is a separate large-land search lane. Search only ${areaText}. Do not broaden outside this region unless the listing clearly belongs to the same market area.`,
@@ -579,7 +590,7 @@ function startLargeListingRefresh(response, mode = "manual") {
   writeLargeRefreshStatus(withLargeSearchAreaStatus({
     state: "running",
     mode,
-    message: `Searching ${areaText} for large blocks up to ${timeoutText}...`
+    message: `Searching ${areaText} for large blocks up to ${timeoutText}, then saving changes...`
   }));
   fs.appendFileSync(largeLogPath, `\n\n[${new Date().toISOString()}] ${label} started for ${areaText}\n`);
 
@@ -632,13 +643,13 @@ function startLargeListingRefresh(response, mode = "manual") {
 
   largeRefreshTimeout = setTimeout(() => {
     if (!largeRefreshProcess) return;
-    fs.appendFileSync(largeLogPath, `\n[${new Date().toISOString()}] ${label} timed out\n`);
+    fs.appendFileSync(largeLogPath, `\n[${new Date().toISOString()}] ${label} timed out after save window\n`);
     scheduleNextLargeAutoRefresh();
-    writeLargeRefreshStatus(withLargeSearchAreaStatus({ state: "complete", mode, message: `${timeoutText} ${areaText} large search finished. Reloading listings...` }));
+    writeLargeRefreshStatus(withLargeSearchAreaStatus({ state: "complete", mode, message: `${timeoutText} ${areaText} large search plus save window finished. Reloading listings...` }));
     largeRefreshStoppedByTimeout = true;
     largeRefreshProcess.kill();
     largeRefreshTimeout = null;
-  }, timeoutMs);
+  }, killAfterMs);
 
   if (response) writeJson(response, 202, readLargeRefreshStatus());
 }
@@ -699,7 +710,7 @@ http.createServer((request, response) => {
     } else if (status.state === "running") {
       status.message = inferProgressMessage();
     }
-    if (!status.nextAutoRefreshAt) status.nextAutoRefreshAt = nextAutoRefreshAt;
+    status.nextAutoRefreshAt = nextAutoRefreshAt;
     writeJson(response, 200, withSearchAreaStatus(status));
     return;
   }
@@ -714,7 +725,7 @@ http.createServer((request, response) => {
     } else if (status.state === "running") {
       status.message = inferLargeProgressMessage();
     }
-    if (!status.nextAutoRefreshAt) status.nextAutoRefreshAt = nextLargeAutoRefreshAt;
+    status.nextAutoRefreshAt = nextLargeAutoRefreshAt;
     writeJson(response, 200, withLargeSearchAreaStatus(status));
     return;
   }

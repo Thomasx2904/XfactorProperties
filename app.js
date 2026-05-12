@@ -5838,7 +5838,7 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Walk to beach", "Subdivision potential", "Fresh listing", "Major city"],
-    status: "active",
+    status: "under_offer",
     notes: "Fresh Aldinga Beach listing on a 726sqm allotment, a short stroll from the Esplanade. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/f577c3974b2f4a77fb75f31453ff90302edfccd6a7ce086e01d61f6f2e95abdf/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-aldinga%2Bbeach-150324004"
@@ -5979,7 +5979,7 @@ const sampleProperties = [
     state: "SA",
     nearestMajorCity: "Adelaide",
     majorCityMinutes: 30,
-    daysOnMarket: 2,
+    daysOnMarket: 5,
     price: null,
     landSize: null,
     beachfront: true,
@@ -5987,9 +5987,28 @@ const sampleProperties = [
     directBeachAccess: false,
     factors: ["Esplanade position", "Front-row unit", "Beach lifestyle", "Major city"],
     status: "active",
-    notes: "Active front-row Brighton Esplanade unit. REA and Domain suburb sale pages show it as a current sale listing with best offers due 26 May 2026; price and land size were not published on the portal result card.",
-    image: "https://www.realestate.com.au/property-image/151129272/1",
-    listingUrl: "https://www.realestate.com.au/property-unit-sa-brighton-151129272"
+    notes: "Active front-row Brighton Esplanade unit. Domain direct listing shows it as for sale with best offers due 26 May 2026 and describes uninterrupted coastline views; property size is not disclosed.",
+    image: "https://rimh2.domainstatic.com.au/DmMgRcpNhUrhMva3etq0s2jCVcc%3D/fit-in/1920x1080/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020822606_1_1_250507_092205-w2986-h1989",
+    listingUrl: "https://www.domain.com.au/1-155-esplanade-brighton-sa-5048-2020822606"
+  },
+  {
+    id: "sa-brighton-2-155-esplanade",
+    title: "2/155 Esplanade",
+    suburb: "Brighton",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 30,
+    daysOnMarket: null,
+    price: 1022500,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Esplanade position", "Front-row unit", "Beachside unit", "Major city"],
+    status: "active",
+    notes: "Active realestate.com.au Brighton Esplanade unit listing advertised at $995k - $1.05m. The direct listing describes a sought-after beachside location with the coastline on the doorstep; published size is building area, so land size is left TBA.",
+    image: "https://i2.au.reastatic.net/800x600/574372a8100f70e3349fe8688b714a2fba8556c8d4a71d7dd8a8426b256e5812/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-unit-sa-brighton-149002028"
   },
   {
     id: "sa-hallett-cove-51-lighthouse",
@@ -6024,8 +6043,8 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Esplanade position", "Uninterrupted ocean views", "Coastal land", "Major city"],
-    status: "active",
-    notes: "Active front-row Esplanade land listing advertised as a premium cliff-face coastal parcel with uninterrupted ocean views and the coastline at the doorstep. Price advertised as contact agent.",
+    status: "under_offer",
+    notes: "Marked under offer in the May 2026 Hallett Cove sweep. Current REA and Homely direct listing pages show this front-row Esplanade land as under offer, so it is hidden from the active app view.",
     image: "https://i2.au.reastatic.net/800x600/e05152d08d141f25f11e21bbba5db45ac81799cae62d33a8530cb542852a9662/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-hallett%2Bcove-204475092"
   },
@@ -6496,6 +6515,28 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-townhouse-sa-glenelg%2Bnorth-150814692"
   },
   {
+    id: "sa-moana-12-328-esplanade",
+    title: "12/328 Esplanade",
+    suburb: "Moana",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 40,
+    listedDate: "2026-05-08",
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Front-row Esplanade", "Moana foreshore", "Direct beach access", "Apartment"],
+    status: "active",
+    notes: "Active front-row Moana Esplanade apartment in the 328 Esplanade foreshore complex. Realestate.com.au advertises offers closing Thursday 4 June 2026 with no guide price shown.",
+    image: "https://i2.au.reastatic.net/800x600/b0a9e7b775d93ebc8d69f85fcd930fc7391a8215f86f320ed40e3a84fc777534/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-sa-moana-151148924",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "19.4%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Moana unit median values up 142.59% over five years, which annualises to about 19.4%."
+  },
+  {
     id: "sa-moana-18-328-esplanade",
     title: "18/328 Esplanade",
     suburb: "Moana",
@@ -6530,7 +6571,7 @@ const sampleProperties = [
     factors: ["Front-row Esplanade", "Direct beach access", "Vacant land", "Ocean views"],
     status: "active",
     notes: "Torrens-titled front-row Esplanade land directly opposite Moana Beach with easy access to the sand. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/204475892/1",
+    image: "https://i2.au.reastatic.net/800x600/d48f44528a3d3cc0c26e1a06e8d3b8ca8816d9a94cc67248266529be8c59ae95/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-moana-204475892"
   },
   {
@@ -6541,15 +6582,18 @@ const sampleProperties = [
     nearestMajorCity: "Adelaide",
     majorCityMinutes: 50,
     price: null,
-    landSize: 253,
+    landSize: null,
     beachfront: true,
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Esplanade beachfront", "Ocean views", "Luxury apartment", "Fleurieu"],
     status: "active",
     notes: "Sand On Sellick's residence overlooking Sellicks Beach, with sea-view balconies and shops below. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/150407832/1",
-    listingUrl: "https://www.realestate.com.au/property-apartment-sa-sellicks%2Bbeach-150407832"
+    image: "https://i2.au.reastatic.net/800x600/803228d889e22a379f2c3bf3711d9a92811e964c3d4a234e5b6b97f7795c11dc/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-apartment-sa-sellicks%2Bbeach-150407832",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "24.4%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Sellicks Beach unit median values up 197.65% over five years, which annualises to about 24.4%."
   },
   {
     id: "sa-sellicks-9-esplanade",
@@ -6566,8 +6610,11 @@ const sampleProperties = [
     factors: ["Esplanade position", "Sea views", "Large block", "Holiday rental"],
     status: "active",
     notes: "Quiet Sellicks Beach Esplanade holding with southwest sea and coastline views. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/149951972/1",
-    listingUrl: "https://www.realestate.com.au/property-house-sa-sellicks%2Bbeach-149951972"
+    image: "https://i2.au.reastatic.net/800x600/983c750467791934e96cb564b6607e8a3693a7f2ae03d7d03dd40298fb9b7844/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-sa-sellicks%2Bbeach-149951972",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "15.1%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Sellicks Beach house median values up 102.13% over five years, which annualises to about 15.1%."
   },
   {
     id: "sa-sellicks-5-87-88-esplanade",
@@ -6603,8 +6650,11 @@ const sampleProperties = [
     factors: ["Absolute beachfront", "Direct beach access", "Ocean views", "Holiday rental"],
     status: "active",
     notes: "Absolute beachfront Esplanade home with uninterrupted ocean views and direct access to Sellicks Beach.",
-    image: "https://www.realestate.com.au/property-image/150764576/1",
-    listingUrl: "https://www.realestate.com.au/property-house-sa-sellicks%2Bbeach-150764576"
+    image: "https://i2.au.reastatic.net/800x600/63e7b80571960fda2ae0992cf8e420361c1a795810fa9b17aafdc40a2de4a993/image.png",
+    listingUrl: "https://www.realestate.com.au/property-house-sa-sellicks%2Bbeach-150764576",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "15.1%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Sellicks Beach house median values up 102.13% over five years, which annualises to about 15.1%."
   },
   {
     id: "sa-sellicks-33-seascape-view",
@@ -6621,7 +6671,7 @@ const sampleProperties = [
     factors: ["Beach walkway opposite", "Coastal outlook", "Corner block", "Vacant land"],
     status: "active",
     notes: "Elevated Sellicks Beach land with coastal outlook and a public walkway across the road leading directly to the shoreline. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/204373080/1",
+    image: "https://i2.au.reastatic.net/800x600/5fad45e56ac22aa171a350d44630a580b26d0eb050bfe9cf69b596a1c2affb98/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-sellicks%2Bbeach-204373080"
   },
   {
@@ -6659,7 +6709,7 @@ const sampleProperties = [
     factors: ["Esplanade frontage", "Panoramic ocean views", "Pool", "Major city"],
     status: "active",
     notes: "Elevated Christies Beach Esplanade residence with unobstructed 180-degree ocean views, beach access nearby, and best-offer campaign closing 18 May 2026.",
-    image: "https://www.realestate.com.au/property-image/151058808/1",
+    image: "https://i2.au.reastatic.net/800x600/ffe1f54c362a64b8e2c3af579037b3f60b6f60a9df4e40d22d54b5c12e6349c4/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-christies%2Bbeach-151058808"
   },
   {
@@ -6677,7 +6727,7 @@ const sampleProperties = [
     factors: ["Esplanade frontage", "Vacant land", "Subdivision potential", "Ocean views"],
     status: "active",
     notes: "Prime Esplanade residential land directly opposite the shoreline with 18.29m frontage and scope for a custom coastal residence or subdivision STCC.",
-    image: "https://www.realestate.com.au/property-image/204389904/1",
+    image: "https://i2.au.reastatic.net/800x600/d56ed014591148c4bcc11350fe70ddbb6b5d4c046ec9b7af942944ba583e3599/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-christies%2Bbeach-204389904"
   },
   {
@@ -6688,14 +6738,14 @@ const sampleProperties = [
     nearestMajorCity: "Adelaide",
     majorCityMinutes: 35,
     price: null,
-    landSize: 58,
+    landSize: null,
     beachfront: true,
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Esplanade position", "Sea views", "Metres to sand", "Lower entry price"],
     status: "active",
     notes: "Updated one-bedroom Esplanade unit with sea views from the living area and sand/coastal path access metres from the front door. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/149661732/1",
+    image: "https://i2.au.reastatic.net/800x600/f76f6618cd613012197cb3d658d984b9db089137a6c77d8e432922f26674dce6/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-unit-sa-christies%2Bbeach-149661732"
   },
   {
@@ -6842,7 +6892,7 @@ const sampleProperties = [
     factors: ["Esplanade beachfront", "Ocean views", "Rooftop terrace", "Major city"],
     status: "active",
     notes: "Architectural Port Noarlunga South Esplanade home with beachfront positioning, panoramic coastal views and rooftop terrace. Expressions of interest listing.",
-    image: "https://www.realestate.com.au/property-image/149219920/1",
+    image: "https://i2.au.reastatic.net/800x600/7502046fb02be02c84101f818a0e3a043d9794a22d4fc10ab7d620c365180d0d/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-port%2Bnoarlunga%2Bsouth-149219920"
   },
   {
@@ -6878,8 +6928,8 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Direct coastal frontage", "Esplanade position", "Beach doorstep", "House and land package"],
-    status: "active",
-    notes: "Detached house and land package on Port Noarlunga South Esplanade advertised with direct coastal frontage, ocean-on-your-doorstep positioning and one dwelling still available. Price advertised as contact agent.",
+    status: "unavailable",
+    notes: "Detached house and land package on Port Noarlunga South Esplanade previously advertised with direct coastal frontage, ocean-on-your-doorstep positioning and one dwelling still available. Hidden because the exact realestate.com.au listing URL no longer opens.",
     image: "https://www.realestate.com.au/property-image/147770356/1",
     listingUrl: "https://www.realestate.com.au/property-house-sa-port%2Bnoarlunga%2Bsouth-147770356"
   },
@@ -6890,15 +6940,15 @@ const sampleProperties = [
     state: "SA",
     nearestMajorCity: "Adelaide",
     majorCityMinutes: 55,
-    price: 900000,
+    price: null,
     landSize: 800,
     beachfront: true,
     noRoadFrontage: false,
     directBeachAccess: false,
     factors: ["Beachfront land", "Cul-de-sac", "Ocean views", "Cliff views"],
     status: "active",
-    notes: "Oceanfront Sellicks Beach land at the quieter end of the Esplanade with rugged cliff and sea views. Price advertised as offers from.",
-    image: "https://www.realestate.com.au/property-image/204123864/1",
+    notes: "Oceanfront Sellicks Beach land at the quieter end of the Esplanade with rugged cliff and sea views. Price is advertised as price by negotiation on the exact listing.",
+    image: "https://i2.au.reastatic.net/800x600/dd5c1d110b86864f7f59cd7fac974bd06ea75cebd2c0ae1a04b404387cb96124/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-sellicks%2Bbeach-204123864"
   },
   {
@@ -6916,8 +6966,35 @@ const sampleProperties = [
     factors: ["No road", "Absolute beachfront", "North Bay", "Holiday home"],
     status: "active",
     notes: "Absolute beachfront North Bay Carrickalinga beach house just steps from the sand, with direct bay views. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/150025628/1",
-    listingUrl: "https://www.realestate.com.au/property-house-sa-carrickalinga-150025628"
+    image: "https://i2.au.reastatic.net/800x600/4c5c1ecbc07f018ca76499ad931ccff4e5a016ace45b40037d7eb3c047737d24/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-sa-carrickalinga-150025628",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "24.2%",
+    investmentFiveYearGrowth: "196%",
+    investmentReason: "PropTrack/realestate.com.au currently reports 83.3% annual compound house growth for Carrickalinga, and AdelaideNow reported nearly 196% five-year house-price growth, annualising to about 24.2%."
+  },
+  {
+    id: "sa-carrickalinga-91-gold-coast",
+    title: "91 Gold Coast Drive",
+    suburb: "Carrickalinga",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 70,
+    daysOnMarket: 25,
+    price: null,
+    landSize: 771,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Front-row North Bay", "Absolute North Bay frontage", "Gold Coast Drive beach access", "Architect-designed"],
+    status: "active",
+    notes: "Active Homely listing advertised as a front-row North Bay home with sweeping Carrickalinga views, driveway-to-sand access across Gold Coast Drive, absolute North Bay frontage, 771sqm land and 70-minute Adelaide CBD access. Price is advertised as contact agent. Five-year growth evidence checked: PropTrack/realestate.com.au reports strong current Carrickalinga house growth and AdelaideNow reported nearly 196% house-price growth over five years.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12611494-1.jpg?named-transform=webDefaultTransform&version=F0M_oXR0kjyMFfftGKa.E_6OykCmfdQt",
+    listingUrl: "https://www.homely.com.au/homes/91-gold-coast-drive-carrickalinga-sa-5204/12611494",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "24.2%",
+    investmentFiveYearGrowth: "196%",
+    investmentReason: "PropTrack/realestate.com.au currently reports 83.3% annual compound house growth for Carrickalinga, and AdelaideNow reported nearly 196% five-year house-price growth, annualising to about 24.2%."
   },
   {
     id: "sa-normanville-60-107-williss",
@@ -6935,7 +7012,7 @@ const sampleProperties = [
     factors: ["Gated beachfront community", "Direct boardwalk", "Lake views", "Resort facilities"],
     status: "active",
     notes: "South Shores villa in a gated beachfront community with resort facilities and direct boardwalk access to Normanville beach. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/150777920/1",
+    image: "https://i2.au.reastatic.net/800x600/63643e679f40c72646b4f5214635c27585e945d47323762418e57c9458779fc9/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-villa-sa-normanville-150777920"
   },
   {
@@ -6953,7 +7030,7 @@ const sampleProperties = [
     factors: ["300m to beach", "Holiday rental", "Large block", "Fleurieu"],
     status: "active",
     notes: "Updated Second Valley holiday home on an 831sqm allotment, around 300m to the foreshore and beach. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/150394384/1",
+    image: "https://i2.au.reastatic.net/800x600/462f7a0fbc778bd81a987627eee8f4bbd52ad8a76167c06498e0dc144dfe307e/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-second%2Bvalley-150394384"
   },
   {
@@ -6971,7 +7048,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Vacant land", "Minutes to beach", "Fleurieu"],
     status: "active",
     notes: "Elevated Second Valley land with panoramic ocean and coastal views, minutes to the beach and jetty.",
-    image: "https://www.realestate.com.au/property-image/204105352/1",
+    image: "https://i2.au.reastatic.net/800x600/7bd4f0499d3ba37609451195dad0d1d70356daccd4deca99f9d03f9ab1b37d19/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-second%2Bvalley-204105352"
   },
   {
@@ -6990,7 +7067,7 @@ const sampleProperties = [
     factors: ["Moments to beach", "Outdoor shower", "Village walk", "Holiday rental"],
     status: "active",
     notes: "Architect-designed beachside Normanville home moments from the beachfront and village. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/150745532/1",
+    image: "https://i2.au.reastatic.net/800x600/c61f73f7d9d6cde66a176bc3c1d74250f2e16a31f238d499090d3a1bb8d2b4a8/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-normanville-150745532"
   },
   {
@@ -7008,7 +7085,7 @@ const sampleProperties = [
     factors: ["Direct beachfront", "No road", "Large acreage", "Ocean views"],
     status: "active",
     notes: "Direct beachfront Cape Jervis acreage with uninterrupted Gulf views and natural scrubland. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/149781600/1",
+    image: "https://i2.au.reastatic.net/800x600/97c8ff0588fed0b095ecc019a60323e548de286e19b3c01ad79c1e33a2dfadd5/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-cape%2Bjervis-149781600"
   },
   {
@@ -7026,7 +7103,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Kangaroo Island views", "Coastal lifestyle", "Lower entry price"],
     status: "active",
     notes: "Cape Jervis home with farmland, ocean and Kangaroo Island views. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/148842648/1",
+    image: "https://i2.au.reastatic.net/800x600/2966fa2b35a1c02ca688b79369e99d35de7542ffa8ac2c78b0c48197d8871386/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-148842648"
   },
   {
@@ -7044,7 +7121,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Kangaroo Island views", "Acreage", "Privacy"],
     status: "active",
     notes: "Elevated 2.05ha Cape Jervis property with broad ocean, Backstairs Passage and Kangaroo Island views. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/149826972/1",
+    image: "https://i2.au.reastatic.net/800x600/c11a3fead434e312d8d501d3cf378e699ed809269efe39cc4ad072a33ab747d3/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-149826972"
   },
   {
@@ -7062,7 +7139,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Kangaroo Island views", "Walk to beach", "Furnished"],
     status: "active",
     notes: "High-side Cape Jervis beach home with panoramic Backstairs Passage views and proximity to Morgan's Beach.",
-    image: "https://www.realestate.com.au/property-image/149612936/1",
+    image: "https://i2.au.reastatic.net/800x600/3c472f86e06a62be8f43749832cf59e396347ca53e39c2cd2e07d517ea1d5bf1/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-149612936"
   },
   {
@@ -7080,7 +7157,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Vacant land", "Walk to beach", "Lower entry price"],
     status: "active",
     notes: "Elevated Cape Jervis allotment with ocean and island views, close to the ferry, boat ramp and Morgan's Beach.",
-    image: "https://www.realestate.com.au/property-image/204290968/1",
+    image: "https://i2.au.reastatic.net/800x600/a07b64dea2d4f73f5e443851bae9c745cc912dd25f60b528be64b0e852ffd198/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-cape%2Bjervis-204290968"
   },
   {
@@ -7098,7 +7175,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Dual living", "Large sheds", "Holiday rental potential"],
     status: "active",
     notes: "Cape Jervis home with uninterrupted ocean and Kangaroo Island views, dual-living flexibility and large sheds. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/148672748/1",
+    image: "https://i2.au.reastatic.net/800x600/020233b437ed873dc7fbc9ac5af9a4d2764cd6c2d7b39d3422e4e8e8beb83a1c/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-148672748"
   },
   {
@@ -7116,7 +7193,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Walk to beach", "Holiday rental", "Fleurieu"],
     status: "active",
     notes: "Second Valley holiday home with sweeping ocean views from a large deck and a short stroll to the beach. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/149517904/1",
+    image: "https://i2.au.reastatic.net/800x600/3fbc5da02f2af7f11faa66cead3f04808508b9e397ab863a8cbf7fccc376c3b8/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-second%2Bvalley-149517904"
   },
   {
@@ -7153,7 +7230,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Vacant land", "Near Esplanade", "Lower entry price"],
     status: "active",
     notes: "Cape Jervis allotment around 50 metres from Fleurieu Avenue/Esplanade with views across the reserve toward the coastline and Kangaroo Island.",
-    image: "https://www.realestate.com.au/property-image/204495900/1",
+    image: "https://i2.au.reastatic.net/800x600/3ba12604b0a3f2c8eae7ed253cb0e885fd633f69ee12b40ea85b0a0c149a802a/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-cape%2Bjervis-204495900"
   },
   {
@@ -7172,7 +7249,7 @@ const sampleProperties = [
     factors: ["Ocean views", "Acreage", "Coastal cliffs", "Large sheds"],
     status: "active",
     notes: "Cape Jervis lifestyle acreage with ocean, rugged coastal cliff and rolling hill views. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/150119520/1",
+    image: "https://i2.au.reastatic.net/800x600/7f94b82fd542cd221e9cb9a81aa439ed3511ed24ff947016960425ccbe36cf0a/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-150119520"
   },
   {
@@ -8037,7 +8114,7 @@ const sampleProperties = [
     factors: ["Absolute waterfront", "Ocean frontage", "Direct boardwalk access", "Vacant land"],
     status: "active",
     notes: "Vacant Marino waterfront allotment advertised with approximately 25.49m ocean frontage, no future build in front and direct access to the Coastal Boardwalk. Price advertised as contact agent.",
-    image: "https://www.realestate.com.au/property-image/204312556/1",
+    image: "https://i2.au.reastatic.net/800x600/f6de1e8a91e63ef374a9e9257d7b0c148f669eaf67cb80e8a602494e9f0bb0ed/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-marino-204312556"
   },
   {
@@ -8056,7 +8133,7 @@ const sampleProperties = [
     factors: ["Beach-reserve backing", "Direct beach access", "Ocean views", "Large block"],
     status: "active",
     notes: "Large Marino holding backing directly onto Bandon Terrace Reserve, advertised with discreet beach access steps away and 180-degree ocean views. Price advertised as best offer over $2m.",
-    image: "https://www.realestate.com.au/property-image/139610639/1",
+    image: "https://i2.au.reastatic.net/800x600/f13e045755acc51c733433daabf58a446d991d7242aa018d0d6676d41fa08ba5/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-marino-139610639"
   },
   {
@@ -8173,7 +8250,7 @@ const sampleProperties = [
     factors: ["Beach reserve frontage", "No road", "Direct dune paths", "Panoramic sea views"],
     status: "active",
     notes: "Rare 4.28ha Maslin Beach acreage advertised as one of only seven large properties bordering Maslin Beach, with the property bordering a nature reserve and paths connecting to the dunes, shoreline and clifftop walks. Price advertised as $2.8M.",
-    image: "https://www.realestate.com.au/property-image/149193244/1",
+    image: "https://i2.au.reastatic.net/800x600/da5312bdce31c0645a042f731207ca5c737c06f96b30a5303f1ab039f5a0db65/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-house-sa-maslin%2Bbeach-149193244"
   },
   {
@@ -8192,7 +8269,7 @@ const sampleProperties = [
     factors: ["Gated beachfront community", "Direct boardwalk access", "Resort facilities", "Holiday rental appeal"],
     status: "active",
     notes: "South Shores villa in a gated beachfront community advertised with two pools, BBQ areas, playground and direct boardwalk access to Normanville beach. Price is the midpoint of the advertised range.",
-    image: "https://www.realestate.com.au/property-image/151020936/1",
+    image: "https://i2.au.reastatic.net/800x600/cdfc49252a51a65582e10fee7037cb73aaf8d7f8d73c5c64c05c66deabe8d11a/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-villa-sa-normanville-151020936"
   },
   {
@@ -8209,9 +8286,9 @@ const sampleProperties = [
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["Beach access right of way", "No-road dune track", "Tourist accommodation zoning", "Large coastal holding"],
-    status: "active",
-    notes: "Large tourist-accommodation-zoned Williss Drive allotment advertised with beach access via a right of way through the sand dunes and short walking access to Normanville beach. Price advertised as offers over $900,000.",
-    image: "https://www.realestate.com.au/property-image/203533216/1",
+    status: "under_offer",
+    notes: "Large tourist-accommodation-zoned Williss Drive allotment advertised with beach access via a right of way through the sand dunes and short walking access to Normanville beach. Realestate.com.au now shows the exact listing as under offer, so it is hidden from the active app view.",
+    image: "https://i2.au.reastatic.net/800x600/ed013a2744111c357bbf825d9cebee97444cd8a27d61ee80cbc21d7325976ce3/image.jpg",
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-sa-normanville-203533216"
   },
   {
@@ -13814,6 +13891,186 @@ const sampleProperties = [
     listingCategory: "large"
   },
   {
+    id: "qld-witta-lot-2-maleny-kenilworth",
+    title: "LOT 2 Maleny Kenilworth Road",
+    suburb: "Witta",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    price: null,
+    landSize: 321600,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Maleny hinterland acreage", "Elevated build sites", "Creek and rockpools", "Grazing and hobby-farm potential"],
+    status: "active",
+    notes: "Active realestate.com.au residential land listing advertised as an 80-acre / 32.16ha vacant parcel on Maleny Kenilworth Road with multiple elevated house sites, rural views, rockpool-lined creek, sealed road frontage, partial fencing and grazing or crop potential. Price guide advertised as buyers in the mid-high $1m range. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/62cec9cca2ad7718787ad7a7a5123c665abfa47cd8a6e9f68c253df2b5e0c74b/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-witta-204261208",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-182-boyle",
+    title: "182 Boyle Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 110,
+    price: 1850000,
+    landSize: 200000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland acreage", "Dual dwelling setup", "Dam and bore water", "Eco-retreat or hobby-farm upside"],
+    status: "active",
+    notes: "Active realestate.com.au Belli Park house listing advertised as a 20ha country lifestyle holding with a renovated Queenslander, separate three-bedroom dwelling, self-contained studio, dam, bore water, multiple sheds, pool and potential for hobby farming or an eco retreat STCA. Price advertised at $1,850,000. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/e9ee4c58324b3f703cc180d14f5468ae9d2022029b47d245b3ce40f9b3dc9eefd33/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-belli%2Bpark-148064044",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-1171-eumundi-kenilworth",
+    title: "1171 Eumundi - Kenilworth Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    price: 3100000,
+    landSize: 404700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland business", "Established bamboo farm", "Nursery and tourism appeal", "Large rural lifestyle holding"],
+    status: "active",
+    notes: "Active Domain acreage listing advertised as Belli Bamboo Parkland, a 40.47ha business, residential and rural package on Eumundi-Kenilworth Road with an established bamboo farm and nursery, lifestyle accommodation and parkland appeal. Price advertised as offers over $3.1 million. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/tUbLqhSSWw57p3odrl9rnDy98j0%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2019767039_1_1_250203_010304-w1799-h1200",
+    listingUrl: "https://www.domain.com.au/1171-eumundi-kenilworth-road-belli-park-qld-4562-2019767039",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-eerwah-vale-165-larneys",
+    title: "165 Larneys Lane",
+    suburb: "Eerwah Vale",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    price: null,
+    landSize: 684700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland scale", "Two-title rural retreat", "Large dam and water security", "Eumundi and Noosa access"],
+    status: "active",
+    notes: "Active Domain vacant-land listing advertised as a 68.47ha / 170-acre Noosa Hinterland sanctuary on two titles, with 25-acre and 145-acre components, sweeping valley views, a 2ha dam, fencing and proximity to Eumundi and Noosa district schools. Price advertised as contact agent. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/MfhOupspDpnvkiBexgw0VuHq4zs%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020444784_1_1_251123_103339-w2000-h1124",
+    listingUrl: "https://www.domain.com.au/165-larneys-lane-eerwah-vale-qld-4562-2020444784",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-cootharaba-jabiru-bushcamp",
+    title: "Jabiru Bushcamp",
+    suburb: "Cootharaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 115,
+    price: 5900000,
+    landSize: 1000000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland tourism business", "100ha cattle and horse property", "Creek and dams", "Lake Cootharaba proximity"],
+    status: "active",
+    notes: "Active Domain vacant-land listing for Jabiru Bushcamp, advertised as a 100ha / 247-acre Cootharaba holding about 25 minutes from Noosa Heads and 5km from Lake Cootharaba, with established tourist bush camp facilities, cattle and horse country, a four-bedroom dwelling, creek and dams. Price advertised at $5,900,000 - $6,490,000. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/H8cgFye7t7kp8Ggbt3RzGRPVVgQ%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020324978_1_1_251020_060205-w2000-h1500",
+    listingUrl: "https://www.domain.com.au/cootharaba-qld-4565-2020324978",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-yandina-4-91-yandina-bli-bli",
+    title: "4/91 Yandina Bli Bli Road",
+    suburb: "Yandina",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    price: 4200000,
+    landSize: 242293,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Maroochy River frontage", "Sunshine Coast farm land", "Yandina town access", "Rural lifestyle and land banking"],
+    status: "active",
+    notes: "Active Domain vacant-land listing advertised as Lot 4 on RP848367, a 24.2293ha / 59.87-acre Yandina farm with about 500m of Maroochy River frontage, elevated riverbank country and rural lifestyle appeal close to Yandina. Price advertised at $4,200,000. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/UG4MQUUrAWm8SWgdhucDywAI5Z4%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020677698_1_1_260416_042121-w1161-h768",
+    listingUrl: "https://www.domain.com.au/4-91-yandina-bli-bli-road-yandina-qld-4561-2020677698",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-maroochy-river-136-river",
+    title: "136 River Road",
+    suburb: "Maroochy River",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    price: 1650000,
+    landSize: 646200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Sunshine Coast rural holding", "Flat fertile farmland", "Long-held family land", "Yandina and Nambour access"],
+    status: "active",
+    notes: "Active Domain vacant-land listing advertised as a 64.62ha / 80-acre flat fertile farmland holding in Maroochy River, held by the same family for more than 60 years and positioned near Yandina, Nambour and Sunshine Coast connections. Price advertised at $1.65m+. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/NIYQU1LkfSw1xYtcXi9ulmjQFyQ%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020741491_1_1_260421_122841-w2400-h1800",
+    listingUrl: "https://www.domain.com.au/136-river-road-maroochy-river-qld-4561-2020741491",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-belli-park-lot-4-newspaper-hill",
+    title: "Lot 4 Newspaper Hill Road",
+    suburb: "Belli Park",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 115,
+    price: null,
+    landSize: 599500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland land", "Elevated house site", "Fully fenced fertile country", "Rural lifestyle scale"],
+    status: "active",
+    notes: "Active Domain vacant-land listing advertised as a 59.95ha / 148.14-acre Noosa Hinterland landholding in Belli Park, with scale, privacy, a beautiful elevated house site, sweeping rural views, full fencing, fertile country and natural features. Price advertised as tenders invited. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/2qzgy5qFx6siR5kljxMdqvoKMtE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020580015_1_1_260220_010504-w1200-h801",
+    listingUrl: "https://www.domain.com.au/lot-4-newspaper-hill-road-belli-park-qld-4562-2020580015",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-cootharaba-two-trees",
+    title: "Two Trees - 359ac - 3 Lots",
+    suburb: "Cootharaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    price: null,
+    landSize: 1452821.45,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Noosa hinterland scale", "Three-title estate", "Mountain and ocean views", "Secluded tourism or retreat upside"],
+    status: "active",
+    notes: "Active Domain vacant-land listing for Two Trees, advertised as a 1,452,821.45sqm / 359-acre Cootharaba estate over three titles, about 30 minutes from Noosa's coastline, with mountain and ocean views, scale, seclusion and nature-retreat appeal. Price advertised as request agent price guide. Five-year regional growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    image: "https://rimh2.domainstatic.com.au/v7e9e3aQx53x5MoERsv7XNxzp_c%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020146486_1_1_250707_055433-w2000-h1125",
+    listingUrl: "https://www.domain.com.au/cootharaba-qld-4565-2020146486",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
     id: "qld-bokarina-245-oceanic",
     title: "245 Oceanic Drive",
     suburb: "Bokarina",
@@ -18600,6 +18857,48 @@ const sampleProperties = [
     listingCategory: "large"
   },
   {
+    id: "qld-illinbah-248-illinbah",
+    title: "248 Illinbah Road",
+    suburb: "Illinbah",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 55,
+    listedDate: "2025-12-29",
+    price: null,
+    landSize: 506700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["50.67ha Illinbah Valley holding", "Canungra and Nerang access", "Grazing or horse potential", "Lamington foothills setting"],
+    status: "active",
+    notes: "Active realestate.com.au acreage listing advertised as a 50.67ha Illinbah Valley holding 10-15 minutes from Canungra, 35-40 minutes from Nerang and the M1, and under an hour from Gold Coast beaches, with mixed fertile flats, undulating and elevated country, a three-bedroom homestead, sheds, water infrastructure and grazing or horse potential. Price advertised as contact agent. Five-year regional/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/e189f6fbd4a8e0c1cab83037e55008dbfb1e4d68a2c13f18ed51015fd88aac49/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-illinbah-149924876",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-illinbah-590-illinbah",
+    title: "590 Illinbah Road",
+    suburb: "Illinbah",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 35,
+    listedDate: "2026-02-18",
+    price: 2250000,
+    landSize: 259900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["25.99ha private valley holding", "35 minutes to Gold Coast and M1", "Dual-living or Airbnb cottage", "Dams, spring and creek access"],
+    status: "active",
+    notes: "Active realestate.com.au and Homely listing advertised as a 25.99ha private Illinbah valley holding about 35 minutes from the Gold Coast and M1, with a refreshed farmhouse, separate one-bedroom cottage for guests or potential Airbnb income, dairy sheds, fenced paddocks, dams, natural spring, creek access, cattle infrastructure and optional walk-in/walk-out equipment. Homely advertises the price at $2,250,000. Five-year regional/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/16efca9ee63db6877fb29fcf52eb382fb72933429ece64f9add9d3fc02a185df/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-illinbah-150343900",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
     id: "qld-boyland-676-mundoolun-connection",
     title: "676 Mundoolun Connection Road",
     suburb: "Boyland",
@@ -19214,10 +19513,704 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-viticulture-sa-clare-700165242",
     investmentStar: false,
     listingCategory: "large"
+  },
+  {
+    id: "sa-osullivan-beach-6-baden",
+    title: "6 Baden Terrace",
+    suburb: "O'Sullivan Beach",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 35,
+    listedDate: "2026-04-13",
+    price: 974000,
+    landSize: 756,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Baden Terrace coastal outlook", "Spectacular ocean views", "Moments from shore", "Sea breezes"],
+    status: "active",
+    notes: "Active realestate.com.au listing advertised with spectacular ocean views from the master suite and main living areas, coastal outlook, sea breezes and a setting just moments from the shore. Price is the midpoint of the advertised $949k - $999k guide. OnTheHouse/Cotality and Your Investment Property/CoreLogic growth evidence was checked for the suburb.",
+    image: "https://i2.au.reastatic.net/800x600/70ad675ec89dcb1597f2d840b27719ae70e27bdfbc02570a4f5835a5267c57ee/main.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-sa-o%27sullivan%2Bbeach-150862228",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "18.9%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports O'Sullivan Beach house median values up 137.95% over five years, annualising to about 18.9%; Your Investment Property/CoreLogic also reports 19.40% average annual house growth."
+  },
+  {
+    id: "nsw-barkers-vale-343-williams",
+    title: "343 Williams Road",
+    suburb: "Barkers Vale",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 100,
+    price: 2650000,
+    landSize: 1737000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["430 acre productive holding", "Two approved homes", "Creek and dam water", "Eco-tourism and grazing upside"],
+    status: "active",
+    notes: "Active realestate.com.au Barkers Vale acreage listing advertised as 173.7ha / 430 acres with two approved homes, Burgoo and Leycester Creek water, nine dams, trails, productive rural land and eco-tourism, crops or livestock potential. Price advertised at $2,650,000. Five-year local growth evidence was checked; available Barkers Vale data did not support a greater than 15% annual growth flag.",
+    image: "https://i2.au.reastatic.net/800x600/316571e2affbe852f361457db150fe1c0bebf1736d2255d589a02e4b08112273/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-barkers%2Bvale-150424320",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-clunes-79-johnston",
+    title: "79 Johnston Road",
+    suburb: "Clunes",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 95,
+    price: null,
+    landSize: 859700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Byron hinterland scale", "Eco-tourism STCA", "Subdivision potential STCA", "Carbon-credit income"],
+    status: "active",
+    notes: "Active realestate.com.au Clunes acreage listing advertised as Eltham Springs, an 85.97ha / 212-acre rural holding minutes to Bangalow and Byron Bay with stud cattle use, permanent waterways, springs, a large dam, carbon-credit venture, eco-tourism lodge plans STCA and possible subdivision or rural residential options STCA. Price advertised as by negotiation. Five-year Clunes and comparable street growth evidence was checked; available data was below the >15% annual threshold.",
+    image: "https://i2.au.reastatic.net/800x600/466fae02c2fb4d0d6c8a9644776e8c91ae4a335d3223736d07845552b831d6a3/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-clunes-147395964",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-tucki-tucki-1368-wyrallah",
+    title: "1368 Wyrallah Road",
+    suburb: "Tucki Tucki",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 110,
+    price: 2300000,
+    landSize: 624300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Income-producing cattle farm", "Airbnb guest-house income", "Close to Lismore and beaches", "Strong water and yards"],
+    status: "active",
+    notes: "Active realestate.com.au Tucki Tucki acreage listing advertised as a 62.43ha / 154-acre income-producing cattle farm with renovated homestead, self-contained guest house, Airbnb potential, agistment income, nine paddocks, water security, steel cattle yards and access to Lismore, Ballina, Evans Head and Ballina/Byron airport. Price advertised at $2,300,000. Five-year Tucki Tucki growth evidence was checked; available data was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/febb889c8f058252f7f32504af30421bdac907ecfa75f59ba57e00682d204686/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-tucki%2Btucki-148402912",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-tyalgum-creek-365-tyalgum-creek",
+    title: "365 Tyalgum Creek Road",
+    suburb: "Tyalgum Creek",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 75,
+    price: 2695000,
+    landSize: 482100,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["119 acre cattle property", "Two creek frontages", "Gold Coast airport access", "Tweed Coast beach access"],
+    status: "active",
+    notes: "Active realestate.com.au Tyalgum Creek acreage listing advertised as a 48.21ha / 119-acre cattle property with caldera views, large equipment shed, two creek frontages, proximity to Tyalgum Village and about an hour to Tweed Coast beaches and Gold Coast Airport. Price advertised at $2,695,000. Five-year Tyalgum Creek and Tyalgum market evidence was checked; available evidence did not support a greater than 15% annual five-year growth flag.",
+    image: "https://i2.au.reastatic.net/800x600/2e0fb0c27488e8fc81f8828226bf6d587f717da0712f91c94cd32057ed66c03d/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-tyalgum%2Bcreek-148776016",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-cumbalum-103-cumbalum",
+    title: "103 Cumbalum Road",
+    suburb: "Cumbalum",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 95,
+    price: null,
+    landSize: 344200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Ballina fringe holding", "Subdivision potential STCA", "Spring and creek water", "M1 and airport access"],
+    status: "active",
+    notes: "Active realestate.com.au Cumbalum acreage listing advertised as a 34.42ha / 85-acre holding with spring and creek water, scope to build, potential future subdivision STCA, capacity for cattle and close access to the M1, Ballina Byron Gateway Airport, surf beaches, shops and schools. Price advertised as contact agent. Five-year Cumbalum growth evidence was checked; available sources were below the >15% annual threshold.",
+    image: "https://i2.au.reastatic.net/800x600/aff45395c054bcb9d6d34f08b7c67d730b977e66b4d0e2cb06219f9f74825ed3/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-cumbalum-148051972",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-kangaroo-creek-427-middle-creek",
+    title: "427 Middle Creek Road",
+    suburb: "Kangaroo Creek",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 210,
+    price: 624000,
+    landSize: 634000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["63.4ha bush retreat", "Middle Creek frontage", "Off-grid solar setup", "Low entry price"],
+    status: "active",
+    notes: "Active realestate.com.au Kangaroo Creek acreage listing advertised as a 63.4ha nature retreat with a two-bedroom shed home, full solar setup, bore water, year-round Middle Creek frontage, dramatic rock bluffs, bushland and cleared usable areas. Price is the midpoint of the advertised $599,000 - $649,000 guide. Five-year Kangaroo Creek growth evidence was checked; available data was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/39c2580d639d610e50cb0db0cf793437859c461600f58099a57b8de4f340fa37/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-kangaroo%2Bcreek-148773260",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-new-italy-1050-swan-bay-new-italy",
+    title: "1050 Swan Bay New Italy Road",
+    suburb: "New Italy",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 135,
+    listedDate: "2026-05-11",
+    price: 700000,
+    landSize: 202300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["20ha entry acreage", "Evans Head beach access", "Build potential STCA", "Highway access"],
+    status: "active",
+    notes: "Active realestate.com.au New Italy acreage listing published 11 May 2026 and advertised as a flood-free 20.23ha rural lifestyle block with cleared land, hobby farming or horse potential, a Besser block studio, machinery shed, stables, build potential STCA, about 23km to Evans Head beaches, 54km to Ballina and 4km to the highway. Price advertised at $700,000. Five-year New Italy growth evidence was checked; available data was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/bcab527a0aca6d6a83c7c50b8db81f998d5984f56051377c4c1f38cc1c157db7/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-new%2Bitaly-151155124",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-brunswick-heads-73-bashforths",
+    title: "73 Bashforths Lane",
+    suburb: "Brunswick Heads",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 55,
+    price: null,
+    landSize: 1029900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Brunswick Heads fringe", "Extensive river frontage", "Two building entitlements", "Ocean and mountain views"],
+    status: "active",
+    notes: "Active realestate.com.au Brunswick Heads acreage listing advertised as a 102.99ha / 254.5-acre estate across five land holdings with RU2, C2 and C3 zoning, two building entitlements, ocean and mountain views, long Brunswick River frontage, grazing use, sheds, 3km access to Brunswick Heads, M1 access, under 20 minutes to Byron Bay and about 40 minutes to Coolangatta Airport. Price advertised as EOI guide on request. Five-year Brunswick Heads growth evidence was checked; available house evidence did not exceed 15% annualised growth.",
+    image: "https://i2.au.reastatic.net/800x600/904a407ae433a08564e6021aa9c1c85ccfe934d2804c6e286f00c4b12b1a76de/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-brunswick%2Bheads-149067092",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-dungarubba-354-broadwater",
+    title: "354 Broadwater Road",
+    suburb: "Dungarubba",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 105,
+    price: null,
+    landSize: 1260000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["126ha cane farm", "Multiple income streams", "Ballina and Byron access", "M1 and airport access"],
+    status: "active",
+    notes: "Active realestate.com.au Dungarubba acreage listing advertised as a 126ha / 311-acre rural holding with income from a concrete business lease and sugar cane lease, a four-bedroom homestead, major sheds, cane fields, privacy, M1 access and proximity to Ballina, Byron Bay beaches and Ballina/Byron Gateway Airport. Price advertised as expressions of interest/contact agent. Five-year Dungarubba growth evidence was checked; available market data was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/8f01348b74ccfdbdb2474cc0798e10f6e68d94cb67b916c4f248925d10427680/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-dungarubba-149490460",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-barkers-vale-69-hidden-valley",
+    title: "69 Hidden Valley Road",
+    suburb: "Barkers Vale",
+    state: "NSW",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 100,
+    price: 1670000,
+    landSize: 1289900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["318 acre bush retreat", "Three dams", "Large insulated shed", "Development potential STCA"],
+    status: "active",
+    notes: "Active realestate.com.au Barkers Vale acreage listing advertised as a 128.99ha / 318-acre bush retreat with a two-bedroom hardwood home, three dams, trails, open spaces, mains power, a large 24m x 8m insulated shed with workshop and mezzanine options, and future potential for further development STCA. Price advertised at $1,670,000. Five-year Barkers Vale growth evidence was checked; available data was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/89d4ee2213a7fa2776df636583700608e730b787d0e364ef391a66ca0658f5f8/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-barkers%2Bvale-148182512",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-lambs-valley-1542-maitland-vale",
+    title: "1542 Maitland Vale Road",
+    suburb: "Lambs Valley",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 165,
+    price: 2450000,
+    landSize: 507900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["50.79ha Lambs Valley estate", "Maitland access", "Large residence and shedding", "Regional centre proximity"],
+    status: "active",
+    notes: "Active Domain Lambs Valley acreage listing advertised as a 50.79ha estate with a large four-bedroom residence, extensive parking, privacy and proximity to Maitland/Hunter Valley services. Price is the midpoint of the advertised $2,400,000 - $2,500,000 guide. Five-year Lambs Valley and lower-Hunter growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/Wjhf36atM4kcnZwbKxnCtPCieMY=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020085587_0_1_260504_041422-w2000-h1125",
+    listingUrl: "https://www.domain.com.au/1542-maitland-vale-road-lambs-valley-nsw-2335-2020085587",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-dungog-1301-chichester-dam",
+    title: "1301 Chichester Dam Road",
+    suburb: "Dungog",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 180,
+    price: 2200000,
+    landSize: 540000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["54ha riverfront holding", "Williams River frontage", "Alluvial soils", "Rural infrastructure"],
+    status: "active",
+    notes: "Active Domain Dungog acreage listing for 1301 Chichester Dam Road, Bandon Grove via Dungog, advertised as a 54ha Williams River-front lifestyle holding with rich alluvial soils, quality rural infrastructure and a three-bedroom residence. Price guide is $2,200,000. Five-year Dungog/Bandon Grove growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/w0I6JIMBg8CEnoMgdrutOgxBOoU=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2019962409_0_1_260505_120652-w1174-h660",
+    listingUrl: "https://www.domain.com.au/1301-chichester-dam-road-bandon-grove-via-dungog-nsw-2420-2019962409",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-lambs-valley-89-blue-bonnet",
+    title: "89 Blue Bonnet Road",
+    suburb: "Lambs Valley",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 165,
+    listedDate: "2026-04-23",
+    price: 2300000,
+    landSize: 435800,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["43.58ha private acreage", "Mountain views", "Maitland/Newcastle access", "Lifestyle and grazing scale"],
+    status: "active",
+    notes: "Active Domain Lambs Valley acreage listing first listed 23 Apr 2026 and advertised as a 43.58ha / 107.7-acre private property with sweeping mountain views, a four-bedroom home, privacy and access about 30 minutes to Maitland, one hour to Newcastle and 15 minutes to Vacy. Price is the midpoint of the advertised $2,200,000 - $2,400,000 range. Five-year Lambs Valley and lower-Hunter growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/svl-1quAYbP7bpD5-8JT3oJMfvs=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020784074_0_1_260420_104050-w1200-h800",
+    listingUrl: "https://www.domain.com.au/89-blue-bonnet-road-lambs-valley-nsw-2335-2020784074",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-brookfield-3781-clarence-town",
+    title: "3781 Clarence Town Road",
+    suburb: "Brookfield",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 175,
+    price: 3000000,
+    landSize: 1029100,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["102.91ha grazing holding", "Renovated homestead", "Clarence Town/Dungog access", "Large shedding"],
+    status: "active",
+    notes: "Active Domain Brookfield acreage listing advertised as 'Unwarrabin', a 102.91ha / 254-acre private and productive rural holding within reach of Clarence Town and Dungog, with a renovated homestead, substantial shedding and grazing country. Price is the midpoint of the advertised $2,900,000 - $3,100,000 range. Five-year Brookfield/Dungog growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/0X3rPDv2dndR-MO0haokI9RytR4=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020610554_0_1_260325_082052-w2000-h1125",
+    listingUrl: "https://www.domain.com.au/3781-clarence-town-road-brookfield-nsw-2420-2020610554",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-gresford-2654-glendonbrook",
+    title: "2654 Glendonbrook Road",
+    suburb: "Gresford",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 175,
+    listedDate: "2026-04-08",
+    price: 3400000,
+    landSize: 704200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["70.42ha Lower Hunter holding", "Paterson River frontage", "Horse and livestock potential", "Gresford village access"],
+    status: "active",
+    notes: "Active Domain Gresford acreage listing first listed 8 Apr 2026 and advertised as 'Kardinia', a 70.42ha Lower Hunter rural holding with 400m of Paterson River frontage, privacy, panoramic views and suitability for livestock or horses. Price is the midpoint of the advertised $3.3M - $3.5M range. Five-year Gresford growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/ABWqZl8iU-WwLYktmJkzZorPm20=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020743153_0_1_260408_035949-w2000-h1333",
+    listingUrl: "https://www.domain.com.au/2654-glendonbrook-road-gresford-nsw-2311-2020743153",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-clarence-town-104-ebsworth",
+    title: "104 Ebsworth Road",
+    suburb: "Clarence Town",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 160,
+    listedDate: "2026-04-14",
+    price: null,
+    landSize: 291400,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["29.14ha Clarence Town acreage", "Luxury homestead", "Valley views", "Auction campaign"],
+    status: "active",
+    notes: "Active Domain Clarence Town acreage listing first listed 14 Apr 2026 and advertised as a 29.14ha / 71-acre sanctuary with a five-bedroom homestead, privacy and panoramic valley views. Sale method is auction/contact agent with no usable public price guide. Five-year Clarence Town growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/Jfqcclti68rzVWCR7p2a3T0zu4M=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020757373_0_1_260414_060232-w2000-h1333",
+    listingUrl: "https://www.domain.com.au/104-ebsworth-road-clarence-town-nsw-2321-2020757373",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-gillieston-heights-27-hillcrest",
+    title: "27 Hillcrest Drive",
+    suburb: "Gillieston Heights",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 135,
+    price: 2850000,
+    landSize: 260100,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["26.01ha Maitland-fringe acreage", "Ridge-top residence", "Town-centre proximity", "Hunter growth corridor"],
+    status: "active",
+    notes: "Active Domain Gillieston Heights acreage listing advertised as a 26.01ha ridge-top property with a five-bedroom residence, minutes from Maitland's centre and close to shops, schools and transport. Price is the midpoint of the advertised $2,800,000 - $2,900,000 range. Five-year Gillieston Heights/Maitland growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://rimh2.domainstatic.com.au/ck9LcnKL5gyy3Sw-GOM-GDGw1vI=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020452006_0_1_260219_043405-w2000-h1333",
+    listingUrl: "https://www.domain.com.au/27-hillcrest-drive-gillieston-heights-nsw-2321-2020452006",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-east-gresford-88-turnbulls",
+    title: "88 Turnbulls Road",
+    suburb: "East Gresford",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 150,
+    price: 1850000,
+    landSize: 906500,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["90.65ha grazing country", "Lewinsbrook Creek frontage", "Fattening program income", "RU1 zoning"],
+    status: "active",
+    notes: "Active realestate.com.au East Gresford lifestyle listing advertised as a 90.65ha / 224-acre grazing property with about 750m of Lewinsbrook Creek frontage, spring-fed dams, steel cattle yards, machinery shedding, a current steers fattening program, RU1 Primary Production zoning and about 2.5 hours to Wahroonga. Price is the midpoint of the advertised $1,800,000 - $1,900,000 guide. Five-year East Gresford growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/37529be7721ca8a9173cf73856dce692dd0c531af0c1ed0bbd645b84b7952e21/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-nsw-east%2Bgresford-700383460",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-bolwarra-17-27-flat",
+    title: "17 & 27 Flat Road",
+    suburb: "Bolwarra",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 135,
+    price: 1500000,
+    landSize: 255200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["25.52ha triple-title holding", "103ML river water licence", "Productive lucerne farm", "Maitland fringe"],
+    status: "active",
+    notes: "Active realestate.com.au Bolwarra rural listing advertised as a 25.52ha / 63-acre triple-title productive lucerne farm with 103ML river water licence, pump and irrigation infrastructure, town water to front lots, secure fencing and Maitland access within about five minutes. Price is the midpoint of the advertised $1,450,000 - $1,550,000 range. Five-year Bolwarra/Maitland growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/e5472737a3f27d0a31a5de04c7ca91a680b977d260245a66ec1d1efa8bca09e0/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-other-nsw-bolwarra-700389200",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-wollombi-3324-great-north",
+    title: "3324 Great North Road",
+    suburb: "Wollombi",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 70,
+    price: 1200000,
+    landSize: 356000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["35.6ha Wollombi acreage", "Wollombi Brook frontage", "RU2 tourism upside STCA", "70min Sydney access"],
+    status: "active",
+    notes: "Active realestate.com.au Wollombi lifestyle listing advertised as a 35.6ha / 88-acre holding with pasture and bushland, Wollombi Brook frontage, billabong and dam, cattle yards, multiple home-site options and RU2 Rural Landscape zoning with residential, agricultural and tourist-accommodation uses STCA. Advertised as about 70 minutes to the Wahroonga/Sydney interchange via sealed road. Price guide is $1,200,000. Five-year Wollombi growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/673d95db3f8ab78199ed3866df6b45c5dcf50d76c038e11945c80dc1c32aecf5/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-nsw-wollombi-700340648",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-putty-936a-putty-valley",
+    title: "936A Putty Valley Road",
+    suburb: "Putty",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 145,
+    price: 1300000,
+    landSize: 404700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["40.47ha Putty Valley acreage", "Valley and mountain views", "Multiple dwelling entitlement", "Tourism and lifestyle upside"],
+    status: "active",
+    notes: "Active realestate.com.au Putty acreage listing advertised as a 40.47ha / 100-acre elevated rural holding with valley views, tracks and multiple potential home sites. The listing highlights opportunity for a dwelling entitlement and lifestyle/tourism use STCA in the Sydney fringe Putty corridor. Price guide is $1,300,000. Five-year Putty/Hawkesbury fringe growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/315873b746fd4f5d778153cd77469649c4cbe067acd9a31cc60be0098098569e/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-putty-148992628",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-putty-190-burnt-arm",
+    title: "190 Burnt Arm Road",
+    suburb: "Putty",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 140,
+    price: null,
+    landSize: 202300,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["20.23ha mountain-view holding", "Large homestead", "Self-contained flat", "Sydney and Hunter weekend market"],
+    status: "active",
+    notes: "Active realestate.com.au Putty listing advertised as a 20.23ha / 50-acre mountain-view holding with a spacious homestead, self-contained flat, shedding, dams and established rural lifestyle infrastructure. The listing was shown as Just Listed with price by contact agent. Five-year Putty/Hawkesbury fringe growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/da3d5603203bdc89fee24b8cef7ad3e5b6b75eb6455304f9fe8d645436bf6f2f/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-nsw-putty-149181656",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-putty-936b-putty-valley",
+    title: "936B Putty Valley Road",
+    suburb: "Putty",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 145,
+    price: 1950000,
+    landSize: 822900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["82.29ha rural retreat", "Creek frontage and dam", "Off-grid infrastructure", "Accommodation and tourism upside"],
+    status: "active",
+    notes: "Active realestate.com.au Putty listing advertised as an 82.29ha / 203-acre rural retreat with creek frontage, dam, off-grid power, shedding and multiple accommodation/lifestyle improvements. The listing highlights privacy, water, recreation and rural tourism appeal in the Putty Valley. Price guide is $1,950,000. Five-year Putty/Hawkesbury fringe growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/934b576f2cf4688bd7d037f1364fd5fd2c7a73ee2b6652706f0342f219247a84/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-nsw-putty-146715064",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-putty-370-roswill",
+    title: "370 Roswill Drive",
+    suburb: "Putty",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 145,
+    price: 810000,
+    landSize: 405000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["40.5ha lifestyle land", "Creek frontage", "Dwelling entitlement", "Affordable Sydney-fringe acreage"],
+    status: "active",
+    notes: "Active realestate.com.au Putty residential-land listing advertised as a 40.5ha / 100-acre lifestyle block with creek frontage, a dwelling entitlement and space for rural recreation or a private retreat. Price guide is $810,000. Five-year Putty/Hawkesbury fringe growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/40e1b917b13a7d1ac6ab36cf8163a8d721d7908a4374a52b1df799a8a5af0805/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-residential%2Bland-nsw-putty-204030376",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "nsw-wyong-creek-address-144563968",
+    title: "Address available on request",
+    suburb: "Wyong Creek",
+    state: "NSW",
+    nearestMajorCity: "Sydney",
+    majorCityMinutes: 85,
+    price: null,
+    landSize: 270000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["27ha Central Coast hinterland", "Private rural estate", "Creek and bushland setting", "Sydney and Newcastle access"],
+    status: "active",
+    notes: "Active realestate.com.au Wyong Creek acreage listing advertised as a 27ha Central Coast hinterland holding with private rural-estate appeal, creek/bushland setting and access to the Sydney-Newcastle corridor. Sale method is contact agent with no usable public price guide. Five-year Wyong Creek/Central Coast hinterland growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/0756089119f793f5ea265a1bcda32771a978eb99e23d728e44c110db30a114b5/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-wyong%2Bcreek-144563968",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "sa-waitpinga-185-jagger",
+    title: "185 Jagger Road",
+    suburb: "Waitpinga",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 75,
+    daysOnMarket: null,
+    price: 1750000,
+    landSize: 316000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["31.6ha elevated coastal holding", "Panoramic sea and island views", "10 mins to Victor Harbor", "Rural zoning and dam"],
+    status: "active",
+    notes: "Active realestate.com.au Waitpinga rural land listing advertised as a 31.6ha elevated holding with panoramic Coorong, Hindmarsh Island, Middleton, Port Elliot and Victor Harbor views, bitumen road frontage, a dam, shed, tank and multiple building-site options. The listing states about 10 minutes to Victor Harbor CBD and 1 hour 15 minutes to Adelaide. Five-year Waitpinga and comparable coastal-rural growth evidence was checked; available evidence was below the investment-star threshold or insufficient for a verified >15% annual growth flag.",
+    image: "https://i2.au.reastatic.net/800x600/53fedccfbbd888d1c6c4edf8ce5a7f6847e74fee3284bed8404f148e5d85c263/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-other-sa-waitpinga-700390408",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "sa-kuitpo-482-peters-creek",
+    title: "482 Peters Creek Road",
+    suburb: "Kuitpo",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 55,
+    daysOnMarket: null,
+    price: null,
+    landSize: 420900,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["42.09ha Kuitpo holding", "Adjoins Heysen Trail and Kuitpo Forest", "Two dams and two bores", "Commercial kitchen and equestrian upside"],
+    status: "active",
+    notes: "Active realestate.com.au Kuitpo rural listing advertised as a rare 42.09ha Adelaide Hills holding with fertile 104-acre country, direct proximity to the Heysen Trail and Kuitpo Forest Reserve, two dams, two bores, productive paddocks, stables, shedding and a commercial kitchen that may support catering, events or value-added rural enterprise subject to approvals. Sale method is expressions of interest with no public price guide. Five-year Kuitpo and nearby acreage growth evidence was checked; available evidence was too sparse for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/56b76308c3f4d5ceced9b4f5b90fd4275b50b28505844210a9c21773bad03f48/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-other-sa-kuitpo-700388112",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "sa-woodside-70-scottsburn",
+    title: "70 Scottsburn Road",
+    suburb: "Woodside",
+    state: "SA",
+    nearestMajorCity: "Adelaide",
+    majorCityMinutes: 40,
+    daysOnMarket: null,
+    price: null,
+    landSize: 967000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["96.7ha Adelaide Hills estate", "Premium grazing infrastructure", "Five dams and bore-fed reticulation", "20 mins to Mount Barker"],
+    status: "active",
+    notes: "Active realestate.com.au Woodside livestock listing for Bremer Park, advertised as a 96.7ha/240-acre Adelaide Hills rural estate with architect-designed homestead, cattle yards for 200-plus head, sheep yards, extensive shedding, 11.5km of electrified fencing, 140,000L bore-fed tank, five dams and fully reticulated water to gardens and paddocks. The listing states about 10 minutes to Woodside and Oakbank, 20 minutes to Mount Barker and 40 minutes to Adelaide CBD. Five-year Woodside and Lobethal-Woodside comparable growth evidence was checked; available evidence did not verify >15% annual growth.",
+    image: "https://i2.au.reastatic.net/800x600/c6be97fd49c2b4359406eb3129ee929e56d4f5f339481bc363ad40328437c9f33/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-livestock-sa-woodside-700391232",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-kin-kin-1174-pomona-kin-kin",
+    title: "1174 Pomona Kin Kin Road",
+    suburb: "Kin Kin",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 3000000,
+    landSize: 376400,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["37.64ha Noosa hinterland holding", "Kin Kin Creek and two dams", "Renovated home plus machinery sheds", "Grazing and horse suitability"],
+    status: "active",
+    notes: "Active realestate.com.au Kin Kin lifestyle listing advertised as offers over $3,000,000 for 37.64ha in the Noosa/Sunshine Coast hinterland, with Kin Kin Creek frontage, two dams including one spring-fed dam, fertile creek flats and basalt country, renovated residence, pool, machinery shedding and fencing for cattle or horses. Five-year Kin Kin and comparable hinterland growth evidence was checked; available evidence did not verify a credible >15% annual growth case.",
+    image: "https://i2.au.reastatic.net/800x600/08621c31308af88d93df8c650db36dd13038183f4951b78624625b00b16e7625/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-lifestyle-qld-kin%2Bkin-700384596",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-kidaman-creek-119-perrys",
+    title: "119 Perrys Road",
+    suburb: "Kidaman Creek",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    daysOnMarket: null,
+    price: null,
+    landSize: 1127400,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["112.74ha Sunshine Coast hinterland holding", "Two titles and dual residences", "Grazing operation with livestock option", "Ten dams, creeks and water allocation"],
+    status: "active",
+    notes: "Active realestate.com.au Kidaman Creek rural listing for Kunya Downs, advertised as a 112.74ha Sunshine Coast hinterland holding across two titles with dual residences, approximately 135 head of cattle and plant/equipment by negotiation, ten dams, spring-fed creeks, water allocation, sheds, yards and productive grazing country. The listing states about 10 minutes to Kenilworth, 15 minutes to Mapleton, 40 minutes to Sunshine Coast beaches and around 1 hour 30 minutes to Brisbane. Five-year Kidaman Creek/Kenilworth hinterland growth evidence was checked; available evidence was insufficient for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/f4182b488150a49416e89765e867303a8f9fa486d85e9c15da618b8661c994e5/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-other-qld-kidaman%2Bcreek-700397064",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-kin-kin-945-neusa-vale",
+    title: "945 Neusa Vale Road",
+    suburb: "Kin Kin",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    listedDate: "2026-03-27",
+    price: 2900000,
+    landSize: 420000,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["41.99ha regenerative farm", "Spring-fed waterways and four dams", "25 mins to Noosa", "Studio, orchard and machinery shed"],
+    status: "active",
+    notes: "Active realestate.com.au Kin Kin acreage listing published 27 Mar 2026 and advertised as offers over $2,900,000 for Greenfields, a 41.99ha / 103.71-acre secluded Sunshine Coast hinterland holding with rolling pasture, spring-fed waterways, four dams, renovated Queenslander, separate studio, citrus and stone fruit orchards, vegetable gardens, 5-bay machinery shed, solar and about 25 minutes to Noosa. Five-year Kin Kin/Noosa hinterland growth evidence was checked; available evidence did not support a verified >15% annual growth flag.",
+    image: "https://i2.au.reastatic.net/800x600/25a31e7df44bb615a565aa39498af08fdf14639b3bed05a5699fc6af3bc4fa7f/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-kin%2Bkin-150700772",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-kin-kin-247-eastern-branch",
+    title: "247 Eastern Branch Road",
+    suburb: "Kin Kin",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    listedDate: "2025-11-21",
+    price: 2450000,
+    landSize: 1141200,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["114.12ha Kin Kin hinterland retreat", "Noosa Trail Network access", "Rainforest, creeks and dam", "Regenerated land and grazing infrastructure"],
+    status: "active",
+    notes: "Active realestate.com.au Kin Kin house listing advertised at $2,450,000 for Heartwood, a 114.12ha hinterland holding with 360-degree views across the valley, Teewah sand dunes and Noosa Heads, a classic Queenslander, barn, spring-fed dam, rainforest pockets, crystal-clear creeks, 12,300-plus native trees, cattle yards and rear-boundary access to the Noosa Trail Network. Five-year Kin Kin/Noosa hinterland growth evidence was checked; available comparable evidence was not strong enough for an investment-star flag.",
+    image: "https://i2.au.reastatic.net/800x600/4e2c9ad486cbfc7c0e0f2eb041ce431df5a37817dbf7ae7e9f2af9c4c4fc87f8d/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-kin%2Bkin-149715172",
+    investmentStar: false,
+    listingCategory: "large"
+  },
+  {
+    id: "qld-kin-kin-275-eastern-branch",
+    title: "275 Eastern Branch Road",
+    suburb: "Kin Kin",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 2000000,
+    landSize: 202700,
+    beachfront: false,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["20.27ha Noosa Shire holding", "Self-sufficient off-grid systems", "Kin Kin Creek frontage", "Workshop, sheds and orchard income upside"],
+    status: "active",
+    notes: "Active realestate.com.au Kin Kin house listing advertised as offers over $2,000,000 / for sale for a 20.27ha Noosa Shire holding with off-grid solar and battery system, Starlink, 66,000L water storage, pool, sheds, 3-phase workshop, productive gardens, about 90 jaboticaba trees and Kin Kin Creek frontage. Five-year Kin Kin and nearby hinterland growth evidence was checked; available evidence did not verify a credible >15% annual growth case.",
+    image: "https://i2.au.reastatic.net/800x600/7fd2d8537acfda7f0dc7f97ce617f5ccf0ee9550410c96e88d1e4493f62c811/image.jpg",
+    listingUrl: "https://www.realestate.com.au/property-house-qld-kin%2Bkin-150116000",
+    investmentStar: false,
+    listingCategory: "large"
   }
 ];
 
-const databaseUpdatedAt = "2026-05-12 12:57";
+const databaseUpdatedAt = "2026-05-12 17:36";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
@@ -19232,6 +20225,7 @@ const state = {
   unavailable: new Set(JSON.parse(localStorage.getItem("unavailableProperties") || "[]")),
   view: "all",
   unviewedViewIds: null,
+  selectedTablePropertyId: null,
   searchMode: localStorage.getItem("propertySearchMode") || "beach",
   theme: localStorage.getItem("propertyTheme") || (window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light")
 };
@@ -19443,9 +20437,14 @@ async function triggerManualRefresh(scope = "national") {
 
   try {
     const refreshPath = state.searchMode === "large" ? "/refresh-large-listings" : scope === "sa" ? "/refresh-listings-sa" : "/refresh-listings";
-    const statusPath = state.searchMode === "large" ? "/large-refresh-status" : "/refresh-status";
+    let statusPath = state.searchMode === "large" ? "/large-refresh-status" : "/refresh-status";
     const start = await fetch(refreshPath, { method: "POST" });
     if (!start.ok) throw new Error("Refresh could not start.");
+    const startStatus = await start.json();
+    if (startStatus.statusPath) statusPath = startStatus.statusPath;
+    if (startStatus.blockingLane) {
+      els.refreshLabel.textContent = startStatus.message || "Another search is running.";
+    }
 
     const poll = window.setInterval(async () => {
       try {
@@ -19738,9 +20737,30 @@ function renderComparisonTable(properties) {
     row.tabIndex = 0;
     row.dataset.propertyId = property.id;
     row.classList.toggle("investment-star-row", investmentStar);
+    row.classList.toggle("selected-table-row", state.selectedTablePropertyId === property.id);
+    row.setAttribute("aria-selected", state.selectedTablePropertyId === property.id ? "true" : "false");
 
     const listingLink = getListingLink(property);
     const searchLink = getSearchLink(property);
+    const imageCell = document.createElement("td");
+    imageCell.className = "table-image-cell";
+
+    if (property.image) {
+      const image = document.createElement("img");
+      image.className = "table-property-image";
+      image.src = property.image;
+      image.alt = property.title ? `${property.title} property photo` : "Property photo";
+      image.loading = "lazy";
+      image.decoding = "async";
+      imageCell.append(image);
+    } else {
+      const placeholder = document.createElement("span");
+      placeholder.className = "table-image-placeholder";
+      placeholder.textContent = "No image";
+      imageCell.append(placeholder);
+    }
+
+    row.append(imageCell);
 
     values.forEach((value, index) => {
       const cell = document.createElement("td");
@@ -19754,10 +20774,12 @@ function renderComparisonTable(properties) {
         }
         cell.append(document.createTextNode(value));
       } else if (index === 2) {
+        const addressWrap = document.createElement("div");
         const addressText = document.createElement("span");
         addressText.textContent = value;
         cell.className = "address-link-cell";
-        cell.append(addressText);
+        addressWrap.className = "address-link-content";
+        addressWrap.append(addressText);
         if (listingLink || searchLink) {
           const link = document.createElement("a");
           link.className = `table-open-link${listingLink ? "" : " muted"}`;
@@ -19766,8 +20788,9 @@ function renderComparisonTable(properties) {
           link.rel = "noreferrer";
           link.textContent = "Open";
           link.addEventListener("click", () => markPropertyViewed(property.id));
-          cell.append(link);
+          addressWrap.append(link);
         }
+        cell.append(addressWrap);
       } else if (index === 3) {
         cell.className = "x-factor-cell";
         cell.textContent = value;
@@ -19781,6 +20804,20 @@ function renderComparisonTable(properties) {
   });
 
   els.comparisonTableBody.append(rows);
+}
+
+function selectTableRow(propertyId) {
+  if (!propertyId) return;
+  state.selectedTablePropertyId = propertyId;
+  els.comparisonTableBody.querySelectorAll("tr.selected-table-row").forEach(row => {
+    row.classList.remove("selected-table-row");
+    row.setAttribute("aria-selected", "false");
+  });
+  const row = els.comparisonTableBody.querySelector(`tr[data-property-id="${CSS.escape(propertyId)}"]`);
+  if (row) {
+    row.classList.add("selected-table-row");
+    row.setAttribute("aria-selected", "true");
+  }
 }
 
 function focusPropertyCard(propertyId) {
@@ -20414,13 +21451,21 @@ els.reloadButton.addEventListener("click", () => triggerManualRefresh("national"
 els.comparisonTableBody.addEventListener("click", event => {
   if (event.target.closest("a")) return;
   const row = event.target.closest("tr[data-property-id]");
-  if (row) focusPropertyCard(row.dataset.propertyId);
+  if (row) {
+    selectTableRow(row.dataset.propertyId);
+    focusPropertyCard(row.dataset.propertyId);
+  }
+});
+els.comparisonTableBody.addEventListener("focusin", event => {
+  const row = event.target.closest("tr[data-property-id]");
+  if (row) selectTableRow(row.dataset.propertyId);
 });
 els.comparisonTableBody.addEventListener("keydown", event => {
   if (event.key !== "Enter" && event.key !== " ") return;
   const row = event.target.closest("tr[data-property-id]");
   if (!row) return;
   event.preventDefault();
+  selectTableRow(row.dataset.propertyId);
   focusPropertyCard(row.dataset.propertyId);
 });
 
