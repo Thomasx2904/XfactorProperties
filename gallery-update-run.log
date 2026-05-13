@@ -729,3 +729,4167 @@
 00349 sa-glenelg-305-19-holdfast-promenade: checking
 00349 sa-glenelg-305-19-holdfast-promenade: 0 images
 00351 sa-glenelg-north-26-13-north-esplanade: checking
+
+[2026-05-12T14:36:17.233Z] Gallery update runner started with batch size 25
+
+[2026-05-12T14:36:17.234Z] Batch 1 started
+00336 sa-semaphore-south-1-10-esplanade: checking
+00336 sa-semaphore-south-1-10-esplanade: off market
+00338 sa-largs-bay-lot-7-lady-gowrie: checking
+00338 sa-largs-bay-lot-7-lady-gowrie: permission denied, pausing for 30 minutes
+
+[2026-05-13T03:25:54.646Z] Gallery update runner started with batch size 12
+
+[2026-05-13T03:25:54.647Z] Batch 1 started
+00507 sa-mintaro-59-smith: checking
+00507 sa-mintaro-59-smith: off market
+00508 sa-whites-flat-251-reservoir: checking
+00508 sa-whites-flat-251-reservoir: 4 images
+00509 sa-poochera-lot-29-eyre-highway: checking
+00509 sa-poochera-lot-29-eyre-highway: off market
+00510 sa-port-neill-section-82-chilmans: checking
+00510 sa-port-neill-section-82-chilmans: 4 images
+00511 sa-cleve-1446-carpa: checking
+00511 sa-cleve-1446-carpa: 4 images
+00512 sa-kelly-lot-50-old-cleve: checking
+00512 sa-kelly-lot-50-old-cleve: 10 images
+00513 sa-murlong-2351-murdinga-murlong: checking
+00513 sa-murlong-2351-murdinga-murlong: off market
+00514 wa-cowaramup-227-fifty-one: checking
+00514 wa-cowaramup-227-fifty-one: off market
+00515 wa-southampton-1192-balingup-nannup: checking
+00515 wa-southampton-1192-balingup-nannup: 35 images
+00516 wa-wilga-4254-donnybrook-boyup: checking
+00516 wa-wilga-4254-donnybrook-boyup: 35 images
+00517 wa-northcliffe-701-double-bridge: checking
+00517 wa-northcliffe-701-double-bridge: off market
+00518 wa-roelands-lot-25-coalfields: checking
+00518 wa-roelands-lot-25-coalfields: 22 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00507",
+      "id": "sa-mintaro-59-smith",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00508",
+      "id": "sa-whites-flat-251-reservoir",
+      "images": 4
+    },
+    {
+      "displayId": "00509",
+      "id": "sa-poochera-lot-29-eyre-highway",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00510",
+      "id": "sa-port-neill-section-82-chilmans",
+      "images": 4
+    },
+    {
+      "displayId": "00511",
+      "id": "sa-cleve-1446-carpa",
+      "images": 4
+    },
+    {
+      "displayId": "00512",
+      "id": "sa-kelly-lot-50-old-cleve",
+      "images": 10
+    },
+    {
+      "displayId": "00513",
+      "id": "sa-murlong-2351-murdinga-murlong",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00514",
+      "id": "wa-cowaramup-227-fifty-one",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00515",
+      "id": "wa-southampton-1192-balingup-nannup",
+      "images": 35
+    },
+    {
+      "displayId": "00516",
+      "id": "wa-wilga-4254-donnybrook-boyup",
+      "images": 35
+    },
+    {
+      "displayId": "00517",
+      "id": "wa-northcliffe-701-double-bridge",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00518",
+      "id": "wa-roelands-lot-25-coalfields",
+      "images": 22
+    }
+  ]
+}
+
+[2026-05-13T03:28:16.768Z] Batch 2 started
+00519 wa-cowaramup-8772-bussell: checking
+00519 wa-cowaramup-8772-bussell: 16 images
+00520 wa-kaloorup-1086-kaloorup: checking
+00520 wa-kaloorup-1086-kaloorup: 33 images
+00521 wa-rosa-brook-2210-jindong-treeton: checking
+00521 wa-rosa-brook-2210-jindong-treeton: 35 images
+00522 wa-boyup-brook-dp426021-bridgetown-boyup: checking
+00522 wa-boyup-brook-dp426021-bridgetown-boyup: 35 images
+00523 wa-donnybrook-19503-south-western: checking
+00523 wa-donnybrook-19503-south-western: 3 images
+00524 wa-naturaliste-lot-60-vidler: checking
+00524 wa-naturaliste-lot-60-vidler: 12 images
+00525 wa-kaloorup-308-payne: checking
+00525 wa-kaloorup-308-payne: 35 images
+00526 wa-harvey-246-government: checking
+00526 wa-harvey-246-government: off market
+00527 wa-bramley-512-tanah-marah: checking
+00527 wa-bramley-512-tanah-marah: 18 images
+00528 wa-cowaramup-48-holben: checking
+00528 wa-cowaramup-48-holben: 35 images
+00529 wa-rosa-brook-38-barrett: checking
+00529 wa-rosa-brook-38-barrett: 21 images
+00530 wa-nannup-7953-brockman: checking
+00530 wa-nannup-7953-brockman: 19 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00519",
+      "id": "wa-cowaramup-8772-bussell",
+      "images": 16
+    },
+    {
+      "displayId": "00520",
+      "id": "wa-kaloorup-1086-kaloorup",
+      "images": 33
+    },
+    {
+      "displayId": "00521",
+      "id": "wa-rosa-brook-2210-jindong-treeton",
+      "images": 35
+    },
+    {
+      "displayId": "00522",
+      "id": "wa-boyup-brook-dp426021-bridgetown-boyup",
+      "images": 35
+    },
+    {
+      "displayId": "00523",
+      "id": "wa-donnybrook-19503-south-western",
+      "images": 3
+    },
+    {
+      "displayId": "00524",
+      "id": "wa-naturaliste-lot-60-vidler",
+      "images": 12
+    },
+    {
+      "displayId": "00525",
+      "id": "wa-kaloorup-308-payne",
+      "images": 35
+    },
+    {
+      "displayId": "00526",
+      "id": "wa-harvey-246-government",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00527",
+      "id": "wa-bramley-512-tanah-marah",
+      "images": 18
+    },
+    {
+      "displayId": "00528",
+      "id": "wa-cowaramup-48-holben",
+      "images": 35
+    },
+    {
+      "displayId": "00529",
+      "id": "wa-rosa-brook-38-barrett",
+      "images": 21
+    },
+    {
+      "displayId": "00530",
+      "id": "wa-nannup-7953-brockman",
+      "images": 19
+    }
+  ]
+}
+
+[2026-05-13T03:31:06.413Z] Batch 3 started
+00531 wa-cowaramup-4-rickett: checking
+00531 wa-cowaramup-4-rickett: 19 images
+00532 wa-kudardup-13057-bussell: checking
+00532 wa-kudardup-13057-bussell: 12 images
+00533 wa-burnside-lot-61-caves: checking
+00533 wa-burnside-lot-61-caves: 11 images
+00534 wa-burekup-20-123-shenton: checking
+00534 wa-burekup-20-123-shenton: off market
+00535 wa-scott-river-1181-scott-river: checking
+00535 wa-scott-river-1181-scott-river: 24 images
+00537 wa-burekup-lot-8-catalano: checking
+00537 wa-burekup-lot-8-catalano: 4 images
+00538 wa-dardanup-lot-18-dowdells: checking
+00538 wa-dardanup-lot-18-dowdells: 3 images
+00539 wa-wellington-forest-lot-3069-newmans: checking
+00539 wa-wellington-forest-lot-3069-newmans: 35 images
+00540 wa-brunswick-205-victoria: checking
+00540 wa-brunswick-205-victoria: off market
+00541 wa-osmington-348-bramley-river: checking
+00541 wa-osmington-348-bramley-river: off market
+00542 wa-osmington-635-bramley-river: checking
+00542 wa-osmington-635-bramley-river: 18 images
+00543 wa-scotts-brook-bloomvale-bloomfields: checking
+00543 wa-scotts-brook-bloomvale-bloomfields: 4 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00531",
+      "id": "wa-cowaramup-4-rickett",
+      "images": 19
+    },
+    {
+      "displayId": "00532",
+      "id": "wa-kudardup-13057-bussell",
+      "images": 12
+    },
+    {
+      "displayId": "00533",
+      "id": "wa-burnside-lot-61-caves",
+      "images": 11
+    },
+    {
+      "displayId": "00534",
+      "id": "wa-burekup-20-123-shenton",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00535",
+      "id": "wa-scott-river-1181-scott-river",
+      "images": 24
+    },
+    {
+      "displayId": "00537",
+      "id": "wa-burekup-lot-8-catalano",
+      "images": 4
+    },
+    {
+      "displayId": "00538",
+      "id": "wa-dardanup-lot-18-dowdells",
+      "images": 3
+    },
+    {
+      "displayId": "00539",
+      "id": "wa-wellington-forest-lot-3069-newmans",
+      "images": 35
+    },
+    {
+      "displayId": "00540",
+      "id": "wa-brunswick-205-victoria",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00541",
+      "id": "wa-osmington-348-bramley-river",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00542",
+      "id": "wa-osmington-635-bramley-river",
+      "images": 18
+    },
+    {
+      "displayId": "00543",
+      "id": "wa-scotts-brook-bloomvale-bloomfields",
+      "images": 4
+    }
+  ]
+}
+
+[2026-05-13T03:33:50.948Z] Batch 4 started
+00544 wa-uduc-39-gibbs: checking
+00544 wa-uduc-39-gibbs: 4 images
+00545 wa-kaloorup-73-payne: checking
+00545 wa-kaloorup-73-payne: 12 images
+00546 wa-middlesex-228-peppermint-grove: checking
+00546 wa-middlesex-228-peppermint-grove: 4 images
+00547 wa-capel-river-lot-4364-weld: checking
+00547 wa-capel-river-lot-4364-weld: 0 images
+00548 wa-tutunup-972-capel-tutunup: checking
+00548 wa-tutunup-972-capel-tutunup: 4 images
+00549 wa-busselton-lot-2339-edwards-doyle: checking
+00549 wa-busselton-lot-2339-edwards-doyle: 4 images
+00550 wa-carbunup-river-162-haag: checking
+00550 wa-carbunup-river-162-haag: 4 images
+00551 wa-geraldton-11-forrest: checking
+00551 wa-geraldton-11-forrest: 3 images
+00552 wa-geraldton-21-forrest: checking
+00552 wa-geraldton-21-forrest: 4 images
+00553 qld-mackay-270-294-shoal-point: checking
+00553 qld-mackay-270-294-shoal-point: 2 images
+00554 qld-east-mackay-44-binnington: checking
+00554 qld-east-mackay-44-binnington: 25 images
+00555 qld-mackay-harbour-8-marina-beach: checking
+00555 qld-mackay-harbour-8-marina-beach: 8 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00544",
+      "id": "wa-uduc-39-gibbs",
+      "images": 4
+    },
+    {
+      "displayId": "00545",
+      "id": "wa-kaloorup-73-payne",
+      "images": 12
+    },
+    {
+      "displayId": "00546",
+      "id": "wa-middlesex-228-peppermint-grove",
+      "images": 4
+    },
+    {
+      "displayId": "00548",
+      "id": "wa-tutunup-972-capel-tutunup",
+      "images": 4
+    },
+    {
+      "displayId": "00549",
+      "id": "wa-busselton-lot-2339-edwards-doyle",
+      "images": 4
+    },
+    {
+      "displayId": "00550",
+      "id": "wa-carbunup-river-162-haag",
+      "images": 4
+    },
+    {
+      "displayId": "00551",
+      "id": "wa-geraldton-11-forrest",
+      "images": 3
+    },
+    {
+      "displayId": "00552",
+      "id": "wa-geraldton-21-forrest",
+      "images": 4
+    },
+    {
+      "displayId": "00553",
+      "id": "qld-mackay-270-294-shoal-point",
+      "images": 2
+    },
+    {
+      "displayId": "00554",
+      "id": "qld-east-mackay-44-binnington",
+      "images": 25
+    },
+    {
+      "displayId": "00555",
+      "id": "qld-mackay-harbour-8-marina-beach",
+      "images": 8
+    }
+  ]
+}
+
+[2026-05-13T03:37:17.581Z] Batch 5 started
+00556 qld-mackay-harbour-lot-39-marina: checking
+00556 qld-mackay-harbour-lot-39-marina: 4 images
+00557 qld-east-mackay-35-5-bridge: checking
+00557 qld-east-mackay-35-5-bridge: 4 images
+00558 qld-mackay-harbour-23-sol: checking
+00558 qld-mackay-harbour-23-sol: 29 images
+00559 qld-east-mackay-1-3-10-binnington: checking
+00559 qld-east-mackay-1-3-10-binnington: 25 images
+00560 wa-north-dandalup-address-700378044: checking
+00560 wa-north-dandalup-address-700378044: 1 images
+00561 wa-north-dandalup-address-700373708: checking
+00561 wa-north-dandalup-address-700373708: 1 images
+00562 wa-north-dandalup-4756-south-western: checking
+00562 wa-north-dandalup-4756-south-western: 1 images
+00563 wa-nambeelup-lot-303-scott: checking
+00563 wa-nambeelup-lot-303-scott: 1 images
+00564 wa-serpentine-103-wattle: checking
+00564 wa-serpentine-103-wattle: 32 images
+00566 wa-lower-chittering-451-chittering-valley: checking
+00566 wa-lower-chittering-451-chittering-valley: 1 images
+00567 wa-muchea-1094-brand: checking
+00567 wa-muchea-1094-brand: off market
+00568 wa-bullsbrook-73-strachan: checking
+00568 wa-bullsbrook-73-strachan: 1 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00556",
+      "id": "qld-mackay-harbour-lot-39-marina",
+      "images": 4
+    },
+    {
+      "displayId": "00557",
+      "id": "qld-east-mackay-35-5-bridge",
+      "images": 4
+    },
+    {
+      "displayId": "00558",
+      "id": "qld-mackay-harbour-23-sol",
+      "images": 29
+    },
+    {
+      "displayId": "00559",
+      "id": "qld-east-mackay-1-3-10-binnington",
+      "images": 25
+    },
+    {
+      "displayId": "00560",
+      "id": "wa-north-dandalup-address-700378044",
+      "images": 1
+    },
+    {
+      "displayId": "00561",
+      "id": "wa-north-dandalup-address-700373708",
+      "images": 1
+    },
+    {
+      "displayId": "00562",
+      "id": "wa-north-dandalup-4756-south-western",
+      "images": 1
+    },
+    {
+      "displayId": "00563",
+      "id": "wa-nambeelup-lot-303-scott",
+      "images": 1
+    },
+    {
+      "displayId": "00564",
+      "id": "wa-serpentine-103-wattle",
+      "images": 32
+    },
+    {
+      "displayId": "00566",
+      "id": "wa-lower-chittering-451-chittering-valley",
+      "images": 1
+    },
+    {
+      "displayId": "00567",
+      "id": "wa-muchea-1094-brand",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00568",
+      "id": "wa-bullsbrook-73-strachan",
+      "images": 1
+    }
+  ]
+}
+
+[2026-05-13T03:41:37.331Z] Batch 6 started
+00574 wa-muchea-32-propagation: checking
+00574 wa-muchea-32-propagation: 3 images
+00575 wa-chittering-1298-brand: checking
+00575 wa-chittering-1298-brand: 3 images
+00576 wa-lower-chittering-lot-9017-mcglew: checking
+00576 wa-lower-chittering-lot-9017-mcglew: 4 images
+00577 wa-gingin-62-cheriton: checking
+00577 wa-gingin-62-cheriton: 4 images
+00578 wa-gingin-lot-3119-brand: checking
+00578 wa-gingin-lot-3119-brand: 4 images
+00579 wa-bindoon-620-gray: checking
+00579 wa-bindoon-620-gray: 2 images
+00580 wa-bindoon-3101-bindoon-dewars-pool: checking
+00580 wa-bindoon-3101-bindoon-dewars-pool: 35 images
+00581 wa-gingin-271-mayfield-beermullah: checking
+00581 wa-gingin-271-mayfield-beermullah: off market
+00582 wa-beermullah-4-pin-pin: checking
+00582 wa-beermullah-4-pin-pin: 4 images
+00583 wa-bindoon-163-wells-glover: checking
+00583 wa-bindoon-163-wells-glover: off market
+00584 wa-bindoon-1155-bindoon-moora: checking
+00584 wa-bindoon-1155-bindoon-moora: 3 images
+00585 wa-lennard-brook-227-cockram: checking
+00585 wa-lennard-brook-227-cockram: 1 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00574",
+      "id": "wa-muchea-32-propagation",
+      "images": 3
+    },
+    {
+      "displayId": "00575",
+      "id": "wa-chittering-1298-brand",
+      "images": 3
+    },
+    {
+      "displayId": "00576",
+      "id": "wa-lower-chittering-lot-9017-mcglew",
+      "images": 4
+    },
+    {
+      "displayId": "00577",
+      "id": "wa-gingin-62-cheriton",
+      "images": 4
+    },
+    {
+      "displayId": "00578",
+      "id": "wa-gingin-lot-3119-brand",
+      "images": 4
+    },
+    {
+      "displayId": "00579",
+      "id": "wa-bindoon-620-gray",
+      "images": 2
+    },
+    {
+      "displayId": "00580",
+      "id": "wa-bindoon-3101-bindoon-dewars-pool",
+      "images": 35
+    },
+    {
+      "displayId": "00581",
+      "id": "wa-gingin-271-mayfield-beermullah",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00582",
+      "id": "wa-beermullah-4-pin-pin",
+      "images": 4
+    },
+    {
+      "displayId": "00583",
+      "id": "wa-bindoon-163-wells-glover",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00584",
+      "id": "wa-bindoon-1155-bindoon-moora",
+      "images": 3
+    },
+    {
+      "displayId": "00585",
+      "id": "wa-lennard-brook-227-cockram",
+      "images": 1
+    }
+  ]
+}
+
+[2026-05-13T03:45:36.658Z] Batch 7 started
+00586 wa-lower-chittering-167-davis: checking
+00586 wa-lower-chittering-167-davis: 0 images
+00587 wa-gingin-arbusto-boston-park-sappers: checking
+00587 wa-gingin-arbusto-boston-park-sappers: 24 images
+00588 wa-bindoon-169-gray: checking
+00588 wa-bindoon-169-gray: 4 images
+00589 wa-chidlow-475-kerun: checking
+00589 wa-chidlow-475-kerun: off market
+00590 wa-gidgegannup-170-mayo: checking
+00590 wa-gidgegannup-170-mayo: 35 images
+00591 wa-gidgegannup-144-utah: checking
+00591 wa-gidgegannup-144-utah: 4 images
+00592 wa-toodyay-24-543-folewood: checking
+00592 wa-toodyay-24-543-folewood: 13 images
+00593 wa-nunile-211-goomalling-toodyay: checking
+00593 wa-nunile-211-goomalling-toodyay: 4 images
+00594 wa-bakers-hill-200-gumley: checking
+00594 wa-bakers-hill-200-gumley: 4 images
+00595 wa-bindoon-lot-100-cresthill: checking
+00595 wa-bindoon-lot-100-cresthill: 3 images
+00596 wa-bindoon-777-teatree: checking
+00596 wa-bindoon-777-teatree: 4 images
+00597 wa-cowalla-lot-52-cowalla: checking
+00597 wa-cowalla-lot-52-cowalla: 4 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00587",
+      "id": "wa-gingin-arbusto-boston-park-sappers",
+      "images": 24
+    },
+    {
+      "displayId": "00588",
+      "id": "wa-bindoon-169-gray",
+      "images": 4
+    },
+    {
+      "displayId": "00589",
+      "id": "wa-chidlow-475-kerun",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00590",
+      "id": "wa-gidgegannup-170-mayo",
+      "images": 35
+    },
+    {
+      "displayId": "00591",
+      "id": "wa-gidgegannup-144-utah",
+      "images": 4
+    },
+    {
+      "displayId": "00592",
+      "id": "wa-toodyay-24-543-folewood",
+      "images": 13
+    },
+    {
+      "displayId": "00593",
+      "id": "wa-nunile-211-goomalling-toodyay",
+      "images": 4
+    },
+    {
+      "displayId": "00594",
+      "id": "wa-bakers-hill-200-gumley",
+      "images": 4
+    },
+    {
+      "displayId": "00595",
+      "id": "wa-bindoon-lot-100-cresthill",
+      "images": 3
+    },
+    {
+      "displayId": "00596",
+      "id": "wa-bindoon-777-teatree",
+      "images": 4
+    },
+    {
+      "displayId": "00597",
+      "id": "wa-cowalla-lot-52-cowalla",
+      "images": 4
+    }
+  ]
+}
+
+[2026-05-13T03:48:41.254Z] Batch 8 started
+00598 wa-cowalla-lot-53-cowalla: checking
+00598 wa-cowalla-lot-53-cowalla: 4 images
+00599 wa-cowalla-lot-51-millbank: checking
+00599 wa-cowalla-lot-51-millbank: 4 images
+00600 wa-cowalla-197-millbank: checking
+00600 wa-cowalla-197-millbank: 4 images
+00601 qld-west-woombye-654-blackall-range: checking
+00601 qld-west-woombye-654-blackall-range: 35 images
+00602 qld-hunchy-462-hunchy: checking
+00602 qld-hunchy-462-hunchy: 35 images
+00603 qld-conondale-189-eastern-mary-river: checking
+00603 qld-conondale-189-eastern-mary-river: 34 images
+00604 qld-booroobin-1980-maleny-stanley-river: checking
+00604 qld-booroobin-1980-maleny-stanley-river: 35 images
+00605 qld-wootha-97-155-doyle: checking
+00605 qld-wootha-97-155-doyle: 31 images
+00606 qld-cooran-43-james: checking
+00606 qld-cooran-43-james: 17 images
+00607 qld-belli-park-222-330-boyle: checking
+00607 qld-belli-park-222-330-boyle: 17 images
+00608 qld-yandina-creek-721-761-yandina-coolum: checking
+00608 qld-yandina-creek-721-761-yandina-coolum: 25 images
+00609 qld-coolabine-76-beacon-hill: checking
+00609 qld-coolabine-76-beacon-hill: 29 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00598",
+      "id": "wa-cowalla-lot-53-cowalla",
+      "images": 4
+    },
+    {
+      "displayId": "00599",
+      "id": "wa-cowalla-lot-51-millbank",
+      "images": 4
+    },
+    {
+      "displayId": "00600",
+      "id": "wa-cowalla-197-millbank",
+      "images": 4
+    },
+    {
+      "displayId": "00601",
+      "id": "qld-west-woombye-654-blackall-range",
+      "images": 35
+    },
+    {
+      "displayId": "00602",
+      "id": "qld-hunchy-462-hunchy",
+      "images": 35
+    },
+    {
+      "displayId": "00603",
+      "id": "qld-conondale-189-eastern-mary-river",
+      "images": 34
+    },
+    {
+      "displayId": "00604",
+      "id": "qld-booroobin-1980-maleny-stanley-river",
+      "images": 35
+    },
+    {
+      "displayId": "00605",
+      "id": "qld-wootha-97-155-doyle",
+      "images": 31
+    },
+    {
+      "displayId": "00606",
+      "id": "qld-cooran-43-james",
+      "images": 17
+    },
+    {
+      "displayId": "00607",
+      "id": "qld-belli-park-222-330-boyle",
+      "images": 17
+    },
+    {
+      "displayId": "00608",
+      "id": "qld-yandina-creek-721-761-yandina-coolum",
+      "images": 25
+    },
+    {
+      "displayId": "00609",
+      "id": "qld-coolabine-76-beacon-hill",
+      "images": 29
+    }
+  ]
+}
+
+[2026-05-13T03:51:12.238Z] Batch 9 started
+00610 qld-cooran-568-coles-creek: checking
+00610 qld-cooran-568-coles-creek: 2 images
+00611 qld-kin-kin-44-47-coucal: checking
+00611 qld-kin-kin-44-47-coucal: 4 images
+00612 qld-glass-house-mountains-25-pikes: checking
+00612 qld-glass-house-mountains-25-pikes: off market
+00613 qld-peachester-492-river: checking
+00613 qld-peachester-492-river: 35 images
+00614 qld-conondale-2138-maleny-kenilworth: checking
+00614 qld-conondale-2138-maleny-kenilworth: off market
+00615 qld-peachester-488-commissioners-flat: checking
+00615 qld-peachester-488-commissioners-flat: off market
+00616 qld-bald-knob-address-request-700370440: checking
+00616 qld-bald-knob-address-request-700370440: off market
+00617 qld-cambroon-cielo-verde-922-eastern-mary: checking
+00617 qld-cambroon-cielo-verde-922-eastern-mary: 4 images
+00618 qld-ridgewood-62-carroo: checking
+00618 qld-ridgewood-62-carroo: 4 images
+00619 qld-coles-creek-2433-old-bruce: checking
+00619 qld-coles-creek-2433-old-bruce: 35 images
+00620 qld-austinville-address-request-mount-nimmel: checking
+00620 qld-austinville-address-request-mount-nimmel: 35 images
+00621 qld-austinville-271-austinville: checking
+00621 qld-austinville-271-austinville: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00610",
+      "id": "qld-cooran-568-coles-creek",
+      "images": 2
+    },
+    {
+      "displayId": "00611",
+      "id": "qld-kin-kin-44-47-coucal",
+      "images": 4
+    },
+    {
+      "displayId": "00612",
+      "id": "qld-glass-house-mountains-25-pikes",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00613",
+      "id": "qld-peachester-492-river",
+      "images": 35
+    },
+    {
+      "displayId": "00614",
+      "id": "qld-conondale-2138-maleny-kenilworth",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00615",
+      "id": "qld-peachester-488-commissioners-flat",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00616",
+      "id": "qld-bald-knob-address-request-700370440",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00617",
+      "id": "qld-cambroon-cielo-verde-922-eastern-mary",
+      "images": 4
+    },
+    {
+      "displayId": "00618",
+      "id": "qld-ridgewood-62-carroo",
+      "images": 4
+    },
+    {
+      "displayId": "00619",
+      "id": "qld-coles-creek-2433-old-bruce",
+      "images": 35
+    },
+    {
+      "displayId": "00620",
+      "id": "qld-austinville-address-request-mount-nimmel",
+      "images": 35
+    },
+    {
+      "displayId": "00621",
+      "id": "qld-austinville-271-austinville",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T03:53:51.799Z] Batch 10 started
+00622 qld-tamborine-mountain-196-276-kaiser: checking
+00622 qld-tamborine-mountain-196-276-kaiser: 35 images
+00623 qld-boyland-68-70-cherry-tree: checking
+00623 qld-boyland-68-70-cherry-tree: 22 images
+00624 qld-boyland-31-four-mile: checking
+00624 qld-boyland-31-four-mile: 35 images
+00625 qld-mundoolun-2882-beaudesert-beenleigh: checking
+00625 qld-mundoolun-2882-beaudesert-beenleigh: off market
+00626 qld-canungra-783-lamington-national-park: checking
+00626 qld-canungra-783-lamington-national-park: 35 images
+00627 qld-tallebudgera-valley-193-petsch-creek: checking
+00627 qld-tallebudgera-valley-193-petsch-creek: 28 images
+00628 qld-tallebudgera-valley-138-araluen: checking
+00628 qld-tallebudgera-valley-138-araluen: 32 images
+00629 qld-canungra-6-reining: checking
+00629 qld-canungra-6-reining: 35 images
+00630 qld-canungra-381-lamington-national-park: checking
+00630 qld-canungra-381-lamington-national-park: 31 images
+00631 qld-boyland-486-mundoolun-connection: checking
+00631 qld-boyland-486-mundoolun-connection: 35 images
+00632 nsw-kyogle-2425-pine-creek: checking
+00632 nsw-kyogle-2425-pine-creek: 4 images
+00633 nsw-georgica-lot-b-1233-jiggi: checking
+00633 nsw-georgica-lot-b-1233-jiggi: 30 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00622",
+      "id": "qld-tamborine-mountain-196-276-kaiser",
+      "images": 35
+    },
+    {
+      "displayId": "00623",
+      "id": "qld-boyland-68-70-cherry-tree",
+      "images": 22
+    },
+    {
+      "displayId": "00624",
+      "id": "qld-boyland-31-four-mile",
+      "images": 35
+    },
+    {
+      "displayId": "00625",
+      "id": "qld-mundoolun-2882-beaudesert-beenleigh",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00626",
+      "id": "qld-canungra-783-lamington-national-park",
+      "images": 35
+    },
+    {
+      "displayId": "00627",
+      "id": "qld-tallebudgera-valley-193-petsch-creek",
+      "images": 28
+    },
+    {
+      "displayId": "00628",
+      "id": "qld-tallebudgera-valley-138-araluen",
+      "images": 32
+    },
+    {
+      "displayId": "00629",
+      "id": "qld-canungra-6-reining",
+      "images": 35
+    },
+    {
+      "displayId": "00630",
+      "id": "qld-canungra-381-lamington-national-park",
+      "images": 31
+    },
+    {
+      "displayId": "00631",
+      "id": "qld-boyland-486-mundoolun-connection",
+      "images": 35
+    },
+    {
+      "displayId": "00632",
+      "id": "nsw-kyogle-2425-pine-creek",
+      "images": 4
+    },
+    {
+      "displayId": "00633",
+      "id": "nsw-georgica-lot-b-1233-jiggi",
+      "images": 30
+    }
+  ]
+}
+
+[2026-05-13T03:56:24.909Z] Batch 11 started
+00634 nsw-gradys-creek-602-gradys-creek: checking
+00634 nsw-gradys-creek-602-gradys-creek: 3 images
+00635 nsw-clothiers-creek-900-clothiers-creek: checking
+00635 nsw-clothiers-creek-900-clothiers-creek: 34 images
+00636 nsw-piora-4411-bruxner: checking
+00636 nsw-piora-4411-bruxner: 17 images
+00637 nsw-kinvara-91-newrybar-swamp: checking
+00637 nsw-kinvara-91-newrybar-swamp: 35 images
+00638 nsw-grevillia-25-dingo-gully: checking
+00638 nsw-grevillia-25-dingo-gully: 32 images
+00639 nsw-lynchs-creek-lot-27-lynches-creek: checking
+00639 nsw-lynchs-creek-lot-27-lynches-creek: off market
+00640 nsw-bentley-1106-naughtons-gap: checking
+00640 nsw-bentley-1106-naughtons-gap: 27 images
+00641 nsw-alstonville-176-leadbeatters: checking
+00641 nsw-alstonville-176-leadbeatters: off market
+00642 nsw-nobbys-creek-584-nobbys-creek: checking
+00642 nsw-nobbys-creek-584-nobbys-creek: 35 images
+00643 nsw-chillingham-345-chilcotts: checking
+00643 nsw-chillingham-345-chilcotts: 17 images
+00644 nsw-wyrallah-26-wybelena: checking
+00644 nsw-wyrallah-26-wybelena: 19 images
+00645 nsw-tuckombil-979-981-teven: checking
+00645 nsw-tuckombil-979-981-teven: 31 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00634",
+      "id": "nsw-gradys-creek-602-gradys-creek",
+      "images": 3
+    },
+    {
+      "displayId": "00635",
+      "id": "nsw-clothiers-creek-900-clothiers-creek",
+      "images": 34
+    },
+    {
+      "displayId": "00636",
+      "id": "nsw-piora-4411-bruxner",
+      "images": 17
+    },
+    {
+      "displayId": "00637",
+      "id": "nsw-kinvara-91-newrybar-swamp",
+      "images": 35
+    },
+    {
+      "displayId": "00638",
+      "id": "nsw-grevillia-25-dingo-gully",
+      "images": 32
+    },
+    {
+      "displayId": "00639",
+      "id": "nsw-lynchs-creek-lot-27-lynches-creek",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00640",
+      "id": "nsw-bentley-1106-naughtons-gap",
+      "images": 27
+    },
+    {
+      "displayId": "00641",
+      "id": "nsw-alstonville-176-leadbeatters",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00642",
+      "id": "nsw-nobbys-creek-584-nobbys-creek",
+      "images": 35
+    },
+    {
+      "displayId": "00643",
+      "id": "nsw-chillingham-345-chilcotts",
+      "images": 17
+    },
+    {
+      "displayId": "00644",
+      "id": "nsw-wyrallah-26-wybelena",
+      "images": 19
+    },
+    {
+      "displayId": "00645",
+      "id": "nsw-tuckombil-979-981-teven",
+      "images": 31
+    }
+  ]
+}
+
+[2026-05-13T03:59:11.656Z] Batch 12 started
+00646 nsw-pillar-valley-272-bostock: checking
+00646 nsw-pillar-valley-272-bostock: 16 images
+00647 nsw-peats-ridge-1734-peats-ridge: checking
+00647 nsw-peats-ridge-1734-peats-ridge: 18 images
+00648 nsw-mangrove-mountain-2047-wisemans-ferry: checking
+00648 nsw-mangrove-mountain-2047-wisemans-ferry: 34 images
+00649 nsw-tumbi-umbi-675-ridgeway: checking
+00649 nsw-tumbi-umbi-675-ridgeway: 35 images
+00650 nsw-dooralong-1559-mandalong: checking
+00650 nsw-dooralong-1559-mandalong: 29 images
+00651 nsw-pokolbin-456-hermitage: checking
+00651 nsw-pokolbin-456-hermitage: 3 images
+00652 nsw-north-rothbury-200-lindsay: checking
+00652 nsw-north-rothbury-200-lindsay: 18 images
+00653 nsw-quorrobolong-70-swans: checking
+00653 nsw-quorrobolong-70-swans: 15 images
+00654 nsw-callaghans-creek-330-smiths: checking
+00654 nsw-callaghans-creek-330-smiths: off market
+00655 nsw-werombi-125-roberts: checking
+00655 nsw-werombi-125-roberts: 8 images
+00656 nsw-oakdale-125-halliday: checking
+00656 nsw-oakdale-125-halliday: off market
+00657 nsw-mangrove-mountain-2583-wisemans-ferry: checking
+00657 nsw-mangrove-mountain-2583-wisemans-ferry: 35 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00646",
+      "id": "nsw-pillar-valley-272-bostock",
+      "images": 16
+    },
+    {
+      "displayId": "00647",
+      "id": "nsw-peats-ridge-1734-peats-ridge",
+      "images": 18
+    },
+    {
+      "displayId": "00648",
+      "id": "nsw-mangrove-mountain-2047-wisemans-ferry",
+      "images": 34
+    },
+    {
+      "displayId": "00649",
+      "id": "nsw-tumbi-umbi-675-ridgeway",
+      "images": 35
+    },
+    {
+      "displayId": "00650",
+      "id": "nsw-dooralong-1559-mandalong",
+      "images": 29
+    },
+    {
+      "displayId": "00651",
+      "id": "nsw-pokolbin-456-hermitage",
+      "images": 3
+    },
+    {
+      "displayId": "00652",
+      "id": "nsw-north-rothbury-200-lindsay",
+      "images": 18
+    },
+    {
+      "displayId": "00653",
+      "id": "nsw-quorrobolong-70-swans",
+      "images": 15
+    },
+    {
+      "displayId": "00654",
+      "id": "nsw-callaghans-creek-330-smiths",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00655",
+      "id": "nsw-werombi-125-roberts",
+      "images": 8
+    },
+    {
+      "displayId": "00656",
+      "id": "nsw-oakdale-125-halliday",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00657",
+      "id": "nsw-mangrove-mountain-2583-wisemans-ferry",
+      "images": 35
+    }
+  ]
+}
+
+[2026-05-13T04:02:00.172Z] Batch 13 started
+00658 nsw-mangrove-mountain-735-ironbark: checking
+00658 nsw-mangrove-mountain-735-ironbark: 29 images
+00659 nsw-yarramalong-1698-yarramalong: checking
+00659 nsw-yarramalong-1698-yarramalong: 35 images
+00660 nsw-mangrove-mountain-191-bloodtree: checking
+00660 nsw-mangrove-mountain-191-bloodtree: off market
+00661 nsw-kulnura-939-george-downes: checking
+00661 nsw-kulnura-939-george-downes: off market
+00662 nsw-kulnura-35-walkers-ridge: checking
+00662 nsw-kulnura-35-walkers-ridge: 20 images
+00663 nsw-kulnura-323-forest: checking
+00663 nsw-kulnura-323-forest: 15 images
+00664 nsw-mangrove-mountain-25-kelynack: checking
+00664 nsw-mangrove-mountain-25-kelynack: off market
+00665 nsw-anambah-address-700374540: checking
+00665 nsw-anambah-address-700374540: 10 images
+00666 nsw-ellalong-155-q9: checking
+00666 nsw-ellalong-155-q9: 35 images
+00667 nsw-denman-516-rosemount: checking
+00667 nsw-denman-516-rosemount: 12 images
+00668 nsw-laguna-1473-watagan-creek: checking
+00668 nsw-laguna-1473-watagan-creek: 30 images
+00669 nsw-laguna-address-700388468: checking
+00669 nsw-laguna-address-700388468: 25 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00658",
+      "id": "nsw-mangrove-mountain-735-ironbark",
+      "images": 29
+    },
+    {
+      "displayId": "00659",
+      "id": "nsw-yarramalong-1698-yarramalong",
+      "images": 35
+    },
+    {
+      "displayId": "00660",
+      "id": "nsw-mangrove-mountain-191-bloodtree",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00661",
+      "id": "nsw-kulnura-939-george-downes",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00662",
+      "id": "nsw-kulnura-35-walkers-ridge",
+      "images": 20
+    },
+    {
+      "displayId": "00663",
+      "id": "nsw-kulnura-323-forest",
+      "images": 15
+    },
+    {
+      "displayId": "00664",
+      "id": "nsw-mangrove-mountain-25-kelynack",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00665",
+      "id": "nsw-anambah-address-700374540",
+      "images": 10
+    },
+    {
+      "displayId": "00666",
+      "id": "nsw-ellalong-155-q9",
+      "images": 35
+    },
+    {
+      "displayId": "00667",
+      "id": "nsw-denman-516-rosemount",
+      "images": 12
+    },
+    {
+      "displayId": "00668",
+      "id": "nsw-laguna-1473-watagan-creek",
+      "images": 30
+    },
+    {
+      "displayId": "00669",
+      "id": "nsw-laguna-address-700388468",
+      "images": 25
+    }
+  ]
+}
+
+[2026-05-13T04:04:28.595Z] Batch 14 started
+00670 nsw-elderslie-880d-elderslie: checking
+00670 nsw-elderslie-880d-elderslie: 26 images
+00671 nsw-sweetmans-creek-2299-wollombi: checking
+00671 nsw-sweetmans-creek-2299-wollombi: 32 images
+00672 nsw-quorrobolong-1189-sandy-creek: checking
+00672 nsw-quorrobolong-1189-sandy-creek: 35 images
+00673 nsw-maitland-56-gillieston: checking
+00673 nsw-maitland-56-gillieston: 21 images
+00674 nsw-pokolbin-223-deasys: checking
+00674 nsw-pokolbin-223-deasys: 30 images
+00675 vic-foster-380-foster-mt-best: checking
+00675 vic-foster-380-foster-mt-best: 22 images
+00676 vic-yannathan-30-factory: checking
+00676 vic-yannathan-30-factory: 10 images
+00677 vic-athlone-515-clifton: checking
+00677 vic-athlone-515-clifton: off market
+00679 vic-nyora-160-raftis: checking
+00679 vic-nyora-160-raftis: 2 images
+00680 vic-balnarring-21-balnarring-beach: checking
+00680 vic-balnarring-21-balnarring-beach: 16 images
+00681 vic-balnarring-67-bittern-dromana: checking
+00681 vic-balnarring-67-bittern-dromana: off market
+00682 vic-tuerong-50-foxeys: checking
+00682 vic-tuerong-50-foxeys: 9 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00670",
+      "id": "nsw-elderslie-880d-elderslie",
+      "images": 26
+    },
+    {
+      "displayId": "00671",
+      "id": "nsw-sweetmans-creek-2299-wollombi",
+      "images": 32
+    },
+    {
+      "displayId": "00672",
+      "id": "nsw-quorrobolong-1189-sandy-creek",
+      "images": 35
+    },
+    {
+      "displayId": "00673",
+      "id": "nsw-maitland-56-gillieston",
+      "images": 21
+    },
+    {
+      "displayId": "00674",
+      "id": "nsw-pokolbin-223-deasys",
+      "images": 30
+    },
+    {
+      "displayId": "00675",
+      "id": "vic-foster-380-foster-mt-best",
+      "images": 22
+    },
+    {
+      "displayId": "00676",
+      "id": "vic-yannathan-30-factory",
+      "images": 10
+    },
+    {
+      "displayId": "00677",
+      "id": "vic-athlone-515-clifton",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00679",
+      "id": "vic-nyora-160-raftis",
+      "images": 2
+    },
+    {
+      "displayId": "00680",
+      "id": "vic-balnarring-21-balnarring-beach",
+      "images": 16
+    },
+    {
+      "displayId": "00681",
+      "id": "vic-balnarring-67-bittern-dromana",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00682",
+      "id": "vic-tuerong-50-foxeys",
+      "images": 9
+    }
+  ]
+}
+
+[2026-05-13T04:07:14.806Z] Batch 15 started
+00683 vic-somers-22-luxton: checking
+00683 vic-somers-22-luxton: off market
+00684 vic-bittern-90-110-hendersons: checking
+00684 vic-bittern-90-110-hendersons: 3 images
+00685 vic-the-gurdies-2-dunbabbin: checking
+00685 vic-the-gurdies-2-dunbabbin: 34 images
+00686 vic-stockdale-322-stockdale-fernbank: checking
+00686 vic-stockdale-322-stockdale-fernbank: 7 images
+00687 vic-flynn-50-sheepwash-creek: checking
+00687 vic-flynn-50-sheepwash-creek: 30 images
+00688 vic-grantville-230-grantville-glen-alvie: checking
+00688 vic-grantville-230-grantville-glen-alvie: 33 images
+00689 vic-bass-228-lynche: checking
+00689 vic-bass-228-lynche: 1 images
+00690 vic-ensay-1139-ensay-doctors-flat: checking
+00690 vic-ensay-1139-ensay-doctors-flat: 1 images
+00692 vic-callignee-120-lyndons: checking
+00692 vic-callignee-120-lyndons: 35 images
+00693 vic-corinella-180-guy: checking
+00693 vic-corinella-180-guy: off market
+00694 vic-buchan-3954-tulloch-ard: checking
+00694 vic-buchan-3954-tulloch-ard: 6 images
+00705 vic-portarlington-391-519-queenscliff: checking
+00705 vic-portarlington-391-519-queenscliff: 25 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00683",
+      "id": "vic-somers-22-luxton",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00684",
+      "id": "vic-bittern-90-110-hendersons",
+      "images": 3
+    },
+    {
+      "displayId": "00685",
+      "id": "vic-the-gurdies-2-dunbabbin",
+      "images": 34
+    },
+    {
+      "displayId": "00686",
+      "id": "vic-stockdale-322-stockdale-fernbank",
+      "images": 7
+    },
+    {
+      "displayId": "00687",
+      "id": "vic-flynn-50-sheepwash-creek",
+      "images": 30
+    },
+    {
+      "displayId": "00688",
+      "id": "vic-grantville-230-grantville-glen-alvie",
+      "images": 33
+    },
+    {
+      "displayId": "00689",
+      "id": "vic-bass-228-lynche",
+      "images": 1
+    },
+    {
+      "displayId": "00690",
+      "id": "vic-ensay-1139-ensay-doctors-flat",
+      "images": 1
+    },
+    {
+      "displayId": "00692",
+      "id": "vic-callignee-120-lyndons",
+      "images": 35
+    },
+    {
+      "displayId": "00693",
+      "id": "vic-corinella-180-guy",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00694",
+      "id": "vic-buchan-3954-tulloch-ard",
+      "images": 6
+    },
+    {
+      "displayId": "00705",
+      "id": "vic-portarlington-391-519-queenscliff",
+      "images": 25
+    }
+  ]
+}
+
+[2026-05-13T04:10:39.093Z] Batch 16 started
+00706 vic-winchelsea-2320-princes: checking
+00706 vic-winchelsea-2320-princes: 3 images
+00707 vic-st-leonards-389-old-st-leonards: checking
+00707 vic-st-leonards-389-old-st-leonards: off market
+00708 vic-swan-bay-1155-1181-swan-bay: checking
+00708 vic-swan-bay-1155-1181-swan-bay: 5 images
+00709 vic-barwon-heads-1819-barwon-heads: checking
+00709 vic-barwon-heads-1819-barwon-heads: 27 images
+00710 vic-marcus-hill-671-719-banks: checking
+00710 vic-marcus-hill-671-719-banks: 29 images
+00711 vic-drysdale-310-scotchmans: checking
+00711 vic-drysdale-310-scotchmans: 28 images
+00712 vic-drysdale-282-350-founds: checking
+00712 vic-drysdale-282-350-founds: off market
+00713 vic-swan-bay-81-117-burrows: checking
+00713 vic-swan-bay-81-117-burrows: off market
+00714 vic-drysdale-42-90-banks: checking
+00714 vic-drysdale-42-90-banks: 1 images
+00715 vic-portarlington-192-218-coatsworth: checking
+00715 vic-portarlington-192-218-coatsworth: 18 images
+00716 vic-torquay-231-grossmans: checking
+00716 vic-torquay-231-grossmans: off market
+00717 vic-torquay-141-esplanade: checking
+00717 vic-torquay-141-esplanade: 27 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00706",
+      "id": "vic-winchelsea-2320-princes",
+      "images": 3
+    },
+    {
+      "displayId": "00707",
+      "id": "vic-st-leonards-389-old-st-leonards",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00708",
+      "id": "vic-swan-bay-1155-1181-swan-bay",
+      "images": 5
+    },
+    {
+      "displayId": "00709",
+      "id": "vic-barwon-heads-1819-barwon-heads",
+      "images": 27
+    },
+    {
+      "displayId": "00710",
+      "id": "vic-marcus-hill-671-719-banks",
+      "images": 29
+    },
+    {
+      "displayId": "00711",
+      "id": "vic-drysdale-310-scotchmans",
+      "images": 28
+    },
+    {
+      "displayId": "00712",
+      "id": "vic-drysdale-282-350-founds",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00713",
+      "id": "vic-swan-bay-81-117-burrows",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00714",
+      "id": "vic-drysdale-42-90-banks",
+      "images": 1
+    },
+    {
+      "displayId": "00715",
+      "id": "vic-portarlington-192-218-coatsworth",
+      "images": 18
+    },
+    {
+      "displayId": "00716",
+      "id": "vic-torquay-231-grossmans",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00717",
+      "id": "vic-torquay-141-esplanade",
+      "images": 27
+    }
+  ]
+}
+
+[2026-05-13T04:13:40.105Z] Batch 17 started
+00718 vic-torquay-147-esplanade: checking
+00718 vic-torquay-147-esplanade: off market
+00719 vic-torquay-169-esplanade: checking
+00719 vic-torquay-169-esplanade: 33 images
+00720 vic-torquay-175-esplanade: checking
+00720 vic-torquay-175-esplanade: 4 images
+00721 vic-torquay-195-esplanade: checking
+00721 vic-torquay-195-esplanade: 27 images
+00722 vic-torquay-207-esplanade: checking
+00722 vic-torquay-207-esplanade: 33 images
+00723 vic-torquay-253-255-100-esplanade: checking
+00723 vic-torquay-253-255-100-esplanade: 21 images
+00724 vic-torquay-342-100-esplanade: checking
+00724 vic-torquay-342-100-esplanade: 18 images
+00725 vic-torquay-2-84-esplanade: checking
+00725 vic-torquay-2-84-esplanade: 10 images
+00726 vic-torquay-5-84-esplanade: checking
+00726 vic-torquay-5-84-esplanade: 17 images
+00727 vic-winchelsea-370-shelford: checking
+00727 vic-winchelsea-370-shelford: off market
+00728 vic-winchelsea-2780-cape-otway: checking
+00728 vic-winchelsea-2780-cape-otway: 22 images
+00729 vic-winchelsea-2585-princes: checking
+00729 vic-winchelsea-2585-princes: 3 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00718",
+      "id": "vic-torquay-147-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00719",
+      "id": "vic-torquay-169-esplanade",
+      "images": 33
+    },
+    {
+      "displayId": "00720",
+      "id": "vic-torquay-175-esplanade",
+      "images": 4
+    },
+    {
+      "displayId": "00721",
+      "id": "vic-torquay-195-esplanade",
+      "images": 27
+    },
+    {
+      "displayId": "00722",
+      "id": "vic-torquay-207-esplanade",
+      "images": 33
+    },
+    {
+      "displayId": "00723",
+      "id": "vic-torquay-253-255-100-esplanade",
+      "images": 21
+    },
+    {
+      "displayId": "00724",
+      "id": "vic-torquay-342-100-esplanade",
+      "images": 18
+    },
+    {
+      "displayId": "00725",
+      "id": "vic-torquay-2-84-esplanade",
+      "images": 10
+    },
+    {
+      "displayId": "00726",
+      "id": "vic-torquay-5-84-esplanade",
+      "images": 17
+    },
+    {
+      "displayId": "00727",
+      "id": "vic-winchelsea-370-shelford",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00728",
+      "id": "vic-winchelsea-2780-cape-otway",
+      "images": 22
+    },
+    {
+      "displayId": "00729",
+      "id": "vic-winchelsea-2585-princes",
+      "images": 3
+    }
+  ]
+}
+
+[2026-05-13T04:16:27.641Z] Batch 18 started
+00730 vic-winchelsea-65-coalmine: checking
+00730 vic-winchelsea-65-coalmine: 26 images
+00731 vic-mount-moriac-2125-barrabool: checking
+00731 vic-mount-moriac-2125-barrabool: 9 images
+00732 qld-dundowran-beach-25-nautilus: checking
+00732 qld-dundowran-beach-25-nautilus: 3 images
+00733 qld-noosa-heads-7-1-hastings: checking
+00733 qld-noosa-heads-7-1-hastings: 29 images
+00734 qld-noosa-heads-31-49-hastings: checking
+00734 qld-noosa-heads-31-49-hastings: 17 images
+00735 qld-noosa-heads-18-41-hastings: checking
+00735 qld-noosa-heads-18-41-hastings: off market
+00736 qld-noosa-heads-33-5-quamby: checking
+00736 qld-noosa-heads-33-5-quamby: 8 images
+00737 sa-brukunga-133-hope-watts: checking
+00737 sa-brukunga-133-hope-watts: 4 images
+00738 sa-macclesfield-315-bugle-range: checking
+00738 sa-macclesfield-315-bugle-range: 35 images
+00739 sa-macclesfield-71-davis: checking
+00739 sa-macclesfield-71-davis: 25 images
+00740 sa-kersbrook-103-sires-east: checking
+00740 sa-kersbrook-103-sires-east: 35 images
+00742 sa-hindmarsh-island-1408-randell: checking
+00742 sa-hindmarsh-island-1408-randell: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00730",
+      "id": "vic-winchelsea-65-coalmine",
+      "images": 26
+    },
+    {
+      "displayId": "00731",
+      "id": "vic-mount-moriac-2125-barrabool",
+      "images": 9
+    },
+    {
+      "displayId": "00732",
+      "id": "qld-dundowran-beach-25-nautilus",
+      "images": 3
+    },
+    {
+      "displayId": "00733",
+      "id": "qld-noosa-heads-7-1-hastings",
+      "images": 29
+    },
+    {
+      "displayId": "00734",
+      "id": "qld-noosa-heads-31-49-hastings",
+      "images": 17
+    },
+    {
+      "displayId": "00735",
+      "id": "qld-noosa-heads-18-41-hastings",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00736",
+      "id": "qld-noosa-heads-33-5-quamby",
+      "images": 8
+    },
+    {
+      "displayId": "00737",
+      "id": "sa-brukunga-133-hope-watts",
+      "images": 4
+    },
+    {
+      "displayId": "00738",
+      "id": "sa-macclesfield-315-bugle-range",
+      "images": 35
+    },
+    {
+      "displayId": "00739",
+      "id": "sa-macclesfield-71-davis",
+      "images": 25
+    },
+    {
+      "displayId": "00740",
+      "id": "sa-kersbrook-103-sires-east",
+      "images": 35
+    },
+    {
+      "displayId": "00742",
+      "id": "sa-hindmarsh-island-1408-randell",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T04:19:14.147Z] Batch 19 started
+00744 sa-parawa-177-tunk-head: checking
+00744 sa-parawa-177-tunk-head: 4 images
+00745 sa-hartley-775c-north-bremer: checking
+00745 sa-hartley-775c-north-bremer: 4 images
+00746 sa-strathalbyn-98-rushmore: checking
+00746 sa-strathalbyn-98-rushmore: off market
+00748 qld-peregian-beach-10-plover: checking
+00748 qld-peregian-beach-10-plover: 31 images
+00749 qld-peregian-beach-9-2-peregian-esplanade: checking
+00749 qld-peregian-beach-9-2-peregian-esplanade: 20 images
+00750 qld-peregian-beach-1-43-lorikeet: checking
+00750 qld-peregian-beach-1-43-lorikeet: 23 images
+00751 qld-peregian-beach-2-22-shearwater: checking
+00751 qld-peregian-beach-2-22-shearwater: 19 images
+00752 qld-peregian-beach-9-shearwater: checking
+00752 qld-peregian-beach-9-shearwater: 19 images
+00753 qld-cambroon-333-booloumba-creek: checking
+00753 qld-cambroon-333-booloumba-creek: 28 images
+00754 qld-gheerulla-66-murray: checking
+00754 qld-gheerulla-66-murray: 25 images
+00755 qld-conondale-2170-maleny-kenilworth: checking
+00755 qld-conondale-2170-maleny-kenilworth: 0 images
+00756 qld-belli-park-398-skyring-creek: checking
+00756 qld-belli-park-398-skyring-creek: 7 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00744",
+      "id": "sa-parawa-177-tunk-head",
+      "images": 4
+    },
+    {
+      "displayId": "00745",
+      "id": "sa-hartley-775c-north-bremer",
+      "images": 4
+    },
+    {
+      "displayId": "00746",
+      "id": "sa-strathalbyn-98-rushmore",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00748",
+      "id": "qld-peregian-beach-10-plover",
+      "images": 31
+    },
+    {
+      "displayId": "00749",
+      "id": "qld-peregian-beach-9-2-peregian-esplanade",
+      "images": 20
+    },
+    {
+      "displayId": "00750",
+      "id": "qld-peregian-beach-1-43-lorikeet",
+      "images": 23
+    },
+    {
+      "displayId": "00751",
+      "id": "qld-peregian-beach-2-22-shearwater",
+      "images": 19
+    },
+    {
+      "displayId": "00752",
+      "id": "qld-peregian-beach-9-shearwater",
+      "images": 19
+    },
+    {
+      "displayId": "00753",
+      "id": "qld-cambroon-333-booloumba-creek",
+      "images": 28
+    },
+    {
+      "displayId": "00754",
+      "id": "qld-gheerulla-66-murray",
+      "images": 25
+    },
+    {
+      "displayId": "00756",
+      "id": "qld-belli-park-398-skyring-creek",
+      "images": 7
+    }
+  ]
+}
+
+[2026-05-13T04:22:06.528Z] Batch 20 started
+00757 qld-belli-park-163-cedar-creek: checking
+00757 qld-belli-park-163-cedar-creek: 30 images
+00758 qld-witta-lot-2-maleny-kenilworth: checking
+00758 qld-witta-lot-2-maleny-kenilworth: 22 images
+00759 qld-belli-park-182-boyle: checking
+00759 qld-belli-park-182-boyle: off market
+00760 qld-belli-park-1171-eumundi-kenilworth: checking
+00760 qld-belli-park-1171-eumundi-kenilworth: 4 images
+00761 qld-eerwah-vale-165-larneys: checking
+00761 qld-eerwah-vale-165-larneys: 4 images
+00762 qld-cootharaba-jabiru-bushcamp: checking
+00762 qld-cootharaba-jabiru-bushcamp: 4 images
+00763 qld-yandina-4-91-yandina-bli-bli: checking
+00763 qld-yandina-4-91-yandina-bli-bli: 4 images
+00764 qld-maroochy-river-136-river: checking
+00764 qld-maroochy-river-136-river: permission denied
+00765 qld-belli-park-lot-4-newspaper-hill: checking
+00765 qld-belli-park-lot-4-newspaper-hill: permission denied
+00766 qld-cootharaba-two-trees: checking
+00766 qld-cootharaba-two-trees: 4 images
+00767 qld-bokarina-245-oceanic: checking
+00767 qld-bokarina-245-oceanic: 30 images
+00768 qld-bokarina-24-longboard: checking
+00768 qld-bokarina-24-longboard: 20 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00757",
+      "id": "qld-belli-park-163-cedar-creek",
+      "images": 30
+    },
+    {
+      "displayId": "00758",
+      "id": "qld-witta-lot-2-maleny-kenilworth",
+      "images": 22
+    },
+    {
+      "displayId": "00759",
+      "id": "qld-belli-park-182-boyle",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00760",
+      "id": "qld-belli-park-1171-eumundi-kenilworth",
+      "images": 4
+    },
+    {
+      "displayId": "00761",
+      "id": "qld-eerwah-vale-165-larneys",
+      "images": 4
+    },
+    {
+      "displayId": "00762",
+      "id": "qld-cootharaba-jabiru-bushcamp",
+      "images": 4
+    },
+    {
+      "displayId": "00763",
+      "id": "qld-yandina-4-91-yandina-bli-bli",
+      "images": 4
+    },
+    {
+      "displayId": "00766",
+      "id": "qld-cootharaba-two-trees",
+      "images": 4
+    },
+    {
+      "displayId": "00767",
+      "id": "qld-bokarina-245-oceanic",
+      "images": 30
+    },
+    {
+      "displayId": "00768",
+      "id": "qld-bokarina-24-longboard",
+      "images": 20
+    }
+  ]
+}
+
+[2026-05-13T04:24:30.016Z] Batch 21 started
+00764 qld-maroochy-river-136-river: checking
+00764 qld-maroochy-river-136-river: permission denied
+00765 qld-belli-park-lot-4-newspaper-hill: checking
+00765 qld-belli-park-lot-4-newspaper-hill: permission denied
+00769 qld-bokarina-1804-19-kombi: checking
+00769 qld-bokarina-1804-19-kombi: 22 images
+00770 qld-bokarina-2803-19-kombi: checking
+00770 qld-bokarina-2803-19-kombi: 23 images
+00771 qld-bokarina-2704-19-kombi: checking
+00771 qld-bokarina-2704-19-kombi: 34 images
+00772 qld-bokarina-1304-19-kombi: checking
+00772 qld-bokarina-1304-19-kombi: 13 images
+00773 qld-bokarina-2502-19-kombi: checking
+00773 qld-bokarina-2502-19-kombi: 22 images
+00774 qld-bokarina-504-25-kombi: checking
+00774 qld-bokarina-504-25-kombi: 33 images
+00775 qld-bokarina-102-25-kombi: checking
+00775 qld-bokarina-102-25-kombi: off market
+00776 qld-golden-beach-513-75-esplanade: checking
+00776 qld-golden-beach-513-75-esplanade: 18 images
+00777 qld-golden-beach-1102-95-esplanade: checking
+00777 qld-golden-beach-1102-95-esplanade: 25 images
+00778 qld-golden-beach-1-82-esplanade: checking
+00778 qld-golden-beach-1-82-esplanade: 31 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00769",
+      "id": "qld-bokarina-1804-19-kombi",
+      "images": 22
+    },
+    {
+      "displayId": "00770",
+      "id": "qld-bokarina-2803-19-kombi",
+      "images": 23
+    },
+    {
+      "displayId": "00771",
+      "id": "qld-bokarina-2704-19-kombi",
+      "images": 34
+    },
+    {
+      "displayId": "00772",
+      "id": "qld-bokarina-1304-19-kombi",
+      "images": 13
+    },
+    {
+      "displayId": "00773",
+      "id": "qld-bokarina-2502-19-kombi",
+      "images": 22
+    },
+    {
+      "displayId": "00774",
+      "id": "qld-bokarina-504-25-kombi",
+      "images": 33
+    },
+    {
+      "displayId": "00775",
+      "id": "qld-bokarina-102-25-kombi",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00776",
+      "id": "qld-golden-beach-513-75-esplanade",
+      "images": 18
+    },
+    {
+      "displayId": "00777",
+      "id": "qld-golden-beach-1102-95-esplanade",
+      "images": 25
+    },
+    {
+      "displayId": "00778",
+      "id": "qld-golden-beach-1-82-esplanade",
+      "images": 31
+    }
+  ]
+}
+
+[2026-05-13T04:26:56.480Z] Batch 22 started
+00764 qld-maroochy-river-136-river: checking
+00764 qld-maroochy-river-136-river: permission denied
+00765 qld-belli-park-lot-4-newspaper-hill: checking
+00765 qld-belli-park-lot-4-newspaper-hill: permission denied
+00779 qld-golden-beach-40-2-landsborough: checking
+00779 qld-golden-beach-40-2-landsborough: 17 images
+00780 qld-golden-beach-4-59-esplanade: checking
+00780 qld-golden-beach-4-59-esplanade: 15 images
+00781 qld-golden-beach-12-66-esplanade: checking
+00781 qld-golden-beach-12-66-esplanade: 13 images
+00782 qld-golden-beach-7-15-esplanade: checking
+00782 qld-golden-beach-7-15-esplanade: 13 images
+00783 sa-birdwood-83-burton: checking
+00783 sa-birdwood-83-burton: 16 images
+00784 sa-charleston-lot-20-21-newman: checking
+00784 sa-charleston-lot-20-21-newman: 29 images
+00785 sa-woodside-36-riverview: checking
+00785 sa-woodside-36-riverview: off market
+00786 sa-kenton-valley-11-woodlands: checking
+00786 sa-kenton-valley-11-woodlands: off market
+00787 sa-gumeracha-15-kenton-hill: checking
+00787 sa-gumeracha-15-kenton-hill: 20 images
+00788 sa-forreston-127-quinns: checking
+00788 sa-forreston-127-quinns: 34 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00779",
+      "id": "qld-golden-beach-40-2-landsborough",
+      "images": 17
+    },
+    {
+      "displayId": "00780",
+      "id": "qld-golden-beach-4-59-esplanade",
+      "images": 15
+    },
+    {
+      "displayId": "00781",
+      "id": "qld-golden-beach-12-66-esplanade",
+      "images": 13
+    },
+    {
+      "displayId": "00782",
+      "id": "qld-golden-beach-7-15-esplanade",
+      "images": 13
+    },
+    {
+      "displayId": "00783",
+      "id": "sa-birdwood-83-burton",
+      "images": 16
+    },
+    {
+      "displayId": "00784",
+      "id": "sa-charleston-lot-20-21-newman",
+      "images": 29
+    },
+    {
+      "displayId": "00785",
+      "id": "sa-woodside-36-riverview",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00786",
+      "id": "sa-kenton-valley-11-woodlands",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00787",
+      "id": "sa-gumeracha-15-kenton-hill",
+      "images": 20
+    },
+    {
+      "displayId": "00788",
+      "id": "sa-forreston-127-quinns",
+      "images": 34
+    }
+  ]
+}
+
+[2026-05-13T04:29:20.081Z] Batch 23 started
+00764 qld-maroochy-river-136-river: checking
+00764 qld-maroochy-river-136-river: permission denied
+00765 qld-belli-park-lot-4-newspaper-hill: checking
+00765 qld-belli-park-lot-4-newspaper-hill: permission denied
+00789 sa-hindmarsh-valley-83-cressbrook: checking
+00789 sa-hindmarsh-valley-83-cressbrook: 35 images
+00790 sa-currency-creek-137-taverner: checking
+00790 sa-currency-creek-137-taverner: off market
+00792 sa-clayton-bay-26-griffin: checking
+00792 sa-clayton-bay-26-griffin: 35 images
+00793 qld-currumbin-1a-828-pacific: checking
+00793 qld-currumbin-1a-828-pacific: 23 images
+00794 qld-currumbin-2-828-pacific: checking
+00794 qld-currumbin-2-828-pacific: 31 images
+00795 qld-currumbin-9g-828-pacific: checking
+00795 qld-currumbin-9g-828-pacific: off market
+00796 qld-currumbin-3-806-pacific: checking
+00796 qld-currumbin-3-806-pacific: off market
+00797 qld-coolangatta-1003-120-marine: checking
+00797 qld-coolangatta-1003-120-marine: 30 images
+00798 qld-coolangatta-402-60-marine: checking
+00798 qld-coolangatta-402-60-marine: 16 images
+00799 qld-coolangatta-209-2-creek: checking
+00799 qld-coolangatta-209-2-creek: 34 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00789",
+      "id": "sa-hindmarsh-valley-83-cressbrook",
+      "images": 35
+    },
+    {
+      "displayId": "00790",
+      "id": "sa-currency-creek-137-taverner",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00792",
+      "id": "sa-clayton-bay-26-griffin",
+      "images": 35
+    },
+    {
+      "displayId": "00793",
+      "id": "qld-currumbin-1a-828-pacific",
+      "images": 23
+    },
+    {
+      "displayId": "00794",
+      "id": "qld-currumbin-2-828-pacific",
+      "images": 31
+    },
+    {
+      "displayId": "00795",
+      "id": "qld-currumbin-9g-828-pacific",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00796",
+      "id": "qld-currumbin-3-806-pacific",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00797",
+      "id": "qld-coolangatta-1003-120-marine",
+      "images": 30
+    },
+    {
+      "displayId": "00798",
+      "id": "qld-coolangatta-402-60-marine",
+      "images": 16
+    },
+    {
+      "displayId": "00799",
+      "id": "qld-coolangatta-209-2-creek",
+      "images": 34
+    }
+  ]
+}
+
+[2026-05-13T04:31:43.168Z] Batch 24 started
+00800 qld-coolangatta-1403-110-marine: checking
+00800 qld-coolangatta-1403-110-marine: 22 images
+00801 qld-coolangatta-22-180-marine: checking
+00801 qld-coolangatta-22-180-marine: 20 images
+00802 qld-coolangatta-101-70-80-marine: checking
+00802 qld-coolangatta-101-70-80-marine: 35 images
+00803 qld-coolangatta-82-70-80-marine: checking
+00803 qld-coolangatta-82-70-80-marine: 16 images
+00804 qld-coolangatta-41-62-68-marine: checking
+00804 qld-coolangatta-41-62-68-marine: 15 images
+00805 qld-coolangatta-601-275-boundary: checking
+00805 qld-coolangatta-601-275-boundary: off market
+00806 qld-coolangatta-301-275-boundary: checking
+00806 qld-coolangatta-301-275-boundary: 24 images
+00807 nsw-new-brighton-17-21-esplanade: checking
+00807 nsw-new-brighton-17-21-esplanade: off market
+00808 nsw-new-brighton-7-esplanade: checking
+00808 nsw-new-brighton-7-esplanade: 27 images
+00809 nsw-new-brighton-9-esplanade: checking
+00809 nsw-new-brighton-9-esplanade: 35 images
+00810 nsw-new-brighton-7-9-ocean: checking
+00810 nsw-new-brighton-7-9-ocean: 4 images
+00811 nsw-new-brighton-48-north-head: checking
+00811 nsw-new-brighton-48-north-head: 8 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00800",
+      "id": "qld-coolangatta-1403-110-marine",
+      "images": 22
+    },
+    {
+      "displayId": "00801",
+      "id": "qld-coolangatta-22-180-marine",
+      "images": 20
+    },
+    {
+      "displayId": "00802",
+      "id": "qld-coolangatta-101-70-80-marine",
+      "images": 35
+    },
+    {
+      "displayId": "00803",
+      "id": "qld-coolangatta-82-70-80-marine",
+      "images": 16
+    },
+    {
+      "displayId": "00804",
+      "id": "qld-coolangatta-41-62-68-marine",
+      "images": 15
+    },
+    {
+      "displayId": "00805",
+      "id": "qld-coolangatta-601-275-boundary",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00806",
+      "id": "qld-coolangatta-301-275-boundary",
+      "images": 24
+    },
+    {
+      "displayId": "00807",
+      "id": "nsw-new-brighton-17-21-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00808",
+      "id": "nsw-new-brighton-7-esplanade",
+      "images": 27
+    },
+    {
+      "displayId": "00809",
+      "id": "nsw-new-brighton-9-esplanade",
+      "images": 35
+    },
+    {
+      "displayId": "00810",
+      "id": "nsw-new-brighton-7-9-ocean",
+      "images": 4
+    },
+    {
+      "displayId": "00811",
+      "id": "nsw-new-brighton-48-north-head",
+      "images": 8
+    }
+  ]
+}
+
+[2026-05-13T04:34:10.496Z] Batch 25 started
+00812 nsw-byron-bay-38-childe: checking
+00812 nsw-byron-bay-38-childe: 10 images
+00813 nsw-byron-bay-4-childe: checking
+00813 nsw-byron-bay-4-childe: 35 images
+00814 nsw-byron-bay-27-marine: checking
+00814 nsw-byron-bay-27-marine: 28 images
+00815 nsw-byron-bay-10-kendall: checking
+00815 nsw-byron-bay-10-kendall: 35 images
+00816 nsw-byron-bay-d1-62-64-lawson: checking
+00816 nsw-byron-bay-d1-62-64-lawson: 20 images
+00817 nsw-byron-bay-23-22-bay: checking
+00817 nsw-byron-bay-23-22-bay: off market
+00818 nsw-byron-bay-3-37-lawson: checking
+00818 nsw-byron-bay-3-37-lawson: 27 images
+00819 nsw-byron-bay-5-34-lawson: checking
+00819 nsw-byron-bay-5-34-lawson: 15 images
+00820 nsw-broken-head-24-951-broken-head: checking
+00820 nsw-broken-head-24-951-broken-head: 20 images
+00821 nsw-broken-head-248-seven-mile-beach: checking
+00821 nsw-broken-head-248-seven-mile-beach: 34 images
+00822 nsw-broken-head-9-951-broken-head: checking
+00822 nsw-broken-head-9-951-broken-head: 31 images
+00823 nsw-lennox-head-8t-77-83-ballina: checking
+00823 nsw-lennox-head-8t-77-83-ballina: 18 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00812",
+      "id": "nsw-byron-bay-38-childe",
+      "images": 10
+    },
+    {
+      "displayId": "00813",
+      "id": "nsw-byron-bay-4-childe",
+      "images": 35
+    },
+    {
+      "displayId": "00814",
+      "id": "nsw-byron-bay-27-marine",
+      "images": 28
+    },
+    {
+      "displayId": "00815",
+      "id": "nsw-byron-bay-10-kendall",
+      "images": 35
+    },
+    {
+      "displayId": "00816",
+      "id": "nsw-byron-bay-d1-62-64-lawson",
+      "images": 20
+    },
+    {
+      "displayId": "00817",
+      "id": "nsw-byron-bay-23-22-bay",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00818",
+      "id": "nsw-byron-bay-3-37-lawson",
+      "images": 27
+    },
+    {
+      "displayId": "00819",
+      "id": "nsw-byron-bay-5-34-lawson",
+      "images": 15
+    },
+    {
+      "displayId": "00820",
+      "id": "nsw-broken-head-24-951-broken-head",
+      "images": 20
+    },
+    {
+      "displayId": "00821",
+      "id": "nsw-broken-head-248-seven-mile-beach",
+      "images": 34
+    },
+    {
+      "displayId": "00822",
+      "id": "nsw-broken-head-9-951-broken-head",
+      "images": 31
+    },
+    {
+      "displayId": "00823",
+      "id": "nsw-lennox-head-8t-77-83-ballina",
+      "images": 18
+    }
+  ]
+}
+
+[2026-05-13T04:36:42.468Z] Batch 26 started
+00824 nsw-lennox-head-11-20-21-pacific: checking
+00824 nsw-lennox-head-11-20-21-pacific: 3 images
+00825 nsw-lennox-head-3-32-pacific: checking
+00825 nsw-lennox-head-3-32-pacific: off market
+00826 sa-lake-plains-359-chapel: checking
+00826 sa-lake-plains-359-chapel: 16 images
+00827 sa-finniss-516-388a-388b-finniss-clayton: checking
+00827 sa-finniss-516-388a-388b-finniss-clayton: 3 images
+00828 sa-langhorne-creek-571-kangaroo: checking
+00828 sa-langhorne-creek-571-kangaroo: 21 images
+00829 sa-nairne-19-chambers: checking
+00829 sa-nairne-19-chambers: 35 images
+00830 nsw-blue-bay-62-werrina: checking
+00830 nsw-blue-bay-62-werrina: 27 images
+00831 nsw-blue-bay-7-120-122-ocean: checking
+00831 nsw-blue-bay-7-120-122-ocean: 17 images
+00832 nsw-blue-bay-7-110-112-ocean: checking
+00832 nsw-blue-bay-7-110-112-ocean: 23 images
+00833 nsw-blue-bay-46-werrina: checking
+00833 nsw-blue-bay-46-werrina: 28 images
+00834 nsw-blue-bay-8-werrina: checking
+00834 nsw-blue-bay-8-werrina: 19 images
+00835 nsw-blue-bay-3-120-122-ocean: checking
+00835 nsw-blue-bay-3-120-122-ocean: 25 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00824",
+      "id": "nsw-lennox-head-11-20-21-pacific",
+      "images": 3
+    },
+    {
+      "displayId": "00825",
+      "id": "nsw-lennox-head-3-32-pacific",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00826",
+      "id": "sa-lake-plains-359-chapel",
+      "images": 16
+    },
+    {
+      "displayId": "00827",
+      "id": "sa-finniss-516-388a-388b-finniss-clayton",
+      "images": 3
+    },
+    {
+      "displayId": "00828",
+      "id": "sa-langhorne-creek-571-kangaroo",
+      "images": 21
+    },
+    {
+      "displayId": "00829",
+      "id": "sa-nairne-19-chambers",
+      "images": 35
+    },
+    {
+      "displayId": "00830",
+      "id": "nsw-blue-bay-62-werrina",
+      "images": 27
+    },
+    {
+      "displayId": "00831",
+      "id": "nsw-blue-bay-7-120-122-ocean",
+      "images": 17
+    },
+    {
+      "displayId": "00832",
+      "id": "nsw-blue-bay-7-110-112-ocean",
+      "images": 23
+    },
+    {
+      "displayId": "00833",
+      "id": "nsw-blue-bay-46-werrina",
+      "images": 28
+    },
+    {
+      "displayId": "00834",
+      "id": "nsw-blue-bay-8-werrina",
+      "images": 19
+    },
+    {
+      "displayId": "00835",
+      "id": "nsw-blue-bay-3-120-122-ocean",
+      "images": 25
+    }
+  ]
+}
+
+[2026-05-13T04:39:49.484Z] Batch 27 started
+00836 nsw-blue-bay-126-ocean: checking
+00836 nsw-blue-bay-126-ocean: 17 images
+00837 nsw-blue-bay-7-107-109-ocean: checking
+00837 nsw-blue-bay-7-107-109-ocean: 2 images
+00838 nsw-terrigal-1-12-terrigal-esplanade: checking
+00838 nsw-terrigal-1-12-terrigal-esplanade: off market
+00839 nsw-terrigal-48-8-terrigal-esplanade: checking
+00839 nsw-terrigal-48-8-terrigal-esplanade: 18 images
+00840 nsw-terrigal-24-25-12-terrigal-esplanade: checking
+00840 nsw-terrigal-24-25-12-terrigal-esplanade: 20 images
+00841 nsw-mandalong-39-binalong: checking
+00841 nsw-mandalong-39-binalong: off market
+00842 nsw-congewai-150-listers: checking
+00842 nsw-congewai-150-listers: off market
+00843 nsw-kulnura-12-greta: checking
+00843 nsw-kulnura-12-greta: 11 images
+00844 nsw-pokolbin-353-oakey-creek: checking
+00844 nsw-pokolbin-353-oakey-creek: 27 images
+00845 nsw-pokolbin-266-deasys: checking
+00845 nsw-pokolbin-266-deasys: 19 images
+00846 nsw-pokolbin-123-694-hermitage: checking
+00846 nsw-pokolbin-123-694-hermitage: 8 images
+00847 nsw-pokolbin-lot-2-gillards: checking
+00847 nsw-pokolbin-lot-2-gillards: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00836",
+      "id": "nsw-blue-bay-126-ocean",
+      "images": 17
+    },
+    {
+      "displayId": "00837",
+      "id": "nsw-blue-bay-7-107-109-ocean",
+      "images": 2
+    },
+    {
+      "displayId": "00838",
+      "id": "nsw-terrigal-1-12-terrigal-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00839",
+      "id": "nsw-terrigal-48-8-terrigal-esplanade",
+      "images": 18
+    },
+    {
+      "displayId": "00840",
+      "id": "nsw-terrigal-24-25-12-terrigal-esplanade",
+      "images": 20
+    },
+    {
+      "displayId": "00841",
+      "id": "nsw-mandalong-39-binalong",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00842",
+      "id": "nsw-congewai-150-listers",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00843",
+      "id": "nsw-kulnura-12-greta",
+      "images": 11
+    },
+    {
+      "displayId": "00844",
+      "id": "nsw-pokolbin-353-oakey-creek",
+      "images": 27
+    },
+    {
+      "displayId": "00845",
+      "id": "nsw-pokolbin-266-deasys",
+      "images": 19
+    },
+    {
+      "displayId": "00846",
+      "id": "nsw-pokolbin-123-694-hermitage",
+      "images": 8
+    },
+    {
+      "displayId": "00847",
+      "id": "nsw-pokolbin-lot-2-gillards",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T04:42:32.354Z] Batch 28 started
+00849 nsw-lovedale-442-talga: checking
+00849 nsw-lovedale-442-talga: 35 images
+00850 nsw-pokolbin-861-913-hermitage: checking
+00850 nsw-pokolbin-861-913-hermitage: 21 images
+00851 nsw-cornwallis-299-cornwallis: checking
+00851 nsw-cornwallis-299-cornwallis: 10 images
+00852 nsw-calga-49-jones: checking
+00852 nsw-calga-49-jones: 16 images
+00853 nsw-gunderman-6923-wisemans-ferry: checking
+00853 nsw-gunderman-6923-wisemans-ferry: off market
+00854 nsw-central-mangrove-address-148548612: checking
+00854 nsw-central-mangrove-address-148548612: off market
+00855 nsw-the-oaks-580-montpelier: checking
+00855 nsw-the-oaks-580-montpelier: 21 images
+00856 nsw-mount-hunter-46-spring-creek: checking
+00856 nsw-mount-hunter-46-spring-creek: 10 images
+00857 nsw-mulgoa-134-roscrea: checking
+00857 nsw-mulgoa-134-roscrea: off market
+00858 nsw-the-oaks-680-burragorang: checking
+00858 nsw-the-oaks-680-burragorang: off market
+00859 vic-flinders-4470-frankston-flinders: checking
+00859 vic-flinders-4470-frankston-flinders: 1 images
+00860 vic-red-hill-aranda-675-white-hill: checking
+00860 vic-red-hill-aranda-675-white-hill: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00849",
+      "id": "nsw-lovedale-442-talga",
+      "images": 35
+    },
+    {
+      "displayId": "00850",
+      "id": "nsw-pokolbin-861-913-hermitage",
+      "images": 21
+    },
+    {
+      "displayId": "00851",
+      "id": "nsw-cornwallis-299-cornwallis",
+      "images": 10
+    },
+    {
+      "displayId": "00852",
+      "id": "nsw-calga-49-jones",
+      "images": 16
+    },
+    {
+      "displayId": "00853",
+      "id": "nsw-gunderman-6923-wisemans-ferry",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00854",
+      "id": "nsw-central-mangrove-address-148548612",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00855",
+      "id": "nsw-the-oaks-580-montpelier",
+      "images": 21
+    },
+    {
+      "displayId": "00856",
+      "id": "nsw-mount-hunter-46-spring-creek",
+      "images": 10
+    },
+    {
+      "displayId": "00857",
+      "id": "nsw-mulgoa-134-roscrea",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00858",
+      "id": "nsw-the-oaks-680-burragorang",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00859",
+      "id": "vic-flinders-4470-frankston-flinders",
+      "images": 1
+    },
+    {
+      "displayId": "00860",
+      "id": "vic-red-hill-aranda-675-white-hill",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T04:45:13.658Z] Batch 29 started
+00861 vic-pearcedale-111-craigs: checking
+00861 vic-pearcedale-111-craigs: 4 images
+00862 vic-balnarring-112-sandy-point: checking
+00862 vic-balnarring-112-sandy-point: 2 images
+00863 vic-strzelecki-1720-wild-dog-valley: checking
+00863 vic-strzelecki-1720-wild-dog-valley: off market
+00864 vic-neerim-east-1061-neerim-east: checking
+00864 vic-neerim-east-1061-neerim-east: 34 images
+00865 vic-garfield-20-martin: checking
+00865 vic-garfield-20-martin: off market
+00866 vic-thorpdale-69-stockdales: checking
+00866 vic-thorpdale-69-stockdales: 2 images
+00867 vic-tetoora-road-510-torwood-topiram: checking
+00867 vic-tetoora-road-510-torwood-topiram: off market
+00868 vic-buchan-south-151-wattle-hill: checking
+00868 vic-buchan-south-151-wattle-hill: off market
+00869 vic-freshwater-creek-1560-blackgate: checking
+00869 vic-freshwater-creek-1560-blackgate: 2 images
+00870 vic-freshwater-creek-1220-blackgate: checking
+00870 vic-freshwater-creek-1220-blackgate: 2 images
+00871 vic-anakie-1745-geelong-ballan: checking
+00871 vic-anakie-1745-geelong-ballan: 25 images
+00872 vic-little-river-37-newtons: checking
+00872 vic-little-river-37-newtons: 4 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00861",
+      "id": "vic-pearcedale-111-craigs",
+      "images": 4
+    },
+    {
+      "displayId": "00862",
+      "id": "vic-balnarring-112-sandy-point",
+      "images": 2
+    },
+    {
+      "displayId": "00863",
+      "id": "vic-strzelecki-1720-wild-dog-valley",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00864",
+      "id": "vic-neerim-east-1061-neerim-east",
+      "images": 34
+    },
+    {
+      "displayId": "00865",
+      "id": "vic-garfield-20-martin",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00866",
+      "id": "vic-thorpdale-69-stockdales",
+      "images": 2
+    },
+    {
+      "displayId": "00867",
+      "id": "vic-tetoora-road-510-torwood-topiram",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00868",
+      "id": "vic-buchan-south-151-wattle-hill",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00869",
+      "id": "vic-freshwater-creek-1560-blackgate",
+      "images": 2
+    },
+    {
+      "displayId": "00870",
+      "id": "vic-freshwater-creek-1220-blackgate",
+      "images": 2
+    },
+    {
+      "displayId": "00871",
+      "id": "vic-anakie-1745-geelong-ballan",
+      "images": 25
+    },
+    {
+      "displayId": "00872",
+      "id": "vic-little-river-37-newtons",
+      "images": 4
+    }
+  ]
+}
+
+[2026-05-13T04:48:52.261Z] Batch 30 started
+00873 vic-connewarre-10-blackrock: checking
+00873 vic-connewarre-10-blackrock: off market
+00874 vic-aireys-inlet-1005-great-ocean: checking
+00874 vic-aireys-inlet-1005-great-ocean: 3 images
+00875 vic-freshwater-creek-680-ghazeepore: checking
+00875 vic-freshwater-creek-680-ghazeepore: 14 images
+00876 vic-drysdale-200-drakes: checking
+00876 vic-drysdale-200-drakes: 28 images
+00877 vic-mount-moriac-695-reservoir: checking
+00877 vic-mount-moriac-695-reservoir: 8 images
+00878 sa-mosquito-hill-64-kokoda: checking
+00878 sa-mosquito-hill-64-kokoda: 35 images
+00879 sa-langhorne-creek-261-marandoo: checking
+00879 sa-langhorne-creek-261-marandoo: 28 images
+00880 sa-kuitpo-colony-831-blackfellows-creek: checking
+00880 sa-kuitpo-colony-831-blackfellows-creek: 35 images
+00881 sa-clayton-bay-100-point-sturt: checking
+00881 sa-clayton-bay-100-point-sturt: 30 images
+00882 sa-clayton-bay-87-thorpe: checking
+00882 sa-clayton-bay-87-thorpe: 35 images
+00883 sa-back-valley-784-back-valley: checking
+00883 sa-back-valley-784-back-valley: 35 images
+00884 sa-inman-valley-25-nosworthy: checking
+00884 sa-inman-valley-25-nosworthy: 29 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00873",
+      "id": "vic-connewarre-10-blackrock",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00874",
+      "id": "vic-aireys-inlet-1005-great-ocean",
+      "images": 3
+    },
+    {
+      "displayId": "00875",
+      "id": "vic-freshwater-creek-680-ghazeepore",
+      "images": 14
+    },
+    {
+      "displayId": "00876",
+      "id": "vic-drysdale-200-drakes",
+      "images": 28
+    },
+    {
+      "displayId": "00877",
+      "id": "vic-mount-moriac-695-reservoir",
+      "images": 8
+    },
+    {
+      "displayId": "00878",
+      "id": "sa-mosquito-hill-64-kokoda",
+      "images": 35
+    },
+    {
+      "displayId": "00879",
+      "id": "sa-langhorne-creek-261-marandoo",
+      "images": 28
+    },
+    {
+      "displayId": "00880",
+      "id": "sa-kuitpo-colony-831-blackfellows-creek",
+      "images": 35
+    },
+    {
+      "displayId": "00881",
+      "id": "sa-clayton-bay-100-point-sturt",
+      "images": 30
+    },
+    {
+      "displayId": "00882",
+      "id": "sa-clayton-bay-87-thorpe",
+      "images": 35
+    },
+    {
+      "displayId": "00883",
+      "id": "sa-back-valley-784-back-valley",
+      "images": 35
+    },
+    {
+      "displayId": "00884",
+      "id": "sa-inman-valley-25-nosworthy",
+      "images": 29
+    }
+  ]
+}
+
+[2026-05-13T04:51:41.527Z] Batch 31 started
+00885 sa-inman-valley-433-james-track: checking
+00885 sa-inman-valley-433-james-track: 35 images
+00886 sa-port-elliot-294-312-waterport: checking
+00886 sa-port-elliot-294-312-waterport: 10 images
+00887 sa-cape-jervis-74-williams: checking
+00887 sa-cape-jervis-74-williams: 28 images
+00888 nsw-manly-14-133-137-north-steyne: checking
+00888 nsw-manly-14-133-137-north-steyne: off market
+00889 nsw-manly-42-north-steyne: checking
+00889 nsw-manly-42-north-steyne: 3 images
+00890 nsw-manly-1-76-78-north-steyne: checking
+00890 nsw-manly-1-76-78-north-steyne: off market
+00891 nsw-manly-4-62-north-steyne: checking
+00891 nsw-manly-4-62-north-steyne: 9 images
+00892 nsw-manly-3-105-107-north-steyne: checking
+00892 nsw-manly-3-105-107-north-steyne: off market
+00893 nsw-manly-38-62-north-steyne: checking
+00893 nsw-manly-38-62-north-steyne: off market
+00894 nsw-manly-4-140-142-north-steyne: checking
+00894 nsw-manly-4-140-142-north-steyne: 19 images
+00895 nsw-manly-45-20-bonner: checking
+00895 nsw-manly-45-20-bonner: 15 images
+00896 nsw-manly-3-54-addison: checking
+00896 nsw-manly-3-54-addison: 3 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00885",
+      "id": "sa-inman-valley-433-james-track",
+      "images": 35
+    },
+    {
+      "displayId": "00886",
+      "id": "sa-port-elliot-294-312-waterport",
+      "images": 10
+    },
+    {
+      "displayId": "00887",
+      "id": "sa-cape-jervis-74-williams",
+      "images": 28
+    },
+    {
+      "displayId": "00888",
+      "id": "nsw-manly-14-133-137-north-steyne",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00889",
+      "id": "nsw-manly-42-north-steyne",
+      "images": 3
+    },
+    {
+      "displayId": "00890",
+      "id": "nsw-manly-1-76-78-north-steyne",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00891",
+      "id": "nsw-manly-4-62-north-steyne",
+      "images": 9
+    },
+    {
+      "displayId": "00892",
+      "id": "nsw-manly-3-105-107-north-steyne",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00893",
+      "id": "nsw-manly-38-62-north-steyne",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00894",
+      "id": "nsw-manly-4-140-142-north-steyne",
+      "images": 19
+    },
+    {
+      "displayId": "00895",
+      "id": "nsw-manly-45-20-bonner",
+      "images": 15
+    },
+    {
+      "displayId": "00896",
+      "id": "nsw-manly-3-54-addison",
+      "images": 3
+    }
+  ]
+}
+
+[2026-05-13T04:54:42.829Z] Batch 32 started
+00897 nsw-manly-2-19a-21-addison: checking
+00897 nsw-manly-2-19a-21-addison: off market
+00898 nsw-cronulla-69-69a-the-esplanade: checking
+00898 nsw-cronulla-69-69a-the-esplanade: 22 images
+00899 nsw-cronulla-85-the-esplanade: checking
+00899 nsw-cronulla-85-the-esplanade: off market
+00900 nsw-cronulla-92-the-esplanade: checking
+00900 nsw-cronulla-92-the-esplanade: off market
+00901 nsw-cronulla-704-4-6-boorima: checking
+00901 nsw-cronulla-704-4-6-boorima: 9 images
+00902 nsw-cronulla-801-47-57-gerrale: checking
+00902 nsw-cronulla-801-47-57-gerrale: 20 images
+00903 nsw-cronulla-306-47-57-gerrale: checking
+00903 nsw-cronulla-306-47-57-gerrale: 10 images
+00904 nsw-cronulla-9-27-29-the-esplanade: checking
+00904 nsw-cronulla-9-27-29-the-esplanade: 4 images
+00905 nsw-wollongong-2-26-cliff: checking
+00905 nsw-wollongong-2-26-cliff: 17 images
+00906 nsw-wollongong-9-48-50-cliff: checking
+00906 nsw-wollongong-9-48-50-cliff: 24 images
+00907 nsw-wollongong-7-28-cliff: checking
+00907 nsw-wollongong-7-28-cliff: 16 images
+00908 nsw-wollongong-6-72-cliff: checking
+00908 nsw-wollongong-6-72-cliff: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00897",
+      "id": "nsw-manly-2-19a-21-addison",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00898",
+      "id": "nsw-cronulla-69-69a-the-esplanade",
+      "images": 22
+    },
+    {
+      "displayId": "00899",
+      "id": "nsw-cronulla-85-the-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00900",
+      "id": "nsw-cronulla-92-the-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00901",
+      "id": "nsw-cronulla-704-4-6-boorima",
+      "images": 9
+    },
+    {
+      "displayId": "00902",
+      "id": "nsw-cronulla-801-47-57-gerrale",
+      "images": 20
+    },
+    {
+      "displayId": "00903",
+      "id": "nsw-cronulla-306-47-57-gerrale",
+      "images": 10
+    },
+    {
+      "displayId": "00904",
+      "id": "nsw-cronulla-9-27-29-the-esplanade",
+      "images": 4
+    },
+    {
+      "displayId": "00905",
+      "id": "nsw-wollongong-2-26-cliff",
+      "images": 17
+    },
+    {
+      "displayId": "00906",
+      "id": "nsw-wollongong-9-48-50-cliff",
+      "images": 24
+    },
+    {
+      "displayId": "00907",
+      "id": "nsw-wollongong-7-28-cliff",
+      "images": 16
+    },
+    {
+      "displayId": "00908",
+      "id": "nsw-wollongong-6-72-cliff",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T04:57:07.555Z] Batch 33 started
+00909 nsw-shellharbour-52-wollongong: checking
+00909 nsw-shellharbour-52-wollongong: off market
+00910 nsw-shellharbour-4-boollwarroo: checking
+00910 nsw-shellharbour-4-boollwarroo: 29 images
+00911 nsw-barrack-point-31-junction: checking
+00911 nsw-barrack-point-31-junction: 15 images
+00912 nsw-barrack-point-37-junction: checking
+00912 nsw-barrack-point-37-junction: 23 images
+00913 nsw-barrack-point-12-beach: checking
+00913 nsw-barrack-point-12-beach: 12 images
+00914 nsw-barrack-point-50-50-junction: checking
+00914 nsw-barrack-point-50-50-junction: 4 images
+00915 nsw-barrack-point-8-50-junction: checking
+00915 nsw-barrack-point-8-50-junction: 4 images
+00916 nsw-barrack-point-25-cliff: checking
+00916 nsw-barrack-point-25-cliff: 25 images
+00917 nsw-barrack-point-27-cliff: checking
+00917 nsw-barrack-point-27-cliff: 14 images
+00918 nsw-maloneys-beach-173-northcove-property-now: checking
+00918 nsw-maloneys-beach-173-northcove-property-now: off market
+00919 vic-cowes-450-2-3-esplanade: checking
+00919 vic-cowes-450-2-3-esplanade: 10 images
+00920 vic-cowes-201-1-esplanade: checking
+00920 vic-cowes-201-1-esplanade: 18 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00909",
+      "id": "nsw-shellharbour-52-wollongong",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00910",
+      "id": "nsw-shellharbour-4-boollwarroo",
+      "images": 29
+    },
+    {
+      "displayId": "00911",
+      "id": "nsw-barrack-point-31-junction",
+      "images": 15
+    },
+    {
+      "displayId": "00912",
+      "id": "nsw-barrack-point-37-junction",
+      "images": 23
+    },
+    {
+      "displayId": "00913",
+      "id": "nsw-barrack-point-12-beach",
+      "images": 12
+    },
+    {
+      "displayId": "00914",
+      "id": "nsw-barrack-point-50-50-junction",
+      "images": 4
+    },
+    {
+      "displayId": "00915",
+      "id": "nsw-barrack-point-8-50-junction",
+      "images": 4
+    },
+    {
+      "displayId": "00916",
+      "id": "nsw-barrack-point-25-cliff",
+      "images": 25
+    },
+    {
+      "displayId": "00917",
+      "id": "nsw-barrack-point-27-cliff",
+      "images": 14
+    },
+    {
+      "displayId": "00918",
+      "id": "nsw-maloneys-beach-173-northcove-property-now",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00919",
+      "id": "vic-cowes-450-2-3-esplanade",
+      "images": 10
+    },
+    {
+      "displayId": "00920",
+      "id": "vic-cowes-201-1-esplanade",
+      "images": 18
+    }
+  ]
+}
+
+[2026-05-13T04:59:36.589Z] Batch 34 started
+00921 vic-cowes-13-4-esplanade: checking
+00921 vic-cowes-13-4-esplanade: 3 images
+00922 vic-cowes-15-4-esplanade: checking
+00922 vic-cowes-15-4-esplanade: 23 images
+00923 vic-cowes-27-warley: checking
+00923 vic-cowes-27-warley: 21 images
+00924 vic-surf-beach-184-esplanade: checking
+00924 vic-surf-beach-184-esplanade: off market
+00925 vic-surf-beach-204b-esplanade: checking
+00925 vic-surf-beach-204b-esplanade: 14 images
+00926 vic-sunderland-bay-56b-esplanade: checking
+00926 vic-sunderland-bay-56b-esplanade: 0 images
+00927 vic-sunderland-bay-18-esplanade: checking
+00927 vic-sunderland-bay-18-esplanade: 18 images
+00928 vic-ventnor-2-boat-creek: checking
+00928 vic-ventnor-2-boat-creek: 7 images
+00929 nsw-broke-1066-wollombi: checking
+00929 nsw-broke-1066-wollombi: 35 images
+00930 nsw-dalwood-232c-fernhill: checking
+00930 nsw-dalwood-232c-fernhill: 35 images
+00931 nsw-laguna-281-watagan-creek: checking
+00931 nsw-laguna-281-watagan-creek: 33 images
+00932 nsw-pokolbin-151-palmers: checking
+00932 nsw-pokolbin-151-palmers: 22 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00921",
+      "id": "vic-cowes-13-4-esplanade",
+      "images": 3
+    },
+    {
+      "displayId": "00922",
+      "id": "vic-cowes-15-4-esplanade",
+      "images": 23
+    },
+    {
+      "displayId": "00923",
+      "id": "vic-cowes-27-warley",
+      "images": 21
+    },
+    {
+      "displayId": "00924",
+      "id": "vic-surf-beach-184-esplanade",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00925",
+      "id": "vic-surf-beach-204b-esplanade",
+      "images": 14
+    },
+    {
+      "displayId": "00927",
+      "id": "vic-sunderland-bay-18-esplanade",
+      "images": 18
+    },
+    {
+      "displayId": "00928",
+      "id": "vic-ventnor-2-boat-creek",
+      "images": 7
+    },
+    {
+      "displayId": "00929",
+      "id": "nsw-broke-1066-wollombi",
+      "images": 35
+    },
+    {
+      "displayId": "00930",
+      "id": "nsw-dalwood-232c-fernhill",
+      "images": 35
+    },
+    {
+      "displayId": "00931",
+      "id": "nsw-laguna-281-watagan-creek",
+      "images": 33
+    },
+    {
+      "displayId": "00932",
+      "id": "nsw-pokolbin-151-palmers",
+      "images": 22
+    }
+  ]
+}
+
+[2026-05-13T05:02:43.353Z] Batch 35 started
+00933 nsw-martinsville-56-kemp: checking
+00933 nsw-martinsville-56-kemp: 28 images
+00934 nsw-pokolbin-463-deasys: checking
+00934 nsw-pokolbin-463-deasys: 27 images
+00935 nsw-kulnura-1348-george-downes: checking
+00935 nsw-kulnura-1348-george-downes: off market
+00936 nsw-kulnura-271-williams: checking
+00936 nsw-kulnura-271-williams: 23 images
+00937 nsw-wyong-creek-1252-yarramalong: checking
+00937 nsw-wyong-creek-1252-yarramalong: 14 images
+00938 nsw-wyee-274-toepfers: checking
+00938 nsw-wyee-274-toepfers: 22 images
+00939 nsw-cobbitty-420-cut-hill: checking
+00939 nsw-cobbitty-420-cut-hill: 23 images
+00940 nsw-cedar-brush-creek-114-priests-ridge: checking
+00940 nsw-cedar-brush-creek-114-priests-ridge: 24 images
+00941 nsw-yarramalong-3-rose-hill: checking
+00941 nsw-yarramalong-3-rose-hill: 30 images
+00942 nsw-yarramalong-lot-3-bunning-creek: checking
+00942 nsw-yarramalong-lot-3-bunning-creek: 4 images
+00943 nsw-mangrove-mountain-address-700357900: checking
+00943 nsw-mangrove-mountain-address-700357900: 3 images
+00944 nsw-moss-vale-562-nowra: checking
+00944 nsw-moss-vale-562-nowra: 35 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00933",
+      "id": "nsw-martinsville-56-kemp",
+      "images": 28
+    },
+    {
+      "displayId": "00934",
+      "id": "nsw-pokolbin-463-deasys",
+      "images": 27
+    },
+    {
+      "displayId": "00935",
+      "id": "nsw-kulnura-1348-george-downes",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00936",
+      "id": "nsw-kulnura-271-williams",
+      "images": 23
+    },
+    {
+      "displayId": "00937",
+      "id": "nsw-wyong-creek-1252-yarramalong",
+      "images": 14
+    },
+    {
+      "displayId": "00938",
+      "id": "nsw-wyee-274-toepfers",
+      "images": 22
+    },
+    {
+      "displayId": "00939",
+      "id": "nsw-cobbitty-420-cut-hill",
+      "images": 23
+    },
+    {
+      "displayId": "00940",
+      "id": "nsw-cedar-brush-creek-114-priests-ridge",
+      "images": 24
+    },
+    {
+      "displayId": "00941",
+      "id": "nsw-yarramalong-3-rose-hill",
+      "images": 30
+    },
+    {
+      "displayId": "00942",
+      "id": "nsw-yarramalong-lot-3-bunning-creek",
+      "images": 4
+    },
+    {
+      "displayId": "00943",
+      "id": "nsw-mangrove-mountain-address-700357900",
+      "images": 3
+    },
+    {
+      "displayId": "00944",
+      "id": "nsw-moss-vale-562-nowra",
+      "images": 35
+    }
+  ]
+}
+
+[2026-05-13T05:05:32.742Z] Batch 36 started
+00945 sa-meadows-45-battunga: checking
+00945 sa-meadows-45-battunga: off market
+00946 sa-finniss-61-bridge-view: checking
+00946 sa-finniss-61-bridge-view: 34 images
+00947 sa-carrickalinga-956-forktree: checking
+00947 sa-carrickalinga-956-forktree: 35 images
+00948 sa-lower-inman-valley-101-nottle: checking
+00948 sa-lower-inman-valley-101-nottle: 35 images
+00949 vic-port-melbourne-102-103-beach: checking
+00949 vic-port-melbourne-102-103-beach: off market
+00950 vic-port-melbourne-19-105-beach: checking
+00950 vic-port-melbourne-19-105-beach: 18 images
+00951 vic-port-melbourne-2t0-147-beach: checking
+00951 vic-port-melbourne-2t0-147-beach: off market
+00952 vic-port-melbourne-1002-147-beach: checking
+00952 vic-port-melbourne-1002-147-beach: 11 images
+00953 vic-port-melbourne-407-127-beach: checking
+00953 vic-port-melbourne-407-127-beach: off market
+00954 vic-port-melbourne-305-49-beach: checking
+00954 vic-port-melbourne-305-49-beach: off market
+00955 vic-port-melbourne-503-65-beach: checking
+00955 vic-port-melbourne-503-65-beach: 15 images
+00956 vic-port-melbourne-403-62-beach: checking
+00956 vic-port-melbourne-403-62-beach: off market
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00945",
+      "id": "sa-meadows-45-battunga",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00946",
+      "id": "sa-finniss-61-bridge-view",
+      "images": 34
+    },
+    {
+      "displayId": "00947",
+      "id": "sa-carrickalinga-956-forktree",
+      "images": 35
+    },
+    {
+      "displayId": "00948",
+      "id": "sa-lower-inman-valley-101-nottle",
+      "images": 35
+    },
+    {
+      "displayId": "00949",
+      "id": "vic-port-melbourne-102-103-beach",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00950",
+      "id": "vic-port-melbourne-19-105-beach",
+      "images": 18
+    },
+    {
+      "displayId": "00951",
+      "id": "vic-port-melbourne-2t0-147-beach",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00952",
+      "id": "vic-port-melbourne-1002-147-beach",
+      "images": 11
+    },
+    {
+      "displayId": "00953",
+      "id": "vic-port-melbourne-407-127-beach",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00954",
+      "id": "vic-port-melbourne-305-49-beach",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00955",
+      "id": "vic-port-melbourne-503-65-beach",
+      "images": 15
+    },
+    {
+      "displayId": "00956",
+      "id": "vic-port-melbourne-403-62-beach",
+      "status": "unavailable"
+    }
+  ]
+}
+
+[2026-05-13T05:07:53.103Z] Batch 37 started
+00957 vic-port-melbourne-9a-9-beach: checking
+00957 vic-port-melbourne-9a-9-beach: 13 images
+00958 vic-port-melbourne-407-49-beach: checking
+00958 vic-port-melbourne-407-49-beach: 13 images
+00959 vic-williamstown-23-8-the-strand: checking
+00959 vic-williamstown-23-8-the-strand: 13 images
+00960 vic-williamstown-24-the-strand: checking
+00960 vic-williamstown-24-the-strand: 28 images
+00961 vic-williamstown-28-the-strand: checking
+00961 vic-williamstown-28-the-strand: 15 images
+00962 vic-williamstown-27a-the-strand: checking
+00962 vic-williamstown-27a-the-strand: 13 images
+00963 vic-williamstown-2-33-the-strand: checking
+00963 vic-williamstown-2-33-the-strand: 33 images
+00964 vic-williamstown-38-the-strand: checking
+00964 vic-williamstown-38-the-strand: 4 images
+00965 vic-williamstown-6-8-the-strand: checking
+00965 vic-williamstown-6-8-the-strand: off market
+00966 vic-geelong-6-adie: checking
+00966 vic-geelong-6-adie: 16 images
+00967 vic-geelong-501-6-8-eastern-beach: checking
+00967 vic-geelong-501-6-8-eastern-beach: 20 images
+00968 vic-geelong-502-6-8-eastern-beach: checking
+00968 vic-geelong-502-6-8-eastern-beach: 29 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00957",
+      "id": "vic-port-melbourne-9a-9-beach",
+      "images": 13
+    },
+    {
+      "displayId": "00958",
+      "id": "vic-port-melbourne-407-49-beach",
+      "images": 13
+    },
+    {
+      "displayId": "00959",
+      "id": "vic-williamstown-23-8-the-strand",
+      "images": 13
+    },
+    {
+      "displayId": "00960",
+      "id": "vic-williamstown-24-the-strand",
+      "images": 28
+    },
+    {
+      "displayId": "00961",
+      "id": "vic-williamstown-28-the-strand",
+      "images": 15
+    },
+    {
+      "displayId": "00962",
+      "id": "vic-williamstown-27a-the-strand",
+      "images": 13
+    },
+    {
+      "displayId": "00963",
+      "id": "vic-williamstown-2-33-the-strand",
+      "images": 33
+    },
+    {
+      "displayId": "00964",
+      "id": "vic-williamstown-38-the-strand",
+      "images": 4
+    },
+    {
+      "displayId": "00965",
+      "id": "vic-williamstown-6-8-the-strand",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00966",
+      "id": "vic-geelong-6-adie",
+      "images": 16
+    },
+    {
+      "displayId": "00967",
+      "id": "vic-geelong-501-6-8-eastern-beach",
+      "images": 20
+    },
+    {
+      "displayId": "00968",
+      "id": "vic-geelong-502-6-8-eastern-beach",
+      "images": 29
+    }
+  ]
+}
+
+[2026-05-13T05:10:23.660Z] Batch 38 started
+00969 vic-geelong-205-6-8-eastern-beach: checking
+00969 vic-geelong-205-6-8-eastern-beach: 16 images
+00970 vic-geelong-302-6-8-eastern-beach: checking
+00970 vic-geelong-302-6-8-eastern-beach: 22 images
+00971 vic-geelong-304-100-western-beach: checking
+00971 vic-geelong-304-100-western-beach: 14 images
+00972 vic-geelong-502-100-western-beach: checking
+00972 vic-geelong-502-100-western-beach: 15 images
+00973 vic-geelong-505-100-western-beach: checking
+00973 vic-geelong-505-100-western-beach: 10 images
+00974 vic-geelong-107-16-esplanade-south: checking
+00974 vic-geelong-107-16-esplanade-south: 13 images
+00975 vic-geelong-204-16-esplanade-south: checking
+00975 vic-geelong-204-16-esplanade-south: 10 images
+00976 vic-anglesea-43-odonohue: checking
+00976 vic-anglesea-43-odonohue: 23 images
+00977 vic-anglesea-112-melba: checking
+00977 vic-anglesea-112-melba: 22 images
+00978 vic-anglesea-124-melba: checking
+00978 vic-anglesea-124-melba: 22 images
+00979 vic-anglesea-142-melba: checking
+00979 vic-anglesea-142-melba: 13 images
+00980 vic-anglesea-142a-melba: checking
+00980 vic-anglesea-142a-melba: 16 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00969",
+      "id": "vic-geelong-205-6-8-eastern-beach",
+      "images": 16
+    },
+    {
+      "displayId": "00970",
+      "id": "vic-geelong-302-6-8-eastern-beach",
+      "images": 22
+    },
+    {
+      "displayId": "00971",
+      "id": "vic-geelong-304-100-western-beach",
+      "images": 14
+    },
+    {
+      "displayId": "00972",
+      "id": "vic-geelong-502-100-western-beach",
+      "images": 15
+    },
+    {
+      "displayId": "00973",
+      "id": "vic-geelong-505-100-western-beach",
+      "images": 10
+    },
+    {
+      "displayId": "00974",
+      "id": "vic-geelong-107-16-esplanade-south",
+      "images": 13
+    },
+    {
+      "displayId": "00975",
+      "id": "vic-geelong-204-16-esplanade-south",
+      "images": 10
+    },
+    {
+      "displayId": "00976",
+      "id": "vic-anglesea-43-odonohue",
+      "images": 23
+    },
+    {
+      "displayId": "00977",
+      "id": "vic-anglesea-112-melba",
+      "images": 22
+    },
+    {
+      "displayId": "00978",
+      "id": "vic-anglesea-124-melba",
+      "images": 22
+    },
+    {
+      "displayId": "00979",
+      "id": "vic-anglesea-142-melba",
+      "images": 13
+    },
+    {
+      "displayId": "00980",
+      "id": "vic-anglesea-142a-melba",
+      "images": 16
+    }
+  ]
+}
+
+[2026-05-13T05:12:55.957Z] Batch 39 started
+00981 vic-anglesea-8-141-great-ocean: checking
+00981 vic-anglesea-8-141-great-ocean: 20 images
+00982 vic-anglesea-9-tonge: checking
+00982 vic-anglesea-9-tonge: 12 images
+00983 vic-anglesea-10-tonge: checking
+00983 vic-anglesea-10-tonge: off market
+00984 vic-anglesea-12-wallis: checking
+00984 vic-anglesea-12-wallis: 25 images
+00985 vic-lorne-11-tradewinds: checking
+00985 vic-lorne-11-tradewinds: 13 images
+00986 vic-lorne-d221-148-174-mountjoy: checking
+00986 vic-lorne-d221-148-174-mountjoy: 15 images
+00987 vic-lorne-216-35-mountjoy: checking
+00987 vic-lorne-216-35-mountjoy: 8 images
+00988 vic-lorne-b211-148-1-mountjoy: checking
+00988 vic-lorne-b211-148-1-mountjoy: 11 images
+00989 vic-lorne-f325-148-174-mountjoy: checking
+00989 vic-lorne-f325-148-174-mountjoy: 9 images
+00990 vic-lorne-f230-148-174-mountjoy: checking
+00990 vic-lorne-f230-148-174-mountjoy: 6 images
+00991 vic-lorne-a107-148-174-mountjoy: checking
+00991 vic-lorne-a107-148-174-mountjoy: off market
+00992 vic-lorne-18-great-ocean: checking
+00992 vic-lorne-18-great-ocean: 10 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00981",
+      "id": "vic-anglesea-8-141-great-ocean",
+      "images": 20
+    },
+    {
+      "displayId": "00982",
+      "id": "vic-anglesea-9-tonge",
+      "images": 12
+    },
+    {
+      "displayId": "00983",
+      "id": "vic-anglesea-10-tonge",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00984",
+      "id": "vic-anglesea-12-wallis",
+      "images": 25
+    },
+    {
+      "displayId": "00985",
+      "id": "vic-lorne-11-tradewinds",
+      "images": 13
+    },
+    {
+      "displayId": "00986",
+      "id": "vic-lorne-d221-148-174-mountjoy",
+      "images": 15
+    },
+    {
+      "displayId": "00987",
+      "id": "vic-lorne-216-35-mountjoy",
+      "images": 8
+    },
+    {
+      "displayId": "00988",
+      "id": "vic-lorne-b211-148-1-mountjoy",
+      "images": 11
+    },
+    {
+      "displayId": "00989",
+      "id": "vic-lorne-f325-148-174-mountjoy",
+      "images": 9
+    },
+    {
+      "displayId": "00990",
+      "id": "vic-lorne-f230-148-174-mountjoy",
+      "images": 6
+    },
+    {
+      "displayId": "00991",
+      "id": "vic-lorne-a107-148-174-mountjoy",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00992",
+      "id": "vic-lorne-18-great-ocean",
+      "images": 10
+    }
+  ]
+}
+
+[2026-05-13T05:15:25.097Z] Batch 40 started
+00993 vic-lorne-67-hall: checking
+00993 vic-lorne-67-hall: 13 images
+00994 vic-lorne-1-118-mountjoy: checking
+00994 vic-lorne-1-118-mountjoy: 4 images
+00995 wa-wooroloo-address-204286892: checking
+00995 wa-wooroloo-address-204286892: 4 images
+00996 wa-bakers-hill-lot-20-428-chitty: checking
+00996 wa-bakers-hill-lot-20-428-chitty: off market
+00997 wa-bambun-3602-strickland: checking
+00997 wa-bambun-3602-strickland: 10 images
+00998 wa-morangup-lot-102-jingaling-brook: checking
+00998 wa-morangup-lot-102-jingaling-brook: off market
+00999 wa-toodyay-address-146810028: checking
+00999 wa-toodyay-address-146810028: off market
+01000 qld-beechmont-618-binna-burra: checking
+01000 qld-beechmont-618-binna-burra: 3 images
+01001 qld-beechmont-589-south-west: checking
+01001 qld-beechmont-589-south-west: off market
+01002 qld-witheren-3277-beechmont: checking
+01002 qld-witheren-3277-beechmont: off market
+01003 qld-illinbah-726-illinbah: checking
+01003 qld-illinbah-726-illinbah: off market
+01004 qld-illinbah-248-illinbah: checking
+01004 qld-illinbah-248-illinbah: 27 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00993",
+      "id": "vic-lorne-67-hall",
+      "images": 13
+    },
+    {
+      "displayId": "00994",
+      "id": "vic-lorne-1-118-mountjoy",
+      "images": 4
+    },
+    {
+      "displayId": "00995",
+      "id": "wa-wooroloo-address-204286892",
+      "images": 4
+    },
+    {
+      "displayId": "00996",
+      "id": "wa-bakers-hill-lot-20-428-chitty",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00997",
+      "id": "wa-bambun-3602-strickland",
+      "images": 10
+    },
+    {
+      "displayId": "00998",
+      "id": "wa-morangup-lot-102-jingaling-brook",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00999",
+      "id": "wa-toodyay-address-146810028",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01000",
+      "id": "qld-beechmont-618-binna-burra",
+      "images": 3
+    },
+    {
+      "displayId": "01001",
+      "id": "qld-beechmont-589-south-west",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01002",
+      "id": "qld-witheren-3277-beechmont",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01003",
+      "id": "qld-illinbah-726-illinbah",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01004",
+      "id": "qld-illinbah-248-illinbah",
+      "images": 27
+    }
+  ]
+}
+
+[2026-05-13T05:18:03.445Z] Batch 41 started
+01005 qld-illinbah-590-illinbah: checking
+01005 qld-illinbah-590-illinbah: 30 images
+01006 qld-boyland-676-mundoolun-connection: checking
+01006 qld-boyland-676-mundoolun-connection: off market
+01007 qld-illinbah-565-illinbah: checking
+01007 qld-illinbah-565-illinbah: 4 images
+01008 qld-sarabah-466-sarabah: checking
+01008 qld-sarabah-466-sarabah: 33 images
+01009 sa-victor-harbor-8-22-esplanade: checking
+01009 sa-victor-harbor-8-22-esplanade: 32 images
+01010 sa-victor-harbor-3-141-hindmarsh: checking
+01010 sa-victor-harbor-3-141-hindmarsh: 19 images
+01011 sa-victor-harbor-16-145-147-hindmarsh: checking
+01011 sa-victor-harbor-16-145-147-hindmarsh: 18 images
+01012 nsw-bowral-1211-old-south: checking
+01012 nsw-bowral-1211-old-south: 27 images
+01013 nsw-canyonleigh-273-tugalong: checking
+01013 nsw-canyonleigh-273-tugalong: 24 images
+01014 nsw-bullio-185-pulpit-rock: checking
+01014 nsw-bullio-185-pulpit-rock: 31 images
+01015 nsw-sutton-forest-7361-illawarra: checking
+01015 nsw-sutton-forest-7361-illawarra: 35 images
+01016 nsw-robertson-240-lees: checking
+01016 nsw-robertson-240-lees: 27 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "01005",
+      "id": "qld-illinbah-590-illinbah",
+      "images": 30
+    },
+    {
+      "displayId": "01006",
+      "id": "qld-boyland-676-mundoolun-connection",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01007",
+      "id": "qld-illinbah-565-illinbah",
+      "images": 4
+    },
+    {
+      "displayId": "01008",
+      "id": "qld-sarabah-466-sarabah",
+      "images": 33
+    },
+    {
+      "displayId": "01009",
+      "id": "sa-victor-harbor-8-22-esplanade",
+      "images": 32
+    },
+    {
+      "displayId": "01010",
+      "id": "sa-victor-harbor-3-141-hindmarsh",
+      "images": 19
+    },
+    {
+      "displayId": "01011",
+      "id": "sa-victor-harbor-16-145-147-hindmarsh",
+      "images": 18
+    },
+    {
+      "displayId": "01012",
+      "id": "nsw-bowral-1211-old-south",
+      "images": 27
+    },
+    {
+      "displayId": "01013",
+      "id": "nsw-canyonleigh-273-tugalong",
+      "images": 24
+    },
+    {
+      "displayId": "01014",
+      "id": "nsw-bullio-185-pulpit-rock",
+      "images": 31
+    },
+    {
+      "displayId": "01015",
+      "id": "nsw-sutton-forest-7361-illawarra",
+      "images": 35
+    },
+    {
+      "displayId": "01016",
+      "id": "nsw-robertson-240-lees",
+      "images": 27
+    }
+  ]
+}
+
+[2026-05-13T05:20:35.001Z] Batch 42 started
+01017 nsw-canyonleigh-1630-tugalong: checking
+01017 nsw-canyonleigh-1630-tugalong: 16 images
+01018 nsw-exeter-632-old-argyle: checking
+01018 nsw-exeter-632-old-argyle: 23 images
+01019 nsw-exeter-506-old-argyle: checking
+01019 nsw-exeter-506-old-argyle: 22 images
+01020 nsw-moss-vale-542-nowra: checking
+01020 nsw-moss-vale-542-nowra: 19 images
+01021 nsw-robertson-188-fountaindale: checking
+01021 nsw-robertson-188-fountaindale: 29 images
+01022 vic-mount-duneed-1030-surf-coast: checking
+01022 vic-mount-duneed-1030-surf-coast: 35 images
+01023 vic-lara-1040-bacchus-marsh: checking
+01023 vic-lara-1040-bacchus-marsh: 4 images
+01024 vic-lara-address-127071774: checking
+01024 vic-lara-address-127071774: 1 images
+01025 vic-little-river-15-colin: checking
+01025 vic-little-river-15-colin: off market
+01026 sa-dutton-oaklands-road: checking
+01026 sa-dutton-oaklands-road: permission denied
+01027 sa-keyneton-lot-128-keyneton: checking
+01027 sa-keyneton-lot-128-keyneton: permission denied
+01028 sa-ebenezer-305-belvidere: checking
+01028 sa-ebenezer-305-belvidere: 5 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "01017",
+      "id": "nsw-canyonleigh-1630-tugalong",
+      "images": 16
+    },
+    {
+      "displayId": "01018",
+      "id": "nsw-exeter-632-old-argyle",
+      "images": 23
+    },
+    {
+      "displayId": "01019",
+      "id": "nsw-exeter-506-old-argyle",
+      "images": 22
+    },
+    {
+      "displayId": "01020",
+      "id": "nsw-moss-vale-542-nowra",
+      "images": 19
+    },
+    {
+      "displayId": "01021",
+      "id": "nsw-robertson-188-fountaindale",
+      "images": 29
+    },
+    {
+      "displayId": "01022",
+      "id": "vic-mount-duneed-1030-surf-coast",
+      "images": 35
+    },
+    {
+      "displayId": "01023",
+      "id": "vic-lara-1040-bacchus-marsh",
+      "images": 4
+    },
+    {
+      "displayId": "01024",
+      "id": "vic-lara-address-127071774",
+      "images": 1
+    },
+    {
+      "displayId": "01025",
+      "id": "vic-little-river-15-colin",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01028",
+      "id": "sa-ebenezer-305-belvidere",
+      "images": 5
+    }
+  ]
+}
+
+[2026-05-13T05:23:18.664Z] Batch 43 started
+01029 sa-springton-178-jutland: checking
+01029 sa-springton-178-jutland: permission denied
+01030 sa-rowland-flat-lot-1-jacob: checking
+01030 sa-rowland-flat-lot-1-jacob: permission denied
+01031 sa-tanunda-14-vine-vale: checking
+01031 sa-tanunda-14-vine-vale: permission denied
+01032 sa-bethel-275-peltz: checking
+01032 sa-bethel-275-peltz: 3 images
+01033 sa-clare-285-neagles-rock: checking
+01033 sa-clare-285-neagles-rock: permission denied
+01034 sa-auburn-lot-54-tank: checking
+01034 sa-auburn-lot-54-tank: permission denied
+01035 sa-clare-329-barinia: checking
+01035 sa-clare-329-barinia: 4 images
+01036 sa-osullivan-beach-6-baden: checking
+01036 sa-osullivan-beach-6-baden: 24 images
+01037 nsw-barkers-vale-343-williams: checking
+01037 nsw-barkers-vale-343-williams: 35 images
+01038 nsw-clunes-79-johnston: checking
+01038 nsw-clunes-79-johnston: 31 images
+01039 nsw-tucki-tucki-1368-wyrallah: checking
+01039 nsw-tucki-tucki-1368-wyrallah: 35 images
+01040 nsw-tyalgum-creek-365-tyalgum-creek: checking
+01040 nsw-tyalgum-creek-365-tyalgum-creek: 32 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "01032",
+      "id": "sa-bethel-275-peltz",
+      "images": 3
+    },
+    {
+      "displayId": "01035",
+      "id": "sa-clare-329-barinia",
+      "images": 4
+    },
+    {
+      "displayId": "01036",
+      "id": "sa-osullivan-beach-6-baden",
+      "images": 24
+    },
+    {
+      "displayId": "01037",
+      "id": "nsw-barkers-vale-343-williams",
+      "images": 35
+    },
+    {
+      "displayId": "01038",
+      "id": "nsw-clunes-79-johnston",
+      "images": 31
+    },
+    {
+      "displayId": "01039",
+      "id": "nsw-tucki-tucki-1368-wyrallah",
+      "images": 35
+    },
+    {
+      "displayId": "01040",
+      "id": "nsw-tyalgum-creek-365-tyalgum-creek",
+      "images": 32
+    }
+  ]
+}
+
+[2026-05-13T05:25:57.452Z] Batch 44 started
+01041 nsw-cumbalum-103-cumbalum: checking
+01041 nsw-cumbalum-103-cumbalum: 6 images
+01042 nsw-kangaroo-creek-427-middle-creek: checking
+01042 nsw-kangaroo-creek-427-middle-creek: 25 images
+01043 nsw-new-italy-1050-swan-bay-new-italy: checking
+01043 nsw-new-italy-1050-swan-bay-new-italy: 20 images
+01044 nsw-brunswick-heads-73-bashforths: checking
+01044 nsw-brunswick-heads-73-bashforths: 22 images
+01045 nsw-dungarubba-354-broadwater: checking
+01045 nsw-dungarubba-354-broadwater: 31 images
+01046 nsw-barkers-vale-69-hidden-valley: checking
+01046 nsw-barkers-vale-69-hidden-valley: 33 images
+01047 nsw-lambs-valley-1542-maitland-vale: checking
+01047 nsw-lambs-valley-1542-maitland-vale: 4 images
+01048 nsw-dungog-1301-chichester-dam: checking
+01048 nsw-dungog-1301-chichester-dam: 4 images
+01049 nsw-lambs-valley-89-blue-bonnet: checking
+01049 nsw-lambs-valley-89-blue-bonnet: permission denied
+01050 nsw-brookfield-3781-clarence-town: checking
+01050 nsw-brookfield-3781-clarence-town: permission denied
+01051 nsw-gresford-2654-glendonbrook: checking
+01051 nsw-gresford-2654-glendonbrook: permission denied
+01052 nsw-clarence-town-104-ebsworth: checking
+01052 nsw-clarence-town-104-ebsworth: permission denied
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "01041",
+      "id": "nsw-cumbalum-103-cumbalum",
+      "images": 6
+    },
+    {
+      "displayId": "01042",
+      "id": "nsw-kangaroo-creek-427-middle-creek",
+      "images": 25
+    },
+    {
+      "displayId": "01043",
+      "id": "nsw-new-italy-1050-swan-bay-new-italy",
+      "images": 20
+    },
+    {
+      "displayId": "01044",
+      "id": "nsw-brunswick-heads-73-bashforths",
+      "images": 22
+    },
+    {
+      "displayId": "01045",
+      "id": "nsw-dungarubba-354-broadwater",
+      "images": 31
+    },
+    {
+      "displayId": "01046",
+      "id": "nsw-barkers-vale-69-hidden-valley",
+      "images": 33
+    },
+    {
+      "displayId": "01047",
+      "id": "nsw-lambs-valley-1542-maitland-vale",
+      "images": 4
+    },
+    {
+      "displayId": "01048",
+      "id": "nsw-dungog-1301-chichester-dam",
+      "images": 4
+    }
+  ]
+}
+
+[2026-05-13T05:28:18.694Z] Batch 45 started
+00738 qld-noosa-heads-308-309-6-hastings: checking
+00738 qld-noosa-heads-308-309-6-hastings: 20 images
+00739 qld-noosa-heads-206-207-6-hastings: checking
+00739 qld-noosa-heads-206-207-6-hastings: 15 images
+00740 qld-noosa-heads-17-41-hastings: checking
+00740 qld-noosa-heads-17-41-hastings: permission denied
+00741 qld-noosa-heads-43-42-hastings: checking
+00741 qld-noosa-heads-43-42-hastings: 11 images
+00742 qld-noosa-heads-9-40-hastings: checking
+00742 qld-noosa-heads-9-40-hastings: 18 images
+01058 nsw-gillieston-heights-27-hillcrest: checking
+01058 nsw-gillieston-heights-27-hillcrest: 4 images
+01059 nsw-east-gresford-88-turnbulls: checking
+01059 nsw-east-gresford-88-turnbulls: 25 images
+01060 nsw-bolwarra-17-27-flat: checking
+01060 nsw-bolwarra-17-27-flat: 8 images
+01061 nsw-wollombi-3324-great-north: checking
+01061 nsw-wollombi-3324-great-north: 16 images
+01062 nsw-putty-936a-putty-valley: checking
+01062 nsw-putty-936a-putty-valley: 22 images
+01063 nsw-putty-190-burnt-arm: checking
+01063 nsw-putty-190-burnt-arm: 35 images
+01064 nsw-putty-936b-putty-valley: checking
+01064 nsw-putty-936b-putty-valley: 26 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "00738",
+      "id": "qld-noosa-heads-308-309-6-hastings",
+      "images": 20
+    },
+    {
+      "displayId": "00739",
+      "id": "qld-noosa-heads-206-207-6-hastings",
+      "images": 15
+    },
+    {
+      "displayId": "00741",
+      "id": "qld-noosa-heads-43-42-hastings",
+      "images": 11
+    },
+    {
+      "displayId": "00742",
+      "id": "qld-noosa-heads-9-40-hastings",
+      "images": 18
+    },
+    {
+      "displayId": "01058",
+      "id": "nsw-gillieston-heights-27-hillcrest",
+      "images": 4
+    },
+    {
+      "displayId": "01059",
+      "id": "nsw-east-gresford-88-turnbulls",
+      "images": 25
+    },
+    {
+      "displayId": "01060",
+      "id": "nsw-bolwarra-17-27-flat",
+      "images": 8
+    },
+    {
+      "displayId": "01061",
+      "id": "nsw-wollombi-3324-great-north",
+      "images": 16
+    },
+    {
+      "displayId": "01062",
+      "id": "nsw-putty-936a-putty-valley",
+      "images": 22
+    },
+    {
+      "displayId": "01063",
+      "id": "nsw-putty-190-burnt-arm",
+      "images": 35
+    },
+    {
+      "displayId": "01064",
+      "id": "nsw-putty-936b-putty-valley",
+      "images": 26
+    }
+  ]
+}
+
+[2026-05-13T05:30:48.117Z] Batch 46 started
+01065 nsw-putty-370-roswill: checking
+01065 nsw-putty-370-roswill: off market
+01066 nsw-wyong-creek-address-144563968: checking
+01066 nsw-wyong-creek-address-144563968: off market
+01067 sa-waitpinga-185-jagger: checking
+01067 sa-waitpinga-185-jagger: 4 images
+01068 sa-kuitpo-482-peters-creek: checking
+01068 sa-kuitpo-482-peters-creek: off market
+01069 sa-woodside-70-scottsburn: checking
+01069 sa-woodside-70-scottsburn: 2 images
+01070 qld-kin-kin-1174-pomona-kin-kin: checking
+01070 qld-kin-kin-1174-pomona-kin-kin: 25 images
+01071 qld-kidaman-creek-119-perrys: checking
+01071 qld-kidaman-creek-119-perrys: 28 images
+01072 qld-kin-kin-945-neusa-vale: checking
+01072 qld-kin-kin-945-neusa-vale: 35 images
+01073 qld-kin-kin-247-eastern-branch: checking
+01073 qld-kin-kin-247-eastern-branch: 35 images
+01074 qld-kin-kin-275-eastern-branch: checking
+01074 qld-kin-kin-275-eastern-branch: 22 images
+01075 vic-gnarwarre-650-pollocksford: checking
+01075 vic-gnarwarre-650-pollocksford: 32 images
+01076 vic-barrabool-204-andersons: checking
+01076 vic-barrabool-204-andersons: 35 images
+{
+  "checked": 12,
+  "patched": [
+    {
+      "displayId": "01065",
+      "id": "nsw-putty-370-roswill",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01066",
+      "id": "nsw-wyong-creek-address-144563968",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01067",
+      "id": "sa-waitpinga-185-jagger",
+      "images": 4
+    },
+    {
+      "displayId": "01068",
+      "id": "sa-kuitpo-482-peters-creek",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01069",
+      "id": "sa-woodside-70-scottsburn",
+      "images": 2
+    },
+    {
+      "displayId": "01070",
+      "id": "qld-kin-kin-1174-pomona-kin-kin",
+      "images": 25
+    },
+    {
+      "displayId": "01071",
+      "id": "qld-kidaman-creek-119-perrys",
+      "images": 28
+    },
+    {
+      "displayId": "01072",
+      "id": "qld-kin-kin-945-neusa-vale",
+      "images": 35
+    },
+    {
+      "displayId": "01073",
+      "id": "qld-kin-kin-247-eastern-branch",
+      "images": 35
+    },
+    {
+      "displayId": "01074",
+      "id": "qld-kin-kin-275-eastern-branch",
+      "images": 22
+    },
+    {
+      "displayId": "01075",
+      "id": "vic-gnarwarre-650-pollocksford",
+      "images": 32
+    },
+    {
+      "displayId": "01076",
+      "id": "vic-barrabool-204-andersons",
+      "images": 35
+    }
+  ]
+}
+
+[2026-05-13T05:33:34.768Z] Batch 47 started
+01077 vic-barrabool-80-devon: checking
+01077 vic-barrabool-80-devon: 35 images
+01078 sa-kingston-se-18462-princes: checking
+01078 sa-kingston-se-18462-princes: 31 images
+01079 sa-senior-2090-2210-senior: checking
+01079 sa-senior-2090-2210-senior: 25 images
+01080 sa-naracoorte-202-malones: checking
+01080 sa-naracoorte-202-malones: 30 images
+01081 sa-bordertown-10050-ngarkat: checking
+01081 sa-bordertown-10050-ngarkat: 26 images
+01082 sa-cape-douglas-1052-meyers: checking
+01082 sa-cape-douglas-1052-meyers: 10 images
+01083 sa-penola-5422-clay-wells: checking
+01083 sa-penola-5422-clay-wells: 20 images
+01084 sa-coles-225-coles-killanoola: checking
+01084 sa-coles-225-coles-killanoola: 13 images
+01087 wa-deepdene-lot-1396-cresswell: checking
+01087 wa-deepdene-lot-1396-cresswell: 24 images
+01088 wa-rosa-glen-162-brooks: checking
+01088 wa-rosa-glen-162-brooks: off market
+01089 wa-witchcliffe-10530-bussell: checking
+01089 wa-witchcliffe-10530-bussell: 10 images
+{
+  "checked": 11,
+  "patched": [
+    {
+      "displayId": "01077",
+      "id": "vic-barrabool-80-devon",
+      "images": 35
+    },
+    {
+      "displayId": "01078",
+      "id": "sa-kingston-se-18462-princes",
+      "images": 31
+    },
+    {
+      "displayId": "01079",
+      "id": "sa-senior-2090-2210-senior",
+      "images": 25
+    },
+    {
+      "displayId": "01080",
+      "id": "sa-naracoorte-202-malones",
+      "images": 30
+    },
+    {
+      "displayId": "01081",
+      "id": "sa-bordertown-10050-ngarkat",
+      "images": 26
+    },
+    {
+      "displayId": "01082",
+      "id": "sa-cape-douglas-1052-meyers",
+      "images": 10
+    },
+    {
+      "displayId": "01083",
+      "id": "sa-penola-5422-clay-wells",
+      "images": 20
+    },
+    {
+      "displayId": "01084",
+      "id": "sa-coles-225-coles-killanoola",
+      "images": 13
+    },
+    {
+      "displayId": "01087",
+      "id": "wa-deepdene-lot-1396-cresswell",
+      "images": 24
+    },
+    {
+      "displayId": "01088",
+      "id": "wa-rosa-glen-162-brooks",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01089",
+      "id": "wa-witchcliffe-10530-bussell",
+      "images": 10
+    }
+  ]
+}
+
+[2026-05-13T05:35:52.526Z] Batch 48 started
+No gallery candidates found.
+[2026-05-13T05:35:52.621Z] Gallery update runner completed all candidates

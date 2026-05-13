@@ -11,7 +11,8 @@ const chromePort = Number(process.env.CHROME_DEBUG_PORT || 9244);
 const batchSize = Number(process.env.BATCH_SIZE || 10);
 const startDisplayId = process.env.START_DISPLAY_ID || "";
 const force = process.env.FORCE_GALLERY_UPDATE === "1";
-const permissionDeniedPauseMs = 30 * 60 * 1000;
+const permissionDeniedPauseMs = Number(process.env.PERMISSION_DENIED_PAUSE_MS || 30 * 60 * 1000);
+const permissionDeniedRetryLimit = Number(process.env.PERMISSION_DENIED_RETRY_LIMIT || Infinity);
 
 const activeUnavailableStatuses = new Set([
   "sold",
@@ -229,15 +230,19 @@ async function pageAvailability(client) {
 }
 
 async function extractGallery(client, property) {
-  for (let permissionAttempt = 0; permissionAttempt < 2; permissionAttempt += 1) {
+  let permissionDeniedAttempts = 0;
+  while (true) {
     await client.send("Page.navigate", { url: property.listingUrl });
     await delay(10000);
     const availability = await pageAvailability(client);
     if (availability.unavailable) return { images: [], unavailable: true, blocked: false, reason: "off-market" };
     if (!availability.permissionDenied) break;
-    console.log(`${property.displayId} ${property.id}: permission denied, pausing for 30 minutes`);
+    permissionDeniedAttempts += 1;
+    if (permissionDeniedAttempts > permissionDeniedRetryLimit) {
+      return { images: [], unavailable: false, blocked: true, reason: "permission-denied" };
+    }
+    console.log(`${property.displayId} ${property.id}: permission denied, pausing for ${Math.round(permissionDeniedPauseMs / 1000)} seconds`);
     await delay(permissionDeniedPauseMs);
-    if (permissionAttempt === 1) return { images: [], unavailable: false, blocked: true, reason: "permission-denied" };
   }
   await openPhotoGallery(client);
 
@@ -383,12 +388,13 @@ function writeState(results, patched) {
     updatedAt: new Date().toISOString(),
     batchSize,
     startDisplayId,
-    results: results.filter(result => !result.blocked).map(result => ({
+    results: results.map(result => ({
       displayId: result.displayId,
       id: result.id,
       title: result.title,
       imageCount: result.images.length,
       unavailable: Boolean(result.unavailable),
+      blocked: Boolean(result.blocked),
       reason: result.reason || ""
     })),
     patched

@@ -1,13 +1,13 @@
 {
   "state": "complete",
   "mode": "auto",
-  "message": "Finished Hunter Valley and Central Coast acreage, NSW. Reloading large listings...",
-  "searchArea": "Hunter Valley and Central Coast acreage, NSW",
-  "searchAreaPosition": 11,
+  "message": "Finished Perth fringe acreage, WA. Reloading large listings...",
+  "searchArea": "Perth fringe acreage, WA",
+  "searchAreaPosition": 6,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Sydney fringe rural holdings, NSW",
-  "nextAutoRefreshAt": "2026-05-12T14:13:26.531Z",
-  "updatedAt": "2026-05-12T14:08:26.536Z"
+  "nextSearchArea": "Great Southern WA rural holdings, WA",
+  "nextAutoRefreshAt": "2026-05-13T05:48:07.686Z",
+  "updatedAt": "2026-05-13T05:43:07.695Z"
 }
