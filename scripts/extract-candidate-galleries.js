@@ -3,7 +3,7 @@ const { spawn } = require("child_process");
 const chromePath = process.env.CHROME_PATH || "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
 const chromePort = Number(process.env.CHROME_DEBUG_PORT || 9251);
 
-const candidates = [
+const defaultCandidates = [
   {
     id: "qld-zilzie-96-amoria",
     listingUrl: "https://www.realestate.com.au/property-house-qld-zilzie-149438896"
@@ -34,6 +34,10 @@ const candidates = [
   }
 ];
 
+const candidates = process.env.CANDIDATES_JSON
+  ? JSON.parse(process.env.CANDIDATES_JSON)
+  : defaultCandidates;
+
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -50,9 +54,18 @@ async function waitForChrome() {
 }
 
 async function newTab() {
-  const response = await fetch(`http://127.0.0.1:${chromePort}/json/new`, { method: "PUT" });
-  if (!response.ok) throw new Error(`Could not open Chrome tab: ${response.status}`);
-  return response.json();
+  let lastError = null;
+  for (let index = 0; index < 10; index += 1) {
+    try {
+      const response = await fetch(`http://127.0.0.1:${chromePort}/json/new`, { method: "PUT" });
+      if (response.ok) return response.json();
+      lastError = new Error(`Could not open Chrome tab: ${response.status}`);
+    } catch (error) {
+      lastError = error;
+    }
+    await delay(500);
+  }
+  throw lastError || new Error("Could not open Chrome tab.");
 }
 
 function connect(wsUrl) {
@@ -188,6 +201,7 @@ async function main() {
     `--remote-debugging-port=${chromePort}`,
     `--user-data-dir=${userDataDir}`,
     "--disable-gpu",
+    "--remote-allow-origins=*",
     "--no-first-run",
     "--no-default-browser-check",
     "--window-size=1280,900",

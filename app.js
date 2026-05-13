@@ -2974,7 +2974,7 @@ const sampleProperties = [
     state: "QLD",
     nearestMajorCity: "Brisbane",
     majorCityMinutes: 1080,
-    price: 0,
+    price: 2650000,
     landSize: 1796,
     beachfront: true,
     noRoadFrontage: true,
@@ -5813,7 +5813,7 @@ const sampleProperties = [
     directBeachAccess: true,
     factors: ["Beach reserve", "Direct sand access", "Creek frontage", "Dual frontage"],
     status: "active",
-    notes: "Beachfront reserve home with direct access through the dunes and creekfront studio at the rear.",
+    notes: "Beachfront reserve home with direct access through the dunes and creekfront studio at the rear. Current Homely listing shows guide $2,600,000 - $2,700,000, so price is set to the midpoint.",
     image: "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=ApV17GrNN0mZdRjWs8YgdJUUHJg3Pqg7",
     images: [
       "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=b3U88aVBcqFqa5HfwvZZEO1AxJgu..7h",
@@ -5833,7 +5833,7 @@ const sampleProperties = [
     state: "NSW",
     nearestMajorCity: "Sydney",
     majorCityMinutes: 80,
-    price: null,
+    price: 1700000,
     landSize: 588.1,
     beachfront: true,
     noRoadFrontage: false,
@@ -13144,9 +13144,9 @@ const sampleProperties = [
     beachfront: true,
     noRoadFrontage: false,
     directBeachAccess: true,
-    factors: ["Front-row Esplanade", "Direct beach access", "Ocean views", "Apartment"],
+    factors: ["Rare front-row Esplanade", "Direct beach access", "Uninterrupted ocean views", "Top-floor apartment", "Scarce Moana foreshore stock"],
     status: "active",
-    notes: "Top-floor front-row Esplanade apartment with uninterrupted ocean, sand and sunset views and beach access at the front door. Price is the midpoint of the advertised range.",
+    notes: "Rare top-floor front-row Esplanade apartment with uninterrupted ocean, sand and sunset views and beach access at the front door. This kind of Moana foreshore stock does not come up often, so it is treated as a scarcity-led Beach X Factor candidate. Price is the midpoint of the advertised range.",
     image: "https://i2.au.reastatic.net/800x600/d41cfe6c2eab134aa199188acdeed35108a3279fe6120ebf7b66fb5118d7fa59/image.jpg",
     images: [
       "https://i2.au.reastatic.net/800x600/d41cfe6c2eab134aa199188acdeed35108a3279fe6120ebf7b66fb5118d7fa59/image.jpg",
@@ -13180,7 +13180,10 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/7b58a3eceb84308aad0d1bf070920ddefb7b65e1e4ce76af113f63fb54fe052b/image.jpg",
       "https://i2.au.reastatic.net/800x600/53e29daf246e0f7f252382b64c5cbd8cdc7c843f7d649e6ecf07865d3e073bbe/image.jpg"
     ],
-    listingUrl: "https://www.realestate.com.au/property-apartment-sa-moana-150944408"
+    listingUrl: "https://www.realestate.com.au/property-apartment-sa-moana-150944408",
+    investmentStar: true,
+    investmentAnnualGrowth5Yr: "19.4%",
+    investmentReason: "OnTheHouse, citing Cotality data, reports Moana unit median values up 142.59% over five years, which annualises to about 19.4%. Combined with scarce top-floor front-row Esplanade positioning, this deserves a higher Beach X Factor rating."
   },
   {
     id: "sa-moana-418a-esplanade",
@@ -15420,7 +15423,7 @@ const sampleProperties = [
     directBeachAccess: true,
     factors: ["No road", "Boutique block", "Direct sand access", "Ocean views"],
     status: "active",
-    notes: "Top-floor beachfront apartment in a boutique block on a substantial coastal landholding with no roads to cross to the sand. Price advertised as expressions of interest.",
+    notes: "Top-floor beachfront apartment in a boutique block on a substantial coastal landholding with no roads to cross to the sand. Current Homely listing shows offers over $1.7m.",
     image: "https://www.homely.com.au/img-variant/l-Eagle-12938749-1.jpg?version=Mr6.eHRT8GnRDTcNM9yK6.sPJdZ6CnO1",
     images: [
       "https://www.homely.com.au/img-variant/l-Eagle-12938749-1.jpg?named-transform=webDefaultTransform&version=Mr6.eHRT8GnRDTcNM9yK6.sPJdZ6CnO1",
@@ -28818,9 +28821,12 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Beachfront Currumbin living", "Directly opposite beach", "Renovated apartment", "Resort facilities"],
-    status: "unavailable",
-    notes: "Active realestate.com.au Currumbin apartment listing advertised as beachfront living in The Rocks Resort, positioned directly opposite the beach and close to cafes, Currumbin Creek and The Alley, with renovated interiors and resort pool, spa, sauna, gym, tennis and BBQ facilities. Price is advertised as Contact Agent. Exact listing appeared off market during gallery update.",
+    status: "active",
+    notes: "Active realestate.com.au and Domain Currumbin apartment listing advertised as beachfront living in The Rocks Resort, positioned directly opposite the beach and close to cafes, Currumbin Creek and The Alley, with renovated interiors and resort pool, spa, sauna, gym, tennis and BBQ facilities. Price is advertised as Contact Agent.",
     image: "https://i2.au.reastatic.net/800x600/f2a884a0bef57ef3acff6d74f085394a5befb228db9c7fdf32db153bb857b563/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f2a884a0bef57ef3acff6d74f085394a5befb228db9c7fdf32db153bb857b563/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-currumbin-150304184",
     investmentStar: false
   },
@@ -28838,10 +28844,36 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Beachfront Currumbin locale", "Metres from sand", "Directly across from beach", "Ocean glimpses"],
-    status: "unavailable",
-    notes: "Active realestate.com.au Currumbin unit listing advertised as a two-level beachside residence metres from the sand and surf, directly across from Currumbin Beach and a short walk to Currumbin Alley, cafes and restaurants. Exact listing is being sold by auction without a price guide. Exact listing appeared off market during gallery update.",
+    status: "active",
+    notes: "Active realestate.com.au Currumbin unit listing advertised as a two-level beachside residence metres from the sand and surf, directly across from Currumbin Beach and a short walk to Currumbin Alley, cafes and restaurants. Exact listing is being sold by auction without a price guide.",
     image: "https://i2.au.reastatic.net/800x600/ddd9c52f01b1ec48e994ea8b469c1285f653e63a94417504e431a2918a546a0c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ddd9c52f01b1ec48e994ea8b469c1285f653e63a94417504e431a2918a546a0c/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-currumbin-150528860",
+    investmentStar: false
+  },
+  {
+    id: "qld-currumbin-32-teemangum",
+    title: "32 Teemangum Street",
+    suburb: "Currumbin",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 20,
+    daysOnMarket: 310,
+    price: 4990000,
+    landSize: 405,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beach front feature", "Directly across from beach", "Ocean views", "405sqm beachside house"],
+    status: "active",
+    notes: "Active Homely Currumbin house listing advertised as beachside living just steps from the sand, directly across from the beach with an ocean-facing balcony, ocean views and a 405sqm landholding. Price is advertised as offers over $4,990,000.",
+    image: "https://rimh2.domainstatic.com.au/xb9hkJNLb-2JfeczVeGIZkS4toU=/fit-in/3060x2160/filters:format(webp):quality(80):no_upscale()/2020008378_27_1_250521_033616-w2653-h1769",
+    images: [
+      "https://rimh2.domainstatic.com.au/xb9hkJNLb-2JfeczVeGIZkS4toU=/fit-in/3060x2160/filters:format(webp):quality(80):no_upscale()/2020008378_27_1_250521_033616-w2653-h1769"
+    ],
+    listingUrl: "https://www.homely.com.au/homes/32-teemangum-street-currumbin-qld-4223/12154148",
     investmentStar: false
   },
   {
@@ -39968,6 +40000,7 @@ const state = {
   picture2Selections: JSON.parse(localStorage.getItem("propertyPicture2Selections") || "{}"),
   propertyNotes: JSON.parse(localStorage.getItem("propertyPersonalNotes") || "{}"),
   customXFactorCriteria: JSON.parse(localStorage.getItem("propertyCustomXFactorCriteria") || '["capital","city","value"]'),
+  customXFactorWeights: JSON.parse(localStorage.getItem("propertyCustomXFactorWeights") || "{}"),
   view: "all",
   unviewedViewIds: null,
   selectedTablePropertyId: null,
@@ -40013,11 +40046,7 @@ const els = {
   emptyState: document.querySelector("#emptyState"),
   countStat: document.querySelector("#countStat"),
   unviewedStat: document.querySelector("#unviewedStat"),
-  noRoadStat: document.querySelector("#noRoadStat"),
-  cityStat: document.querySelector("#cityStat"),
   updatedState: document.querySelector("#updatedState"),
-  exportButton: document.querySelector("#exportButton"),
-  refreshFavouritePhotosButton: document.querySelector("#refreshFavouritePhotosButton"),
   exportTablePanelButton: document.querySelector("#exportTablePanelButton"),
   tableTopButton: document.querySelector("#tableTopButton"),
   resetFiltersButton: document.querySelector("#resetFiltersButton"),
@@ -40417,6 +40446,29 @@ function compactAud(value) {
   return aud.format(value);
 }
 
+function inferredPriceLabel(property) {
+  if (property.price) return "";
+  const text = String(property.priceLabel || property.priceText || property.notes || "");
+  const patterns = [
+    /guide\s+\$[\d,.]+\s*(?:m|million|k)?\s*-\s*\$[\d,.]+\s*(?:m|million|k)?/i,
+    /offers?\s+over\s+\$[\d,.]+\s*(?:m|million|k)?/i,
+    /offers?\s+above\s+\$[\d,.]+\s*(?:m|million|k)?/i,
+    /buyers?\s+over\s+\$[\d,.]+\s*(?:m|million|k)?/i,
+    /high\s+\$[\d,.]+\s*(?:m|million|k|millions|000,000s)?/i,
+    /mid-high\s+\$[\d,.]+\s*(?:m|million|k|range)?/i,
+    /from\s+\$[\d,.]+\s*(?:m|million|k)?/i
+  ];
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (match) return match[0].replace(/\s+/g, " ").trim();
+  }
+  return "";
+}
+
+function displayPrice(property) {
+  return property.price ? compactAud(property.price) : inferredPriceLabel(property) || "TBA";
+}
+
 function displayLandSize(value) {
   const size = Number(value || 0);
   if (!size) return "TBA";
@@ -40465,17 +40517,54 @@ function matchesSearchMode(property) {
 
 function majorCityMinutes(property) {
   const minutes = Number(property.majorCityMinutes || property.major_city_minutes || property.cityMinutes || property.city_minutes || 0);
-  return Number.isFinite(minutes) && minutes > 0 ? minutes : 0;
+  const directCity = normalisedCityName(property.nearestMajorCity || property.nearest_major_city);
+  if (acceptedMajorCities.has(directCity)) return Number.isFinite(minutes) && minutes > 0 ? minutes : 0;
+  const fallback = regionalMajorCityFallback(property);
+  return fallback?.minutes || 0;
 }
 
-const preferredXFactorCities = new Set(["adelaide", "gold coast", "perth", "sydney", "melbourne"]);
+const acceptedMajorCities = new Set([
+  "adelaide",
+  "brisbane",
+  "canberra",
+  "darwin",
+  "gold coast",
+  "melbourne",
+  "perth",
+  "sydney"
+]);
+
+const preferredXFactorCities = acceptedMajorCities;
+
+const regionalMajorCityFallbacks = new Map([
+  ["bundaberg", { city: "Brisbane", minutes: 370 }],
+  ["hervey bay", { city: "Brisbane", minutes: 210 }],
+  ["mackay", { city: "Brisbane", minutes: 1030 }],
+  ["newcastle", { city: "Sydney", minutes: 120 }],
+  ["rockhampton", { city: "Brisbane", minutes: 430 }],
+  ["townsville", { city: "Brisbane", minutes: 1500 }]
+]);
 
 function normalisedCityName(value) {
   return String(value || "").trim().toLowerCase().replace(/\s+/g, " ");
 }
 
+function majorCityName(property) {
+  const city = property.nearestMajorCity || property.nearest_major_city || "";
+  if (acceptedMajorCities.has(normalisedCityName(city))) return city;
+  return regionalMajorCityFallback(property)?.city || "";
+}
+
+function regionalMajorCityFallback(property) {
+  return regionalMajorCityFallbacks.get(normalisedCityName(property.nearestMajorCity || property.nearest_major_city));
+}
+
+function isAcceptedMajorCity(property) {
+  return Boolean(majorCityName(property));
+}
+
 function isPreferredXFactorCity(property) {
-  return preferredXFactorCities.has(normalisedCityName(property.nearestMajorCity || property.nearest_major_city));
+  return preferredXFactorCities.has(normalisedCityName(majorCityName(property)));
 }
 
 function isWithinMajorCityHour(property) {
@@ -40608,7 +40697,9 @@ function investmentCandidateScore(property, baseline = scoringBaseline()) {
 }
 
 function investmentStarIds() {
-  const cacheKey = state.searchMode === "custom" ? `custom:${customXFactorCriteria().join("|")}` : state.searchMode;
+  const cacheKey = state.searchMode === "custom"
+    ? `custom:${customXFactorCriteria().map(id => `${id}:${customXFactorWeight(id)}`).join("|")}`
+    : state.searchMode;
   if (investmentStarIdCache?.mode === cacheKey) return investmentStarIdCache.ids;
 
   const active = state.properties.filter(property => isActiveProperty(property) && matchesSearchMode(property));
@@ -40853,6 +40944,7 @@ function renderComparisonTable(properties) {
   properties.forEach(property => {
     const sqm = pricePerSqm(property);
     const minutesToMajorCity = majorCityMinutes(property);
+    const cityName = majorCityName(property);
     const row = document.createElement("tr");
     const values = getTableValues(property, sqm, minutesToMajorCity, baseline);
     const investmentStar = starIds.has(property.id);
@@ -40956,14 +41048,15 @@ function focusPropertyCard(propertyId) {
 
 function getTableValues(property, sqm, minutesToMajorCity, baseline = scoringBaseline()) {
   const xFactorValue = scoreProperty(property, baseline);
+  const cityName = majorCityName(property);
   return [
     property.displayId || "TBA",
     property.state || "TBA",
     property.title || "TBA",
     `${xFactorValue}/1000`,
-    property.price ? aud.format(property.price) : "TBA",
+    property.price ? aud.format(property.price) : inferredPriceLabel(property) || "TBA",
     sqm ? `${aud.format(sqm)}/sqm` : "TBA",
-    minutesToMajorCity && property.nearestMajorCity ? `${minutesToMajorCity} min to ${property.nearestMajorCity}` : "TBA",
+    minutesToMajorCity && cityName ? `${minutesToMajorCity} min to ${cityName}` : "TBA",
     displayLandSize(property.landSize)
   ];
 }
@@ -41046,6 +41139,30 @@ function xFactorCityScore(property, maximum) {
 
   if (isPreferredXFactorCity(property)) score += maximum * 0.12;
   return scoreWithin(score, maximum);
+}
+
+function xFactorBeachCityScore(property, maximum) {
+  const minutes = majorCityMinutes(property);
+  if (!minutes) return 0;
+  let score = 0;
+  if (minutes <= 30) score = maximum;
+  else if (minutes <= 60) score = maximum * 0.82;
+  else if (minutes <= 90) score = maximum * 0.58;
+  else if (minutes <= 120) score = maximum * 0.38;
+  else if (minutes <= 180) score = maximum * 0.18;
+  else if (minutes <= 300) score = maximum * 0.06;
+
+  if (isPreferredXFactorCity(property) && minutes <= 120) score += maximum * 0.08;
+  return scoreWithin(score, maximum);
+}
+
+function adjustBeachScoreForCityDistance(score, property) {
+  const minutes = majorCityMinutes(property);
+  if (!minutes) return Math.min(score * 0.92, 820);
+  if (minutes <= 120) return score;
+  if (minutes <= 180) return Math.min(score * 0.85, 800);
+  if (minutes <= 300) return Math.min(score * 0.72, 720);
+  return Math.min(score * 0.55, 620);
 }
 
 function xFactorValueScore(property, baseline, maximum) {
@@ -41142,13 +41259,23 @@ function customXFactorCriteria() {
     .slice(0, 10);
 }
 
+function customXFactorWeight(id) {
+  const weight = Number(state.customXFactorWeights[id] || 5);
+  return Number.isFinite(weight) ? Math.max(1, Math.min(10, Math.round(weight))) : 5;
+}
+
+function saveCustomXFactorSettings() {
+  localStorage.setItem("propertyCustomXFactorCriteria", JSON.stringify(state.customXFactorCriteria));
+  localStorage.setItem("propertyCustomXFactorWeights", JSON.stringify(state.customXFactorWeights));
+}
+
 function customXFactorBreakdown(property, baseline = scoringBaseline()) {
   const criteria = customXFactorCriteria();
   if (!criteria.length) return {};
-  const totalWeight = criteria.reduce((total, _id, index) => total + (criteria.length - index), 0);
-  return Object.fromEntries(criteria.map((id, index) => {
+  const totalWeight = criteria.reduce((total, id) => total + customXFactorWeight(id), 0);
+  return Object.fromEntries(criteria.map(id => {
     const definition = customXFactorMap.get(id);
-    const weight = criteria.length - index;
+    const weight = customXFactorWeight(id);
     const maximum = (1000 * weight) / totalWeight;
     return [id, definition.score(property, baseline, maximum)];
   }));
@@ -41169,7 +41296,7 @@ function xFactorBreakdown(property, baseline = scoringBaseline()) {
   return {
     capital: xFactorCapitalGainScore(property, 360),
     access: xFactorBeachAccessScore(property, 280),
-    city: xFactorCityScore(property, 210),
+    city: xFactorBeachCityScore(property, 210),
     value: xFactorValueScore(property, baseline, 150)
   };
 }
@@ -41235,6 +41362,7 @@ function scoreProperty(property, baseline) {
   let score = Object.values(breakdown).reduce((total, value) => total + value, 0);
   if (state.searchMode === "beach") score += Math.min(beachBeautyBonus(property), 35);
   score += Math.min((property.factors || []).length * 3, 12);
+  if (state.searchMode === "beach") score = adjustBeachScoreForCityDistance(score, property);
   return Math.max(1, Math.min(Math.round(score), 1000));
 }
 
@@ -41345,25 +41473,48 @@ function renderCustomXFactorOptions() {
     const label = document.createElement("label");
     const checkbox = document.createElement("input");
     const text = document.createElement("span");
+    const sliderWrap = document.createElement("div");
+    const slider = document.createElement("input");
+    const sliderValue = document.createElement("strong");
     const order = selected.indexOf(definition.id);
+    const weight = customXFactorWeight(definition.id);
 
     label.className = "custom-xfactor-option";
     checkbox.type = "checkbox";
     checkbox.value = definition.id;
     checkbox.checked = order >= 0;
     checkbox.disabled = !checkbox.checked && selected.length >= 10;
-    text.textContent = order >= 0 ? `${order + 1}. ${definition.label}` : definition.label;
+    text.textContent = definition.label;
+
+    sliderWrap.className = "custom-xfactor-slider";
+    slider.type = "range";
+    slider.min = "1";
+    slider.max = "10";
+    slider.value = String(weight);
+    slider.disabled = order < 0;
+    sliderValue.textContent = String(weight);
 
     checkbox.addEventListener("change", () => {
       const current = customXFactorCriteria();
-      if (checkbox.checked && !current.includes(definition.id)) current.push(definition.id);
-      if (!checkbox.checked) current.splice(current.indexOf(definition.id), 1);
+      if (checkbox.checked && !current.includes(definition.id)) {
+        current.push(definition.id);
+        state.customXFactorWeights[definition.id] = customXFactorWeight(definition.id);
+      }
+      if (!checkbox.checked && current.includes(definition.id)) current.splice(current.indexOf(definition.id), 1);
       state.customXFactorCriteria = current.slice(0, 10);
-      localStorage.setItem("propertyCustomXFactorCriteria", JSON.stringify(state.customXFactorCriteria));
+      saveCustomXFactorSettings();
       renderCustomXFactorOptions();
     });
 
-    label.append(checkbox, text);
+    slider.addEventListener("input", () => {
+      state.customXFactorWeights[definition.id] = Number(slider.value);
+      sliderValue.textContent = slider.value;
+      saveCustomXFactorSettings();
+      investmentStarIdCache = null;
+    });
+
+    sliderWrap.append(slider, sliderValue);
+    label.append(checkbox, text, sliderWrap);
     els.customXFactorOptions.append(label);
   });
   els.customXFactorCount.textContent = `${selected.length}/10 selected`;
@@ -41577,9 +41728,6 @@ function render() {
   els.countStat.textContent = number.format(filtered.length);
   const unviewedCount = filterPropertiesForView("all").filter(isUnviewedProperty).length;
   els.unviewedStat.textContent = `${number.format(unviewedCount)} new unviewed`;
-  els.noRoadStat.textContent = number.format(state.searchMode === "custom" ? customXFactorCriteria().length : state.searchMode === "large" ? filtered.filter(isLargeProperty).length : filtered.filter(property => property.noRoadFrontage).length);
-  els.noRoadStat.nextElementSibling.textContent = state.searchMode === "custom" ? "custom criteria" : state.searchMode === "large" ? "20ha to 200,000ha" : "no road frontage";
-  els.cityStat.textContent = number.format(filtered.filter(isWithinMajorCityHour).length);
   els.updatedState.textContent = isOnlineViewerMode()
     ? `Online viewer snapshot last updated ${databaseUpdatedAt}. New searches run from the owner's PC and appear here after the repository is updated.`
     : `Database last updated ${databaseUpdatedAt}. Monitor runs every 5 minutes when the automation runner is active.`;
@@ -41600,6 +41748,7 @@ function render() {
     const sqm = pricePerSqm(property);
     const score = scoreProperty(property, baseline);
     const minutesToMajorCity = majorCityMinutes(property);
+    const cityName = majorCityName(property);
     const marketDays = daysOnMarket(property);
     const investmentStar = starIds.has(property.id);
     const criteriaScores = xFactorBreakdown(property, baseline);
@@ -41616,14 +41765,14 @@ function render() {
       : property.noRoadFrontage ? "Beachfront, no road in front" : property.beachfront ? "Beachfront" : "Coastal comparator";
     node.querySelector("h2").textContent = property.title;
     node.querySelector(".location").textContent = [property.suburb, property.state].filter(Boolean).join(", ");
-    setMetric(node, ".price", compactAud(property.price), !property.price);
+    setMetric(node, ".price", displayPrice(property), !property.price);
     setMetric(node, ".land", property.landSize ? `${number.format(property.landSize)} m2` : "TBA", !property.landSize);
     setMetric(node, ".sqm", sqm ? `${compactAud(sqm)}/m2` : "TBA", !sqm);
     setMetric(
       node,
       ".city",
-      minutesToMajorCity && property.nearestMajorCity ? `${minutesToMajorCity} min to ${property.nearestMajorCity}` : "TBA",
-      !minutesToMajorCity || !property.nearestMajorCity
+      minutesToMajorCity && cityName ? `${minutesToMajorCity} min to ${cityName}` : "TBA",
+      !minutesToMajorCity || !cityName
     );
     setMetric(node, ".market", marketDays ? `${number.format(marketDays)} days` : "TBA", !marketDays);
     personalNote.value = state.propertyNotes[property.id] || "";
@@ -41704,9 +41853,10 @@ function exportFavourites() {
     .filter(property => isActiveProperty(property) && state.favourites.has(property.id))
     .map(property => ({
       ...property,
+      priceLabel: inferredPriceLabel(property),
       pricePerSqm: pricePerSqm(property),
       daysOnMarket: daysOnMarket(property),
-      nearestMajorCity: property.nearestMajorCity || "",
+      nearestMajorCity: majorCityName(property),
       majorCityMinutes: majorCityMinutes(property),
       listingUrl: getListingLink(property),
       searchUrl: getSearchLink(property)
@@ -41736,8 +41886,10 @@ async function refreshFavouritePhotos() {
     return;
   }
 
-  els.refreshFavouritePhotosButton.disabled = true;
-  els.refreshFavouritePhotosButton.textContent = "Updating photos...";
+    if (els.refreshFavouritePhotosButton) {
+      els.refreshFavouritePhotosButton.disabled = true;
+      els.refreshFavouritePhotosButton.textContent = "Updating photos...";
+    }
   try {
     const response = await fetch("/refresh-favourite-images", {
       method: "POST",
@@ -41757,8 +41909,10 @@ async function refreshFavouritePhotos() {
   } catch (error) {
     alert(error.message || "Photo update failed.");
   } finally {
-    els.refreshFavouritePhotosButton.disabled = false;
-    els.refreshFavouritePhotosButton.textContent = "Update favourite photos";
+    if (els.refreshFavouritePhotosButton) {
+      els.refreshFavouritePhotosButton.disabled = false;
+      els.refreshFavouritePhotosButton.textContent = "Update favourite photos";
+    }
   }
 }
 
@@ -41880,7 +42034,8 @@ els.customXFactorPanel.addEventListener("click", event => {
 });
 els.clearCustomXFactorButton.addEventListener("click", () => {
   state.customXFactorCriteria = [];
-  localStorage.setItem("propertyCustomXFactorCriteria", JSON.stringify(state.customXFactorCriteria));
+  state.customXFactorWeights = {};
+  saveCustomXFactorSettings();
   renderCustomXFactorOptions();
 });
 els.applyCustomXFactorButton.addEventListener("click", () => {
@@ -41904,8 +42059,8 @@ els.themeToggle.addEventListener("click", () => {
   applyTheme();
 });
 
-els.exportButton.addEventListener("click", exportFavourites);
-els.refreshFavouritePhotosButton.addEventListener("click", refreshFavouritePhotos);
+if (els.exportButton) els.exportButton.addEventListener("click", exportFavourites);
+if (els.refreshFavouritePhotosButton) els.refreshFavouritePhotosButton.addEventListener("click", refreshFavouritePhotos);
 els.exportTablePanelButton.addEventListener("click", exportCurrentTable);
 els.tableTopButton.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });

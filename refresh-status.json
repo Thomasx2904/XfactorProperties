@@ -1,13 +1,13 @@
 {
-  "state": "running",
+  "state": "complete",
   "mode": "auto",
-  "message": "Verifying candidates in Sunshine Beach, QLD; 10/10 possible listings found...",
-  "searchArea": "Sunshine Beach, QLD",
-  "searchAreaPosition": 91,
+  "message": "Finished Currumbin, QLD. Reloading listings...",
+  "searchArea": "Currumbin, QLD",
+  "searchAreaPosition": 108,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Sunshine Beach, QLD",
-  "nextAutoRefreshAt": "2026-05-13T05:39:49.609Z",
-  "updatedAt": "2026-05-13T05:51:46.714Z"
+  "nextSearchArea": "Tugun, QLD",
+  "nextAutoRefreshAt": "2026-05-13T09:37:10.494Z",
+  "updatedAt": "2026-05-13T09:32:10.499Z"
 }

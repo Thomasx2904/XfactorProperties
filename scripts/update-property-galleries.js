@@ -11,6 +11,7 @@ const chromePort = Number(process.env.CHROME_DEBUG_PORT || 9244);
 const batchSize = Number(process.env.BATCH_SIZE || 10);
 const startDisplayId = process.env.START_DISPLAY_ID || "";
 const force = process.env.FORCE_GALLERY_UPDATE === "1";
+const targetIds = parseTargetIds(process.env.TARGET_IDS || "");
 const permissionDeniedPauseMs = Number(process.env.PERMISSION_DENIED_PAUSE_MS || 30 * 60 * 1000);
 const permissionDeniedRetryLimit = Number(process.env.PERMISSION_DENIED_RETRY_LIMIT || Infinity);
 
@@ -29,6 +30,16 @@ const activeUnavailableStatuses = new Set([
 
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function parseTargetIds(value) {
+  const text = String(value || "").trim();
+  if (!text) return null;
+  try {
+    const parsed = JSON.parse(text);
+    if (Array.isArray(parsed)) return new Set(parsed.map(String).filter(Boolean));
+  } catch {}
+  return new Set(text.split(/[,\s]+/).map(item => item.trim()).filter(Boolean));
 }
 
 function readProperties() {
@@ -69,11 +80,12 @@ function hasGallery(property) {
 function galleryCandidates(properties) {
   const checkedIds = previouslyCheckedIds();
   return properties
+    .filter(property => !targetIds || targetIds.has(property.id))
     .filter(isActiveProperty)
     .filter(property => property.listingUrl)
     .filter(property => force || !hasGallery(property))
     .filter(property => force || !checkedIds.has(property.id))
-    .filter(property => !startDisplayId || property.displayId >= startDisplayId)
+    .filter(property => targetIds || !startDisplayId || property.displayId >= startDisplayId)
     .sort((a, b) => String(a.displayId).localeCompare(String(b.displayId), undefined, { numeric: true }))
     .slice(0, batchSize);
 }
@@ -362,6 +374,15 @@ function updateStatusUnavailable(objectText) {
     objectText.slice(notesMatch.index + notesMatch[0].length);
 }
 
+function currentObjectImages(objectText) {
+  try {
+    const property = Function(`"use strict"; return (${objectText});`)();
+    return uniqueImageUrls([property.image, ...(Array.isArray(property.images) ? property.images : [])]);
+  } catch {
+    return [];
+  }
+}
+
 function patchGalleries(results) {
   let source = fs.readFileSync(appPath, "utf8");
   const patched = [];
@@ -375,8 +396,11 @@ function patchGalleries(results) {
       continue;
     }
     if (!result.images.length) continue;
-    source = source.slice(0, range.start) + updateImages(objectText, result.images) + source.slice(range.end);
-    patched.push({ displayId: result.displayId, id: result.id, images: result.images.length });
+    const existingImages = currentObjectImages(objectText);
+    const nextImages = uniqueImageUrls([...existingImages, ...result.images]);
+    if (!nextImages.length || nextImages.length <= existingImages.length) continue;
+    source = source.slice(0, range.start) + updateImages(objectText, nextImages) + source.slice(range.end);
+    patched.push({ displayId: result.displayId, id: result.id, images: nextImages.length });
   }
   if (patched.length) fs.writeFileSync(appPath, source);
   return patched;
@@ -388,6 +412,7 @@ function writeState(results, patched) {
     updatedAt: new Date().toISOString(),
     batchSize,
     startDisplayId,
+    targetIds: targetIds ? Array.from(targetIds) : undefined,
     results: results.map(result => ({
       displayId: result.displayId,
       id: result.id,

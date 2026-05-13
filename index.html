@@ -30,6 +30,16 @@
         </div>
       </div>
     </div>
+    <div class="stats header-stats">
+      <article>
+        <span id="countStat">0</span>
+        <small>matches</small>
+        <small class="unviewed-line">
+          <span id="unviewedStat" class="unviewed-stat">0 new unviewed</span>
+          <button id="unviewedViewButton" class="inline-view-button" type="button">View</button>
+        </small>
+      </article>
+    </div>
     <div class="top-tools">
       <div class="refresh-status" aria-live="polite">
         <span id="refreshLabel">Next auto check</span>
@@ -44,8 +54,6 @@
         <button id="favouritesViewButton" class="view-tab" type="button">Family Favourites <span id="favouriteCount">0</span></button>
         <button id="starPropertiesButton" class="view-tab" type="button">AI Picks <span id="starCount">0</span></button>
       </div>
-      <button id="exportButton" type="button">Export family favourites</button>
-      <button id="refreshFavouritePhotosButton" type="button">Update favourite photos</button>
     </div>
   </header>
 
@@ -69,25 +77,6 @@
 
   <main class="shell">
     <section class="results">
-      <div class="stats">
-        <article>
-          <span id="countStat">0</span>
-          <small>matches</small>
-          <small class="unviewed-line">
-            <span id="unviewedStat" class="unviewed-stat">0 new unviewed</span>
-            <button id="unviewedViewButton" class="inline-view-button" type="button">View</button>
-          </small>
-        </article>
-        <article>
-          <span id="noRoadStat">0</span>
-          <small>no road frontage</small>
-        </article>
-        <article>
-          <span id="cityStat">0</span>
-          <small>within 1 hour of major city</small>
-        </article>
-      </div>
-
       <div class="results-layout">
         <div id="cards" class="cards" aria-live="polite"></div>
         <section class="comparison-panel" aria-label="Available properties table">

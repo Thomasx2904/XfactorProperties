@@ -4893,3 +4893,287 @@
 [2026-05-13T05:35:52.526Z] Batch 48 started
 No gallery candidates found.
 [2026-05-13T05:35:52.621Z] Gallery update runner completed all candidates
+
+[2026-05-13T06:06:41.999Z] Targeted gallery update started for Automatic suburb sweep: qld-peregian-beach-12-45-lorikeet, qld-peregian-beach-16-84-peregian-esplanade, qld-peregian-beach-66-peregian-esplanade, qld-peregian-beach-1-peregian-esplanade
+00308 qld-peregian-beach-12-45-lorikeet: checking
+00308 qld-peregian-beach-12-45-lorikeet: 14 images
+00309 qld-peregian-beach-16-84-peregian-esplanade: checking
+00309 qld-peregian-beach-16-84-peregian-esplanade: 16 images
+00310 qld-peregian-beach-66-peregian-esplanade: checking
+00310 qld-peregian-beach-66-peregian-esplanade: 21 images
+00311 qld-peregian-beach-1-peregian-esplanade: checking
+00311 qld-peregian-beach-1-peregian-esplanade: 25 images
+{
+  "checked": 4,
+  "patched": [
+    {
+      "displayId": "00308",
+      "id": "qld-peregian-beach-12-45-lorikeet",
+      "images": 15
+    },
+    {
+      "displayId": "00309",
+      "id": "qld-peregian-beach-16-84-peregian-esplanade",
+      "images": 17
+    },
+    {
+      "displayId": "00310",
+      "id": "qld-peregian-beach-66-peregian-esplanade",
+      "images": 22
+    },
+    {
+      "displayId": "00311",
+      "id": "qld-peregian-beach-1-peregian-esplanade",
+      "images": 26
+    }
+  ]
+}
+[2026-05-13T06:07:33.410Z] Targeted gallery update finished with code 0
+
+[2026-05-13T06:13:17.023Z] Targeted gallery update started for Automatic suburb sweep: qld-marcus-beach-4-peppertree, qld-marcus-beach-23-callitris
+00225 qld-marcus-beach-4-peppertree: checking
+00225 qld-marcus-beach-4-peppertree: 4 images
+00226 qld-marcus-beach-23-callitris: checking
+00226 qld-marcus-beach-23-callitris: 4 images
+{
+  "checked": 2,
+  "patched": [
+    {
+      "displayId": "00225",
+      "id": "qld-marcus-beach-4-peppertree",
+      "images": 7
+    },
+    {
+      "displayId": "00226",
+      "id": "qld-marcus-beach-23-callitris",
+      "images": 8
+    }
+  ]
+}
+[2026-05-13T06:13:42.877Z] Targeted gallery update finished with code 0
+
+[2026-05-13T06:20:14.124Z] Targeted gallery update started for Automatic suburb sweep: qld-coolum-beach-411-63-coolum-terrace, qld-coolum-beach-266-131-coolum-terrace, qld-coolum-beach-123-131-coolum-terrace
+00016 qld-coolum-beach-411-63-coolum-terrace: checking
+00016 qld-coolum-beach-411-63-coolum-terrace: off market
+00017 qld-coolum-beach-266-131-coolum-terrace: checking
+00017 qld-coolum-beach-266-131-coolum-terrace: 21 images
+00018 qld-coolum-beach-123-131-coolum-terrace: checking
+00018 qld-coolum-beach-123-131-coolum-terrace: 23 images
+{
+  "checked": 3,
+  "patched": [
+    {
+      "displayId": "00016",
+      "id": "qld-coolum-beach-411-63-coolum-terrace",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00017",
+      "id": "qld-coolum-beach-266-131-coolum-terrace",
+      "images": 21
+    },
+    {
+      "displayId": "00018",
+      "id": "qld-coolum-beach-123-131-coolum-terrace",
+      "images": 23
+    }
+  ]
+}
+[2026-05-13T06:20:50.975Z] Targeted gallery update finished with code 0
+
+[2026-05-13T06:34:42.208Z] Targeted gallery update started for Automatic suburb sweep: qld-maroochydore-301-12-aerodrome, qld-maroochydore-308-14-aerodrome, qld-maroochydore-605-12-aerodrome, qld-maroochydore-705-12-aerodrome, qld-maroochydore-14-aerodrome, qld-maroochydore-402-67-sixth, qld-maroochydore-62-62-sixth, qld-maroochydore-63-62-sixth
+01109 qld-maroochydore-301-12-aerodrome: checking
+01109 qld-maroochydore-301-12-aerodrome: off market
+01110 qld-maroochydore-308-14-aerodrome: checking
+01110 qld-maroochydore-308-14-aerodrome: 2 images
+01111 qld-maroochydore-605-12-aerodrome: checking
+01111 qld-maroochydore-605-12-aerodrome: off market
+01112 qld-maroochydore-705-12-aerodrome: checking
+01112 qld-maroochydore-705-12-aerodrome: 19 images
+01113 qld-maroochydore-14-aerodrome: checking
+01113 qld-maroochydore-14-aerodrome: 19 images
+01114 qld-maroochydore-402-67-sixth: checking
+01114 qld-maroochydore-402-67-sixth: 35 images
+01115 qld-maroochydore-62-62-sixth: checking
+01115 qld-maroochydore-62-62-sixth: 25 images
+01116 qld-maroochydore-63-62-sixth: checking
+01116 qld-maroochydore-63-62-sixth: 21 images
+{
+  "checked": 8,
+  "patched": [
+    {
+      "displayId": "01109",
+      "id": "qld-maroochydore-301-12-aerodrome",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01110",
+      "id": "qld-maroochydore-308-14-aerodrome",
+      "images": 4
+    },
+    {
+      "displayId": "01111",
+      "id": "qld-maroochydore-605-12-aerodrome",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "01112",
+      "id": "qld-maroochydore-705-12-aerodrome",
+      "images": 21
+    },
+    {
+      "displayId": "01113",
+      "id": "qld-maroochydore-14-aerodrome",
+      "images": 21
+    },
+    {
+      "displayId": "01114",
+      "id": "qld-maroochydore-402-67-sixth",
+      "images": 36
+    },
+    {
+      "displayId": "01115",
+      "id": "qld-maroochydore-62-62-sixth",
+      "images": 27
+    },
+    {
+      "displayId": "01116",
+      "id": "qld-maroochydore-63-62-sixth",
+      "images": 22
+    }
+  ]
+}
+[2026-05-13T06:36:38.861Z] Targeted gallery update finished with code 0
+
+[2026-05-13T06:44:55.278Z] Targeted gallery update started for Automatic suburb sweep: qld-mooloolaba-903-47-51-mooloolaba-esplanade, qld-mooloolaba-17-95-mooloolaba-esplanade, qld-mooloolaba-688-11-mooloolaba-esplanade, qld-mooloolaba-8-125-mooloolaba-esplanade, qld-mooloolaba-10-2-meta
+00013 qld-mooloolaba-903-47-51-mooloolaba-esplanade: checking
+00013 qld-mooloolaba-903-47-51-mooloolaba-esplanade: 19 images
+00014 qld-mooloolaba-17-95-mooloolaba-esplanade: checking
+00014 qld-mooloolaba-17-95-mooloolaba-esplanade: 25 images
+00015 qld-mooloolaba-688-11-mooloolaba-esplanade: checking
+00015 qld-mooloolaba-688-11-mooloolaba-esplanade: 14 images
+00016 qld-mooloolaba-8-125-mooloolaba-esplanade: checking
+00016 qld-mooloolaba-8-125-mooloolaba-esplanade: 12 images
+00017 qld-mooloolaba-10-2-meta: checking
+00017 qld-mooloolaba-10-2-meta: 12 images
+{
+  "checked": 5,
+  "patched": [
+    {
+      "displayId": "00013",
+      "id": "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+      "images": 19
+    },
+    {
+      "displayId": "00014",
+      "id": "qld-mooloolaba-17-95-mooloolaba-esplanade",
+      "images": 25
+    },
+    {
+      "displayId": "00015",
+      "id": "qld-mooloolaba-688-11-mooloolaba-esplanade",
+      "images": 14
+    },
+    {
+      "displayId": "00016",
+      "id": "qld-mooloolaba-8-125-mooloolaba-esplanade",
+      "images": 12
+    },
+    {
+      "displayId": "00017",
+      "id": "qld-mooloolaba-10-2-meta",
+      "images": 12
+    }
+  ]
+}
+[2026-05-13T06:46:00.357Z] Targeted gallery update finished with code 0
+
+[2026-05-13T07:24:58.454Z] Targeted gallery update started for Automatic suburb sweep: qld-wurtulla-1-18-pretella
+01122 qld-wurtulla-1-18-pretella: checking
+01122 qld-wurtulla-1-18-pretella: 22 images
+{
+  "checked": 1,
+  "patched": [
+    {
+      "displayId": "01122",
+      "id": "qld-wurtulla-1-18-pretella",
+      "images": 22
+    }
+  ]
+}
+[2026-05-13T07:25:11.916Z] Targeted gallery update finished with code 0
+
+[2026-05-13T07:39:46.266Z] Targeted gallery update started for Automatic suburb sweep: qld-golden-beach-6-29-landsborough, qld-golden-beach-4-landsborough
+00806 qld-golden-beach-6-29-landsborough: checking
+00806 qld-golden-beach-6-29-landsborough: 14 images
+00807 qld-golden-beach-4-landsborough: checking
+00807 qld-golden-beach-4-landsborough: 35 images
+{
+  "checked": 2,
+  "patched": [
+    {
+      "displayId": "00806",
+      "id": "qld-golden-beach-6-29-landsborough",
+      "images": 14
+    },
+    {
+      "displayId": "00807",
+      "id": "qld-golden-beach-4-landsborough",
+      "images": 35
+    }
+  ]
+}
+[2026-05-13T07:40:13.307Z] Targeted gallery update finished with code 0
+
+[2026-05-13T07:52:42.024Z] Targeted gallery update started for Automatic suburb sweep: qld-beachmere-86-bayside, qld-beachmere-112-biggs
+00137 qld-beachmere-86-bayside: checking
+00137 qld-beachmere-86-bayside: off market
+00138 qld-beachmere-112-biggs: checking
+00138 qld-beachmere-112-biggs: 21 images
+{
+  "checked": 2,
+  "patched": [
+    {
+      "displayId": "00137",
+      "id": "qld-beachmere-86-bayside",
+      "status": "unavailable"
+    },
+    {
+      "displayId": "00138",
+      "id": "qld-beachmere-112-biggs",
+      "images": 21
+    }
+  ]
+}
+[2026-05-13T07:53:05.528Z] Targeted gallery update finished with code 0
+
+[2026-05-13T08:21:47.005Z] Targeted gallery update started for Automatic suburb sweep: qld-mermaid-beach-3-4-seabeach, qld-mermaid-beach-24-67-albatross
+00319 qld-mermaid-beach-3-4-seabeach: checking
+00319 qld-mermaid-beach-3-4-seabeach: 20 images
+00320 qld-mermaid-beach-24-67-albatross: checking
+00320 qld-mermaid-beach-24-67-albatross: 14 images
+{
+  "checked": 2,
+  "patched": [
+    {
+      "displayId": "00319",
+      "id": "qld-mermaid-beach-3-4-seabeach",
+      "images": 21
+    },
+    {
+      "displayId": "00320",
+      "id": "qld-mermaid-beach-24-67-albatross",
+      "images": 15
+    }
+  ]
+}
+[2026-05-13T08:22:13.291Z] Targeted gallery update finished with code 0
+
+[2026-05-13T09:32:10.519Z] Targeted gallery update started for Automatic suburb sweep: qld-currumbin-32-teemangum
+00826 qld-currumbin-32-teemangum: checking
+00826 qld-currumbin-32-teemangum: 0 images
+{
+  "checked": 1,
+  "patched": []
+}
+[2026-05-13T09:32:41.578Z] Targeted gallery update finished with code 0

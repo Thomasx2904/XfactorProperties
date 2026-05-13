@@ -13425,6 +13425,560 @@
           "images": 10
         }
       ]
+    },
+    {
+      "updatedAt": "2026-05-13T06:07:33.140Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-peregian-beach-12-45-lorikeet",
+        "qld-peregian-beach-16-84-peregian-esplanade",
+        "qld-peregian-beach-66-peregian-esplanade",
+        "qld-peregian-beach-1-peregian-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "00308",
+          "id": "qld-peregian-beach-12-45-lorikeet",
+          "title": "12/45 Lorikeet Drive",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00309",
+          "id": "qld-peregian-beach-16-84-peregian-esplanade",
+          "title": "16/84 Peregian Esplanade",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00310",
+          "id": "qld-peregian-beach-66-peregian-esplanade",
+          "title": "66 Peregian Esplanade",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00311",
+          "id": "qld-peregian-beach-1-peregian-esplanade",
+          "title": "1 Peregian Esplanade",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00308",
+          "id": "qld-peregian-beach-12-45-lorikeet",
+          "images": 15
+        },
+        {
+          "displayId": "00309",
+          "id": "qld-peregian-beach-16-84-peregian-esplanade",
+          "images": 17
+        },
+        {
+          "displayId": "00310",
+          "id": "qld-peregian-beach-66-peregian-esplanade",
+          "images": 22
+        },
+        {
+          "displayId": "00311",
+          "id": "qld-peregian-beach-1-peregian-esplanade",
+          "images": 26
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T06:13:42.710Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-marcus-beach-4-peppertree",
+        "qld-marcus-beach-23-callitris"
+      ],
+      "results": [
+        {
+          "displayId": "00225",
+          "id": "qld-marcus-beach-4-peppertree",
+          "title": "4 Peppertree Close",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00226",
+          "id": "qld-marcus-beach-23-callitris",
+          "title": "23 Callitris Crescent",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00225",
+          "id": "qld-marcus-beach-4-peppertree",
+          "images": 7
+        },
+        {
+          "displayId": "00226",
+          "id": "qld-marcus-beach-23-callitris",
+          "images": 8
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T06:20:50.595Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-coolum-beach-411-63-coolum-terrace",
+        "qld-coolum-beach-266-131-coolum-terrace",
+        "qld-coolum-beach-123-131-coolum-terrace"
+      ],
+      "results": [
+        {
+          "displayId": "00016",
+          "id": "qld-coolum-beach-411-63-coolum-terrace",
+          "title": "411/63 Coolum Terrace",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00017",
+          "id": "qld-coolum-beach-266-131-coolum-terrace",
+          "title": "266/131 Coolum Terrace",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00018",
+          "id": "qld-coolum-beach-123-131-coolum-terrace",
+          "title": "123/131 Coolum Terrace",
+          "imageCount": 23,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00016",
+          "id": "qld-coolum-beach-411-63-coolum-terrace",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00017",
+          "id": "qld-coolum-beach-266-131-coolum-terrace",
+          "images": 21
+        },
+        {
+          "displayId": "00018",
+          "id": "qld-coolum-beach-123-131-coolum-terrace",
+          "images": 23
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T06:36:38.657Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-maroochydore-301-12-aerodrome",
+        "qld-maroochydore-308-14-aerodrome",
+        "qld-maroochydore-605-12-aerodrome",
+        "qld-maroochydore-705-12-aerodrome",
+        "qld-maroochydore-14-aerodrome",
+        "qld-maroochydore-402-67-sixth",
+        "qld-maroochydore-62-62-sixth",
+        "qld-maroochydore-63-62-sixth"
+      ],
+      "results": [
+        {
+          "displayId": "01109",
+          "id": "qld-maroochydore-301-12-aerodrome",
+          "title": "301/12 Aerodrome Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01110",
+          "id": "qld-maroochydore-308-14-aerodrome",
+          "title": "308/14 Aerodrome Road",
+          "imageCount": 2,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01111",
+          "id": "qld-maroochydore-605-12-aerodrome",
+          "title": "605/12 Aerodrome Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01112",
+          "id": "qld-maroochydore-705-12-aerodrome",
+          "title": "705/12 Aerodrome Road",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01113",
+          "id": "qld-maroochydore-14-aerodrome",
+          "title": "14 Aerodrome Road",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01114",
+          "id": "qld-maroochydore-402-67-sixth",
+          "title": "402/67-71 Sixth Avenue",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01115",
+          "id": "qld-maroochydore-62-62-sixth",
+          "title": "62/62-66 Sixth Avenue",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01116",
+          "id": "qld-maroochydore-63-62-sixth",
+          "title": "63/62-66 Sixth Avenue",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01109",
+          "id": "qld-maroochydore-301-12-aerodrome",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01110",
+          "id": "qld-maroochydore-308-14-aerodrome",
+          "images": 4
+        },
+        {
+          "displayId": "01111",
+          "id": "qld-maroochydore-605-12-aerodrome",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01112",
+          "id": "qld-maroochydore-705-12-aerodrome",
+          "images": 21
+        },
+        {
+          "displayId": "01113",
+          "id": "qld-maroochydore-14-aerodrome",
+          "images": 21
+        },
+        {
+          "displayId": "01114",
+          "id": "qld-maroochydore-402-67-sixth",
+          "images": 36
+        },
+        {
+          "displayId": "01115",
+          "id": "qld-maroochydore-62-62-sixth",
+          "images": 27
+        },
+        {
+          "displayId": "01116",
+          "id": "qld-maroochydore-63-62-sixth",
+          "images": 22
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T06:45:59.904Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+        "qld-mooloolaba-17-95-mooloolaba-esplanade",
+        "qld-mooloolaba-688-11-mooloolaba-esplanade",
+        "qld-mooloolaba-8-125-mooloolaba-esplanade",
+        "qld-mooloolaba-10-2-meta"
+      ],
+      "results": [
+        {
+          "displayId": "00013",
+          "id": "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+          "title": "903/47-51 Mooloolaba Esplanade",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00014",
+          "id": "qld-mooloolaba-17-95-mooloolaba-esplanade",
+          "title": "17/95 Mooloolaba Esplanade",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00015",
+          "id": "qld-mooloolaba-688-11-mooloolaba-esplanade",
+          "title": "688/11 Mooloolaba Esplanade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00016",
+          "id": "qld-mooloolaba-8-125-mooloolaba-esplanade",
+          "title": "8/125 Mooloolaba Esplanade",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00017",
+          "id": "qld-mooloolaba-10-2-meta",
+          "title": "10/2 Meta Street",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00013",
+          "id": "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+          "images": 19
+        },
+        {
+          "displayId": "00014",
+          "id": "qld-mooloolaba-17-95-mooloolaba-esplanade",
+          "images": 25
+        },
+        {
+          "displayId": "00015",
+          "id": "qld-mooloolaba-688-11-mooloolaba-esplanade",
+          "images": 14
+        },
+        {
+          "displayId": "00016",
+          "id": "qld-mooloolaba-8-125-mooloolaba-esplanade",
+          "images": 12
+        },
+        {
+          "displayId": "00017",
+          "id": "qld-mooloolaba-10-2-meta",
+          "images": 12
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T07:25:11.485Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-wurtulla-1-18-pretella"
+      ],
+      "results": [
+        {
+          "displayId": "01122",
+          "id": "qld-wurtulla-1-18-pretella",
+          "title": "1/18 Pretella Street",
+          "imageCount": 22,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01122",
+          "id": "qld-wurtulla-1-18-pretella",
+          "images": 22
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T07:40:13.107Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-golden-beach-6-29-landsborough",
+        "qld-golden-beach-4-landsborough"
+      ],
+      "results": [
+        {
+          "displayId": "00806",
+          "id": "qld-golden-beach-6-29-landsborough",
+          "title": "6/29 Landsborough Parade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00807",
+          "id": "qld-golden-beach-4-landsborough",
+          "title": "4 Landsborough Parade",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00806",
+          "id": "qld-golden-beach-6-29-landsborough",
+          "images": 14
+        },
+        {
+          "displayId": "00807",
+          "id": "qld-golden-beach-4-landsborough",
+          "images": 35
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T07:53:05.450Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-beachmere-86-bayside",
+        "qld-beachmere-112-biggs"
+      ],
+      "results": [
+        {
+          "displayId": "00137",
+          "id": "qld-beachmere-86-bayside",
+          "title": "86 Bayside Drive",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00138",
+          "id": "qld-beachmere-112-biggs",
+          "title": "112 Biggs Avenue",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00137",
+          "id": "qld-beachmere-86-bayside",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00138",
+          "id": "qld-beachmere-112-biggs",
+          "images": 21
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T08:22:13.109Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-mermaid-beach-3-4-seabeach",
+        "qld-mermaid-beach-24-67-albatross"
+      ],
+      "results": [
+        {
+          "displayId": "00319",
+          "id": "qld-mermaid-beach-3-4-seabeach",
+          "title": "3/4 Seabeach Avenue",
+          "imageCount": 20,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00320",
+          "id": "qld-mermaid-beach-24-67-albatross",
+          "title": "24/67 Albatross Avenue",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00319",
+          "id": "qld-mermaid-beach-3-4-seabeach",
+          "images": 21
+        },
+        {
+          "displayId": "00320",
+          "id": "qld-mermaid-beach-24-67-albatross",
+          "images": 15
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T09:32:41.512Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-currumbin-32-teemangum"
+      ],
+      "results": [
+        {
+          "displayId": "00826",
+          "id": "qld-currumbin-32-teemangum",
+          "title": "32 Teemangum Street",
+          "imageCount": 0,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "no-images"
+        }
+      ],
+      "patched": []
     }
   ]
 }
