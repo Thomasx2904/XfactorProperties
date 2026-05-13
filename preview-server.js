@@ -2,11 +2,15 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 const { spawn } = require("child_process");
+const vm = require("vm");
 
 const root = __dirname;
 const port = Number(process.env.PORT || 4173);
 const statusPath = path.join(root, "refresh-status.json");
 const logPath = path.join(root, "refresh-listings.log");
+const appPath = path.join(root, "app.js");
+const galleryLogPath = path.join(root, "gallery-update-run.log");
+const galleryUpdaterPath = path.join(root, "scripts", "update-property-galleries.js");
 const suburbStatePath = path.join(root, "suburb-search-state.json");
 const largeStatusPath = path.join(root, "large-refresh-status.json");
 const largeLogPath = path.join(root, "large-refresh-listings.log");
@@ -22,6 +26,8 @@ let activeSearchArea = null;
 let largeRefreshProcess = null;
 let largeRefreshTimeout = null;
 let largeRefreshStoppedByTimeout = false;
+let targetedGalleryProcess = null;
+let pendingTargetedGalleryIds = new Set();
 let activeLargeSearchArea = null;
 let autoRefreshTimer = null;
 let largeAutoRefreshTimer = null;
@@ -265,6 +271,76 @@ function readLargeRefreshStatus() {
 
 function writeLargeRefreshStatus(status) {
   fs.writeFileSync(largeStatusPath, JSON.stringify({ ...status, nextAutoRefreshAt: nextLargeAutoRefreshAt, updatedAt: new Date().toISOString() }, null, 2));
+}
+
+function readPropertyIds() {
+  try {
+    const source = fs.readFileSync(appPath, "utf8");
+    const start = source.indexOf("const sampleProperties = [");
+    const end = source.indexOf("];", start) + 2;
+    if (start === -1 || end <= start) return null;
+    const sandbox = {};
+    vm.runInNewContext(source.slice(start, end).replace("const sampleProperties", "sampleProperties"), sandbox);
+    return new Set((sandbox.sampleProperties || []).map(property => String(property.id)).filter(Boolean));
+  } catch {
+    return null;
+  }
+}
+
+function queueNewListingGalleryRefresh(previousIds, label, sourceLogPath) {
+  if (!previousIds) return;
+  const currentIds = readPropertyIds();
+  if (!currentIds) {
+    fs.appendFileSync(sourceLogPath, `\n[${new Date().toISOString()}] Could not inspect new property IDs for targeted gallery update.\n`);
+    return;
+  }
+
+  const addedIds = [...currentIds].filter(id => !previousIds.has(id));
+  if (!addedIds.length) return;
+  fs.appendFileSync(sourceLogPath, `\n[${new Date().toISOString()}] ${label} added ${addedIds.length} new records; queueing targeted gallery update for ${addedIds.join(", ")}\n`);
+  queueTargetedGalleryRefresh(addedIds, label);
+}
+
+function queueTargetedGalleryRefresh(ids, label) {
+  ids.map(String).filter(Boolean).forEach(id => pendingTargetedGalleryIds.add(id));
+  if (targetedGalleryProcess) return;
+  startQueuedTargetedGalleryRefresh(label);
+}
+
+function startQueuedTargetedGalleryRefresh(label) {
+  const ids = [...pendingTargetedGalleryIds];
+  pendingTargetedGalleryIds = new Set();
+  if (!ids.length) return;
+
+  const portOffset = Math.floor(Math.random() * 500);
+  fs.appendFileSync(galleryLogPath, `\n[${new Date().toISOString()}] Targeted gallery update started for ${label}: ${ids.join(", ")}\n`);
+  targetedGalleryProcess = spawn(nodePath, [galleryUpdaterPath], {
+    cwd: root,
+    env: {
+      ...process.env,
+      TARGET_IDS: JSON.stringify(ids),
+      FORCE_GALLERY_UPDATE: "1",
+      BATCH_SIZE: String(ids.length),
+      PERMISSION_DENIED_RETRY_LIMIT: "0",
+      PERMISSION_DENIED_PAUSE_MS: "0",
+      CHROME_DEBUG_PORT: String(9300 + portOffset)
+    },
+    windowsHide: true,
+    stdio: ["ignore", "pipe", "pipe"]
+  });
+
+  targetedGalleryProcess.stdout.on("data", chunk => fs.appendFileSync(galleryLogPath, chunk));
+  targetedGalleryProcess.stderr.on("data", chunk => fs.appendFileSync(galleryLogPath, chunk));
+  targetedGalleryProcess.on("error", error => {
+    fs.appendFileSync(galleryLogPath, `[${new Date().toISOString()}] Targeted gallery update failed to start: ${error.message}\n`);
+    targetedGalleryProcess = null;
+    if (pendingTargetedGalleryIds.size) startQueuedTargetedGalleryRefresh("queued new records");
+  });
+  targetedGalleryProcess.on("exit", code => {
+    fs.appendFileSync(galleryLogPath, `[${new Date().toISOString()}] Targeted gallery update finished with code ${code}\n`);
+    targetedGalleryProcess = null;
+    if (pendingTargetedGalleryIds.size) startQueuedTargetedGalleryRefresh("queued new records");
+  });
 }
 
 function formatSearchArea(area) {
@@ -702,6 +778,16 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
     }
     return;
   }
+  if (targetedGalleryProcess) {
+    if (response) {
+      writeJson(response, 202, {
+        ...readRefreshStatus(),
+        blockingLane: "gallery",
+        message: "New-listing photo update is running. Search will be available when it finishes."
+      });
+    }
+    return;
+  }
   refreshStoppedByTimeout = false;
   activeSearchArea = scope === "sa" ? null : currentSuburbSearchArea();
   const areaText = activeSearchArea ? formatSearchArea(activeSearchArea) : "";
@@ -743,6 +829,7 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
 
   const label = mode === "auto" ? "Automatic suburb sweep" : scope === "sa" ? "SA" : "Manual suburb sweep";
   lastAutoRefreshAt = mode === "auto" ? Date.now() : lastAutoRefreshAt;
+  const propertyIdsBeforeRefresh = readPropertyIds();
   writeRefreshStatus(withSearchAreaStatus({
     state: "running",
     mode,
@@ -790,6 +877,7 @@ function startListingRefresh(response, scope = "national", mode = "manual") {
       mode,
       message: code === 0 || completedByTimeout ? `Finished ${areaText}. Reloading listings...` : "Search hit an error. Check refresh-listings.log."
     }));
+    queueNewListingGalleryRefresh(propertyIdsBeforeRefresh, label, logPath);
     refreshProcess = null;
     refreshStoppedByTimeout = false;
     activeSearchArea = null;
@@ -826,6 +914,16 @@ function startLargeListingRefresh(response, mode = "manual") {
     }
     return;
   }
+  if (targetedGalleryProcess) {
+    if (response) {
+      writeJson(response, 202, {
+        ...readLargeRefreshStatus(),
+        blockingLane: "gallery",
+        message: "New-listing photo update is running. Large-property search will be available when it finishes."
+      });
+    }
+    return;
+  }
 
   largeRefreshStoppedByTimeout = false;
   activeLargeSearchArea = currentLargeSearchArea();
@@ -850,6 +948,7 @@ function startLargeListingRefresh(response, mode = "manual") {
 
   const label = mode === "auto" ? "Automatic large-property sweep" : "Manual large-property sweep";
   lastLargeAutoRefreshAt = mode === "auto" ? Date.now() : lastLargeAutoRefreshAt;
+  const propertyIdsBeforeRefresh = readPropertyIds();
   writeLargeRefreshStatus(withLargeSearchAreaStatus({
     state: "running",
     mode,
@@ -897,6 +996,7 @@ function startLargeListingRefresh(response, mode = "manual") {
       mode,
       message: code === 0 || completedByTimeout ? `Finished ${areaText}. Reloading large listings...` : "Large search hit an error. Check large-refresh-listings.log."
     }));
+    queueNewListingGalleryRefresh(propertyIdsBeforeRefresh, label, largeLogPath);
     largeRefreshProcess = null;
     largeRefreshStoppedByTimeout = false;
     activeLargeSearchArea = null;
@@ -930,7 +1030,7 @@ function scheduleNextLargeAutoRefresh(delay = autoRefreshIntervalMs) {
 function startAutoRefreshLoop() {
   scheduleNextAutoRefresh(60 * 1000);
   autoRefreshTimer = setInterval(() => {
-    if (refreshProcess || largeRefreshProcess) return;
+    if (refreshProcess || largeRefreshProcess || targetedGalleryProcess) return;
     if (Date.now() - lastAutoRefreshAt < autoRefreshIntervalMs - 1000) return;
     startListingRefresh(null, "national", "auto");
   }, 60 * 1000);
@@ -939,7 +1039,7 @@ function startAutoRefreshLoop() {
 function startLargeAutoRefreshLoop() {
   scheduleNextLargeAutoRefresh(90 * 1000);
   largeAutoRefreshTimer = setInterval(() => {
-    if (refreshProcess || largeRefreshProcess) return;
+    if (refreshProcess || largeRefreshProcess || targetedGalleryProcess) return;
     if (Date.now() - lastLargeAutoRefreshAt < autoRefreshIntervalMs - 1000) return;
     startLargeListingRefresh(null, "auto");
   }, 60 * 1000);

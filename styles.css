@@ -196,6 +196,101 @@ h1 {
   color: var(--page-bg);
 }
 
+.custom-xfactor-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: grid;
+  place-items: start center;
+  overflow: auto;
+  padding: 72px 18px 32px;
+  background: rgba(8, 13, 12, 0.46);
+  backdrop-filter: blur(10px);
+}
+
+.custom-xfactor-dialog {
+  inline-size: min(760px, 100%);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.custom-xfactor-head,
+.custom-xfactor-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.custom-xfactor-head {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.custom-xfactor-head h2 {
+  font-size: 1.35rem;
+}
+
+.custom-xfactor-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  padding: 14px 0;
+}
+
+.custom-xfactor-option {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--field);
+  color: var(--ink);
+  padding: 10px;
+  text-transform: none;
+  cursor: pointer;
+}
+
+.custom-xfactor-option:has(input:checked) {
+  border-color: var(--sun);
+  background: var(--gold-soft);
+}
+
+.custom-xfactor-option input {
+  inline-size: 17px;
+  block-size: 17px;
+  accent-color: var(--gold);
+}
+
+.custom-xfactor-option span {
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+.custom-xfactor-footer {
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.custom-xfactor-footer span {
+  margin-right: auto;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+:root[data-theme="dark"] .custom-xfactor-backdrop {
+  background: rgba(0, 0, 0, 0.62);
+}
+
+:root[data-theme="dark"] .custom-xfactor-option:has(input:checked) {
+  background: rgba(230, 189, 112, 0.12);
+}
+
 .actions {
   display: flex;
   align-items: center;
@@ -644,7 +739,7 @@ select {
 
 .property-body {
   display: grid;
-  gap: 10px;
+  gap: 8px;
   padding: 12px;
 }
 
@@ -653,6 +748,15 @@ select {
   align-items: start;
   justify-content: space-between;
   gap: 12px;
+}
+
+.card-head-actions {
+  flex: 0 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+  max-inline-size: 230px;
 }
 
 h2 {
@@ -680,13 +784,25 @@ h2 {
   margin: 0;
 }
 
-.shortlist {
+.shortlist,
+.set-picture {
   flex: 0 0 auto;
   border-color: var(--line);
   background: var(--field);
   color: var(--accent-strong);
   min-height: 34px;
   padding: 7px 10px;
+}
+
+.set-picture {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.set-picture:hover {
+  border-color: var(--sun);
+  color: var(--gold);
 }
 
 .shortlist.saved {
@@ -697,17 +813,17 @@ h2 {
 
 .numbers {
   display: grid;
-  grid-template-columns: repeat(2, minmax(132px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 5px;
 }
 
 .numbers span {
   min-width: 0;
-  min-height: 76px;
-  border-radius: 8px;
+  min-height: 48px;
+  border-radius: 7px;
   border: 1px solid var(--metric-line);
   background: var(--metric);
-  padding: 11px 12px;
+  padding: 7px 8px;
 }
 
 :root[data-theme="dark"] .numbers span {
@@ -717,21 +833,59 @@ h2 {
 
 .numbers strong {
   display: block;
-  font-size: clamp(0.98rem, 1.4vw, 1.2rem);
-  line-height: 1.18;
-  overflow-wrap: normal;
+  font-size: 0.78rem;
+  line-height: 1.12;
+  overflow-wrap: anywhere;
   word-break: normal;
 }
 
 .numbers .city {
-  font-size: clamp(0.9rem, 1.2vw, 1.05rem);
+  font-size: 0.72rem;
 }
 
 .numbers small {
   display: block;
-  margin-top: 4px;
+  margin-top: 2px;
   color: var(--muted);
+  font-size: 0.62rem;
   font-weight: 700;
+}
+
+.personal-notes {
+  display: grid;
+  gap: 4px;
+}
+
+.personal-notes label {
+  color: var(--muted);
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.property-note {
+  width: 100%;
+  min-height: 64px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--field);
+  color: var(--ink);
+  padding: 8px 9px;
+  font: inherit;
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.property-note:focus {
+  outline: 2px solid rgba(199, 151, 64, 0.28);
+  border-color: var(--sun);
+}
+
+:root[data-theme="dark"] .property-note {
+  background: rgba(8, 12, 11, 0.94);
+  border-color: rgba(230, 189, 112, 0.16);
 }
 
 :root[data-theme="dark"] .numbers small,
@@ -1217,7 +1371,7 @@ h2 {
   }
 
   .numbers {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .cards {

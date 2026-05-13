@@ -26,6 +26,7 @@
         <div class="mode-toggle" aria-label="Search mode">
           <button id="beachModeButton" class="mode-button active" type="button">Beach Properties</button>
           <button id="largeModeButton" class="mode-button" type="button">Large Properties</button>
+          <button id="customModeButton" class="mode-button" type="button">Custom X Factor</button>
         </div>
       </div>
     </div>
@@ -40,13 +41,31 @@
     <div class="actions">
       <div class="view-tabs" aria-label="Property view">
         <button id="allViewButton" class="view-tab active" type="button">All properties</button>
-        <button id="favouritesViewButton" class="view-tab" type="button">Favourites <span id="favouriteCount">0</span></button>
+        <button id="favouritesViewButton" class="view-tab" type="button">Family Favourites <span id="favouriteCount">0</span></button>
         <button id="starPropertiesButton" class="view-tab" type="button">AI Picks <span id="starCount">0</span></button>
       </div>
-      <button id="exportButton" type="button">Export favourites</button>
+      <button id="exportButton" type="button">Export family favourites</button>
       <button id="refreshFavouritePhotosButton" type="button">Update favourite photos</button>
     </div>
   </header>
+
+  <section id="customXFactorPanel" class="custom-xfactor-backdrop" aria-label="Custom X Factor Search" hidden>
+    <div class="custom-xfactor-dialog">
+      <div class="custom-xfactor-head">
+        <div>
+          <p class="eyebrow">Custom ranking</p>
+          <h2>Custom X Factor Search</h2>
+        </div>
+        <button id="customXFactorCloseButton" class="icon-button" type="button" aria-label="Close custom X Factor search">Close</button>
+      </div>
+      <div id="customXFactorOptions" class="custom-xfactor-options"></div>
+      <div class="custom-xfactor-footer">
+        <span id="customXFactorCount">0 selected</span>
+        <button id="clearCustomXFactorButton" class="icon-button" type="button">Clear</button>
+        <button id="applyCustomXFactorButton" type="button">Use custom X Factor</button>
+      </div>
+    </div>
+  </section>
 
   <main class="shell">
     <section class="results">
@@ -84,7 +103,7 @@
             <table class="comparison-table">
               <thead>
                 <tr>
-                  <th>Picture</th>
+                  <th>Picture 1</th>
                   <th>Picture 2</th>
                   <th>ID</th>
                   <th>State</th>
@@ -96,7 +115,7 @@
                   <th>Land Size Sqm</th>
                 </tr>
                 <tr class="filter-row">
-                  <th aria-label="Picture"></th>
+                  <th aria-label="Picture 1"></th>
                   <th aria-label="Picture 2"></th>
                   <th>
                     <select id="idColumnFilter">
@@ -115,12 +134,13 @@
                   </th>
                   <th>
                     <select id="xFactorColumnFilter">
-                      <option value="all">All</option>
-                      <option value="desc">Best first</option>
+                      <option value="all">All X factors</option>
+                      <option value="desc">Overall best first</option>
+                      <option value="capital">Capital gain potential</option>
+                      <option value="access">Direct beach access</option>
+                      <option value="city">Closest to major city</option>
+                      <option value="value">Best relative value</option>
                       <option value="asc">Lowest first</option>
-                      <option value="over800">800+</option>
-                      <option value="over600">600+</option>
-                      <option value="over400">400+</option>
                     </select>
                   </th>
                   <th>
@@ -191,7 +211,11 @@
             <h2></h2>
             <p class="location-line"><span class="location"></span><a class="source source-inline" target="_blank" rel="noreferrer">Open exact listing</a></p>
           </div>
-          <button class="shortlist" type="button" aria-label="Toggle favourite">Favourite</button>
+          <div class="card-head-actions">
+            <button class="set-picture set-picture-one" type="button">Set as pic 1</button>
+            <button class="set-picture set-picture-two" type="button">Set as pic 2</button>
+            <button class="shortlist" type="button" aria-label="Toggle favourite">Favourite</button>
+          </div>
         </div>
         <div class="numbers">
           <span><strong class="price"></strong><small>price</small></span>
@@ -199,6 +223,10 @@
           <span><strong class="sqm"></strong><small>price/m2</small></span>
           <span><strong class="city"></strong><small>major city</small></span>
           <span><strong class="market"></strong><small>on market</small></span>
+        </div>
+        <div class="personal-notes">
+          <label>My notes</label>
+          <textarea class="property-note" rows="3" placeholder="Add your own notes..."></textarea>
         </div>
         <div class="signals"></div>
         <p class="notes"></p>

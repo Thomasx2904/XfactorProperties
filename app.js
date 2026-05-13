@@ -467,6 +467,198 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mooloolaba-148865908"
   },
   {
+    id: "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+    title: "903/47-51 Mooloolaba Esplanade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    listedDate: "2026-04-13",
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Mooloolaba front row", "Mooloolaba Esplanade address", "Ocean views", "Steps to beach"],
+    status: "active",
+    notes: "Active Mooloolaba Esplanade apartment listing advertised as apartment living on Mooloolaba's front row, with panoramic Pacific Ocean views from Zanzibar Resort and easy beach access via the Esplanade. Price is auction/no guide.",
+    image: "https://i2.au.reastatic.net/800x600/20a5075616d96eda8eeb592e0ab435d523b4a9c846b13576e2b1ad2a1581aaeb/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/20a5075616d96eda8eeb592e0ab435d523b4a9c846b13576e2b1ad2a1581aaeb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62aef0f670846217d55124d6f1c83a462cb2a499a01956ea088825d7ead43817/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fc3724ba60cdece4759991ace9dc1f6de0789c184f99b13318175f6880e9a87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c9b64371eb4150d63aae3e800a58eef39704abdedb7158b7c4546c594e8a8e9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa610ef0533e9f2349109a59596887790ae8a877f099d8badd7e02cc05666e70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df011119b4b306af617b3dba91b353d78c6bacc0172564acbca1d132354c264b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/983fab16244dcbf481d664e5304145dfbff56975d7c0d26eadbe4fc208255e3e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/025203974eec1ee0176ba2aa1dff1d874246e1a19f23b456b454a5070dda8908/image.jpg",
+      "https://i2.au.reastatic.net/800x600/edf37ac28abccf13b2c9f1bb4859fe6042d7b881679e967c2dc9b05b146047dc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a87e3571258c9105fa97e54417db0c376ecb36eed1d655fda145361c856bd8f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/99553df02c9f85bf07c6a28224da95b71d3b0e91674d5fd717cc29798511605b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2951067b8f410c2876892efc8ecc60cb9e44de09d311fd8919c49f3095b9f3b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5c74f9ac640a16ff7d44018a717ca38ab831d5e852c478114c64056714cf1b6b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/de6a032bc2e955245cbe17fca6298a07d03d68f55db1de76bc2ab37ff0334e75/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b364003b4610a0885b607324d70d467ed5f1c9e30356d45b6c477caf5862514d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7237f63aba10fc5618889d5906dec1646f65fc696ace3760d5219ef4a636a5e2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9fb007adaed4358ecaf787f1a8d137f6dc29e5bf0f97a3500d90b007308ea2ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bb62be1d86a85c1e676d25b87e45f38b972a78b8064684e89875a760eb266ee7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c59b06f0800c40c6aa988314cffb73dccb217b5f6d1e9ed775f50b7915a7abfd/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mooloolaba-150861552",
+    investmentStar: false
+  },
+  {
+    id: "qld-mooloolaba-17-95-mooloolaba-esplanade",
+    title: "17/95 Mooloolaba Esplanade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    daysOnMarket: null,
+    price: 1600000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Mooloolaba Esplanade", "Front of Pacific Beach Resort", "North-facing ocean views", "Beach metres away"],
+    status: "active",
+    notes: "Active apartment listing positioned on the front of Pacific Beach Resort on Mooloolaba Esplanade, with north-facing ocean views and Mooloolaba Beach advertised as just metres away. Price is advertised as offers over $1,600,000.",
+    image: "https://i2.au.reastatic.net/800x600/03eaf8746c11d6765a348b95f3fef51b09b7a2a3652c3eaed609fb705cb9fe92/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/03eaf8746c11d6765a348b95f3fef51b09b7a2a3652c3eaed609fb705cb9fe92/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3d8037a8b6f35b0c97f4b454fed05df9c7c44cf2fa6455620a7d078c552b0209/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8cb169fa2ec0cf15b030a71075f4f775cceda253766c8a98e235a9e15c61de84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a093bdddb0e214ca492aee9c215fce419ef940cfd2c5a09d4c15edcf7b7a076e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4485b8ee0cecd7d5cd00569ffa24d2dfee57534ed8dc58418d57f2d6597ed8ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2644686141e218ea7e3d77bb2ebcedd13db4368285046d142c44a50b425bafdb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/da501f4cf1c7ef85a2c4e89b37e0c59c93764965608a1a4ecdb5e6c3f92cc114/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1029e49bae9365e7314b5070ff8f749286cd1caa46344b09193638d65a179454/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f8ce2c796ce0fee9d8c1bf0d19e2f2c15cae644ce9f9db6b0eebc067d08ef1d7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc1d8902a296a16cb18bd1dc660676fe9dc95251370b59bd667b987495cb430e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8281f04bae37774c5c794ffe0915871957f89aac06902f536f1bc70bb219e512/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f7a2000931218d5de3edac4fa01b610f78d43748c6fb63fcaa5d06a632bb9a87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5e653e3807c15e1b2fc0f732d5b0a40a80a707d37914d7afa247dc4c3a3d86a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/964abbac9a194dc6495b12abbd1dbc6d2afd80e2205e4e0fa489a24c9d489a93/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3f11d601e78a07c1ac645c548e5fda86326f5cde49a5a10e821ee40d4e92ee2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79d011d100ac621f42803324e4c8b9271b7c26951885e9a96b74e1f14a0fc623/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e65f3b1d6b811770d14f4ee5b793ad7bef347171302eac8ad8a058714eb6bbdf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c904fafeb931863121f3c1aeef09485859dbe0e991ad19c7b5d361f5377b23fd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5ca86df732d2149ca1d9530e8cde11d2e533bef360aec28a02ce303dedaae71/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8478927794a92bb9d5bd7f163b5ec0205ebf203d1bac7c88903e33d91adcaceb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/acabd2b2f3886860256a4e04d46f5403a13e6e5c5b737b9463f070b618f86fc4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ac0ad4962e61c5e19d8d93923337234a93e693b8a7bfb2398fb63db0398f38a5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f28e5f1c94cb5dac3ec671fa2ae1eee4463bbb01d83cc9c6f09bf1c5df527a29/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a97ded5c8942ec575626d57c4464f80caf036ea06d5a8fbb3ecc6c9e330853d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6f910c2e2ccbac7d4b6098653b0ddb5f27aab0db53868ca09e7c315154910729/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-mooloolaba-150369124",
+    investmentStar: false
+  },
+  {
+    id: "qld-mooloolaba-688-11-mooloolaba-esplanade",
+    title: "688/11 Mooloolaba Esplanade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    daysOnMarket: null,
+    price: 685000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Mooloolaba Esplanade", "Landmark Resort", "Ocean views", "Moments from sand"],
+    status: "active",
+    notes: "Active Landmark Resort unit listing on Mooloolaba Esplanade, advertised with ocean views, resort facilities, and an unbeatable lifestyle just moments from Mooloolaba Beach. Price is advertised as $685,000.",
+    image: "https://i2.au.reastatic.net/800x600/53ac02c3e2db2d7f40af497b9b59aaa4fc34ad2481971da8aa0d6218db939d58/image.png",
+    images: [
+      "https://i2.au.reastatic.net/800x600/53ac02c3e2db2d7f40af497b9b59aaa4fc34ad2481971da8aa0d6218db939d58/image.png",
+      "https://i2.au.reastatic.net/800x600/b503bca6faac8ae8ec95e3ce06d60bf8355c38d44439dc3554ef8963949c094b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd27b9b94bcdfeb8946c103f579145a2edf10bf1f756f1d79009b2f261d03445/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07019d910fea62faeabe10b7830e94bf0436d49f5d69d742fe6880ce9b8a0542/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdb741160b4d4c1eb19c45e8bebe91ca5df48b337fd12e83b1e930519c5a10b1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cfe66ca55ad996518c20a6e73b5b63c6416caa5865fe768b7f4fd8ca874ea3a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d85d100ea9e216cecc3c27e41f04cebcba0e8bb27b61436710fa5a05f5a7dda0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ddbcf07ceb62627706d870f28d733c7ddb86ac6b083d64b2099e2c71c5c4b852/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4e08e4a193d8b43ed503bad5e59f30d02567571015717f676ab28f0127fb6a23/image.jpg",
+      "https://i2.au.reastatic.net/800x600/29f0cf3f4d404de8522e191ec497a603bc64af88a7f224cc6f49e847e41fa230/image.png",
+      "https://i2.au.reastatic.net/800x600/0818667227fbf71f18c691562e3778f9647413b5d4f0fbc0494d74f308abf2d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a9f358548c55003782d67a2e3f168133ba652a709d6f160b48ffb720e28bd9dd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1128a1ee827e87fe9704bfd74df8afe099fad1f56c660adf2d9cdb15a077ad92/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c18191aa807f564c8f9a8483208d88b273e57dad0b74e5472212b1560537eb16/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mooloolaba-150597556",
+    investmentStar: false
+  },
+  {
+    id: "qld-mooloolaba-8-125-mooloolaba-esplanade",
+    title: "8/125 Mooloolaba Esplanade",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    daysOnMarket: null,
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Front-row Esplanade position", "Protected ocean views", "70m to beach access", "Northwind complex"],
+    status: "active",
+    notes: "Active Northwind complex unit listing advertised as a front-row Mooloolaba Esplanade address with protected ocean views, permanent Esplanade outlook, and a short 70m walk to beach access and the park. Price is advertised as best offers by May 19th.",
+    image: "https://i2.au.reastatic.net/800x600/f082f26785c3f58ab03f180ad905af5e4b5ff86caf348a304bb5f45656c3666c/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/f082f26785c3f58ab03f180ad905af5e4b5ff86caf348a304bb5f45656c3666c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a4fff5f43635e02c8bf35f8146adc5ced9fe8882b48fe0c03677db73b70692db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43ccc6c957e1ea9d0f6666bdde04b073edba8ded7bf920135c320e13eca71cf2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3ee08c130770cd12e1ef73d6ef35e074bd88cec84e275b361b468e2fb9138c2a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c1a29b933f7e47b767959ecb724166ae81cbf69cf4766096ff73d5334e0e40bd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1428cd6e9f08e1d115ca465010c050b3cc6186c17fcc48dc2e3e51e61cf532f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6a77c23f7f5b6035683d8d662a073c7027906d784a238972d03251ddb41abd9c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55827e11f3f8f00726e08a83617382a0df9aa1f1f11f748f7275522eba6a1bf1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/943d554d9d303b4da38c61262622a00c58623b50f20ff6d5fe2d61bfaf45ba42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f04e63edc61bbaaf70c8da3eee71c6d4506266056006698983a47b982af6291d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a2c7805da19ed9bea34a2f82b76b83d1d26c2e73d4381f57903ea4c5b1e0843e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc3c64760ddb1e0e2d581db934c2f780a159ecd45d04e15c773c54bd6a19655a/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mooloolaba-150143516",
+    investmentStar: false
+  },
+  {
+    id: "qld-mooloolaba-10-2-meta",
+    title: "10/2 Meta Street",
+    suburb: "Mooloolaba",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 65,
+    listedDate: "2026-05-05",
+    price: 900000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Oceanfront Bellardoo complex", "Directly opposite Mooloolaba Beach", "Coral Sea views", "Private deck"],
+    status: "active",
+    notes: "Active Bellardoo unit listing advertised as absolute beachfront/oceanfront, sitting directly opposite Mooloolaba Beach with Coral Sea views from the private deck and the Esplanade a short stroll away. Price is advertised as offers over $900,000.",
+    image: "https://i2.au.reastatic.net/800x600/737e56c6e116f3a743e8e7037805218b7a47188ab49127294f843dbab1b29c8f/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/737e56c6e116f3a743e8e7037805218b7a47188ab49127294f843dbab1b29c8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/28052fff99965dbfc27e41519c37fb65d9522820f8c8f7cbfbe1d39beba9869a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/442218929abd6b96c2a28476abaf9bc60e51771984785339059871c0e9788c6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1cd14e723a962f21270bbcd8a2e4347b793f16edad2ac78d10fd741b8c3b374d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6704480a39de5fe3c0f2dd1a21b6da00f2375f6e47e33f288972e2b9e52726e7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6cc682c55b6718344c7ec4ac5182098ac52f151586f379917bcb84e5cca6f12b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3eef823d0d310fe22a4e920865ae94b80e3598b97e6a4a857fa22071917a3577/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5ee5c40558e784a04f6fae1671ab811f1e7f3709410ef845e62be413e2a06e16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e47f9857e84b3b4f5224cf939c201a44ca1af0134d9973648c717c3118901e8d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3bc9a0f2da6f154b6c8724723a8ef807af4ae724c21609cac5c82a758c1d55f7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dfadbda156556083fd6cab68f7fb6db9145e6071149c76638643591ac87e423c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9cef82de6d6b083e876ecef359602d174700d77cfc81a1c9c027fcc3a6a0dc6b/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mooloolaba-151104884",
+    investmentStar: false
+  },
+  {
     id: "qld-coolum-beach-52-1750-david-low",
     title: "52/1750-1764 David Low Way",
     suburb: "Coolum Beach",
@@ -482,7 +674,7 @@ const sampleProperties = [
     factors: ["Absolute beachfront", "Direct access to sand", "Coolum boardwalk frontage", "Uninterrupted surf beach views"],
     status: "active",
     notes: "Active Coolum Beach dual-key apartment listing in Beach Retreat Coolum, advertised with absolute beachfront positioning, direct access to the sand and Coolum boardwalk, uninterrupted surf beach views, and walkability to cafes and the patrolled beach. Price guide is advertised as $1,100,000 - $1,200,000.",
-    image: "https://www.homely.com.au/img-variant/l-AgentBox-13081453-1.jpg?named-transform=webDefaultTransform",
+    image: "https://i2.au.reastatic.net/800x600/96c117abc6903e17b78f63bfb393b7674004d1be549ff653aec38b020b48be5b/image.jpg",
     images: [
       "https://i2.au.reastatic.net/800x600/96c117abc6903e17b78f63bfb393b7674004d1be549ff653aec38b020b48be5b/image.jpg",
       "https://i2.au.reastatic.net/800x600/a317d7905c56dceb5309bdf35264a914f8daccfc652758603d886164fc046f57/image.jpg",
@@ -514,7 +706,7 @@ const sampleProperties = [
     factors: ["Beachfront unit", "Steps to Point Perry and First Bay", "Ocean views", "Across from surf"],
     status: "active",
     notes: "Active Coolum Beach ground-floor unit listing advertised as beachfront living in a tightly held boutique complex, just steps from Point Perry and First Bay, with ocean views from the porch and walkable access to beaches, cafes and shops. Price is advertised as offers over $1,050,000.",
-    image: "https://www.homely.com.au/img-variant/l-AgentBox-12591256-1.jpg?named-transform=webDefaultTransform&version=nOzsbNx1oBPmkLnVeQnFoBFi6Wah4CLp",
+    image: "https://i2.au.reastatic.net/800x600/e2f7eae397472788cf67f914c618c19e0e4a6ee81f9b48448b599b2196a3bcb8/image.jpg",
     images: [
       "https://i2.au.reastatic.net/800x600/e2f7eae397472788cf67f914c618c19e0e4a6ee81f9b48448b599b2196a3bcb8/image.jpg",
       "https://i2.au.reastatic.net/800x600/9cf58bdc289b5e23e66025f73e4ac853371817e14b383dd8814323b3663b6a9e/image.jpg",
@@ -550,10 +742,9 @@ const sampleProperties = [
     factors: ["Prime beachfront location", "Beachfront entry", "Seconds from ocean", "Ocean glimpses"],
     status: "active",
     notes: "Active Homely Coolum Beach apartment listing in the First Bay beachfront complex, advertised as a designer apartment in a prime beachfront location with beachfront entry, ocean glimpses, and scenic headland access to Coolum town centre. Price is advertised as contact agent.",
-    image: "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=k_Um9XCeIDGDOk5eWnOA0MB3POw3P9ge",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=tEcbegUuRVCGQPGdLNtXTOW90LzKuPKX",
     images: [
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=tEcbegUuRVCGQPGdLNtXTOW90LzKuPKX",
-      "https://www.homely.com.au/img-variant/fp-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=d0ejNnawQebPJfMOkBA9W1tEBbDHA3qu",
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-2.jpg?named-transform=webDefaultTransform&version=_GQJzfn4IZW9Bd4A5WNcdJEpYqIqiThj",
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-3.jpg?named-transform=webDefaultTransform&version=5.HkVWpuoE.zwUr3NGheyP5PnBBqN.aI",
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-4.jpg?named-transform=webDefaultTransform&version=tbB5wlzTPqYrJwDeH6Hoh8Y3BcPUBIU_",
@@ -571,6 +762,113 @@ const sampleProperties = [
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-16.jpg?named-transform=webHeroTransform&version=nvVQqR5ALFxYZrXGzVs51u06GFp3Jfb_"
     ],
     listingUrl: "https://www.homely.com.au/homes/252-131-coolum-terrace-coolum-beach-qld-4573/12513397"
+  },
+  {
+    id: "qld-coolum-beach-411-63-coolum-terrace",
+    title: "411/63 Coolum Terrace",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    price: 1650000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront Coolum Beach", "Metres to surf beach", "Coastal path access", "Resort-grade facilities"],
+    status: "unavailable",
+    notes: "Active realestate.com.au Drift by Mosaic apartment listing advertised as beachfront Coolum Beach, metres to surf beaches and coastal paths, with resort-grade facilities. Price is advertised as offers over $1.65M. Exact listing appeared off market during gallery update.",
+    image: "https://i2.au.reastatic.net/800x600/28dca3977fe06ce2d520f6ac55da9a7d0990512bc97930ffb2deb75948116002/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/28dca3977fe06ce2d520f6ac55da9a7d0990512bc97930ffb2deb75948116002/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-coolum%2Bbeach-149161636"
+  },
+  {
+    id: "qld-coolum-beach-266-131-coolum-terrace",
+    title: "266/131 Coolum Terrace",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    daysOnMarket: 13,
+    price: 1750000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Oceanfront outlook", "Beachfront entry", "First Bay residences", "Ocean and headland views"],
+    status: "active",
+    notes: "Active Homely First Bay apartment listing advertised with a coveted oceanfront outlook, breathtaking ocean and headland views, resort-style amenities, and beachfront entry with outdoor shower. Price is advertised as offers over $1,750,000.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12504985-1.jpg?named-transform=webDefaultTransform&version=HbuWCFGzIfR0kApjhn_XsyLcA_ohGj67",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-1.jpg?named-transform=webDefaultTransform&version=HbuWCFGzIfR0kApjhn_XsyLcA_ohGj67",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-2.jpg?named-transform=webDefaultTransform&version=Lt98UgUnvbsilA0Xzbm6y5jBQpYFGEz9",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-3.jpg?named-transform=webDefaultTransform&version=jvRVphrgFlYvvh0nLKtNY3KwQtjvM70K",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-4.jpg?named-transform=webDefaultTransform&version=oQlTYe9i01brLh9XOm0c25av4TIVeFLy",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-5.jpg?named-transform=webHeroTransform&version=wMyrZNhlKgZ2Hlne8fCSEhcHdyUfOby2",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-6.jpg?named-transform=webHeroTransform&version=85uLLc0tRa3LD11q87uTAe4HjLNkOOON",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12504985-1.jpg?named-transform=webDefaultTransform&version=SIHfsy540HF36nl81Ak1dopJQhv9OVp0",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-7.jpg?named-transform=webHeroTransform&version=ZXXWLaZEhXCAyAWcjx7JGuqEOM7UUzhU",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-8.jpg?named-transform=webHeroTransform&version=OoZkdzy.qtUwWA60EgO6C6Jl_m4cqCb0",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-9.jpg?named-transform=webHeroTransform&version=tfXK_HoPjK2PW_BttNdnh8lJx.hy1gdN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-10.jpg?named-transform=webHeroTransform&version=u4_ZKvkQCACfebF20w9sJxk2feADAbTY",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-11.jpg?named-transform=webHeroTransform&version=ke9IlGFnNZddUZjFW7NbE1hswgxDZqBs",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-12.jpg?named-transform=webHeroTransform&version=PJ5ifSANYpJ82Hz0MV_ssdkKJ2MqQsZ.",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-13.jpg?named-transform=webHeroTransform&version=N8CW46PS4k11BLkN3nslagPaAcMrK8QV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-14.jpg?named-transform=webHeroTransform&version=VJg2RnYotsqPIY94FKZz0CVE9q96lg3V",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-15.jpg?named-transform=webHeroTransform&version=R_8ixdmINfcgWP06FC8wrxwsmzQMtkMl",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-16.jpg?named-transform=webHeroTransform&version=GSKNHwTn_HXDMuAddpzcqBVey3drAeUg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-17.jpg?named-transform=webHeroTransform&version=ibU_2FCj1FxLBZGIYEQfK.t8S6pHLu9r",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-18.jpg?named-transform=webHeroTransform&version=.T7CxQGzgZZyxb7UoPxEWlEOfBvz7G8L",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-19.jpg?named-transform=webHeroTransform&version=PpNDZB_gH.47CGotXBPNusl.Gui8qRRl",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12504985-20.jpg?named-transform=webHeroTransform&version=FhG_R38mPzQ98ESv19OnZynrsSm0BltO"
+    ],
+    listingUrl: "https://www.homely.com.au/homes/266-131-coolum-terrace-coolum-beach-qld-4573/12504985"
+  },
+  {
+    id: "qld-coolum-beach-123-131-coolum-terrace",
+    title: "123/131 Coolum Terrace",
+    suburb: "Coolum Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 100,
+    daysOnMarket: 5,
+    price: null,
+    landSize: 216,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Ocean-front apartment", "Beachfront entry", "First Bay residences", "Exclusive courtyard with ocean views"],
+    status: "active",
+    notes: "Active Homely First Bay apartment listing advertised as a luxurious ocean-front apartment with north-east aspect, ocean views, communal resort pool, landscaped grounds and outdoor shower at the beachfront entry. Price is advertised as for sale/contact agent.",
+    image: "https://www.homely.com.au/img-variant/l-AgentBox-12495471-1.jpg?named-transform=webDefaultTransform&version=e9z3fbuzTCWJVb.GFtndWljguN.RHhvB",
+    images: [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-1.jpg?named-transform=webDefaultTransform&version=e9z3fbuzTCWJVb.GFtndWljguN.RHhvB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-2.jpg?named-transform=webDefaultTransform&version=ZEVCDQGugDOi7DuwuLyAXpQIgvJIgi9k",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-3.jpg?named-transform=webDefaultTransform&version=AYM553VcydGU3Xucj2b75md7pfgq67u3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-4.jpg?named-transform=webDefaultTransform&version=QQQowcvdmuPw3M46tV5wQLHReUexWOch",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-5.jpg?named-transform=webHeroTransform&version=Q05cb8qwNN1Vb93cHXY.NEOQlWQOOF30",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-6.jpg?named-transform=webHeroTransform&version=fJnl9kjo5Woi4VKvfjRnwr7IXg8uD87V",
+      "https://www.homely.com.au/img-variant/fp-AgentBox-12495471-1.jpg?named-transform=webDefaultTransform&version=.ZYDLJ9pRIBpVUiqVLBRZ.hrOYGqct2S",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-7.jpg?named-transform=webHeroTransform&version=.2qResU3ZCKm.NaIPFNTWdhPIOvtpsG_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-8.jpg?named-transform=webHeroTransform&version=JLPdcuVD7L6631J8UpRtJrsXKjcMT7ps",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-9.jpg?named-transform=webHeroTransform&version=SmO_VZt.kDYwlRiO9E_QNrF5idyf2r5n",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-10.jpg?named-transform=webHeroTransform&version=hfbP4RBUarN7MmEtwgEpFdyUqx0KkEDe",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-11.jpg?named-transform=webHeroTransform&version=Fay3kO3RsmeHWcWdpne4YuHeuohCWaAt",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-12.jpg?named-transform=webHeroTransform&version=AYbzmbBfsQE1gQQMRryaiLNeLGmgFaiL",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-13.jpg?named-transform=webHeroTransform&version=mIqFRH4HMg.ft6dohWawvv6sIr6pD0Wh",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-14.jpg?named-transform=webHeroTransform&version=5E1pUWZkl_7T8h5octPmm8oN7QGxhFCZ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-15.jpg?named-transform=webHeroTransform&version=.lW2URmsix_K5rGZuKT9bCDLcmfS4QAV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-16.jpg?named-transform=webHeroTransform&version=YEPXhu8vjLOF7whmwtwtF.gMDLURKnwi",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-17.jpg?named-transform=webHeroTransform&version=IV93I_QVBc2zad7elx2nijuoSJzroKaq",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-18.jpg?named-transform=webHeroTransform&version=8CUVHMgk8OdTO6vvA8WailP6YN9wrPCR",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-19.jpg?named-transform=webHeroTransform&version=EX04._qZ.d.pM0tKzOu2yT0Z7fCMeuEY",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-20.jpg?named-transform=webHeroTransform&version=NIEj0LTw8pUKL1Mby_.aYOg6cGanjCxL",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-21.jpg?named-transform=webHeroTransform&version=NZgEROWugdMUfIKxjZY4_kK8jhWjGw0h",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12495471-22.jpg?named-transform=webHeroTransform&version=N0XJYT1wwpwfmQLH02wjrMIlvG.eq3y7"
+    ],
+    listingUrl: "https://www.homely.com.au/homes/123-131-coolum-terrace-coolum-beach-qld-4573/12495471"
   },
   {
     id: "wa-hillarys-5-founders",
@@ -4169,6 +4467,71 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-residential%2Bland-qld-beachmere-204441212"
   },
   {
+    id: "qld-beachmere-86-bayside",
+    title: "86 Bayside Drive",
+    suburb: "Beachmere",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 55,
+    price: null,
+    landSize: 1012,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute waterfront", "Private beach", "Direct beach access", "Major city"],
+    status: "unavailable",
+    notes: "Active realestate.com.au Beachmere listing advertised as absolute waterfront with a private beach, direct beach access, bay views over Moreton Bay, and a 1,012sqm holding. Price is unavailable because the exact listing is being sold by auction. Exact listing appeared off market during gallery update.",
+    image: "https://i2.au.reastatic.net/800x600/0ded3c277b4c75fd2a699ee2dac48336582fe840ffd4cf1409e4623205328db7/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/0ded3c277b4c75fd2a699ee2dac48336582fe840ffd4cf1409e4623205328db7/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-qld-beachmere-147851340",
+    investmentStar: false
+  },
+  {
+    id: "qld-beachmere-112-biggs",
+    title: "112 Biggs Avenue",
+    suburb: "Beachmere",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 55,
+    listedDate: "2026-04-28",
+    price: null,
+    landSize: 632,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Front-row shoreline position", "Bay views", "Beach access", "Major city"],
+    status: "active",
+    notes: "Active realestate.com.au Beachmere listing advertised as nestled opposite the pristine Beachmere shoreline with bay views from the front deck and master suite, plus a convenient stroll to the water's edge and boat ramp about 100m away. Price is advertised as For Sale/contact agent.",
+    image: "https://i2.au.reastatic.net/800x600/e5a808f42681a7d23a5ef11fc86994e6d1caea91730cfdd325d7d7e2c3edefa2/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e5a808f42681a7d23a5ef11fc86994e6d1caea91730cfdd325d7d7e2c3edefa2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f9ad195ce6e0a156e725d223cca480f460bb27da6d61644e013db2ac51cc1d2d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/47333da39fd962b2af25066680a31c65a449c6ecd0595c22c85ecde57e36e493/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f51ae2c5f6908fbdc05acbb92fbf8ab4ff245ed2a5d6df9500eb5d3b26fd639/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b3bcd7f51600eb8df9dcfb70c6b6a7df17bacf960cd53b0e016caa416909f9fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd60cbb01dbcd6ab90d547f34186d9d674f591afad9717e17a3eed009d188122/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8de21cbf548330a71965d30fc2162fe2ac66edac92340f1114443480870d199a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cd08bd0db7d53e15428982a1dc31f57dd861d63873d49a4bd439145b50a64ed7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc2c0a649b3e82ebd068bcdb8ef1ac9989e5085656145b08aed8aea611d18382/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c290bd9d2cae009261008a8f028158163247987573de5415c340b07917cd470b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98af0e5e7cf9af738b4180e50db923f87bd36a27ce4b38946ee934ff5388aa81/image.jpg",
+      "https://i2.au.reastatic.net/800x600/884ecba37eb3e8236e779856f06a3c9e6e8a4107cf5969ca5ff2e13b244addc9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f580d8b1883fd51a804edca678f03286c7c6af2fed176b7930f637cb1e044376/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d26d0250bd3fa445ae83b7a7ab76f628858f018e872e29e77c052aae6d92210c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91325352af847f9d00da69ef64d6cef8dd38f7fc3f71728e04bd43b4e44c89a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3714ccb6fd309a42deeffe1e79a4ad6988d9d241bb6a0c9cca66827585c9ad85/image.jpg",
+      "https://i2.au.reastatic.net/800x600/83ebae12fcf060e7d3d97d7a98b3ae83cfbc766639f88324df73ae3f87e95133/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4417fa510117f560a1cf2076fd3f275a86be0c00ee50ff1b5d2ccd7563fe378/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1da391a87f004ad1a720057860e538197510db4c8765d1ba1b63ea5121323487/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d10314670561c12c3c2c6738cd59313e0cefa9cfea8722bda34282aa5c18e166/image.jpg",
+      "https://i2.au.reastatic.net/800x600/94e0f753cf90e23e9cc0f3e67fa6e13dd8725e5952911bbbe2a39e789e3c8ccd/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-qld-beachmere-151023076",
+    investmentStar: false
+  },
+  {
     id: "qld-kewarra-74-kewarra",
     title: "74 Kewarra Street",
     suburb: "Kewarra Beach",
@@ -7681,6 +8044,65 @@ const sampleProperties = [
     listingUrl: "https://www.homely.com.au/homes/3-ashwood-court-marcus-beach-qld-4573/13017170"
   },
   {
+    id: "qld-marcus-beach-4-peppertree",
+    title: "4 Peppertree Close",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    listedDate: "2026-04-08",
+    price: 2795000,
+    landSize: 1004,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Noosa National Park backing", "Gated trail access", "Nearby dog-friendly beach access", "Elevated pool sanctuary"],
+    status: "active",
+    notes: "Active Marcus Beach listing advertised as a rare coastal sanctuary adjoining Noosa National Park, with gated access to national-park walking trails, nearby dog-friendly beach access, and a seven-minute stroll to Marcus Beach. Price guide is advertised as $2.795M.",
+    image: "https://rimh2.domainstatic.com.au/nYaG1q9VKkAhv1IwtodV74gdIwo%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020743919_2_1_260408_065601-w2000-h1334",
+    images: [
+      "https://rimh2.domainstatic.com.au/nYaG1q9VKkAhv1IwtodV74gdIwo%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020743919_2_1_260408_065601-w2000-h1334",
+      "https://rimh2.domainstatic.com.au/XeIClrKs2Tq-tLNZkrgKDY-W9PA%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020743919_3_1_260408_065601-w2000-h1498",
+      "https://rimh2.domainstatic.com.au/rCGa3UMzFn5s-JYdqLfdPWjpaxc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020743919_19_3_260408_065607-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/hvcBwXh-FlTZ1mMa6za5U11CNx0=/1680x720/filters:format(webp):quality(85)/2020743919_14_1_260408_065607-w2000-h1334",
+      "https://rimh2.domainstatic.com.au/rCGa3UMzFn5s-JYdqLfdPWjpaxc=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020743919_19_3_260408_065607-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/r2Ok3IKs5Q26NIrDHiUknU-33MU=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020743919_1_1_260408_065601-w2000-h1334",
+      "https://rimh2.domainstatic.com.au/2naJMZHzkzUKhRRVour8FNZP8PA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020687395_5_1_260317_045514-w2000-h1124"
+    ],
+    listingUrl: "https://www.domain.com.au/4-peppertree-close-marcus-beach-qld-4573-2020743919",
+    investmentStar: false
+  },
+  {
+    id: "qld-marcus-beach-23-callitris",
+    title: "23 Callitris Crescent",
+    suburb: "Marcus Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 120,
+    listedDate: "2026-03-13",
+    price: 2950000,
+    landSize: 640,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Tightly held beachside enclave", "Moments to sand and surf", "Renovated coastal home", "Pool"],
+    status: "active",
+    notes: "Active Marcus Beach listing advertised in a tightly held beachside enclave as a renovated coastal sanctuary moments from the sand and surf, with indoor-outdoor living and a pool. Domain advertises best offers over $2,950,000 on or before May 15.",
+    image: "https://rimh2.domainstatic.com.au/D_H9_FbWQTG1RgytDyR6c2Gr0fY%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020679670_22_1_260313_034511-w5000-h3333",
+    images: [
+      "https://rimh2.domainstatic.com.au/D_H9_FbWQTG1RgytDyR6c2Gr0fY%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020679670_22_1_260313_034511-w5000-h3333",
+      "https://rimh2.domainstatic.com.au/CRfKOIb32PmCfb-MlTUolutB38E%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020679670_1_1_260313_034515-w5000-h3333",
+      "https://rimh2.domainstatic.com.au/zW9c3xrF2V5pMKYbqBFjDTIX3UU%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020679670_8_1_260313_034511-w5000-h3333",
+      "https://rimh2.domainstatic.com.au/5R4iJLAy_OMqmjXjwgb09Q5O1CY%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020679670_23_3_260313_034511-w3508-h2480",
+      "https://rimh2.domainstatic.com.au/D_H9_FbWQTG1RgytDyR6c2Gr0fY=/1680x720/filters:format(webp):quality(85)/2020679670_22_1_260313_034511-w5000-h3333",
+      "https://rimh2.domainstatic.com.au/5R4iJLAy_OMqmjXjwgb09Q5O1CY=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020679670_23_3_260313_034511-w3508-h2480",
+      "https://rimh2.domainstatic.com.au/CRfKOIb32PmCfb-MlTUolutB38E=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020679670_1_1_260313_034515-w5000-h3333",
+      "https://rimh2.domainstatic.com.au/zW9c3xrF2V5pMKYbqBFjDTIX3UU=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020679670_8_1_260313_034511-w5000-h3333"
+    ],
+    listingUrl: "https://www.domain.com.au/23-callitris-crescent-marcus-beach-qld-4573-2020679670",
+    investmentStar: false
+  },
+  {
     id: "vic-balnarring-beach-3-library",
     title: "3 Library Road",
     suburb: "Balnarring Beach",
@@ -10652,23 +11074,272 @@ const sampleProperties = [
     listingUrl: "https://www.realestate.com.au/property-apartment-qld-mermaid%2Bbeach-150765176"
   },
   {
+    id: "qld-mermaid-beach-3-4-seabeach",
+    title: "3/4 Seabeach Avenue",
+    suburb: "Mermaid Beach",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 10,
+    listedDate: "2026-05-07",
+    price: 0,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Hedges Avenue corner", "Beachfront pocket", "Direct ocean views", "Boutique block"],
+    status: "active",
+    notes: "Active realestate.com.au listing on the Hedges Avenue and Seabeach Avenue corner, advertised as a prestigious beachfront corner with direct ocean views and metres to the beach. Price is auction.",
+    image: "https://i2.au.reastatic.net/800x600/a6bd5f94a9329698bac75c113dfb1db6b3dc2fb3f3bc33b61b6d251fb83d4ab3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/a6bd5f94a9329698bac75c113dfb1db6b3dc2fb3f3bc33b61b6d251fb83d4ab3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6bdcbb1af46d8d944de3dcf85a61c14ed7f34e02a52ece90b7c374a79211de4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2bfa9891471c5fcc3537b022fae8d735b0c8b17189fa62f74dd44fc318521fd6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d306c909bded94a36d71afa82d5c0515d44a768de580bd9d98fb70ab24842c5a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63222d352d8123c46429cd04f616ba70521f78f4d66bb76ca449bca58d113036/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5969a6126625c9298931340226ae9d8c3b7ab9791a5b9047724b8d9dc289c036/image.jpg",
+      "https://i2.au.reastatic.net/800x600/627d0cda50274363767eac08bde2b63742144954e9e4b8928531529f30680d70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7774e4d5de525fb0927fdf042dc2c0012888b68620cb3e18e5378619d858ab32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5acb737cbc13cc0832177ec87f5bbd2c85dbb3a1d26479a9773830d7bb0aa4e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90a209d53935db05cc2c32f2ee4365f7346bf59cc29e54db5de20d77263b567c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4b0b7a366ccdf53fc849f351830b2ef7440eea7ce9c573e545059a2915aef85f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/841b57e110129ede40a9e67e485356aac8f0fdddabe07281856b06702841685c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6aff3a80f2189b4810287721daf456324a8a7e9e35c746c3a0de01911e7b0927/image.jpg",
+      "https://i2.au.reastatic.net/800x600/507460c373ce66db0b4b8dbad39edb0732b6631c32c8e95fdfb8d658ee60bd1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cde6abe5e69f7722168f4a25cc06d76ba50975e568aa74819668f654bb1e4f5f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96324a3116c0ccc87b42285bb0b12c0a4386b7083858f47e02af606cd318aa03/image.jpg",
+      "https://i2.au.reastatic.net/800x600/54e840feda658579a99590625d1eeef770b248e3353887e56e0fd380905d7b8f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07dc7cf5c1d73b0d8dc81ddc288e89ceb71f984cbf3f2237bfed303229450e40/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b2306051137e2531a742a44f441a0cc3d90e50a82f7005941cfde4a198b9c2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/62da232f5b4c6f362f40490aade37d578fb4c0bb23ad51eb3661bf0585a5831a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5cad659f54a96057929bc2ef0060b09c79b56eebf9ce76dc5442c33a96fcd2e/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-151131984"
+  },
+  {
+    id: "qld-mermaid-beach-24-67-albatross",
+    title: "24/67 Albatross Avenue",
+    suburb: "Mermaid Beach",
+    state: "QLD",
+    nearestMajorCity: "Gold Coast",
+    majorCityMinutes: 10,
+    listedDate: "2026-01-29",
+    price: 1925000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: true,
+    directBeachAccess: true,
+    factors: ["Absolute beachfront", "Direct sand access", "Ocean-view balconies", "Foreshore Beachfront Apartments"],
+    status: "active",
+    notes: "Active realestate.com.au Foreshore Beachfront Apartments listing advertised as absolute beachfront with uninterrupted ocean outlooks and residents able to step directly onto Mermaid Beach.",
+    image: "https://i2.au.reastatic.net/800x600/ab8b0c2027b4a6a6669e8d9a9f58a5475313414a00f7abc3e02d97b2e7120c51/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/ab8b0c2027b4a6a6669e8d9a9f58a5475313414a00f7abc3e02d97b2e7120c51/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab8b0c29f0bf9aaf5bb796324957f708ee1d037d3dd346a52b85620586b45430/image.jpg",
+      "https://i2.au.reastatic.net/800x600/39a5f84b213f2f9fb85f44b95dfabd5bb2dcf00644db92cc14caba797eb2783b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/873518ab49320e195ee2c70a6e2e9f0c4425b51fcdc097ff3d515f9d24d768c0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/64c31f1422674276f1cf001555e9b0afd2bccf1513b87b647e5e583b93b0df0d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/84311703540b9f8d9d9ca1149218314a5f6f257732a1f91cfe51ddfcb1af0b34/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45e5a83b8818436d2cd5bd6ba2ceb9422ba10f6d806d62401d56ea7ed6f9a13f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9dc7290961e9657081dd2a81d71a3703f02176ada839aeb7551aeca3f2a43c31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ab41fe6f3461634534b53c3ca1b25705693b02e3cdc9bb8a90929e54d47e0224/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dafef86240235ab238b61058f69f23bdcef1246625a361c8375358b978fdc68b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8c9a977cf0607cb163972fc08ca98a25b653708df3ef9edf7bc104fa4c1dc6f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f6633ca8cd616eb23a132d5283c80bbcf24284a8f8b3b6ce73ef12856fbce74e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/30a723de5fa937982b14b9d89ab162420aab1c5b3d846d28dc59d02077d0d393/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5d4f232885ccd996898536c23cff32099592f36a746221bb08afabf1b51e6ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b49b694e4f867c282bb6ccd58bae22bc9b30b858a27d0b552e39ee5e2ec3b544/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-mermaid%2Bbeach-150138644"
+  },
+  {
     id: "qld-peregian-beach-36-lorikeet",
     title: "36 Lorikeet Drive",
     suburb: "Peregian Beach",
     state: "QLD",
     nearestMajorCity: "Brisbane",
     majorCityMinutes: 125,
-    daysOnMarket: 3,
-    price: 9450000,
+    listedDate: "2026-02-02",
+    price: 0,
     landSize: 513,
     beachfront: true,
     noRoadFrontage: true,
     directBeachAccess: true,
     factors: ["Beachfront parcel", "Direct beach access", "Architect-designed", "Pool"],
-    status: "unavailable",
-    notes: "Hidden pending image repair. Exact listing is active, but the local record used a disallowed realestate.com.au/property-image wrapper and no loadable direct hero photo URL could be verified in this pass.",
-    image: "https://www.realestate.com.au/property-image/150163808/1",
+    status: "active",
+    notes: "Active realestate.com.au listing on a tightly held 513m2 beachfront parcel, advertised as set high on the dunes with water views and beach access just metres away. Price advertised as Contact Agent.",
+    image: "https://i2.au.reastatic.net/800x600/6c36d84a103675d9cfa46cf82e5a439a299d4bd33741a6652a80fa5a1e7c535d/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6c36d84a103675d9cfa46cf82e5a439a299d4bd33741a6652a80fa5a1e7c535d/image.jpg"
+    ],
     listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150163808"
+  },
+  {
+    id: "qld-peregian-beach-12-45-lorikeet",
+    title: "12/45 Lorikeet Drive",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    daysOnMarket: null,
+    price: 1550000,
+    landSize: 202,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront locale", "Opposite coastline", "Ocean outlook", "Rooftop terrace"],
+    status: "active",
+    notes: "Active realestate.com.au listing advertised as directly opposite Peregian's open coastline and Victory Park, with sand and surf moments from the front door, sea breezes, ocean glimpses and a private rooftop terrace. Price guide $1.55m.",
+    image: "https://i2.au.reastatic.net/800x600/85d5e0c09c8f7e17e84131e6bc211a18194e8dad367e28e0c45ce7eda057e21a/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/85d5e0c09c8f7e17e84131e6bc211a18194e8dad367e28e0c45ce7eda057e21a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5318ba1c841a81aed46c31ba98ae3613fb2805fe7094466c0ef81eb841a2744b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a493eeea20a73ca07d8be2d986cc131dbaa1085b82856545defc29e6fc74132d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/96545f3c6d09318f07d4be48c7be5b13e471c17c9240404196168cb99fa6e2e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d00d3c9f99f7d3f01e0e4d532ac7f0bacdeabedb93b740511aeedad80081046f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/81603c6308eac9043a74616dea68d2c3dc5701b0e0c29ec26863fdc4b975b115/image.jpg",
+      "https://i2.au.reastatic.net/800x600/15bb8efa52bb5e9a903d166019a1e949af1966eda9053dd4f6ac9ce1f2df68cd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1e8c77428b27ebd9040f59fbf72910b8e7418c7ce777f5d97cf58724862a1f32/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ee51f07c6990a7661c195049fe6974a6f226ac3ab4dcdbe5d1ed8db8d012963/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0f4060963948bbdd255b7bd4c533e5788ff620cdd2fdb4cd095978d469089a6b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1154d43f7c2215dd93f3d7b9a4cde9a5452b8e9d1b03b26d45ff34b9734894e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4685636dc0e03bf28c789b254305d387faca0cdf4f2ed48ee7a50a8379f74613/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3940b3c74a20141dd13dfbf0cf2e2a42deee1064028df84ea15bfcf0fafa5666/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f411cf639ddc9f9e31ddc750a785688b36b8ff091f2134cce50e40a1f7147b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/976fee067b79fd1bcb1d1d8e3d37881c3b0d1667c5cf20c080625f8f368ca1bd/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-peregian%2Bbeach-150546372",
+    investmentStar: false
+  },
+  {
+    id: "qld-peregian-beach-16-84-peregian-esplanade",
+    title: "16/84 Peregian Esplanade",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    listedDate: "2026-04-02",
+    price: 0,
+    landSize: 106,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Peregian Esplanade", "200m to beach", "Resort apartment", "Village walk"],
+    status: "active",
+    notes: "Active realestate.com.au listing in Peregian Court Resort, advertised as only 200m from Peregian Beach's shoreline and close to patrolled surf, cafes, boutiques and local markets. Price advertised as Contact Agent.",
+    image: "https://i2.au.reastatic.net/800x600/569a006c5c520205f8ca0f79fda8902288529b8098c33cd34d1e7cb1d487d549/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/569a006c5c520205f8ca0f79fda8902288529b8098c33cd34d1e7cb1d487d549/image.jpg",
+      "https://i2.au.reastatic.net/800x600/910392cc50ee98166446fcf43941078ed8908097c16d6743f1883dbdc0bd781f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/560fe44b04824a9309ef7404070f5c9fd6a36a800d6ac73c32cc2f8adfc52647/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c24e4849168eb322d141d8dbd94cda62be1040188118cfff08c62e505cd2899/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dfc866f8a515a5818c978afb2bb28bd79ec3ca529d9d845df9e9d53c9ce1ef08/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1161928fc2cb073ffe12f0bdfd31947eb94285bee254765f00267ee19f40d5c5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/945a9b8eb09ef421b91d4559627548c1ebccc8b6c5d2cd7cecccdcef78f37144/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aeb54797a21b5d8ce3b4df33660b240560c4d53508ed821c5095c4d1800fbe19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a78d30b904d169e4463274a39eb4a70570dd0d0add84d3c2da0da41dda290d3f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0c48d5cba04f615db73a55fbe0fa61197b9f8b70e2b3f9e13f99f1b8b13bd883/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ef934268391cafd8d8bfe39b95d80ce0800f1768c5da2e74f6529a02b06eb1e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/63008658418c520e9050ee058eefaea4292bad5831c4d39608bdac81f541ad6a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7e574acbf50c74d8c57ec8ab00022a58921715c6caf23b0709ea955a9a529e19/image.jpg",
+      "https://i2.au.reastatic.net/800x600/610d475c35c0670b92ccedfe539bcd610ca28c4280854ab590bcad765652c29c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b37e1664b400265b79224a4e5af41d0aec9a37ee696053930d8f743207a0fd99/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0f389a6fa17c7649bf69e03a680365c1c3a4a73dfe1c1f3277495372be4ace2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0b08a18fd603d5df62b9451bb9542190993c3a1b37280cfcd0fc1736ab21e1c4/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-peregian%2Bbeach-150772664",
+    investmentStar: false
+  },
+  {
+    id: "qld-peregian-beach-66-peregian-esplanade",
+    title: "66 Peregian Esplanade",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    listedDate: "2025-12-17",
+    price: 4850000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Peregian Esplanade", "70m to beach", "Boutique development", "Coastal views"],
+    status: "active",
+    notes: "Active realestate.com.au listing for Amara, advertised as a boutique coastal release on a premium north-east facing corner just 70m from Peregian Beach and 350m from patrolled swimming. Price advertised from $4.85m.",
+    image: "https://i2.au.reastatic.net/800x600/2c2a9f6d14335b875345835a2a1cbef3f5e865f621c11a70510e09c60f97ea90/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/2c2a9f6d14335b875345835a2a1cbef3f5e865f621c11a70510e09c60f97ea90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82ba1aff25af55ae9e5f33dc34436908bcb0256d898eefea98bdb69cc3550548/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ace67b83598a504e537ebd0fcdf039988a10df31a660e15d93f5f7608aa9e95/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0105cab131dc9d891f3533ac97153a0fe540485800587b8bfd3c5c267f59b7a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e231aad52d51c2eaa9cf32991af430d5e93f26db445ce1a0b1ac41d8de34cfb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/82f5de63cdbb9bcab32ba4b4e7c2266f64021acbcc8ac59ff297b61ba3e2b255/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0a81ef216c67430e5366f3ae03fe0c81764163bf8872704aaa9febf0b62143f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/670d77bc2a5a0f975bf21358f2e746cb26f99a371ad409dc2a9200bb3a597065/image.jpg",
+      "https://i2.au.reastatic.net/800x600/256ec7e3d165753fef4b7b03774deb6609ee563356848d36baaca33c1197032a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/37a7b99231974297913377f2bdcd8ce1ce1f9ffa362350f0409562cb3f76c264/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8fa37bc480817ef79c1b385132609f13246d5651c562fe45979767f8dec785e5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53feb5ccd4555562fc5ec4569787accbd852d7998c23b1b776c581ff4e430421/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9b05dccf01c3ac7424886ef1ab9bdf038dad95e73bc4cb37842ec6d74a141baa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6dec7ca70d65b9e7d884f02691071bb862e15fa5168a5e0c83ddc80184590389/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5fc854a692cc773db159c7d70ba38fa63f3e32750e7402e33cda83b7d6208a6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e3e67916ab09e9233b97ce50f4991b9a7032e5ea8266bfa54dffda057e664449/image.jpg",
+      "https://i2.au.reastatic.net/800x600/77aa02f097f2210c2bdd2c894a2bfd892c4c26e3cd3871140c9289d37375dfb7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/822d9febbd16f9d98f7193d7d21317c93b7a61d5ffbee3d59d9a0d385208e28c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a59f64aef16909799157c35a754099515e3eacddba023fb632347752064b47b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/007adca33cd399f13a43f3e22cd49a20a575c28d650a2a4d8761c0e22dde0eb3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/35668d0b6ec162a8e1f582c37b44e938e48e42f9ca79d6735562c0f3874a1a27/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21bacd5f13a3ff3099e54d64da957b09bdb90208dd5155c70f51d29f5718083f/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-peregian%2Bbeach-149886764",
+    investmentStar: false
+  },
+  {
+    id: "qld-peregian-beach-1-peregian-esplanade",
+    title: "1 Peregian Esplanade",
+    suburb: "Peregian Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 125,
+    listedDate: "2026-04-16",
+    price: 0,
+    landSize: 673,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Peregian Esplanade", "Beachside position", "Ocean views", "Village walk"],
+    status: "active",
+    notes: "Active realestate.com.au listing advertised in a premium north-facing beachside Peregian Esplanade position, elevated for ocean views and cooling coastal breezes, with the beach and Peregian Village moments away. Price advertised as For Sale/contact agent.",
+    image: "https://i2.au.reastatic.net/800x600/bf99fc15e64e356db03e4d7f02812b1ecf5efc4c317c4d8ef0c727218b88c9fc/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/bf99fc15e64e356db03e4d7f02812b1ecf5efc4c317c4d8ef0c727218b88c9fc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e09d7c457db310108fe092dda98a47a47a288a23f79eaaeb2e9501d5e42b0762/image.jpg",
+      "https://i2.au.reastatic.net/800x600/61584ff68bd0acf99999e0d3d75e075f7e20d4c63a6e1e6782aac7088ad7a767/image.jpg",
+      "https://i2.au.reastatic.net/800x600/638587be6b7bc448f9f6dcdb28198e550d36ccbc739f3136114061a203556c78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/215779ce4d625b7fbdf8f970adca70d3095d26e387f7c8a4fa437470697f764f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56361c15775c2540d9a97d42f1aa79d46723217702f0483ccfdab546f5beb0ee/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bfe6a41e228bbcb3618d80d8f8e55f18f2cec48169d5f1e87fdc7f639de3f224/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e353c9f5a65242d555be6db0cfe4f25a818450e05c6e37af94120a4325ac8458/image.jpg",
+      "https://i2.au.reastatic.net/800x600/589951bb2ec54b4814c17b55d0b470e659991d0c5eeead7754fa402816621765/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d8e06a464b5f4b5821e749ce784251a0d1887698c0fd70793bdbf576eda69fcd/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d56f0a84d41662fb9baa762c5f18e2c99aea08ed2ca8e913e08b9a4380f67155/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c0e9bda023e9e19d8feadac0d0bb3ed47161d3f7942bf2632a76b3c5150acddc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1a4369026ce02cfc7f3bda27695d4c2ca41aee43ab6bb46e70b4849c1e64d7f4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5eb9ce10121499495ce36cbafbdceac078b993845492fe1a3a5a0c0a13c5d87/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3088a7d2c2f956d33859050c941fb145cda5246b6e9e193be54baf30c23a1648/image.jpg",
+      "https://i2.au.reastatic.net/800x600/98d88d965a8c1453b78617de6c34d9c7dd566f1225eb020091048e99292ed01d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88f2b167690f6b29ff2a9b5b6210304975b2e3e1d62f34698a088ef3a71a1f16/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5a92972f7ac6e8b2c5e92e92f63ef008a5671cb9c7619c0114bfd257fb148d8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eda3164704eeb38a9e6dac67f753cde8a6a35f1b55e9fd99cd7c065cbe18f2e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/167806dbe06318b2af9795da94361a1aa0029e1176e0b3c5d54c96272fc33673/image.jpg",
+      "https://i2.au.reastatic.net/800x600/908bdd2d6f15dcd4473d9d59f12155cb233829abed876c7ca40f27e75bed0647/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b32354157ca444dad7473d66862cb5f26ede86a597c96c7938692ffefae96b70/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d43463d6a913b75d5e7e8215a9b427d2c4b8534a83df02dea10147dab54a597f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2587e16e95de2982422d7d476eb3f835cacd8c620874c53e573501007b83582/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89b97fb445a0f336c01f5524f4fe561494a37101f70f366759f91bf8c6dcc975/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fe8b846dd97be31a64780a662304df0843b6077f652a23e1fc93dca3c2eee4f7/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150909972",
+    investmentStar: false
   },
   {
     id: "wa-lancelin-80-gingin",
@@ -27495,8 +28166,8 @@ const sampleProperties = [
     noRoadFrontage: false,
     directBeachAccess: true,
     factors: ["Esplanade beachfront access", "Directly opposite foreshore", "Top-floor apartment", "Oversized garage"],
-    status: "active",
-    notes: "Active realestate.com.au listing advertised directly across from Golden Beach Esplanade with waterfront paths, parks and picnic spots moments from the door. Land size is not published on the listing page.",
+    status: "under_offer",
+    notes: "Exact realestate.com.au listing is now marked under offer. It was advertised directly across from Golden Beach Esplanade with waterfront paths, parks and picnic spots moments from the door. Land size is not published on the listing page.",
     image: "https://i2.au.reastatic.net/800x600/fe705f33ee30844f17b1b1ef9f84ef48de3ba774ec89d0d072ea8c03066c52c0/image.jpg",
     images: [
       "https://i2.au.reastatic.net/800x600/fe7a77578abb73213dff8e6a6c2f683bf1125ff7d1954f069f9721e94ec7a669/image.jpg",
@@ -27549,6 +28220,99 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/f37ea44748a8002ce3a86fc2980d9113425306c3d2112c28ee23bad920661ba7/image.jpg"
     ],
     listingUrl: "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-150933336",
+    investmentStar: false
+  },
+  {
+    id: "qld-golden-beach-6-29-landsborough",
+    title: "6/29 Landsborough Parade",
+    suburb: "Golden Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    listedDate: "2026-04-19",
+    price: null,
+    landSize: 120,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Landsborough Parade front row", "Opposite Fraser Park", "180-degree water views", "Steps to waterfront"],
+    status: "active",
+    notes: "Active realestate.com.au listing advertised on Landsborough Parade directly opposite Fraser Park, with 180-degree views across Golden Beach waters and sandy shores, and steps to the waterfront, parks and local amenities. Price is not published.",
+    image: "https://i2.au.reastatic.net/800x600/37419aab2bf38aaa0400611fb92c0464b59235479083d76f4e8fdc0e6d43d604/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/37419aab2bf38aaa0400611fb92c0464b59235479083d76f4e8fdc0e6d43d604/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4c912e42173122e0f9469df9448cd68ac8425d468329cadaa3f72c566589cdfc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f882646f82ad9e0cf0981206a7bcb612e1dd5c823797a6b377d9482b5278350/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7184bc58fc0ab50af0a101cc03e4704970e249037ce3dc8bfff18b33ebbd62c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/092888166af1661d4509492954dfae24c3201f1d79740f7f2830b30052969451/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ecd4cd114f49ab353ff27bca28fb9715ed0bf991e42aa265f9b4eb9faddf7cfe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/472c8da58b4ae6196a43620a0a66d5813f7e889bd4bc0175511b765747c01e94/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aba1386ac52821b71d3f3f32217f4cac3cc161650a4e85d69b4c4dff4a4e6043/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f42f2113998d3ba8c2e93ce3cdf2696b7abb42258cf9d00c97d004d0e08e1d56/image.jpg",
+      "https://i2.au.reastatic.net/800x600/348a4fb537d88e159eb709e13cc4bb315e85312e7e08a1dc30c3818fedad7962/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a16a7b2fa59af95f48739548e5d47fc0cdbef48efd9b3cffe7b6fe4adb1227c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/93e838654e1c27c6bd73f5ff7bbfbd6508dc00a9fc982f5d8f5771527731cbda/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51710dd8bc854d42479a5616437e9866af2635350a04c571a16e8e9741af1a84/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5728d1018dbaec172c549536030ccda7b407952b22f601435f30985466378ead/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-150937192",
+    investmentStar: false
+  },
+  {
+    id: "qld-golden-beach-4-landsborough",
+    title: "4 Landsborough Parade",
+    suburb: "Golden Beach",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 90,
+    listedDate: "2026-04-15",
+    price: 2950000,
+    landSize: 607,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Waterfront corner block", "Opposite Pumicestone Passage", "Footsteps to sandy foreshore", "Dual living"],
+    status: "active",
+    notes: "Active realestate.com.au listing advertised as a north-east facing waterfront corner block directly opposite Pumicestone Passage, with water views, footsteps to the sandy foreshore and about 170m to the nearest boat ramp. Price is advertised as $2.95m+.",
+    image: "https://i2.au.reastatic.net/800x600/6f6deeabb1fc2aa9e6abd731bd96898446d8a8c74455d1075fd85a4e4cc561ae/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/6f6deeabb1fc2aa9e6abd731bd96898446d8a8c74455d1075fd85a4e4cc561ae/image.jpg",
+      "https://i2.au.reastatic.net/800x600/97a76e71fd7e17523cdd6a6aa54f1c0a188febbfa7db2c60a9d3d3ea6d22cb48/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6260d8d19e8a5f2614f0aa629f2d84a203bdcb880e89135ffe82ad50f055186/image.jpg",
+      "https://i2.au.reastatic.net/800x600/45aba2e41177c5fa74b0b23b7400c2f47863eb97f4db2366a08acef3697fa8e9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1604077a65497cbdb8a1cbcfcb6d8bae90ccffd0d5cbe462a3e3efc9e7674fcc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ca130dd0aa11dad979d4b6824a542817277ab57902bf21cbdee7eeaa9f7633d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e9206a876f302f6b9119b29fff34becac8d32bdf9d4d8c4bfbc5dd2c73eb73d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4aeb5b12b160fe6fad30fd8cb47879d86b31b425c43ec87d20f3ade67a5efeb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dcd5639b142604c4fe86dd07641bb0d656f001afa47f7a686680340b4036dff6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/453334f493e9b87e713e8731676f5df2d7e1907bb1dbf1c88bcbbcddce3db9d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/beacd532e2e98672cd1a7ecaf50be9b98fc88f27320ea1ff802da03d1b23286d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/977fdb5d2757a374652e62307e48917b4b6e81272db190120746064c95e02dfa/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6d9d624637f3ac7be7d55009e4c1201c9963d3ee469b8bffe2977560aa44ce13/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95eaafbda85ef1f91518f9f9943bf74980d305167f5df7b65c7d3b4fa73e90b6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5dd53ae3252e432e36c7a5304ebca274dfe587690036560a27b7d6441b0496c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d90bb7dccb8ac91d9dbca6c0409838d1e65058bf56556fd158e7936196de78b5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fadf7f9ceff14b3d3441c4fbaa6f942a466ba11c39d39d4a6745c01480417d3c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ad5bced6669829fdc2d7ce4a318ce997143abbb52a6452ba6740e730b0c69e1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/43497591404ca2fa0fc6cd96cdaa7e185d454e3e4f8e1d0c7ad07ba4983ab7b8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/171f5488d04407b9fb5197f778dcac74308e96de71870249c06530a92b6e7753/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5d9785f69c8f110c8185cef8c90ae61e2bee497f51e7f50129b83af5a5843d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/eba521599d13f1379cc8483f7dd57a9ed9c0aaeb5b4bcfb4afb6ee5f16faedf6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95464ce638e33b8b8235f5eca941f83cf710e8fe86bc0c026081187e1d494389/image.jpg",
+      "https://i2.au.reastatic.net/800x600/cdbf875d83addb1edb65f08c1365560dbada88d075f0d999b54febfc459e4c3f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c38914b937c467549b63c92daa62a9212cbca75ba6f7f27c2dffc7fb09847a3e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c97670cfe9bddf8e2098b55dd6fdc606155b0a88b96dab9d01c3c7ac52d41632/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7191c6db69d27f30f8c43af63df64eb334d85e85cde23dc930c642ef3419b0ab/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d1d6b69259e999876282052112195abdd3ee1614731c92a78df9f6e2aaf9928/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7f8f9aae45c106fc8081adfc566a377ba7fa2d27e3ebaa4317f0ede085704da/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dcfc0aa174773131c24d4ba60d97f4fd6fccc153af6b2dcf8c6134cbd43d5927/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1c4944df949bcaf9d1c0547348e5a53bb86a92470f8439f1fab0fa96499b2c10/image.jpg",
+      "https://i2.au.reastatic.net/800x600/841e820fc96c618b6ecb1dbe5a28aa571abc8a2e6ae0e4d3c9ad990c8913fe28/image.jpg",
+      "https://i2.au.reastatic.net/800x600/726059501bebd6fe581d30bd35138a3d9cb969bcbdded9b6995bd80c9eee8a20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/df87af0416990602d71fbef384752ea1e0fa722d5bb9862934e492d3c960fed4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79ea1e3a920fbb5e23da6b5c00c32e90ea5d595373ef92b4d805a99ecc091794/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-house-qld-golden%2Bbeach-150898936",
     investmentStar: false
   },
   {
@@ -38828,10 +39592,365 @@ const sampleProperties = [
     listingUrl: "https://www.homely.com.au/homes/184-melbourne-road-wanerie-wa-6503/12542905",
     investmentStar: false,
     listingCategory: "large"
+  },
+  {
+    id: "qld-maroochydore-301-12-aerodrome",
+    title: "301/12 Aerodrome Road",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    listedDate: "2026-02-12",
+    price: 1990000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront Cotton Tree position", "Opposite Maroochydore Beach", "Brand-new Sakara apartment", "Ocean-view pool-level amenity"],
+    status: "unavailable",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised from $1.99m in a beachfront position between Alexandra Headland and Maroochydore, footsteps to Cotton Tree village, with ocean views from pool level and no adjoining neighbours on either side. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked: YIP/CoreLogic showed 12.59% average annual unit growth and REA showed 12.2% 12-month unit growth, below the app's above-15% annual investment-star threshold. Exact listing appeared off market during gallery update.",
+    image: "https://i2.au.reastatic.net/800x600/e37f11ff9050cc15cd30d9b294ea58d5ecc17ba91e9f85a70315655709a1bbf0/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e37f11ff9050cc15cd30d9b294ea58d5ecc17ba91e9f85a70315655709a1bbf0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa7fcd6e79f493c7b789a8cb75f6b84b4f343ea5d9c9a4a522c2c714f1447687/image.png"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-maroochydore-150285344",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-308-14-aerodrome",
+    title: "308/14 Aerodrome Road",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: null,
+    price: 1190000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Blue-chip beachfront lifestyle", "The Sebel beachfront strip", "Ocean horizon views", "Walk to surf clubs and cafes"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised as offers over $1,190,000 in Maroochydore's blue-chip beachfront coastal lifestyle hotspot at The Sebel, with ocean horizon views, beach access nearby and more than 10km of oceanfront pathways. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/e5215b96cb6653925805b707a442902ed15279a9e2d73153f33fdba51407a6e3/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/e5215b96cb6653925805b707a442902ed15279a9e2d73153f33fdba51407a6e3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/416c55232d84b43601ab3a226b044632fec56a4e073b1985db22784694e8e710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e37f11ff9050cc15cd30d9b294ea58d5ecc17ba91e9f85a70315655709a1bbf0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc0b4ff8ceddd6d59510e4d6556ee2710021c946cea4ebe1787297dc15502920/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-maroochydore-149930608",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-605-12-aerodrome",
+    title: "605/12 Aerodrome Road",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: null,
+    price: 3049000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Across from Maroochydore Beach", "Beachfront Cotton Tree locale", "Panoramic ocean views", "Brand-new sub-penthouse"],
+    status: "unavailable",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised at $3,049,000 for a brand-new Sakara sub-penthouse positioned across the road from Maroochydore Beach, with panoramic ocean views, NE aspect, two car parks and Cotton Tree village access. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
+    image: "https://i2.au.reastatic.net/800x600/416c55232d84b43601ab3a226b044632fec56a4e073b1985db22784694e8e710/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/416c55232d84b43601ab3a226b044632fec56a4e073b1985db22784694e8e710/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e08e1930e79f2945d0576efd7ad2622c972549ac872345916f844994a97b51e8/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-maroochydore-147724668",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-705-12-aerodrome",
+    title: "705/12 Aerodrome Road",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: null,
+    price: 5500000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Opposite Maroochydore Beach", "Ocean frontage views", "North-facing Cotton Tree penthouse", "Brand-new boutique complex"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised at $5.5m for a brand-new north-facing Sakara penthouse opposite Maroochydore Beach, with ocean frontage, never-to-be-built-out views, three car spaces and Cotton Tree cafes nearby. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/c7ba766e5aed889cf3a19095a2c0c763ab66f56f97672a785bbefbd1a68a2423/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/c7ba766e5aed889cf3a19095a2c0c763ab66f56f97672a785bbefbd1a68a2423/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f0647a7401aa6f68e82468cc8fd5fa13245600025de1f8af7d46bf113ab899ba/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fd85e8d0c51705f1a16b7c923277c63562a0fe64883bc4cb4ed08746bd7e015/image.jpg",
+      "https://i2.au.reastatic.net/800x600/23fd95c3d91b853ae32749a8aa8d258e87a51f4bda51e773a12db3067a1f6dd9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d3094d3a3350ae883500b15e3edbb21c3d0e67638ece4d89a9a118d4190b546e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3fcd84528c98834af10c1b6d8a4af88af5ce2676ad09f58838a53919b0ee1df7/image.jpg",
+      "https://i2.au.reastatic.net/800x600/16c68a8f17922b3c41de737227be13f97bad01909c80c535f4ea3aab26680246/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ebc227633c65d900570d593366489d23dc98c4309e95a7a6bf749e1c59bd47d9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8abf1e7c76aa4060ac272b57ae5d6d842fe9be7f7fd7f45c3aa92f0961af4fd8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e5790a93d2ff61e4ae67f8ee79d6bf8a264b5805178e266ccb23c4084efcac04/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f49ceaf825e70378c8417445d6786101ffcb3eac6815244e4ccd3069aed58277/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b44ffcb5949576bed726bb806dd53073d7c1562e8fde6d4988f8b4afbb48aa0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e004c5addaa0cb5483b8ab94b65bf7b86ac39f2538b666083c4c49127a868f6c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1bafa37d6e2051cf7393c5e9fa0beb7d9e0434c5b6214e482abb75adfcc478bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d52001f43b962472d596033ba5360f369ef86238c13ece2989982be1ec0a77eb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/325d4f96dea358de8bf7d01e804efd6142460af9e8a4d09c13fd0b108ea7c24e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e324dce35b517669977f0e01b561a2593eac904579d699ef471de49050d87279/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dee85fb482b57073de72f930e17dd5fe2a175f7ae2fee1c65a8ab5934b7a3fcf/image.jpg",
+      "https://i2.au.reastatic.net/800x600/75f8eb439a75bb7874d8539a6308da95eca6ed97a9dda9835441bdd0b669f213/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1d7fb4636076b4b618ea56c062a908230332a4628faf41a136cefc71c0f51e31/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02eef9590da9cd5bfadcfee4d5c9cf5a2b5061b5da5c00b89c8d57338f1df862/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-maroochydore-150642648",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-14-aerodrome",
+    title: "14 Aerodrome Road",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    listedDate: "2026-03-23",
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Beachfront-opposite penthouse", "Beach directly below", "North-easterly ocean views", "Private rooftop terrace"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised as a two-level Sebel penthouse with beachfront-opposite living, the beach directly below, panoramic ocean, river and hinterland views and a private rooftop terrace. Exact listing displays price as For Sale, so price is set to null. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/4f43d4c682a85b1451d5ff36fd73e3969e170e2f53ebd1ecdc80b5f72bf4d80e/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/4f43d4c682a85b1451d5ff36fd73e3969e170e2f53ebd1ecdc80b5f72bf4d80e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7b72a2384935691da4dc5f046e58b4b444a0da42d7b801b43ec67e9aab9e053f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/07e5608e22a78f972675fff27e2a8d174c723b8acdddb63114bc75f3d6922838/image.jpg",
+      "https://i2.au.reastatic.net/800x600/53d877c15a6cafb0084c64cd9850ddff5441ff483f4143aaa094d4b1d6da0c41/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fd6b685890b335afe467236e6090f5b6cdb9f8896232e1e8cbe77a3fab530a65/image.jpg",
+      "https://i2.au.reastatic.net/800x600/905bfd783704eb22eb0f29863bcdf5d1e064b44754fc257af2a77b4af5b32514/image.jpg",
+      "https://i2.au.reastatic.net/800x600/324b1405f5e82fc585a19cd669492bd9f131a099eabbe5917a12bedcbee36a86/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5e4eb56c714813feb616a66f2b1c7fdd8c287a56b4b80ea1e37380f68227220d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/68d11a6ce2d4d650c5eb189d1896303cf100430461940759fd5ca34cc042fa1b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a55c2c32acb55c47e5cee4abf670beca69f1cfdd66b07257f11803f1510572d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7786a889c5885968fe3df086a467d1c0f1dbeed275507807535a8be5138d6465/image.jpg",
+      "https://i2.au.reastatic.net/800x600/95110fc5b9c6a2f72d857096a529c7c7c5d5768a168ba39e8e29ff61a1b2a57a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d776043daf9d9ff3a4e59871f454fad2a5899b06258eaa89b1c3b2315053d2ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a667e993c71741f100235a86606c2c8d6d95c3872ec7ab45beb5dcd67a7ac5d0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d45470b76784a0598f0068ef50e2ad658e279ddb7a04947087f281d2a8ccdff5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7d22c21b9304600ec3b2f7ee523b574b8766e0b6379b32faa757ed4f89fe52a0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b8625003801b2d767765f0e95dee04b9b6a3fe0acb480bb365b00bdcd5718290/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a5aa916c2e7707a9ea1acf6abbec31211e0bdeccaebfe7059e63d0836085f9db/image.jpg",
+      "https://i2.au.reastatic.net/800x600/76801c79defcedd58c29f89ede02d1598d5c7fd4648e81254149d5aa9155174c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e9fa45f15be242c2318f826c78e967e502dd409737dc98205346c987a33db296/image.jpg",
+      "https://i2.au.reastatic.net/800x600/8f2b2ce5790fb88b15932c760ee8a3b860941b84ee01e39a6ffdc6288808db8a/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-maroochydore-150669572",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-402-67-sixth",
+    title: "402/67-71 Sixth Avenue",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    listedDate: "2026-03-12",
+    price: 2500000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Oceanfront living and views", "Rise Maroochydore Beach", "Two-minute walk to patrolled beach", "Large ocean-breeze balcony"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised for buyers in the mid $2million's at RISE Maroochydore Beach, with oceanfront living and views, waves a stone's throw away, a large entertainer's balcony and a two-minute walk to the patrolled beach, parks and BBQ areas. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/fc2ffa392f3a87b8f4f1bdbc99d18df76914d54b2a1f34ee27a54f6f44ac1952/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/fc2ffa392f3a87b8f4f1bdbc99d18df76914d54b2a1f34ee27a54f6f44ac1952/image.jpg",
+      "https://i2.au.reastatic.net/800x600/780ec5b1eba3da46f60edb9f7a085fef2309088d006208c0585c3d69065abc05/image.jpg",
+      "https://i2.au.reastatic.net/800x600/bde231469883c2f538831cb87f19c2023961b00fefb82c7890b7d355b2c0221b/image.jpg",
+      "https://i2.au.reastatic.net/800x600/22e909b91c82cbfae60c07a0341f623ebd20815b20c28ff66ffc0870f32b3c96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/595c1d7281a6678b7f4d1b5c6af7d0901987f3e33e986116a8ed410f470d95f5/image.jpg",
+      "https://i2.au.reastatic.net/800x600/11d6422323518604715fda2139810d768617bbbfcf785106a05fe28a1ef1ee9a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/56feb5961c594caf07b4b1c85c93e63856d35e386935bcf4b85d0541fd77b55f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/13a62a419ea21cbc976dea2c7f33df0afe4fa8a40372053dcddbcdbee819f52a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/107a1cefae5e2a8a86006f2ef320c84a25bd34a4246038721e0a912c6c02bdb8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3893b600e3e73fe5b1c75a8746bb207cfc2b28866dbccd242a422b1fd18dee3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/557121af52c38c3693a35a741ff0779a7307650c43cc2c13462e448ca5771a96/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6607d24f72247877d6f92576c7254461d767b7004afa6209ed85638018514ee6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/55701cbe0f22db548c2c72cb08cb96d0bb9c6026e4472a084e7880333b289920/image.jpg",
+      "https://i2.au.reastatic.net/800x600/058f62d3de819488c3cadd28326c4b645440f003fc542e5107a07a861d71a292/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70999d74956f465e198d80503ffb0a040f49697b163bdb7af2963c0b0278df20/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a6296d29d9beca301983fd57fd788bb2d39cfc332fcc2a68c9b1d91b87d7ecc6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/89cca6104ea23ef283f194365a72ac58b1c5386f52414e7b474898b45aba1cf2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/881092d4dac31a353cea90610f04163582c66ded925ba1fbbf140e70a8530604/image.jpg",
+      "https://i2.au.reastatic.net/800x600/31162efafcb9e90fa8971fdae98af5eec717145647576ed55874c0b9acaafaf6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4f25a1f7908227c97284694fbf6608c34371fab642fd44edcff4c59f38e4f0ec/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fa3fd14540998d4c39a02f095f9b4fb3521f4c34b9821abc95a0ba685e9086c6/image.jpg",
+      "https://i2.au.reastatic.net/800x600/38e6f3f85877eb0d2e4c3f50dbec014a8d5e2f27f30389f42a21fbbdc7f90e25/image.jpg",
+      "https://i2.au.reastatic.net/800x600/779ed3b0895d4220970dba5e0416da281e8374bfdb067be85c2eb51c82dd55ef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ec6e303be94568725965b97b070bdbe9e9ec10aab39fc254781faa563f14b25/image.jpg",
+      "https://i2.au.reastatic.net/800x600/21c4f5094ac961997863ffb222cde2965e5b75bb0c0fde6292644864591fa907/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0a7ad108070ca3921eebfe6944a4ad0f2de9c88da0f7bca4ba1102b1b9816f8a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/10fb2540043a99ce20072d9d3e192286d165072c031a4d6175a52a0e43a5f3a8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51028648e288ba7baba871e84ab91ffa0a42671bb2f09530444e93154e655bbe/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6ac428583441db9975f92194fc6241c9a141272e5d07de258b8420d813fa323a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/faee91e316c30cdb69c2efad3665d1dbf91e2f684c3dc57dba196305854929f0/image.jpg",
+      "https://i2.au.reastatic.net/800x600/01c2817a1e21bf0ea739bfef20822a77747ae58023a4bded576c30d2dd37a7e8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d0ca62d664e86cca0dec83a642b076c407119d3920b2bb67ba416e3869f8475e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/847315cb193a859d743397467ecf095e4657aca136b393a73f3dfe7c8369c060/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e0ab57fd6183d7e66caa9b528d2b6853e781faf74cb29b3176eb8ec05809a8b9/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa66d584b1546a4ac5300698ab7a6b626850d9ee2ad3077da29fefe709a6d353/image.jpg",
+      "https://i2.au.reastatic.net/800x600/524492766c75cff05a7b39349b8cf984d64141bb75bf6c53ef85c170d9b4b6c4/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-maroochydore-150574080",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-62-62-sixth",
+    title: "62/62-66 Sixth Avenue",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: null,
+    price: null,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["Uninterrupted river-to-ocean views", "Cotton Tree sky home", "Coastline-to-Coolum outlook", "Beaches and village moments away"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised as offers invited for a 440sqm Cotton Tree sky home with uninterrupted river-to-ocean views, a true north aspect, private rooftop garden, large balconies and beaches, river paths, cafes and Cotton Tree village moments away. Exact listing displays Offers Invited, so price is set to null. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/eacf791c572a8c58a3d950988ed05a15770d3243d9d0e1a3d42cd55ca1076b00/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/eacf791c572a8c58a3d950988ed05a15770d3243d9d0e1a3d42cd55ca1076b00/image.jpg",
+      "https://i2.au.reastatic.net/800x600/02428465e4ad3416f6af35cb039e663983344489092f6e399cc998dc40a7d73d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/50ae8df75649e4a109360027aa20719e1f7034085f659e8982739c2eb6bd5a3a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6c977398752cb75831b32daa2c1ed3a92fcb7b65259e94e500d59301e7c00482/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e8ec3e7e90811322105ed25b2844018ce84ae7d2f981285ecdcac726f5a1c2f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/88bc7f524094be840f61b89752bde19167605d7fb7bab3c9da9fc59302a0cfa1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9d90c1791bef1c7b0be4f28849d81d7154214778d85dc36e0197614483cc67be/image.jpg",
+      "https://i2.au.reastatic.net/800x600/123422fb6742c0a63183890e1d990ff72e2bdae39c621e70b18a94f8fdf04442/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e09dc01a52a21ce61f17769e722ce7f5a989afe8e800b8957d130843493b6a55/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d7537cafeb1f277f207aebff9e1d1db6ce8869a00c685dda5ca69bdaccede71f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/b5d3353121c285cce31f65f3fcd60c08af3d02e8dc35096e65eb973f2250d50f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3bd0fe66341b76cadb6f1e507cb55165d1822780f01a03b1a50676f9d1c7390c/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2ee37245f7843b3895072826e99ea7cf71aeecefd78e2527d45ec9b737e51e0f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/495d8a93997150dda9931d2bf1c7b86dc2da02979bc6368c44dad2d2b8819882/image.jpg",
+      "https://i2.au.reastatic.net/800x600/6e49d07858cbc6fabd1e513bacfa940ed742714ae8ac37e8f69a6a320cd6fcb4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9173ea8da3de177c7e8650e9627dda631e506f976fc87a8ace8109754fd50e21/image.jpg",
+      "https://i2.au.reastatic.net/800x600/e332588baf3dddc1850b9b48daa628f439471fac8fb93d5c6259f0025bb0a471/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1fbe215c07239974a9a8364dc8c0178e09f8139cc3a7315ecae2c77e1fc5923e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/783004ef3aa7bf206e66bfdc8d29d689fec0e5a3ba18de5e2dbbed08d09ed65f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f30375dadc70252ccaa4349c5ca6faab2c02431cda336b6d60d78a704e8f618a/image.jpg",
+      "https://i2.au.reastatic.net/800x600/145b8be3549cdc5780c0e2acd2fa145d39674b4409cce3a3a2ca715e9690aac2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7ce9c5cd3ccf1b2ee16156fcea509637bab2f0dfded6dfeb5c17c0c442957f78/image.jpg",
+      "https://i2.au.reastatic.net/800x600/51168707ebd5028a7c9c6a9ce685ec3c41745576025b931598d1f01b611f2265/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2e9b121f6600cfa922bfa6719aac4ea2485605338d59b6fac6138b538de2c138/image.jpg",
+      "https://i2.au.reastatic.net/800x600/4a90f38dfaf31704d4b34dbdef57fbaad15d1dce9dc3b4c1106580f1b3a2c319/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92eac30b1a850f2d5ea58f11e15cdc52c610bdb8f95ad489aaaf632a35ce9385/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ca4001fde7342435973f004d338ec781519b88de488975acb89fcec316a02b8/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-unit-qld-maroochydore-150534544",
+    investmentStar: false
+  },
+  {
+    id: "qld-maroochydore-63-62-sixth",
+    title: "63/62-66 Sixth Avenue",
+    suburb: "Maroochydore",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 105,
+    daysOnMarket: null,
+    price: 4750000,
+    landSize: null,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: false,
+    factors: ["270-degree ocean and river panorama", "Cotton Tree penthouse", "Moments from patrolled beaches", "Private rooftop terrace"],
+    status: "active",
+    notes: "Active exact realestate.com.au listing verified 13 May 2026, advertised at $4,750,000 for a three-level Aqua Vista penthouse with uninterrupted 270-degree ocean, river and hinterland views, a private rooftop terrace and a Cotton Tree location moments from patrolled beaches, cafes and boutiques. Strata land/block size is not published, so landSize is set to null. Five-year suburb growth evidence was checked; available YIP/CoreLogic and REA evidence did not support a verified above-15% annual investment flag.",
+    image: "https://i2.au.reastatic.net/800x600/802434f300c4caa63a1f9c3ed9829e38916809850d42cb248e402ca1126df185/image.jpg",
+    images: [
+      "https://i2.au.reastatic.net/800x600/802434f300c4caa63a1f9c3ed9829e38916809850d42cb248e402ca1126df185/image.jpg",
+      "https://i2.au.reastatic.net/800x600/90aa091308d39641e45f8a50c8e0e87ae9824eccf2f8aedf3a33df4f3a7bb901/image.jpg",
+      "https://i2.au.reastatic.net/800x600/f66461fad78e96bb7f8fd7006f2d0b50a265a64ee68edff212411faba7700077/image.jpg",
+      "https://i2.au.reastatic.net/800x600/5d4fb7d52dc270e46b03f002ed7897e39d1813f09bd995770573fe99dd522374/image.jpg",
+      "https://i2.au.reastatic.net/800x600/39c218ea1e821d81942328882df9c3a6db5556ec2a1203e461e15172402dd23f/image.jpg",
+      "https://i2.au.reastatic.net/800x600/9ec14f0b4dcbb3cd80b3d420d3b64c5832ef12b2809c7eb12d01e357640800ca/image.jpg",
+      "https://i2.au.reastatic.net/800x600/79337c304cdefd070433f456b039e73b2cd4ca7efb7b092bf4992f72bf3afd99/image.jpg",
+      "https://i2.au.reastatic.net/800x600/649d23a60e26f6eec784d6630f01608f9bc1266f1bd40664f40f882c4bdc8466/image.jpg",
+      "https://i2.au.reastatic.net/800x600/91a40f4fdd99d06018fed92b1fc6c04faa65b5af7de32a566b7838a3fbfadd36/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dc07ae2d8e9840571914485b4eb03c2d4c15a65046f66ebffdbdfa9808c12ecc/image.jpg",
+      "https://i2.au.reastatic.net/800x600/315a072baf24b984b3eadd7a58b9d10df508122c43eb55f40072c5aaa6879a62/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dedf7307986e37d48a211c3c6251104d0931f4c914190da62c528ea7b4010c14/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d6be2155b050d77d0759d778e9ec30a5c430bc77116bb8c1246f5e17eb6288df/image.jpg",
+      "https://i2.au.reastatic.net/800x600/543d2035b0253a0a4c4885a6000b09a5716a3d31868f5810fa2cc090e9fffb90/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2cee65b8344c450462720a5ee9cf2711c3ad03c15d3a096b63e5d2059baf9b3e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/dca6e3beecb612d8ddf89fb2e858146e00be95c095879e263994492409b558e4/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7c03baac799285e0056dd34683e0325161dc1ecdca6c2eeafba656851c864d47/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c7dbeee23c982037840c568a2851a23d531cfb0823dea85c82d2da61c175ad42/image.jpg",
+      "https://i2.au.reastatic.net/800x600/2782ab8326e9df48b63ef34e414a8c4e6c838b5d0861e2b74b23446a818640be/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c56a76ba955da50716c3df315ce965fee75c85b39151ccde926df94859975601/image.jpg",
+      "https://i2.au.reastatic.net/800x600/70d72b6611f5a825264cfa4dc3ef425d9a4b112a3d12ce40714c573fb59886bb/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ca1a7c0a944154940fa80b46968abae8b8f3510a31c03177178927679f989095/image.jpg"
+    ],
+    listingUrl: "https://www.realestate.com.au/property-apartment-qld-maroochydore-149278248",
+    investmentStar: false
+  },
+  {
+    id: "qld-wurtulla-1-18-pretella",
+    title: "1/18 Pretella Street",
+    suburb: "Wurtulla",
+    state: "QLD",
+    nearestMajorCity: "Brisbane",
+    majorCityMinutes: 85,
+    daysOnMarket: 19,
+    price: 1985000,
+    landSize: 327,
+    beachfront: true,
+    noRoadFrontage: false,
+    directBeachAccess: true,
+    factors: ["Footsteps to Wurtulla and Bokarina Beach", "Multiple beach access points", "Beachside semi-detached residence", "Private pool and alfresco"],
+    status: "active",
+    notes: "Active exact Homely listing verified 13 May 2026, advertised at $1,985,000+ for the final Palm on Pretella residence in Wurtulla. The listing describes the semi-detached home as just footsteps from the sands of Wurtulla and Bokarina Beach, with multiple beach access points and direct access to the Bokarina precinct. It is not advertised as absolute/no-road beachfront, so noRoadFrontage is false. Five-year suburb growth evidence was checked via current REA, OnTheHouse and Smart Property Investment data; available evidence did not clearly support an above-15% annual investment flag.",
+    image: "https://www.homely.com.au/img-variant/l-Century21-12572830-1.jpg?named-transform=webDefaultTransform&version=zS3an.Ct51eqnDZeJ5NShWsloAb_gkFO",
+    images: [
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-1.jpg?named-transform=webDefaultTransform&version=zS3an.Ct51eqnDZeJ5NShWsloAb_gkFO",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-2.jpg?named-transform=webDefaultTransform&version=Al4M.wHuAH85o1OIS8IyC7oxlKSE0BKw",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-3.jpg?named-transform=webDefaultTransform&version=IrxKjRxo7246gDNFPwGOGlwTZ1TRNE29",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-4.jpg?named-transform=webDefaultTransform&version=0REwFfTRHQgNMmEiwoo1eZcKHFPsNnHX",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-5.jpg?named-transform=webDefaultTransform&version=JUd_E_r8jM_5C9lLVDENT6NxWrqewNtN",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-6.jpg?named-transform=webDefaultTransform&version=OcdHHS1P1Xs678n8l8DLoIRVllF7hE62",
+      "https://www.homely.com.au/img-variant/fp-Century21-12572830-1.jpg?named-transform=webDefaultTransform&version=PiPEfH7XhDYzdbcjLwx08Ig8ZMrQSo0F",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-7.jpg?named-transform=webHeroTransform&version=ncvkvzwB7HRbOotHFF6AOL3eF2SLGFNK",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-8.jpg?named-transform=webHeroTransform&version=OUQrqCL8xZoX4TziImdQ1xQcnuAMJQhG",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-9.jpg?named-transform=webHeroTransform&version=dKgiWCk9Fpn5_ObEJCVdhuk4ikjqs1LC",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-10.jpg?named-transform=webHeroTransform&version=DeBJR.1OUZzi4N8LBTnCfV8dcwc4VK7p",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-11.jpg?named-transform=webHeroTransform&version=L3az3FOlLIDY.ZvlHEr_TVu3y2NUvHYH",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-12.jpg?named-transform=webHeroTransform&version=NjARvmwDJCPHjYxS3TiuJsxEl2L.uIWn",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-13.jpg?named-transform=webHeroTransform&version=IQ6qgl4tz0XJLILVn.nYLRn27QBTnfPw",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-14.jpg?named-transform=webHeroTransform&version=F5DRxceoTnRdURxbGJ1SPMyGmQauJ343",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-15.jpg?named-transform=webHeroTransform&version=dMVtx0W4YUCROsaOj44Q1JjXKmzHuZgX",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-16.jpg?named-transform=webHeroTransform&version=CMRPnKFblslwVmpl0nuyg7G6N6JDXN8s",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-17.jpg?named-transform=webHeroTransform&version=42aChd3hkDjXojPowS_9WPM8w1qJ6K2A",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-18.jpg?named-transform=webHeroTransform&version=gH_Xp3VszHYEJS_5uIbpviVMLyD8Fx0x",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-19.jpg?named-transform=webHeroTransform&version=OnNZoX23hp31b.KbHq.JiOosaDtHzCQm",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-20.jpg?named-transform=webHeroTransform&version=VQrCyI1NT8wIliEeYEPw_Vr.4trhL.40",
+      "https://www.homely.com.au/img-variant/l-Century21-12572830-21.jpg?named-transform=webHeroTransform&version=AmYSsEI7uGsb1KU9rnt8iMxAbHmyZZtv"
+    ],
+    listingUrl: "https://www.homely.com.au/homes/1-18-pretella-street-wurtulla-qld-4575/12572830",
+    investmentStar: false
   }
 ];
 
-const databaseUpdatedAt = "2026-05-13 15:11";
+const databaseUpdatedAt = "2026-05-13 16:52";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
@@ -38847,6 +39966,8 @@ const state = {
   imageGalleries: JSON.parse(localStorage.getItem("propertyImageGalleries") || "{}"),
   pictureSelections: JSON.parse(localStorage.getItem("propertyPictureSelections") || "{}"),
   picture2Selections: JSON.parse(localStorage.getItem("propertyPicture2Selections") || "{}"),
+  propertyNotes: JSON.parse(localStorage.getItem("propertyPersonalNotes") || "{}"),
+  customXFactorCriteria: JSON.parse(localStorage.getItem("propertyCustomXFactorCriteria") || '["capital","city","value"]'),
   view: "all",
   unviewedViewIds: null,
   selectedTablePropertyId: null,
@@ -38874,6 +39995,13 @@ const els = {
   themeToggle: document.querySelector("#themeToggle"),
   beachModeButton: document.querySelector("#beachModeButton"),
   largeModeButton: document.querySelector("#largeModeButton"),
+  customModeButton: document.querySelector("#customModeButton"),
+  customXFactorPanel: document.querySelector("#customXFactorPanel"),
+  customXFactorOptions: document.querySelector("#customXFactorOptions"),
+  customXFactorCount: document.querySelector("#customXFactorCount"),
+  customXFactorCloseButton: document.querySelector("#customXFactorCloseButton"),
+  applyCustomXFactorButton: document.querySelector("#applyCustomXFactorButton"),
+  clearCustomXFactorButton: document.querySelector("#clearCustomXFactorButton"),
   allViewButton: document.querySelector("#allViewButton"),
   favouritesViewButton: document.querySelector("#favouritesViewButton"),
   starPropertiesButton: document.querySelector("#starPropertiesButton"),
@@ -39013,6 +40141,15 @@ function selectedPictureUrl(property) {
   const selected = state.pictureSelections[property.id] || property.picture || property.image || "";
   const images = savedPropertyImages(property);
   return images.includes(selected) ? selected : images[0] || "";
+}
+
+function defaultPicture2Url(property, images = savedPropertyImages(property)) {
+  const pictureOne = selectedPictureUrl(property);
+  return images.find(url => url && url !== pictureOne) || "";
+}
+
+function currentCardPictureUrl(media, property) {
+  return media.dataset.currentImageUrl || selectedPictureUrl(property) || savedPropertyImages(property)[0] || "";
 }
 
 function savePicture2Selection(property, imageUrl) {
@@ -39321,6 +40458,7 @@ function isLargeProperty(property) {
 }
 
 function matchesSearchMode(property) {
+  if (state.searchMode === "custom") return true;
   if (state.searchMode === "large") return isLargeProperty(property);
   return property.beachfront || property.directBeachAccess || property.noRoadFrontage || /beach|coast|ocean|esplanade|waterfront|foreshore/i.test(`${property.title || ""} ${property.notes || ""} ${(property.factors || []).join(" ")}`);
 }
@@ -39357,6 +40495,13 @@ function setMetric(node, selector, value, muted = false) {
   const element = node.querySelector(selector);
   element.textContent = value;
   element.classList.toggle("muted-value", muted);
+}
+
+function savePropertyNote(propertyId, value) {
+  const note = String(value || "").trim();
+  if (note) state.propertyNotes[propertyId] = note;
+  else delete state.propertyNotes[propertyId];
+  localStorage.setItem("propertyPersonalNotes", JSON.stringify(state.propertyNotes));
 }
 
 function saveViewedState() {
@@ -39434,7 +40579,7 @@ function hasInvestmentGrowthEvidence(property) {
   return totalGrowth >= investmentFiveYearGrowthTarget;
 }
 
-function investmentCandidateScore(property, baseline = median(state.properties.map(pricePerSqm))) {
+function investmentCandidateScore(property, baseline = scoringBaseline()) {
   if (!isActiveProperty(property)) return -Infinity;
   const factors = (property.factors || []).join(" ").toLowerCase();
   const notes = String(property.notes || "").toLowerCase();
@@ -39463,19 +40608,20 @@ function investmentCandidateScore(property, baseline = median(state.properties.m
 }
 
 function investmentStarIds() {
-  if (investmentStarIdCache?.mode === state.searchMode) return investmentStarIdCache.ids;
+  const cacheKey = state.searchMode === "custom" ? `custom:${customXFactorCriteria().join("|")}` : state.searchMode;
+  if (investmentStarIdCache?.mode === cacheKey) return investmentStarIdCache.ids;
 
   const active = state.properties.filter(property => isActiveProperty(property) && matchesSearchMode(property));
   const minimumStarCount = Math.ceil(active.length * investmentMinimumShare);
   const evidenceIds = new Set(active.filter(hasInvestmentGrowthEvidence).map(property => property.id));
-  const baseline = median(state.properties.map(pricePerSqm));
+  const baseline = scoringBaseline();
   const fallback = active
     .filter(property => !evidenceIds.has(property.id))
     .sort((a, b) => investmentCandidateScore(b, baseline) - investmentCandidateScore(a, baseline))
     .slice(0, Math.max(0, minimumStarCount - evidenceIds.size));
 
   fallback.forEach(property => evidenceIds.add(property.id));
-  investmentStarIdCache = { mode: state.searchMode, ids: evidenceIds };
+  investmentStarIdCache = { mode: cacheKey, ids: evidenceIds };
   return investmentStarIdCache.ids;
 }
 
@@ -39513,7 +40659,8 @@ function renderPicturePickerCell(cell, property, options, images = savedProperty
   const image = document.createElement("img");
   const select = document.createElement("select");
   const selected = options.selected(property);
-  const selectedImage = selected || images[options.defaultIndex] || "";
+  const fallbackImage = options.fallback ? options.fallback(property, images) : images[options.defaultIndex] || "";
+  const selectedImage = selected || fallbackImage;
 
   cell.className = options.cellClass;
   wrapper.className = "picture2-picker";
@@ -39544,7 +40691,7 @@ function renderPicturePickerCell(cell, property, options, images = savedProperty
 
 const picturePickerOptions = {
   picture: {
-    label: "Picture",
+    label: "Picture 1",
     cellClass: "table-image-cell",
     imageClass: "table-property-image",
     defaultIndex: 0,
@@ -39557,6 +40704,7 @@ const picturePickerOptions = {
     imageClass: "picture2-image",
     defaultIndex: 1,
     selected: selectedPicture2Url,
+    fallback: defaultPicture2Url,
     save: savePicture2Selection
   }
 };
@@ -39598,6 +40746,7 @@ function renderPropertyCarousel(media, img, property, images = savedPropertyImag
   const update = nextIndex => {
     index = (nextIndex + gallery.length) % gallery.length;
     media.dataset.photoIndex = String(index);
+    media.dataset.currentImageUrl = gallery[index];
     img.src = gallery[index];
     img.hidden = false;
     media.classList.remove("no-image");
@@ -39699,7 +40848,7 @@ function renderComparisonTable(properties) {
   els.comparisonTableBody.innerHTML = "";
   const rows = document.createDocumentFragment();
   const starIds = investmentStarIds();
-  const baseline = median(state.properties.map(pricePerSqm));
+  const baseline = scoringBaseline();
 
   properties.forEach(property => {
     const sqm = pricePerSqm(property);
@@ -39805,7 +40954,7 @@ function focusPropertyCard(propertyId) {
   window.setTimeout(() => card.classList.remove("focused"), 2200);
 }
 
-function getTableValues(property, sqm, minutesToMajorCity, baseline = median(state.properties.map(pricePerSqm))) {
+function getTableValues(property, sqm, minutesToMajorCity, baseline = scoringBaseline()) {
   const xFactorValue = scoreProperty(property, baseline);
   return [
     property.displayId || "TBA",
@@ -39824,6 +40973,12 @@ function median(values) {
   if (!sorted.length) return 0;
   const middle = Math.floor(sorted.length / 2);
   return sorted.length % 2 ? sorted[middle] : Math.round((sorted[middle - 1] + sorted[middle]) / 2);
+}
+
+function scoringBaseline() {
+  return median(state.properties
+    .filter(property => isActiveProperty(property) && matchesSearchMode(property))
+    .map(pricePerSqm));
 }
 
 function pricePerSqmValueBonus(sqm, baseline) {
@@ -39851,6 +41006,177 @@ function xFactorCityBonus(property) {
   }
 
   return bonus;
+}
+
+function scoreWithin(value, maximum) {
+  return Math.max(0, Math.min(maximum, Math.round(value)));
+}
+
+function xFactorCapitalGainScore(property, maximum) {
+  const annualGrowth = investmentAnnualGrowth(property);
+  const totalGrowth = investmentTotalGrowth(property);
+  let score = 0;
+
+  if (hasInvestmentGrowthEvidence(property)) score = maximum;
+  else if (annualGrowth) score = Math.min(maximum * 0.95, (annualGrowth / investmentAnnualGrowthTarget) * maximum);
+  else if (totalGrowth) score = Math.min(maximum * 0.9, (totalGrowth / investmentFiveYearGrowthTarget) * maximum);
+
+  if (asBoolean(property.investmentStar ?? property.starProperty ?? property.starredInvestment)) score = Math.max(score, maximum * 0.9);
+  return scoreWithin(score, maximum);
+}
+
+function xFactorBeachAccessScore(property, maximum) {
+  let score = 0;
+  if (property.noRoadFrontage && property.directBeachAccess) score = maximum;
+  else if (property.noRoadFrontage) score = maximum * 0.86;
+  else if (property.directBeachAccess) score = maximum * 0.72;
+  else if (property.beachfront) score = maximum * 0.5;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorCityScore(property, maximum) {
+  const minutes = majorCityMinutes(property);
+  if (!minutes) return 0;
+  let score = 0;
+  if (minutes <= 30) score = maximum;
+  else if (minutes <= 60) score = maximum * 0.82;
+  else if (minutes <= 120) score = maximum * 0.55;
+  else if (minutes <= 180) score = maximum * 0.28;
+  else score = maximum * 0.12;
+
+  if (isPreferredXFactorCity(property)) score += maximum * 0.12;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorValueScore(property, baseline, maximum) {
+  const sqm = pricePerSqm(property);
+  if (!sqm || !baseline) return 0;
+  const ratio = sqm / baseline;
+  let score = 0;
+  if (ratio <= 0.5) score = maximum;
+  else if (ratio <= 0.75) score = maximum * 0.78;
+  else if (ratio <= 1) score = maximum * 0.6;
+  else if (ratio <= 1.25) score = maximum * 0.3;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorLuxuryHouseScore(property, maximum) {
+  const text = propertyScoringText(property);
+  let score = 0;
+  if (/luxury|architect|architectural|designer|executive|prestige|premium|grand|estate|homestead|manor|residence|retreat/.test(text)) score += maximum * 0.48;
+  if (/renovated|new build|brand new|modern|contemporary|high[- ]end|quality|bespoke/.test(text)) score += maximum * 0.28;
+  if (/pool|tennis|guest|studio|views|panoramic|waterfront|riverfront|private|established gardens|cellar|entertainer/.test(text)) score += maximum * 0.18;
+  if (/shed|stables|arena|workshop|garaging|dam|bore|solar|water security/.test(text)) score += maximum * 0.12;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorLandSizeScore(property, maximum) {
+  const land = Number(property.landSize || 0);
+  if (!land) return 0;
+  let score = 0;
+  if (land >= 1000000) score = maximum;
+  else if (land >= 200000) score = maximum * 0.82;
+  else if (land >= 10000) score = maximum * 0.58;
+  else if (land >= 1000) score = maximum * 0.28;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorLowPriceScore(property, maximum) {
+  const price = Number(property.price || 0);
+  if (!price) return 0;
+  let score = 0;
+  if (price <= 750000) score = maximum;
+  else if (price <= 1250000) score = maximum * 0.78;
+  else if (price <= 2000000) score = maximum * 0.55;
+  else if (price <= 3500000) score = maximum * 0.3;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorFreshListingScore(property, maximum) {
+  const days = daysOnMarket(property);
+  if (!days) return 0;
+  let score = 0;
+  if (days <= 7) score = maximum;
+  else if (days <= 21) score = maximum * 0.72;
+  else if (days <= 45) score = maximum * 0.42;
+  else if (days <= 90) score = maximum * 0.18;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorDevelopmentScore(property, maximum) {
+  const text = propertyScoringText(property);
+  let score = 0;
+  if (/development|subdivision|redevelopment|zoning|approved|permit|dual title|corner|vacant land|landholding|da approved/.test(text)) score += maximum * 0.72;
+  if (/upside|scope|renovation|future|potential|STCA|subject to council|holding income/.test(text)) score += maximum * 0.28;
+  return scoreWithin(score, maximum);
+}
+
+function xFactorIncomeScore(property, maximum) {
+  const text = propertyScoringText(property);
+  let score = 0;
+  if (/holiday rental|airbnb|short stay|short-stay|income|tourism|farm stay|farm-stay|dual living|second dwelling|guest house|glamping/.test(text)) score += maximum * 0.72;
+  if (/leased|rental|tenant|returns|yield|commercial|vineyard|cropping|grazing|plantation/.test(text)) score += maximum * 0.28;
+  return scoreWithin(score, maximum);
+}
+
+const customXFactorDefinitions = [
+  { id: "capital", label: "Capital gain potential", score: (property, baseline, maximum) => xFactorCapitalGainScore(property, maximum) },
+  { id: "city", label: "Distance to major city", score: (property, baseline, maximum) => xFactorCityScore(property, maximum) },
+  { id: "value", label: "Best price per sqm", score: (property, baseline, maximum) => xFactorValueScore(property, baseline, maximum) },
+  { id: "access", label: "Direct beach/no road", score: (property, baseline, maximum) => xFactorBeachAccessScore(property, maximum) },
+  { id: "luxury", label: "Luxury house/estate", score: (property, baseline, maximum) => xFactorLuxuryHouseScore(property, maximum) },
+  { id: "land", label: "Large land size", score: (property, baseline, maximum) => xFactorLandSizeScore(property, maximum) },
+  { id: "lowPrice", label: "Lower purchase price", score: (property, baseline, maximum) => xFactorLowPriceScore(property, maximum) },
+  { id: "fresh", label: "Fresh listing", score: (property, baseline, maximum) => xFactorFreshListingScore(property, maximum) },
+  { id: "development", label: "Development upside", score: (property, baseline, maximum) => xFactorDevelopmentScore(property, maximum) },
+  { id: "income", label: "Rental/income potential", score: (property, baseline, maximum) => xFactorIncomeScore(property, maximum) },
+  { id: "beauty", label: "Beautiful beach/location", score: (property, baseline, maximum) => scoreWithin((beachBeautyBonus(property) / 150) * maximum, maximum) },
+  { id: "beachfront", label: "Beachfront/coastal position", score: (property, baseline, maximum) => scoreWithin(property.noRoadFrontage ? maximum : property.directBeachAccess ? maximum * 0.82 : property.beachfront ? maximum * 0.62 : 0, maximum) }
+];
+
+const customXFactorMap = new Map(customXFactorDefinitions.map(definition => [definition.id, definition]));
+
+function customXFactorCriteria() {
+  return state.customXFactorCriteria
+    .filter(id => customXFactorMap.has(id))
+    .slice(0, 10);
+}
+
+function customXFactorBreakdown(property, baseline = scoringBaseline()) {
+  const criteria = customXFactorCriteria();
+  if (!criteria.length) return {};
+  const totalWeight = criteria.reduce((total, _id, index) => total + (criteria.length - index), 0);
+  return Object.fromEntries(criteria.map((id, index) => {
+    const definition = customXFactorMap.get(id);
+    const weight = criteria.length - index;
+    const maximum = (1000 * weight) / totalWeight;
+    return [id, definition.score(property, baseline, maximum)];
+  }));
+}
+
+function xFactorBreakdown(property, baseline = scoringBaseline()) {
+  if (state.searchMode === "custom") return customXFactorBreakdown(property, baseline);
+
+  if (state.searchMode === "large") {
+    return {
+      capital: xFactorCapitalGainScore(property, 350),
+      city: xFactorCityScore(property, 250),
+      luxury: xFactorLuxuryHouseScore(property, 220),
+      value: xFactorValueScore(property, baseline, 180)
+    };
+  }
+
+  return {
+    capital: xFactorCapitalGainScore(property, 360),
+    access: xFactorBeachAccessScore(property, 280),
+    city: xFactorCityScore(property, 210),
+    value: xFactorValueScore(property, baseline, 150)
+  };
+}
+
+function xFactorCriterionScore(property, criterion, baseline = scoringBaseline()) {
+  const breakdown = xFactorBreakdown(property, baseline);
+  return breakdown[criterion] || 0;
 }
 
 const beautifulBeachSignals = [
@@ -39905,17 +41231,11 @@ function beachBeautyBonus(property) {
 }
 
 function scoreProperty(property, baseline) {
-  let score = 0;
-  const sqm = pricePerSqm(property);
-  if (property.beachfront) score += 180;
-  if (property.directBeachAccess) score += 220;
-  if (property.noRoadFrontage) score += 240;
-  if (property.landSize >= 1000) score += 40;
-  score += pricePerSqmValueBonus(sqm, baseline);
-  score += xFactorCityBonus(property);
-  score += beachBeautyBonus(property);
-  score += Math.min((property.factors || []).length * 5, 20);
-  return Math.max(1, Math.min(score, 1000));
+  const breakdown = xFactorBreakdown(property, baseline);
+  let score = Object.values(breakdown).reduce((total, value) => total + value, 0);
+  if (state.searchMode === "beach") score += Math.min(beachBeautyBonus(property), 35);
+  score += Math.min((property.factors || []).length * 3, 12);
+  return Math.max(1, Math.min(Math.round(score), 1000));
 }
 
 function normaliseProperty(row, index) {
@@ -40018,6 +41338,81 @@ function populateStaticControls() {
     states.map(item => `<option value="${item}">${item}</option>`).join("");
 }
 
+function renderCustomXFactorOptions() {
+  const selected = customXFactorCriteria();
+  els.customXFactorOptions.innerHTML = "";
+  customXFactorDefinitions.forEach(definition => {
+    const label = document.createElement("label");
+    const checkbox = document.createElement("input");
+    const text = document.createElement("span");
+    const order = selected.indexOf(definition.id);
+
+    label.className = "custom-xfactor-option";
+    checkbox.type = "checkbox";
+    checkbox.value = definition.id;
+    checkbox.checked = order >= 0;
+    checkbox.disabled = !checkbox.checked && selected.length >= 10;
+    text.textContent = order >= 0 ? `${order + 1}. ${definition.label}` : definition.label;
+
+    checkbox.addEventListener("change", () => {
+      const current = customXFactorCriteria();
+      if (checkbox.checked && !current.includes(definition.id)) current.push(definition.id);
+      if (!checkbox.checked) current.splice(current.indexOf(definition.id), 1);
+      state.customXFactorCriteria = current.slice(0, 10);
+      localStorage.setItem("propertyCustomXFactorCriteria", JSON.stringify(state.customXFactorCriteria));
+      renderCustomXFactorOptions();
+    });
+
+    label.append(checkbox, text);
+    els.customXFactorOptions.append(label);
+  });
+  els.customXFactorCount.textContent = `${selected.length}/10 selected`;
+}
+
+function openCustomXFactorPanel() {
+  renderCustomXFactorOptions();
+  els.customXFactorPanel.hidden = false;
+}
+
+function closeCustomXFactorPanel() {
+  els.customXFactorPanel.hidden = true;
+}
+
+function populateXFactorFilterOptions() {
+  const current = els.xFactorColumnFilter.value;
+  const options = state.searchMode === "custom"
+    ? [
+        ["all", "All custom factors"],
+        ["desc", "Custom best first"],
+        ...customXFactorCriteria().map(id => [id, customXFactorMap.get(id).label]),
+        ["asc", "Lowest first"]
+      ]
+    : state.searchMode === "large"
+    ? [
+        ["all", "All X factors"],
+        ["desc", "Overall best first"],
+        ["capital", "Capital gain potential"],
+        ["city", "Closest to major city"],
+        ["luxury", "Luxury house/estate"],
+        ["value", "Best land value"],
+        ["asc", "Lowest first"]
+      ]
+    : [
+        ["all", "All X factors"],
+        ["desc", "Overall best first"],
+        ["capital", "Capital gain potential"],
+        ["access", "Direct beach/no road"],
+        ["city", "Closest to major city"],
+        ["value", "Best relative value"],
+        ["asc", "Lowest first"]
+      ];
+
+  els.xFactorColumnFilter.innerHTML = options
+    .map(([value, label]) => `<option value="${value}">${label}</option>`)
+    .join("");
+  els.xFactorColumnFilter.value = options.some(([value]) => value === current) ? current : "all";
+}
+
 function applyTheme() {
   document.documentElement.dataset.theme = state.theme;
   els.themeToggle.textContent = state.theme === "dark" ? "Light mode" : "Dark mode";
@@ -40026,15 +41421,18 @@ function applyTheme() {
 
 function applySearchModeUi() {
   const largeMode = state.searchMode === "large";
-  els.beachModeButton.classList.toggle("active", !largeMode);
+  const customMode = state.searchMode === "custom";
+  populateXFactorFilterOptions();
+  els.beachModeButton.classList.toggle("active", !largeMode && !customMode);
   els.largeModeButton.classList.toggle("active", largeMode);
+  els.customModeButton.classList.toggle("active", customMode);
   document.body.dataset.searchMode = state.searchMode;
   if (isOnlineViewerMode()) {
     els.reloadButton.disabled = true;
     els.reloadButton.textContent = "Viewer only";
     return;
   }
-  els.reloadButton.title = largeMode ? "Search for new large land listings now" : "Search for new beach listings now";
+  els.reloadButton.title = largeMode ? "Search for new large land listings now" : customMode ? "Search for new beach listings now" : "Search for new beach listings now";
 }
 
 function filterProperties() {
@@ -40045,7 +41443,7 @@ function filterProperties() {
   const sqmFilter = els.sqmColumnFilter.value;
   const cityFilter = els.cityColumnFilter.value;
   const landFilter = els.landColumnFilter.value;
-  const baseline = median(state.properties.map(pricePerSqm));
+  const baseline = scoringBaseline();
 
   return state.properties.filter(property => {
     const text = [property.title, property.suburb, property.state, property.notes, property.nearestMajorCity, ...(property.factors || [])]
@@ -40056,11 +41454,12 @@ function filterProperties() {
     const land = Number(property.landSize || 0);
     const price = Number(property.price || 0);
     const xFactorValue = scoreProperty(property, baseline);
+    const modeMatches = state.view === "favourites" ? true : matchesSearchMode(property);
     return isActiveProperty(property) &&
-      matchesSearchMode(property) &&
+      modeMatches &&
       (!addressQuery || text.includes(addressQuery)) &&
       (selectedState === "all" || property.state === selectedState) &&
-      matchesXFactorFilter(xFactorValue, xFactorFilter) &&
+      matchesXFactorFilter(xFactorValue, xFactorFilter, property, baseline) &&
       matchesPriceFilter(price, priceFilter) &&
       matchesSqmFilter(sqm, sqmFilter) &&
       matchesCityFilter(minutes, cityFilter) &&
@@ -40107,7 +41506,14 @@ function matchesLandFilter(land, filter) {
   return true;
 }
 
-function matchesXFactorFilter(score, filter) {
+function isXFactorCriterionFilter(filter) {
+  return ["capital", "access", "city", "value", "luxury"].includes(filter) || customXFactorMap.has(filter);
+}
+
+function matchesXFactorFilter(score, filter, property, baseline) {
+  if (isXFactorCriterionFilter(filter)) {
+    return xFactorCriterionScore(property, filter, baseline) > 0;
+  }
   if (filter === "over800") return score >= 800;
   if (filter === "over600") return score >= 600;
   if (filter === "over400") return score >= 400;
@@ -40115,7 +41521,7 @@ function matchesXFactorFilter(score, filter) {
 }
 
 function sortProperties(properties) {
-  const baseline = median(state.properties.map(pricePerSqm));
+  const baseline = scoringBaseline();
   const idFilter = els.idColumnFilter.value;
   const xFactorFilter = els.xFactorColumnFilter.value;
   const priceFilter = els.priceColumnFilter.value;
@@ -40126,6 +41532,11 @@ function sortProperties(properties) {
     if (idFilter === "asc") return Number(a.displayId || 0) - Number(b.displayId || 0);
     if (idFilter === "desc") return Number(b.displayId || 0) - Number(a.displayId || 0);
     if (xFactorFilter === "asc") return scoreProperty(a, baseline) - scoreProperty(b, baseline);
+    if (isXFactorCriterionFilter(xFactorFilter)) {
+      const criterionDelta = xFactorCriterionScore(b, xFactorFilter, baseline) - xFactorCriterionScore(a, xFactorFilter, baseline);
+      if (criterionDelta) return criterionDelta;
+      return scoreProperty(b, baseline) - scoreProperty(a, baseline);
+    }
     if (xFactorFilter === "desc" || xFactorFilter.startsWith("over")) return scoreProperty(b, baseline) - scoreProperty(a, baseline);
     if (priceFilter === "asc") return (a.price || Infinity) - (b.price || Infinity);
     if (priceFilter === "desc") return (b.price || 0) - (a.price || 0);
@@ -40141,16 +41552,16 @@ function sortProperties(properties) {
 }
 
 function render() {
-  const baseline = median(state.properties.map(pricePerSqm));
+  const baseline = scoringBaseline();
   const filtered = sortProperties(filterProperties());
-  const activeFavouriteCount = state.properties.filter(property => isActiveProperty(property) && matchesSearchMode(property) && state.favourites.has(property.id)).length;
+  const activeFavouriteCount = state.properties.filter(property => isActiveProperty(property) && state.favourites.has(property.id)).length;
   const starIds = investmentStarIds();
   const activeStarCount = starIds.size;
   const cards = document.createDocumentFragment();
   els.cards.innerHTML = "";
   els.emptyState.hidden = filtered.length > 0;
   els.emptyState.textContent = state.view === "favourites"
-    ? "No favourited properties match these filters yet."
+    ? "No family favourites match these filters yet."
     : state.view === "unviewed"
       ? "No new unviewed properties match these filters yet."
       : state.view === "stars"
@@ -40166,8 +41577,8 @@ function render() {
   els.countStat.textContent = number.format(filtered.length);
   const unviewedCount = filterPropertiesForView("all").filter(isUnviewedProperty).length;
   els.unviewedStat.textContent = `${number.format(unviewedCount)} new unviewed`;
-  els.noRoadStat.textContent = number.format(state.searchMode === "large" ? filtered.filter(isLargeProperty).length : filtered.filter(property => property.noRoadFrontage).length);
-  els.noRoadStat.nextElementSibling.textContent = state.searchMode === "large" ? "20ha to 200,000ha" : "no road frontage";
+  els.noRoadStat.textContent = number.format(state.searchMode === "custom" ? customXFactorCriteria().length : state.searchMode === "large" ? filtered.filter(isLargeProperty).length : filtered.filter(property => property.noRoadFrontage).length);
+  els.noRoadStat.nextElementSibling.textContent = state.searchMode === "custom" ? "custom criteria" : state.searchMode === "large" ? "20ha to 200,000ha" : "no road frontage";
   els.cityStat.textContent = number.format(filtered.filter(isWithinMajorCityHour).length);
   els.updatedState.textContent = isOnlineViewerMode()
     ? `Online viewer snapshot last updated ${databaseUpdatedAt}. New searches run from the owner's PC and appear here after the repository is updated.`
@@ -40180,6 +41591,9 @@ function render() {
     const media = node.querySelector(".media");
     const img = node.querySelector("img");
     const shortlist = node.querySelector(".shortlist");
+    const setPictureOne = node.querySelector(".set-picture-one");
+    const setPictureTwo = node.querySelector(".set-picture-two");
+    const personalNote = node.querySelector(".property-note");
     const source = node.querySelector(".source");
     const unavailable = node.querySelector(".unavailable");
     const signals = node.querySelector(".signals");
@@ -40188,6 +41602,7 @@ function render() {
     const minutesToMajorCity = majorCityMinutes(property);
     const marketDays = daysOnMarket(property);
     const investmentStar = starIds.has(property.id);
+    const criteriaScores = xFactorBreakdown(property, baseline);
 
     card.dataset.id = property.id;
     card.classList.toggle("investment-star-card", investmentStar);
@@ -40211,6 +41626,9 @@ function render() {
       !minutesToMajorCity || !property.nearestMajorCity
     );
     setMetric(node, ".market", marketDays ? `${number.format(marketDays)} days` : "TBA", !marketDays);
+    personalNote.value = state.propertyNotes[property.id] || "";
+    personalNote.addEventListener("click", event => event.stopPropagation());
+    personalNote.addEventListener("input", () => savePropertyNote(property.id, personalNote.value));
     node.querySelector(".notes").textContent = property.notes;
     node.querySelector(".score").textContent = `${score}/1000 X score`;
     const listingLink = getListingLink(property);
@@ -40222,15 +41640,29 @@ function render() {
     source.addEventListener("click", () => markPropertyViewed(property.id));
     unavailable.addEventListener("click", () => markPropertyUnavailable(property.id));
 
+    const customCriteriaTags = state.searchMode === "custom"
+      ? customXFactorCriteria()
+          .map(id => {
+            const value = criteriaScores[id];
+            return value ? `${customXFactorMap.get(id).label} +${value}` : null;
+          })
+      : [];
+
     const tags = [
       investmentStar ? "\u2605 AI Pick" : null,
       state.searchMode === "large" ? "Large property" : null,
+      state.searchMode === "custom" ? "Custom X Factor" : null,
       property.beachfront ? "Beachfront" : "Not beachfront",
       property.noRoadFrontage ? "No road in front" : "Road/reserve check",
       property.directBeachAccess ? "Direct beach access" : null,
-      xFactorCityBonus(property) ? `${isPreferredXFactorCity(property) ? "Preferred city" : "Major city"} +${xFactorCityBonus(property)}` : null,
+      ...(state.searchMode === "custom" ? customCriteriaTags : [
+        criteriaScores.capital ? `Capital growth +${criteriaScores.capital}` : null,
+        criteriaScores.access ? `Beach access +${criteriaScores.access}` : null,
+        criteriaScores.city ? `${isPreferredXFactorCity(property) ? "Preferred city" : "Major city"} +${criteriaScores.city}` : null,
+        criteriaScores.luxury ? `Luxury estate +${criteriaScores.luxury}` : null,
+        criteriaScores.value ? `Relative value +${criteriaScores.value}` : null
+      ]),
       beachBeautyBonus(property) ? `${beachBeautySignal(property)?.label || "Clear-water beach"} +${beachBeautyBonus(property)}` : null,
-      sqm && sqm <= baseline ? "Lower $/m2" : null,
       ...(property.factors || [])
     ].filter(Boolean);
 
@@ -40250,6 +41682,14 @@ function render() {
       else state.favourites.add(property.id);
       localStorage.setItem("favouriteProperties", JSON.stringify([...state.favourites]));
       localStorage.setItem("shortlistedProperties", JSON.stringify([...state.favourites]));
+      render();
+    });
+    setPictureOne.addEventListener("click", () => {
+      savePictureSelection(property, currentCardPictureUrl(media, property));
+      render();
+    });
+    setPictureTwo.addEventListener("click", () => {
+      savePicture2Selection(property, currentCardPictureUrl(media, property));
       render();
     });
 
@@ -40292,7 +41732,7 @@ async function refreshFavouritePhotos() {
 
   const ids = [...state.favourites].filter(id => state.properties.some(property => property.id === id));
   if (!ids.length) {
-    alert("No favourite properties selected yet.");
+    alert("No family favourite properties selected yet.");
     return;
   }
 
@@ -40312,7 +41752,7 @@ async function refreshFavouritePhotos() {
       if (property) savePropertyImages(property, images);
     });
 
-    alert(`Favourite photo update complete. Updated ${result.updated || 0} of ${result.checked || ids.length} favourites.`);
+    alert(`Family favourite photo update complete. Updated ${result.updated || 0} of ${result.checked || ids.length} favourites.`);
     window.location.reload();
   } catch (error) {
     alert(error.message || "Photo update failed.");
@@ -40324,8 +41764,8 @@ async function refreshFavouritePhotos() {
 
 function exportCurrentTable() {
   const rows = sortProperties(filterProperties());
-  const baseline = median(state.properties.map(pricePerSqm));
-  const headers = ["Picture", "Picture 2", "ID", "State", "Address", "X Factor value", "Price", "$ per sqm", "Mins to City", "Land Size Sqm"];
+  const baseline = scoringBaseline();
+  const headers = ["Picture 1", "Picture 2", "ID", "State", "Address", "X Factor value", "Price", "$ per sqm", "Mins to City", "Land Size Sqm"];
   const csvRows = [
     headers,
     ...rows.map(property => {
@@ -40364,8 +41804,10 @@ function setSearchMode(mode) {
   if (state.searchMode === mode) return;
   state.searchMode = mode;
   localStorage.setItem("propertySearchMode", mode);
+  investmentStarIdCache = null;
   state.view = "all";
   state.unviewedViewIds = null;
+  closeCustomXFactorPanel();
   resetFilters();
   pollServerRefreshStatus();
 }
@@ -40431,6 +41873,30 @@ els.unviewedViewButton.addEventListener("click", () => {
 
 els.beachModeButton.addEventListener("click", () => setSearchMode("beach"));
 els.largeModeButton.addEventListener("click", () => setSearchMode("large"));
+els.customModeButton.addEventListener("click", openCustomXFactorPanel);
+els.customXFactorCloseButton.addEventListener("click", closeCustomXFactorPanel);
+els.customXFactorPanel.addEventListener("click", event => {
+  if (event.target === els.customXFactorPanel) closeCustomXFactorPanel();
+});
+els.clearCustomXFactorButton.addEventListener("click", () => {
+  state.customXFactorCriteria = [];
+  localStorage.setItem("propertyCustomXFactorCriteria", JSON.stringify(state.customXFactorCriteria));
+  renderCustomXFactorOptions();
+});
+els.applyCustomXFactorButton.addEventListener("click", () => {
+  if (!customXFactorCriteria().length) {
+    alert("Choose at least one custom X Factor option first.");
+    return;
+  }
+  state.searchMode = "custom";
+  localStorage.setItem("propertySearchMode", "custom");
+  investmentStarIdCache = null;
+  state.view = "all";
+  state.unviewedViewIds = null;
+  closeCustomXFactorPanel();
+  resetFilters();
+  pollServerRefreshStatus();
+});
 
 els.themeToggle.addEventListener("click", () => {
   state.theme = state.theme === "dark" ? "light" : "dark";
