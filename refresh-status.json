@@ -1,13 +1,13 @@
 {
-  "state": "complete",
+  "state": "running",
   "mode": "auto",
-  "message": "Finished Currumbin, QLD. Reloading listings...",
-  "searchArea": "Currumbin, QLD",
-  "searchAreaPosition": 108,
+  "message": "Verifying candidates in Glenelg, SA; 10/10 possible listings found...",
+  "searchArea": "Glenelg, SA",
+  "searchAreaPosition": 14,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Tugun, QLD",
-  "nextAutoRefreshAt": "2026-05-13T09:37:10.494Z",
-  "updatedAt": "2026-05-13T09:32:10.499Z"
+  "nextSearchArea": "Glenelg, SA",
+  "nextAutoRefreshAt": "2026-05-15T08:05:51.841Z",
+  "updatedAt": "2026-05-15T08:14:36.277Z"
 }

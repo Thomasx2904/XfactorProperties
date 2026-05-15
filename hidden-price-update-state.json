@@ -1,0 +1,5571 @@
+{
+  "runs": [
+    {
+      "updatedAt": "2026-05-15T07:14:16.203Z",
+      "batchSize": 1,
+      "pageWaitMs": 4500,
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "sa-west-lakes-shore-3-20-cormorant",
+          "title": "3/20 Cormorant Court",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00001",
+          "id": "sa-west-lakes-shore-3-20-cormorant",
+          "title": "3/20 Cormorant Court",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T07:21:26.702Z",
+      "batchSize": 80,
+      "pageWaitMs": 4500,
+      "results": [
+        {
+          "displayId": "00002",
+          "id": "sa-robe-24-joy",
+          "title": "24 Joy Terrace",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00010",
+          "id": "nsw-yamba-2-7-pacific",
+          "title": "2/7 Pacific Parade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00014",
+          "id": "nsw-palm-beach-100-iluka",
+          "title": "100 Iluka Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00016",
+          "id": "nsw-palm-beach-42-iluka",
+          "title": "42 Iluka Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00017",
+          "id": "nsw-palm-beach-40-iluka",
+          "title": "40 Iluka Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00018",
+          "id": "nsw-palm-beach-1-2-snapperman",
+          "title": "1/2 Snapperman Lane",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00019",
+          "id": "nsw-palm-beach-4-2-snapperman",
+          "title": "4/2 Snapperman Lane",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00020",
+          "id": "nsw-palm-beach-1163-barrenjoey",
+          "title": "1163 Barrenjoey Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00021",
+          "id": "nsw-palm-beach-23-thyra",
+          "title": "23 Thyra Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00023",
+          "id": "nsw-palm-beach-104-iluka",
+          "title": "104 Iluka Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00024",
+          "id": "nsw-palm-beach-16-ocean",
+          "title": "16 Ocean Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00025",
+          "id": "nsw-palm-beach-68-iluka",
+          "title": "68 Iluka Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00027",
+          "id": "nsw-palm-beach-301-1112-1116-barrenjoey",
+          "title": "3.01/1112-1116 Barrenjoey Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00028",
+          "id": "nsw-palm-beach-1115-barrenjoey",
+          "title": "1115 Barrenjoey Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00033",
+          "id": "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+          "title": "903/47-51 Mooloolaba Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00036",
+          "id": "qld-mooloolaba-8-125-mooloolaba-esplanade",
+          "title": "8/125 Mooloolaba Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00047",
+          "id": "wa-trigg-305-west-coast",
+          "title": "305 West Coast Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00049",
+          "id": "wa-safety-bay-20-warnbro-beach",
+          "title": "20 Warnbro Beach Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00050",
+          "id": "wa-safety-bay-240b-safety-bay",
+          "title": "240B Safety Bay Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00056",
+          "id": "nsw-kingscliff-25-cylinders",
+          "title": "25 Cylinders Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00057",
+          "id": "nsw-kingscliff-6-204-marine",
+          "title": "6/204 Marine Parade",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00058",
+          "id": "nsw-kingscliff-1-242-marine",
+          "title": "1/242 Marine Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00069",
+          "id": "nsw-kingscliff-2-206-marine",
+          "title": "2/206 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00071",
+          "id": "nsw-kingscliff-2-274-276-marine",
+          "title": "2/274 - 276 Marine Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00098",
+          "id": "vic-beaumaris-16-17-beach",
+          "title": "16-17 Beach Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00121",
+          "id": "wa-north-coogee-55-ocean",
+          "title": "55 Ocean Drive",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00122",
+          "id": "wa-north-coogee-32-chelydra",
+          "title": "32 Chelydra Point",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00123",
+          "id": "wa-north-coogee-2-23-ocean",
+          "title": "2/23 Ocean Drive",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00133",
+          "id": "qld-beachmere-54-bayside",
+          "title": "54 Bayside Drive",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00134",
+          "id": "qld-beachmere-41-biggs",
+          "title": "41 Biggs Avenue",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00137",
+          "id": "nsw-entrance-north-27-curtis",
+          "title": "27 Curtis Parade",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00138",
+          "id": "nsw-entrance-north-3-1-hutton",
+          "title": "3/1 Hutton Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00140",
+          "id": "nsw-entrance-north-10-9-hutton",
+          "title": "10/9 Hutton Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00147",
+          "id": "nsw-ettalong-372-ocean-view",
+          "title": "372 Ocean View Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00148",
+          "id": "nsw-ettalong-68-esplanade",
+          "title": "68 The Esplanade",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00149",
+          "id": "nsw-ettalong-102-esplanade",
+          "title": "102 The Esplanade",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00150",
+          "id": "nsw-ettalong-5-105-esplanade",
+          "title": "5/105 The Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00155",
+          "id": "nsw-ettalong-134-51-54-esplanade",
+          "title": "134/51-54 The Esplanade",
+          "token": "006S",
+          "label": "$400k-$500k",
+          "price": 450000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00168",
+          "id": "wa-geographe-lot-3-24-freycinet",
+          "title": "Lot 3, 24 Freycinet Drive",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00170",
+          "id": "wa-siesta-park-lot-53-caves",
+          "title": "Lot 53, 506 Caves Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00177",
+          "id": "wa-leeman-lot-442-50-thomas",
+          "title": "Lot 442, 50 Thomas Street",
+          "token": "008S",
+          "label": "$500k-$600k",
+          "price": 550000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00181",
+          "id": "qld-slade-point-13-ocean",
+          "title": "13 Ocean Avenue",
+          "token": "010S",
+          "label": "$600k-$750k",
+          "price": 675000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00185",
+          "id": "nsw-pearl-beach-7-gem",
+          "title": "7 Gem Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00187",
+          "id": "nsw-pearl-beach-39-coral",
+          "title": "39 Coral Crescent",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00198",
+          "id": "qld-woodgate-174-esplanade",
+          "title": "174 Esplanade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00204",
+          "id": "qld-beachmere-112-biggs",
+          "title": "112 Biggs Avenue",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00205",
+          "id": "qld-kewarra-74-kewarra",
+          "title": "74 Kewarra Street",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00206",
+          "id": "sa-semaphore-114-esplanade",
+          "title": "114 Esplanade",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00208",
+          "id": "qld-point-lookout-124-dickson",
+          "title": "124 Dickson Way",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00210",
+          "id": "qld-mermaid-beach-1-161-hedges",
+          "title": "1/161 Hedges Avenue",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00211",
+          "id": "nsw-freshwater-9-71-evans",
+          "title": "9/71 Evans Street",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00216",
+          "id": "nsw-cabarita-15-cypress",
+          "title": "15 Cypress Crescent",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00217",
+          "id": "wa-halls-head-101-boardwalk",
+          "title": "101 Boardwalk Boulevard",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00224",
+          "id": "nsw-pottsville-2-elfran",
+          "title": "2 Elfran Avenue",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00225",
+          "id": "nsw-pottsville-43-elanora",
+          "title": "43 Elanora Avenue",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00226",
+          "id": "nsw-pottsville-8-monash",
+          "title": "8 Monash Place",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00227",
+          "id": "nsw-pottsville-20-elanora",
+          "title": "20 Elanora Avenue",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00231",
+          "id": "qld-blacks-beach-21-coral",
+          "title": "21 Coral Drive",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00243",
+          "id": "nsw-whale-beach-243b-whale-beach",
+          "title": "243b Whale Beach Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00244",
+          "id": "nsw-whale-beach-265-whale-beach",
+          "title": "265 Whale Beach Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00246",
+          "id": "nsw-whale-beach-18-20-rayner",
+          "title": "18-20 Rayner Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00247",
+          "id": "nsw-whale-beach-33-rayner",
+          "title": "33 Rayner Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00248",
+          "id": "nsw-whale-beach-143-145-whale-beach",
+          "title": "143-145 Whale Beach Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00254",
+          "id": "nsw-umina-2-148a-the-esplanade",
+          "title": "2/148A The Esplanade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00255",
+          "id": "nsw-umina-1-136-the-esplanade",
+          "title": "1/136 The Esplanade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00259",
+          "id": "nsw-wamberal-10-12-ocean-view",
+          "title": "10-12 Ocean View Drive",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00260",
+          "id": "nsw-wamberal-57-ocean-view",
+          "title": "57 Ocean View Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00261",
+          "id": "nsw-wamberal-3-4-99-ocean-view",
+          "title": "3 & 4/99 Ocean View Drive",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00263",
+          "id": "nsw-wamberal-17-remembrance",
+          "title": "17 Remembrance Drive",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00265",
+          "id": "nsw-wamberal-126-ocean-view",
+          "title": "126 Ocean View Drive",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00268",
+          "id": "nsw-new-brighton-8-river",
+          "title": "8 River Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00271",
+          "id": "qld-agnes-water-6-thomson",
+          "title": "6 Thomson Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00282",
+          "id": "qld-agnes-water-64-grevillia",
+          "title": "64 Grevillia Court",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00283",
+          "id": "qld-agnes-water-springs-road-headland",
+          "title": "Springs Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00284",
+          "id": "qld-agnes-water-5-569-springs",
+          "title": "5/569 Springs Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00286",
+          "id": "qld-sunshine-beach-16-adams",
+          "title": "16 Adams Street",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00288",
+          "id": "qld-sunshine-beach-27-adams",
+          "title": "27 Adams Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00289",
+          "id": "qld-sunshine-beach-2-25-park",
+          "title": "2/25 Park Crescent",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00293",
+          "id": "nsw-stockton-23b-stone",
+          "title": "23B Stone Street",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00294",
+          "id": "nsw-stockton-235-mitchell",
+          "title": "235 Mitchell Street",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00002",
+          "id": "sa-robe-24-joy",
+          "title": "24 Joy Terrace",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00010",
+          "id": "nsw-yamba-2-7-pacific",
+          "title": "2/7 Pacific Parade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00014",
+          "id": "nsw-palm-beach-100-iluka",
+          "title": "100 Iluka Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00016",
+          "id": "nsw-palm-beach-42-iluka",
+          "title": "42 Iluka Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00017",
+          "id": "nsw-palm-beach-40-iluka",
+          "title": "40 Iluka Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00018",
+          "id": "nsw-palm-beach-1-2-snapperman",
+          "title": "1/2 Snapperman Lane",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00019",
+          "id": "nsw-palm-beach-4-2-snapperman",
+          "title": "4/2 Snapperman Lane",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00020",
+          "id": "nsw-palm-beach-1163-barrenjoey",
+          "title": "1163 Barrenjoey Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00021",
+          "id": "nsw-palm-beach-23-thyra",
+          "title": "23 Thyra Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00023",
+          "id": "nsw-palm-beach-104-iluka",
+          "title": "104 Iluka Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00024",
+          "id": "nsw-palm-beach-16-ocean",
+          "title": "16 Ocean Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00025",
+          "id": "nsw-palm-beach-68-iluka",
+          "title": "68 Iluka Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00027",
+          "id": "nsw-palm-beach-301-1112-1116-barrenjoey",
+          "title": "3.01/1112-1116 Barrenjoey Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00028",
+          "id": "nsw-palm-beach-1115-barrenjoey",
+          "title": "1115 Barrenjoey Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00033",
+          "id": "qld-mooloolaba-903-47-51-mooloolaba-esplanade",
+          "title": "903/47-51 Mooloolaba Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00036",
+          "id": "qld-mooloolaba-8-125-mooloolaba-esplanade",
+          "title": "8/125 Mooloolaba Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00047",
+          "id": "wa-trigg-305-west-coast",
+          "title": "305 West Coast Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00049",
+          "id": "wa-safety-bay-20-warnbro-beach",
+          "title": "20 Warnbro Beach Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00050",
+          "id": "wa-safety-bay-240b-safety-bay",
+          "title": "240B Safety Bay Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00056",
+          "id": "nsw-kingscliff-25-cylinders",
+          "title": "25 Cylinders Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00057",
+          "id": "nsw-kingscliff-6-204-marine",
+          "title": "6/204 Marine Parade",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00058",
+          "id": "nsw-kingscliff-1-242-marine",
+          "title": "1/242 Marine Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00069",
+          "id": "nsw-kingscliff-2-206-marine",
+          "title": "2/206 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00071",
+          "id": "nsw-kingscliff-2-274-276-marine",
+          "title": "2/274 - 276 Marine Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00098",
+          "id": "vic-beaumaris-16-17-beach",
+          "title": "16-17 Beach Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00121",
+          "id": "wa-north-coogee-55-ocean",
+          "title": "55 Ocean Drive",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00122",
+          "id": "wa-north-coogee-32-chelydra",
+          "title": "32 Chelydra Point",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00137",
+          "id": "nsw-entrance-north-27-curtis",
+          "title": "27 Curtis Parade",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00138",
+          "id": "nsw-entrance-north-3-1-hutton",
+          "title": "3/1 Hutton Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00140",
+          "id": "nsw-entrance-north-10-9-hutton",
+          "title": "10/9 Hutton Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00147",
+          "id": "nsw-ettalong-372-ocean-view",
+          "title": "372 Ocean View Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00148",
+          "id": "nsw-ettalong-68-esplanade",
+          "title": "68 The Esplanade",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00149",
+          "id": "nsw-ettalong-102-esplanade",
+          "title": "102 The Esplanade",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00150",
+          "id": "nsw-ettalong-5-105-esplanade",
+          "title": "5/105 The Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00155",
+          "id": "nsw-ettalong-134-51-54-esplanade",
+          "title": "134/51-54 The Esplanade",
+          "price": 450000,
+          "label": "$400k-$500k",
+          "code": "006S"
+        },
+        {
+          "displayId": "00168",
+          "id": "wa-geographe-lot-3-24-freycinet",
+          "title": "Lot 3, 24 Freycinet Drive",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00170",
+          "id": "wa-siesta-park-lot-53-caves",
+          "title": "Lot 53, 506 Caves Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00177",
+          "id": "wa-leeman-lot-442-50-thomas",
+          "title": "Lot 442, 50 Thomas Street",
+          "price": 550000,
+          "label": "$500k-$600k",
+          "code": "008S"
+        },
+        {
+          "displayId": "00181",
+          "id": "qld-slade-point-13-ocean",
+          "title": "13 Ocean Avenue",
+          "price": 675000,
+          "label": "$600k-$750k",
+          "code": "010S"
+        },
+        {
+          "displayId": "00185",
+          "id": "nsw-pearl-beach-7-gem",
+          "title": "7 Gem Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00204",
+          "id": "qld-beachmere-112-biggs",
+          "title": "112 Biggs Avenue",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00205",
+          "id": "qld-kewarra-74-kewarra",
+          "title": "74 Kewarra Street",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00206",
+          "id": "sa-semaphore-114-esplanade",
+          "title": "114 Esplanade",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00208",
+          "id": "qld-point-lookout-124-dickson",
+          "title": "124 Dickson Way",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00211",
+          "id": "nsw-freshwater-9-71-evans",
+          "title": "9/71 Evans Street",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00216",
+          "id": "nsw-cabarita-15-cypress",
+          "title": "15 Cypress Crescent",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00217",
+          "id": "wa-halls-head-101-boardwalk",
+          "title": "101 Boardwalk Boulevard",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00224",
+          "id": "nsw-pottsville-2-elfran",
+          "title": "2 Elfran Avenue",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00225",
+          "id": "nsw-pottsville-43-elanora",
+          "title": "43 Elanora Avenue",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00226",
+          "id": "nsw-pottsville-8-monash",
+          "title": "8 Monash Place",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00227",
+          "id": "nsw-pottsville-20-elanora",
+          "title": "20 Elanora Avenue",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00231",
+          "id": "qld-blacks-beach-21-coral",
+          "title": "21 Coral Drive",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00243",
+          "id": "nsw-whale-beach-243b-whale-beach",
+          "title": "243b Whale Beach Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00246",
+          "id": "nsw-whale-beach-18-20-rayner",
+          "title": "18-20 Rayner Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00247",
+          "id": "nsw-whale-beach-33-rayner",
+          "title": "33 Rayner Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00254",
+          "id": "nsw-umina-2-148a-the-esplanade",
+          "title": "2/148A The Esplanade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00260",
+          "id": "nsw-wamberal-57-ocean-view",
+          "title": "57 Ocean View Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00261",
+          "id": "nsw-wamberal-3-4-99-ocean-view",
+          "title": "3 & 4/99 Ocean View Drive",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00263",
+          "id": "nsw-wamberal-17-remembrance",
+          "title": "17 Remembrance Drive",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00265",
+          "id": "nsw-wamberal-126-ocean-view",
+          "title": "126 Ocean View Drive",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00268",
+          "id": "nsw-new-brighton-8-river",
+          "title": "8 River Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00271",
+          "id": "qld-agnes-water-6-thomson",
+          "title": "6 Thomson Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00282",
+          "id": "qld-agnes-water-64-grevillia",
+          "title": "64 Grevillia Court",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00286",
+          "id": "qld-sunshine-beach-16-adams",
+          "title": "16 Adams Street",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00288",
+          "id": "qld-sunshine-beach-27-adams",
+          "title": "27 Adams Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00289",
+          "id": "qld-sunshine-beach-2-25-park",
+          "title": "2/25 Park Crescent",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00294",
+          "id": "nsw-stockton-235-mitchell",
+          "title": "235 Mitchell Street",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T07:30:37.463Z",
+      "batchSize": 100,
+      "pageWaitMs": 4500,
+      "results": [
+        {
+          "displayId": "00302",
+          "id": "qld-warana-107-oceanic",
+          "title": "107 Oceanic Drive",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00306",
+          "id": "qld-marcus-beach-35-callitris",
+          "title": "35 Callitris Crescent",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00308",
+          "id": "qld-marcus-beach-33-tristania",
+          "title": "33 Tristania Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00310",
+          "id": "qld-marcus-beach-44-tristania",
+          "title": "44 Tristania Drive",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00320",
+          "id": "qld-surfers-paradise-1903-3-northcliffe",
+          "title": "1903/3 Northcliffe Terrace",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00321",
+          "id": "wa-cottesloe-200-marine",
+          "title": "200 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00322",
+          "id": "wa-cottesloe-8-110-marine",
+          "title": "8/110 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00323",
+          "id": "wa-cottesloe-1-110-marine",
+          "title": "1/110 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00326",
+          "id": "wa-cottesloe-242-marine",
+          "title": "242 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00331",
+          "id": "qld-sunshine-beach-21-crank",
+          "title": "21 Crank Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00332",
+          "id": "nsw-cabarita-91-tweed-coast",
+          "title": "91 Tweed Coast Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00338",
+          "id": "nsw-dee-why-32-84-88-dee-why",
+          "title": "32/84-88 Dee Why Parade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00344",
+          "id": "qld-broadbeach-3-177-old-burleigh",
+          "title": "3/177 Old Burleigh Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00353",
+          "id": "qld-broadbeach-2001-2-first",
+          "title": "2001/2 First Avenue",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00366",
+          "id": "nsw-caves-beach-31-esplanade",
+          "title": "31 The Esplanade",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00368",
+          "id": "nsw-caves-beach-2-21-driftwood",
+          "title": "2/21 Driftwood Close",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00371",
+          "id": "qld-palm-beach-69-jefferson",
+          "title": "69 Jefferson Lane",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00373",
+          "id": "qld-palm-beach-227-jefferson",
+          "title": "227 Jefferson Lane",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00374",
+          "id": "qld-palm-beach-801-474-esplanade",
+          "title": "801/474 The Esplanade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00375",
+          "id": "qld-palm-beach-27-jefferson",
+          "title": "27 Jefferson Lane",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00387",
+          "id": "qld-palm-beach-802-1245-gold-coast",
+          "title": "Level 802/1245 Gold Coast Highway",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00388",
+          "id": "qld-palm-beach-701-1245-gold-coast",
+          "title": "701/1245 Gold Coast Highway",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00389",
+          "id": "qld-palm-beach-605-3-twenty-third",
+          "title": "605/3 Twenty Third Avenue",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00390",
+          "id": "qld-palm-beach-703-4-twenty-first",
+          "title": "703/4 Twenty First Avenue",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00391",
+          "id": "qld-palm-beach-402-4-twenty-first",
+          "title": "402/4 Twenty First Avenue",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00393",
+          "id": "qld-mermaid-beach-47-hedges",
+          "title": "47 Hedges Avenue",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00398",
+          "id": "qld-mermaid-beach-10-158-hedges",
+          "title": "10/158 Hedges Avenue",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00399",
+          "id": "qld-mermaid-beach-8-158-hedges",
+          "title": "8/158 Hedges Avenue",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00401",
+          "id": "qld-mermaid-beach-2-238-hedges",
+          "title": "2/238 Hedges Avenue",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00403",
+          "id": "qld-mermaid-beach-3-4-seabeach",
+          "title": "3/4 Seabeach Avenue",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00405",
+          "id": "qld-peregian-beach-36-lorikeet",
+          "title": "36 Lorikeet Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00407",
+          "id": "qld-peregian-beach-16-84-peregian-esplanade",
+          "title": "16/84 Peregian Esplanade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00409",
+          "id": "qld-peregian-beach-1-peregian-esplanade",
+          "title": "1 Peregian Esplanade",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00410",
+          "id": "wa-lancelin-80-gingin",
+          "title": "80 Gingin Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00412",
+          "id": "wa-naturaliste-4-42-bunker-bay",
+          "title": "4/42 Bunker Bay Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00422",
+          "id": "sa-aldinga-275a-lower-esplanade",
+          "title": "275a Lower Esplanade",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00435",
+          "id": "sa-semaphore-14a-percy",
+          "title": "14A Percy St",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00451",
+          "id": "sa-semaphore-59-esplanade",
+          "title": "59 Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00453",
+          "id": "sa-largs-bay-208-lady-gowrie",
+          "title": "208 Lady Gowrie Drive",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00454",
+          "id": "sa-largs-bay-lot-7-lady-gowrie",
+          "title": "Lot 7 Lady Gowrie",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00455",
+          "id": "sa-largs-bay-lot-6-lady-gowrie",
+          "title": "Lot 6 Lady Gowrie Drive",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00464",
+          "id": "sa-glenelg-201-16-holdfast-promenade",
+          "title": "201/16 Holdfast Promenade",
+          "token": "008S",
+          "label": "$500k-$600k",
+          "price": 550000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00469",
+          "id": "sa-moana-12-328-esplanade",
+          "title": "12/328 Esplanade",
+          "token": "010S",
+          "label": "$600k-$750k",
+          "price": 675000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00472",
+          "id": "sa-sellicks-4-87-88-esplanade",
+          "title": "4/87-88 Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00476",
+          "id": "sa-sellicks-33-seascape-view",
+          "title": "33 Seascape View",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00478",
+          "id": "sa-christies-56-esplanade",
+          "title": "56 Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00486",
+          "id": "sa-glenelg-35-9-11-south-esplanade",
+          "title": "35/9-11 South Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00488",
+          "id": "sa-port-noarlunga-south-160b-esplanade",
+          "title": "160B Esplanade",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00492",
+          "id": "sa-carrickalinga-90-gold-coast",
+          "title": "90 Gold Coast Drive",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00497",
+          "id": "sa-normanville-12-croser",
+          "title": "12 Croser Street",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00498",
+          "id": "sa-cape-jervis-185-lands-end",
+          "title": "185 Lands End Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00504",
+          "id": "sa-second-valley-13-scenic-view",
+          "title": "13 Scenic View Drive",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00508",
+          "id": "sa-henley-5-417-seaview",
+          "title": "5/417 Seaview Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00509",
+          "id": "sa-henley-3-197-esplanade",
+          "title": "3/197 Esplanade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00510",
+          "id": "sa-henley-329-esplanade",
+          "title": "329 Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00512",
+          "id": "sa-henley-beach-south-3-149-esplanade",
+          "title": "3/149 Esplanade",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00515",
+          "id": "wa-waikiki-160a-warnbro-beach",
+          "title": "160A Warnbro Beach Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00516",
+          "id": "wa-waikiki-160b-warnbro-beach",
+          "title": "160B Warnbro Beach Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00517",
+          "id": "wa-waikiki-5-shelton",
+          "title": "5 Shelton Street",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00526",
+          "id": "qld-main-beach-46-3482-3488-main-beach",
+          "title": "46/3482-3488 Main Beach Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00529",
+          "id": "qld-main-beach-3-3576-main-beach",
+          "title": "3/3576 Main Beach Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00535",
+          "id": "qld-bilinga-6-277-golden-four",
+          "title": "6/277 Golden Four Drive",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00553",
+          "id": "qld-tugun-9-1-sea",
+          "title": "9/1 Sea Street",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00555",
+          "id": "qld-tugun-402-321-golden-four",
+          "title": "402/321 Golden Four Drive",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00559",
+          "id": "qld-tugun-29-527-gold-coast-highway",
+          "title": "29/527 Gold Coast Highway",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00567",
+          "id": "sa-marino-3-westcliff",
+          "title": "3 Westcliff Court",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00569",
+          "id": "sa-tennyson-145a-esplanade",
+          "title": "145A Esplanade",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00570",
+          "id": "sa-tennyson-2-155-seaview",
+          "title": "2/155 Seaview Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00579",
+          "id": "sa-streaky-bay-17-flinders",
+          "title": "17 Flinders Drive",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00580",
+          "id": "sa-streaky-bay-726-little-islands",
+          "title": "726 Little Islands Road",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00585",
+          "id": "wa-bunbury-19-11-19-casuarina",
+          "title": "19/11-19 Casuarina Drive",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00596",
+          "id": "wa-mandurah-20-89-ormsby",
+          "title": "20/89 Ormsby Terrace",
+          "token": "002S",
+          "label": "$100k-$200k",
+          "price": 150000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00598",
+          "id": "wa-rockingham-1-127-rockingham-beach",
+          "title": "1/127 Rockingham Beach Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00602",
+          "id": "wa-scarborough-5-356-west-coast",
+          "title": "5/356 West Coast Highway",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00604",
+          "id": "wa-scarborough-47-171-west-coast",
+          "title": "47/171 West Coast Highway",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00605",
+          "id": "wa-scarborough-25-287-west-coast",
+          "title": "25/287 West Coast Highway",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00608",
+          "id": "wa-mindarie-512-50-alexandria",
+          "title": "512/50 Alexandria View",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00609",
+          "id": "wa-mindarie-206-50-alexandria",
+          "title": "206/50 Alexandria View",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00610",
+          "id": "wa-mindarie-102b-alexandria",
+          "title": "102B Alexandria View",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00620",
+          "id": "sa-kersbrook-118-powell",
+          "title": "118 Powell Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00622",
+          "id": "sa-mount-torrens-lot-10-warmington",
+          "title": "Lot 10, Warmington Run",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00627",
+          "id": "sa-ebenezer-1404-research",
+          "title": "1404 Research Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00628",
+          "id": "sa-greenock-87-sir-condor",
+          "title": "87 Sir Condor Laucke Way",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00635",
+          "id": "sa-clare-659a-spring-gully",
+          "title": "659A Spring Gully Road",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00640",
+          "id": "sa-cleve-1446-carpa",
+          "title": "1446 Carpa Road",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00648",
+          "id": "wa-cowaramup-8772-bussell",
+          "title": "8772 Bussell Highway",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00649",
+          "id": "wa-kaloorup-1086-kaloorup",
+          "title": "1086 Kaloorup Road",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00650",
+          "id": "wa-rosa-brook-2210-jindong-treeton",
+          "title": "2210 Jindong-Treeton Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00652",
+          "id": "wa-donnybrook-19503-south-western",
+          "title": "19503 South Western Highway (Brookhampton)",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00659",
+          "id": "wa-nannup-7953-brockman",
+          "title": "7953 Brockman Highway",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00675",
+          "id": "wa-middlesex-228-peppermint-grove",
+          "title": "228 Peppermint Grove Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00677",
+          "id": "wa-tutunup-972-capel-tutunup",
+          "title": "972 Capel Tutunup Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00678",
+          "id": "wa-busselton-lot-2339-edwards-doyle",
+          "title": "Lot 2339 Cnr Edwards & Doyle Road (Ambergate)",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00682",
+          "id": "qld-mackay-270-294-shoal-point",
+          "title": "270-294 Shoal Point Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00683",
+          "id": "qld-east-mackay-44-binnington",
+          "title": "44 Binnington Esplanade",
+          "token": "010S",
+          "label": "$600k-$750k",
+          "price": 675000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00686",
+          "id": "qld-east-mackay-35-5-bridge",
+          "title": "35/5 Bridge Road",
+          "token": "008S",
+          "label": "$500k-$600k",
+          "price": 550000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00688",
+          "id": "qld-east-mackay-1-3-10-binnington",
+          "title": "1-3/10 Binnington Esplanade",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00689",
+          "id": "wa-north-dandalup-address-700378044",
+          "title": "Dramatic Views, Privacy & Natural Beauty",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00691",
+          "id": "wa-north-dandalup-4756-south-western",
+          "title": "4756 South Western Highway",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00693",
+          "id": "wa-serpentine-103-wattle",
+          "title": "103 Wattle Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00302",
+          "id": "qld-warana-107-oceanic",
+          "title": "107 Oceanic Drive",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00308",
+          "id": "qld-marcus-beach-33-tristania",
+          "title": "33 Tristania Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00310",
+          "id": "qld-marcus-beach-44-tristania",
+          "title": "44 Tristania Drive",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00320",
+          "id": "qld-surfers-paradise-1903-3-northcliffe",
+          "title": "1903/3 Northcliffe Terrace",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00321",
+          "id": "wa-cottesloe-200-marine",
+          "title": "200 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00322",
+          "id": "wa-cottesloe-8-110-marine",
+          "title": "8/110 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00323",
+          "id": "wa-cottesloe-1-110-marine",
+          "title": "1/110 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00326",
+          "id": "wa-cottesloe-242-marine",
+          "title": "242 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00331",
+          "id": "qld-sunshine-beach-21-crank",
+          "title": "21 Crank Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00332",
+          "id": "nsw-cabarita-91-tweed-coast",
+          "title": "91 Tweed Coast Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00338",
+          "id": "nsw-dee-why-32-84-88-dee-why",
+          "title": "32/84-88 Dee Why Parade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00344",
+          "id": "qld-broadbeach-3-177-old-burleigh",
+          "title": "3/177 Old Burleigh Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00366",
+          "id": "nsw-caves-beach-31-esplanade",
+          "title": "31 The Esplanade",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00368",
+          "id": "nsw-caves-beach-2-21-driftwood",
+          "title": "2/21 Driftwood Close",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00371",
+          "id": "qld-palm-beach-69-jefferson",
+          "title": "69 Jefferson Lane",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00375",
+          "id": "qld-palm-beach-27-jefferson",
+          "title": "27 Jefferson Lane",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00387",
+          "id": "qld-palm-beach-802-1245-gold-coast",
+          "title": "Level 802/1245 Gold Coast Highway",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00388",
+          "id": "qld-palm-beach-701-1245-gold-coast",
+          "title": "701/1245 Gold Coast Highway",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00389",
+          "id": "qld-palm-beach-605-3-twenty-third",
+          "title": "605/3 Twenty Third Avenue",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00391",
+          "id": "qld-palm-beach-402-4-twenty-first",
+          "title": "402/4 Twenty First Avenue",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00393",
+          "id": "qld-mermaid-beach-47-hedges",
+          "title": "47 Hedges Avenue",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00398",
+          "id": "qld-mermaid-beach-10-158-hedges",
+          "title": "10/158 Hedges Avenue",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00399",
+          "id": "qld-mermaid-beach-8-158-hedges",
+          "title": "8/158 Hedges Avenue",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00401",
+          "id": "qld-mermaid-beach-2-238-hedges",
+          "title": "2/238 Hedges Avenue",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00403",
+          "id": "qld-mermaid-beach-3-4-seabeach",
+          "title": "3/4 Seabeach Avenue",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00405",
+          "id": "qld-peregian-beach-36-lorikeet",
+          "title": "36 Lorikeet Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00407",
+          "id": "qld-peregian-beach-16-84-peregian-esplanade",
+          "title": "16/84 Peregian Esplanade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00409",
+          "id": "qld-peregian-beach-1-peregian-esplanade",
+          "title": "1 Peregian Esplanade",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00412",
+          "id": "wa-naturaliste-4-42-bunker-bay",
+          "title": "4/42 Bunker Bay Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00422",
+          "id": "sa-aldinga-275a-lower-esplanade",
+          "title": "275a Lower Esplanade",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00435",
+          "id": "sa-semaphore-14a-percy",
+          "title": "14A Percy St",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00451",
+          "id": "sa-semaphore-59-esplanade",
+          "title": "59 Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00453",
+          "id": "sa-largs-bay-208-lady-gowrie",
+          "title": "208 Lady Gowrie Drive",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00454",
+          "id": "sa-largs-bay-lot-7-lady-gowrie",
+          "title": "Lot 7 Lady Gowrie",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00455",
+          "id": "sa-largs-bay-lot-6-lady-gowrie",
+          "title": "Lot 6 Lady Gowrie Drive",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00464",
+          "id": "sa-glenelg-201-16-holdfast-promenade",
+          "title": "201/16 Holdfast Promenade",
+          "price": 550000,
+          "label": "$500k-$600k",
+          "code": "008S"
+        },
+        {
+          "displayId": "00469",
+          "id": "sa-moana-12-328-esplanade",
+          "title": "12/328 Esplanade",
+          "price": 675000,
+          "label": "$600k-$750k",
+          "code": "010S"
+        },
+        {
+          "displayId": "00472",
+          "id": "sa-sellicks-4-87-88-esplanade",
+          "title": "4/87-88 Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00476",
+          "id": "sa-sellicks-33-seascape-view",
+          "title": "33 Seascape View",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00478",
+          "id": "sa-christies-56-esplanade",
+          "title": "56 Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00486",
+          "id": "sa-glenelg-35-9-11-south-esplanade",
+          "title": "35/9-11 South Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00488",
+          "id": "sa-port-noarlunga-south-160b-esplanade",
+          "title": "160B Esplanade",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00492",
+          "id": "sa-carrickalinga-90-gold-coast",
+          "title": "90 Gold Coast Drive",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00497",
+          "id": "sa-normanville-12-croser",
+          "title": "12 Croser Street",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00498",
+          "id": "sa-cape-jervis-185-lands-end",
+          "title": "185 Lands End Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00504",
+          "id": "sa-second-valley-13-scenic-view",
+          "title": "13 Scenic View Drive",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00508",
+          "id": "sa-henley-5-417-seaview",
+          "title": "5/417 Seaview Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00509",
+          "id": "sa-henley-3-197-esplanade",
+          "title": "3/197 Esplanade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00510",
+          "id": "sa-henley-329-esplanade",
+          "title": "329 Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00512",
+          "id": "sa-henley-beach-south-3-149-esplanade",
+          "title": "3/149 Esplanade",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00515",
+          "id": "wa-waikiki-160a-warnbro-beach",
+          "title": "160A Warnbro Beach Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00516",
+          "id": "wa-waikiki-160b-warnbro-beach",
+          "title": "160B Warnbro Beach Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00517",
+          "id": "wa-waikiki-5-shelton",
+          "title": "5 Shelton Street",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00526",
+          "id": "qld-main-beach-46-3482-3488-main-beach",
+          "title": "46/3482-3488 Main Beach Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00529",
+          "id": "qld-main-beach-3-3576-main-beach",
+          "title": "3/3576 Main Beach Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00535",
+          "id": "qld-bilinga-6-277-golden-four",
+          "title": "6/277 Golden Four Drive",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00553",
+          "id": "qld-tugun-9-1-sea",
+          "title": "9/1 Sea Street",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00555",
+          "id": "qld-tugun-402-321-golden-four",
+          "title": "402/321 Golden Four Drive",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00559",
+          "id": "qld-tugun-29-527-gold-coast-highway",
+          "title": "29/527 Gold Coast Highway",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00567",
+          "id": "sa-marino-3-westcliff",
+          "title": "3 Westcliff Court",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00569",
+          "id": "sa-tennyson-145a-esplanade",
+          "title": "145A Esplanade",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00570",
+          "id": "sa-tennyson-2-155-seaview",
+          "title": "2/155 Seaview Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00579",
+          "id": "sa-streaky-bay-17-flinders",
+          "title": "17 Flinders Drive",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00580",
+          "id": "sa-streaky-bay-726-little-islands",
+          "title": "726 Little Islands Road",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00585",
+          "id": "wa-bunbury-19-11-19-casuarina",
+          "title": "19/11-19 Casuarina Drive",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00596",
+          "id": "wa-mandurah-20-89-ormsby",
+          "title": "20/89 Ormsby Terrace",
+          "price": 150000,
+          "label": "$100k-$200k",
+          "code": "002S"
+        },
+        {
+          "displayId": "00598",
+          "id": "wa-rockingham-1-127-rockingham-beach",
+          "title": "1/127 Rockingham Beach Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00602",
+          "id": "wa-scarborough-5-356-west-coast",
+          "title": "5/356 West Coast Highway",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00604",
+          "id": "wa-scarborough-47-171-west-coast",
+          "title": "47/171 West Coast Highway",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00605",
+          "id": "wa-scarborough-25-287-west-coast",
+          "title": "25/287 West Coast Highway",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00608",
+          "id": "wa-mindarie-512-50-alexandria",
+          "title": "512/50 Alexandria View",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00609",
+          "id": "wa-mindarie-206-50-alexandria",
+          "title": "206/50 Alexandria View",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00610",
+          "id": "wa-mindarie-102b-alexandria",
+          "title": "102B Alexandria View",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00620",
+          "id": "sa-kersbrook-118-powell",
+          "title": "118 Powell Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00622",
+          "id": "sa-mount-torrens-lot-10-warmington",
+          "title": "Lot 10, Warmington Run",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00628",
+          "id": "sa-greenock-87-sir-condor",
+          "title": "87 Sir Condor Laucke Way",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00635",
+          "id": "sa-clare-659a-spring-gully",
+          "title": "659A Spring Gully Road",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00640",
+          "id": "sa-cleve-1446-carpa",
+          "title": "1446 Carpa Road",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00648",
+          "id": "wa-cowaramup-8772-bussell",
+          "title": "8772 Bussell Highway",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00649",
+          "id": "wa-kaloorup-1086-kaloorup",
+          "title": "1086 Kaloorup Road",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00650",
+          "id": "wa-rosa-brook-2210-jindong-treeton",
+          "title": "2210 Jindong-Treeton Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00652",
+          "id": "wa-donnybrook-19503-south-western",
+          "title": "19503 South Western Highway (Brookhampton)",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00659",
+          "id": "wa-nannup-7953-brockman",
+          "title": "7953 Brockman Highway",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00675",
+          "id": "wa-middlesex-228-peppermint-grove",
+          "title": "228 Peppermint Grove Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00677",
+          "id": "wa-tutunup-972-capel-tutunup",
+          "title": "972 Capel Tutunup Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00678",
+          "id": "wa-busselton-lot-2339-edwards-doyle",
+          "title": "Lot 2339 Cnr Edwards & Doyle Road (Ambergate)",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00682",
+          "id": "qld-mackay-270-294-shoal-point",
+          "title": "270-294 Shoal Point Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00683",
+          "id": "qld-east-mackay-44-binnington",
+          "title": "44 Binnington Esplanade",
+          "price": 675000,
+          "label": "$600k-$750k",
+          "code": "010S"
+        },
+        {
+          "displayId": "00686",
+          "id": "qld-east-mackay-35-5-bridge",
+          "title": "35/5 Bridge Road",
+          "price": 550000,
+          "label": "$500k-$600k",
+          "code": "008S"
+        },
+        {
+          "displayId": "00688",
+          "id": "qld-east-mackay-1-3-10-binnington",
+          "title": "1-3/10 Binnington Esplanade",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00689",
+          "id": "wa-north-dandalup-address-700378044",
+          "title": "Dramatic Views, Privacy & Natural Beauty",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00691",
+          "id": "wa-north-dandalup-4756-south-western",
+          "title": "4756 South Western Highway",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00693",
+          "id": "wa-serpentine-103-wattle",
+          "title": "103 Wattle Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T07:39:34.852Z",
+      "batchSize": 100,
+      "pageWaitMs": 4500,
+      "results": [
+        {
+          "displayId": "00695",
+          "id": "wa-lower-chittering-451-chittering-valley",
+          "title": "451 Chittering Valley Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00697",
+          "id": "wa-bullsbrook-73-strachan",
+          "title": "73 Strachan Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00698",
+          "id": "wa-muchea-32-propagation",
+          "title": "32 Propagation View",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00700",
+          "id": "wa-lower-chittering-lot-9017-mcglew",
+          "title": "Lot 9017, McGlew Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00702",
+          "id": "wa-gingin-lot-3119-brand",
+          "title": "Lot 3119 Brand Highway",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00704",
+          "id": "wa-bindoon-3101-bindoon-dewars-pool",
+          "title": "3101 Bindoon-Dewars Pool Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00706",
+          "id": "wa-beermullah-4-pin-pin",
+          "title": "4 Pin Pin Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00709",
+          "id": "wa-lennard-brook-227-cockram",
+          "title": "227 Cockram Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00711",
+          "id": "wa-gingin-arbusto-boston-park-sappers",
+          "title": "Arbusto and Boston Park avocado farm, Sappers Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00712",
+          "id": "wa-bindoon-169-gray",
+          "title": "169 Gray Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00716",
+          "id": "wa-toodyay-24-543-folewood",
+          "title": "24, 543 Folewood Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00717",
+          "id": "wa-nunile-211-goomalling-toodyay",
+          "title": "211 Goomalling-Toodyay Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00731",
+          "id": "qld-belli-park-222-330-boyle",
+          "title": "222-330 Boyle Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00733",
+          "id": "qld-conondale-123-appaloosa",
+          "title": "123 Appaloosa Drive",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00735",
+          "id": "qld-yandina-creek-721-761-yandina-coolum",
+          "title": "721-761 Yandina-Coolum Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00736",
+          "id": "qld-coolabine-76-beacon-hill",
+          "title": "76 Beacon Hill Road",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00738",
+          "id": "qld-kin-kin-44-47-coucal",
+          "title": "44-47 Coucal Lane",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00740",
+          "id": "qld-peachester-492-river",
+          "title": "492 River Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00750",
+          "id": "qld-boyland-68-70-cherry-tree",
+          "title": "68-70 Cherry Tree Court",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00754",
+          "id": "qld-tallebudgera-valley-193-petsch-creek",
+          "title": "193 Petsch Creek Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00757",
+          "id": "qld-canungra-381-lamington-national-park",
+          "title": "381 Lamington National Park Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00758",
+          "id": "qld-boyland-486-mundoolun-connection",
+          "title": "486 Mundoolun Connection Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00762",
+          "id": "nsw-clothiers-creek-900-clothiers-creek",
+          "title": "900 Clothiers Creek Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00763",
+          "id": "nsw-piora-4411-bruxner",
+          "title": "4411 Bruxner Highway",
+          "token": "010S",
+          "label": "$600k-$750k",
+          "price": 675000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00771",
+          "id": "nsw-wyrallah-26-wybelena",
+          "title": "26 Wybelena Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00772",
+          "id": "nsw-tuckombil-979-981-teven",
+          "title": "979-981 Teven Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00775",
+          "id": "nsw-mangrove-mountain-2047-wisemans-ferry",
+          "title": "2047 Wisemans Ferry Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00776",
+          "id": "nsw-tumbi-umbi-675-ridgeway",
+          "title": "675 The Ridgeway",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00777",
+          "id": "nsw-dooralong-1559-mandalong",
+          "title": "1559 Mandalong Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00782",
+          "id": "nsw-werombi-125-roberts",
+          "title": "125 Roberts Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00785",
+          "id": "nsw-mangrove-mountain-735-ironbark",
+          "title": "735 Ironbark Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00786",
+          "id": "nsw-yarramalong-1698-yarramalong",
+          "title": "1698 Yarramalong Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00789",
+          "id": "nsw-kulnura-35-walkers-ridge",
+          "title": "35 Walkers Ridge Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00793",
+          "id": "nsw-ellalong-155-q9",
+          "title": "155 Q9 Lane",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00794",
+          "id": "nsw-denman-516-rosemount",
+          "title": "516 Rosemount Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00799",
+          "id": "nsw-quorrobolong-1189-sandy-creek",
+          "title": "1189 Sandy Creek Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00800",
+          "id": "nsw-maitland-56-gillieston",
+          "title": "56 Gillieston Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00801",
+          "id": "nsw-pokolbin-223-deasys",
+          "title": "223 Deasys Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00832",
+          "id": "vic-portarlington-391-519-queenscliff",
+          "title": "391-519 Queenscliff Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00834",
+          "id": "vic-st-leonards-389-old-st-leonards",
+          "title": "389 Old St Leonards Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00840",
+          "id": "vic-swan-bay-81-117-burrows",
+          "title": "81-117 Burrows Road",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00861",
+          "id": "vic-winchelsea-2585-princes",
+          "title": "2585 Princes Highway",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00863",
+          "id": "vic-mount-moriac-2125-barrabool",
+          "title": "2125 Barrabool Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00865",
+          "id": "qld-noosa-heads-7-1-hastings",
+          "title": "7/1 Hastings Street",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00868",
+          "id": "qld-noosa-heads-33-5-quamby",
+          "title": "33/5 Quamby Place",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00873",
+          "id": "qld-noosa-heads-9-40-hastings",
+          "title": "9/40 Hastings Street",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00877",
+          "id": "sa-kersbrook-103-sires-east",
+          "title": "103 Sires Road East",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00894",
+          "id": "qld-witta-lot-2-maleny-kenilworth",
+          "title": "LOT 2 Maleny Kenilworth Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00903",
+          "id": "qld-bokarina-245-oceanic",
+          "title": "245 Oceanic Drive",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00907",
+          "id": "qld-bokarina-2704-19-kombi",
+          "title": "2704/19 Kombi Street",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00913",
+          "id": "qld-golden-beach-1102-95-esplanade",
+          "title": "1102/95 Esplanade",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00919",
+          "id": "qld-golden-beach-6-29-landsborough",
+          "title": "6/29 Landsborough Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00921",
+          "id": "sa-birdwood-83-burton",
+          "title": "83 Burton Road",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00922",
+          "id": "sa-charleston-lot-20-21-newman",
+          "title": "Lot 20 & 21 Newman Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00931",
+          "id": "qld-currumbin-1a-828-pacific",
+          "title": "1A/828 Pacific Parade",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00932",
+          "id": "qld-currumbin-2-828-pacific",
+          "title": "2/828 Pacific Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00933",
+          "id": "qld-currumbin-9g-828-pacific",
+          "title": "9G/828 Pacific Parade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00934",
+          "id": "qld-currumbin-3-806-pacific",
+          "title": "3/806 Pacific Parade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00937",
+          "id": "qld-coolangatta-402-60-marine",
+          "title": "402/60 Marine Parade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00938",
+          "id": "qld-coolangatta-209-2-creek",
+          "title": "209/2 Creek Street",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00942",
+          "id": "qld-coolangatta-82-70-80-marine",
+          "title": "82/70-80 Marine Parade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00945",
+          "id": "qld-coolangatta-301-275-boundary",
+          "title": "301/275 Boundary Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00946",
+          "id": "qld-coolangatta-1501-1-3-douglas",
+          "title": "1501/1-3 Douglas Street",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00947",
+          "id": "qld-coolangatta-1102-2-creek",
+          "title": "1102/2 Creek Street",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00948",
+          "id": "qld-coolangatta-1-40-marine",
+          "title": "1/40 Marine Parade",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00953",
+          "id": "qld-coolangatta-503-110-marine",
+          "title": "503/110 Marine Parade",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00955",
+          "id": "nsw-new-brighton-7-esplanade",
+          "title": "7 The Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00956",
+          "id": "nsw-new-brighton-9-esplanade",
+          "title": "9 The Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00959",
+          "id": "nsw-byron-bay-38-childe",
+          "title": "38 Childe Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00960",
+          "id": "nsw-byron-bay-4-childe",
+          "title": "4 Childe Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00961",
+          "id": "nsw-byron-bay-27-marine",
+          "title": "27 Marine Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00963",
+          "id": "nsw-byron-bay-d1-62-64-lawson",
+          "title": "D1/62-64 Lawson Street",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00969",
+          "id": "nsw-byron-bay-2-26-cavvanbah",
+          "title": "2/26 Cavvanbah Street",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00972",
+          "id": "nsw-broken-head-24-951-broken-head",
+          "title": "24/951 Broken Head Road",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00973",
+          "id": "nsw-broken-head-248-seven-mile-beach",
+          "title": "248 Seven Mile Beach Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00974",
+          "id": "nsw-broken-head-9-951-broken-head",
+          "title": "9/951 Broken Head Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00983",
+          "id": "sa-nairne-19-chambers",
+          "title": "19 Chambers Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00984",
+          "id": "nsw-blue-bay-62-werrina",
+          "title": "62 Werrina Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00985",
+          "id": "nsw-blue-bay-7-120-122-ocean",
+          "title": "7/120-122 Ocean Parade",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00986",
+          "id": "nsw-blue-bay-7-110-112-ocean",
+          "title": "7/110-112 Ocean Parade",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00988",
+          "id": "nsw-blue-bay-8-werrina",
+          "title": "8 Werrina Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00989",
+          "id": "nsw-blue-bay-3-120-122-ocean",
+          "title": "3/120-122 Ocean Parade",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00990",
+          "id": "nsw-blue-bay-126-ocean",
+          "title": "126 Ocean Parade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00991",
+          "id": "nsw-blue-bay-7-107-109-ocean",
+          "title": "7/107-109 Ocean Parade",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00993",
+          "id": "nsw-terrigal-48-8-terrigal-esplanade",
+          "title": "48/8 Terrigal Esplanade",
+          "token": "021S",
+          "label": "$2.5m-$3m",
+          "price": 2750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00994",
+          "id": "nsw-terrigal-24-25-12-terrigal-esplanade",
+          "title": "24 & 25/12 Terrigal Esplanade",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00995",
+          "id": "nsw-terrigal-406-156d-terrigal",
+          "title": "406/156D Terrigal Drive",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00999",
+          "id": "nsw-kulnura-12-greta",
+          "title": "12 Greta Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01000",
+          "id": "nsw-pokolbin-353-oakey-creek",
+          "title": "353 Oakey Creek Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01002",
+          "id": "nsw-pokolbin-123-694-hermitage",
+          "title": "123, 694 Hermitage Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01005",
+          "id": "nsw-lovedale-442-talga",
+          "title": "442 Talga Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01006",
+          "id": "nsw-pokolbin-861-913-hermitage",
+          "title": "861 & 913 Hermitage Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01008",
+          "id": "nsw-calga-49-jones",
+          "title": "49 Jones Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01011",
+          "id": "nsw-the-oaks-580-montpelier",
+          "title": "580 Montpelier Drive",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01012",
+          "id": "nsw-mount-hunter-46-spring-creek",
+          "title": "46 Spring Creek Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01028",
+          "id": "vic-little-river-37-newtons",
+          "title": "37 Newtons Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01031",
+          "id": "vic-freshwater-creek-680-ghazeepore",
+          "title": "680 Ghazeepore Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01035",
+          "id": "sa-langhorne-creek-261-marandoo",
+          "title": "261 Marandoo Road",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01042",
+          "id": "sa-port-elliot-294-312-waterport",
+          "title": "294-312 Waterport Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01044",
+          "id": "nsw-manly-14-133-137-north-steyne",
+          "title": "14/133-137 North Steyne",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00695",
+          "id": "wa-lower-chittering-451-chittering-valley",
+          "title": "451 Chittering Valley Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00697",
+          "id": "wa-bullsbrook-73-strachan",
+          "title": "73 Strachan Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00698",
+          "id": "wa-muchea-32-propagation",
+          "title": "32 Propagation View",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00700",
+          "id": "wa-lower-chittering-lot-9017-mcglew",
+          "title": "Lot 9017, McGlew Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00702",
+          "id": "wa-gingin-lot-3119-brand",
+          "title": "Lot 3119 Brand Highway",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00704",
+          "id": "wa-bindoon-3101-bindoon-dewars-pool",
+          "title": "3101 Bindoon-Dewars Pool Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00706",
+          "id": "wa-beermullah-4-pin-pin",
+          "title": "4 Pin Pin Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00709",
+          "id": "wa-lennard-brook-227-cockram",
+          "title": "227 Cockram Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00711",
+          "id": "wa-gingin-arbusto-boston-park-sappers",
+          "title": "Arbusto and Boston Park avocado farm, Sappers Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00712",
+          "id": "wa-bindoon-169-gray",
+          "title": "169 Gray Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00716",
+          "id": "wa-toodyay-24-543-folewood",
+          "title": "24, 543 Folewood Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "00717",
+          "id": "wa-nunile-211-goomalling-toodyay",
+          "title": "211 Goomalling-Toodyay Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00731",
+          "id": "qld-belli-park-222-330-boyle",
+          "title": "222-330 Boyle Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00733",
+          "id": "qld-conondale-123-appaloosa",
+          "title": "123 Appaloosa Drive",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00735",
+          "id": "qld-yandina-creek-721-761-yandina-coolum",
+          "title": "721-761 Yandina-Coolum Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00736",
+          "id": "qld-coolabine-76-beacon-hill",
+          "title": "76 Beacon Hill Road",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00738",
+          "id": "qld-kin-kin-44-47-coucal",
+          "title": "44-47 Coucal Lane",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00740",
+          "id": "qld-peachester-492-river",
+          "title": "492 River Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00750",
+          "id": "qld-boyland-68-70-cherry-tree",
+          "title": "68-70 Cherry Tree Court",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00754",
+          "id": "qld-tallebudgera-valley-193-petsch-creek",
+          "title": "193 Petsch Creek Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00757",
+          "id": "qld-canungra-381-lamington-national-park",
+          "title": "381 Lamington National Park Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00758",
+          "id": "qld-boyland-486-mundoolun-connection",
+          "title": "486 Mundoolun Connection Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00762",
+          "id": "nsw-clothiers-creek-900-clothiers-creek",
+          "title": "900 Clothiers Creek Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00763",
+          "id": "nsw-piora-4411-bruxner",
+          "title": "4411 Bruxner Highway",
+          "price": 675000,
+          "label": "$600k-$750k",
+          "code": "010S"
+        },
+        {
+          "displayId": "00771",
+          "id": "nsw-wyrallah-26-wybelena",
+          "title": "26 Wybelena Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00772",
+          "id": "nsw-tuckombil-979-981-teven",
+          "title": "979-981 Teven Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00775",
+          "id": "nsw-mangrove-mountain-2047-wisemans-ferry",
+          "title": "2047 Wisemans Ferry Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00776",
+          "id": "nsw-tumbi-umbi-675-ridgeway",
+          "title": "675 The Ridgeway",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00777",
+          "id": "nsw-dooralong-1559-mandalong",
+          "title": "1559 Mandalong Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00782",
+          "id": "nsw-werombi-125-roberts",
+          "title": "125 Roberts Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00785",
+          "id": "nsw-mangrove-mountain-735-ironbark",
+          "title": "735 Ironbark Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00786",
+          "id": "nsw-yarramalong-1698-yarramalong",
+          "title": "1698 Yarramalong Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00789",
+          "id": "nsw-kulnura-35-walkers-ridge",
+          "title": "35 Walkers Ridge Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00793",
+          "id": "nsw-ellalong-155-q9",
+          "title": "155 Q9 Lane",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00794",
+          "id": "nsw-denman-516-rosemount",
+          "title": "516 Rosemount Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00799",
+          "id": "nsw-quorrobolong-1189-sandy-creek",
+          "title": "1189 Sandy Creek Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00800",
+          "id": "nsw-maitland-56-gillieston",
+          "title": "56 Gillieston Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00801",
+          "id": "nsw-pokolbin-223-deasys",
+          "title": "223 Deasys Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00832",
+          "id": "vic-portarlington-391-519-queenscliff",
+          "title": "391-519 Queenscliff Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00861",
+          "id": "vic-winchelsea-2585-princes",
+          "title": "2585 Princes Highway",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00863",
+          "id": "vic-mount-moriac-2125-barrabool",
+          "title": "2125 Barrabool Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00865",
+          "id": "qld-noosa-heads-7-1-hastings",
+          "title": "7/1 Hastings Street",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00868",
+          "id": "qld-noosa-heads-33-5-quamby",
+          "title": "33/5 Quamby Place",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00873",
+          "id": "qld-noosa-heads-9-40-hastings",
+          "title": "9/40 Hastings Street",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00877",
+          "id": "sa-kersbrook-103-sires-east",
+          "title": "103 Sires Road East",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00894",
+          "id": "qld-witta-lot-2-maleny-kenilworth",
+          "title": "LOT 2 Maleny Kenilworth Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00903",
+          "id": "qld-bokarina-245-oceanic",
+          "title": "245 Oceanic Drive",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00907",
+          "id": "qld-bokarina-2704-19-kombi",
+          "title": "2704/19 Kombi Street",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00913",
+          "id": "qld-golden-beach-1102-95-esplanade",
+          "title": "1102/95 Esplanade",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "00919",
+          "id": "qld-golden-beach-6-29-landsborough",
+          "title": "6/29 Landsborough Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00921",
+          "id": "sa-birdwood-83-burton",
+          "title": "83 Burton Road",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00922",
+          "id": "sa-charleston-lot-20-21-newman",
+          "title": "Lot 20 & 21 Newman Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00931",
+          "id": "qld-currumbin-1a-828-pacific",
+          "title": "1A/828 Pacific Parade",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00932",
+          "id": "qld-currumbin-2-828-pacific",
+          "title": "2/828 Pacific Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00937",
+          "id": "qld-coolangatta-402-60-marine",
+          "title": "402/60 Marine Parade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00938",
+          "id": "qld-coolangatta-209-2-creek",
+          "title": "209/2 Creek Street",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00942",
+          "id": "qld-coolangatta-82-70-80-marine",
+          "title": "82/70-80 Marine Parade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00945",
+          "id": "qld-coolangatta-301-275-boundary",
+          "title": "301/275 Boundary Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00946",
+          "id": "qld-coolangatta-1501-1-3-douglas",
+          "title": "1501/1-3 Douglas Street",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00947",
+          "id": "qld-coolangatta-1102-2-creek",
+          "title": "1102/2 Creek Street",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00948",
+          "id": "qld-coolangatta-1-40-marine",
+          "title": "1/40 Marine Parade",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00953",
+          "id": "qld-coolangatta-503-110-marine",
+          "title": "503/110 Marine Parade",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00955",
+          "id": "nsw-new-brighton-7-esplanade",
+          "title": "7 The Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00956",
+          "id": "nsw-new-brighton-9-esplanade",
+          "title": "9 The Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00959",
+          "id": "nsw-byron-bay-38-childe",
+          "title": "38 Childe Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00960",
+          "id": "nsw-byron-bay-4-childe",
+          "title": "4 Childe Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00961",
+          "id": "nsw-byron-bay-27-marine",
+          "title": "27 Marine Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00963",
+          "id": "nsw-byron-bay-d1-62-64-lawson",
+          "title": "D1/62-64 Lawson Street",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00969",
+          "id": "nsw-byron-bay-2-26-cavvanbah",
+          "title": "2/26 Cavvanbah Street",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "00972",
+          "id": "nsw-broken-head-24-951-broken-head",
+          "title": "24/951 Broken Head Road",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00973",
+          "id": "nsw-broken-head-248-seven-mile-beach",
+          "title": "248 Seven Mile Beach Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00974",
+          "id": "nsw-broken-head-9-951-broken-head",
+          "title": "9/951 Broken Head Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "00983",
+          "id": "sa-nairne-19-chambers",
+          "title": "19 Chambers Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00984",
+          "id": "nsw-blue-bay-62-werrina",
+          "title": "62 Werrina Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00985",
+          "id": "nsw-blue-bay-7-120-122-ocean",
+          "title": "7/120-122 Ocean Parade",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00986",
+          "id": "nsw-blue-bay-7-110-112-ocean",
+          "title": "7/110-112 Ocean Parade",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00988",
+          "id": "nsw-blue-bay-8-werrina",
+          "title": "8 Werrina Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00989",
+          "id": "nsw-blue-bay-3-120-122-ocean",
+          "title": "3/120-122 Ocean Parade",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "00990",
+          "id": "nsw-blue-bay-126-ocean",
+          "title": "126 Ocean Parade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "00991",
+          "id": "nsw-blue-bay-7-107-109-ocean",
+          "title": "7/107-109 Ocean Parade",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "00993",
+          "id": "nsw-terrigal-48-8-terrigal-esplanade",
+          "title": "48/8 Terrigal Esplanade",
+          "price": 2750000,
+          "label": "$2.5m-$3m",
+          "code": "021S"
+        },
+        {
+          "displayId": "00994",
+          "id": "nsw-terrigal-24-25-12-terrigal-esplanade",
+          "title": "24 & 25/12 Terrigal Esplanade",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "00995",
+          "id": "nsw-terrigal-406-156d-terrigal",
+          "title": "406/156D Terrigal Drive",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "00999",
+          "id": "nsw-kulnura-12-greta",
+          "title": "12 Greta Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01000",
+          "id": "nsw-pokolbin-353-oakey-creek",
+          "title": "353 Oakey Creek Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "01002",
+          "id": "nsw-pokolbin-123-694-hermitage",
+          "title": "123, 694 Hermitage Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01005",
+          "id": "nsw-lovedale-442-talga",
+          "title": "442 Talga Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01006",
+          "id": "nsw-pokolbin-861-913-hermitage",
+          "title": "861 & 913 Hermitage Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01008",
+          "id": "nsw-calga-49-jones",
+          "title": "49 Jones Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01011",
+          "id": "nsw-the-oaks-580-montpelier",
+          "title": "580 Montpelier Drive",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01012",
+          "id": "nsw-mount-hunter-46-spring-creek",
+          "title": "46 Spring Creek Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01028",
+          "id": "vic-little-river-37-newtons",
+          "title": "37 Newtons Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01031",
+          "id": "vic-freshwater-creek-680-ghazeepore",
+          "title": "680 Ghazeepore Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01035",
+          "id": "sa-langhorne-creek-261-marandoo",
+          "title": "261 Marandoo Road",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "01042",
+          "id": "sa-port-elliot-294-312-waterport",
+          "title": "294-312 Waterport Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T07:44:59.400Z",
+      "batchSize": 120,
+      "pageWaitMs": 4500,
+      "results": [
+        {
+          "displayId": "01045",
+          "id": "nsw-manly-42-north-steyne",
+          "title": "42 North Steyne",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01048",
+          "id": "nsw-manly-3-105-107-north-steyne",
+          "title": "3/105-107 North Steyne",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01054",
+          "id": "nsw-manly-23-east-esplanade",
+          "title": "23 East Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01055",
+          "id": "nsw-manly-3-112-north-steyne",
+          "title": "3/112 North Steyne",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01062",
+          "id": "nsw-manly-212-54a-west-esplanade",
+          "title": "212/54A West Esplanade",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01063",
+          "id": "nsw-manly-4-45-the-crescent",
+          "title": "4/45 The Crescent",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01064",
+          "id": "nsw-cronulla-69-69a-the-esplanade",
+          "title": "69 & 69A The Esplanade",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01065",
+          "id": "nsw-cronulla-85-the-esplanade",
+          "title": "85 The Esplanade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01066",
+          "id": "nsw-cronulla-92-the-esplanade",
+          "title": "92 The Esplanade",
+          "token": "",
+          "label": "",
+          "price": 0,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01067",
+          "id": "nsw-cronulla-704-4-6-boorima",
+          "title": "704/4-6 Boorima Place",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01068",
+          "id": "nsw-cronulla-801-47-57-gerrale",
+          "title": "801/47-57 Gerrale Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01069",
+          "id": "nsw-cronulla-306-47-57-gerrale",
+          "title": "306/47-57 Gerrale Street",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01072",
+          "id": "nsw-cronulla-25-darook-park",
+          "title": "25 Darook Park Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01073",
+          "id": "nsw-cronulla-202-79-gerrale",
+          "title": "202/79 Gerrale Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01074",
+          "id": "nsw-cronulla-601-79-gerrale",
+          "title": "601/79 Gerrale Street",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01076",
+          "id": "nsw-cronulla-607-47-57-gerrale",
+          "title": "607/47-57 Gerrale St Street",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01077",
+          "id": "nsw-cronulla-501-47-57-gerrale",
+          "title": "501/47-57 Gerrale Street",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01078",
+          "id": "nsw-cronulla-302-47-57-gerrale-st",
+          "title": "302/47-57 Gerrale St",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01080",
+          "id": "nsw-wollongong-9-48-50-cliff",
+          "title": "9/48-50 Cliff Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01081",
+          "id": "nsw-wollongong-7-28-cliff",
+          "title": "7/28 Cliff Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01085",
+          "id": "nsw-barrack-point-31-junction",
+          "title": "31 Junction Road",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01087",
+          "id": "nsw-barrack-point-12-beach",
+          "title": "12 Beach Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01090",
+          "id": "nsw-barrack-point-25-cliff",
+          "title": "25 Cliff Avenue",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01107",
+          "id": "nsw-broke-1066-wollombi",
+          "title": "1066 Wollombi Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01108",
+          "id": "nsw-dalwood-232c-fernhill",
+          "title": "232C Fernhill Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01109",
+          "id": "nsw-laguna-281-watagan-creek",
+          "title": "281 Watagan Creek Rd",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01111",
+          "id": "nsw-martinsville-56-kemp",
+          "title": "56 Kemp Lane",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01112",
+          "id": "nsw-pokolbin-463-deasys",
+          "title": "463 Deasys Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01119",
+          "id": "nsw-yarramalong-3-rose-hill",
+          "title": "3 Rose Hill Lane",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01182",
+          "id": "qld-beechmont-618-binna-burra",
+          "title": "618 Binna Burra Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01186",
+          "id": "qld-illinbah-248-illinbah",
+          "title": "248 Illinbah Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01193",
+          "id": "sa-victor-harbor-16-145-147-hindmarsh",
+          "title": "16/145-147 Hindmarsh Road",
+          "token": "014S",
+          "label": "$750k-$1m",
+          "price": 875000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01196",
+          "id": "nsw-bowral-1211-old-south",
+          "title": "1211 Old South Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01199",
+          "id": "nsw-sutton-forest-7361-illawarra",
+          "title": "7361 Illawarra Highway",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01202",
+          "id": "nsw-exeter-632-old-argyle",
+          "title": "632 Old Argyle Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01203",
+          "id": "nsw-exeter-506-old-argyle",
+          "title": "506 Old Argyle Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01204",
+          "id": "nsw-moss-vale-542-nowra",
+          "title": "542 Nowra Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01205",
+          "id": "nsw-robertson-188-fountaindale",
+          "title": "188 Fountaindale Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01207",
+          "id": "vic-lara-1040-bacchus-marsh",
+          "title": "1040 Bacchus Marsh Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01208",
+          "id": "vic-lara-address-127071774",
+          "title": "Address available on request",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01219",
+          "id": "sa-clare-329-barinia",
+          "title": "329 Barinia Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01222",
+          "id": "nsw-clunes-79-johnston",
+          "title": "79 Johnston Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01225",
+          "id": "nsw-cumbalum-103-cumbalum",
+          "title": "103 Cumbalum Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01228",
+          "id": "nsw-brunswick-heads-73-bashforths",
+          "title": "73 Bashforths Lane",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01229",
+          "id": "nsw-dungarubba-354-broadwater",
+          "title": "354 Broadwater Road",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01242",
+          "id": "nsw-putty-190-burnt-arm",
+          "title": "190 Burnt Arm Road",
+          "token": "017S",
+          "label": "$1m-$1.5m",
+          "price": 1250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01248",
+          "id": "sa-woodside-70-scottsburn",
+          "title": "70 Scottsburn Road",
+          "token": "026S",
+          "label": "$4.5m-$5m",
+          "price": 4750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01250",
+          "id": "qld-kidaman-creek-119-perrys",
+          "title": "119 Perrys Road",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01256",
+          "id": "vic-barrabool-80-devon",
+          "title": "80 Devon Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01261",
+          "id": "sa-senior-2090-2210-senior",
+          "title": "2090 & 2210 Senior Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01264",
+          "id": "sa-cape-douglas-1052-meyers",
+          "title": "1052 Meyers Road",
+          "token": "018S",
+          "label": "$1.5m-$2m",
+          "price": 1750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01271",
+          "id": "wa-witchcliffe-10530-bussell",
+          "title": "10530 Bussell Highway",
+          "token": "025S",
+          "label": "$4m-$4.5m",
+          "price": 4250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01282",
+          "id": "qld-maroochydore-14-aerodrome",
+          "title": "14 Aerodrome Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01284",
+          "id": "qld-maroochydore-62-62-sixth",
+          "title": "62/62-66 Sixth Avenue",
+          "token": "024S",
+          "label": "$3.5m-$4m",
+          "price": 3750000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01290",
+          "id": "qld-canungra-263-darlington-range",
+          "title": "263 Darlington Range Road",
+          "token": "020S",
+          "label": "$2m-$2.5m",
+          "price": 2250000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01293",
+          "id": "qld-benobble-2567-beaudesert-nerang",
+          "title": "2567 Beaudesert Nerang Road",
+          "token": "027S",
+          "label": "$5m+",
+          "price": 5000000,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01297",
+          "id": "nsw-upper-crystal-creek-192-booka",
+          "title": "192 Booka Road",
+          "token": "022S",
+          "label": "$3m-$3.5m",
+          "price": 3250000,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01045",
+          "id": "nsw-manly-42-north-steyne",
+          "title": "42 North Steyne",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01054",
+          "id": "nsw-manly-23-east-esplanade",
+          "title": "23 East Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01055",
+          "id": "nsw-manly-3-112-north-steyne",
+          "title": "3/112 North Steyne",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01062",
+          "id": "nsw-manly-212-54a-west-esplanade",
+          "title": "212/54A West Esplanade",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "01063",
+          "id": "nsw-manly-4-45-the-crescent",
+          "title": "4/45 The Crescent",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01064",
+          "id": "nsw-cronulla-69-69a-the-esplanade",
+          "title": "69 & 69A The Esplanade",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01067",
+          "id": "nsw-cronulla-704-4-6-boorima",
+          "title": "704/4-6 Boorima Place",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01068",
+          "id": "nsw-cronulla-801-47-57-gerrale",
+          "title": "801/47-57 Gerrale Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01069",
+          "id": "nsw-cronulla-306-47-57-gerrale",
+          "title": "306/47-57 Gerrale Street",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01072",
+          "id": "nsw-cronulla-25-darook-park",
+          "title": "25 Darook Park Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01073",
+          "id": "nsw-cronulla-202-79-gerrale",
+          "title": "202/79 Gerrale Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01074",
+          "id": "nsw-cronulla-601-79-gerrale",
+          "title": "601/79 Gerrale Street",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01076",
+          "id": "nsw-cronulla-607-47-57-gerrale",
+          "title": "607/47-57 Gerrale St Street",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "01077",
+          "id": "nsw-cronulla-501-47-57-gerrale",
+          "title": "501/47-57 Gerrale Street",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "01078",
+          "id": "nsw-cronulla-302-47-57-gerrale-st",
+          "title": "302/47-57 Gerrale St",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01080",
+          "id": "nsw-wollongong-9-48-50-cliff",
+          "title": "9/48-50 Cliff Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01081",
+          "id": "nsw-wollongong-7-28-cliff",
+          "title": "7/28 Cliff Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01085",
+          "id": "nsw-barrack-point-31-junction",
+          "title": "31 Junction Road",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "01087",
+          "id": "nsw-barrack-point-12-beach",
+          "title": "12 Beach Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01090",
+          "id": "nsw-barrack-point-25-cliff",
+          "title": "25 Cliff Avenue",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "01107",
+          "id": "nsw-broke-1066-wollombi",
+          "title": "1066 Wollombi Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01108",
+          "id": "nsw-dalwood-232c-fernhill",
+          "title": "232C Fernhill Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01109",
+          "id": "nsw-laguna-281-watagan-creek",
+          "title": "281 Watagan Creek Rd",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "01111",
+          "id": "nsw-martinsville-56-kemp",
+          "title": "56 Kemp Lane",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01112",
+          "id": "nsw-pokolbin-463-deasys",
+          "title": "463 Deasys Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "01119",
+          "id": "nsw-yarramalong-3-rose-hill",
+          "title": "3 Rose Hill Lane",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01182",
+          "id": "qld-beechmont-618-binna-burra",
+          "title": "618 Binna Burra Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01186",
+          "id": "qld-illinbah-248-illinbah",
+          "title": "248 Illinbah Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01193",
+          "id": "sa-victor-harbor-16-145-147-hindmarsh",
+          "title": "16/145-147 Hindmarsh Road",
+          "price": 875000,
+          "label": "$750k-$1m",
+          "code": "014S"
+        },
+        {
+          "displayId": "01196",
+          "id": "nsw-bowral-1211-old-south",
+          "title": "1211 Old South Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01199",
+          "id": "nsw-sutton-forest-7361-illawarra",
+          "title": "7361 Illawarra Highway",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01202",
+          "id": "nsw-exeter-632-old-argyle",
+          "title": "632 Old Argyle Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01203",
+          "id": "nsw-exeter-506-old-argyle",
+          "title": "506 Old Argyle Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01204",
+          "id": "nsw-moss-vale-542-nowra",
+          "title": "542 Nowra Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01205",
+          "id": "nsw-robertson-188-fountaindale",
+          "title": "188 Fountaindale Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01207",
+          "id": "vic-lara-1040-bacchus-marsh",
+          "title": "1040 Bacchus Marsh Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01208",
+          "id": "vic-lara-address-127071774",
+          "title": "Address available on request",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01219",
+          "id": "sa-clare-329-barinia",
+          "title": "329 Barinia Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01222",
+          "id": "nsw-clunes-79-johnston",
+          "title": "79 Johnston Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01225",
+          "id": "nsw-cumbalum-103-cumbalum",
+          "title": "103 Cumbalum Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        },
+        {
+          "displayId": "01228",
+          "id": "nsw-brunswick-heads-73-bashforths",
+          "title": "73 Bashforths Lane",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01229",
+          "id": "nsw-dungarubba-354-broadwater",
+          "title": "354 Broadwater Road",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01242",
+          "id": "nsw-putty-190-burnt-arm",
+          "title": "190 Burnt Arm Road",
+          "price": 1250000,
+          "label": "$1m-$1.5m",
+          "code": "017S"
+        },
+        {
+          "displayId": "01248",
+          "id": "sa-woodside-70-scottsburn",
+          "title": "70 Scottsburn Road",
+          "price": 4750000,
+          "label": "$4.5m-$5m",
+          "code": "026S"
+        },
+        {
+          "displayId": "01250",
+          "id": "qld-kidaman-creek-119-perrys",
+          "title": "119 Perrys Road",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "01256",
+          "id": "vic-barrabool-80-devon",
+          "title": "80 Devon Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01261",
+          "id": "sa-senior-2090-2210-senior",
+          "title": "2090 & 2210 Senior Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01264",
+          "id": "sa-cape-douglas-1052-meyers",
+          "title": "1052 Meyers Road",
+          "price": 1750000,
+          "label": "$1.5m-$2m",
+          "code": "018S"
+        },
+        {
+          "displayId": "01271",
+          "id": "wa-witchcliffe-10530-bussell",
+          "title": "10530 Bussell Highway",
+          "price": 4250000,
+          "label": "$4m-$4.5m",
+          "code": "025S"
+        },
+        {
+          "displayId": "01282",
+          "id": "qld-maroochydore-14-aerodrome",
+          "title": "14 Aerodrome Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01284",
+          "id": "qld-maroochydore-62-62-sixth",
+          "title": "62/62-66 Sixth Avenue",
+          "price": 3750000,
+          "label": "$3.5m-$4m",
+          "code": "024S"
+        },
+        {
+          "displayId": "01290",
+          "id": "qld-canungra-263-darlington-range",
+          "title": "263 Darlington Range Road",
+          "price": 2250000,
+          "label": "$2m-$2.5m",
+          "code": "020S"
+        },
+        {
+          "displayId": "01293",
+          "id": "qld-benobble-2567-beaudesert-nerang",
+          "title": "2567 Beaudesert Nerang Road",
+          "price": 5000000,
+          "label": "$5m+",
+          "code": "027S"
+        },
+        {
+          "displayId": "01297",
+          "id": "nsw-upper-crystal-creek-192-booka",
+          "title": "192 Booka Road",
+          "price": 3250000,
+          "label": "$3m-$3.5m",
+          "code": "022S"
+        }
+      ]
+    }
+  ]
+}

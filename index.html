@@ -26,7 +26,10 @@
         <div class="mode-toggle" aria-label="Search mode">
           <button id="beachModeButton" class="mode-button active" type="button">Beach Properties</button>
           <button id="largeModeButton" class="mode-button" type="button">Large Properties</button>
-          <button id="customModeButton" class="mode-button" type="button">Custom X Factor</button>
+          <div id="customModeMenu" class="custom-mode-menu">
+            <button id="customModeButton" class="mode-button" type="button" aria-haspopup="true" aria-expanded="false">Custom X Factor</button>
+            <div id="customSavedDropdown" class="custom-saved-dropdown" role="menu" aria-label="Saved custom X Factor searches"></div>
+          </div>
         </div>
       </div>
     </div>
@@ -68,8 +71,13 @@
       </div>
       <div id="customXFactorOptions" class="custom-xfactor-options"></div>
       <div class="custom-xfactor-footer">
+        <label class="custom-xfactor-name" for="customXFactorNameInput">
+          <span>Name</span>
+          <input id="customXFactorNameInput" type="text" maxlength="48" placeholder="e.g. Best beach value">
+        </label>
         <span id="customXFactorCount">0 selected</span>
         <button id="clearCustomXFactorButton" class="icon-button" type="button">Clear</button>
+        <button id="saveCustomXFactorButton" class="icon-button" type="button">Save search</button>
         <button id="applyCustomXFactorButton" type="button">Use custom X Factor</button>
       </div>
     </div>
@@ -94,18 +102,20 @@
                 <tr>
                   <th>Picture 1</th>
                   <th>Picture 2</th>
+                  <th>Map</th>
                   <th>ID</th>
                   <th>State</th>
                   <th>Address</th>
-                  <th>X Factor value</th>
+                  <th>X Factor</th>
                   <th>Price</th>
                   <th>$ per sqm</th>
-                  <th>Mins to City</th>
-                  <th>Land Size Sqm</th>
+                  <th>City mins</th>
+                  <th>Land sqm</th>
                 </tr>
                 <tr class="filter-row">
                   <th aria-label="Picture 1"></th>
                   <th aria-label="Picture 2"></th>
+                  <th aria-label="Map"></th>
                   <th>
                     <select id="idColumnFilter">
                       <option value="all">All IDs</option>

@@ -13979,6 +13979,3801 @@
         }
       ],
       "patched": []
+    },
+    {
+      "updatedAt": "2026-05-13T09:46:19.197Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-tugun-43-oconnor",
+        "qld-tugun-9-1-sea",
+        "qld-tugun-1-389-golden-four",
+        "qld-tugun-402-321-golden-four",
+        "qld-tugun-3-18-20-oconnor",
+        "qld-tugun-5-355-golden-four",
+        "qld-tugun-19-teemangum",
+        "qld-tugun-29-527-gold-coast-highway"
+      ],
+      "results": [
+        {
+          "displayId": "00459",
+          "id": "qld-tugun-43-oconnor",
+          "title": "43 O'Connor Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00460",
+          "id": "qld-tugun-9-1-sea",
+          "title": "9/1 Sea Street",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00461",
+          "id": "qld-tugun-1-389-golden-four",
+          "title": "1/389 Golden Four Drive",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00462",
+          "id": "qld-tugun-402-321-golden-four",
+          "title": "402/321 Golden Four Drive",
+          "imageCount": 26,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00463",
+          "id": "qld-tugun-3-18-20-oconnor",
+          "title": "3/18-20 O'Connor Street",
+          "imageCount": 26,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00464",
+          "id": "qld-tugun-5-355-golden-four",
+          "title": "5/355 Golden Four Drive",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00465",
+          "id": "qld-tugun-19-teemangum",
+          "title": "19 Teemangum Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00466",
+          "id": "qld-tugun-29-527-gold-coast-highway",
+          "title": "29/527 Gold Coast Highway",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00459",
+          "id": "qld-tugun-43-oconnor",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00460",
+          "id": "qld-tugun-9-1-sea",
+          "images": 20
+        },
+        {
+          "displayId": "00461",
+          "id": "qld-tugun-1-389-golden-four",
+          "images": 36
+        },
+        {
+          "displayId": "00462",
+          "id": "qld-tugun-402-321-golden-four",
+          "images": 27
+        },
+        {
+          "displayId": "00463",
+          "id": "qld-tugun-3-18-20-oconnor",
+          "images": 27
+        },
+        {
+          "displayId": "00464",
+          "id": "qld-tugun-5-355-golden-four",
+          "images": 22
+        },
+        {
+          "displayId": "00465",
+          "id": "qld-tugun-19-teemangum",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00466",
+          "id": "qld-tugun-29-527-gold-coast-highway",
+          "images": 26
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T10:00:09.019Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-bilinga-5-102-pacific",
+        "qld-bilinga-4-241-golden-four",
+        "qld-bilinga-5-202-pacific",
+        "qld-bilinga-14-261-golden-four",
+        "qld-bilinga-3-60-pacific"
+      ],
+      "results": [
+        {
+          "displayId": "00455",
+          "id": "qld-bilinga-5-102-pacific",
+          "title": "5/102 Pacific Parade",
+          "imageCount": 32,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00456",
+          "id": "qld-bilinga-4-241-golden-four",
+          "title": "4/241 Golden Four Drive",
+          "imageCount": 22,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00457",
+          "id": "qld-bilinga-5-202-pacific",
+          "title": "5/202 Pacific Parade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00458",
+          "id": "qld-bilinga-14-261-golden-four",
+          "title": "14/261-263 Golden Four Drive",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00459",
+          "id": "qld-bilinga-3-60-pacific",
+          "title": "3/60 Pacific Parade",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00455",
+          "id": "qld-bilinga-5-102-pacific",
+          "images": 32
+        },
+        {
+          "displayId": "00456",
+          "id": "qld-bilinga-4-241-golden-four",
+          "images": 22
+        },
+        {
+          "displayId": "00457",
+          "id": "qld-bilinga-5-202-pacific",
+          "images": 8
+        },
+        {
+          "displayId": "00458",
+          "id": "qld-bilinga-14-261-golden-four",
+          "images": 7
+        },
+        {
+          "displayId": "00459",
+          "id": "qld-bilinga-3-60-pacific",
+          "images": 15
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T10:16:13.120Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-coolangatta-1501-1-3-douglas",
+        "qld-coolangatta-1102-2-creek",
+        "qld-coolangatta-1-40-marine",
+        "qld-coolangatta-003-2-8-creek",
+        "qld-coolangatta-6-coyne",
+        "qld-coolangatta-311-313-99-griffith",
+        "qld-coolangatta-202-110-marine",
+        "qld-coolangatta-503-110-marine"
+      ],
+      "results": [
+        {
+          "displayId": "00850",
+          "id": "qld-coolangatta-1501-1-3-douglas",
+          "title": "1501/1-3 Douglas Street",
+          "imageCount": 33,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00851",
+          "id": "qld-coolangatta-1102-2-creek",
+          "title": "1102/2 Creek Street",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00852",
+          "id": "qld-coolangatta-1-40-marine",
+          "title": "1/40 Marine Parade",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00853",
+          "id": "qld-coolangatta-003-2-8-creek",
+          "title": "003/2-8 Creek Street",
+          "imageCount": 24,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00854",
+          "id": "qld-coolangatta-6-coyne",
+          "title": "6 Coyne Street",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00855",
+          "id": "qld-coolangatta-311-313-99-griffith",
+          "title": "311-313/99 Griffith Street 'Calypso'",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00856",
+          "id": "qld-coolangatta-202-110-marine",
+          "title": "202/110 Marine Parade",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00857",
+          "id": "qld-coolangatta-503-110-marine",
+          "title": "503/110 Marine Parade",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00850",
+          "id": "qld-coolangatta-1501-1-3-douglas",
+          "images": 33
+        },
+        {
+          "displayId": "00851",
+          "id": "qld-coolangatta-1102-2-creek",
+          "images": 35
+        },
+        {
+          "displayId": "00852",
+          "id": "qld-coolangatta-1-40-marine",
+          "images": 16
+        },
+        {
+          "displayId": "00853",
+          "id": "qld-coolangatta-003-2-8-creek",
+          "images": 24
+        },
+        {
+          "displayId": "00854",
+          "id": "qld-coolangatta-6-coyne",
+          "images": 35
+        },
+        {
+          "displayId": "00855",
+          "id": "qld-coolangatta-311-313-99-griffith",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00856",
+          "id": "qld-coolangatta-202-110-marine",
+          "images": 13
+        },
+        {
+          "displayId": "00857",
+          "id": "qld-coolangatta-503-110-marine",
+          "images": 12
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T10:32:36.883Z",
+      "batchSize": 10,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-kingscliff-67b-cylinders",
+        "nsw-kingscliff-67c-cylinders",
+        "nsw-kingscliff-5-9-11-murphys",
+        "nsw-kingscliff-23-north-point",
+        "nsw-kingscliff-8-north-point",
+        "nsw-kingscliff-2-206-marine",
+        "nsw-kingscliff-4-264-marine",
+        "nsw-kingscliff-2-274-276-marine",
+        "nsw-kingscliff-7214-9-gunnamatta",
+        "nsw-kingscliff-4224-1-9-gunnamatta"
+      ],
+      "results": [
+        {
+          "displayId": "00044",
+          "id": "nsw-kingscliff-67b-cylinders",
+          "title": "67B Cylinders Dr",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00045",
+          "id": "nsw-kingscliff-67c-cylinders",
+          "title": "67C Cylinders Drive",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00046",
+          "id": "nsw-kingscliff-5-9-11-murphys",
+          "title": "5/9-11 Murphys Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00047",
+          "id": "nsw-kingscliff-23-north-point",
+          "title": "23 North Point Avenue",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00048",
+          "id": "nsw-kingscliff-8-north-point",
+          "title": "8 North Point Avenue",
+          "imageCount": 32,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00049",
+          "id": "nsw-kingscliff-2-206-marine",
+          "title": "2/206 Marine Parade",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00050",
+          "id": "nsw-kingscliff-4-264-marine",
+          "title": "4/264 Marine Parade",
+          "imageCount": 31,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00051",
+          "id": "nsw-kingscliff-2-274-276-marine",
+          "title": "2/274 - 276 Marine Parade",
+          "imageCount": 20,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00052",
+          "id": "nsw-kingscliff-7214-9-gunnamatta",
+          "title": "7214/9 Gunnamatta Avenue",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00053",
+          "id": "nsw-kingscliff-4224-1-9-gunnamatta",
+          "title": "4224/1-9 Gunnamatta Avenue",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00044",
+          "id": "nsw-kingscliff-67b-cylinders",
+          "images": 17
+        },
+        {
+          "displayId": "00045",
+          "id": "nsw-kingscliff-67c-cylinders",
+          "images": 4
+        },
+        {
+          "displayId": "00046",
+          "id": "nsw-kingscliff-5-9-11-murphys",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00047",
+          "id": "nsw-kingscliff-23-north-point",
+          "images": 35
+        },
+        {
+          "displayId": "00048",
+          "id": "nsw-kingscliff-8-north-point",
+          "images": 32
+        },
+        {
+          "displayId": "00049",
+          "id": "nsw-kingscliff-2-206-marine",
+          "images": 17
+        },
+        {
+          "displayId": "00050",
+          "id": "nsw-kingscliff-4-264-marine",
+          "images": 31
+        },
+        {
+          "displayId": "00051",
+          "id": "nsw-kingscliff-2-274-276-marine",
+          "images": 20
+        },
+        {
+          "displayId": "00052",
+          "id": "nsw-kingscliff-7214-9-gunnamatta",
+          "images": 21
+        },
+        {
+          "displayId": "00053",
+          "id": "nsw-kingscliff-4224-1-9-gunnamatta",
+          "images": 21
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T10:41:56.591Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-cabarita-002-10-cypress",
+        "nsw-cabarita-004-10-cypress",
+        "nsw-cabarita-105-10-cypress"
+      ],
+      "results": [
+        {
+          "displayId": "01161",
+          "id": "nsw-cabarita-002-10-cypress",
+          "title": "002/10 Cypress Crescent",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01162",
+          "id": "nsw-cabarita-004-10-cypress",
+          "title": "004/10 Cypress Crescent",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01163",
+          "id": "nsw-cabarita-105-10-cypress",
+          "title": "105/10 Cypress Crescent",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01161",
+          "id": "nsw-cabarita-002-10-cypress",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01162",
+          "id": "nsw-cabarita-004-10-cypress",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01163",
+          "id": "nsw-cabarita-105-10-cypress",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T10:48:08.801Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-pottsville-20-elanora",
+        "nsw-pottsville-5-7-9-elanora",
+        "nsw-pottsville-6-7-9-elanora",
+        "nsw-pottsville-7-7-9-elanora"
+      ],
+      "results": [
+        {
+          "displayId": "00167",
+          "id": "nsw-pottsville-20-elanora",
+          "title": "20 Elanora Avenue",
+          "imageCount": 33,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00168",
+          "id": "nsw-pottsville-5-7-9-elanora",
+          "title": "5/7-9 Elanora Avenue",
+          "imageCount": 27,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00169",
+          "id": "nsw-pottsville-6-7-9-elanora",
+          "title": "6/7-9 Elanora Avenue",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00170",
+          "id": "nsw-pottsville-7-7-9-elanora",
+          "title": "7/7-9 Elanora Avenue",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00167",
+          "id": "nsw-pottsville-20-elanora",
+          "images": 34
+        },
+        {
+          "displayId": "00168",
+          "id": "nsw-pottsville-5-7-9-elanora",
+          "images": 28
+        },
+        {
+          "displayId": "00169",
+          "id": "nsw-pottsville-6-7-9-elanora",
+          "images": 36
+        },
+        {
+          "displayId": "00170",
+          "id": "nsw-pottsville-7-7-9-elanora",
+          "images": 8
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T11:04:10.366Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-byron-bay-94-lawson",
+        "nsw-byron-bay-7-37-childe",
+        "nsw-byron-bay-2-26-cavvanbah",
+        "nsw-byron-bay-5-coral",
+        "nsw-byron-bay-007-29-shirley"
+      ],
+      "results": [
+        {
+          "displayId": "00885",
+          "id": "nsw-byron-bay-94-lawson",
+          "title": "94 Lawson Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00886",
+          "id": "nsw-byron-bay-7-37-childe",
+          "title": "7/37 Childe Street",
+          "imageCount": 27,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00887",
+          "id": "nsw-byron-bay-2-26-cavvanbah",
+          "title": "2/26 Cavvanbah Street",
+          "imageCount": 27,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00888",
+          "id": "nsw-byron-bay-5-coral",
+          "title": "5 Coral Court",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00889",
+          "id": "nsw-byron-bay-007-29-shirley",
+          "title": "007/29 Shirley Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00885",
+          "id": "nsw-byron-bay-94-lawson",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00886",
+          "id": "nsw-byron-bay-7-37-childe",
+          "images": 30
+        },
+        {
+          "displayId": "00887",
+          "id": "nsw-byron-bay-2-26-cavvanbah",
+          "images": 27
+        },
+        {
+          "displayId": "00888",
+          "id": "nsw-byron-bay-5-coral",
+          "images": 25
+        },
+        {
+          "displayId": "00889",
+          "id": "nsw-byron-bay-007-29-shirley",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-13T11:17:25.121Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-lennox-head-1-16-rayner",
+        "nsw-lennox-head-16-rayner"
+      ],
+      "results": [
+        {
+          "displayId": "00896",
+          "id": "nsw-lennox-head-1-16-rayner",
+          "title": "1/16 Rayner Lane",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00897",
+          "id": "nsw-lennox-head-16-rayner",
+          "title": "16 Rayner Lane",
+          "imageCount": 0,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "no-images"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00896",
+          "id": "nsw-lennox-head-1-16-rayner",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T04:39:32.054Z",
+      "batchSize": 6,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-yamba-5b-dunes",
+        "nsw-yamba-4a-dunes",
+        "nsw-yamba-2-7-pacific",
+        "nsw-yamba-2-2-18-19-pacific",
+        "nsw-yamba-9-20-pacific",
+        "nsw-yamba-2-4-queen"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "nsw-yamba-5b-dunes",
+          "title": "5B Dunes Court",
+          "imageCount": 8,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00002",
+          "id": "nsw-yamba-4a-dunes",
+          "title": "4A Dunes Court",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00003",
+          "id": "nsw-yamba-2-7-pacific",
+          "title": "2/7 Pacific Parade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00004",
+          "id": "nsw-yamba-2-2-18-19-pacific",
+          "title": "2-2/18-19 Pacific Parade",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00005",
+          "id": "nsw-yamba-9-20-pacific",
+          "title": "9/20 Pacific Parade",
+          "imageCount": 29,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00006",
+          "id": "nsw-yamba-2-4-queen",
+          "title": "2/4 Queen Street",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00001",
+          "id": "nsw-yamba-5b-dunes",
+          "images": 8
+        },
+        {
+          "displayId": "00002",
+          "id": "nsw-yamba-4a-dunes",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00003",
+          "id": "nsw-yamba-2-7-pacific",
+          "images": 14
+        },
+        {
+          "displayId": "00004",
+          "id": "nsw-yamba-2-2-18-19-pacific",
+          "images": 16
+        },
+        {
+          "displayId": "00005",
+          "id": "nsw-yamba-9-20-pacific",
+          "images": 29
+        },
+        {
+          "displayId": "00006",
+          "id": "nsw-yamba-2-4-queen",
+          "images": 25
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T04:44:55.484Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-brooms-head-13-ocean"
+      ],
+      "results": [
+        {
+          "displayId": "00236",
+          "id": "nsw-brooms-head-13-ocean",
+          "title": "13 Ocean Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00236",
+          "id": "nsw-brooms-head-13-ocean",
+          "images": 8
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T05:27:40.927Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-conondale-380-eastern-mary-river",
+        "qld-conondale-123-appaloosa",
+        "qld-bald-knob-879-bald-knob"
+      ],
+      "results": [
+        {
+          "displayId": "00665",
+          "id": "qld-conondale-380-eastern-mary-river",
+          "title": "380 Eastern Mary River Road",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00666",
+          "id": "qld-conondale-123-appaloosa",
+          "title": "123 Appaloosa Drive",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00667",
+          "id": "qld-bald-knob-879-bald-knob",
+          "title": "879 Bald Knob Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00665",
+          "id": "qld-conondale-380-eastern-mary-river",
+          "images": 25
+        },
+        {
+          "displayId": "00666",
+          "id": "qld-conondale-123-appaloosa",
+          "images": 35
+        },
+        {
+          "displayId": "00667",
+          "id": "qld-bald-knob-879-bald-knob",
+          "images": 7
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T05:46:45.405Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-canungra-263-darlington-range",
+        "qld-beechmont-1531-beechmont",
+        "qld-biddaddaba-177-armstrong",
+        "qld-benobble-2567-beaudesert-nerang",
+        "qld-biddaddaba-611-biddaddaba-creek"
+      ],
+      "results": [
+        {
+          "displayId": "01185",
+          "id": "qld-canungra-263-darlington-range",
+          "title": "263 Darlington Range Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01186",
+          "id": "qld-beechmont-1531-beechmont",
+          "title": "1531 Beechmont Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01187",
+          "id": "qld-biddaddaba-177-armstrong",
+          "title": "177 Armstrong Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01188",
+          "id": "qld-benobble-2567-beaudesert-nerang",
+          "title": "2567 Beaudesert Nerang Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01189",
+          "id": "qld-biddaddaba-611-biddaddaba-creek",
+          "title": "611 Biddaddaba Creek Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01185",
+          "id": "qld-canungra-263-darlington-range",
+          "images": 35
+        },
+        {
+          "displayId": "01186",
+          "id": "qld-beechmont-1531-beechmont",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01187",
+          "id": "qld-biddaddaba-177-armstrong",
+          "images": 35
+        },
+        {
+          "displayId": "01188",
+          "id": "qld-benobble-2567-beaudesert-nerang",
+          "images": 35
+        },
+        {
+          "displayId": "01189",
+          "id": "qld-biddaddaba-611-biddaddaba-creek",
+          "images": 7
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T05:54:19.245Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-forster-601-28-32-north",
+        "nsw-forster-4-2-6-north",
+        "nsw-forster-29-8-12-north",
+        "nsw-forster-sunhaven-11-13-underwood",
+        "nsw-forster-10-1-5-beach"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "nsw-forster-601-28-32-north",
+          "title": "601/28-32 North Street",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00002",
+          "id": "nsw-forster-4-2-6-north",
+          "title": "4/2-6 North Street",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00003",
+          "id": "nsw-forster-29-8-12-north",
+          "title": "29/8-12 North Street",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00004",
+          "id": "nsw-forster-sunhaven-11-13-underwood",
+          "title": "Sunhaven/11-13 Underwood Road",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00005",
+          "id": "nsw-forster-10-1-5-beach",
+          "title": "10/1-5 Beach Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00001",
+          "id": "nsw-forster-601-28-32-north",
+          "images": 17
+        },
+        {
+          "displayId": "00002",
+          "id": "nsw-forster-4-2-6-north",
+          "images": 15
+        },
+        {
+          "displayId": "00003",
+          "id": "nsw-forster-29-8-12-north",
+          "images": 18
+        },
+        {
+          "displayId": "00004",
+          "id": "nsw-forster-sunhaven-11-13-underwood",
+          "images": 26
+        },
+        {
+          "displayId": "00005",
+          "id": "nsw-forster-10-1-5-beach",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T05:59:46.657Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-stockton-245-mitchell"
+      ],
+      "results": [
+        {
+          "displayId": "00244",
+          "id": "nsw-stockton-245-mitchell",
+          "title": "245 Mitchell Street",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00244",
+          "id": "nsw-stockton-245-mitchell",
+          "images": 35
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T06:09:40.718Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-caves-beach-1-21-driftwood"
+      ],
+      "results": [
+        {
+          "displayId": "00311",
+          "id": "nsw-caves-beach-1-21-driftwood",
+          "title": "1/21 Driftwood Close",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00311",
+          "id": "nsw-caves-beach-1-21-driftwood",
+          "images": 16
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T06:21:32.004Z",
+      "batchSize": 9,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-entrance-north-27-curtis",
+        "nsw-entrance-north-3-1-hutton",
+        "nsw-entrance-north-9-9-13-hutton",
+        "nsw-entrance-north-10-9-hutton",
+        "nsw-entrance-north-11-79-83-hutton",
+        "nsw-entrance-north-3-79-83-hutton",
+        "nsw-entrance-north-3-49-53-hutton",
+        "nsw-entrance-north-6-3-7-hutton",
+        "nsw-entrance-north-11-85-87-hutton"
+      ],
+      "results": [
+        {
+          "displayId": "00119",
+          "id": "nsw-entrance-north-27-curtis",
+          "title": "27 Curtis Parade",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00120",
+          "id": "nsw-entrance-north-3-1-hutton",
+          "title": "3/1 Hutton Road",
+          "imageCount": 28,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00121",
+          "id": "nsw-entrance-north-9-9-13-hutton",
+          "title": "9/9-13 Hutton Road",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00122",
+          "id": "nsw-entrance-north-10-9-hutton",
+          "title": "10/9 Hutton Road",
+          "imageCount": 23,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00123",
+          "id": "nsw-entrance-north-11-79-83-hutton",
+          "title": "11/79-83 Hutton Road",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00124",
+          "id": "nsw-entrance-north-3-79-83-hutton",
+          "title": "3/79-83 Hutton Road",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00125",
+          "id": "nsw-entrance-north-3-49-53-hutton",
+          "title": "3/49-53 Hutton Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00126",
+          "id": "nsw-entrance-north-6-3-7-hutton",
+          "title": "6/3-7 Hutton Road",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00127",
+          "id": "nsw-entrance-north-11-85-87-hutton",
+          "title": "11/85-87 Hutton Road",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00119",
+          "id": "nsw-entrance-north-27-curtis",
+          "images": 17
+        },
+        {
+          "displayId": "00120",
+          "id": "nsw-entrance-north-3-1-hutton",
+          "images": 29
+        },
+        {
+          "displayId": "00121",
+          "id": "nsw-entrance-north-9-9-13-hutton",
+          "images": 22
+        },
+        {
+          "displayId": "00122",
+          "id": "nsw-entrance-north-10-9-hutton",
+          "images": 24
+        },
+        {
+          "displayId": "00123",
+          "id": "nsw-entrance-north-11-79-83-hutton",
+          "images": 17
+        },
+        {
+          "displayId": "00124",
+          "id": "nsw-entrance-north-3-79-83-hutton",
+          "images": 14
+        },
+        {
+          "displayId": "00125",
+          "id": "nsw-entrance-north-3-49-53-hutton",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00126",
+          "id": "nsw-entrance-north-6-3-7-hutton",
+          "images": 18
+        },
+        {
+          "displayId": "00127",
+          "id": "nsw-entrance-north-11-85-87-hutton",
+          "images": 14
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T06:36:09.413Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-wamberal-107-ocean-view"
+      ],
+      "results": [
+        {
+          "displayId": "00216",
+          "id": "nsw-wamberal-107-ocean-view",
+          "title": "107 Ocean View Drive",
+          "imageCount": 11,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00216",
+          "id": "nsw-wamberal-107-ocean-view",
+          "images": 11
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T06:46:36.135Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-terrigal-406-156d-terrigal",
+        "nsw-terrigal-402-156d-terrigal"
+      ],
+      "results": [
+        {
+          "displayId": "00940",
+          "id": "nsw-terrigal-406-156d-terrigal",
+          "title": "406/156D Terrigal Drive",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00941",
+          "id": "nsw-terrigal-402-156d-terrigal",
+          "title": "402/156D Terrigal Drive",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00940",
+          "id": "nsw-terrigal-406-156d-terrigal",
+          "images": 20
+        },
+        {
+          "displayId": "00941",
+          "id": "nsw-terrigal-402-156d-terrigal",
+          "images": 12
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T06:58:23.937Z",
+      "batchSize": 10,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-ettalong-68-esplanade",
+        "nsw-ettalong-102-esplanade",
+        "nsw-ettalong-5-105-esplanade",
+        "nsw-ettalong-201-49-esplanade",
+        "nsw-ettalong-2-161-163-ocean-view",
+        "nsw-ettalong-1-114-esplanade",
+        "nsw-ettalong-102-49-esplanade",
+        "nsw-ettalong-134-51-54-esplanade",
+        "nsw-ettalong-301-51-54-esplanade",
+        "nsw-ettalong-3-117-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "00130",
+          "id": "nsw-ettalong-68-esplanade",
+          "title": "68 The Esplanade",
+          "imageCount": 23,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00131",
+          "id": "nsw-ettalong-102-esplanade",
+          "title": "102 The Esplanade",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00132",
+          "id": "nsw-ettalong-5-105-esplanade",
+          "title": "5/105 The Esplanade",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00133",
+          "id": "nsw-ettalong-201-49-esplanade",
+          "title": "201/49 The Esplanade",
+          "imageCount": 2,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00134",
+          "id": "nsw-ettalong-2-161-163-ocean-view",
+          "title": "2/161-163 Ocean View Road",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00135",
+          "id": "nsw-ettalong-1-114-esplanade",
+          "title": "1/114 The Esplanade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00136",
+          "id": "nsw-ettalong-102-49-esplanade",
+          "title": "102/49 The Esplanade",
+          "imageCount": 11,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00137",
+          "id": "nsw-ettalong-134-51-54-esplanade",
+          "title": "134/51-54 The Esplanade",
+          "imageCount": 11,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00138",
+          "id": "nsw-ettalong-301-51-54-esplanade",
+          "title": "301/51-54 The Esplanade",
+          "imageCount": 10,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00139",
+          "id": "nsw-ettalong-3-117-esplanade",
+          "title": "3/117 The Esplanade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00130",
+          "id": "nsw-ettalong-68-esplanade",
+          "images": 25
+        },
+        {
+          "displayId": "00131",
+          "id": "nsw-ettalong-102-esplanade",
+          "images": 21
+        },
+        {
+          "displayId": "00132",
+          "id": "nsw-ettalong-5-105-esplanade",
+          "images": 27
+        },
+        {
+          "displayId": "00133",
+          "id": "nsw-ettalong-201-49-esplanade",
+          "images": 4
+        },
+        {
+          "displayId": "00134",
+          "id": "nsw-ettalong-2-161-163-ocean-view",
+          "images": 20
+        },
+        {
+          "displayId": "00135",
+          "id": "nsw-ettalong-1-114-esplanade",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00136",
+          "id": "nsw-ettalong-102-49-esplanade",
+          "images": 13
+        },
+        {
+          "displayId": "00137",
+          "id": "nsw-ettalong-134-51-54-esplanade",
+          "images": 14
+        },
+        {
+          "displayId": "00138",
+          "id": "nsw-ettalong-301-51-54-esplanade",
+          "images": 13
+        },
+        {
+          "displayId": "00139",
+          "id": "nsw-ettalong-3-117-esplanade",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T07:05:57.632Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-umina-2-50-berith"
+      ],
+      "results": [
+        {
+          "displayId": "00226",
+          "id": "nsw-umina-2-50-berith",
+          "title": "2/50 Berith Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00226",
+          "id": "nsw-umina-2-50-berith",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T07:29:00.907Z",
+      "batchSize": 7,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-palm-beach-16-ocean",
+        "nsw-palm-beach-68-iluka",
+        "nsw-palm-beach-1112-1116-barrenjoey",
+        "nsw-palm-beach-301-1112-1116-barrenjoey",
+        "nsw-palm-beach-1115-barrenjoey",
+        "nsw-palm-beach-953-barrenjoey",
+        "nsw-palm-beach-985-barrenjoey"
+      ],
+      "results": [
+        {
+          "displayId": "00022",
+          "id": "nsw-palm-beach-16-ocean",
+          "title": "16 Ocean Road",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00023",
+          "id": "nsw-palm-beach-68-iluka",
+          "title": "68 Iluka Road",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00024",
+          "id": "nsw-palm-beach-1112-1116-barrenjoey",
+          "title": "1112-1116 Barrenjoey Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00025",
+          "id": "nsw-palm-beach-301-1112-1116-barrenjoey",
+          "title": "3.01/1112-1116 Barrenjoey Road",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00026",
+          "id": "nsw-palm-beach-1115-barrenjoey",
+          "title": "1115 Barrenjoey Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00027",
+          "id": "nsw-palm-beach-953-barrenjoey",
+          "title": "953 Barrenjoey Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00028",
+          "id": "nsw-palm-beach-985-barrenjoey",
+          "title": "985 Barrenjoey Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00022",
+          "id": "nsw-palm-beach-16-ocean",
+          "images": 22
+        },
+        {
+          "displayId": "00023",
+          "id": "nsw-palm-beach-68-iluka",
+          "images": 19
+        },
+        {
+          "displayId": "00024",
+          "id": "nsw-palm-beach-1112-1116-barrenjoey",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00025",
+          "id": "nsw-palm-beach-301-1112-1116-barrenjoey",
+          "images": 17
+        },
+        {
+          "displayId": "00026",
+          "id": "nsw-palm-beach-1115-barrenjoey",
+          "images": 4
+        },
+        {
+          "displayId": "00027",
+          "id": "nsw-palm-beach-953-barrenjoey",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00028",
+          "id": "nsw-palm-beach-985-barrenjoey",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T07:43:14.987Z",
+      "batchSize": 9,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-ettrick-39-57-aspreys",
+        "nsw-ewingar-771-ewingar",
+        "nsw-upper-crystal-creek-192-booka",
+        "nsw-stokers-siding-180-206-nolans",
+        "nsw-tabulam-1534-paddys-flat",
+        "nsw-nimbin-312-gungas",
+        "nsw-kyogle-656-roseberry-creek",
+        "nsw-bonalbo-18-ryans",
+        "nsw-casino-lot-10-1-shephards"
+      ],
+      "results": [
+        {
+          "displayId": "01227",
+          "id": "nsw-ettrick-39-57-aspreys",
+          "title": "39-57 Aspreys Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01228",
+          "id": "nsw-ewingar-771-ewingar",
+          "title": "771 Ewingar Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01229",
+          "id": "nsw-upper-crystal-creek-192-booka",
+          "title": "192 Booka Road",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01230",
+          "id": "nsw-stokers-siding-180-206-nolans",
+          "title": "180-206 Nolans Road",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01231",
+          "id": "nsw-tabulam-1534-paddys-flat",
+          "title": "1534 Paddys Flat Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01232",
+          "id": "nsw-nimbin-312-gungas",
+          "title": "312 Gungas Road",
+          "imageCount": 31,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01233",
+          "id": "nsw-kyogle-656-roseberry-creek",
+          "title": "656 Roseberry Creek Road",
+          "imageCount": 28,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01234",
+          "id": "nsw-bonalbo-18-ryans",
+          "title": "18 Ryans Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01235",
+          "id": "nsw-casino-lot-10-1-shephards",
+          "title": "Lot 10 & 1 Shephard's Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01227",
+          "id": "nsw-ettrick-39-57-aspreys",
+          "images": 36
+        },
+        {
+          "displayId": "01228",
+          "id": "nsw-ewingar-771-ewingar",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01229",
+          "id": "nsw-upper-crystal-creek-192-booka",
+          "images": 16
+        },
+        {
+          "displayId": "01230",
+          "id": "nsw-stokers-siding-180-206-nolans",
+          "images": 22
+        },
+        {
+          "displayId": "01231",
+          "id": "nsw-tabulam-1534-paddys-flat",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01232",
+          "id": "nsw-nimbin-312-gungas",
+          "images": 32
+        },
+        {
+          "displayId": "01233",
+          "id": "nsw-kyogle-656-roseberry-creek",
+          "images": 29
+        },
+        {
+          "displayId": "01234",
+          "id": "nsw-bonalbo-18-ryans",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01235",
+          "id": "nsw-casino-lot-10-1-shephards",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T07:56:16.118Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-dee-why-3-20-the-strand",
+        "nsw-dee-why-4-73-dee-why",
+        "nsw-dee-why-20-89-dee-why",
+        "nsw-dee-why-1-87-dee-why",
+        "nsw-dee-why-24-84-88-dee-why"
+      ],
+      "results": [
+        {
+          "displayId": "00316",
+          "id": "nsw-dee-why-3-20-the-strand",
+          "title": "3/20 The Strand",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00317",
+          "id": "nsw-dee-why-4-73-dee-why",
+          "title": "4/73 Dee Why Parade",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00318",
+          "id": "nsw-dee-why-20-89-dee-why",
+          "title": "20/89 Dee Why Parade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00319",
+          "id": "nsw-dee-why-1-87-dee-why",
+          "title": "1/87 Dee Why Parade",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00320",
+          "id": "nsw-dee-why-24-84-88-dee-why",
+          "title": "24/84-88 Dee Why Parade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00316",
+          "id": "nsw-dee-why-3-20-the-strand",
+          "images": 4
+        },
+        {
+          "displayId": "00317",
+          "id": "nsw-dee-why-4-73-dee-why",
+          "images": 18
+        },
+        {
+          "displayId": "00318",
+          "id": "nsw-dee-why-20-89-dee-why",
+          "images": 15
+        },
+        {
+          "displayId": "00319",
+          "id": "nsw-dee-why-1-87-dee-why",
+          "images": 16
+        },
+        {
+          "displayId": "00320",
+          "id": "nsw-dee-why-24-84-88-dee-why",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T08:23:10.531Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-freshwater-25-carrington",
+        "nsw-freshwater-64-30-moore",
+        "nsw-freshwater-7-80-evans",
+        "nsw-freshwater-9-80-evans"
+      ],
+      "results": [
+        {
+          "displayId": "00193",
+          "id": "nsw-freshwater-25-carrington",
+          "title": "25 Carrington Parade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00194",
+          "id": "nsw-freshwater-64-30-moore",
+          "title": "64/30 Moore Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00195",
+          "id": "nsw-freshwater-7-80-evans",
+          "title": "7/80 Evans Street",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00196",
+          "id": "nsw-freshwater-9-80-evans",
+          "title": "9/80 Evans Street",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00193",
+          "id": "nsw-freshwater-25-carrington",
+          "images": 7
+        },
+        {
+          "displayId": "00194",
+          "id": "nsw-freshwater-64-30-moore",
+          "images": 7
+        },
+        {
+          "displayId": "00195",
+          "id": "nsw-freshwater-7-80-evans",
+          "images": 7
+        },
+        {
+          "displayId": "00196",
+          "id": "nsw-freshwater-9-80-evans",
+          "images": 7
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T08:35:57.553Z",
+      "batchSize": 10,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-manly-23-east-esplanade",
+        "nsw-manly-3-112-north-steyne",
+        "nsw-manly-6-120-north-steyne",
+        "nsw-manly-13-35-36-east-esplanade",
+        "nsw-manly-5g-13-east-esplanade",
+        "nsw-manly-32-13-east-esplanade",
+        "nsw-manly-g3-13-east-esplanade",
+        "nsw-manly-502-54-west-esplanade",
+        "nsw-manly-212-54a-west-esplanade",
+        "nsw-manly-4-45-the-crescent"
+      ],
+      "results": [
+        {
+          "displayId": "01026",
+          "id": "nsw-manly-23-east-esplanade",
+          "title": "23 East Esplanade",
+          "imageCount": 20,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01027",
+          "id": "nsw-manly-3-112-north-steyne",
+          "title": "3/112 North Steyne",
+          "imageCount": 8,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01028",
+          "id": "nsw-manly-6-120-north-steyne",
+          "title": "6/120 North Steyne",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01029",
+          "id": "nsw-manly-13-35-36-east-esplanade",
+          "title": "13/35-36 East Esplanade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01030",
+          "id": "nsw-manly-5g-13-east-esplanade",
+          "title": "5G/13 East Esplanade",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01031",
+          "id": "nsw-manly-32-13-east-esplanade",
+          "title": "32/13 East Esplanade",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01032",
+          "id": "nsw-manly-g3-13-east-esplanade",
+          "title": "G3/13 East Esplanade",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01033",
+          "id": "nsw-manly-502-54-west-esplanade",
+          "title": "502/54 West Esplanade",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01034",
+          "id": "nsw-manly-212-54a-west-esplanade",
+          "title": "212/54A West Esplanade",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01035",
+          "id": "nsw-manly-4-45-the-crescent",
+          "title": "4/45 The Crescent",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01026",
+          "id": "nsw-manly-23-east-esplanade",
+          "images": 20
+        },
+        {
+          "displayId": "01027",
+          "id": "nsw-manly-3-112-north-steyne",
+          "images": 8
+        },
+        {
+          "displayId": "01028",
+          "id": "nsw-manly-6-120-north-steyne",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01029",
+          "id": "nsw-manly-13-35-36-east-esplanade",
+          "images": 14
+        },
+        {
+          "displayId": "01030",
+          "id": "nsw-manly-5g-13-east-esplanade",
+          "images": 13
+        },
+        {
+          "displayId": "01031",
+          "id": "nsw-manly-32-13-east-esplanade",
+          "images": 3
+        },
+        {
+          "displayId": "01032",
+          "id": "nsw-manly-g3-13-east-esplanade",
+          "images": 3
+        },
+        {
+          "displayId": "01033",
+          "id": "nsw-manly-502-54-west-esplanade",
+          "images": 21
+        },
+        {
+          "displayId": "01034",
+          "id": "nsw-manly-212-54a-west-esplanade",
+          "images": 16
+        },
+        {
+          "displayId": "01035",
+          "id": "nsw-manly-4-45-the-crescent",
+          "images": 21
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T08:51:57.506Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-cronulla-84-the-esplanade",
+        "nsw-cronulla-25-darook-park",
+        "nsw-cronulla-202-79-gerrale",
+        "nsw-cronulla-601-79-gerrale",
+        "nsw-cronulla-5-9-prince",
+        "nsw-cronulla-607-47-57-gerrale",
+        "nsw-cronulla-501-47-57-gerrale",
+        "nsw-cronulla-302-47-57-gerrale-st"
+      ],
+      "results": [
+        {
+          "displayId": "01043",
+          "id": "nsw-cronulla-84-the-esplanade",
+          "title": "84 The Esplanade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01044",
+          "id": "nsw-cronulla-25-darook-park",
+          "title": "25 Darook Park Road",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01045",
+          "id": "nsw-cronulla-202-79-gerrale",
+          "title": "202/79 Gerrale Street",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01046",
+          "id": "nsw-cronulla-601-79-gerrale",
+          "title": "601/79 Gerrale Street",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01047",
+          "id": "nsw-cronulla-5-9-prince",
+          "title": "5-9 Prince Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01048",
+          "id": "nsw-cronulla-607-47-57-gerrale",
+          "title": "607/47-57 Gerrale St Street",
+          "imageCount": 10,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01049",
+          "id": "nsw-cronulla-501-47-57-gerrale",
+          "title": "501/47-57 Gerrale Street",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01050",
+          "id": "nsw-cronulla-302-47-57-gerrale-st",
+          "title": "302/47-57 Gerrale St",
+          "imageCount": 15,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01043",
+          "id": "nsw-cronulla-84-the-esplanade",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01044",
+          "id": "nsw-cronulla-25-darook-park",
+          "images": 15
+        },
+        {
+          "displayId": "01045",
+          "id": "nsw-cronulla-202-79-gerrale",
+          "images": 21
+        },
+        {
+          "displayId": "01046",
+          "id": "nsw-cronulla-601-79-gerrale",
+          "images": 14
+        },
+        {
+          "displayId": "01047",
+          "id": "nsw-cronulla-5-9-prince",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01048",
+          "id": "nsw-cronulla-607-47-57-gerrale",
+          "images": 10
+        },
+        {
+          "displayId": "01049",
+          "id": "nsw-cronulla-501-47-57-gerrale",
+          "images": 12
+        },
+        {
+          "displayId": "01050",
+          "id": "nsw-cronulla-302-47-57-gerrale-st",
+          "images": 15
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T09:32:37.694Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-barrack-point-9a-headland",
+        "nsw-barrack-point-50a-headland"
+      ],
+      "results": [
+        {
+          "displayId": "01064",
+          "id": "nsw-barrack-point-9a-headland",
+          "title": "9A Headland Parade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01065",
+          "id": "nsw-barrack-point-50a-headland",
+          "title": "50A Headland Parade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01064",
+          "id": "nsw-barrack-point-9a-headland",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01065",
+          "id": "nsw-barrack-point-50a-headland",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T09:43:29.517Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-maloneys-beach-20-belbowrie-parade",
+        "nsw-maloneys-beach-1-6-hibiscus-close"
+      ],
+      "results": [
+        {
+          "displayId": "01067",
+          "id": "nsw-maloneys-beach-20-belbowrie-parade",
+          "title": "20 Belbowrie Parade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01068",
+          "id": "nsw-maloneys-beach-1-6-hibiscus-close",
+          "title": "1/6 Hibiscus Close",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01067",
+          "id": "nsw-maloneys-beach-20-belbowrie-parade",
+          "images": 7
+        },
+        {
+          "displayId": "01068",
+          "id": "nsw-maloneys-beach-1-6-hibiscus-close",
+          "images": 7
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T10:15:18.383Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-laguna-4201-great-north",
+        "nsw-laguna-3983-great-north"
+      ],
+      "results": [
+        {
+          "displayId": "01267",
+          "id": "nsw-laguna-4201-great-north",
+          "title": "4201 Great North Rd",
+          "imageCount": 37,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01268",
+          "id": "nsw-laguna-3983-great-north",
+          "title": "3983 Great North Road",
+          "imageCount": 37,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01267",
+          "id": "nsw-laguna-4201-great-north",
+          "images": 72
+        },
+        {
+          "displayId": "01268",
+          "id": "nsw-laguna-3983-great-north",
+          "images": 72
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T10:22:25.678Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-eden-20-cocora",
+        "nsw-eden-63-ida-rodd",
+        "nsw-eden-4-2-lake",
+        "nsw-eden-2-19-hosies",
+        "nsw-eden-196-imlay"
+      ],
+      "results": [
+        {
+          "displayId": "01269",
+          "id": "nsw-eden-20-cocora",
+          "title": "20 Cocora St",
+          "imageCount": 23,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01270",
+          "id": "nsw-eden-63-ida-rodd",
+          "title": "63 Ida Rodd Dr",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01271",
+          "id": "nsw-eden-4-2-lake",
+          "title": "Unit 4/2 Lake St",
+          "imageCount": 34,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01272",
+          "id": "nsw-eden-2-19-hosies",
+          "title": "Unit 2/19 Hosies Rd",
+          "imageCount": 32,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01273",
+          "id": "nsw-eden-196-imlay",
+          "title": "196 Imlay Street",
+          "imageCount": 16,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01269",
+          "id": "nsw-eden-20-cocora",
+          "images": 24
+        },
+        {
+          "displayId": "01270",
+          "id": "nsw-eden-63-ida-rodd",
+          "images": 5
+        },
+        {
+          "displayId": "01271",
+          "id": "nsw-eden-4-2-lake",
+          "images": 35
+        },
+        {
+          "displayId": "01272",
+          "id": "nsw-eden-2-19-hosies",
+          "images": 33
+        },
+        {
+          "displayId": "01273",
+          "id": "nsw-eden-196-imlay",
+          "images": 17
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T10:43:48.542Z",
+      "batchSize": 10,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-toongabbie-170-cemetery",
+        "vic-shoreham-621-tucks",
+        "vic-flinders-2150-mornington-flinders",
+        "vic-mirboo-30-bickerton",
+        "vic-mirboo-north-156-sheens",
+        "vic-tynong-2570-princes",
+        "vic-toora-north-205-mt-best-tin-mine",
+        "vic-coongulla-53-ryans",
+        "vic-rhyll-92-mcfees",
+        "vic-coongulla-9-ryans"
+      ],
+      "results": [
+        {
+          "displayId": "01274",
+          "id": "vic-toongabbie-170-cemetery",
+          "title": "170 Cemetery Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01275",
+          "id": "vic-shoreham-621-tucks",
+          "title": "621 Tucks Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01276",
+          "id": "vic-flinders-2150-mornington-flinders",
+          "title": "2150 Mornington-Flinders Road",
+          "imageCount": 24,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01277",
+          "id": "vic-mirboo-30-bickerton",
+          "title": "30 Bickerton Lane",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01278",
+          "id": "vic-mirboo-north-156-sheens",
+          "title": "156 Sheens Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01279",
+          "id": "vic-tynong-2570-princes",
+          "title": "2570 Princes Highway",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01280",
+          "id": "vic-toora-north-205-mt-best-tin-mine",
+          "title": "205 Mt Best Tin Mine Road",
+          "imageCount": 24,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01281",
+          "id": "vic-coongulla-53-ryans",
+          "title": "53 Ryans Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01282",
+          "id": "vic-rhyll-92-mcfees",
+          "title": "92 Mcfees Road",
+          "imageCount": 7,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01283",
+          "id": "vic-coongulla-9-ryans",
+          "title": "9, Ryans Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01274",
+          "id": "vic-toongabbie-170-cemetery",
+          "images": 38
+        },
+        {
+          "displayId": "01275",
+          "id": "vic-shoreham-621-tucks",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01276",
+          "id": "vic-flinders-2150-mornington-flinders",
+          "images": 25
+        },
+        {
+          "displayId": "01277",
+          "id": "vic-mirboo-30-bickerton",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01278",
+          "id": "vic-mirboo-north-156-sheens",
+          "images": 37
+        },
+        {
+          "displayId": "01279",
+          "id": "vic-tynong-2570-princes",
+          "images": 37
+        },
+        {
+          "displayId": "01280",
+          "id": "vic-toora-north-205-mt-best-tin-mine",
+          "images": 26
+        },
+        {
+          "displayId": "01281",
+          "id": "vic-coongulla-53-ryans",
+          "images": 4
+        },
+        {
+          "displayId": "01282",
+          "id": "vic-rhyll-92-mcfees",
+          "images": 8
+        },
+        {
+          "displayId": "01283",
+          "id": "vic-coongulla-9-ryans",
+          "images": 5
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T10:52:33.395Z",
+      "batchSize": 9,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-lakes-entrance-108-1-esplanade",
+        "vic-lakes-entrance-40-203-esplanade",
+        "vic-lakes-entrance-121-1-esplanade",
+        "vic-lakes-entrance-406-1-esplanade",
+        "vic-lakes-entrance-318-1-esplanade",
+        "vic-lakes-entrance-211-1-esplanade",
+        "vic-lakes-entrance-1-247-esplanade",
+        "vic-lakes-entrance-3-641-esplanade",
+        "vic-lakes-entrance-105-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "01284",
+          "id": "vic-lakes-entrance-108-1-esplanade",
+          "title": "108/1 Esplanade",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01285",
+          "id": "vic-lakes-entrance-40-203-esplanade",
+          "title": "40/203 Esplanade",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01286",
+          "id": "vic-lakes-entrance-121-1-esplanade",
+          "title": "121/1 Esplanade",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01287",
+          "id": "vic-lakes-entrance-406-1-esplanade",
+          "title": "406/1 Esplanade",
+          "imageCount": 24,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01288",
+          "id": "vic-lakes-entrance-318-1-esplanade",
+          "title": "318/1 Esplanade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01289",
+          "id": "vic-lakes-entrance-211-1-esplanade",
+          "title": "211/1 Esplanade",
+          "imageCount": 1,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01290",
+          "id": "vic-lakes-entrance-1-247-esplanade",
+          "title": "1/247 Esplanade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01291",
+          "id": "vic-lakes-entrance-3-641-esplanade",
+          "title": "3/641 Esplanade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01292",
+          "id": "vic-lakes-entrance-105-esplanade",
+          "title": "105 Esplanade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01284",
+          "id": "vic-lakes-entrance-108-1-esplanade",
+          "images": 20
+        },
+        {
+          "displayId": "01285",
+          "id": "vic-lakes-entrance-40-203-esplanade",
+          "images": 13
+        },
+        {
+          "displayId": "01286",
+          "id": "vic-lakes-entrance-121-1-esplanade",
+          "images": 15
+        },
+        {
+          "displayId": "01287",
+          "id": "vic-lakes-entrance-406-1-esplanade",
+          "images": 25
+        },
+        {
+          "displayId": "01288",
+          "id": "vic-lakes-entrance-318-1-esplanade",
+          "images": 5
+        },
+        {
+          "displayId": "01289",
+          "id": "vic-lakes-entrance-211-1-esplanade",
+          "images": 2
+        },
+        {
+          "displayId": "01290",
+          "id": "vic-lakes-entrance-1-247-esplanade",
+          "images": 5
+        },
+        {
+          "displayId": "01291",
+          "id": "vic-lakes-entrance-3-641-esplanade",
+          "images": 5
+        },
+        {
+          "displayId": "01292",
+          "id": "vic-lakes-entrance-105-esplanade",
+          "images": 5
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T11:01:59.214Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-inverloch-4-surf",
+        "vic-inverloch-11-beach",
+        "vic-inverloch-46-treadwells",
+        "vic-inverloch-7-62-surf",
+        "vic-inverloch-184-surf"
+      ],
+      "results": [
+        {
+          "displayId": "00111",
+          "id": "vic-inverloch-4-surf",
+          "title": "4 Surf Parade",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00112",
+          "id": "vic-inverloch-11-beach",
+          "title": "11 Beach Avenue",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00113",
+          "id": "vic-inverloch-46-treadwells",
+          "title": "46 Treadwells Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00114",
+          "id": "vic-inverloch-7-62-surf",
+          "title": "7/62 Surf Parade",
+          "imageCount": 24,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00115",
+          "id": "vic-inverloch-184-surf",
+          "title": "184 Surf Parade",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00111",
+          "id": "vic-inverloch-4-surf",
+          "images": 18
+        },
+        {
+          "displayId": "00112",
+          "id": "vic-inverloch-11-beach",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00113",
+          "id": "vic-inverloch-46-treadwells",
+          "images": 35
+        },
+        {
+          "displayId": "00114",
+          "id": "vic-inverloch-7-62-surf",
+          "images": 24
+        },
+        {
+          "displayId": "00115",
+          "id": "vic-inverloch-184-surf",
+          "images": 18
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T11:29:40.888Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-safety-beach-14-marine",
+        "vic-safety-beach-193-marine"
+      ],
+      "results": [
+        {
+          "displayId": "00121",
+          "id": "vic-safety-beach-14-marine",
+          "title": "14 Marine Drive",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00124",
+          "id": "vic-safety-beach-193-marine",
+          "title": "193 Marine Drive",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00121",
+          "id": "vic-safety-beach-14-marine",
+          "images": 4
+        },
+        {
+          "displayId": "00124",
+          "id": "vic-safety-beach-193-marine",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T11:40:09.360Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-frankston-46-gould",
+        "vic-frankston-150-gould",
+        "vic-frankston-1b-palm",
+        "vic-frankston-6-56-gould",
+        "vic-frankston-543-nepean",
+        "vic-frankston-545-nepean",
+        "vic-frankston-612-435-nepean",
+        "vic-frankston-906-435-nepean"
+      ],
+      "results": [
+        {
+          "displayId": "00155",
+          "id": "vic-frankston-46-gould",
+          "title": "46 Gould Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00156",
+          "id": "vic-frankston-150-gould",
+          "title": "150 Gould Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00157",
+          "id": "vic-frankston-1b-palm",
+          "title": "1B Palm Court",
+          "imageCount": 26,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00158",
+          "id": "vic-frankston-6-56-gould",
+          "title": "6/56 Gould Street",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00159",
+          "id": "vic-frankston-543-nepean",
+          "title": "543 Nepean Highway",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00160",
+          "id": "vic-frankston-545-nepean",
+          "title": "545 Nepean Highway",
+          "imageCount": 9,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00161",
+          "id": "vic-frankston-612-435-nepean",
+          "title": "612/435 Nepean Highway",
+          "imageCount": 14,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00162",
+          "id": "vic-frankston-906-435-nepean",
+          "title": "906/435 Nepean Highway",
+          "imageCount": 2,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00155",
+          "id": "vic-frankston-46-gould",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00156",
+          "id": "vic-frankston-150-gould",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00157",
+          "id": "vic-frankston-1b-palm",
+          "images": 26
+        },
+        {
+          "displayId": "00158",
+          "id": "vic-frankston-6-56-gould",
+          "images": 17
+        },
+        {
+          "displayId": "00159",
+          "id": "vic-frankston-543-nepean",
+          "images": 17
+        },
+        {
+          "displayId": "00160",
+          "id": "vic-frankston-545-nepean",
+          "images": 9
+        },
+        {
+          "displayId": "00161",
+          "id": "vic-frankston-612-435-nepean",
+          "images": 14
+        },
+        {
+          "displayId": "00162",
+          "id": "vic-frankston-906-435-nepean",
+          "images": 2
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T11:46:19.047Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-aspendale-477-boat-shed-beach",
+        "vic-aspendale-524-boat-shed-beach"
+      ],
+      "results": [
+        {
+          "displayId": "00081",
+          "id": "vic-aspendale-477-boat-shed-beach",
+          "title": "477 Boat Shed Beach",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00082",
+          "id": "vic-aspendale-524-boat-shed-beach",
+          "title": "524 Boat Shed Beach",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00081",
+          "id": "vic-aspendale-477-boat-shed-beach",
+          "images": 8
+        },
+        {
+          "displayId": "00082",
+          "id": "vic-aspendale-524-boat-shed-beach",
+          "images": 8
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T12:03:51.429Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-port-melbourne-302-159-beach",
+        "vic-port-melbourne-502-127-beach",
+        "vic-port-melbourne-113-beach",
+        "vic-port-melbourne-806-115-beach"
+      ],
+      "results": [
+        {
+          "displayId": "01126",
+          "id": "vic-port-melbourne-302-159-beach",
+          "title": "302/159 Beach Street",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01127",
+          "id": "vic-port-melbourne-502-127-beach",
+          "title": "502/127 Beach Street",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01128",
+          "id": "vic-port-melbourne-113-beach",
+          "title": "113 Beach Street",
+          "imageCount": 29,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01129",
+          "id": "vic-port-melbourne-806-115-beach",
+          "title": "806/115 Beach Street",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01126",
+          "id": "vic-port-melbourne-302-159-beach",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01127",
+          "id": "vic-port-melbourne-502-127-beach",
+          "images": 22
+        },
+        {
+          "displayId": "01128",
+          "id": "vic-port-melbourne-113-beach",
+          "images": 30
+        },
+        {
+          "displayId": "01129",
+          "id": "vic-port-melbourne-806-115-beach",
+          "images": 12
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T12:22:37.128Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-geelong-14a-western-beach",
+        "vic-geelong-24-western-beach",
+        "vic-geelong-11-the-esplanade",
+        "vic-geelong-104-16-esplanade-south",
+        "vic-geelong-8-16-esplanade-south",
+        "vic-geelong-305-100-western-beach",
+        "vic-geelong-1-16-esplanade-south",
+        "vic-geelong-2-17a-the-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "01314",
+          "id": "vic-geelong-14a-western-beach",
+          "title": "14A Western Beach Road",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01315",
+          "id": "vic-geelong-24-western-beach",
+          "title": "24 Western Beach Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01316",
+          "id": "vic-geelong-11-the-esplanade",
+          "title": "11 The Esplanade",
+          "imageCount": 29,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01317",
+          "id": "vic-geelong-104-16-esplanade-south",
+          "title": "104/16 The Esplanade South",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01318",
+          "id": "vic-geelong-8-16-esplanade-south",
+          "title": "8/16 The Esplanade South",
+          "imageCount": 10,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01319",
+          "id": "vic-geelong-305-100-western-beach",
+          "title": "305/100 Western Beach Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01320",
+          "id": "vic-geelong-1-16-esplanade-south",
+          "title": "1/16 The Esplanade South",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01321",
+          "id": "vic-geelong-2-17a-the-esplanade",
+          "title": "2/17A The Esplanade",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01314",
+          "id": "vic-geelong-14a-western-beach",
+          "images": 20
+        },
+        {
+          "displayId": "01315",
+          "id": "vic-geelong-24-western-beach",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "01316",
+          "id": "vic-geelong-11-the-esplanade",
+          "images": 30
+        },
+        {
+          "displayId": "01317",
+          "id": "vic-geelong-104-16-esplanade-south",
+          "images": 13
+        },
+        {
+          "displayId": "01318",
+          "id": "vic-geelong-8-16-esplanade-south",
+          "images": 11
+        },
+        {
+          "displayId": "01319",
+          "id": "vic-geelong-305-100-western-beach",
+          "images": 5
+        },
+        {
+          "displayId": "01320",
+          "id": "vic-geelong-1-16-esplanade-south",
+          "images": 14
+        },
+        {
+          "displayId": "01321",
+          "id": "vic-geelong-2-17a-the-esplanade",
+          "images": 4
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T12:31:03.377Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-torquay-103-105-100-esplanade",
+        "vic-torquay-317-100-esplanade",
+        "vic-torquay-314-100-esplanade",
+        "vic-torquay-3-4-42-esplanade",
+        "vic-torquay-6-3-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "00848",
+          "id": "vic-torquay-103-105-100-esplanade",
+          "title": "103-105/100 The Esplanade",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00849",
+          "id": "vic-torquay-317-100-esplanade",
+          "title": "317/100 The Esplanade",
+          "imageCount": 20,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00850",
+          "id": "vic-torquay-314-100-esplanade",
+          "title": "314/100 The Esplanade",
+          "imageCount": 28,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00851",
+          "id": "vic-torquay-3-4-42-esplanade",
+          "title": "3 & 4/42 The Esplanade",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00852",
+          "id": "vic-torquay-6-3-esplanade",
+          "title": "6/3 The Esplanade",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00848",
+          "id": "vic-torquay-103-105-100-esplanade",
+          "images": 22
+        },
+        {
+          "displayId": "00849",
+          "id": "vic-torquay-317-100-esplanade",
+          "images": 21
+        },
+        {
+          "displayId": "00850",
+          "id": "vic-torquay-314-100-esplanade",
+          "images": 29
+        },
+        {
+          "displayId": "00851",
+          "id": "vic-torquay-3-4-42-esplanade",
+          "images": 5
+        },
+        {
+          "displayId": "00852",
+          "id": "vic-torquay-6-3-esplanade",
+          "images": 20
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T14:05:58.229Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-robe-24-joy"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "sa-robe-24-joy",
+          "title": "24 Joy Terrace",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00001",
+          "id": "sa-robe-24-joy",
+          "images": 3
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T14:13:23.502Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-kingston-se-lot-467-ocean",
+        "sa-kingston-se-179-marine",
+        "sa-kingston-se-86-marine"
+      ],
+      "results": [
+        {
+          "displayId": "01251",
+          "id": "sa-kingston-se-lot-467-ocean",
+          "title": "Lot 467, Ocean Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01252",
+          "id": "sa-kingston-se-179-marine",
+          "title": "179 Marine Parade",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01253",
+          "id": "sa-kingston-se-86-marine",
+          "title": "86 Marine Parade",
+          "imageCount": 20,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01251",
+          "id": "sa-kingston-se-lot-467-ocean",
+          "images": 4
+        },
+        {
+          "displayId": "01252",
+          "id": "sa-kingston-se-179-marine",
+          "images": 3
+        },
+        {
+          "displayId": "01253",
+          "id": "sa-kingston-se-86-marine",
+          "images": 20
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-14T14:22:26.929Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-victor-harbor-29-2-5-flinders",
+        "sa-victor-harbor-2-141-hindmarsh"
+      ],
+      "results": [
+        {
+          "displayId": "01189",
+          "id": "sa-victor-harbor-29-2-5-flinders",
+          "title": "29/2-5 Flinders Parade",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01190",
+          "id": "sa-victor-harbor-2-141-hindmarsh",
+          "title": "2/141 Hindmarsh Road",
+          "imageCount": 30,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "01189",
+          "id": "sa-victor-harbor-29-2-5-flinders",
+          "images": 35
+        },
+        {
+          "displayId": "01190",
+          "id": "sa-victor-harbor-2-141-hindmarsh",
+          "images": 30
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T05:55:10.140Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-middleton-152-surfers"
+      ],
+      "results": [
+        {
+          "displayId": "00422",
+          "id": "sa-middleton-152-surfers",
+          "title": "152 Surfers Parade",
+          "imageCount": 25,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00422",
+          "id": "sa-middleton-152-surfers",
+          "images": 25
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T06:26:40.266Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-taperoo-316-lady-gowrie",
+        "sa-taperoo-49-john-mckinna"
+      ],
+      "results": [
+        {
+          "displayId": "00415",
+          "id": "sa-taperoo-316-lady-gowrie",
+          "title": "316 Lady Gowrie Drive",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00416",
+          "id": "sa-taperoo-49-john-mckinna",
+          "title": "49 John McKinna Circuit",
+          "imageCount": 22,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00415",
+          "id": "sa-taperoo-316-lady-gowrie",
+          "status": "unavailable"
+        },
+        {
+          "displayId": "00416",
+          "id": "sa-taperoo-49-john-mckinna",
+          "images": 23
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T06:40:39.524Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-north-haven-100-gulf-point"
+      ],
+      "results": [
+        {
+          "displayId": "00418",
+          "id": "sa-north-haven-100-gulf-point",
+          "title": "100 Gulf Point Drive",
+          "imageCount": 27,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": [
+        {
+          "displayId": "00418",
+          "id": "sa-north-haven-100-gulf-point",
+          "images": 27
+        }
+      ]
+    },
+    {
+      "updatedAt": "2026-05-15T07:06:14.404Z",
+      "batchSize": 6,
+      "startDisplayId": "",
+      "targetIds": [
+        "wa-busselton-lot-7-layman",
+        "wa-yoganup-113-scott",
+        "wa-kaloorup-915-kaloorup",
+        "wa-boallia-696-price",
+        "wa-cowaramup-33-barnett",
+        "wa-carlotta-106-mckittrick"
+      ],
+      "results": [
+        {
+          "displayId": "01337",
+          "id": "wa-busselton-lot-7-layman",
+          "title": "Lot 7 Layman Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01338",
+          "id": "wa-yoganup-113-scott",
+          "title": "113 Scott Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01339",
+          "id": "wa-kaloorup-915-kaloorup",
+          "title": "915 Kaloorup Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01340",
+          "id": "wa-boallia-696-price",
+          "title": "696 Price Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01341",
+          "id": "wa-cowaramup-33-barnett",
+          "title": "33 Barnett Grove",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01342",
+          "id": "wa-carlotta-106-mckittrick",
+          "title": "106 McKittrick Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T07:12:30.622Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-west-lakes-shore-3-20-cormorant"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "sa-west-lakes-shore-3-20-cormorant",
+          "title": "3/20 Cormorant Court",
+          "imageCount": 26,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T07:18:54.180Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-tennyson-43-tennyson-heights",
+        "sa-tennyson-155-seaview"
+      ],
+      "results": [
+        {
+          "displayId": "00574",
+          "id": "sa-tennyson-43-tennyson-heights",
+          "title": "43 Tennyson Heights Court",
+          "imageCount": 7,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00575",
+          "id": "sa-tennyson-155-seaview",
+          "title": "155 Seaview Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T07:36:56.060Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "wa-chittering-554-maddern",
+        "wa-dewars-pool-765-bindoon-dewars-pool",
+        "wa-cowalla-2373-cowalla",
+        "wa-mindarra-2837-bindoon-moora",
+        "wa-mindarra-lot-2090-jackson"
+      ],
+      "results": [
+        {
+          "displayId": "01344",
+          "id": "wa-chittering-554-maddern",
+          "title": "554 Maddern Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01345",
+          "id": "wa-dewars-pool-765-bindoon-dewars-pool",
+          "title": "765 Bindoon-Dewars Pool Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01346",
+          "id": "wa-cowalla-2373-cowalla",
+          "title": "2373 Cowalla Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01347",
+          "id": "wa-mindarra-2837-bindoon-moora",
+          "title": "2837 Bindoon Moora Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01348",
+          "id": "wa-mindarra-lot-2090-jackson",
+          "title": "Lot 2090 Off Jackson Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T07:51:24.950Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-henley-beach-south-113a-esplanade"
+      ],
+      "results": [
+        {
+          "displayId": "00512",
+          "id": "sa-henley-beach-south-113a-esplanade",
+          "title": "113A Esplanade",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
     }
   ]
 }
