@@ -1,13 +1,13 @@
 {
-  "state": "running",
+  "state": "complete",
   "mode": "auto",
-  "message": "Verifying candidates in Glenelg, SA; 10/10 possible listings found...",
-  "searchArea": "Glenelg, SA",
-  "searchAreaPosition": 14,
+  "message": "Finished Prevelly, WA. Reloading listings...",
+  "searchArea": "Prevelly, WA",
+  "searchAreaPosition": 50,
   "searchAreaTotal": 170,
-  "searchDurationMinutes": 10,
-  "searchPriority": true,
-  "nextSearchArea": "Glenelg, SA",
-  "nextAutoRefreshAt": "2026-05-15T08:05:51.841Z",
-  "updatedAt": "2026-05-15T08:14:36.277Z"
+  "searchDurationMinutes": 2,
+  "searchPriority": false,
+  "nextSearchArea": "Gnarabup, WA",
+  "nextAutoRefreshAt": "2026-05-16T04:02:40.700Z",
+  "updatedAt": "2026-05-16T03:57:40.703Z"
 }

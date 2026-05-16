@@ -7046,3 +7046,176 @@ No gallery candidates found.
   "patched": []
 }
 [2026-05-15T07:51:25.208Z] Targeted gallery update finished with code 0
+
+[2026-05-15T09:33:08.079Z] Targeted gallery update started for Automatic large-property sweep: nsw-belford-55-hermitage, nsw-lostock-1644-paterson-river, nsw-muswellbrook-gap-view-wells-gully, nsw-kulnura-176-greta
+01345 nsw-belford-55-hermitage: checking
+01345 nsw-belford-55-hermitage: 35 images
+01346 nsw-lostock-1644-paterson-river: checking
+01346 nsw-lostock-1644-paterson-river: 31 images
+01347 nsw-muswellbrook-gap-view-wells-gully: checking
+01347 nsw-muswellbrook-gap-view-wells-gully: 4 images
+01348 nsw-kulnura-176-greta: checking
+01348 nsw-kulnura-176-greta: 4 images
+{
+  "checked": 4,
+  "patched": []
+}
+[2026-05-15T09:33:58.402Z] Targeted gallery update finished with code 0
+
+[2026-05-15T10:10:35.775Z] Targeted gallery update started for Automatic large-property sweep: nsw-broke-158-166-hill, nsw-putty-557-box-gap, nsw-putty-9-kookaburra
+01349 nsw-broke-158-166-hill: checking
+01349 nsw-broke-158-166-hill: 33 images
+01350 nsw-putty-557-box-gap: checking
+01350 nsw-putty-557-box-gap: 18 images
+01351 nsw-putty-9-kookaburra: checking
+01351 nsw-putty-9-kookaburra: 21 images
+{
+  "checked": 3,
+  "patched": []
+}
+[2026-05-15T10:11:13.841Z] Targeted gallery update finished with code 0
+
+[2026-05-15T11:00:49.029Z] Targeted gallery update started for Automatic suburb sweep: sa-carrickalinga-12-bennett
+00494 sa-carrickalinga-12-bennett: checking
+00494 sa-carrickalinga-12-bennett: 35 images
+{
+  "checked": 1,
+  "patched": []
+}
+[2026-05-15T11:01:01.938Z] Targeted gallery update finished with code 0
+
+[2026-05-15T11:14:55.371Z] Targeted gallery update started for Automatic large-property sweep: vic-point-lonsdale-2150-bellarine, vic-swan-bay-1155-1189-swan-bay, vic-mannerim-65-banks
+00843 vic-point-lonsdale-2150-bellarine: checking
+00843 vic-point-lonsdale-2150-bellarine: 5 images
+00844 vic-swan-bay-1155-1189-swan-bay: checking
+00844 vic-swan-bay-1155-1189-swan-bay: 4 images
+00845 vic-mannerim-65-banks: checking
+00845 vic-mannerim-65-banks: 0 images
+{
+  "checked": 3,
+  "patched": []
+}
+[2026-05-15T11:15:51.471Z] Targeted gallery update finished with code 0
+
+[2026-05-15T11:46:12.105Z] Targeted gallery update started for Automatic suburb sweep: sa-port-victoria-71-edwardes, sa-port-victoria-lot-8-davies
+00001 sa-port-victoria-71-edwardes: checking
+00001 sa-port-victoria-71-edwardes: 27 images
+00002 sa-port-victoria-lot-8-davies: checking
+00002 sa-port-victoria-lot-8-davies: 4 images
+{
+  "checked": 2,
+  "patched": []
+}
+[2026-05-15T11:46:37.752Z] Targeted gallery update finished with code 0
+
+[2026-05-15T12:14:24.892Z] Targeted gallery update started for Automatic suburb sweep: sa-whyalla-lot-118-eight-mile-creek
+00001 sa-whyalla-lot-118-eight-mile-creek: checking
+00001 sa-whyalla-lot-118-eight-mile-creek: 17 images
+{
+  "checked": 1,
+  "patched": []
+}
+[2026-05-15T12:14:38.782Z] Targeted gallery update finished with code 0
+
+[2026-05-15T12:39:48.216Z] Targeted gallery update started for Automatic suburb sweep: sa-coffin-bay-33a-esplanade, sa-coffin-bay-2-127-esplanade, sa-coffin-bay-1-41-long-beach, sa-coffin-bay-lot-9-long-beach
+01359 sa-coffin-bay-33a-esplanade: checking
+01359 sa-coffin-bay-33a-esplanade: off market
+01360 sa-coffin-bay-2-127-esplanade: checking
+01360 sa-coffin-bay-2-127-esplanade: 28 images
+01361 sa-coffin-bay-1-41-long-beach: checking
+01361 sa-coffin-bay-1-41-long-beach: 31 images
+01362 sa-coffin-bay-lot-9-long-beach: checking
+01362 sa-coffin-bay-lot-9-long-beach: 3 images
+{
+  "checked": 4,
+  "patched": []
+}
+[2026-05-15T12:40:55.302Z] Targeted gallery update finished with code 0
+
+[2026-05-15T12:58:56.138Z] Targeted gallery update started for Automatic large-property sweep: wa-crooked-brook-882-joshua-creek, wa-rosa-brook-1793-rosa-brook, wa-mcalinden-660-mcalinden, wa-lowden-86-oldmeadow, wa-mumballup-89-hearle, wa-beelerup-lot-74-donnybrook-boyup, wa-balingup-lot-769-prowse, wa-binningup-186-229-runnymede
+01363 wa-crooked-brook-882-joshua-creek: checking
+01363 wa-crooked-brook-882-joshua-creek: 35 images
+01364 wa-rosa-brook-1793-rosa-brook: checking
+01364 wa-rosa-brook-1793-rosa-brook: 35 images
+01365 wa-mcalinden-660-mcalinden: checking
+01365 wa-mcalinden-660-mcalinden: 35 images
+01366 wa-lowden-86-oldmeadow: checking
+01366 wa-lowden-86-oldmeadow: 35 images
+01367 wa-mumballup-89-hearle: checking
+01367 wa-mumballup-89-hearle: off market
+01368 wa-beelerup-lot-74-donnybrook-boyup: checking
+01368 wa-beelerup-lot-74-donnybrook-boyup: 7 images
+01369 wa-balingup-lot-769-prowse: checking
+01369 wa-balingup-lot-769-prowse: 4 images
+01370 wa-binningup-186-229-runnymede: checking
+01370 wa-binningup-186-229-runnymede: 4 images
+{
+  "checked": 8,
+  "patched": []
+}
+[2026-05-15T13:00:35.018Z] Targeted gallery update finished with code 0
+
+[2026-05-15T13:32:01.227Z] Targeted gallery update started for Automatic suburb sweep: sa-ceduna-30-40-dowling
+01371 sa-ceduna-30-40-dowling: checking
+01371 sa-ceduna-30-40-dowling: 2 images
+{
+  "checked": 1,
+  "patched": []
+}
+[2026-05-15T13:32:32.289Z] Targeted gallery update finished with code 0
+
+[2026-05-15T14:03:14.207Z] Targeted gallery update started for Automatic large-property sweep: qld-conondale-27-scrubby-creek, qld-cootharaba-208-cootharaba, qld-cambroon-riverside-885-eastern-mary-river, qld-kidaman-creek-132-perrys, qld-obi-obi-708-obi-obi, qld-belli-park-1121-eumundi-kenilworth
+00001 qld-conondale-27-scrubby-creek: checking
+00001 qld-conondale-27-scrubby-creek: off market
+00002 qld-cootharaba-208-cootharaba: checking
+00002 qld-cootharaba-208-cootharaba: 35 images
+00003 qld-cambroon-riverside-885-eastern-mary-river: checking
+00003 qld-cambroon-riverside-885-eastern-mary-river: off market
+00004 qld-kidaman-creek-132-perrys: checking
+00004 qld-kidaman-creek-132-perrys: 35 images
+00005 qld-obi-obi-708-obi-obi: checking
+00005 qld-obi-obi-708-obi-obi: 35 images
+00007 qld-belli-park-1121-eumundi-kenilworth: checking
+00007 qld-belli-park-1121-eumundi-kenilworth: 35 images
+{
+  "checked": 6,
+  "patched": []
+}
+[2026-05-15T14:04:25.597Z] Targeted gallery update finished with code 0
+
+[2026-05-15T14:17:21.395Z] Targeted gallery update started for Automatic large-property sweep: qld-beechmont-summerville-road-5843ha, qld-beechmont-lot-25-binna-burra
+01310 qld-beechmont-summerville-road-5843ha: checking
+01310 qld-beechmont-summerville-road-5843ha: 13 images
+01311 qld-beechmont-lot-25-binna-burra: checking
+01311 qld-beechmont-lot-25-binna-burra: 19 images
+{
+  "checked": 2,
+  "patched": []
+}
+[2026-05-15T14:17:46.870Z] Targeted gallery update finished with code 0
+
+[2026-05-15T14:22:25.169Z] Targeted gallery update started for Automatic suburb sweep: wa-middleton-beach-6-marine
+01381 wa-middleton-beach-6-marine: checking
+01381 wa-middleton-beach-6-marine: off market
+{
+  "checked": 1,
+  "patched": []
+}
+[2026-05-15T14:22:36.036Z] Targeted gallery update finished with code 0
+
+[2026-05-15T15:06:45.805Z] Targeted gallery update started for Automatic large-property sweep: nsw-cattai-285-wisemans-ferry, nsw-south-maroota-173-gallaghers, nsw-south-maroota-156-paulls, nsw-wilberforce-35-hadden-ridge, nsw-wilberforce-84-burdekin
+00001 nsw-cattai-285-wisemans-ferry: checking
+00001 nsw-cattai-285-wisemans-ferry: 1 images
+00002 nsw-south-maroota-173-gallaghers: checking
+00002 nsw-south-maroota-173-gallaghers: 17 images
+00003 nsw-south-maroota-156-paulls: checking
+00003 nsw-south-maroota-156-paulls: 12 images
+00004 nsw-wilberforce-35-hadden-ridge: checking
+00004 nsw-wilberforce-35-hadden-ridge: 4 images
+00005 nsw-wilberforce-84-burdekin: checking
+00005 nsw-wilberforce-84-burdekin: 4 images
+{
+  "checked": 5,
+  "patched": []
+}
+[2026-05-15T15:08:06.887Z] Targeted gallery update finished with code 0

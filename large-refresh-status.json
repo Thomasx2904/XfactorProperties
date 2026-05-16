@@ -1,13 +1,13 @@
 {
-  "state": "complete",
+  "state": "running",
   "mode": "auto",
-  "message": "Finished Great Southern WA rural holdings, WA. Reloading large listings...",
-  "searchArea": "Great Southern WA rural holdings, WA",
-  "searchAreaPosition": 7,
+  "message": "Verifying large-block candidates in Mornington Peninsula and Gippsland acreage, VIC; 10/10 possible listings found...",
+  "searchArea": "Mornington Peninsula and Gippsland acreage, VIC",
+  "searchAreaPosition": 13,
   "searchAreaTotal": 15,
-  "searchDurationMinutes": 2,
-  "searchPriority": false,
-  "nextSearchArea": "Sunshine Coast hinterland acreage, QLD",
-  "nextAutoRefreshAt": "2026-05-15T08:12:43.785Z",
-  "updatedAt": "2026-05-15T08:07:43.788Z"
+  "searchDurationMinutes": 10,
+  "searchPriority": true,
+  "nextSearchArea": "Mornington Peninsula and Gippsland acreage, VIC",
+  "nextAutoRefreshAt": "2026-05-16T03:56:15.422Z",
+  "updatedAt": "2026-05-16T04:03:28.632Z"
 }

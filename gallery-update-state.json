@@ -17774,6 +17774,546 @@
         }
       ],
       "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T09:33:58.283Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-belford-55-hermitage",
+        "nsw-lostock-1644-paterson-river",
+        "nsw-muswellbrook-gap-view-wells-gully",
+        "nsw-kulnura-176-greta"
+      ],
+      "results": [
+        {
+          "displayId": "01345",
+          "id": "nsw-belford-55-hermitage",
+          "title": "55 Hermitage Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01346",
+          "id": "nsw-lostock-1644-paterson-river",
+          "title": "1644 Paterson River Road",
+          "imageCount": 31,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01347",
+          "id": "nsw-muswellbrook-gap-view-wells-gully",
+          "title": "\"Gap View\" Wells Gully Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01348",
+          "id": "nsw-kulnura-176-greta",
+          "title": "176 Greta Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T10:11:13.785Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-broke-158-166-hill",
+        "nsw-putty-557-box-gap",
+        "nsw-putty-9-kookaburra"
+      ],
+      "results": [
+        {
+          "displayId": "01349",
+          "id": "nsw-broke-158-166-hill",
+          "title": "158-166 Hill St",
+          "imageCount": 33,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01350",
+          "id": "nsw-putty-557-box-gap",
+          "title": "557 Box Gap Road",
+          "imageCount": 18,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01351",
+          "id": "nsw-putty-9-kookaburra",
+          "title": "9 Kookaburra Way",
+          "imageCount": 21,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T11:01:01.858Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-carrickalinga-12-bennett"
+      ],
+      "results": [
+        {
+          "displayId": "00494",
+          "id": "sa-carrickalinga-12-bennett",
+          "title": "12 Bennett Street",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T11:15:51.404Z",
+      "batchSize": 3,
+      "startDisplayId": "",
+      "targetIds": [
+        "vic-point-lonsdale-2150-bellarine",
+        "vic-swan-bay-1155-1189-swan-bay",
+        "vic-mannerim-65-banks"
+      ],
+      "results": [
+        {
+          "displayId": "00843",
+          "id": "vic-point-lonsdale-2150-bellarine",
+          "title": "2150 Bellarine Highway",
+          "imageCount": 5,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00844",
+          "id": "vic-swan-bay-1155-1189-swan-bay",
+          "title": "1155-1189 Swan Bay Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00845",
+          "id": "vic-mannerim-65-banks",
+          "title": "65 Banks Road",
+          "imageCount": 0,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "no-images"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T11:46:37.699Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-port-victoria-71-edwardes",
+        "sa-port-victoria-lot-8-davies"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "sa-port-victoria-71-edwardes",
+          "title": "71 Edwardes Terrace",
+          "imageCount": 27,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00002",
+          "id": "sa-port-victoria-lot-8-davies",
+          "title": "Lot 8 Davies Terrace",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T12:14:38.080Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-whyalla-lot-118-eight-mile-creek"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "sa-whyalla-lot-118-eight-mile-creek",
+          "title": "Lot 118 Eight Mile Creek Road, Cowleds Landing",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T12:40:55.204Z",
+      "batchSize": 4,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-coffin-bay-33a-esplanade",
+        "sa-coffin-bay-2-127-esplanade",
+        "sa-coffin-bay-1-41-long-beach",
+        "sa-coffin-bay-lot-9-long-beach"
+      ],
+      "results": [
+        {
+          "displayId": "01359",
+          "id": "sa-coffin-bay-33a-esplanade",
+          "title": "33a Esplanade",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01360",
+          "id": "sa-coffin-bay-2-127-esplanade",
+          "title": "2/127 Esplanade",
+          "imageCount": 28,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01361",
+          "id": "sa-coffin-bay-1-41-long-beach",
+          "title": "1-41 Long Beach Road",
+          "imageCount": 31,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01362",
+          "id": "sa-coffin-bay-lot-9-long-beach",
+          "title": "Lot 9/1-41 Long Beach Road",
+          "imageCount": 3,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T13:00:34.929Z",
+      "batchSize": 8,
+      "startDisplayId": "",
+      "targetIds": [
+        "wa-crooked-brook-882-joshua-creek",
+        "wa-rosa-brook-1793-rosa-brook",
+        "wa-mcalinden-660-mcalinden",
+        "wa-lowden-86-oldmeadow",
+        "wa-mumballup-89-hearle",
+        "wa-beelerup-lot-74-donnybrook-boyup",
+        "wa-balingup-lot-769-prowse",
+        "wa-binningup-186-229-runnymede"
+      ],
+      "results": [
+        {
+          "displayId": "01363",
+          "id": "wa-crooked-brook-882-joshua-creek",
+          "title": "882 Joshua Creek Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01364",
+          "id": "wa-rosa-brook-1793-rosa-brook",
+          "title": "1793 Rosa Brook Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01365",
+          "id": "wa-mcalinden-660-mcalinden",
+          "title": "660 McAlinden Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01366",
+          "id": "wa-lowden-86-oldmeadow",
+          "title": "86 Oldmeadow Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01367",
+          "id": "wa-mumballup-89-hearle",
+          "title": "89 Hearle Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "01368",
+          "id": "wa-beelerup-lot-74-donnybrook-boyup",
+          "title": "Lot 74 Donnybrook-Boyup Brook Road",
+          "imageCount": 7,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01369",
+          "id": "wa-balingup-lot-769-prowse",
+          "title": "Lot 769 Prowse Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01370",
+          "id": "wa-binningup-186-229-runnymede",
+          "title": "186 & 229 Runnymede Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T13:32:32.191Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "sa-ceduna-30-40-dowling"
+      ],
+      "results": [
+        {
+          "displayId": "01371",
+          "id": "sa-ceduna-30-40-dowling",
+          "title": "30 & 40 Dowling Crescent",
+          "imageCount": 2,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T14:04:25.542Z",
+      "batchSize": 6,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-conondale-27-scrubby-creek",
+        "qld-cootharaba-208-cootharaba",
+        "qld-cambroon-riverside-885-eastern-mary-river",
+        "qld-kidaman-creek-132-perrys",
+        "qld-obi-obi-708-obi-obi",
+        "qld-belli-park-1121-eumundi-kenilworth"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "qld-conondale-27-scrubby-creek",
+          "title": "27 Scrubby Creek Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00002",
+          "id": "qld-cootharaba-208-cootharaba",
+          "title": "208 Cootharaba Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00003",
+          "id": "qld-cambroon-riverside-885-eastern-mary-river",
+          "title": "\"Riverside\" 885 Eastern Mary River Road",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        },
+        {
+          "displayId": "00004",
+          "id": "qld-kidaman-creek-132-perrys",
+          "title": "132 Perrys Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00005",
+          "id": "qld-obi-obi-708-obi-obi",
+          "title": "708 Obi Obi Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00007",
+          "id": "qld-belli-park-1121-eumundi-kenilworth",
+          "title": "1121 Eumundi - Kenilworth Road",
+          "imageCount": 35,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T14:17:46.766Z",
+      "batchSize": 2,
+      "startDisplayId": "",
+      "targetIds": [
+        "qld-beechmont-summerville-road-5843ha",
+        "qld-beechmont-lot-25-binna-burra"
+      ],
+      "results": [
+        {
+          "displayId": "01310",
+          "id": "qld-beechmont-summerville-road-5843ha",
+          "title": "Summerville Road",
+          "imageCount": 13,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "01311",
+          "id": "qld-beechmont-lot-25-binna-burra",
+          "title": "Lot 25 Binna Burra Road",
+          "imageCount": 19,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T14:22:35.970Z",
+      "batchSize": 1,
+      "startDisplayId": "",
+      "targetIds": [
+        "wa-middleton-beach-6-marine"
+      ],
+      "results": [
+        {
+          "displayId": "01381",
+          "id": "wa-middleton-beach-6-marine",
+          "title": "6 Marine Terrace",
+          "imageCount": 0,
+          "unavailable": true,
+          "blocked": false,
+          "reason": "off-market"
+        }
+      ],
+      "patched": []
+    },
+    {
+      "updatedAt": "2026-05-15T15:08:06.809Z",
+      "batchSize": 5,
+      "startDisplayId": "",
+      "targetIds": [
+        "nsw-cattai-285-wisemans-ferry",
+        "nsw-south-maroota-173-gallaghers",
+        "nsw-south-maroota-156-paulls",
+        "nsw-wilberforce-35-hadden-ridge",
+        "nsw-wilberforce-84-burdekin"
+      ],
+      "results": [
+        {
+          "displayId": "00001",
+          "id": "nsw-cattai-285-wisemans-ferry",
+          "title": "285 Wisemans Ferry Road",
+          "imageCount": 1,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00002",
+          "id": "nsw-south-maroota-173-gallaghers",
+          "title": "173 Gallaghers Road",
+          "imageCount": 17,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00003",
+          "id": "nsw-south-maroota-156-paulls",
+          "title": "156 Paulls Road",
+          "imageCount": 12,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00004",
+          "id": "nsw-wilberforce-35-hadden-ridge",
+          "title": "Prop Lots 1-3, 35 Hadden Ridge Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        },
+        {
+          "displayId": "00005",
+          "id": "nsw-wilberforce-84-burdekin",
+          "title": "84 Burdekin Road",
+          "imageCount": 4,
+          "unavailable": false,
+          "blocked": false,
+          "reason": "ok"
+        }
+      ],
+      "patched": []
     }
   ]
 }

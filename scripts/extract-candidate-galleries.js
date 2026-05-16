@@ -200,6 +200,8 @@ async function main() {
   const chrome = spawn(chromePath, [
     `--remote-debugging-port=${chromePort}`,
     `--user-data-dir=${userDataDir}`,
+    "--no-sandbox",
+    "--disable-dev-shm-usage",
     "--disable-gpu",
     "--remote-allow-origins=*",
     "--no-first-run",
