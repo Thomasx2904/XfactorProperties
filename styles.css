@@ -1972,6 +1972,51 @@ h2 {
   max-height: calc(100vh - 20px);
 }
 
+@media (min-width: 768px) and (max-width: 1440px) {
+  .results-layout {
+    grid-template-columns: clamp(280px, 32vw, 460px) minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .property-card {
+    position: sticky;
+    top: 10px;
+    max-height: calc(100vh - 20px);
+    overflow: auto;
+  }
+
+  .media {
+    aspect-ratio: 16 / 8.5;
+  }
+
+  .property-body {
+    gap: 5px;
+    padding: 8px;
+  }
+
+  .numbers {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 4px;
+  }
+
+  .numbers span {
+    min-height: 40px;
+    padding: 5px 6px;
+  }
+
+  .comparison-panel {
+    top: 10px;
+  }
+
+  .comparison-table-wrap {
+    max-height: calc(100vh - 20px);
+  }
+}
+
 @media (max-width: 560px) {
   .stats,
   .grid-two {

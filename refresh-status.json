@@ -1,13 +1,13 @@
 {
-  "state": "complete",
+  "state": "running",
   "mode": "auto",
-  "message": "Finished Gnarabup, WA. Reloading listings...",
-  "searchArea": "Gnarabup, WA",
-  "searchAreaPosition": 51,
+  "message": "Verifying candidates in Dunsborough, WA; 10/10 possible listings found...",
+  "searchArea": "Dunsborough, WA",
+  "searchAreaPosition": 52,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 2,
   "searchPriority": false,
   "nextSearchArea": "Dunsborough, WA",
   "nextAutoRefreshAt": "2026-05-16T04:18:52.609Z",
-  "updatedAt": "2026-05-16T04:13:52.613Z"
+  "updatedAt": "2026-05-16T04:29:43.802Z"
 }

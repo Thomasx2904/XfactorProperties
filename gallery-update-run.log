@@ -7219,3 +7219,14 @@ No gallery candidates found.
   "patched": []
 }
 [2026-05-15T15:08:06.887Z] Targeted gallery update finished with code 0
+
+[2026-05-16T04:25:25.346Z] Targeted gallery update started for Automatic large-property sweep: vic-lara-west-psp-700327880, vic-balliang-address-700364040
+01229 vic-lara-west-psp-700327880: checking
+01229 vic-lara-west-psp-700327880: off market
+01230 vic-balliang-address-700364040: checking
+01230 vic-balliang-address-700364040: off market
+{
+  "checked": 2,
+  "patched": []
+}
+[2026-05-16T04:25:47.101Z] Targeted gallery update finished with code 0

@@ -1,13 +1,13 @@
 {
-  "state": "running",
+  "state": "complete",
   "mode": "auto",
-  "message": "Verifying large-block candidates in Geelong, Surf Coast and Bellarine acreage, VIC; 10/10 possible listings found...",
+  "message": "Finished Geelong, Surf Coast and Bellarine acreage, VIC. Reloading large listings...",
   "searchArea": "Geelong, Surf Coast and Bellarine acreage, VIC",
   "searchAreaPosition": 14,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Geelong, Surf Coast and Bellarine acreage, VIC",
-  "nextAutoRefreshAt": "2026-05-16T04:16:45.539Z",
-  "updatedAt": "2026-05-16T04:24:36.013Z"
+  "nextSearchArea": "Western Victoria rural lifestyle holdings, VIC",
+  "nextAutoRefreshAt": "2026-05-16T04:30:25.309Z",
+  "updatedAt": "2026-05-16T04:25:25.314Z"
 }
