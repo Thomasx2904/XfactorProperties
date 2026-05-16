@@ -1,13 +1,13 @@
 {
   "state": "complete",
   "mode": "auto",
-  "message": "Finished Prevelly, WA. Reloading listings...",
-  "searchArea": "Prevelly, WA",
-  "searchAreaPosition": 50,
+  "message": "Finished Gnarabup, WA. Reloading listings...",
+  "searchArea": "Gnarabup, WA",
+  "searchAreaPosition": 51,
   "searchAreaTotal": 170,
   "searchDurationMinutes": 2,
   "searchPriority": false,
-  "nextSearchArea": "Gnarabup, WA",
-  "nextAutoRefreshAt": "2026-05-16T04:02:40.700Z",
-  "updatedAt": "2026-05-16T03:57:40.703Z"
+  "nextSearchArea": "Dunsborough, WA",
+  "nextAutoRefreshAt": "2026-05-16T04:18:52.609Z",
+  "updatedAt": "2026-05-16T04:13:52.613Z"
 }

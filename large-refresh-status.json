@@ -1,13 +1,13 @@
 {
   "state": "running",
   "mode": "auto",
-  "message": "Verifying large-block candidates in Mornington Peninsula and Gippsland acreage, VIC; 10/10 possible listings found...",
-  "searchArea": "Mornington Peninsula and Gippsland acreage, VIC",
-  "searchAreaPosition": 13,
+  "message": "Verifying large-block candidates in Geelong, Surf Coast and Bellarine acreage, VIC; 10/10 possible listings found...",
+  "searchArea": "Geelong, Surf Coast and Bellarine acreage, VIC",
+  "searchAreaPosition": 14,
   "searchAreaTotal": 15,
   "searchDurationMinutes": 10,
   "searchPriority": true,
-  "nextSearchArea": "Mornington Peninsula and Gippsland acreage, VIC",
-  "nextAutoRefreshAt": "2026-05-16T03:56:15.422Z",
-  "updatedAt": "2026-05-16T04:03:28.632Z"
+  "nextSearchArea": "Geelong, Surf Coast and Bellarine acreage, VIC",
+  "nextAutoRefreshAt": "2026-05-16T04:16:45.539Z",
+  "updatedAt": "2026-05-16T04:17:14.187Z"
 }

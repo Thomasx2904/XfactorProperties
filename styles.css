@@ -1744,7 +1744,7 @@ h2 {
   }
 
   .results-layout {
-    grid-template-columns: clamp(260px, 32vw, 360px) minmax(0, 1fr);
+    grid-template-columns: clamp(280px, 31vw, 430px) minmax(0, 1fr);
     gap: 10px;
   }
 
@@ -1830,6 +1830,74 @@ h2 {
 
   .comparison-panel {
     position: sticky;
+    top: 10px;
+  }
+
+  .comparison-table-wrap {
+    max-height: calc(100vh - 20px);
+  }
+}
+
+@media (min-width: 1181px) and (max-width: 1366px) and (pointer: coarse) {
+  .results-layout {
+    grid-template-columns: clamp(360px, 31vw, 430px) minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .property-card {
+    position: sticky;
+    top: 10px;
+    max-height: calc(100vh - 20px);
+    overflow: auto;
+  }
+
+  .property-card:hover {
+    transform: none;
+  }
+
+  .media {
+    aspect-ratio: 16 / 8.5;
+  }
+
+  .property-body {
+    gap: 5px;
+    padding: 8px;
+  }
+
+  .property-card h2 {
+    font-size: 0.92rem;
+  }
+
+  .numbers {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 4px;
+  }
+
+  .numbers span {
+    min-height: 40px;
+    padding: 5px 6px;
+  }
+
+  .numbers strong {
+    font-size: 0.68rem;
+  }
+
+  .numbers .city,
+  .numbers small {
+    font-size: 0.58rem;
+  }
+
+  .property-note {
+    min-height: 44px;
+    padding: 6px 7px;
+    font-size: 0.74rem;
+  }
+
+  .comparison-panel {
     top: 10px;
   }
 
