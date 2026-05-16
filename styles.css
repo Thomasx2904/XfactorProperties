@@ -1906,6 +1906,72 @@ h2 {
   }
 }
 
+:root.tablet-layout .results-layout {
+  grid-template-columns: clamp(300px, 33vw, 450px) minmax(0, 1fr);
+  gap: 10px;
+}
+
+:root.tablet-layout .cards {
+  grid-template-columns: 1fr;
+}
+
+:root.tablet-layout .property-card {
+  position: sticky;
+  top: 10px;
+  max-height: calc(100vh - 20px);
+  overflow: auto;
+}
+
+:root.tablet-layout .property-card:hover {
+  transform: none;
+}
+
+:root.tablet-layout .media {
+  aspect-ratio: 16 / 8.5;
+}
+
+:root.tablet-layout .property-body {
+  gap: 5px;
+  padding: 8px;
+}
+
+:root.tablet-layout .property-card h2 {
+  font-size: 0.92rem;
+}
+
+:root.tablet-layout .numbers {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 4px;
+}
+
+:root.tablet-layout .numbers span {
+  min-height: 40px;
+  padding: 5px 6px;
+}
+
+:root.tablet-layout .numbers strong {
+  font-size: 0.68rem;
+}
+
+:root.tablet-layout .numbers .city,
+:root.tablet-layout .numbers small {
+  font-size: 0.58rem;
+}
+
+:root.tablet-layout .property-note {
+  min-height: 44px;
+  padding: 6px 7px;
+  font-size: 0.74rem;
+}
+
+:root.tablet-layout .comparison-panel {
+  top: 10px;
+}
+
+:root.tablet-layout .comparison-table-wrap {
+  max-height: calc(100vh - 20px);
+}
+
 @media (max-width: 560px) {
   .stats,
   .grid-two {
