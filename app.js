@@ -18292,7 +18292,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au listing on a tightly held 513m2 beachfront parcel, advertised as set high on the dunes with water views and beach access just metres away. Price advertised as Contact Agent.",
-    "images": [],
+    "image": "https://i2.au.reastatic.net/800x600/b3570094e50f57705dce91f832087427604206895bc1965c6272cc8d7518a7a9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b3570094e50f57705dce91f832087427604206895bc1965c6272cc8d7518a7a9/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150163808",
     "priceLabel": "$5m+",
     "priceSource": "realestate_hidden_range",
@@ -39646,6 +39649,145 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/e019a46ceb24c9883b35eaa0a01e99da636a5373865559e83fc5fd66b422320a/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150401424"
+  },
+  {
+    "id": "qld-peregian-beach-7-lorikeet",
+    "title": "7 Lorikeet Drive",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2750000,
+    "landSize": 562,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Metres to beach access",
+      "Beachside pocket",
+      "STA licence",
+      "Village walk"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing advertised as just metres from beach access, with an approved Noosa Shire STA licence, pool, private coastal setting and walkable access to Peregian Beach Village. Price advertised as $2.75m+.",
+    "image": "https://i2.au.reastatic.net/800x600/ef318d9212574bac91d9c9d381ee39703d27c837438462b7aee59771ab3501a9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ef318d9212574bac91d9c9d381ee39703d27c837438462b7aee59771ab3501a9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150179204",
+    "priceLabel": "$2.75M+"
+  },
+  {
+    "id": "qld-peregian-beach-3-peregian-esplanade",
+    "title": "3 Peregian Esplanade",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "listedDate": "2026-04-28",
+    "price": null,
+    "landSize": 1841,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Peregian Esplanade",
+      "Private beach pathway",
+      "Ocean views",
+      "Large coastal holding"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing advertised as a landmark Peregian Esplanade coastal holding with ocean views, an 1841m2 allotment and private fenced access to a pathway leading directly to the beach. Price advertised as Sale By Negotiation.",
+    "image": "https://i2.au.reastatic.net/800x600/68db56dcdc0977d5d9c0b925aa592a9515cd2953e9ca236a73eef249a89d9586/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/68db56dcdc0977d5d9c0b925aa592a9515cd2953e9ca236a73eef249a89d9586/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-151026328",
+    "priceLabel": "Sale By Negotiation"
+  },
+  {
+    "id": "qld-peregian-beach-3-avocet",
+    "title": "3 Avocet Parade",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 3400000,
+    "landSize": 779,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "100m to beach",
+      "Ocean glimpses",
+      "DA-approved duplex plans",
+      "Beachside redevelopment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing advertised as a blue-chip 779m2 beachside corner site about 100m from the sand, with ocean glimpses and DA-approved duplex redevelopment potential. Price advertised at $3.4m.",
+    "image": "https://i2.au.reastatic.net/800x600/e3ce98f8fcbb5fa094a2f13d8f430854d8498245cc7bb2ab24bde7b8a831b8a7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e3ce98f8fcbb5fa094a2f13d8f430854d8498245cc7bb2ab24bde7b8a831b8a7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-149334212"
+  },
+  {
+    "id": "qld-peregian-beach-2-32-avocet",
+    "title": "2/32 Avocet Parade",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 1000000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean-view unit",
+      "Beach access",
+      "Boutique complex",
+      "Village stroll"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach unit listing advertised with ocean views, beach access, a boutique elevated complex and short stroll to Peregian Beach Village and the sand. Price advertised as Price Guide $1m.",
+    "image": "https://i2.au.reastatic.net/800x600/17f56fe85b77e9e972127439114ca0a16eacb6d37e7d34e1e5cdb4b4f27d41c5d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/17f56fe85b77e9e972127439114ca0a16eacb6d37e7d34e1e5cdb4b4f27d41c5d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-peregian%2Bbeach-149520920",
+    "priceLabel": "Price Guide $1M"
+  },
+  {
+    "id": "qld-peregian-beach-1-13-plover",
+    "title": "1/13 Plover Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 1550000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Plover Street pocket",
+      "Moments to sand",
+      "Village walk",
+      "Boutique complex"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach apartment listing in a prized Plover Street pocket, advertised as moments from the sand and Peregian Village, with low-maintenance ground-floor living in a boutique complex of three. Price advertised as Offers Over $1.55m.",
+    "image": "https://i2.au.reastatic.net/800x600/8877398a615f321298088f0696e21aa5aa34c7651630106ee452c08f6896b9d4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8877398a615f321298088f0696e21aa5aa34c7651630106ee452c08f6896b9d4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-peregian%2Bbeach-149959932",
+    "priceLabel": "Offers Over $1,550,000"
   },
   {
     "id": "qld-cambroon-333-booloumba-creek",
