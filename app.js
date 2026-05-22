@@ -14917,7 +14917,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Absolute beachfront Northcliffe Residences apartment with direct beach access and ocean-view Beach Club. Price advertised as contact agent.",
-    "image": "https://www.realestate.com.au/property-image/150609700/1",
+    "image": "https://i2.au.reastatic.net/800x600/bc3d04b498cb56eefacfec8c406579ed9fa9723ef884aade1f76408a887278f2/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/bc3d04b498cb56eefacfec8c406579ed9fa9723ef884aade1f76408a887278f2/image.jpg",
       "https://i2.au.reastatic.net/800x600/7d7fcc5d59fb4273e2fd50fc40f8f346fe3b51c64bff5cec743f9f197f864b68/image.jpg",
@@ -62117,10 +62117,590 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-qld-peregian%2Bbeach-150040932",
     "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-2803-4-esplanade",
+    "title": "2803/4 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1695000,
+    "priceLabel": "$1,695,000",
+    "landSize": 130,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Peppers Soul beachfront tower",
+      "The Esplanade front-row position",
+      "Uninterrupted ocean views",
+      "Five-star resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-28 Peppers Soul apartment positioned opposite Surfers Paradise Beach at The Esplanade, with never-to-be-built-out ocean and beach views, 130m2 building size and resort facilities. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/27cec49895f9079ec71e16f54e6f035dd482c248e3f88c7658e0cdaa41dd2db9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/27cec49895f9079ec71e16f54e6f035dd482c248e3f88c7658e0cdaa41dd2db9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-147968528",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-10d-4-old-burleigh",
+    "title": "10D/4 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-04-02",
+    "price": 1725000,
+    "priceLabel": "Offers Over $1,725,000",
+    "landSize": 143,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Surfers Aquarius absolute beachfront",
+      "Direct sand access",
+      "2.5-acre beachfront grounds",
+      "Renovated ocean-view apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a renovated Surfers Aquarius apartment in a tightly held absolute beachfront address, with direct access to the sand, private direct beach access, resort amenities and 143m2 building size. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/11725759cd1ac4a9029a6010cc74608f425d6f48fd8d79f9fd05966a14a2f492/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/11725759cd1ac4a9029a6010cc74608f425d6f48fd8d79f9fd05966a14a2f492/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150779768",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-4402-4-esplanade",
+    "title": "4402/4 The Esplanade Street",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1690000,
+    "priceLabel": "$1,690,000 Offers",
+    "landSize": 132,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Peppers Soul beachfront resort",
+      "Level 44 ocean panorama",
+      "The Esplanade front row",
+      "Fully furnished resort apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-44 Peppers Soul apartment in an iconic beachfront Surfers Paradise resort, with ocean, city and hinterland views and about 132m2 of apartment area. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4c8f6755143b1460274471185a9ec3f0bd78e3dad60e10a6034e10cbb5ecb6be/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4c8f6755143b1460274471185a9ec3f0bd78e3dad60e10a6034e10cbb5ecb6be/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150773408",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-5104-4-esplanade",
+    "title": "5104/4 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-05-02",
+    "price": 1775000,
+    "priceLabel": "$1,775,000",
+    "landSize": 150,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Soul Surfers Paradise sky home",
+      "Absolute beachfront locale",
+      "East-facing coastline views",
+      "150m2 apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-51 Soul Surfers Paradise apartment in an absolute beachfront locale, with 150m2 of internal and external living, east-facing ocean views and resort amenities. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/eb8f38f0ed84f04f8eadedc1a972f8b2c5b3e0ed2745d3172c4fab6b64656c69/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/eb8f38f0ed84f04f8eadedc1a972f8b2c5b3e0ed2745d3172c4fab6b64656c69/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-151078984",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-9e-4-old-burleigh",
+    "title": "9E/4 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1750000,
+    "priceLabel": "Offers over $1,750,000",
+    "landSize": 143,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront access",
+      "Private pathways to sand",
+      "No roads to cross",
+      "Surfers Aquarius resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-9 Surfers Aquarius apartment with absolute beachfront location, private pathways providing direct sand access, no roads to cross and a 143m2 floor plan. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/86e924f856e72cae6622daf7a1c0e22fcb2d41a8fd0852e88ae4186147bde696/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/86e924f856e72cae6622daf7a1c0e22fcb2d41a8fd0852e88ae4186147bde696/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-150589692",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-14-120-esplanade",
+    "title": "14/120 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-04-28",
+    "price": 870000,
+    "priceLabel": "$870,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade beachfront address",
+      "Moments to sand and surf",
+      "Resort-style complex",
+      "Low-maintenance coastal apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a The Esplanade apartment in the heart of Surfers Paradise, positioned moments from the beach, cafes and dining, with resort-style complex facilities. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/cd1f3f79fdaf80934a247a4a389f8b435ee76a45259f7187925614b2fa555091/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/cd1f3f79fdaf80934a247a4a389f8b435ee76a45259f7187925614b2fa555091/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-151024248",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-43a-43b-64-esplanade",
+    "title": "43A & 43B/64 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1795000,
+    "priceLabel": "$1,795,000",
+    "landSize": 221,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Absolute beachfront penthouse",
+      "The Esplanade front-row address",
+      "Full-floor dual living",
+      "221m2 internal size"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 20 May 2026 from the exact direct listing URL. The page advertises a Suntower penthouse positioned directly on the beachfront of Surfers Paradise, with absolute beachfront luxury, uninterrupted ocean panoramas, 5 bedrooms and 221m2 internal size. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/b8sau77MZyU0D9Orje5KvgTBk0Q=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020650936_0_0_250506_031822-w2000-h1334",
+    "images": [
+      "https://rimh2.domainstatic.com.au/b8sau77MZyU0D9Orje5KvgTBk0Q=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020650936_0_0_250506_031822-w2000-h1334"
+    ],
+    "listingUrl": "https://www.domain.com.au/43a-43b-64-the-esplanade-surfers-paradise-qld-4217-2020650936",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-12902-36-old-burleigh",
+    "title": "12902/36 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 3228000,
+    "priceLabel": "$3,228,000",
+    "landSize": 175,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jewel Private Residences",
+      "Absolute beachfront location",
+      "Move-in ready apartment",
+      "Langham amenity access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a completed Jewel Private Residences apartment in an absolute beachfront location between Surfers Paradise and Broadbeach, with 175m2 building size, premium finishes and Langham amenities. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/39af031e4f142a23dab7a070819c66c81d4a268508237d1b845a42f047ee9c52/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/39af031e4f142a23dab7a070819c66c81d4a268508237d1b845a42f047ee9c52/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150323312",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-31604-36-old-burleigh",
+    "title": "31604/36 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 6128780,
+    "priceLabel": "$6,128,780",
+    "landSize": 264,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jewel Diamond Collection",
+      "Absolute beachfront living",
+      "Oceanfront balcony",
+      "Concierge and Langham amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a Jewel Diamond Collection residence with absolute beachfront living, ocean and coastline vistas, 264m2 building size, residential concierge service and Langham amenities. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/acb155cd2ff7260e6f6334b4f2a1de1cf1339ee62d1e3da070c2f87cf8d6b889/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/acb155cd2ff7260e6f6334b4f2a1de1cf1339ee62d1e3da070c2f87cf8d6b889/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-149485624",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-surfers-paradise-31203-36-old-burleigh",
+    "title": "31203/36 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 3372720,
+    "priceLabel": "$3,372,720",
+    "landSize": 146.97,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jewel Diamond Collection",
+      "Absolute beachfront position",
+      "Panoramic ocean views",
+      "Move-in ready residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a completed Jewel Diamond Collection apartment with absolute beachfront position, panoramic ocean views, 146.97m2 building size, a 36m2 balcony and five-star hotel amenities. Five-year Surfers Paradise unit growth evidence was checked; mixed exact-suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/42be336f722b107b243bab523779312a74f9e9535c656a36062b3dff9aa55f56b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/42be336f722b107b243bab523779312a74f9e9535c656a36062b3dff9aa55f56b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-148099796",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-202-270-esplanade",
+    "title": "202/270 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 5975000,
+    "priceLabel": "$5,975,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "MYST North Burleigh beachfront residence",
+      "The Esplanade front-row address",
+      "Ocean-to-hinterland views",
+      "245m2 half-floor apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 202 in MYST Burleigh Heads at 270 The Esplanade, a beachfront North Burleigh address about 50m from the beach, with a 245m2 four-bedroom half-floor layout, bookend balconies, ocean-to-hinterland views and completion anticipated late 2027. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8bc1c9f38560b2cd063da9739689c2ac7c4d19fcc0ae951467d2db5b6567e741/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8bc1c9f38560b2cd063da9739689c2ac7c4d19fcc0ae951467d2db5b6567e741/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150187268",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-201-270-esplanade",
+    "title": "201/270 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-02-05",
+    "price": 6000000,
+    "priceLabel": "$6,000,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "MYST ocean-front half-floor home",
+      "The Esplanade North Burleigh position",
+      "Sweeping ocean-to-hinterland outlooks",
+      "245m2 four-bedroom layout"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 201 in MYST Burleigh Heads at 270 The Esplanade, an ocean-front half-floor home with a 245m2 four-bedroom layout, expansive bookend balconies, dual living areas and late-2027 anticipated completion. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/fe6d2e6895a3027efcd6cc607b2810d864de8b8563d164fc9ce222e1af8e73e4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fe6d2e6895a3027efcd6cc607b2810d864de8b8563d164fc9ce222e1af8e73e4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150186820",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-301-270-esplanade",
+    "title": "301/270 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 6100000,
+    "priceLabel": "$6,100,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "MYST beachfront development",
+      "The Esplanade front-row address",
+      "Sweeping ocean views",
+      "245m2 half-floor residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 301 in MYST Burleigh Heads at 270 The Esplanade, a level-3 four-bedroom half-floor residence with a 245m2 building size, ocean-to-hinterland views, bookend balconies and under-construction beachfront positioning. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c79c8d5ed4fdd4998de140422a3118888b406df5ba5e28f227341b5f2811cadd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c79c8d5ed4fdd4998de140422a3118888b406df5ba5e28f227341b5f2811cadd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150187620",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-26-100-esplanade",
+    "title": "26/100 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1750000,
+    "priceLabel": "Offers Over $1,750,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ambassador beachfront apartment",
+      "Direct beach access on doorstep",
+      "Top-floor ocean and hinterland views",
+      "The Esplanade position"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a renovated top-floor Ambassador apartment at 100 The Esplanade, set on over 2000m2 of beachfront land with direct beach access, ocean and hinterland views from every room, pool facilities and a short walk to James Street. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e6e0ac664c52ae44b832c6a1371cb540707f567d5c0a14591c99f695e25c16c3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e6e0ac664c52ae44b832c6a1371cb540707f567d5c0a14591c99f695e25c16c3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-150560508",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-17-30-40-esplanade",
+    "title": "17/30-40 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-04-10",
+    "price": 1749000,
+    "priceLabel": "Offers Over $1,749,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Pacific Regis beachfront lifestyle",
+      "Directly opposite Burleigh Beach",
+      "Level 5 north-east ocean views",
+      "Resort pools, spa, gym and tennis"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-5 Pacific Regis apartment directly opposite Burleigh Beach, with a north-east aspect, ocean and headland views, secure basement parking and resort-style facilities including indoor and outdoor pools, spa, sauna, gym and tennis/pickleball courts. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/82fb088db88d7cebf055a12f7463a43a6cc0042d9c0fdf78cca476fe40facaf5/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/82fb088db88d7cebf055a12f7463a43a6cc0042d9c0fdf78cca476fe40facaf5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-150850384",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-17-82-esplanade",
+    "title": "17/82 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1500000,
+    "priceLabel": "Offers Over $1,500,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade coastal address",
+      "Footsteps to Burleigh Beach",
+      "Level 6 panoramic ocean views",
+      "Wyuna resort-style pool setting"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a level-6 apartment in The Wyuna on Burleigh Heads Esplanade, mere footsteps from the coastline, with a north-east aspect, panoramic ocean views, alfresco balcony, secure basement parking and pool amenity. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a76e29dfcf42ae13033e161a417216d9717e14d4c34da8a55a81d4dc4a9f233a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a76e29dfcf42ae13033e161a417216d9717e14d4c34da8a55a81d4dc4a9f233a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-148814276",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-8-72-esplanade",
+    "title": "8/72 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": 2,
+    "price": 1895000,
+    "priceLabel": "Offers over $1,895,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Boardwalk Burleigh beachside resort",
+      "Direct beach access",
+      "Step out the back door to sand",
+      "Three-bedroom lifestyle apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a Boardwalk Burleigh Heads apartment at 72 The Esplanade with direct beach access, the ability to step out the back door onto the beach, resort pool, spa, cabanas, gym and a three-bedroom layout. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3c69e13876a1ef7cc7b577656e534ea0a5cbf452979ffb776cf1572d737e9475/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3c69e13876a1ef7cc7b577656e534ea0a5cbf452979ffb776cf1572d737e9475/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-149230296",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-302-216-esplanade",
+    "title": "302/216 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 4950000,
+    "priceLabel": "$4,950,000",
+    "landSize": 237,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean Place absolute beachfront",
+      "216 The Esplanade beach-at-doorstep address",
+      "Half-floor 237m2 residence",
+      "Private wellness retreat"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 302 in Ocean Place at 216 The Esplanade, an absolute beachfront half-floor residence with 237m2 building size, panoramic southeast beach-to-horizon views, beachfront balcony and resident wellness retreat. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/5cc955362e68e0f2a3b18f5a3048d79358f4115722db8a7f2d2addf33ec2d64a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5cc955362e68e0f2a3b18f5a3048d79358f4115722db8a7f2d2addf33ec2d64a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-148466312",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-501-216-esplanade",
+    "title": "501/216 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 5125000,
+    "priceLabel": "$5,125,000",
+    "landSize": 234,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean Place Burleigh beachfront",
+      "Beach-at-doorstep Esplanade address",
+      "234m2 north-facing half-floor residence",
+      "Panoramic beachfront views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 501 in Ocean Place at 216 The Esplanade, a level-5 north-facing half-floor beachfront residence with 234m2 building size, ocean-facing living spaces, deep balcony, private wellness retreat and construction on track for late 2027 delivery. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/102569c02aa06062262b2dc9b7ddbd685f052ffb541807612735b89b45504fa6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/102569c02aa06062262b2dc9b7ddbd685f052ffb541807612735b89b45504fa6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-148466272",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-1002-216-esplanade",
+    "title": "1002/216 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 5725000,
+    "priceLabel": "$5,725,000",
+    "landSize": 237,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean Place beachfront sky residence",
+      "216 The Esplanade beach-at-doorstep position",
+      "237m2 half-floor layout",
+      "Sweeping Burleigh Beach views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises Residence 1002 in Ocean Place at 216 The Esplanade, a level-10 half-floor beachfront residence with 237m2 building size, sweeping southeast Burleigh Beach views, deep beachfront balcony, V-ZUG kitchen and resident wellness retreat. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c644ad920b408988426ff70e9705bc68b59255877b017b2b135c85de48c09968/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c644ad920b408988426ff70e9705bc68b59255877b017b2b135c85de48c09968/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-148466188",
+    "investmentStar": false
   }
 ];
 
-const databaseUpdatedAt = "2026-05-19 15:32";
+const databaseUpdatedAt = "2026-05-20 23:42";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
