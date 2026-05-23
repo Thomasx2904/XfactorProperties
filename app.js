@@ -13,6 +13,553 @@
 
 const sampleProperties = [
   {
+    "id": "wa-fairbridge-5059-south-western",
+    "title": "5059 South Western Highway",
+    "suburb": "Fairbridge",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 60,
+    "listedDate": "2026-05-04",
+    "price": null,
+    "priceLabel": "NEW TO MARKET - contact agent for price guide",
+    "landSize": 400000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40ha Perth fringe rural estate",
+      "South Dandalup River frontage",
+      "Dual-living and rental-income upside",
+      "Seven paddocks, cattle yards, bore, dam and 300sqm shed"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Fairbridge rural listing verified 23 May 2026 from the exact direct listing URL. The listing advertises 40ha with a 2018 solar-passive home, adjoining studio accommodation, self-contained granny flat, productive pastures, South Dandalup River frontage, seven paddocks, Jarrah cattle yards, bore-fed gardens, dam, solar power and a 300sqm shed, about one hour from Perth via the Pinjarra/Fairbridge corridor. The portal does not publish an asking price and supporting sources identify the price as contact agent/new to market. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/73f32f2f3db74a8422f1ebfd945b9c45145c928e599b72e78fa693689903a693/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/73f32f2f3db74a8422f1ebfd945b9c45145c928e599b72e78fa693689903a693/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-wa-fairbridge-700406416",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "wa-nowergup-436-gibbs",
+    "title": "436 Gibbs Road",
+    "suburb": "Nowergup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 45,
+    "price": 995000,
+    "priceLabel": "$995,000 PLUS",
+    "landSize": 276000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "27.6ha northern Perth fringe bushland",
+      "Five minutes from Romeo Road and freeway access",
+      "Adjacent to Nowergup Lake Fauna Sanctuary",
+      "One-hectare building envelope in a rural conservation precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Nowergup residential-land listing verified 23 May 2026 from the exact direct listing URL. The listing advertises approximately 27.6ha / 68 acres in a rural conservation precinct with a roughly 1ha building envelope, adjacency to Nowergup Lake Fauna Sanctuary and Neerabup National Park, and access about five minutes from Romeo Road and the end of the freeway. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/6891425a68d4ec8e69a48c807f4fcc79d4e70356fb3051fc09b9dfead6115048/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6891425a68d4ec8e69a48c807f4fcc79d4e70356fb3051fc09b9dfead6115048/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-nowergup-204041104",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-swan-bay-1195-swan-bay",
+    "title": "1195 Swan Bay Road",
+    "suburb": "Swan Bay",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "price": 3525000,
+    "priceLabel": "Indicative price: $3,400,000 - $3,650,000",
+    "priceSource": "realestate_hidden_range",
+    "hiddenPriceCode": "3400000-3650000",
+    "hiddenPriceRange": [
+      3400000,
+      3650000
+    ],
+    "landSize": 300000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "30ha Bellarine coast-meets-country lifestyle holding",
+      "About 700m to Swan Bay jetty and boat ramp",
+      "Two separate residences, pool, tennis court and bay views",
+      "Machinery shed, large dam, productive gardens and guest accommodation upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Swan Bay lifestyle listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 30ha as Bayview Farm, about 700m from the Swan Bay jetty and boat ramp, with two residences, a renovated main home, self-contained cabin, pool, tennis court, productive gardens, a machinery shed, large dam, water tanks and access to Point Lonsdale, Drysdale and Portarlington within about 10 minutes. The realestate.com.au page hides the asking price but displays an indicative range of $3,400,000 - $3,650,000. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b1a721a99347b67357b1f1ebd70bb5455e8973f75e8d94edb4e1d2f1992b4b7b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b1a721a99347b67357b1f1ebd70bb5455e8973f75e8d94edb4e1d2f1992b4b7b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-vic-swan%2Bbay-700371052",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-inverleigh-1145-inverleigh-winchelsea",
+    "title": "1145 Inverleigh-Winchelsea Road",
+    "suburb": "Inverleigh",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 85,
+    "price": 2310000,
+    "priceLabel": "$2,200,000.00 - $2,420,000.00",
+    "landSize": 295000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "29.5ha / 73-acre productive Geelong fringe holding",
+      "Approximately 1.5km of Barwon River frontage",
+      "76ML winter-fill water licence and 75ML dam storage",
+      "Centre pivot irrigation, lucerne, stables, machinery and hay shedding"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Inverleigh lifestyle listing verified 22 May 2026 from the exact direct listing URL. The listing advertises 29.5ha / approximately 73 acres with about 1.5km of Barwon River frontage, a 76ML winter-fill water licence, 50ML and 25ML dams, centre pivot irrigation, lucerne, rye and clover paddocks, stable and machinery infrastructure, and access to Inverleigh in under five minutes, Winchelsea in 10 minutes, Geelong in 30 minutes and Melbourne in about 85 minutes. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/24f273ab1e7cf7c5b90369151e53674780868b1d4493ab6450dd80f255cc93a8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/24f273ab1e7cf7c5b90369151e53674780868b1d4493ab6450dd80f255cc93a8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-vic-inverleigh-700392496",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-lara-390-windermere",
+    "title": "390 Windermere Road",
+    "suburb": "Lara",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "price": 29000000,
+    "priceLabel": "Indicative price: $28,000,000 - $30,000,000",
+    "priceSource": "realestate_hidden_range",
+    "hiddenPriceCode": "28000000-30000000",
+    "hiddenPriceRange": [
+      28000000,
+      30000000
+    ],
+    "landSize": 404700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.47ha / 100-acre Lara landholding",
+      "Directly opposite Lara West PSP",
+      "Close to Lara town centre, train station, Princes Freeway and Avalon Airport",
+      "Long-settlement land banking and future development upside STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Lara residential-land listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 40.47ha / 100 acres at 390 Windermere Road directly opposite Lara West PSP, minutes from Lara town centre, Lara train station, Princes Freeway and Avalon Airport, with future development or land-banking potential STCA and flexible 3 to 5 year settlement terms. The realestate.com.au page hides the asking price but displays an indicative range of $28,000,000 - $30,000,000. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/34d1718b3e98c40d4d46c5699119733c5c858ce8d3831bb21caaab1732322ce4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/34d1718b3e98c40d4d46c5699119733c5c858ce8d3831bb21caaab1732322ce4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-lara-204315720",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-lovely-banks-950-1030-ballan",
+    "title": "950 -1030 Ballan Rd",
+    "suburb": "Lovely Banks",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "price": null,
+    "priceLabel": "Expression of Interest",
+    "landSize": 436400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "43.64ha / 107-acre Greater Geelong poultry enterprise",
+      "Five modernised RSPCA free-range compliant sheds",
+      "About 11 minutes to Geelong and 30 minutes to Turosi Breakwater",
+      "Operational income potential plus renovated homestead"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Lovely Banks residential-land listing verified 22 May 2026 from the exact direct listing URL. The listing advertises Lothian Farm, approximately 43.64ha / 107 acres with five fully operational modernised RSPCA free-range compliant poultry sheds, climate control, automation, security, a renovated 1940s five-bedroom homestead, and a strategic position about 11 minutes from Geelong and 30 minutes from the Turosi Breakwater processing facility. Price is advertised as Expression of Interest, with no usable hidden range exposed on the listing page. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d84bc1cbb464b4927ae480a658093a1ad4a95c62fedc0ce5097e1598867d552e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d84bc1cbb464b4927ae480a658093a1ad4a95c62fedc0ce5097e1598867d552e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-lovely%2Bbanks-204247620",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-batesford-lot-1-215-dog-rocks",
+    "title": "Lot 1, 215 Dog Rocks Road",
+    "suburb": "Batesford",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 393000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "39.3ha Western Geelong Growth Corridor landholding",
+      "Draft Precinct Structure Plan development signal",
+      "Flat terrain suited to future planning efficiency",
+      "Residential, commercial and community-use upside STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Batesford residential-land listing verified 22 May 2026 from the exact direct listing URL. The listing advertises 39.3ha of flat land at Lot 1, 215 Dog Rocks Road in the Western Geelong Growth Corridor, within a draft Precinct Structure Plan area, with future residential, commercial and community-use potential STCA, proximity to transport links and Greater Geelong growth drivers. Price is advertised as Contact Agent, with no usable hidden range exposed on the listing page. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/65c3ccc4513e37cdf28aa3a0ff189eb1a77534db266f57a3a56e74e37595b70d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/65c3ccc4513e37cdf28aa3a0ff189eb1a77534db266f57a3a56e74e37595b70d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-batesford-204016972",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-avalon-1860-princes-freeway",
+    "title": "1860 Princes Freeway",
+    "suburb": "Avalon",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 45,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 1485200,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "148.52ha / 367-acre Greater Avalon development site",
+      "Approximately 2.15km Princes Freeway frontage",
+      "Inside Greater Avalon Employment Precinct Priority PSP",
+      "Avalon Airport, Bay West Port and industrial estate upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Avalon residential-land listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 148.52ha / 367 acres with about 2.15km of Princes Freeway frontage in the Greater Avalon Employment Precinct, close to Avalon Airport and future Bay West Port, identified for potential industrial or light-industrial uses in the Avalon Employment PSP and about 20 minutes from Geelong. Price is advertised as Contact Agent, with no usable hidden range exposed on the listing page. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/dbcbe40fd368aa27e6180d46884548ae51caa805de7fc65eb5d54c7fa320df1e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dbcbe40fd368aa27e6180d46884548ae51caa805de7fc65eb5d54c7fa320df1e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-avalon-204326768",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-yarragon-205-hazeldean",
+    "title": "205 Hazeldean Road",
+    "suburb": "Yarragon",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-05-21",
+    "price": 3307500,
+    "priceLabel": "$3,150,000 - $3,465,000",
+    "landSize": 209900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.99ha / 52-acre productive West Gippsland farm",
+      "One property south of the Yarragon township boundary",
+      "Train station and Princes Freeway access for Melbourne commuters",
+      "Off-grid solar, battery storage, bore, water tanks, two dams and paddocks"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yarragon acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises 20.99ha / 52 acres of flat productive West Gippsland country one property south of the Yarragon township boundary, with 14kW solar, 66kW battery storage, bore water, about 240,000L of tank water, two dams, seven paddocks, a hay shed, cattle yards and Princes Freeway/train access about 90 minutes east of Melbourne. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7d4408eb086a42e6a0eb71187213dc9f97f5c245d7c92ce552a993f51195d9ed/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7d4408eb086a42e6a0eb71187213dc9f97f5c245d7c92ce552a993f51195d9ed/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-yarragon-151271188",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-longwarry-360-old-drouin",
+    "title": "360 Old Drouin Road",
+    "suburb": "Longwarry",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 60,
+    "price": 1850000,
+    "priceLabel": "Indicative price: $1,800,000 - $1,900,000",
+    "priceSource": "realestate_hidden_range",
+    "hiddenPriceCode": "1800000-1900000",
+    "hiddenPriceRange": [
+      1800000,
+      1900000
+    ],
+    "landSize": 364200,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "36.42ha / 90-acre lifestyle and grazing holding",
+      "Five minutes to Drouin and about one hour to Melbourne CBD",
+      "King Parrot Creek rear boundary plus spring-fed dam",
+      "Stockyards, feed shed, deer fencing and troughs across paddocks"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Longwarry acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises about 36.42ha / 90 acres with sealed road frontage, a King Parrot Creek rear boundary, large spring-fed dam, stockyards, feed shed, deer fencing, water troughs, solar power, house water tanks and a location about five minutes from Drouin, 25 minutes from Pakenham and approximately one hour from Melbourne CBD. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/6f16407b429a98bbbe03f91a7c2fb682fbde7d744d8bd122e578ad0561defea9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6f16407b429a98bbbe03f91a7c2fb682fbde7d744d8bd122e578ad0561defea9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-longwarry-150373224",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-jindivick-98-nangara",
+    "title": "98 Nangara Road",
+    "suburb": "Jindivick",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 75,
+    "price": 1850000,
+    "priceLabel": "$1,800,000 - $1,900,000",
+    "landSize": 404700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.47ha / 100-acre elevated Jindivick holding",
+      "About 15 minutes to Warragul and just over one hour to Melbourne",
+      "Approximately half cleared with fenced paddocks for grazing",
+      "Views, shedding and rural lifestyle appeal near West Gippsland services"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Jindivick acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 40.47ha / 100 acres with elevated Jindivick views, about half the property cleared, maintained paddocks and fences suitable for grazing cattle or sheep, plentiful shedding and a location about 15 minutes from Warragul and just over one hour of freeway driving to Melbourne. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/91f15554a9e59b977c603bf8d605c3a8cdec293cc6f68d5aad3ead20e019802f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/91f15554a9e59b977c603bf8d605c3a8cdec293cc6f68d5aad3ead20e019802f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-jindivick-147533820",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-woodside-719-balloong",
+    "title": "719 Balloong Road",
+    "suburb": "Woodside",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 180,
+    "price": 1495000,
+    "priceLabel": "$1,495,000",
+    "landSize": 465400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "46.54ha / 114-acre South Gippsland bush and cleared-land retreat",
+      "About 10 minutes to 90 Mile Beach and a short drive to Yarram",
+      "Off-grid solar, battery, generator, tanks, bore and dam",
+      "Hobby-farm, studio, guest accommodation and tourism upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Woodside acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 46.54ha / 114 acres of native bush and partially cleared land in South Gippsland, about 10 minutes from 90 Mile Beach, with off-grid solar and battery storage, generator, about 95,000L tank capacity, bore, dam, machinery shed, multi-purpose room and hobby-farm or guest-stay potential. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d38e7fa9675d454ae0b622ce736a4e2096a6b57d5d496f14e88e94312f819322/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d38e7fa9675d454ae0b622ce736a4e2096a6b57d5d496f14e88e94312f819322/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-woodside-150723260",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-corinella-225-245a-guy",
+    "title": "225/245A Guy Road",
+    "suburb": "Corinella",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "price": 9900000,
+    "priceLabel": "$9,900,000",
+    "landSize": 918600,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "91.86ha / 227-acre Western Port coastal rural estate over two titles",
+      "850m north-facing high tide frontage and bay views",
+      "World-class thoroughbred training, stables and agistment infrastructure",
+      "Vineyard, olive grove, multiple dwellings and agribusiness income potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Corinella acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises 91.86ha / approximately 227 acres over two titles with 850m of north-facing Western Port high tide frontage, bay views, multiple dwellings, thoroughbred training infrastructure for up to 80 horses, tracks, stables, dams, an equine pool, vineyard, olive grove and a location about 90 minutes from Melbourne near Phillip Island. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9ccf1ef9c9013db3c3932c3bc2edef8aa3917c3529b1bb095d3278023f6c4297/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9ccf1ef9c9013db3c3932c3bc2edef8aa3917c3529b1bb095d3278023f6c4297/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-corinella-150722632",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-rhyll-170-harbison",
+    "title": "170 Harbison Road",
+    "suburb": "Rhyll",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "listedDate": "2026-04-24",
+    "price": 6800000,
+    "priceLabel": "$6,500,000 - $7,100,000",
+    "landSize": 404700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.47ha / 100-acre elevated Phillip Island holding",
+      "Westernport Bay, Bass Hills and French Island views",
+      "Two Airbnb dwellings plus primary production and grazing infrastructure",
+      "Equestrian complex, 50kW solar system and coastal tourism appeal"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Rhyll acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises a 40.47ha / 100-acre coastal landholding known as Island Ranch with Westernport Bay views, a 2024 main residence, two additional Airbnb dwellings, Black Angus grazing, equestrian facilities, a 50kW solar array, machinery shedding and proximity to wineries, Newhaven College and surf beaches. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/377cc4240bff228981a3cbea23450ab42a0215f6ed7cdf912a717cdb0422a956/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/377cc4240bff228981a3cbea23450ab42a0215f6ed7cdf912a717cdb0422a956/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-rhyll-150996528",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-wonthaggi-57-cape-paterson",
+    "title": "57 Cape Paterson Road",
+    "suburb": "Wonthaggi",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 110,
+    "listedDate": "2026-04-24",
+    "price": 2875000,
+    "priceLabel": "$2,750,000 - $3,000,000",
+    "landSize": 344900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "34.49ha Wonthaggi acreage over two titles",
+      "Development and land-bank positioning close to town",
+      "Prime street frontage between rural city and beach lifestyle markets",
+      "Bass Coast growth corridor and tourism-access upside"
+    ],
+    "status": "active",
+    "notes": "Active Domain Wonthaggi acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 34.49ha over two titles at 57 Cape Paterson Road, with prime street frontage, a position just outside the heart of Wonthaggi, and marketing that highlights future development, land-bank and lifestyle appeal between rural city and beach markets. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/nxKMXjc9I9QXeh4-qeV2aZTVbHk%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020787391_1_1_260424_031754-w6222-h4667",
+    "images": [
+      "https://rimh2.domainstatic.com.au/nxKMXjc9I9QXeh4-qeV2aZTVbHk%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020787391_1_1_260424_031754-w6222-h4667",
+      "https://rimh2.domainstatic.com.au/j1ddcnAcWvtYqUgQXc9eItpiCmU%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020787391_2_1_260424_031754-w4032-h3024",
+      "https://rimh2.domainstatic.com.au/JHBBvzhVfdo69hL3Ja7MRkxoQvk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020787391_3_1_260424_031754-w3968-h2976",
+      "https://rimh2.domainstatic.com.au/QFyo1LIADp6GCJb6IYe9ytXM39s%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020787391_4_1_260424_031804-w4013-h3010"
+    ],
+    "listingUrl": "https://www.domain.com.au/57-cape-paterson-road-wonthaggi-vic-3995-2020787391",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-woorarra-west-160-nippards",
+    "title": "160 Nippards Track",
+    "suburb": "Woorarra West",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 150,
+    "price": 1050000,
+    "priceLabel": "$1,000,000 to $1,100,000",
+    "landSize": 270000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "27ha South Gippsland multi-use land",
+      "About half cleared with 20 acres fenced",
+      "Three dams, permanent creek and productive hobby-farm potential",
+      "Dual-living or B&B accommodation angle with equipped workshop"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Woorarra West acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises 27ha of multi-use land, about 50% cleared, around 20 acres fenced, three dams, a permanent creek, a substantial workshop, and a two-bedroom, two-bathroom, two-kitchen residence promoted for dual living, B&B accommodation, sheep, cattle, berries, grapes or other produce. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8fe08b70480bf73dbee5d4c38bc61428f7b43883224cf874028c40e66e89eebf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8fe08b70480bf73dbee5d4c38bc61428f7b43883224cf874028c40e66e89eebf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-woorarra%2Bwest-150383620",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-devon-north-482-old-whitelaws",
+    "title": "482 Old Whitelaws Track",
+    "suburb": "Devon North",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 180,
+    "price": 980000,
+    "priceLabel": "$980,000",
+    "landSize": 272900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "27.29ha / 67-acre elevated rural lifestyle holding",
+      "15 minutes to Yarram and 35 minutes to Port Albert and 90 Mile Beach",
+      "Eight dams, seasonal creek, equestrian arena and stables",
+      "Potential for glamping, B&B, eco stays or rural business STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Devon North acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 27.29ha / 67 acres with coastal, mountain and rural outlooks, eight dredged dams, one spring-fed dam, a seasonal creek, multiple paddocks, equestrian arena, stables, round yards, fruit orchard, vegie gardens, high-speed fixed wireless internet and potential for glamping, B&B, eco stays or rural business subject to approval. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/77675402b32cd30d2c3f61270f21974fcfea80403990191ea0f7f79f7837a134/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/77675402b32cd30d2c3f61270f21974fcfea80403990191ea0f7f79f7837a134/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-devon%2Bnorth-146633260",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "vic-valencia-creek-71-knackery",
+    "title": "71 Knackery Road",
+    "suburb": "Valencia Creek",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 185,
+    "price": 661500,
+    "priceLabel": "$630,000 - $693,000",
+    "landSize": 483200,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "48.32ha / 119-acre natural bushland holding",
+      "Lower-entry large land price point for Gippsland acreage",
+      "Lockable shedding and cleared camping area",
+      "Outdoor recreation, bush retreat and land-bank potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Valencia Creek acreage listing verified 22 May 2026 from the exact direct listing URL. The listing advertises approximately 48.32ha / 119 acres of natural bushland with lockable shedding, a cleared camping area and privacy for a bush retreat, outdoor recreation base or longer-term land-bank holding. Available five-year regional and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/572de588b3b794d03cc846f57205473ab00b39adecd5e72413391093dcb116bf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/572de588b3b794d03cc846f57205473ab00b39adecd5e72413391093dcb116bf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-valencia%2Bcreek-146898400",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
     "id": "nsw-martins-creek-197-vogeles",
     "title": "197 Vogeles Road",
     "suburb": "Martins Creek",
@@ -1207,6 +1754,7 @@ const sampleProperties = [
     "majorCityMinutes": 220,
     "daysOnMarket": null,
     "price": null,
+    "priceLabel": "Expressions of Interest",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -1217,7 +1765,7 @@ const sampleProperties = [
       "Waterfront and beach-front portal features",
       "Furnished holiday letting setup"
     ],
-    "status": "unavailable",
+    "status": "active",
     "notes": "Active realestate.com.au listing verified 14 May 2026, advertised in Beaches International with sweeping views over Forster Main Beach and Wallis Lake, resort facilities, on-site management and forward holiday bookings. Domain also marks the property with waterfront, beach-front and ocean-view features. Exact realestate.com.au listing advertises price as Contact Agent. Five-year Forster unit and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
     "images": [],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-forster-149361876",
@@ -2151,9 +2699,12 @@ const sampleProperties = [
       "Opposite Snapperman Beach",
       "Boutique five-residence collection"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au apartment listing verified 14 May 2026, advertised as Snappermans Residence 1 in a boutique collection of five luxury Pittwater residences, with front-row living, water-oriented living areas and a pocket of calm opposite Snapperman Beach. Price is advertised as contact agent; building area is published but land size is not, so landSize is TBA. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing reverified 23 May 2026, advertised as Snappermans Residence 1 in a boutique collection of five luxury Pittwater residences, with front-row living, water-oriented living areas and a pocket of calm opposite Snapperman Beach. Price is advertised as contact agent; building area is published but land size is not, so landSize is TBA. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/0a9a439447ce01fdf0485a623e9c49461421ef4011f3a12a93ee519febdf397a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0a9a439447ce01fdf0485a623e9c49461421ef4011f3a12a93ee519febdf397a/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-palm%2Bbeach-148824404",
     "investmentStar": false
   },
@@ -2263,9 +2814,12 @@ const sampleProperties = [
       "Direct Pittwater access",
       "Approved jetty and pontoon"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as an absolute deep waterfront property with direct access to Pittwater, a historic boathouse, private cove, boat ramp and approved jetty/pontoon extension. Price is advertised at $7.25m. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026, advertised as an absolute deep waterfront property with direct access to Pittwater, a historic boathouse, private cove, boat ramp and approved jetty/pontoon extension. Price is advertised at $7.25m. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/72f4126454db4428df9998d0fd638877ab517148558365f10b0f5bad6db14142/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/72f4126454db4428df9998d0fd638877ab517148558365f10b0f5bad6db14142/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-147560600",
     "investmentStar": false
   },
@@ -2288,9 +2842,12 @@ const sampleProperties = [
       "Modern boathouse",
       "Waterfront spa"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as Summer Crest, a prime waterfront landholding with panoramic Pittwater views, private jetty, modern boathouse and waterfront spa. Price is advertised as for sale/contact agent. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026, advertised as Summer Crest, a prime waterfront landholding with panoramic Pittwater views, private jetty, modern boathouse and waterfront spa. Price is advertised as for sale/contact agent. Five-year Palm Beach house and unit growth evidence checked; available suburb evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d17ce097fa7509d130c567e98731b4437561fbfc78d141475fa45333933102d8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d17ce097fa7509d130c567e98731b4437561fbfc78d141475fa45333933102d8/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-palm%2Bbeach-147255988",
     "investmentStar": false
   },
@@ -6258,7 +6815,8 @@ const sampleProperties = [
     "state": "WA",
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 30,
-    "price": 0,
+    "price": null,
+    "priceLabel": "Expressions of Interest",
     "landSize": 233,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -7565,9 +8123,12 @@ const sampleProperties = [
       "408 sqm total area",
       "Four-car garaging"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as a rare JEWEL apartment at an Esplanade address with uninterrupted beach and ocean views, 408 sqm total area, private grassed yard and four-car garaging. Price is listed as for sale with no dollar price shown. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026, advertised as a rare JEWEL apartment at an Esplanade address with uninterrupted beach and ocean views, 408 sqm total area, private grassed yard and four-car garaging. Price is listed as for sale with no dollar price shown. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d5de6e08ede46ccf90474920ed37e34ca6c37723471122da58788a9c661c1459/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d5de6e08ede46ccf90474920ed37e34ca6c37723471122da58788a9c661c1459/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-149517404",
     "investmentStar": false
   },
@@ -7711,10 +8272,134 @@ const sampleProperties = [
       "Boutique four-residence complex",
       "Panoramic water views"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as waterside luxury in a boutique four-residence complex at 117 The Esplanade, occupying a prime position directly opposite Broken Bay with private terraces and panoramic water views. Price is listed as for sale with no dollar price shown. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026, advertised as waterside luxury in a boutique four-residence complex at 117 The Esplanade, occupying a prime position directly opposite Broken Bay with private terraces and panoramic water views. Price is listed as for sale with no dollar price shown. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b2edcba4c4c3707e3439f91a7cd84a6856327c8e09a0395484e2d7c289736d17/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b2edcba4c4c3707e3439f91a7cd84a6856327c8e09a0395484e2d7c289736d17/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-148197000",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-ettalong-521-51-54-esplanade",
+    "title": "521/51-54 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 525000,
+    "priceLabel": "$500,000 - $550,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra Esplanade resort apartment",
+      "Spectacular water views across Broken Bay",
+      "Metres to Ettalong beachfront",
+      "Resort pool, sun deck and club lift access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a fully furnished one-bedroom resort apartment at 521/51-54 The Esplanade with uninterrupted water views across Broken Bay and Lion Island, a covered balcony, resort pool and sun deck, direct lift access to Ettalong Memorial Club and the sandy Ettalong beachfront just metres away. Price is the midpoint of the advertised $500,000 - $550,000 range. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9bfe83428d95095996ea584bd2338d3b8b0e2ff710f0f46648f4d324c4cb65dd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9bfe83428d95095996ea584bd2338d3b8b0e2ff710f0f46648f4d324c4cb65dd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-150797632",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-ettalong-406-51-54-esplanade",
+    "title": "406/51-54 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 1100000,
+    "priceLabel": "$1,050,000 - $1,150,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front eastern wing of Mantra resort",
+      "Panoramic beachfront and Broken Bay views",
+      "About 50m to sheltered Ettalong beachfront",
+      "Fully furnished resort-style apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a two-bedroom, two-bathroom apartment in the front eastern wing of the Mantra complex with never-to-be-built-out panoramic water views across the beachfront and Broken Bay, expansive balcony space, resort facilities and the sheltered Ettalong beachfront about 50 metres away. Price is the midpoint of the advertised $1,050,000 - $1,150,000 range. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f46d227b1374c41bc0a00fd11b758434a88d2274efe87a2c897f3c50e46ae5e7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f46d227b1374c41bc0a00fd11b758434a88d2274efe87a2c897f3c50e46ae5e7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-150527884",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-ettalong-323-51-54-esplanade",
+    "title": "323/51-54 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 410000,
+    "priceLabel": "$410,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Resort-style studio apartment",
+      "Pool and beach vistas",
+      "About 100m to Ettalong beachfront",
+      "Furnished low-maintenance coastal base"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a fully furnished studio apartment in Ettalong Beach Resort with pool and beach vistas, expansive water views across the beachfront and Broken Bay, direct security lift access and a position approximately 100 metres from Ettalong Beachfront. Price is advertised at $410,000. Land size is not published for the strata unit; the listing publishes building size only. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7f2c0643e6b1f45af08f00bdc6d0cfa8e3d7dfe5d2e4a6977315fbba2ea40f07/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7f2c0643e6b1f45af08f00bdc6d0cfa8e3d7dfe5d2e4a6977315fbba2ea40f07/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-ettalong%2Bbeach-148505948",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-ettalong-335-51-54-esplanade",
+    "title": "335/51-54 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": 21,
+    "price": 450000,
+    "priceLabel": "$450,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Level-three Mantra resort apartment",
+      "Metres from sheltered Ettalong beachfront",
+      "Two balconies and resort pool access",
+      "Direct access to Ettalong Beach Memorial Club"
+    ],
+    "status": "active",
+    "notes": "Active Homely listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a fully furnished one-bedroom resort-style beachside apartment at 335/51-54 The Esplanade with two balconies, resort pool, direct access to Ettalong Beach Memorial Club and a position just metres from the sheltered sandy Ettalong beachfront. Homely shows 21 days on market and an advertised price of $450,000. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://images.homely.com.au/v7/listing/12715732/1/f716b5fe2da7e0728a572a28455f56ad8da588dc-original.jpg?width=800&height=600&mode=crop&format=webp",
+    "images": [
+      "https://images.homely.com.au/v7/listing/12715732/1/f716b5fe2da7e0728a572a28455f56ad8da588dc-original.jpg?width=800&height=600&mode=crop&format=webp",
+      "https://images.homely.com.au/v7/listing/12715732/2/61019271966136e33add1ac699c6d222528353fa-original.jpg?width=800&height=600&mode=crop&format=webp",
+      "https://images.homely.com.au/v7/listing/12715732/4/b8befdb7953a4937d70d3cab7f53860bd74c32c7-original.jpg?width=800&height=600&mode=crop&format=webp",
+      "https://images.homely.com.au/v7/listing/12715732/5/b4d3b8dbcf2293ebcb95ed199bd21e3ada18b565-original.jpg?width=800&height=600&mode=crop&format=webp",
+      "https://images.homely.com.au/v7/listing/12715732/6/3f4fed8764e8f5401f107cc9aa93091234b5ff5d-original.jpg?width=800&height=600&mode=crop&format=webp",
+      "https://images.homely.com.au/v7/listing/12715732/7/1c6bc9cfec0b098f060a3e5feb66f0a6283308d4-original.jpg?width=800&height=600&mode=crop&format=webp"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/335-51-54-the-esplanade-ettalong-beach-nsw-22/12715732",
     "investmentStar": false
   },
   {
@@ -8864,10 +9549,44 @@ const sampleProperties = [
       "Lagoon frontage",
       "Dual-aspect coastal site"
     ],
-    "status": "unavailable",
-    "notes": "Active Pearl Beach listing advertised as directly opposite Pearl Beach with direct beach access, rare lagoon frontage, and calming ocean sounds. Price advertised as price on request. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Pearl Beach listing reverified 23 May 2026, advertised as directly opposite Pearl Beach with direct beach access, rare lagoon frontage, and calming ocean sounds. Price advertised as price on request.",
     "image": "https://i2.au.reastatic.net/800x600/96e25081a2c41b1ed5995854803595311b96ece06f9b2ddcfba807fd79342d29/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/96e25081a2c41b1ed5995854803595311b96ece06f9b2ddcfba807fd79342d29/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-pearl%2Bbeach-149944312",
+    "investmentStar": false,
+    "priceLabel": "Price on request"
+  },
+  {
+    "id": "nsw-pearl-beach-2c-amethyst",
+    "title": "2C Amethyst Avenue",
+    "suburb": "Pearl Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 95,
+    "daysOnMarket": null,
+    "listedDate": "2025-12-05",
+    "price": 0,
+    "priceLabel": "Price on request",
+    "landSize": 236.2,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach position",
+      "Directly opposite Pearl Beach",
+      "New architectural build",
+      "Blue-water glimpses"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Pearl Beach listing verified 23 May 2026, advertised as directly opposite pristine Pearl Beach with a rare coastal setting, blue water glimpses, and price on request.",
+    "image": "https://i2.au.reastatic.net/800x600/06341a66e4dd2ca4291dd07d42c29de7fb9980b003d6549ec735d086c6ada840/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/06341a66e4dd2ca4291dd07d42c29de7fb9980b003d6549ec735d086c6ada840/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-pearl%2Bbeach-149822400",
     "investmentStar": false
   },
   {
@@ -9984,6 +10703,35 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-freshwater-23-38-ocean-view",
+    "title": "23/38 Ocean View Road",
+    "suburb": "Freshwater",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 35,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 34.8,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Metres to Freshwater Beach",
+      "Sweeping beach and ocean views",
+      "Top-floor coastal apartment",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active Homely Freshwater apartment listing verified 23 May 2026 from the exact direct listing URL. The listing advertises Auction On Site Saturday 13 June 2026, a top-floor apartment mere footsteps from the sand with sweeping views across Freshwater Beach, the ocean and St Patrick's Estate, plus an internal size of approximately 34.8sqm. No sale price guide or land/block size was published. Available five-year Freshwater unit and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13157927-1.jpg?named-transform=webHeroTransform&version=EEOBW0a0ITKB0KlqUwoABTbQJtcx3SK8",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13157927-1.jpg?named-transform=webHeroTransform&version=EEOBW0a0ITKB0KlqUwoABTbQJtcx3SK8"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/23-38-ocean-view-road-freshwater-nsw-2096/13157927",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-cabarita-15-cypress",
     "title": "15 Cypress Crescent",
     "suburb": "Cabarita Beach",
@@ -10538,6 +11286,35 @@ const sampleProperties = [
       "max": 2500000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "nsw-pottsville-5-surfside",
+    "title": "5 Surfside Crescent",
+    "suburb": "Pottsville",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "daysOnMarket": 10,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 676,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "No road or esplanade",
+      "Back gate to beach",
+      "Beach reserve outlook",
+      "Renovation upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 22 May 2026 from the exact direct listing URL. The listing advertises direct beach access at the back gate, no road, esplanade or pathway separating the home from the sand, a 676sqm level block with green-belt aspect, and scope to renovate or modernise. Price is advertised as Contact Agent.",
+    "image": "https://i2.au.reastatic.net/800x600/783fcdb516f362d6d9b92d88e18aa9e7f7cdd9490f624658a2ceb16a1b8ede5f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/783fcdb516f362d6d9b92d88e18aa9e7f7cdd9490f624658a2ceb16a1b8ede5f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-pottsville-150710020",
+    "investmentStar": false
   },
   {
     "id": "nsw-pottsville-5-7-9-elanora",
@@ -11248,7 +12025,8 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 70,
     "daysOnMarket": null,
-    "price": 0,
+    "price": null,
+    "priceLabel": "Expressions of Interest",
     "landSize": 1214.6,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -11259,8 +12037,12 @@ const sampleProperties = [
       "Adjacent reserve",
       "Alex Popov design"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing advertised as an absolute beachfront sanctuary with rare direct Whale Beach access, a private stairway to the sand and The Wedge surf break, and an adjacent nature reserve. Price is advertised as expressions of interest. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026 from the exact direct listing URL. The listing advertises an absolute beachfront sanctuary with rare direct Whale Beach access, a private stairway to the sand and The Wedge surf break, an adjacent nature reserve and beach/deck outlooks from the 1,214.6sqm block. Price is advertised as Expressions of Interest, with no usable hidden range exposed in the accessible page text. Available five-year Whale Beach market evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/67ed87b06bdb8d5432d1213ce662cc6f336d057591dfb3c0761bf07b4ea90d03/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/67ed87b06bdb8d5432d1213ce662cc6f336d057591dfb3c0761bf07b4ea90d03/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-149522952",
     "investmentStar": false
   },
@@ -11431,7 +12213,8 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 70,
     "daysOnMarket": null,
-    "price": 0,
+    "price": null,
+    "priceLabel": "Contact Agent",
     "landSize": 2150,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -11442,8 +12225,12 @@ const sampleProperties = [
       "Sweeping Whale Beach views",
       "Private golf course"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing advertised as two prime plots atop the dramatic cliff face just south of Whale Beach, with sweeping vistas across Whale Beach and out to the Central Coast. Price is advertised as contact agent. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 23 May 2026 from the exact direct listing URL. The listing advertises two prime plots totalling 2,150sqm atop the dramatic cliff face just south of Whale Beach, with sweeping vistas across Whale Beach and out to the Central Coast, oceanfront living, a private golf course, heated infinity plunge pool, spa, sauna and gym. Price is advertised as Contact Agent, with no usable hidden range exposed in the accessible page text. Available five-year Whale Beach market evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/63d444d0347e39a0d68b3ca0902eaf3011043d921c3d5f8f30bd570d3e752d11/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/63d444d0347e39a0d68b3ca0902eaf3011043d921c3d5f8f30bd570d3e752d11/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-whale%2Bbeach-149781924",
     "investmentStar": false
   },
@@ -11496,8 +12283,8 @@ const sampleProperties = [
       "Creek frontage",
       "Dual frontage"
     ],
-    "status": "active",
-    "notes": "Beachfront reserve home with direct access through the dunes and creekfront studio at the rear. Current Homely listing shows guide $2,600,000 - $2,700,000, so price is set to the midpoint.",
+    "status": "unavailable",
+    "notes": "Stale Homely listing still opened on 23 May 2026, but the same current realestate.com.au campaign for 5 Berrima Crescent redirects to a sold page showing $2,600,000 sold on 19 May 2026. Hidden so it no longer appears as active.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=ApV17GrNN0mZdRjWs8YgdJUUHJg3Pqg7",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12876856-1.jpg?named-transform=webDefaultTransform&version=b3U88aVBcqFqa5HfwvZZEO1AxJgu..7h",
@@ -11688,9 +12475,13 @@ const sampleProperties = [
       "Ground-floor apartment",
       "Small strata complex"
     ],
-    "status": "unavailable",
+    "status": "active",
     "investmentStar": false,
-    "notes": "Active realestate.com.au Umina Beach apartment listing advertised as an apartment on the beach with beachfront ocean views across to Lion Island, Barrenjoey Lighthouse, Pearl Beach and Lobster Beach. Price is advertised as expressions of interest. Exact listing appeared off market during hidden price update.",
+    "notes": "Active realestate.com.au Umina Beach apartment listing reverified 23 May 2026, advertised as an apartment on the beach with beachfront ocean views across to Lion Island, Barrenjoey Lighthouse, Pearl Beach and Lobster Beach. Price is advertised as expressions of interest. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/14e29318a569d4bcfb0e02c998e840cdefb5f471157443a958c9273d27a0876e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/14e29318a569d4bcfb0e02c998e840cdefb5f471157443a958c9273d27a0876e/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-umina%2Bbeach-147746064"
   },
   {
@@ -11712,9 +12503,9 @@ const sampleProperties = [
       "Ocean glimpses",
       "Beachside CBD pocket"
     ],
-    "status": "unavailable",
+    "status": "active",
     "investmentStar": false,
-    "notes": "Active realestate.com.au Umina Beach listing verified 14 May 2026 and cross-checked on View, advertised as footsteps from the sand and positioned less than 100 metres to direct beach access, with ocean glimpses and beachside CBD convenience. Price is advertised as contact agent; land size is not published. Umina Beach 4-bedroom and broader suburb growth evidence checked, including 4.6%, 6.7% and 8.7% published figures, which did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
+    "notes": "Active realestate.com.au Umina Beach listing reverified 23 May 2026, advertised as footsteps from the sand and positioned less than 100 metres to direct beach access, with ocean glimpses and beachside CBD convenience. Price is advertised as contact agent; land size is not published. Umina Beach 4-bedroom and broader suburb growth evidence checked, including 4.6%, 6.7% and 8.7% published figures, which did not support a verified above-15% annual investment flag.",
     "image": "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-2-9B1DF1F.png",
     "images": [
       "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-2-9B1DF1F.png",
@@ -11723,6 +12514,71 @@ const sampleProperties = [
       "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/300-w/17579558-3-8F48DF8.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-umina%2Bbeach-150330416"
+  },
+  {
+    "id": "nsw-umina-1-70-sydney",
+    "title": "1/70 Sydney Avenue",
+    "suburb": "Umina Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 80,
+    "listedDate": "2026-05-20",
+    "price": 2100000,
+    "landSize": 232,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront reserve",
+      "Beach-facing balcony",
+      "Ocean and Pittwater views",
+      "Private rooftop balcony"
+    ],
+    "status": "active",
+    "investmentStar": false,
+    "priceLabel": "$2,100,000",
+    "priceSource": "domain_exact_listing",
+    "notes": "Active realestate.com.au and Domain Umina Beach townhouse listing reverified 23 May 2026. Domain lists $2,100,000, and the REA listing was published 20 May 2026 as Beachfront Reserve with beach-facing balcony, ocean and Pittwater views, and a rooftop balcony. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/tttLYgOUkIVDGQuZrgBMNvgo2YE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020687097_1_1_260317_040927-w1800-h1200",
+    "images": [
+      "https://rimh2.domainstatic.com.au/tttLYgOUkIVDGQuZrgBMNvgo2YE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020687097_1_1_260317_040927-w1800-h1200",
+      "https://rimh2.domainstatic.com.au/i9FSBTSqWkDxnxrl9S0Rs-0Pugc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_18_3_260317_040929-w1698-h1200",
+      "https://rimh2.domainstatic.com.au/b9423OcR1h8d33OSfGT_XPVoPCI%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_2_1_260317_040927-w1800-h1200",
+      "https://rimh2.domainstatic.com.au/U00AQWjRvw3VY20oBTH1gE2EaXI%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_3_1_260317_040927-w2134-h1200"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-nsw-umina%2Bbeach-151249604"
+  },
+  {
+    "id": "nsw-umina-45-berith",
+    "title": "45 Berith Street",
+    "suburb": "Umina Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 80,
+    "daysOnMarket": 15,
+    "price": 3800000,
+    "priceLabel": "Price Guide $3.8m",
+    "landSize": 784.1,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "100m stroll to beach",
+      "Direct beach access nearby",
+      "Prime coastal position",
+      "Large single-level coastal home"
+    ],
+    "status": "active",
+    "investmentStar": false,
+    "priceSource": "portal_result_price_guide",
+    "notes": "Active realestate.com.au and Domain Umina Beach listing reverified 23 May 2026. The exact REA listing is active and REA/Homely portal result pages show Price Guide $3.8m; the listing advertises an approximately 100m stroll to Umina Beach sand. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/qOmzGnGr60hECrHr1L-MebP-kWE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_16_1_260316_071134-w1800-h1200",
+    "images": [
+      "https://rimh2.domainstatic.com.au/qOmzGnGr60hECrHr1L-MebP-kWE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_16_1_260316_071134-w1800-h1200",
+      "https://rimh2.domainstatic.com.au/agf0BjMddLp1mkAV7z4dWXQbB6g%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_1_1_260317_035345-w2752-h1536",
+      "https://rimh2.domainstatic.com.au/MI_GqkowM7BBta4EhJ6U9yw76tA%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_6_1_260316_071134-w1789-h1200"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-umina%2Bbeach-150605044"
   },
   {
     "id": "nsw-wamberal-107-ocean-view",
@@ -11804,8 +12660,12 @@ const sampleProperties = [
       "Large coastal estate",
       "Two titles"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing advertised as Wamberal's iconic waterfront home on 1,689m2 across two titles, with waterfront setting and metres to the beach. Price advertised as price on request. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active realestate.com.au listing re-verified 23 May 2026 and advertised as Wamberal's iconic waterfront home on 1,689m2 across two titles, with waterfront setting, sweeping Wamberal coastline views and metres to the beach. Price advertised as price on request. Available five-year Wamberal growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/fd6ce1614896a679265058155c1adc2117d4b50364ae381bfb4ac5f610ee1f83/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fd6ce1614896a679265058155c1adc2117d4b50364ae381bfb4ac5f610ee1f83/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-wamberal-148902392",
     "investmentStar": false
   },
@@ -13310,6 +14170,7 @@ const sampleProperties = [
     "majorCityMinutes": 20,
     "listedDate": "2026-02-11",
     "price": null,
+    "priceLabel": "Your Next Move.",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -13320,8 +14181,8 @@ const sampleProperties = [
       "Beachfront views",
       "Duplex"
     ],
-    "status": "unavailable",
-    "notes": "Absolute beachfront duplex with uninterrupted ocean views along Stockton Beach. Price advertised as Your Next Move. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active realestate.com.au listing re-verified 23 May 2026 from the exact direct listing URL. The listing is advertised as an absolute beachfront duplex in a tightly held Stockton beachfront pocket, with uninterrupted ocean views along Stockton Beach to Birubi Beach, a north-facing deck and surf and fishing on the doorstep. Price is advertised as Your Next Move. Available page text did not expose a usable hidden marketing price range, so price remains TBA.",
     "image": "https://i2.au.reastatic.net/800x600/627ec56950a0d9890da36a8e8e473a5aaed82be21ddf99d24d1b276f0b2cc573/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/627ec56950a0d9890da36a8e8e473a5aaed82be21ddf99d24d1b276f0b2cc573/image.jpg",
@@ -15623,6 +16484,35 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-cabarita-003-10-cypress",
+    "title": "003/10 Cypress Crescent",
+    "suburb": "Cabarita Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-15",
+    "price": 3950000,
+    "priceLabel": "$3,950,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Easy beach access",
+      "CABA Residences",
+      "Display suite",
+      "Resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 22 May 2026 for Apartment 003 at CABA Residences, advertised as a luxury display suite in the heart of Cabarita Beach with easy access to pristine beaches, resort-style pool, gym, sauna and wellness amenities. Land size is not published for the strata apartment, so price per sqm remains TBA. Available suburb/comparable growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/343790b54202c59be9e5204661d5e9f18107cbe6b9f4c7a61c9cde68b076c27e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/343790b54202c59be9e5204661d5e9f18107cbe6b9f4c7a61c9cde68b076c27e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-151210240",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-cabarita-106-10-cypress",
     "title": "106/10 Cypress Crescent",
     "suburb": "Cabarita Beach",
@@ -15728,8 +16618,8 @@ const sampleProperties = [
       "Direct sand position",
       "Holiday letting option"
     ],
-    "status": "active",
-    "notes": "Active REA listing advertised as absolute beachfront living at The Beach Resort, positioned directly on the golden sands of Cabarita Beach. Land size not published for the strata apartment.",
+    "status": "under_contract",
+    "notes": "Hidden after the 22 May 2026 Cabarita Beach sweep. The exact realestate.com.au listing now shows Under Contract and Under offer, and the matching Domain listing also shows Under Contract / Under offer. Previously advertised as absolute beachfront living at The Beach Resort, positioned directly on the golden sands of Cabarita Beach. Land size not published for the strata apartment.",
     "image": "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
@@ -15755,6 +16645,67 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/70282fb71029e0d29c869a36711b4b1c499f568091bbab44fc4d3b44d9b6fd33/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-149979580",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-cabarita-214-2-6-pandanus",
+    "title": "214/2-6 Pandanus Parade",
+    "suburb": "Cabarita Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "daysOnMarket": null,
+    "price": 940000,
+    "priceLabel": "$940,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct beach access",
+      "The Beach Resort",
+      "Private direct entry"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 22 May 2026 for Apartment 214 at The Beach Resort, advertised with absolute beachfront location, direct access to Cabarita Beach, resort pools, gym and private direct-entry access. Building size is published but land size is not published for the strata apartment, so price per sqm remains TBA. Available suburb/comparable growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3b8523a14b9fbb7a6adcf2a85e92a62bd3881ee8f9e945f34c644fd052098d10/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3b8523a14b9fbb7a6adcf2a85e92a62bd3881ee8f9e945f34c644fd052098d10/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-147135764",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-cabarita-218-2-6-pandanus",
+    "title": "218/2-6 Pandanus Parade",
+    "suburb": "Cabarita Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-13",
+    "price": 1100000,
+    "priceLabel": "$1,100,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct sand access",
+      "The Beach Resort",
+      "Resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 22 May 2026 for Apartment 218 at The Beach Resort, advertised as an absolute beachfront hideaway where you walk across the lawn straight onto Cabarita Beach sand. Domain publishes 112 sqm internal size but no land size for the strata apartment, so price per sqm remains TBA. Available suburb/comparable growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/9gE2q2JzaB64wb7C1OlHIP2ynWc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020838552_1_1_260513_053945-w2100-h1400",
+    "images": [
+      "https://rimh2.domainstatic.com.au/9gE2q2JzaB64wb7C1OlHIP2ynWc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020838552_1_1_260513_053945-w2100-h1400",
+      "https://rimh2.domainstatic.com.au/kD_sEnJlW3-ap1NkjZDwvxyzlg8%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020838552_14_3_260513_053956-w2100-h1575",
+      "https://rimh2.domainstatic.com.au/RTm4Cwd6h8ewS54SX93d6mFmWYA%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020838552_2_1_260513_053945-w2100-h1400",
+      "https://rimh2.domainstatic.com.au/G9VLJTuFjMrnRD3xj9tq_Gz7X58%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020838552_3_1_260513_053945-w2100-h1400"
+    ],
+    "listingUrl": "https://www.domain.com.au/218-2-6-pandanus-parade-cabarita-beach-nsw-2488-2020838552",
     "investmentStar": false
   },
   {
@@ -16760,6 +17711,95 @@ const sampleProperties = [
       "https://www.homely.com.au/img-variant/l-AgentBox-12475911-21.jpg?named-transform=webHeroTransform&version=wXVpKo0N11I8tenY6QiEmkdQrqAneeeS"
     ],
     "listingUrl": "https://www.homely.com.au/homes/64-newman-avenue-blueys-beach-nsw-2428/12475911"
+  },
+  {
+    "id": "nsw-blueys-beach-36-newman",
+    "title": "36 Newman Avenue",
+    "suburb": "Blueys Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 210,
+    "daysOnMarket": 19,
+    "price": 0,
+    "priceLabel": "Contact Agent",
+    "landSize": 544,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "No road",
+      "Direct beachfront access",
+      "Two apartments plus studio",
+      "Ocean views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026. The listing advertises a prestigious Newman Avenue holding fronting directly onto Blueys Beach, with direct beach access, uninterrupted ocean views, two modern three-bedroom apartments and a self-contained studio. Price is advertised as Contact Agent. Five-year Blueys Beach growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d65195e4341ca6c427b04799dc54c91a5e27289cd2e153b946392a1d0b454e96/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d65195e4341ca6c427b04799dc54c91a5e27289cd2e153b946392a1d0b454e96/main.jpg",
+      "https://i2.au.reastatic.net/800x600/4b33cbd17a6b9ec714ab139b2f753bf73cf39bd9a62f6f188d1d7e7fe1078977b/main.jpg?source=rea-product"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-blueys%2Bbeach-149878536",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-blueys-beach-54-newman",
+    "title": "54 Newman Avenue",
+    "suburb": "Blueys Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 210,
+    "price": 4250000,
+    "priceLabel": "Guide $4,250,000",
+    "landSize": 543,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "No road",
+      "Absolute beachfront",
+      "Direct dune position",
+      "Ocean and headland views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026. The listing advertises a premier absolute beachfront Newman Avenue position on the high middle dune of Blueys Beach, with ocean, beach, headland and coastline views to Seal Rocks. Five-year Blueys Beach growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d30b14327fb4051ba671338e33658456e38008bd347d3edbb14ec4d067d41f64/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d30b14327fb4051ba671338e33658456e38008bd347d3edbb14ec4d067d41f64/main.jpg",
+      "https://i2.au.reastatic.net/800x600/4860b779c538e7054a3bfd8801093b8a18eef5132fcd8c3848d0a0e380f1ab525/main.jpg?source=rea-product"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-blueys%2Bbeach-149904384",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-blueys-beach-89-newman",
+    "title": "89 Newman Avenue",
+    "suburb": "Blueys Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 210,
+    "price": 5250000,
+    "priceLabel": "Guide $5,000,000 to $5,500,000",
+    "landSize": 700,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "No road",
+      "Beachfront reserve",
+      "North-facing ocean views",
+      "Less than 40 steps to sand"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 23 May 2026. The listing advertises a north-facing beachfront reserve position directly opposite the shoreline, less than 40 steps to the sand, with panoramic beach and ocean views. Five-year Blueys Beach growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e5f3dc80a70378f7b61d707dd48d5e243a60d54a5c7c60c7b43ea427e114767e/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e5f3dc80a70378f7b61d707dd48d5e243a60d54a5c7c60c7b43ea427e114767e/main.jpg",
+      "https://i2.au.reastatic.net/800x600/890fa0e1ffbb2a22b2f0f6b26df2fbf7add282306488d1d16a67d7b92c4edfea/main.jpg?source=rea-product",
+      "https://i2.au.reastatic.net/800x600/5730f159ef87c978c36e6e730158d7ff083c3df37870b7a47fe1f3d5982faf3e/main.jpg?source=rea-product"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-blueys%2Bbeach-149740828",
+    "investmentStar": false
   },
   {
     "id": "qld-palm-beach-10f-973-gold-coast",
@@ -24613,8 +25653,8 @@ const sampleProperties = [
       "Ocean views",
       "Whole-floor apartment"
     ],
-    "status": "active",
-    "notes": "Active whole-floor Pacific Parade apartment advertised directly opposite Bilinga Beach with ocean views and a front-row beach position. Price advertised as offers over $3.75M.",
+    "status": "sold",
+    "notes": "Sold realestate.com.au listing rechecked 22 May 2026 at the exact direct listing URL, which redirects to a sold page showing Contact agent Sold on 22 Apr 2026. Previously advertised as a whole-floor Pacific Parade apartment directly opposite Bilinga Beach with ocean views and a front-row beach position.",
     "image": "https://i2.au.reastatic.net/800x600/7b1a3a325df12c211fa208482226c76ef3addab8093f2e01da038f0df17396d7/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/7b1a3a325df12c211fa208482226c76ef3addab8093f2e01da038f0df17396d7/image.jpg",
@@ -25076,8 +26116,8 @@ const sampleProperties = [
       "Panoramic ocean views",
       "Resort facilities"
     ],
-    "status": "active",
-    "notes": "Active Pelican Sands top-floor apartment advertised as absolute beachfront with direct beach and ocean-pathway access, panoramic ocean views and resort facilities. Price advertised as all serious offers considered.",
+    "status": "under_offer",
+    "notes": "Pelican Sands top-floor apartment advertised as absolute beachfront with direct beach and ocean-pathway access, panoramic ocean views and resort facilities. Realestate.com.au now marks the matching listing under offer.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12876173-1.jpg?named-transform=webDefaultTransform",
     "images": [
       "https://www.homely.com.au/img-variant/l-Rex-12876173-1.jpg?named-transform=webDefaultTransform&version=hRwbckItBvv0RrvUbA.lOUmbKZUndKVV",
@@ -25211,8 +26251,8 @@ const sampleProperties = [
       "Ocean views",
       "Private pool"
     ],
-    "status": "active",
-    "notes": "Entire ground-floor residence in a four-apartment beachfront complex, advertised with private gate access less than 50m to Tugun Beach and no roads to cross. Price advertised as interest over.",
+    "status": "under_offer",
+    "notes": "Entire ground-floor residence in a four-apartment beachfront complex, advertised with private gate access less than 50m to Tugun Beach and no roads to cross. Current realestate.com.au listing marks it under offer.",
     "image": "https://i2.au.reastatic.net/800x600/a56aa37256e15d7ce346b44ce4fac687031101fca89ba58c0cc929b2eee7b8c5/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/a56aa37256e15d7ce346b44ce4fac687031101fca89ba58c0cc929b2eee7b8c5/image.jpg",
@@ -25435,9 +26475,13 @@ const sampleProperties = [
       "Ocean views",
       "Large block"
     ],
-    "status": "unavailable",
-    "notes": "Elevated beachside house advertised with private stair access direct to Tugun Beach, panoramic ocean views from Surfers Paradise to Coolangatta and a 616m2 allotment. Price advertised as offers invited. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au Tugun house listing advertised with private stair access direct to Tugun Beach, panoramic ocean views from Surfers Paradise to Coolangatta and a 616m2 allotment. Price advertised as offers invited. Five-year Tugun growth evidence checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "priceLabel": "OFFERS INVITED",
+    "image": "https://i2.au.reastatic.net/800x600/370b5da3e2dbaadcd6f7913f88d3f27ad211bb24e43d3114581c1a985cb534c7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/370b5da3e2dbaadcd6f7913f88d3f27ad211bb24e43d3114581c1a985cb534c7/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-tugun-149561844",
     "investmentStar": false
   },
@@ -25500,6 +26544,65 @@ const sampleProperties = [
       "max": 1500000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "qld-tugun-2-dune-north-half-floor",
+    "title": "The North Half Floor Residence, 2 Dune Street",
+    "suburb": "Tugun",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-03-31",
+    "price": 3350000,
+    "priceLabel": "From $3,350,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Coastline-edge position",
+      "Panoramic ocean views",
+      "Boutique 10-residence project"
+    ],
+    "status": "active",
+    "notes": "Active Echo by Spyre north half-floor apartment on realestate.com.au/realtor.com, advertised as one of 10 absolute beachfront residences at 2 Dune Street with panoramic ocean views and construction underway. Five-year Tugun growth evidence checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://s1.rea.global/sha/604x447-prop/45b39bab37b4553949947a0941639056d2fa7e7f2268e4f432385bcaeccd51d2/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/604x447-prop/45b39bab37b4553949947a0941639056d2fa7e7f2268e4f432385bcaeccd51d2/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-tugun-150752088",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-tugun-2-dune-full-floor",
+    "title": "The Full Floor Residence, 2 Dune Street",
+    "suburb": "Tugun",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-03-31",
+    "price": 9750000,
+    "priceLabel": "From $9,750,000",
+    "priceSource": "realtor_international_mirror",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Full-floor residence",
+      "Panoramic ocean views",
+      "Boutique 10-residence project"
+    ],
+    "status": "active",
+    "notes": "Active Echo by Spyre full-floor apartment at 2 Dune Street. Realestate.com.au displays POA, while the current realtor.com international mirror for the same original property ID shows From $9,750,000 and on-market status. Five-year Tugun growth evidence checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://s1.rea.global/sha/604x447-prop/d627141873915db63cfb57f06135ced4cfc28d9ebdd92970bfbdf0dfe1c9038c/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/604x447-prop/d627141873915db63cfb57f06135ced4cfc28d9ebdd92970bfbdf0dfe1c9038c/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-tugun-150752556",
+    "investmentStar": false
   },
   {
     "id": "qld-armstrong-beach-manon",
@@ -28500,8 +29603,8 @@ const sampleProperties = [
       "Productive Rural Landscape zoning",
       "High-rainfall farm infrastructure"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Kersbrook lifestyle listing advertised as a 21.16ha Productive Rural Landscape holding, 37km from Adelaide CBD, with a separate self-contained cottage, 40kW solar, 3-phase power, extensive shedding, equine facilities, mains water, rainwater storage and high-rainfall productive soils. Campaign advertised as Best and Final Offers by 21st May.",
+    "status": "under_offer",
+    "notes": "Marked under offer 23 May 2026 after the exact realestate.com.au Kersbrook lifestyle listing displayed Pending Contract. Previously advertised as a 21.16ha Productive Rural Landscape holding, 37km from Adelaide CBD, with a separate self-contained cottage, 40kW solar, 3-phase power, extensive shedding, equine facilities, mains water, rainwater storage and high-rainfall productive soils.",
     "image": "https://i2.au.reastatic.net/800x600/787fc5a3c5b730d7d88131f861b244bc6a5b442f2246d4877f3b38e2281d744b/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/2f0bb95978b37ea7f707439eb08d1a84370ec3db4004708f4c69eb877e9acdea/image.jpg",
@@ -31663,8 +32766,8 @@ const sampleProperties = [
       "Cattle yards",
       "Dam and shelter"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au livestock listing advertised as 89.3ha / 220 acres off Lakes Road about 15km east of Mandurah, suited as a runoff block for beef operations with mixed sands and sandy loam, shade and shelter, dam country and steel cattle yards. Price advertised at $1,300,000.",
+    "status": "under_offer",
+    "notes": "realestate.com.au livestock listing advertised as 89.3ha / 220 acres off Lakes Road about 15km east of Mandurah, suited as a runoff block for beef operations with mixed sands and sandy loam, shade and shelter, dam country and steel cattle yards. Price advertised at $1,300,000. Current realestate.com.au result page checked 23 May 2026 now marks the listing under offer, so it is hidden from the app.",
     "image": "https://i2.au.reastatic.net/800x600/220464e1db67221bd5b1618cc18cd9fe2d58313efde61560a9637a9daf2aa5bc/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/220464e1db67221bd5b1618cc18cd9fe2d58313efde61560a9637a9daf2aa5bc/image.jpg"
@@ -42579,8 +43682,8 @@ const sampleProperties = [
       "Directly opposite beach",
       "Resort facilities"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Currumbin apartment listing advertised as a rare north-east corner beachfront residence in The Rocks Resort's A Block, with views across Currumbin Beach, Wallace Nicoll Park and the Alley, plus resort pool, spa, sauna, tennis and gym facilities. Exact listing advertises price as For Sale.",
+    "status": "unavailable",
+    "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as a rare north-east corner beachfront residence in The Rocks Resort's A Block, with views across Currumbin Beach, Wallace Nicoll Park and the Alley, plus resort pool, spa, sauna, tennis and gym facilities. Exact listing URL redirected to a sold page on 22 May 2026, showing contact agent sold on 12 May 2026.",
     "image": "https://i2.au.reastatic.net/800x600/29bcc625278d3dae47b9f90d48f4d7964112c011f37b1f581a745ab4e344b832/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/29bcc625278d3dae47b9f90d48f4d7964112c011f37b1f581a745ab4e344b832/image.jpg",
@@ -42683,6 +43786,70 @@ const sampleProperties = [
       "max": 1500000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "qld-currumbin-5-806-pacific",
+    "title": "5/806 Pacific Parade",
+    "suburb": "Currumbin",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-05-13",
+    "price": 1250000,
+    "priceLabel": "$1m-$1.5m",
+    "priceSource": "realestate_hidden_range",
+    "hiddenPriceCode": "017S",
+    "hiddenPriceRange": {
+      "min": 1000000,
+      "max": 1500000
+    },
+    "hiddenPriceUpdatedAt": "2026-05-22",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Currumbin beachfront locale",
+      "Directly opposite Currumbin Beach",
+      "Two-level renovated townhouse apartment",
+      "Walk to Currumbin Alley and surf club"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Currumbin apartment listing verified 22 May 2026 from the exact direct listing URL. The listing is advertised as positioned directly across from Currumbin Beach in the boutique White Dolphin complex, with ocean glimpses, a renovated two-level layout, and walking access to Currumbin Alley, Vikings Surf Club and Pacific Parade cafes. The listing is being sold by auction without an agent price guide; the realestate.com.au hidden price filter placed it in the $1m-$1.5m range. Available five-year Currumbin growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8557dfbef6d2dab4f3d171d07969724029872cef71d84c64bb411be7e8137d38/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8557dfbef6d2dab4f3d171d07969724029872cef71d84c64bb411be7e8137d38/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-currumbin-151185940",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-currumbin-11h-828-pacific",
+    "title": "11H/828 Pacific Parade",
+    "suburb": "Currumbin",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 20,
+    "price": 1995000,
+    "priceLabel": "Offers Over $1,995,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Premier beachfront escape",
+      "Top-floor Rocks Resort apartment",
+      "Ocean views from Stradbroke to Coolangatta",
+      "Steps to beach and cafes"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Currumbin unit listing verified 22 May 2026 from the exact direct listing URL. The listing is advertised as a top-floor apartment in The Rocks Resort that captures Currumbin coastline views from Stradbroke Island to Coolangatta, with resort facilities and the beach, cafes and boutiques just steps away. Price is advertised as offers over $1,995,000. Available five-year Currumbin growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2a257beea032a75b5f604f51b0b2e7b1c458525c4b12cb6c03049085d08431cc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2a257beea032a75b5f604f51b0b2e7b1c458525c4b12cb6c03049085d08431cc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-currumbin-148258024",
+    "investmentStar": false
   },
   {
     "id": "qld-currumbin-9g-828-pacific",
@@ -42895,7 +44062,7 @@ const sampleProperties = [
       "Sweeping beach and surf views",
       "Oceanway access"
     ],
-    "status": "active",
+    "status": "unavailable",
     "notes": "Active realestate.com.au Coolangatta unit listing in Kirra Surf Apartments, advertised as set within a desirable beachfront building with direct access to Kirra Beach and the Oceanway, sweeping sand, beach and surf views over coastal greenspace and resort amenities. Price is advertised as Contact Agent.",
     "image": "https://i2.au.reastatic.net/800x600/34f7a896534c5ab731ccb0df06a2ad7212a79c04356a5b8e4e0f51c7246eaa62/image.jpg",
     "images": [
@@ -43173,7 +44340,7 @@ const sampleProperties = [
       "Moments to patrolled beach",
       "Resort facilities"
     ],
-    "status": "active",
+    "status": "unavailable",
     "notes": "Active realestate.com.au Coolangatta unit listing in Points North, advertised as beachfront luxury in Coolangatta's premier beachfront address with direct lift access to The Strand shopping and dining precinct, moments from Coolangatta's patrolled beach and resort facilities. Price is advertised as offers over $1,499,000.",
     "image": "https://i2.au.reastatic.net/800x600/7c639e41f17ce76283dd3a69a632d25fdbd2dd4a64b63a5ee4abca24dd021b3e/image.jpg",
     "images": [
@@ -43632,7 +44799,7 @@ const sampleProperties = [
       "Podium-level apartment",
       "Holiday-let returns"
     ],
-    "status": "active",
+    "status": "unavailable",
     "notes": "Active realestate.com.au Coolangatta unit listing in Reflections Tower Two, advertised as a beachfront podium-level apartment with direct beachfront living, resort facilities and holiday-let gross returns over $100,000 per annum. Price is advertised as offers over $1,800,000.",
     "image": "https://i2.au.reastatic.net/800x600/8d9ed89afce14394b82da4458ea31b2bc8d1fbbcdbeac589cb7038753b4b9005/image.jpg",
     "images": [
@@ -43672,7 +44839,7 @@ const sampleProperties = [
       "Captivating ocean views",
       "Flexible 1 or 2 bedroom layout"
     ],
-    "status": "active",
+    "status": "unavailable",
     "notes": "Active realestate.com.au Coolangatta unit listing in Reflections Tower Two, advertised as a fully furnished oceanfront apartment with captivating ocean views, beachfront living, resort facilities and a flexible 1 or 2 bedroom layout. Price is advertised as Contact Agent.",
     "image": "https://i2.au.reastatic.net/800x600/dd5e55071f389daac59cafaa736d70aed65173ac6b213b63e612d06341548bd8/image.jpg",
     "images": [
@@ -43699,6 +44866,151 @@ const sampleProperties = [
       "max": 2000000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "qld-coolangatta-2-130-marine",
+    "title": "2/130 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-03-19",
+    "price": 1980000,
+    "priceLabel": "$1,980,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "130 Marine Parade front-row address",
+      "Direct gate access to beach pathway",
+      "Rainbow Bay and Greenmount nearby",
+      "Beachfront apartment with ocean outlook"
+    ],
+    "status": "active",
+    "notes": "Verified active realestate.com.au Coolangatta unit listing on 22 May 2026. The listing advertises a Marine Parade beachfront position, direct gate access to the path leading to the beach, proximity to Greenmount and Coolangatta beaches, and a fixed $1,980,000 price. No credible five-year evidence above 15% annual growth was found.",
+    "image": "https://i2.au.reastatic.net/800x600/48c3b3cad3112c1f56cd2a96a7389b7c6471003b3345799d2af49e252aa87f52/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/48c3b3cad3112c1f56cd2a96a7389b7c6471003b3345799d2af49e252aa87f52/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-150696912",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-18-180-marine",
+    "title": "18/180 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-08",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 355,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront Rainbow Bay",
+      "Beachfront balconies",
+      "Views from Straddie to Snapper",
+      "Private garage on title"
+    ],
+    "status": "active",
+    "notes": "Verified active realestate.com.au Coolangatta apartment listing on 22 May 2026. The listing advertises an absolute beachfront Rainbow Bay apartment at Reflections, beachfront balconies, views from Straddie to Snapper, and a private lock-up garage on title. Price was advertised as Contact Agent and no accessible hidden range was found. No credible five-year evidence above 15% annual growth was found.",
+    "image": "https://i2.au.reastatic.net/800x600/d9eb6265c09ef304474cce841e7a43bd59fc1cfc6f5ba9cb216110b6e3f65f13/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d9eb6265c09ef304474cce841e7a43bd59fc1cfc6f5ba9cb216110b6e3f65f13/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151145924",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-17-22-marine",
+    "title": "17/22 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-14",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Blue C beachfront building",
+      "Opposite Coolangatta Beach",
+      "Ocean views from balcony",
+      "Beachfront investment unit"
+    ],
+    "status": "active",
+    "notes": "Verified active realestate.com.au Coolangatta unit listing on 22 May 2026. The listing advertises Blue C beachfront living, a position opposite Coolangatta Beach, ocean views from the balcony and a one-bedroom beachside investment or owner-occupier opportunity. Price was advertised as Contact Agent and no accessible hidden range was found. No credible five-year evidence above 15% annual growth was found.",
+    "image": "https://i2.au.reastatic.net/800x600/12fb049d309855f70418c9f166c5367ec95ce9c00aebc9211dd47d1664bc3c40/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/12fb049d309855f70418c9f166c5367ec95ce9c00aebc9211dd47d1664bc3c40/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-151218324",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-126-99-griffith",
+    "title": "126/99 Griffith Street",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-04-24",
+    "price": 755000,
+    "priceLabel": "Offers $740,000 - $770,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Calypso Plaza Resort",
+      "Right on Coolangatta beachfront",
+      "Direct beachfront pathway access",
+      "North-facing ocean views"
+    ],
+    "status": "active",
+    "notes": "Verified active realestate.com.au Coolangatta apartment listing on 22 May 2026. The listing advertises Calypso Plaza Resort right on the Coolangatta beachfront, direct access to the beachfront pathway, a north-facing ocean outlook and an offers range of $740,000 to $770,000; price is stored at the midpoint. No credible five-year evidence above 15% annual growth was found.",
+    "image": "https://i2.au.reastatic.net/800x600/4ed2ed5e27f844c5d2784155dfb8e6e9e4bb0337a3ea2f850c9c0f9a91d43d3e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4ed2ed5e27f844c5d2784155dfb8e6e9e4bb0337a3ea2f850c9c0f9a91d43d3e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151014316",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-603-144-146-marine",
+    "title": "603/144-146 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2025-09-18",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cala Dei Marine Parade frontage",
+      "Uninterrupted ocean views",
+      "North-facing balcony",
+      "Renovated beachfront lifestyle unit"
+    ],
+    "status": "active",
+    "notes": "Verified active realestate.com.au Coolangatta unit listing on 22 May 2026. The listing advertises Cala Dei on Marine Parade, uninterrupted ocean views from every room, a large north-facing balcony and a renovated beachfront lifestyle apartment. Price was advertised as Contact Agent and no accessible hidden range was found. No credible five-year evidence above 15% annual growth was found.",
+    "image": "https://i2.au.reastatic.net/800x600/6b14e9d3277d83ab53535817d409dcc8ed8ab1c0f1094942053d430d590b6384/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6b14e9d3277d83ab53535817d409dcc8ed8ab1c0f1094942053d430d590b6384/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-149238408",
+    "investmentStar": false
   },
   {
     "id": "nsw-new-brighton-17-21-esplanade",
@@ -44240,9 +45552,13 @@ const sampleProperties = [
       "Walk to lighthouse track",
       "Holiday apartment"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Byron Bay unit listing advertised as perfectly positioned directly opposite Main Beach and right by Byron Bay town centre, with the ability to take morning swims, walk to breakfast or join the lighthouse walk without needing the car. Price is advertised as Expressions of Interest. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Byron Bay unit listing re-verified 22 May 2026 from the exact direct listing URL. The listing advertises a Main Beach holiday apartment directly opposite Main Beach and right by Byron Bay town centre, with morning swims, breakfast walks and the lighthouse walk available without needing the car. Price is advertised as Expressions of Interest. Five-year Byron Bay growth evidence was checked; available evidence did not support a >15% annual growth flag.",
     "image": "https://rimh2.domainstatic.com.au/x7ZlqrTXWVZrp0SJPDD5nYHMbFc%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020061797_1_1_250613_061045-w1200-h900",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c9b4d3e9610a182322c88bc18f12a907585487be4c9d8310f5b8e238bdc080c3/image.jpg",
+      "https://i2.au.reastatic.net/800x600/0ed8f78e41d86fbd83e94f26168314e2db3ec83acfaa0189e3d616cedc503435/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-unit-nsw-byron%2Bbay-148274572",
     "investmentStar": false
   },
@@ -44361,8 +45677,8 @@ const sampleProperties = [
       "Walk to The Pass",
       "365-day holiday letting precinct"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Byron Bay listing advertised as Cape Beach House directly opposite Clarkes Beach, moments from the shoreline, with a 479m2 north-facing block, rear lane access, licensed B&B use and 365-day holiday letting. Price is advertised as Guide $7,500,000. Five-year Byron Bay growth evidence was checked; available evidence did not support a >15% annual growth flag. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Byron Bay listing re-verified 22 May 2026 from the exact direct listing URL. The listing advertises Cape Beach House directly opposite Clarkes Beach, moments from the shoreline, with a 479m2 north-facing block, rear lane access, licensed B&B use and 365-day holiday letting. Price is advertised as Guide $7,500,000. Five-year Byron Bay growth evidence was checked; available evidence did not support a >15% annual growth flag.",
     "image": "https://mcgrathnr.com.au/wp-content/uploads/2026/02/1747786922127388151832512-rsd-1920x1080.jpg",
     "images": [
       "https://mcgrathnr.com.au/wp-content/uploads/2026/02/1747786922127388151832512-rsd-1920x1080.jpg",
@@ -44564,13 +45880,163 @@ const sampleProperties = [
       "Direct coastal landscape connection",
       "Private garden and pool"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Byron Bay new-development apartment listing in Eade Byron Bay, advertised as a rare beachfront garden residence with direct connection to the coastal landscape, positioned behind The Wreck on Main Beach in a protected coastal pocket. Price is advertised as $10,300,000. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay growth evidence was checked; available evidence did not support a >15% annual growth flag. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Byron Bay new-development apartment listing re-verified 22 May 2026 from the exact direct listing URL. The Eade Byron Bay listing advertises a rare beachfront garden residence with direct connection to the coastal landscape, positioned behind The Wreck on Main Beach in a protected coastal pocket. Price is advertised as $10,300,000. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay growth evidence was checked; available evidence did not support a >15% annual growth flag.",
     "image": "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-byron%2Bbay-149866372",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-byron-bay-2-34-lawson",
+    "title": "2/34 Lawson Street",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-04-02",
+    "price": 1965000,
+    "priceLabel": "EOI Guide $1.875M - $2.055M",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite Main Beach",
+      "Absolute Main Beach position",
+      "Ocean-view master retreat",
+      "365-day holiday letting zone"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Byron Bay unit listing verified 22 May 2026 from the exact direct listing pages. The listing advertises a renovated three-bedroom apartment positioned directly opposite the sands of Main Beach, with ocean glimpses, upper-level ocean views and 365-day holiday letting approval. Price is advertised as EOI Guide $1.875M - $2.055M. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay unit growth evidence was checked; available evidence did not support a >15% annual growth flag.",
+    "image": "https://rimh2.domainstatic.com.au/5AMQUbf5GogVMa2xVZHaavqrnqM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020731781_18_pi_260402_124331-w4608-h2592",
+    "images": [
+      "https://rimh2.domainstatic.com.au/5AMQUbf5GogVMa2xVZHaavqrnqM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020731781_18_pi_260402_124331-w4608-h2592",
+      "https://rimh2.domainstatic.com.au/RyaKf0zdo1gpBhS2Emkg1RLyQZ4%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020731781_1_pi_260402_124331-w4608-h2592",
+      "https://rimh2.domainstatic.com.au/1hOnxTo4kIkM6zmQ9pYeSRoW3KM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020731781_2_pi_260402_124331-w4608-h2592",
+      "https://rimh2.domainstatic.com.au/qJ63alH3e5GfpQXmAIfm0O6D1O0%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020731781_3_pi_260402_124331-w4608-h2592"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-byron%2Bbay-150779968",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-byron-bay-36-lawson",
+    "title": "36 Lawson Street",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "listedDate": "2025-04-17",
+    "price": null,
+    "priceLabel": "EOI Guide on request, close 29 May 5pm",
+    "landSize": 682,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite Main Beach",
+      "Views over Dening Park to ocean",
+      "365-day holiday letting zone",
+      "R3 medium density zoning"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Byron Bay listing verified 22 May 2026 from the exact direct listing URL. The listing advertises an architect-designed beach house directly opposite Main Beach, with views over Dening Park to the ocean, direct proximity to Main Beach and Tallow Beach, 365-day holiday letting zoning and R3 medium density zoning. Price is advertised as EOI Guide on request. Five-year Byron Bay house growth evidence was checked; available evidence did not support a >15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/40cc44628330c0645ef11392e47ca2bf9ad55cfe9cfcc4ae5ace2363f05ea7d2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/40cc44628330c0645ef11392e47ca2bf9ad55cfe9cfcc4ae5ace2363f05ea7d2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/92cf7d955832adfc14b1359e3907e7ff751f6d969bd09a6b1b42801e2de56220/image.jpg",
+      "https://i2.au.reastatic.net/800x600/aa86a4b333191a0eba427f4800488cc99a4509e6d9c4909e28d99212ea5769ea/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-byron%2Bbay-147809304",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-byron-bay-103-29-shirley",
+    "title": "103/29 Shirley Street",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "listedDate": "2025-12-12",
+    "price": 4750000,
+    "priceLabel": "$4,750,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Eade beachfront development",
+      "Behind The Wreck on Main Beach",
+      "Rare protected coastal pocket",
+      "Beachside residence with amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Eade Byron Bay apartment listing verified 22 May 2026 from the exact direct listing URL. The listing advertises a north-facing 187sqm three-bedroom residence in Eade, positioned behind The Wreck on Byron's Main Beach in a rare protected coastal pocket, within Byron's first beachfront development in almost a decade. Price is advertised as $4,750,000. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay unit growth evidence was checked; available evidence did not support a >15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/24f236abbb8650cd0c03a704e729c83ff87564cc83162aa1947a5ea0bf402148/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/24f236abbb8650cd0c03a704e729c83ff87564cc83162aa1947a5ea0bf402148/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-byron%2Bbay-149865340",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-byron-bay-003-29-shirley",
+    "title": "003/29 Shirley Street",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "listedDate": "2025-12-12",
+    "price": 4950000,
+    "priceLabel": "$4,950,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Eade beachfront development",
+      "Behind The Wreck on Main Beach",
+      "Private pool and courtyard",
+      "House-like garden residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Eade Byron Bay apartment listing verified 22 May 2026 from the exact direct listing URL. The listing advertises a 271sqm garden residence with private pool in Eade, positioned behind The Wreck on Byron's Main Beach in a rare protected coastal pocket, within Byron's first beachfront development in almost a decade. Price is advertised as $4,950,000. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay unit growth evidence was checked; available evidence did not support a >15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-byron%2Bbay-149865920",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-byron-bay-110-29-shirley",
+    "title": "110/29 Shirley Street",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "listedDate": "2025-12-12",
+    "price": 6200000,
+    "priceLabel": "$6,200,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Eade beachfront development",
+      "Behind The Wreck on Main Beach",
+      "Full-floor residence",
+      "Private direct lift access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Eade Byron Bay apartment listing verified 22 May 2026 from the exact direct listing URL. The listing advertises a 238sqm full-floor residence with direct lift access in Eade, positioned behind The Wreck on Byron's Main Beach in a rare protected coastal pocket, within Byron's first beachfront development in almost a decade. Price is advertised as $6,200,000. Land/block size was not published, so price per sqm is TBA. Five-year Byron Bay unit growth evidence was checked; available evidence did not support a >15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c17a5213a7f61a14a0da1aa6533e7d6e8213b459427ba1396e2b18cb007bce6b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-byron%2Bbay-149866164",
     "investmentStar": false
   },
   {
@@ -44857,8 +46323,12 @@ const sampleProperties = [
       "Oceanside apartment",
       "Dual access from Pacific Parade and Cliff Murray Lane"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Lennox Head apartment listing advertised as an oceanside apartment in a sought-after Pacific Parade position, directly across the road from iconic Seven Mile Beach, with east-facing balcony, dual access from Pacific Parade and Cliff Murray Lane, and walkability to cafes, Lake Ainsworth and Lennox Point surf. Price is advertised as $1,425,000. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Lennox Head apartment listing re-verified 22 May 2026 from the exact direct listing URL. The listing advertises an oceanside apartment in a sought-after Pacific Parade position directly across the road from Seven Mile Beach, with east-facing balcony, dual access from Pacific Parade and Cliff Murray Lane, and walkability to cafes, Lake Ainsworth and Lennox Point surf. Price is advertised as $1,425,000. Available five-year suburb/comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7ed6ae658a3369a2b59ebefac7e4cfa83fd35f28f5fc1411f30c978a1edfa6e9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ed6ae658a3369a2b59ebefac7e4cfa83fd35f28f5fc1411f30c978a1edfa6e9/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-lennox%2Bhead-149405216",
     "investmentStar": false
   },
@@ -44913,6 +46383,38 @@ const sampleProperties = [
       "https://images.homely.com.au/v3?resid=37449347&index=1&width=800&height=600"
     ],
     "listingUrl": "https://www.homely.com.au/homes/16-rayner-lane-lennox-head-nsw-2478/12420179",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-lennox-head-40-blue-seas",
+    "title": "40 Blue Seas Parade",
+    "suburb": "Lennox Head",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 90,
+    "listedDate": "2025-10-02",
+    "price": 12000000,
+    "priceLabel": "Buyers Guide $12,000,000",
+    "landSize": 1162,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Blue Seas Parade oceanfront holding",
+      "Waterfront listing with panoramic Pacific views",
+      "1,162 sqm landscaped allotment",
+      "Large luxury home with pool, spa, gym and lift"
+    ],
+    "status": "active",
+    "notes": "Active Domain and realestate.com.au Lennox Head house listing verified 22 May 2026 from exact direct listing pages. Domain lists the property as Water Front with ocean views and a Buyers Guide of $12,000,000; the realestate.com.au listing advertises a 1,162sqm landscaped allotment with dramatic beach and ocean panoramas, 653sqm building size, pool, spa, gym, lift and six-car garaging. The property is oceanfront/front-row rather than advertised with direct sand access. Available five-year suburb/comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/_ybVxagJypPq6gz1I1ku7g_lTn8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2014139931_1_1_251006_030922-w5760-h3840",
+    "images": [
+      "https://rimh2.domainstatic.com.au/_ybVxagJypPq6gz1I1ku7g_lTn8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2014139931_1_1_251006_030922-w5760-h3840",
+      "https://rimh2.domainstatic.com.au/e4IrjeLg7goOpctjYLXrRVrWWNY=/660x440/filters:format(jpeg):quality(80):no_upscale()/2014139931_2_1_251006_030922-w5760-h3840",
+      "https://rimh2.domainstatic.com.au/UxBau38ZHc3GQ9h1BtDSyT3I25M=/660x440/filters:format(jpeg):quality(80):no_upscale()/2014139931_3_1_251006_030922-w5760-h3840",
+      "https://rimh2.domainstatic.com.au/oHzC5-FvYO4D21Fu7qXaZjLfFLc=/660x440/filters:format(jpeg):quality(80):no_upscale()/2014139931_4_1_251006_030923-w5760-h3840"
+    ],
+    "listingUrl": "https://www.domain.com.au/40-blue-seas-parade-lennox-head-nsw-2478-2020312481",
     "investmentStar": false
   },
   {
@@ -47875,9 +49377,12 @@ const sampleProperties = [
       "Front-row coastal lifestyle",
       "Samatina building"
     ],
-    "status": "unavailable",
-    "notes": "Active exact realestate.com.au apartment listing reverified 14 May 2026, advertised as directly facing the ocean within the Samatina beachfront building, with uninterrupted 180-degree Pacific Ocean views, a front-row coastal lifestyle and beaches, cafes, ferry and coastal walks at the door. Price is advertised as Contact Agent; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during hidden price update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing reverified 23 May 2026, advertised as directly facing the ocean within the Samatina beachfront building, with uninterrupted 180-degree Pacific Ocean views, a front-row coastal lifestyle and beaches, cafes, ferry and coastal walks at the door. Price is advertised as Contact Agent; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a452b8070f406d8fe9c9edcc06978208c4e51f6ade5c298e395fb5ea77228c5b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a452b8070f406d8fe9c9edcc06978208c4e51f6ade5c298e395fb5ea77228c5b/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150124912",
     "investmentStar": false
   },
@@ -47901,8 +49406,11 @@ const sampleProperties = [
       "Metres to Manly Beach"
     ],
     "status": "active",
-    "notes": "Active exact realestate.com.au unit listing reverified 14 May 2026, advertised as a sub-penthouse beachfront apartment in the Trident with uninterrupted Manly Beach and Pacific Ocean views, front-row northeast aspect and position metres from Manly's sand and surf. Price guide is advertised at $3,200,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
-    "images": [],
+    "notes": "Active exact realestate.com.au unit listing reverified 23 May 2026, advertised as a sub-penthouse beachfront apartment in the Trident with uninterrupted Manly Beach and Pacific Ocean views, front-row northeast aspect and position metres from Manly's sand and surf. Price guide is advertised at $3,200,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a2727ca85279b13e67c1d54c25c9bc815e1d1c9c09de6efb286bb2ef2b865c4e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a2727ca85279b13e67c1d54c25c9bc815e1d1c9c09de6efb286bb2ef2b865c4e/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-unit-nsw-manly-150509980",
     "investmentStar": false
   },
@@ -48044,8 +49552,11 @@ const sampleProperties = [
       "Exclusive sandy beach access"
     ],
     "status": "active",
-    "notes": "Active exact realestate.com.au unit/townhouse listing reverified 14 May 2026 in Harbourside Gardens, advertised with uninterrupted North Harbour views, direct access to a private sandy beach and a rare direct connection to the water. Price guide is advertised at $3,750,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
-    "images": [],
+    "notes": "Active exact realestate.com.au unit/townhouse listing reverified 23 May 2026 in Harbourside Gardens, advertised with uninterrupted North Harbour views, direct access to a private sandy beach and a rare direct connection to the water. Price guide is advertised at $3,750,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c87ea317077d2fc900e73dfc372e0df14b0b90597c6e024a086e749f76661bb1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c87ea317077d2fc900e73dfc372e0df14b0b90597c6e024a086e749f76661bb1/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-unit-nsw-manly-149706068",
     "investmentStar": false
   },
@@ -48166,8 +49677,8 @@ const sampleProperties = [
       "Ocean-facing balcony",
       "Rare triple lock-up garage"
     ],
-    "status": "unavailable",
-    "notes": "Active exact realestate.com.au apartment listing verified 14 May 2026, advertised as a luxury beachfront sub-penthouse holding a rare absolute beachfront position directly opposite Manly's golden sands, with ocean views, an ocean-facing balcony and a triple lock-up garage. Price guide is advertised at $7,800,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing reverified 23 May 2026, advertised as a luxury beachfront sub-penthouse holding a rare absolute beachfront position directly opposite Manly's golden sands, with ocean views, an ocean-facing balcony and a triple lock-up garage. Price guide is advertised at $7,800,000; strata land/block size is not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/8a9c1927c9964711a776bf1e547c4ba91c10b1a367b6915c4f20dd4e55ffbd17/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8a9c1927c9964711a776bf1e547c4ba91c10b1a367b6915c4f20dd4e55ffbd17/image.jpg"
@@ -48470,6 +49981,267 @@ const sampleProperties = [
       "max": null
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "nsw-manly-2-69-74-north-steyne",
+    "title": "2/69-74 North Steyne",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-04-10",
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row North Steyne apartment",
+      "Uninterrupted Manly Beach views",
+      "Directly opposite sand and surf",
+      "Boutique Beachside building"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised as a front-row North Steyne Beachside apartment directly opposite Manly Beach with uninterrupted ocean views, three bedrooms, balcony and lift access. Price shown as Expressions of interest; strata land/block size is not published, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9b6f8eab155ccec8f9e481e3244786c7eafb145b3dd484623ca4bba259abf61c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9b6f8eab155ccec8f9e481e3244786c7eafb145b3dd484623ca4bba259abf61c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150834268",
+    "investmentStar": false,
+    "priceLabel": "Expressions of interest"
+  },
+  {
+    "id": "nsw-manly-9-24-east-esplanade",
+    "title": "9/24 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 2500000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "East Esplanade waterfront reserve position",
+      "Steps to Manly Cove Beach",
+      "Harbour views from balcony",
+      "Front-row wharf and village setting"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised as Manly's only absolute waterfront address, enjoying sweeping harbour views from the balcony with Manly Cove Beach, Wharf Beach, cafes and ferry immediately across East Esplanade. Price guide $2.5m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4e6a4524652a3a4c86f4d59b230b8f4219a2b6e2604238c4a2f669a1ff82f29a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4e6a4524652a3a4c86f4d59b230b8f4219a2b6e2604238c4a2f669a1ff82f29a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150142544",
+    "investmentStar": false,
+    "priceLabel": "For Sale: Guide $2,500,000"
+  },
+  {
+    "id": "nsw-manly-1-1-pine",
+    "title": "1/1 Pine Street",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-05-01",
+    "price": 1950000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront Manly location",
+      "Steps to North Steyne sand",
+      "Level ground-floor apartment",
+      "Surf club and promenade nearby"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised in a beachfront Manly location just steps from the sand and North Steyne Surf Club, with level ground-floor access, a north-facing patio and lock-up garage. Auction guide $1.95m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4f101db0392c29c7d848e095d6cfb512324488a168d389568febf13a62fe6ccd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4f101db0392c29c7d848e095d6cfb512324488a168d389568febf13a62fe6ccd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-151065020",
+    "investmentStar": false,
+    "priceLabel": "Auction Guide $1,950,000"
+  },
+  {
+    "id": "nsw-manly-8-40-east-esplanade",
+    "title": "8/40 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2025-09-12",
+    "price": 1750000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Directly opposite Manly Cove Beach",
+      "East Esplanade harbourfront row",
+      "Harbour-view apartment",
+      "Footsteps to ferry and dining"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised directly opposite Manly Cove Beach with a harbour outlook, East Esplanade front-row setting, balcony, lock-up garage and level access to Manly Wharf and harbourside dining. Auction guide $1.75m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b562079e33435481f6ffd9ed69815200c399553986c77c4a4d23e0ca9c633452/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b562079e33435481f6ffd9ed69815200c399553986c77c4a4d23e0ca9c633452/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-149029720",
+    "investmentStar": false,
+    "priceLabel": "Auction Guide $1,750,000"
+  },
+  {
+    "id": "nsw-manly-7-59-north-steyne",
+    "title": "7/59 North Steyne",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-02-05",
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Absolute beachfront North Steyne apartment",
+      "180-degree Pacific Ocean views",
+      "Beach and surf directly opposite",
+      "Front-row balcony outlook"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised as an absolute beachfront apartment directly opposite Manly Beach with 180-degree Pacific Ocean views, a wraparound balcony, dual entrances and direct access to the sand and surf across North Steyne. Auction listing; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c862e7f5956a120373398cd84c4adfbd741c7f64975bdc8f3a7d362fe0811d54/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c862e7f5956a120373398cd84c4adfbd741c7f64975bdc8f3a7d362fe0811d54/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150210404",
+    "investmentStar": false,
+    "priceLabel": "Auction"
+  },
+  {
+    "id": "nsw-manly-21-eurobin",
+    "title": "21 Eurobin Avenue",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-02-05",
+    "price": null,
+    "landSize": 461.6,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Lagoonfront reserve backing",
+      "No-road beach access",
+      "Direct path to Queenscliff and Manly",
+      "461.6sqm beach-reserve house block"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au house listing verified 23 May 2026, advertised as backing directly onto Queenscliff Lagoon Parklands with immediate reserve access, lagoon outlooks and a path to Queenscliff and Manly beaches without crossing a road. The listing publishes a 461.6sqm block. Price is For Sale with no published guide. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b83fc61164745a697ed931b02c96e20581d6719c57097d5d0907b1d357fbda89/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b83fc61164745a697ed931b02c96e20581d6719c57097d5d0907b1d357fbda89/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-manly-150206056",
+    "investmentStar": false,
+    "priceLabel": "For Sale"
+  },
+  {
+    "id": "nsw-manly-14-37-38-east-esplanade",
+    "title": "14/37-38 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 1300000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "East Esplanade opposite Manly Cove",
+      "Harbour and beach views",
+      "Front-row Manly Wharf precinct",
+      "Stroll to sand, ferry and village"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au unit listing verified 23 May 2026, advertised in the Manly Cove building directly opposite Manly Cove with harbour and beach views, East Esplanade frontage and level access to the ferry, sand and village. Guide $1.3m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/64641cf14137c468c002808d9d5680f1e5553916283930274ab4b264df21b157/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/64641cf14137c468c002808d9d5680f1e5553916283930274ab4b264df21b157/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-manly-150003000",
+    "investmentStar": false,
+    "priceLabel": "Guide $1,300,000"
+  },
+  {
+    "id": "nsw-manly-712-54-west-esplanade",
+    "title": "712/54 West Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 3750000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Grande Esplanade harbourfront apartment",
+      "Directly opposite Manly Wharf",
+      "Manly Cove and city skyline views",
+      "Waterfront resort-style facilities"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised in Grande Esplanade directly opposite Manly Wharf with views over Manly Cove and the city skyline, plus harbourfront facilities and level access to the cove, ferry and village. Auction guide $3.75m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/365c577c7bfd0ecb1fdc7d80d8d6e0dc39edf294f64546eb0e3a11c3c96c8e74/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/365c577c7bfd0ecb1fdc7d80d8d6e0dc39edf294f64546eb0e3a11c3c96c8e74/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150438576",
+    "investmentStar": false,
+    "priceLabel": "Auction Guide $3,750,000"
+  },
+  {
+    "id": "nsw-manly-4-53-east-esplanade",
+    "title": "4/53 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2025-11-20",
+    "price": 2200000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "East Esplanade beachside apartment",
+      "Harbour views to Manly Cove",
+      "Footsteps to ferry and beach",
+      "Front-row harbourside address"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 23 May 2026, advertised as a beachside East Esplanade apartment with wide harbour views over Manly Cove, an enclosed balcony and immediate access to Manly Wharf, the beach and harbourside dining. Auction guide $2.2m; strata land/block size not published. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d04d7f9f22ec3f9c22ea8faa38b4708813f85609759dd86e6f9997bde1e6ef53/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d04d7f9f22ec3f9c22ea8faa38b4708813f85609759dd86e6f9997bde1e6ef53/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-149691340",
+    "investmentStar": false,
+    "priceLabel": "Auction Guide $2,200,000"
   },
   {
     "id": "nsw-cronulla-69-69a-the-esplanade",
@@ -58367,8 +60139,9 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 35,
-    "daysOnMarket": 6,
-    "price": 2950000,
+    "listedDate": "2026-05-06",
+    "price": null,
+    "priceLabel": "DISPLAY SUITE",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -58379,10 +60152,13 @@ const sampleProperties = [
       "Beachside apartment",
       "Resort amenities"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au new-development listing verified 13 May 2026, advertised as Residence #004 at CABA Residences with direct access to pristine beaches and the Cabarita Beach community. Land size is not published for the strata apartment, so price per sqm remains TBA. Available five-year suburb/comparable growth evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-149634412",
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 22 May 2026 for Apartment 004 at CABA Residences, advertised as a display suite with direct beach access, ocean and reserve views, resort pool, magnesium spa and sauna access. Visible listing label is DISPLAY SUITE with no public price shown, and land size is not published for the strata apartment, so price per sqm remains TBA. Available five-year suburb/comparable growth evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-151111792",
     "investmentStar": false
   },
   {
