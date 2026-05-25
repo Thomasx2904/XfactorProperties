@@ -13,6 +13,209 @@
 
 const sampleProperties = [
   {
+    "id": "nsw-sleepy-hollow-address-available-the-hollow",
+    "title": "Address available on request",
+    "suburb": "Sleepy Hollow",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "price": 6000000,
+    "priceLabel": "For Sale $6,000,000",
+    "landSize": 985500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "98.55ha / 243.5-acre Tweed-Byron holding in two freehold titles",
+      "About 10 minutes to Pottsville beaches and 30 minutes to Byron Bay and Gold Coast Airport",
+      "Productive cattle, horse and banana country with bore, covered yards, stables and separate gatehouse cottage",
+      "Creeks, rainforest and a 25m waterfall support lifestyle, eco-tourism or retreat upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Sleepy Hollow lifestyle listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 98.55ha / 243.5 acres in two freehold titles, 10 minutes to Pottsville beaches, 30 minutes to Byron Bay and Gold Coast Airport, homestead, separate gatehouse cottage, cattle grazing, bananas, stables, bore, covered cattle yards, creeks, rainforest and a 25m waterfall. Available Northern Rivers and suburb-level growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f990c42fa7a7f066a9166ec39f411b310da7aec226730221185df555ece8d595/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f990c42fa7a7f066a9166ec39f411b310da7aec226730221185df555ece8d595/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-sleepy%2Bhollow-700312996",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-dyraaba-680-mcdonalds-bridge",
+    "title": "680 McDonalds Bridge Road",
+    "suburb": "Dyraaba",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 150,
+    "price": 1475000,
+    "priceLabel": "$1,475,000",
+    "landSize": 888800,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "88.88ha mixed-farming holding on the edge of Dyraaba Village",
+      "About 15 minutes to both Kyogle and Casino for regional services and sale-yard access",
+      "Eden Creek flats, springs, dams and 39ML irrigation licence provide strong water security",
+      "Nine grazing paddocks, solar-fed troughs, machinery shed and cattle yards support income potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Dyraaba mixed-farming listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 88.88ha / almost 220 acres, alluvial Eden Creek flats, natural wetland, springs, dams, 39ML irrigation licence, nine grazing paddocks, solar-fed troughs, cattle yards, machinery shed, three-bedroom home and a current carrying capacity of 65 breeders. Available Dyraaba/Kyogle/Casino and wider Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/99cc7bc596d3fdfe425821be69cc84f03eaeea7e2c3008909c3e6a6c1fb552d3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/99cc7bc596d3fdfe425821be69cc84f03eaeea7e2c3008909c3e6a6c1fb552d3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-nsw-dyraaba-700354704",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-pimlico-110-mcandrews",
+    "title": "110 Mcandrews Lane",
+    "suburb": "Pimlico",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 90,
+    "price": 2200000,
+    "priceLabel": "For Sale: Guide $2,100,000 - $2,300,000",
+    "landSize": 248200,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "24.82ha Ballina hinterland lifestyle block with cleared expanses and natural bush",
+      "About 10 minutes to Ballina CBD with highway access north and south",
+      "Cleared home pad with panoramic views, three dams and internal bush trails",
+      "Close to Ballina, beaches and airport for premium rural-residential demand"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Pimlico rural land listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 24.82ha, cleared expanses and natural bush, three natural dams, bush trails, a spacious cleared building pad with panoramic views and easy highway access about 10 minutes from Ballina CBD. Available Pimlico/Ballina and Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4b4211dfeb0cc0c1bd544da30fe181d9b1f8fe29be053c27fd52a9c848b33b0f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4b4211dfeb0cc0c1bd544da30fe181d9b1f8fe29be053c27fd52a9c848b33b0f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-nsw-pimlico-700304424",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-barkers-vale-239-mcclelland",
+    "title": "239 McClelland Road",
+    "suburb": "Barkers Vale",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 80,
+    "price": 1012500,
+    "priceLabel": "$975,000 to $1,050,000",
+    "landSize": 465400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "46.54ha / about 115-acre Barkers Vale holding adjoining Border Ranges National Park",
+      "Leister Creek frontage with swimming holes, waterfalls and reliable spring-fed dams",
+      "Private elevated cottage with solar, Starlink, rainwater tanks and panoramic range views",
+      "Second frontage on Lofts Pinnacle Road and retreat/weekender appeal near the Tweed hinterland"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Barkers Vale acreage listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 46.54ha / about 115 acres, adjoining Border Ranges National Park, Leister Creek/Hanging Rock Creek frontage, swimming holes, waterfalls, spring-fed dams, clearings, a two-bedroom cottage, solar, Starlink, water tanks and second frontage to Lofts Pinnacle Road. Available Barkers Vale/Tweed hinterland and Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/80f5c0c1b0cfe438e8f79806359d19e0a98d6a091c01694993ac48d901d6e5ef/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/80f5c0c1b0cfe438e8f79806359d19e0a98d6a091c01694993ac48d901d6e5ef/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-barkers%2Bvale-147803352",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-bean-creek-15675-clarence",
+    "title": "15675 Clarence Way",
+    "suburb": "Bean Creek",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 150,
+    "price": 1200000,
+    "priceLabel": "$1,200,000",
+    "landSize": 315900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "31.59ha / about 80-acre alluvial grazing holding in the Bonalbo district",
+      "Bean Creek frontage along the eastern boundary for recreation, camping and stock water",
+      "Mostly arable creek flats set up for grazing or hay production with steel yards",
+      "Comfortable four-bedroom home about 2.5 hours from the Gold Coast and Brisbane"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bean Creek livestock listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 31.59ha / about 80 acres of alluvial grazing country, Bean Creek frontage, mostly arable creek flats, capacity for 40 breeders, steel yards, holding paddocks and a four-bedroom, two-bathroom homestead just under 2 hours 30 minutes to both the Gold Coast and Brisbane. Available Bean Creek/Bonalbo and Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/43ae4c4e1db7f68592d629b20ff0dfbd4a813bd2ea310278d94084d987831ea0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/43ae4c4e1db7f68592d629b20ff0dfbd4a813bd2ea310278d94084d987831ea0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-nsw-bean%2Bcreek-700358040",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-mcleans-ridges-148-humpty-back",
+    "title": "148 Humpty Back Road",
+    "suburb": "McLeans Ridges",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 100,
+    "price": 2300000,
+    "priceLabel": "$2,300,000",
+    "landSize": 222400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "22.24ha working macadamia orchard in the Alstonville/Lismore rural belt",
+      "Approximately 3,900 macadamia trees aged up to 25 years support farm-income upside",
+      "99ML irrigation licence via easement and extensive orchard-floor management",
+      "Multiple potential homesites, machinery shed and coveted Northern Rivers agricultural location"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au McLeans Ridges acreage listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 22.24ha, about 3,900 macadamia trees aged up to 25 years, extensive orchard-floor management, 99ML irrigation licence via easement, machinery shed with solar and battery, included farm equipment and multiple potential homesites STCA. Available McLeans Ridges/Alstonville/Lismore and Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/6ad0e2b38e8d084873b5ac3a3e8d1565a17ae50a621bdc3f1c663f854c82bed6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6ad0e2b38e8d084873b5ac3a3e8d1565a17ae50a621bdc3f1c663f854c82bed6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-mcleans%2Bridges-147868784",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-buckendoon-520-forest",
+    "title": "520 Forest Road",
+    "suburb": "Buckendoon",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 120,
+    "price": 1050000,
+    "priceLabel": "$1.05 million",
+    "landSize": 894400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "89.44ha / more than 220-acre cropping property in the Ballina/Lismore coastal hinterland",
+      "Approximately 56ha cultivated with tea tree and wheat income history noted in the listing",
+      "Off-grid manager's house, large solar and battery system, two wells and machinery shedding",
+      "About 30 minutes to Lismore and Evans Head, 45 minutes to Ballina and under an hour to Byron Bay"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Buckendoon acreage listing verified 25 May 2026 from the exact direct listing URL and current Northern Rivers portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 89.44ha / more than 220 acres, about 56ha cultivated, 5.5ha tea tree, 10ha wheat, a 20ha former tea-tree paddock with a historical $110,000 p/a return, off-grid manager's house, large solar and battery system, two wells, water tank and machinery shed, within about 30 minutes of Lismore and Evans Head, 45 minutes of Ballina and just under an hour of Byron Bay. Available Buckendoon/Ballina-Lismore and Northern Rivers growth evidence was checked but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/04ae02b2590d5ab7b0e362ca43bbd3e1e2b34305ee0fbdfd2917ea2b671112095/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/04ae02b2590d5ab7b0e362ca43bbd3e1e2b34305ee0fbdfd2917ea2b671112095/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-buckendoon-143678796",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "vic-bellbrae-377-vickerys",
     "title": "377 Vickerys Road",
     "suburb": "Bellbrae",
