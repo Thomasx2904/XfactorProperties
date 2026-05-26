@@ -13,6 +13,500 @@
 
 const sampleProperties = [
   {
+    "id": "qld-brooloo-60-coonoongibber-creek",
+    "title": "60 Coonoongibber Creek Road",
+    "suburb": "Brooloo",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 130,
+    "daysOnMarket": 12,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 801300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "80.13ha / 198-acre Sunshine Coast Hinterland cattle and lifestyle holding",
+      "Borders Yabba State Forest with two-road frontage and creek, dam and tank water",
+      "Five fenced paddocks, timber yards, loading ramp and working cattle infrastructure",
+      "Minutes to Kenilworth with Eumundi, Gympie and Sunshine Coast beach access"
+    ],
+    "status": "active",
+    "notes": "Active Homely Brooloo acreage listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Homely showed 12 days on Homely. The listing advertises 80.13ha / 198 acres in the Sunshine Coast Hinterland, bordering Yabba State Forest, with an older four-bedroom farmhouse, two-road frontage, five paddocks, creek, tanks, dam, timber yards, loading ramp, cattle operation use and access to Kenilworth, Eumundi, Gympie and Sunshine Coast beaches. Available Brooloo/Mary Valley and comparable Sunshine Coast hinterland five-year growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://www.homely.com.au/img-variant/l-RayWhite-11142136-1.jpg?version=638196475949730000&named-transform=webHeroTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-RayWhite-11142136-1.jpg?version=638196475949730000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-RayWhite-11142136-3.jpg?version=638196475949870000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-RayWhite-11142136-4.jpg?version=638196475949970000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-RayWhite-11142136-5.jpg?version=638196475950070000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-RayWhite-11142136-6.jpg?version=638196475950130000&named-transform=webHeroTransform"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/60-coonoongibber-creek-road-brooloo-qld-4570/11142136",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-brooloo-4015-mary-valley",
+    "title": "4015 Mary Valley Road",
+    "suburb": "Brooloo",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 130,
+    "price": null,
+    "priceLabel": "Motivated Vendors!",
+    "landSize": 522000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "52.2ha Mary Valley / Sunshine Coast hinterland-area rural holding",
+      "Large private acreage 15 minutes to Kenilworth and under an hour to Noosa beaches",
+      "Established four-bedroom homestead with farm, lifestyle or income-use flexibility",
+      "Substantial road-access landholding in the Kenilworth-Brooloo rural market"
+    ],
+    "status": "active",
+    "notes": "Active Homely Brooloo acreage listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Homely advertises the listing as Motivated Vendors! and describes 52.2ha with a four-bedroom homestead, substantial private acreage, 15-minute access to Kenilworth and under-one-hour access to Noosa beaches. The Brooloo/Mary Valley position was treated as the same Kenilworth-Brooloo rural hinterland market area already represented in the app. Available Brooloo/Mary Valley and comparable Sunshine Coast hinterland five-year growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://www.homely.com.au/img-variant/l-Listing-5424358-1.jpg?version=638675652854930000&named-transform=webHeroTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-Listing-5424358-1.jpg?version=638675652854930000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-Listing-5424358-3.jpg?version=638675653702530000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-Listing-5424358-4.jpg?version=638675653704030000&named-transform=webHeroTransform",
+      "https://www.homely.com.au/img-variant/l-Listing-5424358-5.jpg?version=638675653705130000&named-transform=webHeroTransform"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/4015-mary-valley-road-brooloo-qld-4570/12101297",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-gidgegannup-122-dinsdale",
+    "title": "122 Dinsdale Road",
+    "suburb": "Gidgegannup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 55,
+    "price": 1600000,
+    "priceLabel": "From $1,600,000",
+    "landSize": 226600,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "22.66ha / 56.8-acre Perth Hills lifestyle holding",
+      "Around 55% pasture with stables, yards and old arena infrastructure",
+      "Bore, water tanks, large sheds and rural views support livestock or income use",
+      "About 30 minutes to Midland with Mundaring, Chidlow and Gidgegannup access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Gidgegannup house listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 22.66ha / 56.8 acres with about 55% pasture, a four-bedroom farmhouse, four stables, yards, old arena, two large powered sheds, bore, water tanks and about 30-minute access to Midland. Gidgegannup five-year house growth evidence was checked; OnTheHouse/Cotality reported a 103.87% five-year median-value increase for houses, which is about 15.3% annual compound growth, so a regional investment flag is supported.",
+    "image": "https://i2.au.reastatic.net/800x600/3c4f75ec17890ce57c22bfb7400e9227eab36d9aa9eac6b18bae4481963a419f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3c4f75ec17890ce57c22bfb7400e9227eab36d9aa9eac6b18bae4481963a419f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-gidgegannup-149134896",
+    "listingCategory": "large",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 15.3,
+    "investmentReason": "OnTheHouse/Cotality Gidgegannup market data checked 25 May 2026 reported 103.87% five-year house median-value growth, about 15.3% annual compound growth."
+  },
+  {
+    "id": "wa-gidgegannup-178-burgess",
+    "title": "178 Burgess Road",
+    "suburb": "Gidgegannup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 45,
+    "price": 3000000,
+    "priceLabel": "$3,000,000",
+    "landSize": 295400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "29.54ha / 73-acre West Gidgegannup holding about 12km from Midland",
+      "Main residence plus second dwelling supports extended family or rental income",
+      "Spring-fed dams, winter creek, bore water and substantial rainwater storage",
+      "Three-phase power, sheds and stated future development potential subject to approvals"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Gidgegannup house listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 29.54ha / 73 acres in West Gidgegannup about 12km from Midland, with a main home, attached granny flat, second dwelling, dams, winter creek, bore water, rainwater tank, large workshop/GP shed, three-phase power and future development potential subject to relevant approvals. Gidgegannup five-year house growth evidence was checked; OnTheHouse/Cotality reported a 103.87% five-year median-value increase for houses, which is about 15.3% annual compound growth, so a regional investment flag is supported.",
+    "image": "https://i2.au.reastatic.net/800x600/90b64f23050dc96c6f910597d63539656db3af84b0515bce38375a8e7d7d2a2f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/90b64f23050dc96c6f910597d63539656db3af84b0515bce38375a8e7d7d2a2f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-gidgegannup-147154588",
+    "listingCategory": "large",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 15.3,
+    "investmentReason": "OnTheHouse/Cotality Gidgegannup market data checked 25 May 2026 reported 103.87% five-year house median-value growth, about 15.3% annual compound growth."
+  },
+  {
+    "id": "vic-paraparap-120-flaxbournes",
+    "title": "120 Flaxbournes Road",
+    "suburb": "Paraparap",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-05-11",
+    "price": 2900000,
+    "priceLabel": "$2,800,000 - $3,000,000",
+    "landSize": 202300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.23ha / 50-acre Surf Coast hinterland lifestyle holding",
+      "Close to Torquay, Geelong and the Great Ocean Road market",
+      "Air-hangar shed, large hayshed with secondary-dwelling approval and pool",
+      "Two dams, paddocks, solar and established rural infrastructure"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Paraparap house listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 11 May 2026 and advertises 20.23ha / approx. 50 acres with a triple-fronted brick home, pool, air-hangar shed, hayshed approved for secondary-dwelling conversion, two dams, paddocks, 5kW solar, satellite NBN and Surf Coast proximity. Available Paraparap and Surf Coast five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600-resize,f480x360/54c2360aa689b041c36e2979e5a94d890f74ed9d7feb1d0f2107d61be1736286/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-resize,f480x360/54c2360aa689b041c36e2979e5a94d890f74ed9d7feb1d0f2107d61be1736286/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-paraparap-151149448",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-modewarre-125-larcombes",
+    "title": "125 Larcombes Road",
+    "suburb": "Modewarre",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "listedDate": "2024-05-30",
+    "price": 1950000,
+    "priceLabel": "$1,900,000 - $2,000,000",
+    "landSize": 202300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.23ha / 50-acre Modewarre rural holding between Geelong and the Surf Coast",
+      "Established avocado grove and productive rural lifestyle use",
+      "Large dam plus 21m x 13m machinery shed and 15m x 8m storage shed",
+      "Access to Anglesea, Lorne, Geelong and Bellarine visitor markets"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Modewarre house listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 30 May 2024 and advertises 20.23ha / approx. 50 acres with a three-bedroom home, established avocado grove, deep loam soils, productive fenced paddocks, large dam, machinery and storage shedding and a Surf Coast/Bellarine position between Anglesea, Lorne and Geelong. Available Modewarre and Surf Coast five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600-resize,f480x360/a39e1b3a51a5a98006c5c6c23fd3f4a474e98d0e1cf194f6d2652a26e9758dfc/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-resize,f480x360/a39e1b3a51a5a98006c5c6c23fd3f4a474e98d0e1cf194f6d2652a26e9758dfc/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-modewarre-146253792",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-paraparap-1275-hendy-main",
+    "title": "1275 Hendy Main Road",
+    "suburb": "Paraparap",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 604408,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "60.44ha / 149-acre Paraparap grazing and lifestyle holding",
+      "Eight paddocks, cattle yards, two dams and town water connected",
+      "Expansive workshop and shedding support farming or income use",
+      "Surf Coast, Geelong and Melbourne access with coastal lifestyle upside"
+    ],
+    "status": "active",
+    "notes": "Active Domain Paraparap rural listing verified 25 May 2026 from the exact direct listing URL and current Domain result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 60.44ha / approx. 149 acres with a five-bedroom homestead, eight paddocks, cattle yards, two dams, town water connected, expansive workshop and shedding, established gardens and access to the Surf Coast, Geelong and Melbourne. Available Paraparap and Surf Coast five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/A-Vq4jdixBZ92XInH9nRS7zoReo=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019653445_1_1_240709_031353-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/A-Vq4jdixBZ92XInH9nRS7zoReo=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019653445_1_1_240709_031353-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/Q0YCnJURmFOE9LFASrVz1imGiCo=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019653445_1_1_240709_031351-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/7ZoaxgUxeWBSjbe6yxFY4mvQ9Tk=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019653445_1_1_240709_031432-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/KzaOOo-xWQg0VkU4KJWC7ZhHc_w=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019653445_1_1_240709_031417-w2000-h1333"
+    ],
+    "listingUrl": "https://www.domain.com.au/1275-hendy-main-road-paraparap-vic-3240-2019653445",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-flinders-201-old-cottontree",
+    "title": "201 Old Cottontree Road",
+    "suburb": "Flinders",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "daysOnMarket": 4,
+    "price": 11550000,
+    "priceLabel": "Expressions of Interest | $11,000,000-$12,100,000",
+    "landSize": 210400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "21.04ha / 52-acre Mornington Peninsula estate near Flinders village",
+      "Ocean and island views toward Phillip Island and The Nobbies",
+      "Self-contained apartment, ten-car barn-style garage and short-stay guest upside",
+      "Solar with battery, bore-fed irrigation, two dams and paddocks support rural use"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Flinders house listing verified 25 May 2026 from the exact direct listing URL and matching portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The result page showed Added 4 days ago. The listing advertises Pembrey Farm as a 21.04ha / approx. 52-acre Mornington Peninsula estate with countryside, Phillip Island and The Nobbies views, self-contained apartment, solar and battery storage, bore irrigation, two dams, electric-fenced paddocks, machinery shed and proximity to Flinders Village, Red Hill, golf and beaches. Available Flinders/Mornington Peninsula five-year growth evidence was checked; the evidence was mixed and did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/99e912c0120945586a3a260a4683d0d7ea43e0498a4024ca794f974696e8b901/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/99e912c0120945586a3a260a4683d0d7ea43e0498a4024ca794f974696e8b901/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d4bcc03fc1e3ce7feccf593602c2ad7820039972e0259f751f257464b355e759/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-flinders-149544704",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-flinders-145-musk-creek",
+    "title": "145 Musk Creek Road",
+    "suburb": "Flinders",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "price": 9450000,
+    "priceLabel": "Private sale $9,000,000-$9,900,000",
+    "landSize": 222600,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "22.26ha / 55-acre working Mornington Peninsula farmland",
+      "Western Port and Phillip Island views from a premium Flinders address",
+      "Separate self-contained cabin, pool and guest accommodation flexibility",
+      "15 paddocks, Musk Creek pumping rights, machinery shed and cattle infrastructure"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Flinders acreage listing verified 25 May 2026 from the exact direct listing URL and matching portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Cypress Ridge as a 22.26ha / approx. 55-acre estate with Western Port and Phillip Island views, separate log cabin, 15 paddocks, machinery shed, workshop, cattle crushes, Musk Creek pumping rights, swimming pool and access to Flinders Village, beaches, wineries, golf and national parks. Available Flinders/Mornington Peninsula five-year growth evidence was checked; the evidence was mixed and did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d0c9e8fdb209389d5c2569f09716aa3f152ed86959e5fab2fe7bbdbf0f40d281/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d0c9e8fdb209389d5c2569f09716aa3f152ed86959e5fab2fe7bbdbf0f40d281/image.jpg",
+      "https://i2.au.reastatic.net/800x600/019c34cb652d136b3fef653f1ed032a30cef522a6cbb5760ce205aa6a4fed7f8/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c3edc3328e86ee1b36b8d9c9e9f1edf139041d0e526e3708b1d34febf1723cc0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-flinders-143145056",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-flinders-4380-frankston-flinders",
+    "title": "4380 Frankston-Flinders Road",
+    "suburb": "Flinders",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 90,
+    "price": 10500000,
+    "priceLabel": "Private sale; indicative price: $10,000,000 - $11,000,000",
+    "priceSource": "portal_indicative_range",
+    "landSize": 204400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.44ha / 50.5-acre Mornington Peninsula residential landholding",
+      "Prepared residence and farm-shed sites with power and town water connected",
+      "Wolveridge-designed residence plans, infinity pool concept and passive-solar design",
+      "Olive grove, Manton Creek and Cotton Tree Creek frontage near Flinders village"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Flinders residential-land listing verified 25 May 2026 from the exact direct listing URL and matching portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 20.44ha / approx. 50.5 acres with Western Port and The Nobbies views, Manton Creek and Cotton Tree Creek frontage, about 1,000 olive trees, completed groundwork, power and town water to the site cut, farm-shed preparation and Wolveridge-designed residence plans. Available Flinders/Mornington Peninsula five-year growth evidence was checked; the evidence was mixed and did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ff08c79e0d6a0f13c400ed6719104d4871d80382d7355064a4b752cb46669acc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ff08c79e0d6a0f13c400ed6719104d4871d80382d7355064a4b752cb46669acc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-flinders-204316688",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-flinders-1747-boneo",
+    "title": "1747 Boneo Road",
+    "suburb": "Flinders",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 95,
+    "price": 13750000,
+    "priceLabel": "$13,750,000 | By Private Appointment",
+    "landSize": 716300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "71.63ha / approx. 177-acre Mornington Peninsula coastal-rural estate",
+      "Three separate homes and multigenerational or accommodation upside",
+      "Ocean and rural views from elevated Flinders land",
+      "Natural spring, extensive shedding, fencing and farming or equestrian infrastructure"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Flinders lifestyle listing verified 25 May 2026 from the exact direct listing URL and matching portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Cullyamurra as a 71.63ha / approx. 177-acre coastal estate with three separate residences, ocean and rural views, natural spring, fencing, extensive shedding and farming, equestrian or retreat potential in the Mornington Peninsula market. Available Flinders/Mornington Peninsula five-year growth evidence was checked; the evidence was mixed and did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e45d64172d67f2224eb3859148042e289907618f27c53f11a058855b738154a4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e45d64172d67f2224eb3859148042e289907618f27c53f11a058855b738154a4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-vic-flinders-700381220",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-flinders-1820-boneo",
+    "title": "1820 Boneo Road",
+    "suburb": "Flinders",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 95,
+    "price": 11300000,
+    "priceLabel": "Contact Agent; indicative price: $11,000,000 - $11,600,000",
+    "priceSource": "portal_indicative_range",
+    "landSize": 220600,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "22.06ha / 54-acre oceanfront Flinders holding across three titles",
+      "674m Bass Strait frontage with direct Cairns Bay beach and rock-pool access",
+      "Three existing dwellings plus agricultural and livestock infrastructure",
+      "Luxury retreat or development upside STCA near Flinders village and National Park trails"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Flinders house listing verified 25 May 2026 from the exact direct listing URL and matching portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Kerry Green as a 22.06ha / approx. 54-acre coastal holding over three titles with 674m Bass Strait frontage, direct access to Cairns Bay beach and rock pools, adjoining National Park trails, three existing dwellings, machinery shed, hay shed, cattle yards, original shearing shed and further retreat or development potential STCA. Available Flinders/Mornington Peninsula five-year growth evidence was checked; the evidence was mixed and did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/524cc3515ab557474eb67c1197cc26a27bf941e1c5a103e812b0f71a5e575151/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/524cc3515ab557474eb67c1197cc26a27bf941e1c5a103e812b0f71a5e575151/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-flinders-149359592",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-yinnar-south-55-fairbairns",
+    "title": "55 Fairbairns Road",
+    "suburb": "Yinnar South",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 135,
+    "price": 1930000,
+    "priceLabel": "$1,930,000",
+    "landSize": 781000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "78.1ha / approx. 193.5-acre Strzelecki Ranges grazing holding across two titles",
+      "Approx. 143 acres of productive grazing country in 20 paddocks",
+      "Six dams, gravity-fed troughs, stockyards and seven-bay hay and machinery shedding",
+      "Monash Way frontage and rear access under 10 minutes to Churchill services"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yinnar South acreage listing verified 25 May 2026 from the exact direct listing URL and current Gippsland portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 78.1ha / approx. 193.5 acres across two titles with a four-bedroom homestead, about 143 acres of grazing country, 20 paddocks, all-weather laneways, stockyards, six dams, gravity-fed troughs, seven-bay machinery and hay shedding, Monash Way frontage and access to Churchill. Available Yinnar/Yinnar South and Gippsland five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7e8ee2521788a71922ac185b10dff74b4cf1d74308fc73ca4aa57bbc21bf848d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7e8ee2521788a71922ac185b10dff74b4cf1d74308fc73ca4aa57bbc21bf848d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-yinnar%2Bsouth-149896980",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-woolamai-470-densley",
+    "title": "470 Densley Road",
+    "suburb": "Woolamai",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 115,
+    "price": 2995000,
+    "priceLabel": "$2,995,000",
+    "landSize": 400000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40ha / approx. 103-acre Bass Coast grazing estate in the Gippsland search market",
+      "Panoramic views across Phillip Island, Wilsons Promontory and Gippsland hills",
+      "Multiple dams plus barn, hay shed and machinery shedding",
+      "Luxury rural residence with farming or private recreation upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Woolamai acreage listing verified 25 May 2026 from the exact direct listing URL and current Gippsland portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises approximately 40ha / 103 acres of grazing land with 180-degree views across Phillip Island, Wilsons Promontory and Gippsland hills, multiple dams, barn-style shed, hay shed and machinery shed. Woolamai appears on the Gippsland/Bass Coast portal search lane. Available Woolamai and Bass Coast/Wonthaggi comparable five-year growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/97c31c3c919ee4e902ce0340dfbe1fe1b6680e8b7ee269d429753fb777f705c1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/97c31c3c919ee4e902ce0340dfbe1fe1b6680e8b7ee269d429753fb777f705c1/image.jpg",
+      "https://i2.au.reastatic.net/800x600/1da351ddc8c23fa953289e9c2e61bf504439c4d423284d91c4bbf6c627c9cf9d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-woolamai-149287716",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-wonthaggi-lot-2-kirrak",
+    "title": "Lot 2 Kirrak Road",
+    "suburb": "Wonthaggi",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "price": 1600000,
+    "priceLabel": "$1,600,000",
+    "landSize": 408700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.87ha / approx. 101-acre Wonthaggi livestock block",
+      "Minutes to Wonthaggi shops, schools and hospital and Inverloch beaches",
+      "Well-fenced rural blank canvas with stockyards",
+      "Current lease in place with home-site potential STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Wonthaggi livestock listing verified 25 May 2026 from the exact direct listing URL and current Wonthaggi rural portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40.87ha / approx. 101 acres minutes from Wonthaggi and Inverloch, well fenced with stockyards, rural-escape or cattle/horse use, current 12-month lease and build potential STCA. Available Wonthaggi/Bass Coast five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/79d1efa93ec8753c0c376365d8dd8f1c6d496f5286ea2293d0fb75a2dca22eef/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/79d1efa93ec8753c0c376365d8dd8f1c6d496f5286ea2293d0fb75a2dca22eef/image.jpg",
+      "https://i2.au.reastatic.net/800x600/c2f61d48943a82e7ace33579f09e036c646a289ed5c9a83ea70a8ba17a3a1e7e/image.jpg",
+      "https://i2.au.reastatic.net/800x600/fc899f092d1e7090cfe6adab1078f5992a98e64c58dd986b36f253297aa7e497/image.jpg",
+      "https://i2.au.reastatic.net/800x600/a286dee5be4455d958d65afd3f96c0e649b86fd53e642af56bab6bfbde4a34bb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-vic-wonthaggi-700338492",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-wonthaggi-292-boundary",
+    "title": "292 Boundary Rd",
+    "suburb": "Wonthaggi",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "price": null,
+    "priceLabel": "Build your dream home",
+    "landSize": 420900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "42.09ha / approx. 104-acre Wonthaggi grazing block",
+      "Between Wonthaggi and Inverloch with regional centre and beach access",
+      "Six paddocks, four dams, troughs, permanent fencing and pasture",
+      "No planning permit required for a single dwelling according to listing"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Wonthaggi livestock listing verified 25 May 2026 from the exact direct listing URL and current Wonthaggi rural portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 42.09ha / approx. 104 acres between Wonthaggi and Inverloch, six paddocks, four dams, windmill-pumped troughs, good permanent fencing, pastures, private house sites and states that a planning permit is not required for a single dwelling. Available Wonthaggi/Bass Coast five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3c122fb1076a3b3bdcc0dc02c7aecba0770b72c712510242a29a2d89ef74928a9bd1d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3c122fb1076a3b3bdcc0dc02c7aecba0770b72c712510242a29a2d89ef74928a9bd1d/image.jpg",
+      "https://i2.au.reastatic.net/800x600/befd86ae7c18ffde5607d5d4e4f7f17dd74e1b419aaee9e26c9fb0e40e72a478/image.jpg",
+      "https://i2.au.reastatic.net/800x600/3254c6f004c42f849700d49f128d78c38cdd1b42e2cf159f6f75c2699d797797/image.jpg",
+      "https://i2.au.reastatic.net/800x600/d5152ed139d8ff484a5d36914d934a01bd03d2c682ccfd2503e1c917c0f5cb7c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-vic-wonthaggi-700221631",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-sleepy-hollow-address-available-the-hollow",
     "title": "Address available on request",
     "suburb": "Sleepy Hollow",
@@ -458,7 +952,8 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 105,
-    "price": 1300000,
+    "price": 1350000,
+    "priceLabel": "$1,300,000 - $1,400,000",
     "priceLabel": "Price Guide $1.3m",
     "landSize": 400600,
     "beachfront": false,
@@ -3627,8 +4122,8 @@ const sampleProperties = [
       "Ocean views",
       "Steps to beach"
     ],
-    "status": "active",
-    "notes": "Active Mooloolaba Esplanade apartment listing advertised as apartment living on Mooloolaba's front row, with panoramic Pacific Ocean views from Zanzibar Resort and easy beach access via the Esplanade. Price is auction/no guide.",
+    "status": "sold",
+    "notes": "Sold realestate.com.au Mooloolaba Esplanade apartment listing. Exact listing URL verified 26 May 2026 as sold on 16 May 2026 after previously advertising apartment living on Mooloolaba's front row, panoramic Pacific Ocean views from Zanzibar Resort and easy beach access via the Esplanade.",
     "image": "https://i2.au.reastatic.net/800x600/20a5075616d96eda8eeb592e0ab435d523b4a9c846b13576e2b1ad2a1581aaeb/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/20a5075616d96eda8eeb592e0ab435d523b4a9c846b13576e2b1ad2a1581aaeb/image.jpg",
@@ -3839,6 +4334,62 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/9cef82de6d6b083e876ecef359602d174700d77cfc81a1c9c027fcc3a6a0dc6b/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-qld-mooloolaba-151104884",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-mooloolaba-802-3-meta",
+    "title": "802/3 Meta Street",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 2500000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mooloolaba beachside location",
+      "50m to Mooloolaba Beach",
+      "Uninterrupted ocean views",
+      "Breeze apartments"
+    ],
+    "status": "active",
+    "notes": "Active Breeze apartment listing advertised with 180-degree ocean panorama, uninterrupted ocean views from every angle, and a prime beachside position 50m from Mooloolaba Beach. Price is advertised as offers over $2,500,000.",
+    "image": "https://i2.au.reastatic.net/800x600/3f9a0db8c974b74c54731dabffca25cc6a25cac6b40eccba8133b814d9bd31e2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3f9a0db8c974b74c54731dabffca25cc6a25cac6b40eccba8133b814d9bd31e2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-mooloolaba-150523584",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-mooloolaba-8-1-3-buderim",
+    "title": "8/1-3 Buderim Avenue",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-04-02",
+    "price": 1000000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Osprey beachfront complex",
+      "Mooloolaba Esplanade setting",
+      "Ground-floor sea views",
+      "Short stroll to patrolled beach"
+    ],
+    "status": "active",
+    "notes": "Active Osprey apartment listing advertised as beachfront brilliance, positioned within the iconic Osprey complex along the highly sought-after Mooloolaba Esplanade, with ground-floor sea views and an easy short stroll to the patrolled beach. Price is advertised as offers low $1 million.",
+    "image": "https://i2.au.reastatic.net/800x600/c44a7d97689c95fd269be6a33432ecd007b22a1604a13b91e211d798132ccf62/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c44a7d97689c95fd269be6a33432ecd007b22a1604a13b91e211d798132ccf62/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-mooloolaba-150782952",
     "investmentStar": false
   },
   {
@@ -4150,6 +4701,38 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-coolum-beach-1-mona-vista",
+    "title": "1 Mona Vista Court",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "listedDate": "2026-04-30",
+    "price": null,
+    "priceLabel": "Price on Request",
+    "landSize": 1016,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Domain feature tag: Beach Front",
+      "Opposite First and Second Bays",
+      "150m to Second Bay",
+      "Private coastal rainforest estate"
+    ],
+    "status": "active",
+    "notes": "Active Domain and realestate.com.au Coolum Beach house listing verified 26 May 2026 from exact direct listing pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Domain lists the property with a Beach Front feature tag and Price on Request, while the realestate.com.au description says it is positioned opposite Coolum's First and Second Bays, 150m to Second Bay, 1km to Coolum CBD, and within 2 hectares of coastal rainforest. OnTheHouse/Cotality Coolum Beach five-year growth evidence was checked; houses were reported at 69.54% five-year median-value growth and units at 92.37%, which did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/wjM7B58i4CXl0DdwRwc2JG1_-Ck%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020802494_1_1_260430_034514-w5000-h3335",
+    "images": [
+      "https://rimh2.domainstatic.com.au/wjM7B58i4CXl0DdwRwc2JG1_-Ck%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020802494_1_1_260430_034514-w5000-h3335",
+      "https://rimh2.domainstatic.com.au/FmYADh1olCj9JaNwU8JgKJw-Z8o%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020802494_35_3_260430_034514-w5000-h3535",
+      "https://rimh2.domainstatic.com.au/Wh0XUOKKrnKoF_PwUoA6tCfRLI4%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020802494_2_1_260430_034514-w5000-h3335",
+      "https://rimh2.domainstatic.com.au/BH1t9Kx16LXJY0KcC64l7m8vN60%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020802494_3_1_260430_034514-w5000-h3335"
+    ],
+    "listingUrl": "https://www.domain.com.au/1-mona-vista-court-coolum-beach-qld-4573-2020802494",
+    "investmentStar": false
+  },
+  {
     "id": "wa-hillarys-5-founders",
     "title": "5 Founders Lane",
     "suburb": "Hillarys",
@@ -4365,6 +4948,37 @@ const sampleProperties = [
     "investmentReason": "OnTheHouse/Cotality reports Trigg units rose 124.71% over five years, about 17.6% p.a.; this is scarce front-row beachfront apartment stock."
   },
   {
+    "id": "wa-trigg-101-331-west-coast",
+    "title": "1.01/331 West Coast Drive",
+    "suburb": "Trigg",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-05-20",
+    "daysOnMarket": 4,
+    "price": 3950000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite Trigg Beach",
+      "Front-row West Coast Drive apartment",
+      "Boutique five-home beachfront building",
+      "Ocean-side coastal pathway and Mettams Pool access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Trigg apartment listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 20 May 2026 and added 4 days ago. It advertises a completed luxury beachfront apartment in a five-home building perched above Trigg Beach, directly opposite the beach and coastal pathway, with premium interiors and two garage spaces. Available Trigg unit growth evidence was checked; OnTheHouse/Cotality evidence used by the existing comparable Trigg beachfront apartment record supports a greater than 15% annual five-year growth flag for scarce front-row unit stock.",
+    "image": "https://i2.au.reastatic.net/800x600/337e78a544047df47a90ca0bac35b877a22f1d05d432fc92e00cbea12aff14b7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/337e78a544047df47a90ca0bac35b877a22f1d05d432fc92e00cbea12aff14b7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-trigg-151252808",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.6%",
+    "investmentReason": "OnTheHouse/Cotality reports Trigg units rose 124.71% over five years, about 17.6% p.a.; this is scarce front-row beachfront apartment stock."
+  },
+  {
     "id": "wa-safety-bay-20-warnbro-beach",
     "title": "20 Warnbro Beach Road",
     "suburb": "Safety Bay",
@@ -4439,7 +5053,7 @@ const sampleProperties = [
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 50,
     "daysOnMarket": null,
-    "price": 2750000,
+    "price": 2200000,
     "landSize": 343,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -4451,7 +5065,7 @@ const sampleProperties = [
       "Steps to bayside amenities"
     ],
     "status": "active",
-    "notes": "Active Safety Bay listing advertised as opposite the south coastal inlet known as The Pond, with sweeping ocean views, a front balcony over the coastal surrounds and steps to bayside amenities. Price is advertised as Contact Agent.",
+    "notes": "Active realestate.com.au listing reverified 25 May 2026. The exact listing advertises a front-row position opposite the south coastal inlet known as The Pond, with sweeping ocean views, a front balcony over the coastal surrounds and steps to bayside amenities. Price is advertised as Offers Above $2,200,000.",
     "image": "https://i2.au.reastatic.net/800x600/1cc4214f732843a546c35ef5634e6ba8bdaa70259a7d33f2f05a76230f89aa38/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1cc4214f732843a546c35ef5634e6ba8bdaa70259a7d33f2f05a76230f89aa38/image.jpg",
@@ -4492,14 +5106,7 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-wa-safety%2Bbay-150787728",
     "investmentStar": false,
-    "priceLabel": "$2.5m-$3m",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "021S",
-    "hiddenPriceRange": {
-      "min": 2500000,
-      "max": 3000000
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "priceLabel": "Offers Above $2,200,000"
   },
   {
     "id": "wa-safety-bay-288-safety-bay",
@@ -4520,8 +5127,8 @@ const sampleProperties = [
       "Ocean views",
       "Large block"
     ],
-    "status": "active",
-    "notes": "Homely active listing describes absolute beachfront living directly opposite Safety Bay Beach with uninterrupted ocean views, everyday beach access and sand just footsteps from the front door. Price is advertised as Contact Agent.",
+    "status": "sold",
+    "notes": "Hidden after the 25 May 2026 Safety Bay sweep. The same-address realestate.com.au direct listing now redirects to a sold property page showing Contact agent, sold on 13 Feb 2026; the Homely sale page appears stale and was not retained as an active record.",
     "image": "https://www.homely.com.au/images/listings/12699539/vaultre/large/1.jpg?v=638982374813663862",
     "images": [
       "https://www.homely.com.au/img-variant/l-VaultRE-12699539-1.jpg?named-transform=webDefaultTransform&version=a9y0OkgMv5tcir7DzJ52fmMEiFwrS1Iv",
@@ -4584,8 +5191,8 @@ const sampleProperties = [
       "Parkland setting",
       "Dual income"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 16 May 2026. The exact listing advertises a coastal setting seconds from the beach, a few steps from the pristine coastline, beach access, spectacular ocean views from multiple balconies and nearby parkland. Price is advertised as From $1,495,000 - Leased at $1,790 p/w. Available growth evidence showed strong recent annual suburb growth, but no verified 5-year above-15% annual growth source was found.",
+    "status": "under_contract",
+    "notes": "Hidden after the 25 May 2026 Safety Bay sweep. The exact realestate.com.au listing now shows Under contract and Under offer, so it is removed from the active app view. Previously advertised as seconds from the beach with beach access and ocean views.",
     "image": "https://i2.au.reastatic.net/800x600/3db0e96534075fc91f921cf89e443265c988f159c5b961557ca25b14a3b1d0ab/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3db0e96534075fc91f921cf89e443265c988f159c5b961557ca25b14a3b1d0ab/image.jpg"
@@ -6783,6 +7390,37 @@ const sampleProperties = [
     "listingUrl": "https://www.homely.com.au/homes/3a-crowtherton-street-bluff-point-wa-6530/12743632"
   },
   {
+    "id": "wa-bluff-point-112-kempton",
+    "title": "112 Kempton Street",
+    "suburb": "Bluff Point",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "listedDate": "2025-10-02",
+    "price": 1590000,
+    "priceLabel": "Offers from $1.59 Million",
+    "landSize": 776,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row Kempton Street coastal position",
+      "Breathtaking ocean views",
+      "Beach 100m",
+      "776sqm Bluff Point block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bluff Point direct listing verified 25 May 2026 from the exact 112 Kempton Street listing and matching Domain/REIWA direct pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker visible on the current direct portal listing. The listing advertises a tightly held Kempton Street position, breathtaking ocean views, beach 100m, 776sqm land, multiple living zones, solar panels, two garages and shed/workshop utility. Current portal evidence for nearby 7 Malcolm Street describes Malcolm Street as one street back from the pristine beachfront of Kempton Street, supporting treatment as a front-row coastal listing; no-road frontage and direct beach access were not claimed. Available Bluff Point growth evidence was checked, including current realestate.com.au and REIWA market snapshots, but no credible five-year annual growth evidence above 15% was found.",
+    "image": "https://imagecdn.reiwa.com.au/listing/08/4959608-02.jpg?maxheight=301&maxwidth=396&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/08/4959608-02.jpg?maxheight=301&maxwidth=396&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/08/4959608-03.jpg?maxheight=301&maxwidth=396&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/08/4959608-04.jpg?maxheight=301&maxwidth=396&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-bluff%2Bpoint-149221392",
+    "investmentStar": false
+  },
+  {
     "id": "sa-black-point-401-black-point",
     "title": "401 Black Point Drive",
     "suburb": "Black Point",
@@ -7665,6 +8303,34 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "wa-north-coogee-46a-medina",
+    "title": "46A Medina Parade",
+    "suburb": "North Coogee",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 30,
+    "price": null,
+    "priceLabel": "CONTACT AGENT",
+    "landSize": 410,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row beachfront",
+      "Steps from the sand",
+      "Water-facing balcony",
+      "Brand-new coastal residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 May 2026 from the exact direct listing URL and the current North Coogee portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a brand-new front-row beachfront home on a tightly held North Coogee street, steps from the sand, with water-facing balcony, large low-maintenance beachfront garden, 364sqm build area and 410sqm land. The exact listing displayed CONTACT AGENT / MARKET PREVIEW with no public numeric price visible in the rendered page, so price per sqm is left as TBA. Five-year suburb/comparable growth evidence was checked during verification; OpenStats showed North Coogee three-bedroom houses at 13.9% average annual five-year growth to Jun 2025, while available broader house evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/44bc1022cd04fc92b8e9e97e3f21c03b251811a7746c13e6a04bb44f6cced891/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/44bc1022cd04fc92b8e9e97e3f21c03b251811a7746c13e6a04bb44f6cced891/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-north%2Bcoogee-150091936",
+    "investmentStar": false
+  },
+  {
     "id": "vic-safety-beach-46-marine",
     "title": "46 Marine Drive",
     "suburb": "Safety Beach",
@@ -8077,7 +8743,8 @@ const sampleProperties = [
       "Renovation upside",
       "Major city"
     ],
-    "notes": "Absolute beachfront landholding with rockwall frontage and renovation upside.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing re-verified 26 May 2026 and redirected to the sold property page, showing Contact agent Sold on 14 May 2026. Absolute beachfront landholding with rockwall frontage and renovation upside.",
     "image": "https://i2.au.reastatic.net/800x600/4b1989ffabda9eb7225eb55f0e05db83daca9aa0c25faf9d41b7d404b0e86e95/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/4b1989ffabda9eb7225eb55f0e05db83daca9aa0c25faf9d41b7d404b0e86e95/image.jpg",
@@ -8175,9 +8842,18 @@ const sampleProperties = [
       "Large block",
       "Major city"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Beachmere listing advertised as a waterfront paradise with a private yard and inground pool overlooking the ocean on a 1,265sqm block. Direct beach access is not separately stated. Price is advertised as price upon application. Exact listing appeared off market during hidden price update.",
-    "listingUrl": "https://www.realestate.com.au/property-house-qld-beachmere-146918608"
+    "status": "active",
+    "priceLabel": "Price Upon Application",
+    "notes": "Active realestate.com.au Beachmere listing re-verified 26 May 2026 and advertised as a waterfront paradise with a private yard and inground pool overlooking the ocean on a 1,265sqm block. Direct beach access is not separately stated. Price is advertised as price upon application.",
+    "image": "https://i2.au.reastatic.net/800x600/a54955e447f1b6270313c3ae15f431c5b9db2d0718ee50a1b66f05d77d3fd1b0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a54955e447f1b6270313c3ae15f431c5b9db2d0718ee50a1b66f05d77d3fd1b0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-beachmere-146918608",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "15.4%",
+    "investmentFiveYearGrowth": "104.07%",
+    "investmentReason": "OnTheHouse/Cotality Beachmere house market evidence found 26 May 2026 reports median values up 104.07% over five years, approximately 15.4% compound annual growth."
   },
   {
     "id": "nsw-safety-beach-28-ocean",
@@ -9075,7 +9751,8 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 90,
     "daysOnMarket": null,
-    "price": 875000,
+    "price": 995000,
+    "priceLabel": "$995,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -10747,8 +11424,8 @@ const sampleProperties = [
       "Vacant land",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Absolute beachfront land with plans ready for a coastal home. Price is the midpoint of the advertised range.",
+    "status": "under_offer",
+    "notes": "Hidden after the 26 May 2026 Rules Beach sweep. The exact realestate.com.au listing now shows Under offer for this absolute beachfront land, so it is removed from the active app view. Price is the midpoint of the advertised range.",
     "image": "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
@@ -10998,7 +11675,8 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Bundaberg",
     "majorCityMinutes": 55,
-    "price": null,
+    "price": 1900000,
+    "priceLabel": "Genuine Offers Considered; portal result showed Offers Above $1.9M",
     "landSize": 5509,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -11009,13 +11687,14 @@ const sampleProperties = [
       "Dual income",
       "Subdivision potential"
     ],
-    "status": "unavailable",
-    "notes": "Large Esplanade holding advertised opposite the ocean with uninterrupted beach views and dual-living income potential. Exact listing appeared off market during hidden price update.",
+    "status": "active",
+    "notes": "Active Realestate.com.au Woodgate listing re-verified 26 May 2026 at the exact direct listing URL. The listing advertises a 5,509 sqm Esplanade holding right across from the ocean, with uninterrupted ocean views, dual-living/dual-income potential, beachside lifestyle appeal and subdivision potential STCA. Current Woodgate market evidence checked during this sweep did not substantiate a greater than 15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/fe16da53bc0d7837c06b2ad290ed2e6f3b93563e552e85eee76b70fb78aef9f6/image.png",
     "images": [
       "https://i2.au.reastatic.net/800x600/fe16da53bc0d7837c06b2ad290ed2e6f3b93563e552e85eee76b70fb78aef9f6/image.png"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-qld-woodgate-148939164"
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-woodgate-148939164",
+    "investmentStar": false
   },
   {
     "id": "qld-woodgate-unit-7-151-esplanade",
@@ -12028,6 +12707,34 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/766d3a681c3caf61ebcc9b1df7f095e44f33d233abfa9784d3328e3c917a25f0/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-wa-halls%2Bhead-150991056"
+  },
+  {
+    "id": "wa-halls-head-3-capricorn",
+    "title": "3 Capricorn Mews",
+    "suburb": "Halls Head",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 65,
+    "daysOnMarket": 0,
+    "price": 1899000,
+    "landSize": 726,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Zero roads to beach",
+      "Direct beach access",
+      "Ocean views",
+      "Pool"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Halls Head listing verified 25 May 2026 from the exact direct listing URL and current Halls Head portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 726sqm absolute beachfront home with zero roads between the property and the water, ocean views, private pool, deck and multiple living areas. Available Halls Head growth evidence was checked but did not substantiate a greater than 15% annual investment flag for this comparable 4-bedroom house listing.",
+    "image": "https://i2.au.reastatic.net/800x600/d7c76f76f40c9a503f0e0cd1ad9f2782711017873ab36e3b958229ff446978c8/image.png",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d7c76f76f40c9a503f0e0cd1ad9f2782711017873ab36e3b958229ff446978c8/image.png"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-halls%2Bhead-151206224",
+    "investmentStar": false
   },
   {
     "id": "wa-halls-head-20b-halls-head",
@@ -14913,8 +15620,8 @@ const sampleProperties = [
       "Flexible layout",
       "Renovated"
     ],
-    "status": "active",
-    "notes": "Tightly held Sunshine Beach home with rare direct sand path access to the beach and flexible multi-residence configuration.",
+    "status": "under_offer",
+    "notes": "Exact listing rechecked 26 May 2026 and realestate.com.au now marks this Sunshine Beach direct sand-path property as under offer, so it is hidden from the active app view.",
     "image": "https://i2.au.reastatic.net/800x600/8a98253608b0bdb8233fe39e1485c4664b026955e7a57fea30b337205096c508/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8a98253608b0bdb8233fe39e1485c4664b026955e7a57fea30b337205096c508/image.jpg",
@@ -15004,6 +15711,97 @@ const sampleProperties = [
       "max": 5000000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "qld-sunshine-beach-20-adams",
+    "title": "20 Adams Street",
+    "suburb": "Sunshine Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "listedDate": "2026-05-19",
+    "daysOnMarket": 5,
+    "price": null,
+    "priceLabel": "By Negotiation",
+    "landSize": 742,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Private rear sandy track",
+      "150m to Sunshine Beach",
+      "No roads to cross",
+      "Backs onto bush reserve"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Sunshine Beach listing verified 26 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 19 May 2026 and advertises a 742sqm Adams Street home positioned 150m from Sunshine Beach via a sandy rear track from the back gate, with no roads to cross, backing directly onto a quiet bush reserve, short-stay approval and a Stephen Kidd coastal design. The listing shows By Negotiation and the raw hidden-price metadata could not be fetched from the local sandbox. Available Sunshine Beach five-year growth evidence was checked; OnTheHouse reported 42.95% five-year house median growth and 58.59% unit growth, which does not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/528b9df82d3f79a9af85ae4b5eac9aa5ea5927b95076bba6925e2f7d4f0e5173/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/528b9df82d3f79a9af85ae4b5eac9aa5ea5927b95076bba6925e2f7d4f0e5173/image.jpg"
+    ],
+    "investmentStar": false,
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-151234960",
+    "listingCategory": "beach"
+  },
+  {
+    "id": "qld-sunshine-beach-22-1-ross",
+    "title": "22/1 Ross Crescent",
+    "suburb": "Sunshine Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "listedDate": "2026-05-25",
+    "price": null,
+    "priceLabel": "Expressions Of Interest Closing 26 June",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Sunseeker resort apartment",
+      "Direct beach pathway access",
+      "Panoramic ocean views",
+      "Short-term letting approval"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Sunshine Beach unit listing verified 26 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 25 May 2026 and advertises a Sunseeker resort apartment with panoramic ocean views, direct access to Sunshine Beach's patrolled sands, exclusive key access to the beach pathway, resort pool, spa, barbeque area, games room and short-term letting approval. Land size is not disclosed. Available Sunshine Beach five-year growth evidence was checked; OnTheHouse reported 42.95% five-year house median growth and 58.59% unit growth, which does not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/6bc44d36c34920f872120fca6d5156a2dd4c551c37fdee20fcd53c9f964a4e1e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6bc44d36c34920f872120fca6d5156a2dd4c551c37fdee20fcd53c9f964a4e1e/image.jpg"
+    ],
+    "investmentStar": false,
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-sunshine%2Bbeach-151292812",
+    "listingCategory": "beach"
+  },
+  {
+    "id": "qld-sunshine-beach-8-2-park",
+    "title": "8/2 Park Crescent",
+    "suburb": "Sunshine Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "listedDate": "2026-05-13",
+    "price": null,
+    "priceLabel": "For Sale",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean-end Park Crescent position",
+      "Elevated ocean-view deck",
+      "Walk to patrolled beach",
+      "Resort pool and BBQ area"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Sunshine Beach apartment listing verified 26 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 13 May 2026 and advertises a single-level end unit in the Park Crescent enclave, positioned at the ocean end of the complex with elevated ocean views, sea breezes, resort amenities and a short stroll to Sunshine Beach village, surf club and patrolled beach. Land size is not disclosed. Available Sunshine Beach five-year growth evidence was checked; OnTheHouse reported 42.95% five-year house median growth and 58.59% unit growth, which does not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2e905fca5a9e6dde36b4b04aa67d19f9e60dab66912a182d35bee50f42b9b206/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2e905fca5a9e6dde36b4b04aa67d19f9e60dab66912a182d35bee50f42b9b206/image.jpg"
+    ],
+    "investmentStar": false,
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-sunshine%2Bbeach-151185556",
+    "listingCategory": "beach"
   },
   {
     "id": "qld-sunshine-beach-7-1-ross",
@@ -16150,13 +16948,45 @@ const sampleProperties = [
       "North-east corner block",
       "Pool and outdoor kitchen"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Warana listing verified 19 May 2026 from the exact direct listing URL. The listing advertises a dual-level duplex directly opposite beach access on blue-chip Oceanic Drive, with a north-east corner position, pool, outdoor kitchen and about 259m2 of living area. Land size was not published on the exact listing page, so price per sqm is left as TBA. Five-year Warana growth evidence was checked; current realestate.com.au/property.com.au suburb evidence showed house annual compound growth below 15%, so no investment star was applied.",
+    "status": "sold",
+    "notes": "Hidden after the 26 May 2026 Warana sweep. The same realestate.com.au listing ID is now confirmed sold by current sold-result evidence for 1/18 Oceanic Drive, Warana, so the stale active record is no longer shown.",
     "image": "https://i2.au.reastatic.net/800x600/f9b11e7e2532be10cc6540f09bed8a59c029e6c86d54d3740d8463ffdb0de46d/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/f9b11e7e2532be10cc6540f09bed8a59c029e6c86d54d3740d8463ffdb0de46d/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-warana-149592452",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-warana-1-18-palkana",
+    "title": "1/18 Palkana Drive",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-01-29",
+    "price": 1900000,
+    "priceLabel": "High $1Ms",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Palkana Park beach access",
+      "Beachside duplex-villa",
+      "Rooftop-style north-east balcony",
+      "Private pool and double garage"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 26 May 2026 from the exact direct listing URL and current portal result pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown for this Palkana Drive listing. The listing advertises a beachside duplex-villa beside the Palkana Park beach-access corridor, about 240m to the sand, with 261m2 internal area, four bedrooms, private pool, double garage and rooftop-style north-east balcony. Land size was not published on the exact listing page, so price per sqm is left as TBA. Available Warana five-year house and unit growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d16c0aaebec73b1dc0e6c3aee884d2009d60c284b388fd320e8374fb5347ed65/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d16c0aaebec73b1dc0e6c3aee884d2009d60c284b388fd320e8374fb5347ed65/image.jpg",
+      "https://s1.rea.global/property-images-rui-prod/604x447/270c3de2ad4a4663e3530b5216e968b5.main.jpeg",
+      "https://s1.rea.global/property-images-rui-prod/250x160/7ad63090d1362cd4c765604b9b24622b.image2.jpeg",
+      "https://s1.rea.global/property-images-rui-prod/250x160/4dba4a9b0614655517c28442d0612f9d.image3.jpeg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-duplex%2Bsemi-detached-qld-warana-150089616",
     "investmentStar": false
   },
   {
@@ -17012,9 +17842,9 @@ const sampleProperties = [
       "Architect-designed",
       "Pool"
     ],
-    "status": "active",
-    "notes": "Architect-designed coastal residence metres from Vera View Beach with ocean views from nearly every room. Price advertised as offers.",
-    "image": "https://www.realestate.com.au/property-image/150648048/1",
+    "status": "under_offer",
+    "notes": "Under-offer exact realestate.com.au listing reverified 25 May 2026. Previously advertised as an architect-designed coastal residence metres from Vera View Beach with ocean views from nearly every room.",
+    "image": "https://i2.au.reastatic.net/800x600/3bce7ddd162c450900df3d796f64448bce1f60f80a7d38edd3402669741732a6/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3bce7ddd162c450900df3d796f64448bce1f60f80a7d38edd3402669741732a6/image.jpg",
       "https://i2.au.reastatic.net/800x600/6d172bb3416176e9edcbff058ea4a3e7935fccd591814bbb15ee30ae017e3c46/image.png",
@@ -17080,7 +17910,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active direct listing for The Glasshouse at 8/110 Marine Parade, described as on Cottesloe Main Beach with views over the beach, pylon, groyne and Indiana Tearooms. Price advertised as EOI.",
-    "image": "https://www.realestate.com.au/property-image/150906980/1",
+    "image": "https://i2.au.reastatic.net/800x600/ee1795b406b701f91d5bba8f0a219d4f97046a628a56828d781a754e4a02beb5/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/ee1795b406b701f91d5bba8f0a219d4f97046a628a56828d781a754e4a02beb5/image.jpg",
       "https://i2.au.reastatic.net/800x600/f6ee2bdb820e55af730ddc71d26bcae07d278ab1e3887b2abfff7b61c17e7be1/image.jpg",
@@ -17149,7 +17979,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active apartment listing for The Warnham, advertised as right on Cottesloe main beach with the ocean's edge at the front door, 27m ocean frontage and unobstructed waterline views. Price advertised as contact agent.",
-    "image": "https://www.realestate.com.au/property-image/150584224/1",
+    "image": "https://i2.au.reastatic.net/800x600/431acab1e97772465c5f071c0302e85c9405213f7b2234cedada738e1fb28aa3/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/431acab1e97772465c5f071c0302e85c9405213f7b2234cedada738e1fb28aa3/image.jpg",
       "https://i2.au.reastatic.net/800x600/4ebbff84c6e0129c47bdd81f148e71f59120bd9244f16ffc793d4dc52d470fca/image.jpg",
@@ -17212,7 +18042,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active Meridian Cottesloe listing for Residence 202, described as front-row on Marine Parade in a rare beachfront collection with uninterrupted ocean views.",
-    "image": "https://www.realestate.com.au/property-image/144303764/1",
+    "image": "https://i2.au.reastatic.net/800x600/30778a5a87a97d66204ea0b9069b4f68a1593629f90902a7efdbd0f712b4474a/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/30778a5a87a97d66204ea0b9069b4f68a1593629f90902a7efdbd0f712b4474a/image.jpg",
       "https://i2.au.reastatic.net/800x600/a9351dc0056708453b8dc3119f73f99b663158a8e8c7e8064d7c6dbdb71f5f02/image.jpg"
@@ -17273,7 +18103,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active Marine Parade listing described as front-row living with uninterrupted Indian Ocean panoramas, an oceanfront terrace and the beach directly across the road. Price advertised as offers.",
-    "image": "https://www.realestate.com.au/property-image/150403124/1",
+    "image": "https://i2.au.reastatic.net/800x600/3013650741cfcb0ccaa87f5a5e54cf475907b528b66dcd346f7504c0f8eb7af0/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3013650741cfcb0ccaa87f5a5e54cf475907b528b66dcd346f7504c0f8eb7af0/image.jpg",
       "https://i2.au.reastatic.net/800x600/bdd1c254499ca9b05720255e4160222c46376b1f0237e076288bf16e4a919290/image.jpg",
@@ -17430,7 +18260,7 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Bundaberg",
     "majorCityMinutes": 20,
-    "price": 2455000,
+    "price": 2200000,
     "landSize": 4000,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -17441,13 +18271,13 @@ const sampleProperties = [
       "Ocean views",
       "Pool"
     ],
-    "status": "active",
-    "notes": "Pristine beachfront acre with direct beach access, ocean views, rainforest surrounds, infinity pool and resort-style outdoor living. Price advertised as offers above.",
+    "status": "sold",
+    "notes": "Pristine beachfront acre with direct beach access, ocean views, rainforest surrounds, infinity pool and resort-style outdoor living. Same-address realestate.com.au sold record and Domain sold results now show $2,200,000 sold on 14 Apr 2026.",
     "image": "https://i2.au.reastatic.net/800x600/9ae6e89f33120fd5e3d43acff2d1361bc7381f832c1955d74a0db95257cce397/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/9ae6e89f33120fd5e3d43acff2d1361bc7381f832c1955d74a0db95257cce397/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-qld-moore%2Bpark%2Bbeach-148415728"
+    "listingUrl": "https://www.realestate.com.au/sold/property-house-qld-moore%2Bpark%2Bbeach-148401700"
   },
   {
     "id": "qld-moore-park-39-sylvan",
@@ -17995,7 +18825,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 35,
     "daysOnMarket": null,
-    "price": 1400000,
+    "price": 1350000,
     "landSize": 134,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -18653,6 +19483,36 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/083e002e9eb6c91cda9fb20bd81069cf9093540bb4d8f47ea14d42b77dfd337e/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-singleton-204482280"
+  },
+  {
+    "id": "wa-singleton-112b-foreshore",
+    "title": "112B Foreshore Drive",
+    "suburb": "Singleton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 55,
+    "price": 1299000,
+    "landSize": 250,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Foreshore Drive",
+      "Beachfront stretch",
+      "Steps to sand",
+      "Ocean views"
+    ],
+    "status": "active",
+    "notes": "Domain direct listing presents this Foreshore Drive house as for sale at $1,299,000. Marketing describes it as positioned along one of Singleton's exclusive beachfront stretches, with ocean views and steps to the sand.",
+    "image": "https://rimh2.domainstatic.com.au/nOCwXiDJkyE1k6VL4GTuTbOQABw=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019976891_1_1_250213_044558-w2080-h1386",
+    "images": [
+      "https://rimh2.domainstatic.com.au/nOCwXiDJkyE1k6VL4GTuTbOQABw=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019976891_1_1_250213_044558-w2080-h1386",
+      "https://rimh2.domainstatic.com.au/MPxU5w0lpPoR_Y3U8140nW91D0U=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019976891_2_1_250213_044601-w2080-h1386",
+      "https://rimh2.domainstatic.com.au/GFlp0EmqF1sCNpcw59kChl5RjhM=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019976891_3_1_250213_044606-w2080-h1386",
+      "https://rimh2.domainstatic.com.au/oLZtpVOgzCjrhPWq2e_Pq_4bQbg=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019976891_4_1_250213_044610-w2080-h1386"
+    ],
+    "listingUrl": "https://www.domain.com.au/112b-foreshore-drive-singleton-wa-6175-2020489293",
+    "investmentStar": false
   },
   {
     "id": "wa-singleton-lot-165-sandpiper",
@@ -21234,6 +22094,38 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/4cc9ddd31b704657b31e862ed283dd1ce3d246cfef08ad9387469019183de138/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-lancelin-204454776"
+  },
+  {
+    "id": "wa-lancelin-2-pyp",
+    "title": "2 Pyp Court",
+    "suburb": "Lancelin",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-05-15",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 820,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Oceanfront position",
+      "Uninterrupted Indian Ocean and Lancelin Island views",
+      "820sqm residential block",
+      "382sqm architect-designed coastal home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Lancelin listing verified 25 May 2026 from exact direct listing pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was first published 15 May 2026 and advertises a rare oceanfront 4-bedroom, 3-bathroom home on an 820sqm block with uninterrupted Indian Ocean and Lancelin Island views, extensive ocean-facing windows, ocean-facing kitchen, master retreat with ocean-view ensuite, sheltered alfresco areas and bore-reticulated lawns. The advertised sale terms are Expressions of Interest.",
+    "image": "https://i2.au.reastatic.net/800x600/36099ba152cd224e5d0ac76958c1b2d1c740921c407cdf8d6058e3e6288c51b6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/36099ba152cd224e5d0ac76958c1b2d1c740921c407cdf8d6058e3e6288c51b6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-lancelin-151208940",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "31.1%",
+    "investmentFiveYearGrowth": "287%",
+    "investmentReason": "A WA government-hosted Lancelin South planning report search result states Lancelin median house prices rose 287% over five years, about 31.1% annual compound growth; realestate.com.au's current Lancelin buyer snapshot also shows 30% to 32% annual house-price growth."
   },
   {
     "id": "wa-naturaliste-4-42-bunker-bay",
@@ -28178,7 +29070,7 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Bundaberg",
     "majorCityMinutes": 25,
-    "price": 1400000,
+    "price": 1350000,
     "landSize": 4332,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -28189,8 +29081,8 @@ const sampleProperties = [
       "Large block",
       "Subdivision potential"
     ],
-    "status": "under_offer",
-    "notes": "Oceanfront 4,332sqm holding with direct access to Moore Park Beach and medium-density zoning. Exact realestate.com.au listing now shows under offer.",
+    "status": "sold",
+    "notes": "Oceanfront 4,332sqm holding with direct access to Moore Park Beach and medium-density zoning. Exact realestate.com.au listing redirects to sold and shows $1,350,000 sold on 21 May 2026.",
     "image": "https://i2.au.reastatic.net/800x600/2432e887a6576c29ad80032c8e2dffaa1a5228484e3f7adb517183ef36e471ca/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/2432e887a6576c29ad80032c8e2dffaa1a5228484e3f7adb517183ef36e471ca/image.jpg",
@@ -28229,7 +29121,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/04a9a4eb5d140741bbe7e92fe53b53bcf988e07836105d76cf6eca9ad60ef065/image.jpg",
       "https://i2.au.reastatic.net/800x600/6db70c9a4fbb199404c2ced632bb179021472a21aea7b05dee4c3b3b164d948e/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-qld-moore%2Bpark%2Bbeach-149740144"
+    "listingUrl": "https://www.realestate.com.au/sold/property-house-qld-moore%2Bpark%2Bbeach-149740144"
   },
   {
     "id": "sa-somerton-park-11a-esplanade",
@@ -29517,6 +30409,65 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "wa-bunbury-39-11-19-casuarina",
+    "title": "39/11-19 Casuarina Drive",
+    "suburb": "Bunbury",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 115,
+    "daysOnMarket": null,
+    "price": 1400000,
+    "priceLabel": "Offers from $1.4M",
+    "landSize": 244,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Silos Apartments penthouse",
+      "Near-360 water views",
+      "Koombana Bay waterfront precinct",
+      "Resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 May 2026 from the exact direct listing URL and the current Bunbury portal result page. The Southern Penthouse is advertised with panoramic views across Koombana Bay, Geographe Bay, the Indian Ocean, the harbour, city and hills, plus walkable access to Koombana Bay, the marina, CBD, restaurants and beaches. The current realestate.com.au detail page displayed Contact Agent, while the current suburb result card and matching Domain listing showed Offers from $1.4M. Available five-year suburb growth evidence was checked; no credible above-15% annual investment flag was supported.",
+    "image": "https://i2.au.reastatic.net/800x600/897b969e9ccc6e8c64733bd0b4924ba8ce920d31c6ea93a9ef35f6d8d836aaaf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/897b969e9ccc6e8c64733bd0b4924ba8ce920d31c6ea93a9ef35f6d8d836aaaf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-bunbury-149517604",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-bunbury-2-lyons-cove",
+    "title": "2 Lyons Cove",
+    "suburb": "Bunbury",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 115,
+    "daysOnMarket": null,
+    "price": 2900000,
+    "priceLabel": "$2,900,000",
+    "landSize": 1827,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Opposite Koombana Beach",
+      "Between Koombana Bay and Leschenault Inlet",
+      "Residential or tourist unit site",
+      "1,827sqm two-frontage lot"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 25 May 2026 from the exact direct listing URL and cross-checked against the current REIWA listing. The vacant development site is advertised opposite Koombana Beach, between Koombana Bay and the Leschenault Inlet, with two street frontages and zoning for residential units or tourist-oriented accommodation. Available five-year suburb growth evidence was checked; REIWA showed 6.1% annual growth and did not support an above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/DLbJBUBzjteyAuLcPLzmnMiQvsA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018559446_1_1_230530_051745-w2048-h1714",
+    "images": [
+      "https://rimh2.domainstatic.com.au/DLbJBUBzjteyAuLcPLzmnMiQvsA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018559446_1_1_230530_051745-w2048-h1714",
+      "https://rimh2.domainstatic.com.au/Md_cT0V0A32a5Kmxk1Oyj6XtEZ8=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018559446_2_1_230530_051745-w2048-h1709"
+    ],
+    "listingUrl": "https://www.domain.com.au/2-lyons-cove-bunbury-wa-6230-2018559446",
+    "investmentStar": false
+  },
+  {
     "id": "wa-dalyellup-311-norton",
     "title": "311 Norton Promenade",
     "suburb": "Dalyellup",
@@ -29525,6 +30476,7 @@ const sampleProperties = [
     "majorCityMinutes": 120,
     "listedDate": "2026-05-10",
     "price": 1000000,
+    "priceLabel": "Offers Over $1,000,000",
     "landSize": 738,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -29536,12 +30488,12 @@ const sampleProperties = [
       "Vacant land"
     ],
     "status": "active",
-    "notes": "Active Homely Dalyellup land listing verified 16 May 2026 from the exact direct listing URL after the previous realestate.com.au URL became unavailable. The block is advertised as an oceanfront opportunity directly opposite the Indian Ocean in a desirable beachfront pocket, with uninterrupted ocean views and no future development obstructing the outlook. Price shown as offers over. Available suburb growth evidence was checked; no credible above-15% annual investment flag was supported.",
+    "notes": "Active realestate.com.au Dalyellup land listing verified 25 May 2026 from the exact direct listing URL and current Dalyellup portal sweep after the stored Homely URL was no longer openable in verification. The block is advertised as an oceanfront opportunity directly opposite the Indian Ocean in a desirable beachfront pocket, with uninterrupted ocean views and no future development obstructing the outlook. Price shown as offers over. Available suburb growth evidence was checked; no credible above-15% annual investment flag was supported.",
     "image": "https://i2.au.reastatic.net/800x600/e235058c4722eb46b105e5e1244a5499147f0e82b4f50f86da282adfe7d89804/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e235058c4722eb46b105e5e1244a5499147f0e82b4f50f86da282adfe7d89804/image.jpg"
     ],
-    "listingUrl": "https://www.homely.com.au/homes/311-norton-promenade-dalyellup-wa-6230/12796089",
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-dalyellup-204406404",
     "investmentStar": false
   },
   {
@@ -29818,8 +30770,8 @@ const sampleProperties = [
       "Front unit",
       "Lock-and-leave"
     ],
-    "status": "active",
-    "notes": "Active front-position unit about 100m from Rockingham Beach with direct pathway access almost opposite, sweeping 180-degree ocean views and multiple alfresco areas. Price advertised as Contact Agent.",
+    "status": "under_offer",
+    "notes": "Under-offer front-position unit about 100m from Rockingham Beach with direct pathway access almost opposite, sweeping 180-degree ocean views and multiple alfresco areas. Exact realestate.com.au listing verified 25 May 2026 as under offer with an advertised price of $995,000.",
     "image": "https://i2.au.reastatic.net/800x600/34375731ff9f6b5a7c6eeb1e31e0784cfa369212f3de478ae6e930b57edb8678/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/34375731ff9f6b5a7c6eeb1e31e0784cfa369212f3de478ae6e930b57edb8678/image.jpg",
@@ -29847,15 +30799,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/1e9686580047fccd7c7e71da6c3f578fea182684429244a0c5b76e37bb5b7dc3/image.jpg",
       "https://i2.au.reastatic.net/800x600/813bb3b69b47a053b2c2bbb713ed34fef5cd4f93b0efe3e66364089cdfcaadeb/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-unit-wa-rockingham-151137576",
-    "priceLabel": "$750k-$1m",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "014S",
-    "hiddenPriceRange": {
-      "min": 750000,
-      "max": 1000000
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "listingUrl": "https://www.realestate.com.au/property-unit-wa-rockingham-151137576"
   },
   {
     "id": "wa-rockingham-lot-2-115b-rockinghama-beach",
@@ -30019,6 +30963,67 @@ const sampleProperties = [
       "max": 2500000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "wa-scarborough-316c-west-coast",
+    "title": "316C West Coast Highway",
+    "suburb": "Scarborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-05-15",
+    "price": null,
+    "priceLabel": "Shore | Countdown All Offers by June 10",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct oceanfront coastal fringe near the City Beach border",
+      "Never-to-be-built-out Indian Ocean and surf views",
+      "Substantial home in a three-residence group sharing about 1,400sqm",
+      "Lap pool, timber entertaining decks and mature olive grove"
+    ],
+    "status": "active",
+    "notes": "Active REIWA and realestate.com.au Scarborough house listing verified 25 May 2026 from exact direct listing pages and West Coast Highway result pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 15 May 2026 and advertises a substantial oceanfront coastal-fringe home with never-to-be-built-out Indian Ocean views, surf outlook, broad timber entertaining decks, lap pool, mature olive grove and a three-residence group sharing about 1,400sqm. Individual land area is not clearly separated from the group landholding, so land size remains TBA. Five-year Scarborough growth evidence was checked; available house and unit evidence did not reliably substantiate a greater than 15% annual investment flag.",
+    "image": "https://imagecdn.reiwa.com.au/listing/78/5023178-02.jpg?maxheight=301&maxwidth=396&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/78/5023178-02.jpg?maxheight=301&maxwidth=396&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/78/5023178-03.jpg?maxheight=301&maxwidth=396&quality=80"
+    ],
+    "listingUrl": "https://reiwa.com.au/316c-west-coast-highway-scarborough-5023178/",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-scarborough-m406-183-west-coast",
+    "title": "M406/183 West Coast Highway",
+    "suburb": "Scarborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "daysOnMarket": 13,
+    "price": null,
+    "priceLabel": "From High Millions",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly positioned on Scarborough beachfront",
+      "Uninterrupted ocean and Rottnest views",
+      "Observation Rise apartment in the Manning Street building",
+      "Beachside pool, indoor pool, spa, gym, sauna and tennis amenities"
+    ],
+    "status": "active",
+    "notes": "Active REIWA Scarborough apartment listing verified 25 May 2026 from the exact direct listing URL and matching Homely apartment result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. REIWA shows the listing added 13 days ago and advertises an Observation Rise apartment perfectly positioned directly on Scarborough beachfront, with uninterrupted ocean and Rottnest views, west-facing balcony, two secure side-by-side car bays, storeroom, beachside pool, indoor pool, spa, gym, sauna and tennis courts. No individual land size is published, so price per sqm remains TBA. Five-year Scarborough unit growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://images.reiwa.com.au/listing/5015386-2.jpg?maxheight=750&mode=max&quality=90&scale=both&autorotate=true",
+    "images": [
+      "https://images.reiwa.com.au/listing/5015386-2.jpg?maxheight=750&mode=max&quality=90&scale=both&autorotate=true",
+      "https://images.reiwa.com.au/listing/5015386-1.jpg?maxheight=750&mode=max&quality=90&scale=both&autorotate=true",
+      "https://images.reiwa.com.au/listing/5015386-3.jpg?maxheight=750&mode=max&quality=90&scale=both&autorotate=true"
+    ],
+    "listingUrl": "https://reiwa.com.au/m406-183-west-coast-highway-scarborough-5015386/",
+    "investmentStar": false
   },
   {
     "id": "wa-scarborough-3a-297-west-coast",
@@ -30308,8 +31313,8 @@ const sampleProperties = [
       "Nothing but sand and dunes to the water",
       "Renovated two-level apartment"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Scarborough apartment listing verified 16 May 2026 from the exact direct listing URL. The listing is advertised as true absolute beachfront on the ocean side of West Coast Highway, with direct beachfront access through the dunes, uninterrupted Indian Ocean views from both levels, a beachfront terrace and resort-style complex facilities. No individual land size is published, so price per sqm remains TBA. Five-year suburb growth evidence checked during the sweep did not substantiate an investment star above 15% annual growth.",
+    "status": "sold",
+    "notes": "Hidden after the 25 May 2026 Scarborough sweep. The exact realestate.com.au listing URL now reports this West Coast Highway apartment as sold on 21 May 2026, and current portal result snippets show it no longer active. It was previously advertised as true absolute beachfront on the ocean side of West Coast Highway, with direct beachfront access through the dunes, uninterrupted Indian Ocean views from both levels, a beachfront terrace and resort-style complex facilities.",
     "image": "https://i2.au.reastatic.net/800x600/3bf5614493e64eae90f3853b2bc3acb2049ff77acc9f94d8b08f40fe37c5e075/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3bf5614493e64eae90f3853b2bc3acb2049ff77acc9f94d8b08f40fe37c5e075/image.jpg"
@@ -30783,8 +31788,8 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-150591164"
   },
   {
-    "id": "wa-mindarie-lg04-50-alexandria",
-    "title": "LG04/50 Alexandria View",
+    "id": "wa-mindarie-lg14-50-alexandria",
+    "title": "LG14/50 Alexandria View",
     "suburb": "Mindarie",
     "state": "WA",
     "nearestMajorCity": "Perth",
@@ -30801,13 +31806,14 @@ const sampleProperties = [
       "Beachfront sunset terrace",
       "Ocean-facing amenities"
     ],
-    "status": "unavailable",
-    "notes": "Active Claytons Mindarie Beachfront apartment listing advertised as the final oceanview two-bedroom home with direct beach access, an ocean-view terrace, beachfront sunset terrace, and ocean-facing resort amenities. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 25 May 2026 from the exact LG14/50 Alexandria View listing URL. The Claytons Mindarie Beachfront apartment is advertised with direct beach access, a sheltered ocean-view terrace, beachfront sunset terrace, ocean-facing amenities and resort facilities. Individual land size is not published, so price per sqm remains TBA. Mindarie five-year growth evidence was checked; available sources did not substantiate an above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/56df2b860dc19038a77d36c7e3f94fb743a7be168f177b35e5842dae54e15b23/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/56df2b860dc19038a77d36c7e3f94fb743a7be168f177b35e5842dae54e15b23/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-143109552"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-143109552",
+    "investmentStar": false
   },
   {
     "id": "wa-mindarie-g02-50-alexandria",
@@ -30865,6 +31871,35 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/89ad3936603097ed52087a44e27c721dc248e08ff7578f84dc0480b427806ed2/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-wa-mindarie-149531612",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-mindarie-1-19-penzance",
+    "title": "1/19 Penzance Terrace",
+    "suburb": "Mindarie",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 35,
+    "daysOnMarket": 2,
+    "price": 1250000,
+    "priceLabel": "$1,250,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Direct marina foreshore access",
+      "Private marina-facing balcony and courtyard",
+      "Gated walkway to the Mindarie Marina foreshore",
+      "Renovated coastal townhouse near marina cafes and beaches"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 25 May 2026 from the exact 1/19 Penzance Terrace listing URL and Mindarie portal result. The townhouse is advertised with direct marina access via a gated walkway from the private courtyard, a marina-facing balcony, renovated interiors and a waterfront Mindarie Marina position. Individual strata land size is not published, so price per sqm remains TBA. Mindarie five-year growth evidence was checked; available sources did not substantiate an above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600-resize,f480x360/5caf4589580c320dbe435f7d801b3a0b37369a0e57e7bd7aad61e33940a4a360/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-resize,f480x360/5caf4589580c320dbe435f7d801b3a0b37369a0e57e7bd7aad61e33940a4a360/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-wa-mindarie-150977924",
     "investmentStar": false
   },
   {
@@ -33136,8 +34171,8 @@ const sampleProperties = [
       "Cowaramup Bay access",
       "Leased cottage income"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au mixed-farming listing advertised as 35.84ha only 2km to Cowaramup village and a short drive to Cowaramup Bay, with native bushland, about 7ha cleared pasture, leased cottage income, powered studio, four-bay shed and orchard. Price advertised from $1,595,000.",
+    "status": "under_offer",
+    "notes": "Hidden after the 25 May 2026 South West WA large-property refresh. The exact realestate.com.au listing now shows Under offer and the description headline says the home open was cancelled because it is under offer. Previously advertised as 35.84ha only 2km to Cowaramup village and a short drive to Cowaramup Bay, with native bushland, about 7ha cleared pasture, leased cottage income, powered studio, four-bay shed and orchard.",
     "image": "https://i2.au.reastatic.net/800x600/f47badc84cb3be5c74c28fbca50fc8e41a4d41d750dd9ab66bbea698876f47f9/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/f47badc84cb3be5c74c28fbca50fc8e41a4d41d750dd9ab66bbea698876f47f9/image.jpg",
@@ -33162,6 +34197,124 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-wa-cowaramup-700406328",
     "listingCategory": "large"
+  },
+  {
+    "id": "wa-binningup-136-pead-runnymede",
+    "title": "136 Pead Road, Binningup & Lot 102 Runnymede Road, Binningup",
+    "suburb": "Binningup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 100,
+    "listedDate": "2026-04-24",
+    "price": null,
+    "priceLabel": "Expression of Interest",
+    "landSize": 995500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "99.55ha / approx. 250-acre coastal plains holding across two titles",
+      "Historic Myalup Farm with long-running mixed farming and equine use",
+      "240,000kL irrigation water licence and year-round green feed potential",
+      "Dual road frontage with future subdivision potential STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au mixed-farming listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 24 Apr 2026 and advertises 99.55ha / approx. 250 acres across two titles, 27 paddocks, extensive stable and farm infrastructure, transferable irrigation water licence subject to approval, fertile former dairy soils, optional machinery inclusion and future subdivision potential STCA. Available Binningup/South West regional and comparable growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/000e43404573642853fa365e9efa1cbcbe869d5f1223f9d36b8779b4725e0d1b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/000e43404573642853fa365e9efa1cbcbe869d5f1223f9d36b8779b4725e0d1b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-wa-binningup-700405344",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-deepdene-115-lawrence-1393-cresswell",
+    "title": "115 Lawrence Road & 1393 Cresswell Road",
+    "suburb": "Deepdene",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 240,
+    "price": 15000000,
+    "priceLabel": "From $15M AUD",
+    "landSize": 3467000,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "346.7ha coastal Margaret River Capes holding across two titles",
+      "Around 4km of beach frontage with direct secluded beach access",
+      "Augusta, Blackwood River mouth, marina, golf course and Busselton airport access",
+      "Potential additional residence and further improvements subject to Shire approval"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Deepdene direct listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 346.7ha across two titles with ocean views, about 4km of beach frontage, direct access to a secluded beach, a modest existing home, nearby Augusta golf course, Blackwood River mouth and marina, and possible additional residence or further development subject to Shire approval. Available Deepdene/Margaret River Capes regional and comparable growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2eab6e7dbee1efa10ac1ed2b9191b954cb90ac14e83663c41063825657c21e02/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2eab6e7dbee1efa10ac1ed2b9191b954cb90ac14e83663c41063825657c21e02/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-wa-deepdene-700206103",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-boyanup-315-penn",
+    "title": "315 Penn Street",
+    "suburb": "Boyanup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 130,
+    "listedDate": "2026-04-21",
+    "price": 1000000,
+    "priceLabel": "$1,000,000",
+    "landSize": 200000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20ha / 50-acre Boyanup rural lifestyle holding",
+      "12m x 24m powered American barn beside planned house site",
+      "230,000L water tank, windmills and natural wetland for grazing",
+      "Currently leased with holding income and hobby-farm flexibility"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Boyanup lifestyle listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 21 Apr 2026 and advertises a 20ha / 50-acre holding with title ownership extending 200 feet below surface, a reinforced 12m x 24m American barn, power connected, 230,000L Kingspan water tank, three windmills, a natural wetland, elevated house site and current lease income. Available Boyanup/South West regional and comparable growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/851e503e5a0d8d90590824c38de58d8e6a464cb7bbaa8e5a3d48c766a08b7deb/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/851e503e5a0d8d90590824c38de58d8e6a464cb7bbaa8e5a3d48c766a08b7deb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-wa-boyanup-700404628",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-kulikup-lots-old-mail",
+    "title": "Lots Old Mail Road",
+    "suburb": "Kulikup",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 190,
+    "price": 1100000,
+    "priceLabel": "Offers over $1,100,000",
+    "landSize": 1822500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "182.25ha / 450-acre mixed farming and lifestyle holding",
+      "Multiple dams and managed soils/pastures for walk-up farming use",
+      "Near Eulin Crossing, Blackwood River recreation and Lake Towerinning",
+      "Under two hours to Bunbury with off-grid weekend-retreat potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kulikup mixed-farming listing verified 25 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 182.25ha / 450.34 acres with managed soils and pastures, multiple dams for stock or future domestic use, proximity to Eulin Crossing, Blackwood River recreation and Lake Towerinning, and under two hours to Bunbury. Available Kulikup/Blackwood and South West regional growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/aa20dcdb19bddb3fcf4929459b82faaa072cff4af1ab73ca1c155db209595124/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/aa20dcdb19bddb3fcf4929459b82faaa072cff4af1ab73ca1c155db209595124/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-wa-kulikup-700331980",
+    "listingCategory": "large",
+    "investmentStar": false
   },
   {
     "id": "wa-kudardup-13057-bussell",
@@ -34894,10 +36047,15 @@ const sampleProperties = [
       "Strong water security",
       "Cropping and backgrounding income"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au horticulture listing for Mayfield / Collards Farm, advertised as 164.36ha / 406 acres of fertile grazing and cropping country in Gingin Shire within reach of the Muchea State Saleyards, Perth CBD and the coast, with rural/farming zoning, spring and winter-lake water, three solar bores, one electric bore, 12 paddocks, internal tracks and cattle-yard infrastructure. Price advertised at $4,060,000. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au horticulture listing re-verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Mayfield / Collards Farm as 164.36ha / 406 acres of fertile grazing and cropping country in Gingin Shire within reach of the Muchea State Saleyards, Perth CBD and the coast, with rural/farming zoning, spring and winter-lake water, three solar bores, one electric bore, 12 paddocks, internal tracks and cattle-yard infrastructure. Price advertised at $4,060,000. Available Gingin and comparable five-year growth evidence was checked; available evidence did not substantiate a reliable above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c9efa1ace9d1d4d6a8f9a14f994cd4d7180ce5a4f89c524a2ed770b1e943dfec/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c9efa1ace9d1d4d6a8f9a14f994cd4d7180ce5a4f89c524a2ed770b1e943dfec/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-wa-gingin-700388892",
-    "listingCategory": "large"
+    "listingCategory": "large",
+    "investmentStar": false
   },
   {
     "id": "wa-beermullah-4-pin-pin",
@@ -43082,6 +44240,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 45,
     "price": 2500000,
+    "priceLabel": "Best Offers Over $2.5m",
     "landSize": 542300,
     "beachfront": false,
     "noRoadFrontage": false,
@@ -43092,10 +44251,17 @@ const sampleProperties = [
       "Tourism or B&B conversion potential",
       "Close to Strathalbyn township"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Strathalbyn lifestyle listing for Rushmore Park, advertised as 54.23ha / 134 acres with eight paddocks, cattle yards, hay shed, extensive shedding, two bores, 50.5ML water licence, underground irrigation, winter creek and potential to convert a studio/office and brick dairy for B&B or tourism use STCC. Price advertised as Best Offers Over $2.5m. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Reverified 25 May 2026 from the exact realestate.com.au listing. Rushmore Park is advertised as 54.23ha / 134 acres with eight paddocks, cattle yards, hay shed, extensive shedding, two bores, 50.5ML water licence, underground irrigation, winter creek and potential to convert a studio/office and brick dairy for B&B or tourism use STCC. Price advertised as Best Offers Over $2.5m.",
+    "image": "https://i2.au.reastatic.net/569x368-crop,progressive/6b544ee5b804b456535f335d7ff4cdefae4a03fa27af9487b7b6611476cf3d16/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop,progressive/6b544ee5b804b456535f335d7ff4cdefae4a03fa27af9487b7b6611476cf3d16/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-lifestyle-sa-strathalbyn-700352976",
-    "listingCategory": "large"
+    "listingCategory": "large",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "18.0% p.a.",
+    "investmentReason": "realestate.com.au/property.com.au reported 18.0% annual compound house growth for Strathalbyn across the 5-year median price trend; the holding also has water licence, grazing infrastructure and tourism/B&B conversion potential STCC."
   },
   {
     "id": "sa-strathalbyn-34-bletchley",
@@ -44717,6 +45883,74 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-bokarina-23-satinbird",
+    "title": "23 Satinbird Place",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": 35,
+    "price": 2400000,
+    "priceLabel": "$2.4M+",
+    "landSize": 591,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Satinbird Place beachside cul-de-sac",
+      "Direct shaded beach access",
+      "Two-minute walk to sand",
+      "Established private gardens"
+    ],
+    "status": "active",
+    "notes": "Active Homely Bokarina listing verified 26 May 2026 from the exact direct listing URL and the current Homely suburb result. The listing advertises a 591sqm house in Satinbird Place, one of only three cul-de-sacs off Oceanic Drive, with direct shaded access to the beach and a straight two-minute walk to the sand. Homely showed 35 days on Homely. Five-year Bokarina growth evidence was checked; Smart Property Investment reported 91.29% total five-year suburb growth and other sources were weaker, so available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13052687-1.jpg?named-transform=webDefaultTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-1.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-3.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-4.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-5.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-6.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052687-7.jpg?named-transform=webDefaultTransform"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/23-satinbird-place-bokarina-qld-4575/13052687",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-bokarina-21-satinbird",
+    "title": "21 Satinbird Place",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": 35,
+    "price": 2400000,
+    "priceLabel": "$2.4M+",
+    "landSize": 579,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Satinbird Place beachside cul-de-sac",
+      "Three-minute shaded walk to beach",
+      "Direct beach access via Oceanic Drive side",
+      "Renovated pool and alfresco home"
+    ],
+    "status": "active",
+    "notes": "Active Homely Bokarina listing verified 26 May 2026 from the exact direct listing URL and the current Homely suburb result. The listing advertises a renovated 579sqm house in tightly held Satinbird Place, with a three-minute walk to the beach via shaded access, proximity to Bok Beach cafes, parkland and restaurants, and ocean-breeze outdoor living. Homely showed 35 days on Homely. Five-year Bokarina growth evidence was checked; Smart Property Investment reported 91.29% total five-year suburb growth and other sources were weaker, so available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13052142-1.jpg?named-transform=webDefaultTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-1.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-3.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-4.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-5.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-6.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13052142-7.jpg?named-transform=webDefaultTransform"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/21-satinbird-place-bokarina-qld-4575/13052142",
+    "investmentStar": false
+  },
+  {
     "id": "qld-golden-beach-513-75-esplanade",
     "title": "513/75 Esplanade",
     "suburb": "Golden Beach",
@@ -45022,8 +46256,8 @@ const sampleProperties = [
       "Private rooftop deck",
       "Walk to Caloundra"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised opposite Golden Beach foreshore with uninterrupted Pumicestone Passage views and a private rooftop deck.",
+    "status": "under_offer",
+    "notes": "Exact realestate.com.au listing is now marked under offer. It was advertised opposite Golden Beach foreshore with uninterrupted Pumicestone Passage views and a private rooftop deck.",
     "image": "https://i2.au.reastatic.net/800x600/9cc6899eca3f04af5c44258d41a64f7a395af52351c3933e6caef6629e66d38e/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/9cc6899eca3f04af5c44258d41a64f7a395af52351c3933e6caef6629e66d38e/image.jpg",
@@ -63598,6 +64832,151 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-maroochydore-301-10-picnic-point",
+    "title": "301/10 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-05-18",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Picnic Point Esplanade riverfront position",
+      "Direct Maroochy River views",
+      "Large entertaining balcony with built-in BBQ",
+      "Near-new Eclipse apartment with lap pool"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 26 May 2026 from the direct listing URL and Maroochydore result page, with future inspections on 28 and 30 May 2026 and auction scheduled 13 June 2026, and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a three-bedroom apartment at Eclipse on Picnic Point Esplanade with direct Maroochy River views, coastal breezes, large balcony, Miele kitchen, built-in bar, two side-by-side car spaces and lap-pool amenity. The REA page displayed Auction and did not expose a marketing_price_range token in accessible page text, so price is left null. Strata land/block size is not published, so landSize is set to null. Maroochydore five-year suburb and comparable growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/56b5f7e39815058978750a959086350bc38bc36f8ecb5f6930dfd979e0b487fa/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/56b5f7e39815058978750a959086350bc38bc36f8ecb5f6930dfd979e0b487fa/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151223984",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-maroochydore-10-2-4-picnic-point",
+    "title": "10/2-4 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-04-08",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Absolute Maroochy Riverfront position",
+      "No roads between residence and sandy river shore",
+      "Footsteps to parkland, boat ramp and riverfront",
+      "Exclusive Reflections complex with pool and spa"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 26 May 2026 from the direct listing URL and Maroochydore result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Domain also showed the exact address as a current listing and described Water Front, Water Views, River Views and Close to Beach features. The listing advertises an absolute riverfront apartment in Reflections with uninterrupted Maroochy River views, no roads between the home and sandy shores, direct parkland and river lifestyle access, one lock-up garage and resort-style pool/spa amenity. The REA page displayed Contact Agent and did not expose a marketing_price_range token in accessible page text, so price is left null. Strata land/block size is not published, so landSize is set to null. Maroochydore five-year suburb and comparable growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/114ff6c1b968d7fca0b4ed18e2f3da11d5b55c1d8da8b0a808eb0185ef9ca70a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/114ff6c1b968d7fca0b4ed18e2f3da11d5b55c1d8da8b0a808eb0185ef9ca70a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-150823032",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-maroochydore-17-12-picnic-point",
+    "title": "17/12 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2025-12-12",
+    "price": 1295000,
+    "priceLabel": "$1,295,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Picnic Point riverfront esplanade address",
+      "Uninterrupted 180-degree Maroochy River views",
+      "Private rooftop terrace",
+      "Crystal Waters pool and lift access"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 26 May 2026 from the direct listing URL and a Domain current-for-sale page/property profile, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown on the exact active listing. The listing advertises a fifth-floor Crystal Waters apartment with uninterrupted 180-degree Maroochy River to Mount Coolum views, north-facing aspect, private rooftop terrace, river breezes, lift access, pool and two secure basement car spaces. Strata land/block size is not published, so landSize is set to null. Maroochydore five-year suburb and comparable growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7ff851beef4c3d198dfab6920c2da10c51bd0077c79fca4c33071f00e5632c09/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ff851beef4c3d198dfab6920c2da10c51bd0077c79fca4c33071f00e5632c09/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-149835852",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-maroochydore-3-139-141-bradman",
+    "title": "3/139-141 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": 2,
+    "price": 1750000,
+    "priceLabel": "Offers Over $1,750,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ground-floor Riverbend riverfront apartment",
+      "Never-to-be-built-out northern Maroochy River views",
+      "Direct access to waterfront promenade",
+      "Large river-facing courtyard and balcony"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 26 May 2026 from the direct listing URL and Maroochydore result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The result card showed Added 2 days ago. The listing advertises a completed 2024 Riverbend apartment with uninterrupted Maroochy River views, direct access to Bradman Avenue and the waterfront promenade, large courtyard, north-facing balcony, secure basement parking, pool, barbeque area and work-from-home amenity. Strata land/block size is not published, so landSize is set to null. Maroochydore five-year suburb and comparable growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/547292cefecea5b7af01b7d2ccd80975359b35ac113d4ba2cbb480175ea97238/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/547292cefecea5b7af01b7d2ccd80975359b35ac113d4ba2cbb480175ea97238/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-150089156",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-maroochydore-6-171-173-bradman",
+    "title": "6/171-173 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "FOR SALE",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Boutique Prana Living riverfront apartment",
+      "Sweeping river-to-ocean views",
+      "Peaceful estuary at the doorstep",
+      "Large 246sqm residence with three car spaces"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 26 May 2026 from the direct listing URL and Maroochydore result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Prana Living, a boutique eight-residence north-facing riverfront complex above the Maroochydore River, with sweeping river-to-ocean views, floor-to-ceiling glazing, balcony BBQ, Miele kitchen, three car spaces and estuary access at the doorstep. The REA page displayed FOR SALE and did not expose a marketing_price_range token in accessible page text, so price is left null. Strata land/block size is not published, so landSize is set to null. Maroochydore five-year suburb and comparable growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/00f24064d57fc25876694dc8d1b18bb8946d84d8c79e54929078d79877a49b08/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/00f24064d57fc25876694dc8d1b18bb8946d84d8c79e54929078d79877a49b08/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-149915684",
+    "investmentStar": false
+  },
+  {
     "id": "qld-wurtulla-1-18-pretella",
     "title": "1/18 Pretella Street",
     "suburb": "Wurtulla",
@@ -65111,9 +66490,13 @@ const sampleProperties = [
       "Cattle-grazing lease and stockyards",
       "Minutes to Mirboo North and Grand Ridge Rail Trail"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as a 40.47ha / 100-acre Mirboo holding minutes from Mirboo North, with panoramic views, productive soils, three dams, springs, a permanent creek, stockyards and cattle-grazing lease income. Price guide advertised at $1,300,000 - $1,400,000. Five-year Mirboo/South Gippsland comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au Mirboo acreage listing re-verified 25 May 2026 from the exact direct listing URL and current Mirboo/Gippsland portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40.47ha / 100 acres with panoramic views, productive soils, three dams, springs, permanent creek, stockyards, cattle-grazing lease, nearby Mirboo North services, Boolarra, the Grand Ridge Rail Trail and Latrobe Valley access. Available Mirboo/South Gippsland five-year growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/7bcf0c289d7ced73321db6712f8d9fec4b579e84ff16a19e4a27c8c679b6e6c24/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7bcf0c289d7ced73321db6712f8d9fec4b579e84ff16a19e4a27c8c679b6e6c24/image.jpg",
+      "https://i2.au.reastatic.net/800x600/7501d82e1199a05133fb797d07d497f0b89567e360f251b37afbbdf35d7366c5/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-mirboo-148950616",
     "investmentStar": false,
     "listingCategory": "large"
@@ -67437,6 +68820,122 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-peregian-beach-31-kestrel",
+    "title": "31 Kestrel Crescent",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "By Negotiation",
+    "landSize": 607,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Most easterly oceanside position on Kestrel Crescent",
+      "Panoramic 180-degree Coral Sea views",
+      "Short stroll to North Peregian Beach",
+      "Renovated coastal home with outdoor spa"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 May 2026 from the exact direct listing URL. The page advertises a tightly held oceanside Kestrel Crescent position with 180-degree Coral Sea views, a front-row sunrise and whale-watching outlook, and a short stroll to the patrolled sands of North Peregian Beach. The exact page showed By Negotiation, no sold, under-offer or under-contract marker, and no exposed marketing_price_range text in the accessible page data. Available five-year suburb and comparable growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8f2b5bd0fb9d0c6945479ef6973d5b8a3a149c05db313c21ff4e3711a66dea06/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8f2b5bd0fb9d0c6945479ef6973d5b8a3a149c05db313c21ff4e3711a66dea06/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-146466120",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-peregian-beach-97-oriole",
+    "title": "97 Oriole Avenue",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2200000,
+    "priceLabel": "Price Reduced - Offers Over $2.2M",
+    "landSize": 511,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "140m from the doorstep to Peregian Beach",
+      "Beachside Oriole Avenue position",
+      "800m to off-leash dog beach",
+      "Low-maintenance refurbished coastal home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 May 2026 from the exact direct listing URL. The page advertises a beachside Oriole Avenue home just 140m from the doorstep to kilometres of pristine beach, 1km to Peregian Beach Village and 800m to the off-leash dog beach. The exact page showed Price Reduced - Offers Over $2.2M and no sold, under-offer or under-contract marker. Available five-year suburb and comparable growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/594f65e25db60d6c8771393612112e50bacab91e13ba77d727ce92fc44634b2c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/594f65e25db60d6c8771393612112e50bacab91e13ba77d727ce92fc44634b2c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-149717796",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-peregian-beach-82-oriole",
+    "title": "82 Oriole Avenue",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 3300000,
+    "priceLabel": "Over $3,300,000",
+    "landSize": 556,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "290m to Peregian Beach access",
+      "Four rooftops from the beach",
+      "Ocean views from the top floor",
+      "Walk to village, surf club and patrolled swimming"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 May 2026 from the exact direct listing URL. The page advertises a dress-circle beachside Oriole Avenue residence just 290m to beach access, four rooftops from the beach, with top-floor ocean views and walking access to the village, surf club and patrolled swimming. The exact page showed Over $3,300,000 and no sold, under-offer or under-contract marker. Available five-year suburb and comparable growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/65d5f83284e02be19eba8e82c2c6f4618ed9e8906dd6aa9328c02dd2fc4afd79/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/65d5f83284e02be19eba8e82c2c6f4618ed9e8906dd6aa9328c02dd2fc4afd79/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-149323476",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-peregian-beach-56-pelican",
+    "title": "56 Pelican Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 3400000,
+    "priceLabel": "Over $3,400,000",
+    "landSize": 1109,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Blue-chip beachside pocket",
+      "Direct beach access closer than the village and surf club",
+      "Coastal surf, Lake Weyba and hinterland views",
+      "Large 1109m2 block with pool"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 May 2026 from the exact direct listing URL. The page advertises a blue-chip beachside Pelican Street pocket with direct beach access closer than the 750m walk to the village and surf club, plus rolling surf, Lake Weyba and hinterland views from a 1109m2 block. The exact page showed Over $3,400,000 and no sold, under-offer or under-contract marker. Available five-year suburb and comparable growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2cacd4e869a3c83e8117ea770e5988ff28f7036ac43aecf534585d97849ff924/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2cacd4e869a3c83e8117ea770e5988ff28f7036ac43aecf534585d97849ff924/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150895652",
+    "investmentStar": false
+  },
+  {
     "id": "qld-surfers-paradise-2803-4-esplanade",
     "title": "2803/4 The Esplanade",
     "suburb": "Surfers Paradise",
@@ -68050,6 +69549,37 @@ const sampleProperties = [
     "investmentStar": true,
     "investmentAnnualGrowth5Yr": "16.27%",
     "investmentReason": "YIP/CoreLogic reports 16.27% average annual Worongary house growth, supported by realestate.com.au's current 23.0% annual compound house-growth figure."
+  },
+  {
+    "id": "qld-ferny-glen-67-tucker",
+    "title": "67 Tucker Lane",
+    "suburb": "Ferny Glen",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 40,
+    "daysOnMarket": 4,
+    "listedDate": "2026-05-21",
+    "price": 4800000,
+    "priceLabel": "Interest above $4,800,000",
+    "landSize": 204300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.43ha / 50-acre Ferny Glen holding seven minutes from Canungra",
+      "Coomera River frontage with bore, dam, rainwater harvesting and water licence",
+      "Two homes with manager, family accommodation or rental-income flexibility",
+      "Covered equine arena, yards, cattle infrastructure and 40-minute Gold Coast beach access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 May 2026 from the exact direct listing URL and current portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises 20.43ha / 50 acres at Interest above $4,800,000, published 21 May 2026 and added 4 days ago, with Shaun Lockyer-designed main residence, second three-bedroom homestead, Coomera River frontage, bore, dam, rainwater harvesting, water licence, solar, covered 60m x 20m equine arena, yards, cattle infrastructure, seven-minute Canungra access and 40-minute Gold Coast beach access. Available Ferny Glen/Canungra and comparable hinterland five-year growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c8c2639b16e834b9049f9f1e7f97ca16d46821030e0e59d70e7de6cf18fb154f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c8c2639b16e834b9049f9f1e7f97ca16d46821030e0e59d70e7de6cf18fb154f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-qld-ferny%2Bglen-700408536",
+    "listingCategory": "large",
+    "investmentStar": false
   },
   {
     "id": "vic-tyers-105-glengarry-west",
@@ -69059,6 +70589,69 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-stanhope-188-bimbadeen",
+    "title": "188 Bimbadeen Road",
+    "suburb": "Stanhope",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 165,
+    "listedDate": "2026-02-06",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 435800,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "43.58ha Hunter Valley country estate near vineyards, restaurants and concert venues",
+      "Luxury multi-bedroom homestead with privacy and elevated valley views",
+      "Hunter Expressway access supports Newcastle, Central Coast and Sydney connectivity",
+      "Tourism, executive retreat and premium rural-lifestyle upside in a tightly held estate market"
+    ],
+    "status": "active",
+    "notes": "Active Domain Stanhope acreage listing verified 25 May 2026 from the exact direct listing URL and supporting Domain property profile, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown on the listing. The listing advertises 43.58ha / about 100 acres, five bedrooms, five bathrooms, four parking spaces, Hunter Valley views, proximity to vineyards, restaurants and concert venues, and Hunter Expressway access. Available Stanhope and Hunter Valley five-year regional/comparable growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/7YBQHh6xIF1xG9VGeXud6fV9xsQ=/fit-in/1680x720/filters:format(webp):quality(85):no_upscale()/2020302153_1_1_260206_011134-w2000-h1500",
+    "images": [
+      "https://rimh2.domainstatic.com.au/7YBQHh6xIF1xG9VGeXud6fV9xsQ=/fit-in/1680x720/filters:format(webp):quality(85):no_upscale()/2020302153_1_1_260206_011134-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/uh5O2w60B-G_0XCIyqShIDQGNJ8=/fit-in/1680x720/filters:format(webp):quality(85):no_upscale()/2020302153_2_1_260206_011136-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/x0-6QF_14T2VYxwRN7JCQ3msMe0=/fit-in/1680x720/filters:format(webp):quality(85):no_upscale()/2020302153_3_1_260206_011138-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/h1B3SNnpz8JF_nZ3y1UGr5ERruM=/fit-in/1680x720/filters:format(webp):quality(85):no_upscale()/2020302153_4_1_260206_011140-w2000-h1500"
+    ],
+    "listingUrl": "https://www.domain.com.au/188-bimbadeen-road-stanhope-nsw-2335-2020302153",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-peats-ridge-1583-peats-ridge",
+    "title": "1583 Peats Ridge Road",
+    "suburb": "Peats Ridge",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 70,
+    "listedDate": "2025-12-15",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 214500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "21.45ha RU1 Central Coast hinterland holding with 800m frontage to Peats Ridge Road",
+      "About 25 minutes to Wahroonga via the M1 motorway",
+      "Two long-term commercial leases advertised at $194,992 gross annual rental",
+      "Water security from five spring-fed dams, 22ML bore licence and irrigation infrastructure"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peats Ridge acreage listing verified 25 May 2026 from the exact direct listing URL and supporting property.com.au/current listing evidence, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 21.45ha / 53 acres, RU1 zoning, 800m Peats Ridge Road frontage, approximately 25 minutes to Wahroonga via the M1, two residences, multiple utility sheds, commercial lease income of $194,992 p.a. gross, five spring-fed dams, a 22ML bore licence and irrigation infrastructure. Available Peats Ridge and Central Coast five-year regional/comparable growth evidence was checked; the credible evidence found did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f8c88dee6126c258fb7e6f44d5449914dc215b97ebc5f00349e3eef8086f8dee/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f8c88dee6126c258fb7e6f44d5449914dc215b97ebc5f00349e3eef8086f8dee/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-nsw-peats%2Bridge-149873672",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "wa-bremer-bay-doubtful-islands-preview",
     "title": "Address available on request",
     "suburb": "Bremer Bay",
@@ -69094,10 +70687,369 @@ const sampleProperties = [
     "listingUrl": "https://www.homely.com.au/homes/bremer-bay-wa-6338/11584172",
     "listingCategory": "beach",
     "investmentStar": false
+  },
+  {
+    "id": "vic-pittong-pittong-lismore",
+    "title": "Pittong-Lismore Road",
+    "suburb": "Pittong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "listedDate": "2026-05-15",
+    "price": null,
+    "priceLabel": "For Sale by Offers Closing Thursday 18 June 2026",
+    "landSize": 17426000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "1,742.6ha / 4,306-acre Western District grazing and cropping aggregation",
+      "About 20km to Ballarat and around two hours to Melbourne",
+      "Income optionality from kaolin mining lease, blue-gum plantation and contracted wind-energy project",
+      "Improved pastures, 50-year fertiliser history, sheds, yards, grain silos and 15,000 DSE capacity"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Pittong mixed-farming listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing was published 15 May 2026 and advertises Pittong Pastoral as a 1,742.6ha / 4,306-acre Western District holding across 21 titles, about 20km to Ballarat and two hours to Melbourne, with Merino and crossbred sheep, kaolin lease income, a 105ha blue-gum plantation, contracted wind-energy upside, improved pastures, 50-year fertiliser history, wool sheds, yards, grain silos and a renovation-suited cottage. Available Pittong/Ballarat regional and comparable five-year growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/50ffa19728a0c261172855f32609eb74d2f26af64a67a258ee13cd088024f43b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/50ffa19728a0c261172855f32609eb74d2f26af64a67a258ee13cd088024f43b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-vic-pittong-700407876",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-maroona-339-burrumbeep",
+    "title": "339 Burrumbeep Road",
+    "suburb": "Maroona",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 150,
+    "price": null,
+    "priceLabel": "EOI Close Thursday 19 March 2026 at 2pm",
+    "landSize": 4773000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "477.3ha / 1,179-acre Western District mixed-use farm",
+      "Approximately 18km south of Ararat with Melbourne access via the Western Highway corridor",
+      "Three titles with fertile redgum country, arable cropping land and grazing slopes",
+      "Constructed laneway, catchment dams, troughs, untapped bore, modern and historic woolsheds"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Maroona mixed-farming listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The portal still displays an EOI close date of 19 March 2026. The listing advertises Wangerrip as approximately 477.3ha / 1,179 acres over three titles, about 18km south of Ararat, with fertile redgum country, arable cropping land, grazing slopes, a 550mm average rainfall region, 22 paddocks, constructed laneway, dams, troughs, an untapped bore, dwelling and outbuildings, a 2002 four-stand raised-board woolshed, steel yards and a historic bluestone woolshed. Available Maroona/Ararat regional and comparable five-year growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c12426b17bd45504fd8e02d42afa1fd1c94390d5412a6a979c7968192eba566c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c12426b17bd45504fd8e02d42afa1fd1c94390d5412a6a979c7968192eba566c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-mixed%2Bfarming-vic-maroona-700397068",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-balmoral-smiths",
+    "title": "Smiths Road",
+    "suburb": "Balmoral",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 260,
+    "price": 1200000,
+    "priceLabel": "$1,200,000",
+    "landSize": 2569800,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "256.98ha / 635-acre blank-canvas grazing and lifestyle holding",
+      "Boundary of Western District and southern Wimmera with access to Hamilton and Horsham",
+      "Power access, red gums, forestry plantings and Rocklands channel water access",
+      "Additional grazing licence scope and Glenelg River access support expansion potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Balmoral lifestyle listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Smiths Road as 256.98ha / about 635 acres plus grazing licences on the boundary between the Western District and southern Wimmera, with access to Hamilton and Horsham, power available on the southern portion, approximately 21ha of forestry species plantings, scattered red gums, sandy loam soils, runoff gully dams, access to the Rocklands channel and potential transfer of a grazing licence providing Glenelg River access. Available Balmoral/Southern Grampians regional and comparable five-year growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/45fbb4550f5c49c9ac552558c2147e7d9ff9ecf09231cc307354d1fa3f265da8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/45fbb4550f5c49c9ac552558c2147e7d9ff9ecf09231cc307354d1fa3f265da8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-vic-balmoral-700219863",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-warrabkook-342-kerrs",
+    "title": "342 Kerrs Road",
+    "suburb": "Warrabkook",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 240,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 8181000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "818.1ha / 2,021-acre flagship Western District grazing platform",
+      "Premium Macarthur district setting near Mt Napier and Budj Bim National Park",
+      "High-performing 21 DSE/ha benchmark, 96% improved pastures and 744.8mm average rainfall",
+      "Multiple residences, shearing shed, cattle yards, bores and dual creek frontage"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warrabkook livestock listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Warrabkook as an 818.1ha / 2,021.57-acre Western District grazing platform over five certificates of title near Macarthur, Mt Napier and Budj Bim National Park, with riverine-style land types, 80 paddocks, a 21 DSE/ha 10-year stocking benchmark, 744.8mm average rainfall, 96% improved pastures, main homestead, two additional residences, shearing shed, large cattle yards, workshop, hay sheds, silos, multiple bores and Breakfast and Spring Creek frontage. Available Warrabkook/Macarthur regional and comparable five-year growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8808f81ba1392d04b2945153e74955af2f318ba04647a6c71377a8a8d593235c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8808f81ba1392d04b2945153e74955af2f318ba04647a6c71377a8a8d593235c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-vic-warrabkook-700379664",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-branxholme-duncraig-6101-henty",
+    "title": "Duncraig, 6101 Henty Highway",
+    "suburb": "Branxholme",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 225,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 3656000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "365.6ha / 903-acre turnkey Western District grazing holding",
+      "Between Hamilton and Portland with Henty Highway frontage",
+      "Nine titles, central laneway, improved pastures and developed grazing layout",
+      "Reliable stock-water system, troughs, structural improvements and immediate farming capability"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Branxholme livestock listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The portal still displays an EOI close date of 6 March 2026. The listing advertises Duncraig as a 365.6ha / 903.4-acre Western District grazing property between Hamilton and Portland over nine certificates of title, with Henty Highway frontage, a well-developed grazing layout, balanced paddock configuration, centralised laneway system, extensive pasture renovation, stock-water mains and troughs, and high-quality structural and operational improvements. Available Branxholme/Glenelg regional and comparable five-year growth evidence was checked, but it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9473f5c958307100fbf2e396b60491c5749658997a34e6d928d52cc80177bda9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9473f5c958307100fbf2e396b60491c5749658997a34e6d928d52cc80177bda9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-vic-branxholme-700394568",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-mount-pleasant-2804-eden-valley",
+    "title": "2804 Eden Valley Road",
+    "suburb": "Mount Pleasant",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 75,
+    "daysOnMarket": 101,
+    "price": 1900000,
+    "priceLabel": "Best Offer: $1.85m-$1.95m",
+    "landSize": 319000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "31.9ha / 78.82-acre Mount Pleasant lifestyle property",
+      "Adelaide Hills and Barossa-edge position with access to Mount Pleasant services",
+      "Advertised as a quality lifestyle property with exceptional infrastructure",
+      "Substantial rural landholding with grazing, hobby-farming or long-term land-bank appeal"
+    ],
+    "status": "active",
+    "notes": "Active Domain Mount Pleasant rural listing verified 25 May 2026 from the exact listing page and current property profile. Advertised at Best Offer: $1.85m-$1.95m for 31.9ha / 78.82 acres and listed for sale for 101 days. Available 5-year Mount Pleasant growth evidence did not support a credible above-15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/569x368-crop,progressive/5d1f8843b94d4e75d8a3c96604d89cb96e8c7e1c31a87826814b4604798817c6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop,progressive/5d1f8843b94d4e75d8a3c96604d89cb96e8c7e1c31a87826814b4604798817c6/image.jpg"
+    ],
+    "listingUrl": "https://www.domain.com.au/2804-eden-valley-road-mount-pleasant-sa-5235-2020825705",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-mount-pleasant-lot-631-burns",
+    "title": "Lot 631 Burns Road",
+    "suburb": "Mount Pleasant",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 75,
+    "price": 769000,
+    "priceLabel": "$749,000 - $789,000",
+    "landSize": 331100,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "33.11ha / 81.81-acre Mount Pleasant lifestyle landholding",
+      "Affordable large-land entry point on the Adelaide Hills and Barossa edge",
+      "Regional access to Mount Pleasant, Birdwood and Adelaide Hills services",
+      "Lifestyle, grazing or long-term rural land-bank potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Mount Pleasant lifestyle listing verified 25 May 2026 from the exact listing page. Advertised at $749,000 - $789,000 for 33.11ha / 81.81 acres. Available 5-year Mount Pleasant growth evidence did not support a credible above-15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/569x368-crop,progressive/c60fa1c9db407d9cb1135140611196c53fb7bc81dd7b698b13d38f2551297bba/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop,progressive/c60fa1c9db407d9cb1135140611196c53fb7bc81dd7b698b13d38f2551297bba/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-sa-mount%2Bpleasant-700382368",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-carrickalinga-lot-51-smith-hill",
+    "title": "Lot 51 Smith Hill Road",
+    "suburb": "Carrickalinga",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 75,
+    "listedDate": "2025-11-07",
+    "price": 2000000,
+    "priceLabel": "$2m",
+    "landSize": 661000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "66.1ha / 163-acre Carrickalinga rural landholding",
+      "Fleurieu coastal acreage near Normanville and Carrickalinga",
+      "Lifestyle, grazing or long-term coastal land-bank appeal",
+      "Access to beaches, tourism demand and Adelaide or Victor Harbor routes"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Carrickalinga rural listing verified 25 May 2026 from the exact direct listing URL and current property profile. Advertised at $2m for 66.1ha and first listed 7 November 2025. Available Carrickalinga/Fleurieu growth evidence did not support a credible above-15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/569x368-crop,progressive/4384a7d0e027840fe9af9a421456f421e4e5d9f2fdcd9a6f6618b121c5d2cb07/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop,progressive/4384a7d0e027840fe9af9a421456f421e4e5d9f2fdcd9a6f6618b121c5d2cb07/image.jpg",
+      "https://i2.au.reastatic.net/569x368-crop,progressive/e9c35c697fbb88017040a5c3a152fcf1dcfe5c868bdce6d8dadbc2f1079f15d0/image.jpg",
+      "https://i2.au.reastatic.net/569x368-crop,progressive/05b8ff7b32de7b9355c45a4a5af3e225403fa6601b9ac1b8c40a7e871c737e1a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-sa-carrickalinga-700384708",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-clayton-bay-lot-34-point-sturt",
+    "title": "Lot 34 Point Sturt Road",
+    "suburb": "Clayton Bay",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 80,
+    "listedDate": "2022-01-14",
+    "price": 625000,
+    "priceLabel": "$625,000",
+    "landSize": 310100,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "31.01ha / 76.6-acre Clayton Bay lifestyle holding",
+      "Lake Alexandrina frontage with private sandy lake beach appeal",
+      "Planning consent for two bed and breakfast establishments",
+      "Fleurieu tourism upside near Strathalbyn, Goolwa and the lake"
+    ],
+    "status": "active",
+    "notes": "Active Domain Clayton Bay listing verified 25 May 2026 from the exact listing page and current property profile. Advertised at $625,000 for 31.01ha with Lake Alexandrina frontage, private sandy lake beach appeal and planning consent for two B&B establishments. Available Clayton Bay/Lake Alexandrina/Fleurieu growth evidence did not support a credible above-15% annual growth flag.",
+    "image": "https://i2.au.reastatic.net/569x368-crop,progressive/6e76527aa037fc114d4758dc4937e2eef244ee3310bf4135e5c44581179797e0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop,progressive/6e76527aa037fc114d4758dc4937e2eef244ee3310bf4135e5c44581179797e0/image.jpg"
+    ],
+    "listingUrl": "https://www.domain.com.au/lot-34-point-sturt-road-clayton-bay-sa-5256-2018683616",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-steinfeld-lot-267-linkes-woolshed",
+    "title": "Lot 267 Linkes Woolshed Road",
+    "suburb": "Steinfeld",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 100,
+    "listedDate": "2026-02-12",
+    "price": 447500,
+    "priceLabel": "$430,000 - $465,000",
+    "landSize": 1975000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "197.5ha / 493.75-acre Steinfeld rural landholding",
+      "Barossa/Murraylands fringe position with Truro and Eudunda access",
+      "Low-entry large-land holding with recreation, grazing or land-bank upside",
+      "Scrubland privacy with rural escape and tourism-region proximity"
+    ],
+    "status": "active",
+    "notes": "Active Domain Steinfeld vacant-land listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 197.5ha / about 493.75 acres of classic rural scrubland at $430,000 - $465,000, with privacy, adventure, recreation and rural-escape potential. Supporting property timeline data showed the listing was added 12 February 2026. Available Steinfeld/Barossa fringe comparable five-year growth evidence was checked; no credible above-15% annual 5-year support was found.",
+    "image": "https://rimh2.domainstatic.com.au/WHV58JI6E8oe-obWVGvqVPTOZvo%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020600720_1_1_260212_044112-w1536-h1024",
+    "images": [
+      "https://rimh2.domainstatic.com.au/WHV58JI6E8oe-obWVGvqVPTOZvo%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020600720_1_1_260212_044112-w1536-h1024",
+      "https://rimh2.domainstatic.com.au/ERKr-u8PXMOfw65H__ciiE6SX-Y%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020600720_2_1_260212_044112-w1536-h1024",
+      "https://rimh2.domainstatic.com.au/BOUhecILDiiIQOEUmOQae2TiS_M%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020600720_3_1_260212_044112-w1536-h1024",
+      "https://rimh2.domainstatic.com.au/YKLztCNkfTuLFtpwxrzxw4Wm578%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020600720_4_1_260212_044112-w1536-h1024"
+    ],
+    "listingUrl": "https://www.domain.com.au/lot-267-linkes-woolshed-road-steinfeld-sa-5356-2020600720",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-truro-lot-19-three-chain",
+    "title": "Lot 19 Three Chain Road",
+    "suburb": "Truro",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 95,
+    "listedDate": "2026-03-31",
+    "price": 178000,
+    "priceLabel": "$178,000 allotment guide; contact agent for whole holding",
+    "landSize": 647500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "64.75ha / 160-acre Truro rural allotment",
+      "Barossa fringe rural holding with grazing, cropping and weekend retreat appeal",
+      "Bore access noted for the larger available allotment package",
+      "Low-cost land-bank or recreational base near Truro and regional wine-country routes"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Truro residential-land listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page was published 31 March 2026 and advertises Lot 19 Three Chain Road as 64.75ha / 160 acres, with multiple rural allotments available, prior cropping and Merino sheep use, scrub and mixed cropping land, recreational use, grazing/cropping holding capacity and rural zoning. The headline price is Contact Agent, but the listing text gives the 160-acre allotments at $178,000 and the larger 640-acre allotment at $385,000 - $395,000. Available Truro/Barossa fringe comparable five-year growth evidence was checked; no credible above-15% annual 5-year support was found.",
+    "image": "https://i2.au.reastatic.net/800x600/f9f5189328be5b820e83d7794108680413b385ca6b29332d508989e8e082018c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f9f5189328be5b820e83d7794108680413b385ca6b29332d508989e8e082018c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-sa-truro-204473236",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-steinfeld-1156-stonefield",
+    "title": "1156 Stonefield Road",
+    "suburb": "Steinfeld",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 80,
+    "price": 425000,
+    "priceLabel": "$425,000",
+    "landSize": 386000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "38.6ha / 95-acre Steinfeld acreage holding",
+      "Advertised as close to the iconic Barossa and about 80 minutes to Adelaide",
+      "Part-complete steel-framed home plus completed adjacent double shed",
+      "Mains water, electricals and some plumbing installed with rural-lifestyle upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Steinfeld acreage listing verified 25 May 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 38.6ha at $425,000, a part-complete steel-framed home, completed adjacent double shed, mains water, electricals and some plumbing installed, and a position close to the Barossa with about 80 minutes' drive to Adelaide. Available Steinfeld/Barossa fringe comparable five-year growth evidence was checked; no credible above-15% annual 5-year support was found.",
+    "image": "https://i2.au.reastatic.net/800x600/fd57975325e00b097fdb3fde67e6a33fc576fa8ac0cfe01f13f67119cae1b0e5/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fd57975325e00b097fdb3fde67e6a33fc576fa8ac0cfe01f13f67119cae1b0e5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-steinfeld-146008668",
+    "listingCategory": "large",
+    "investmentStar": false
   }
 ];
 
-const databaseUpdatedAt = "2026-05-25 16:24";
+const databaseUpdatedAt = "2026-05-26 14:59";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
