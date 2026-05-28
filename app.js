@@ -12420,6 +12420,38 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-pearl-beach-1-1-pearl-parade",
+    "title": "1/1 Pearl Parade",
+    "suburb": "Pearl Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 95,
+    "daysOnMarket": null,
+    "listedDate": "2025-03-08",
+    "price": 0,
+    "priceLabel": "For Sale by Expression of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront reserve address",
+      "Directly opposite Pearl Beach",
+      "518sqm strata area",
+      "Flexible cafe or penthouse potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Pearl Beach listing verified 28 May 2026, advertised as a rare beachfront reserve property directly opposite pristine Pearl Beach with an expansive 518sqm strata area, approval for cafe/general store use, and potential conversion into a penthouse subject to council. Price is advertised as For Sale by Expression of Interest. Available Pearl Beach five-year growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c837abc5a0e5d97e84b83cefa3a77d98a884440bb3ca649f90ad55d6d2d3e1b2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c837abc5a0e5d97e84b83cefa3a77d98a884440bb3ca649f90ad55d6d2d3e1b2/image.jpg",
+      "https://i2.au.reastatic.net/800x600/402a08386f80dc56fe2509bcd98badf939b031f69a2098689917748700433246/image.jpg",
+      "https://i2.au.reastatic.net/800x600/ce10ff9c7a98521987ea60f9789f5a31823e851f4935fa18e43e8a869b4577c69/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-pearl%2Bbeach-147460372",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-pearl-beach-3-1-pearl-parade",
     "title": "UNIT 3/1 Pearl Parade",
     "suburb": "Pearl Beach",
@@ -20036,8 +20068,8 @@ const sampleProperties = [
       "Panoramic lagoon-to-ocean views",
       "Steps to beach"
     ],
-    "status": "unavailable",
-    "notes": "Active Homely and realestate.com.au listing verified 14 May 2026, advertised as a beachfront two-bedroom apartment positioned by Dee Why Lagoon and beach reserve with panoramic lagoon-to-ocean vistas and steps to the beach. Auction listing without price guide. Five-year Dee Why unit and Dee Why Parade comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active Homely listing re-verified 28 May 2026 from the exact direct listing URL, advertised as a beachfront two-bedroom apartment positioned by Dee Why Lagoon and beach reserve with panoramic lagoon-to-ocean vistas and steps to the beach. Auction listing without price guide. Five-year Dee Why unit and Dee Why Parade comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
     "image": "https://images.homely.com.au/v4/listing/13093869/1/768x576/webp/65e12fddc4358cbc43be36098fdd849c52da18c6",
     "images": [
       "https://images.homely.com.au/v4/listing/13093869/1/768x576/webp/65e12fddc4358cbc43be36098fdd849c52da18c6",
@@ -20048,6 +20080,44 @@ const sampleProperties = [
       "https://images.homely.com.au/v4/listing/13093869/6/768x576/webp/0f40f763943ae4ca02d31948871f5605c48cd964"
     ],
     "listingUrl": "https://www.homely.com.au/homes/24-84-88-dee-why-parade-dee-why-nsw-2099/13093869",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-dee-why-10-85-dee-why",
+    "title": "10/85 Dee Why Parade",
+    "suburb": "Dee Why",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-07",
+    "price": 1190000,
+    "priceLabel": "Guide | $1,190,000",
+    "landSize": 91.1,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Dee Why Parade front-row beach strip",
+      "Approx. 100m walk to Dee Why Beach",
+      "Beachfront cafes and restaurants nearby",
+      "91.1 sqm total apartment size"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 28 May 2026 from the Dee Why suburb result card and exact direct listing URL, advertised as a renovated apartment at 10/85 Dee Why Parade just 100m walk to Dee Why Beach and beachfront cafes. Guide is advertised at $1,190,000, with 91.1 sqm total size published in listing syndication. Included as an inclusive Dee Why Parade/front-row beach candidate, not as absolute no-road beachfront. Five-year Dee Why unit and comparable-growth evidence checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/2aODqCHnN1ApRKxd7WiGbm7a2VM=/660x440/filters:format(jpeg):quality(80)/2019406312_1_1_250429_074852-w960-h640",
+    "images": [
+      "https://rimh2.domainstatic.com.au/2aODqCHnN1ApRKxd7WiGbm7a2VM=/660x440/filters:format(jpeg):quality(80)/2019406312_1_1_250429_074852-w960-h640",
+      "https://rimh2.domainstatic.com.au/0XFuCzOkfQF1OvGL5MoERBs2m1s=/660x440/filters:format(jpeg):quality(80)/2020814732_1_FS_1_260526_121656-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/OY0l0Qx7SmSK4tXhwsvl_qd80lc=/660x440/filters:format(jpeg):quality(80)/2020814732_2_FS_2_260526_121656-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/v3utM7U_Nzj13mGyklb3n3UoIk4=/660x440/filters:format(jpeg):quality(80)/2020814732_3_FS_3_260526_121656-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/CYnnIo5BCrjiOmiRmRz02ldks10=/660x440/filters:format(jpeg):quality(80)/2020814732_4_FS_4_260526_121656-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/nJiNJZYX95x0w6nkQmyn_hTy1Uk=/660x440/filters:format(jpeg):quality(80)/2020814732_5_FS_5_260526_121656-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/RknsSN4d-rCxI-X4Gd3wsUiR53M=/660x440/filters:format(jpeg):quality(80)/2020814732_6_FS_6_260526_121657-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/bFlwGCOQfFtqzDazXAOg0JkyYNA=/660x440/filters:format(jpeg):quality(80)/2020401675_1_FS_1_220825_090938-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/CUppt4kgp4cOeiRNLqeh-TIbpMc=/660x440/filters:format(jpeg):quality(80)/2020401675_2_FS_2_220825_090938-w1600-h1067",
+      "https://rimh2.domainstatic.com.au/hqxyAh7qy7jW4TZx1qbbfXhHI-w=/660x440/filters:format(jpeg):quality(80)/2020814732_9_FS_9_260526_121657-w1600-h1067"
+    ],
+    "listingUrl": "https://www.domain.com.au/10-85-dee-why-parade-dee-why-nsw-2099-2020814732",
     "investmentStar": false
   },
   {
@@ -54563,10 +54633,187 @@ const sampleProperties = [
       "Uninterrupted Pacific Ocean views",
       "717sqm on-title"
     ],
-    "status": "unavailable",
-    "notes": "Active exact realestate.com.au unit listing reverified 14 May 2026, advertised as a world-class Manly beachfront penthouse in a front-row position directly opposite Manly Beach, with 30m frontage, uninterrupted Pacific Ocean views, beachfront terrace areas and 717sqm on title. Price is advertised as Contact Agent; strata land/block size is recorded as null. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag. Exact listing appeared off market during hidden price update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active exact realestate.com.au unit listing reverified 28 May 2026, advertised as a world-class Manly beachfront penthouse in a front-row position directly opposite Manly Beach, with 30m frontage, uninterrupted Pacific Ocean views, beachfront terrace areas and 717sqm on title. Price is advertised as Contact Agent; strata/on-title area is not treated as land/block size, so landSize remains TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ce323a8498344bd9e7f8e4ace9c141678ef70c2be0e2befd7e79db8f780a0ecf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ce323a8498344bd9e7f8e4ace9c141678ef70c2be0e2befd7e79db8f780a0ecf/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-unit-nsw-manly-150154548",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-g5-13-east-esplanade",
+    "title": "G5/13 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 1350000,
+    "priceLabel": "Auction Guide: $1,350,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "East Esplanade harbourfront apartment",
+      "Steps to Manly Cove Beach",
+      "Sparkling harbour and wharf views",
+      "Prime elevated ground-floor position"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 28 May 2026, advertised as Sydney Harbourfront Living with modern comforts and unbeatable convenience, steps from Manly Cove Beach, Manly Wharf and harbourside dining, with a private balcony and sparkling harbour/wharf views. Auction guide is advertised at $1,350,000; strata land/block size is not published, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b1d2cf3c910653e7a6102b6dbbb1431b9bb7a963ed5838868ffb1012dc7386e0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b1d2cf3c910653e7a6102b6dbbb1431b9bb7a963ed5838868ffb1012dc7386e0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-149680392",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-7-bruce",
+    "title": "7 Bruce Avenue",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-04-09",
+    "price": null,
+    "priceLabel": "For Sale: By Negotiation",
+    "landSize": 430,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute waterfront Little Manly Beach address",
+      "Direct access to the harbour and sandy beach",
+      "Private slipway and customised boatshed",
+      "430sqm house block near Manly Wharf"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au house listing verified 28 May 2026, advertised as an absolute waterfront masterpiece with sublime views, direct access to Little Manly Beach, a private slipway, customised boatshed and the shores of Little Manly Beach at the door. Price is advertised as By Negotiation and the listing publishes a 430sqm land size. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f4fbbf9b41eed05acdc876263daf8701cc834df36a07e7da2fef65db6af29b61/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f4fbbf9b41eed05acdc876263daf8701cc834df36a07e7da2fef65db6af29b61/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-manly-150833636",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-12-132-134-bower",
+    "title": "12/132-134 Bower Street",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-02-18",
+    "price": 3650000,
+    "priceLabel": "For Sale $3,650,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanfront Manly Point position",
+      "Views along Manly Beach and open sea",
+      "Steps to sand, surf and Shelly Beach",
+      "Common seaside lawn and car space"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 28 May 2026, advertised as an oceanfront trophy apartment in the Sierra building on the tip of Manly Point, with panoramic views along Manly Beach, surf breaks, the northern coastline and open sea. The listing says it is right next to the beach, a few steps to the sand and surf, and includes common seaside lawn access. Price is advertised at $3,650,000; strata land/block size is not published, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/995e8ee6cbe36e1c54145162547d3a6610a2c5364e7f660e6d47686b98a83b27/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/995e8ee6cbe36e1c54145162547d3a6610a2c5364e7f660e6d47686b98a83b27/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150345172",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-4-43-east-esplanade",
+    "title": "4/43 East Esplanade",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-04-10",
+    "price": 2350000,
+    "priceLabel": "Auction Guide $2,350,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "East Esplanade front-row address",
+      "Directly opposite Manly Wharf",
+      "Harbourfront living and panoramic views",
+      "Footsteps to Manly Cove and The Corso"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 28 May 2026, advertised as prestige living opposite Manly Wharf in The Grant, with floor-to-ceiling glass, panoramic harbour views, an entertainers' balcony and an East Esplanade harbourfront setting moments to beaches, ferries and The Corso. Auction guide is advertised at $2,350,000; strata land/block size is not published, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/251a5ea403752873b804df2cf96d2a8590b3067d6d2cdac951f621f5fd902eb6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/251a5ea403752873b804df2cf96d2a8590b3067d6d2cdac951f621f5fd902eb6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150850364",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-3-26-the-crescent",
+    "title": "3/26 The Crescent",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-01-16",
+    "price": 2500000,
+    "priceLabel": "Auction Guide $2,500,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Harbourfront setting opposite Delwood Beach",
+      "Metres from Manly to Spit coastal walk",
+      "Expansive harbour and open-ocean views",
+      "Short walk to Manly Cove and Wharf"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 28 May 2026, advertised in a sublime harbourfront setting directly opposite Delwood Beach, with expansive harbour views through Sydney Heads to open ocean, common harbour-view terrace areas and immediate access to the Manly to Spit Coastal Walk. Auction guide is advertised at $2,500,000; strata land/block size is not published, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/fd6baf6e134bd69b0b0188bf1a53b0213ff46bbd4af6d91d5b520006252fe49a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fd6baf6e134bd69b0b0188bf1a53b0213ff46bbd4af6d91d5b520006252fe49a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150022048",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-manly-5-11a-oyama",
+    "title": "5/11A Oyama Avenue",
+    "suburb": "Manly",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 3500000,
+    "priceLabel": "Guide $3,500,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute waterfront Eastern Hill apartment",
+      "Residents' harbourside pool and water access",
+      "Direct access to harbour rocks",
+      "Views across Manly Cove"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 28 May 2026, advertised as an exclusive harbourfront setting on Manly's Eastern Hill, with views across Manly Cove, residents' pool beside the water and direct access down to the harbour rocks for a swim. Price guide is advertised at $3,500,000; strata/on-title size is not treated as land/block size, so landSize is TBA. Five-year Manly suburb and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/01a88b319f73f52f53337770de731e8e25b0cc574749876cfe9c7d397b2c72f3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/01a88b319f73f52f53337770de731e8e25b0cc574749876cfe9c7d397b2c72f3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-manly-150582136",
     "investmentStar": false
   },
   {
