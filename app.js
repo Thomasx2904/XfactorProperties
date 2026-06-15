@@ -7227,6 +7227,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au listing advertised as absolute beachfront bliss with private gate access to the sand, 15.5m frontage to Aspendale Beach and a 1,937sqm parcel. Price is the midpoint of the advertised indicative guide.",
+    "image": "https://i2.au.reastatic.net/800x600/2e1af5eba309467575f518273832c71c39ef59644453c96a22aaf0bc8a7115d2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2e1af5eba309467575f518273832c71c39ef59644453c96a22aaf0bc8a7115d2/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-vic-aspendale-149284488",
     "investmentStar": false
   },
@@ -7338,6 +7342,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au listing advertised as resting directly on Aspendale Beach with direct beach access, uninterrupted bay views and resort-style living. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
+    "image": "https://i2.au.reastatic.net/800x600/12546c222650c7fcf3131dd9ccd0847d04109f41281bf0eaaadb6472f252d971/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/12546c222650c7fcf3131dd9ccd0847d04109f41281bf0eaaadb6472f252d971/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-vic-aspendale-149536504",
     "investmentStar": false
   },
@@ -7361,6 +7369,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au apartment listing in the Promenade development, advertised with a private laneway providing direct access to the beach and a rear position closest to the shoreline. Price is the midpoint of the advertised range; no land size is published on the exact listing.",
+    "image": "https://i2.au.reastatic.net/800x600/bd39f6a91a70618084f6051911f61ddf40c69d11a3e4d436ab4b4d3689c940a4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/bd39f6a91a70618084f6051911f61ddf40c69d11a3e4d436ab4b4d3689c940a4/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-vic-aspendale-150157944",
     "investmentStar": false
   },
@@ -7603,6 +7615,35 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "vic-aspendale-9-nepean",
+    "title": "9 Nepean Highway",
+    "suburb": "Aspendale",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 45,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "priceLabel": "$1,600,000 - $1,700,000",
+    "landSize": 626,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Gypsy Lane access to beach",
+      "Beachside Nepean Highway block",
+      "Approved plans for three townhouses",
+      "626sqm cleared landholding"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au residential land listing verified from the exact direct listing URL, advertised with dual frontage to Nepean Highway and Gypsy Lane and approved plans using Gypsy Lane, which the listing states extends directly to the beach. Price is the midpoint of the advertised range. Available Aspendale suburb and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3a27974ae5a0cd0f47d00f0c1623480253ec6744992b310dc6c5c0ea672c4b49/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3a27974ae5a0cd0f47d00f0c1623480253ec6744992b310dc6c5c0ea672c4b49/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-vic-aspendale-204289132",
+    "investmentStar": false
+  },
+  {
     "id": "vic-aspendale-84-nepean",
     "title": "84 Nepean Highway",
     "suburb": "Aspendale",
@@ -7817,6 +7858,10 @@ const sampleProperties = [
     "daysOnMarket": null,
     "status": "active",
     "notes": "Active direct listing advertised as a Beach Road family home directly across the road from Port Phillip Bay, with a beachfront balcony, elevated bay views and a 995sqm approximate site.",
+    "image": "https://i2.au.reastatic.net/800x600/5fca6a4d248a6a2d11cf3dc9cfbe3fbacb75e20c7be0beaf0514ab19bb520546/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5fca6a4d248a6a2d11cf3dc9cfbe3fbacb75e20c7be0beaf0514ab19bb520546/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-vic-beaumaris-147946972",
     "investmentStar": false
   },
@@ -7847,6 +7892,38 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/b83ddb0118306af1fbdf85ac9c02aa7e2ccf24f0af6e40c914bf948d9f5e329a/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-vic-beaumaris-150218920",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-beaumaris-11-405-beach",
+    "title": "11/405 Beach Road",
+    "suburb": "Beaumaris",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 35,
+    "daysOnMarket": 6,
+    "listedDate": "2026-06-05",
+    "price": 1640000,
+    "priceLabel": "$1,600,000 - $1,680,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Clifftop beachfront apartment in The Point",
+      "Uninterrupted Port Phillip Bay views",
+      "Entry via Lang Street and set well back from Beach Road",
+      "Tightly held 1960s landmark building"
+    ],
+    "status": "active",
+    "notes": "Active Domain direct listing verified 15 Jun 2026 from the exact listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 3-bedroom apartment in The Point, a tightly held clifftop beachfront setting, uninterrupted bay views, entry via Lang Street and no disclosed property size, so land size is TBA. Available Domain suburb/unit market data and comparable growth evidence was checked; current evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/RWEhCbh3n8PDx-2krNucOtnlup0%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020896893_1_1_260605_034518-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/RWEhCbh3n8PDx-2krNucOtnlup0%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020896893_1_1_260605_034518-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/4nU867iWL0DX39SUAQ4ogN1GDRY%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020896893_2_1_260605_034518-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/wtBcfw3cTPda4JSmirLVdijf43M%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020896893_3_1_260605_034518-w2000-h1500"
+    ],
+    "listingUrl": "https://www.domain.com.au/11-405-beach-road-beaumaris-vic-3193-2020896893",
     "investmentStar": false
   },
   {
@@ -9055,6 +9132,52 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "vic-inverloch-1-miller",
+    "title": "1 Miller Terrace",
+    "suburb": "Inverloch",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "listedDate": "2026-05-08",
+    "daysOnMarket": 29,
+    "price": 3600000,
+    "priceLabel": "$3,500,000 - $3,700,000",
+    "landSize": 649.4,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mere metres from shoreline",
+      "Water views",
+      "Quiet court position",
+      "Town centre stroll"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 June 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a quiet-court Inverloch residence mere metres from the shoreline, with water views, coastal lifestyle appeal, town-centre access, a $3,500,000 - $3,700,000 price guide, 649.4sqm land size and first listing on 8 May. Available Inverloch five-year and current suburb/comparable evidence was checked; current portal market evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/Q2-2c1q9mb9VQtr5Dx4iynKwyFY%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_1_1_260508_072413-w6192-h4128",
+    "images": [
+      "https://rimh2.domainstatic.com.au/Q2-2c1q9mb9VQtr5Dx4iynKwyFY%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_1_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/fEoNQvwtjtLiAuvktuPrRvdL2Yk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_2_1_260508_072413-w6144-h4096",
+      "https://rimh2.domainstatic.com.au/XNloX7EUParIOlxeUEr-Di926Tc%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_3_1_260508_072413-w1800-h1200",
+      "https://rimh2.domainstatic.com.au/CYzi_obF592shUZVxnArJmG2BUs%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_4_1_260508_072413-w6191-h4127",
+      "https://rimh2.domainstatic.com.au/-DlU46PSeN8VbTQN9XGOIyg_CH0%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_5_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/2Ftm8VmVknLYRzicYIhyuJwpQCc%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_6_1_260508_072413-w6144-h4096",
+      "https://rimh2.domainstatic.com.au/uzPwRDElS2v1Cqwo4rtgpns3pT4%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_7_1_260508_072413-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/Ajon-I5OGurG4UoZVcYkIDLmYG0%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_8_1_260508_072413-w6191-h4127",
+      "https://rimh2.domainstatic.com.au/FG1NkoToMDE6M5CjyItybDBSscw%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_9_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/FLQRSSO0M85b17zgOUMxOCxtmoo%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_10_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/n2_bbrkPDLrvbQHAop7IQvv5-sc%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_11_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/bQStI1ehYwrj11Xnev7FGsRiZwY%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_12_1_260508_072413-w5770-h3845",
+      "https://rimh2.domainstatic.com.au/sLB56GSxbu3j1k27Pdv2Sjub5qM%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_13_1_260508_072413-w6192-h4128",
+      "https://rimh2.domainstatic.com.au/wxExc2M4B2o4XgWPmJso8A6w3IU%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_14_1_260508_072413-w1800-h1200",
+      "https://rimh2.domainstatic.com.au/nYEp7pAGKVHSDCNjipmQq1jV2M8%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_15_1_260508_072413-w4024-h2683",
+      "https://rimh2.domainstatic.com.au/qxWSyfOEsZRYpsXRDxneumQeECs%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_16_1_260508_072413-w6144-h4096",
+      "https://rimh2.domainstatic.com.au/ud8lPtgFgMmbg_cHBdY-txoowik%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020828353_17_1_260508_072413-w7016-h4961"
+    ],
+    "listingUrl": "https://www.domain.com.au/1-miller-terrace-inverloch-vic-3996-2020828353",
+    "investmentStar": false
+  },
+  {
     "id": "qld-bowen-address-request",
     "title": "Elevation, Granite & River Frontage",
     "suburb": "Bowen",
@@ -9647,6 +9770,54 @@ const sampleProperties = [
       "https://rimh2.domainstatic.com.au/T0hv14OoeIdNFo6qRFmzy_CfNpQ=/660x440/filters:format(jpeg):quality(80)/2019145599_3_1_250217_040001-w800-h533"
     ],
     "listingUrl": "https://www.domain.com.au/3-162-marine-drive-safety-beach-vic-3936-2019145599",
+    "allowDomainListing": true,
+    "investmentStar": false
+  },
+  {
+    "id": "vic-safety-beach-87-marine",
+    "title": "87 Marine Drive",
+    "suburb": "Safety Beach",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 80,
+    "daysOnMarket": null,
+    "price": 2835000,
+    "priceLabel": "$2,700,000 - $2,970,000",
+    "landSize": 996,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Marine Drive",
+      "Safety Beach foreshore position",
+      "Large 996sqm allotment",
+      "Current Domain listing card"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing card verified 15 June 2026 from the Safety Beach suburb sale page. The card advertises 87 Marine Drive as a 4-bedroom, 2-bathroom, 4-car house on 996sqm, with a $2,700,000 - $2,970,000 price guide, new inspection marker and front-row Marine Drive position opposite the Safety Beach foreshore. Available Safety Beach suburb/comparable growth evidence checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/m8ne8iSeJ29tub8ecfBT17D7JWc=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_1_1_260521_125131-w1920-h1280",
+    "images": [
+      "https://rimh2.domainstatic.com.au/m8ne8iSeJ29tub8ecfBT17D7JWc=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_1_1_260521_125131-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/F8u-rWjfAIBn8XOBAiXGwM1MXmA=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_2_1_260521_125132-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/WOJWHiFyOctz9otocTIZecBOiLY=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_3_1_260521_125132-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/8kZ_O2YSNUtgSXMvakXJACZiODQ=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_4_1_260521_125132-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/NDSt2sZXnwfD49LOgqvdBQbeVvo=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_5_1_260521_125132-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/iD_ScpXWup59b_EzfaJNcziJC9o=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_6_1_260521_125133-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/wbwPDxNuzBK2cYHcGUnQL6b9_I4=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_7_1_260521_125133-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/e6Y4FWgfBTtRer2bk1eLzqBPcDI=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_8_1_260521_125133-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/h6B0QF_YRMewW3rCgP5LetdYyAs=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_9_1_260521_125133-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/DruoeGg44w6q9q0wX5Z7faSM7n0=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_10_1_260521_125134-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/8E7_BCq1PVq4s1wwnLy_iyUIeaQ=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_11_1_260521_125134-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/iXlvwn-7yjPpuhJh14vv5j4o5l8=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_12_1_260521_125134-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/3IxjfBgoZGm9szs9G32LJ44pF3M=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_13_1_260521_125134-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/w7vO3QPe5I9zwYgo1onS6A8fJkI=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_14_1_260521_125135-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/4a_KsZ3P7PCrgwDmLZnPw2WJ_4E=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_15_1_260521_125135-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/lwoFjpdWZzk1ih9fuCMSEf_3PwQ=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_16_1_260521_125135-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/uEkkpESd2lFyFyNIw4qREdsdrmo=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_17_1_260521_125135-w1920-h1280",
+      "https://rimh2.domainstatic.com.au/-aittfpasDFcfAbCDEFBbvD4usA=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2018585521_18_1_260521_125131-w1920-h1280"
+    ],
+    "listingUrl": "https://www.domain.com.au/87-marine-drive-safety-beach-vic-3936-2018585521",
+    "allowDomainListing": true,
     "investmentStar": false
   },
   {
@@ -11393,8 +11564,8 @@ const sampleProperties = [
       "200m to water edge",
       "Strata stock"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 14 May 2026, advertised as a Peninsula on the Bay studio apartment with panoramic Port Phillip Bay views and a location about 200m from the water's edge. Price is advertised at $299,000. Five-year Frankston unit and comparable-growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing URL rechecked 15 June 2026 and now redirects to the sold page, showing sold on 22 May 2026. Hidden from the active app view.",
     "image": "https://i2.au.reastatic.net/800x600/dc753553efc15cf491ed98e81457aa4aaf9993521ff0740744d51fef3901e354/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/dc753553efc15cf491ed98e81457aa4aaf9993521ff0740744d51fef3901e354/image.jpg",
@@ -11469,8 +11640,8 @@ const sampleProperties = [
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 55,
     "listedDate": "2026-03-26",
-    "price": 1630000,
-    "priceLabel": "$1,630,000",
+    "price": 1695000,
+    "priceLabel": "$1,695,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -11550,14 +11721,14 @@ const sampleProperties = [
   },
   {
     "id": "vic-frankston-1107-446-450-nepean",
-    "title": "1107/446-450 Nepean Highway",
+    "title": "1007/446-450 Nepean Highway",
     "suburb": "Frankston",
     "state": "VIC",
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 55,
     "daysOnMarket": null,
-    "price": 2650000,
-    "priceLabel": "$2,650,000",
+    "price": 2635000,
+    "priceLabel": "$2,635,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -11565,16 +11736,190 @@ const sampleProperties = [
     "factors": [
       "Harbour front-row waterfront development",
       "Uninterrupted 210-degree bay views",
-      "Highest apartment floor",
+      "73sqm of outdoor balconies",
       "73sqm of outdoor balconies"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Harbour apartment listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a three-bedroom apartment in the 446-450 Nepean Highway waterfront development with uninterrupted 210-degree views over Olivers Hill and Frankston Pier, highest-floor apartment position, 73sqm of outdoor balconies and resort amenities including a 25m rooftop infinity pool, hydrotherapy spa, fire pit, lounges and Harbour Beach Club. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "notes": "Active realestate.com.au Harbour apartment listing reverified 15 June 2026 from the exact direct listing URL, which now shows 1007/446-450 Nepean Highway at $2,635,000. The listing advertises uninterrupted 210-degree views over Olivers Hill and Frankston Pier, 73sqm of outdoor balconies, two secure car spaces and resort amenities including a 25m rooftop infinity pool, hydrotherapy spa, fire pit, lounges and Harbour Beach Club. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/524a5ac882e9b0f71aa265c037734f372212c8b08feba84969c49a0dd4c9b35d/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/524a5ac882e9b0f71aa265c037734f372212c8b08feba84969c49a0dd4c9b35d/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-150712656",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-702-1-plowman",
+    "title": "702/1 Plowman Place",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "daysOnMarket": null,
+    "price": 4495000,
+    "priceLabel": "$4,300,000 - $4,690,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Horizon beachside apartment with uninterrupted 180-degree bay views",
+      "Views spanning Melbourne city skyline through to Olivers Hill",
+      "Seventh-floor 261sqm residence with 49sqm balcony",
+      "Moments from Frankston Beach and waterfront precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing advertises $4,300,000 - $4,690,000, an expansive 261sqm Horizon apartment with uninterrupted bay views from Melbourne city to Olivers Hill, a 49sqm balcony, rooftop resident amenities and a location just moments from Frankston Beach and the waterfront precinct. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b4b6db4a944b7c6dc93da50a76d5f01f7ad0c707745c998d09f1fd0433ca0857/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b4b6db4a944b7c6dc93da50a76d5f01f7ad0c707745c998d09f1fd0433ca0857/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151066300",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-1202-12-beach",
+    "title": "1202/12 Beach Street",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-18",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Baylight penthouse marketed as the pinnacle of waterfront living",
+      "246sqm terrace with sweeping panoramic bay views",
+      "Direct footbridge access precinct about 200m from Frankston Beach",
+      "Waterfront dining and resort amenities along Kananook Creek Boulevard"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Baylight Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing was date-published 18 May 2026 and advertises a 508.3sqm penthouse with 262sqm internal living, a 246sqm terrace, sweeping panoramic bay views, resort amenities and Baylight's waterfront position about 200m from Frankston Beach via direct footbridge access over Kananook Creek. The rendered listing shows Contact Agent and did not expose a public hidden price range in the verification view. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e4003e0fc1114995930d36e3358910984234a6ddff974063e1d407577406cdb1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e4003e0fc1114995930d36e3358910984234a6ddff974063e1d407577406cdb1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151230164",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-1001-12-beach",
+    "title": "1001/12 Beach Street",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-18",
+    "price": 3275000,
+    "priceLabel": "$3,275,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Baylight waterfront apartment with bay and Kananook Creek outlooks",
+      "106sqm balcony with city, creek and waterfront views",
+      "Direct footbridge access precinct about 200m from Frankston Beach",
+      "Waterfront dining and resort amenities along Kananook Creek Boulevard"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Baylight Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing was date-published 18 May 2026 and advertises $3,275,000, a 294.8sqm apartment with a 106sqm balcony overlooking the bay and Kananook Creek, resort amenities and Baylight's waterfront position about 200m from Frankston Beach via direct footbridge access over Kananook Creek. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/423353068df2d012ad4de68242b32945416a6df98f3758c91b8212b0f375f223/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/423353068df2d012ad4de68242b32945416a6df98f3758c91b8212b0f375f223/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151229992",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-907-12-beach",
+    "title": "907/12 Beach Street",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-18",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Baylight waterfront apartment with Frankston Pier and bay views",
+      "104sqm terrace sweeping along south and west aspects",
+      "Direct footbridge access precinct about 200m from Frankston Beach",
+      "Waterfront dining and resort amenities along Kananook Creek Boulevard"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Baylight Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing was date-published 18 May 2026 and advertises a 358.9sqm apartment with an extraordinary 104sqm terrace, views of Frankston Pier, Olivers Hill and Port Phillip Bay, resort amenities and Baylight's waterfront position about 200m from Frankston Beach via direct footbridge access over Kananook Creek. The rendered listing shows Contact Agent and did not expose a public hidden price range in the verification view. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/0e2d2989e73e9e5bd3596a6d85dd9c06f452136a323d3a99cd7a419105af4087/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0e2d2989e73e9e5bd3596a6d85dd9c06f452136a323d3a99cd7a419105af4087/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151229800",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-707-12-beach",
+    "title": "707/12 Beach Street",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-18",
+    "price": 1430000,
+    "priceLabel": "$1,430,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Baylight waterfront apartment with Frankston Pier and bay views",
+      "Seventh-floor coastal outlooks",
+      "Direct footbridge access precinct about 200m from Frankston Beach",
+      "Waterfront dining and resort amenities along Kananook Creek Boulevard"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Baylight Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing was date-published 18 May 2026 and advertises $1,430,000, a 127.3sqm seventh-floor apartment with views across Frankston Pier and the bay, resort amenities and Baylight's waterfront position about 200m from Frankston Beach via direct footbridge access over Kananook Creek. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/bbacf7d4367c2d8cc24f75951a42cb050b8450d3a64e90e4d766089dd0e7703f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/bbacf7d4367c2d8cc24f75951a42cb050b8450d3a64e90e4d766089dd0e7703f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151229604",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-frankston-309-12-beach",
+    "title": "309/12 Beach Street",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-18",
+    "price": 2580000,
+    "priceLabel": "$2,580,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Baylight bayside residence with sweeping bay views",
+      "61sqm outdoor terrace for entertaining",
+      "Direct footbridge access precinct about 200m from Frankston Beach",
+      "Waterfront dining and resort amenities along Kananook Creek Boulevard"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Baylight Frankston apartment listing verified 15 June 2026 from the exact direct listing URL. The listing was date-published 18 May 2026 and advertises $2,580,000, a 228.4sqm bayside apartment with a 61sqm balcony, sweeping bay views, resort amenities and Baylight's waterfront position about 200m from Frankston Beach via direct footbridge access over Kananook Creek. No land/block size is published for the strata apartment, so landSize is null. Available five-year Frankston unit and comparable-growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a6f8052fd49a57ca2d1d4aa406821765b2e7893f2d5eb4d1023734458b575622/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a6f8052fd49a57ca2d1d4aa406821765b2e7893f2d5eb4d1023734458b575622/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-frankston-151229312",
     "investmentStar": false
   },
   {
@@ -18840,6 +19185,34 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/0213d9bcb466e5a09f108669d4ae8e374d7f71036a6ae5e840473f7920df0d5c/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-149240916",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-balnarring-beach-2-bass",
+    "title": "2 Bass Court",
+    "suburb": "Balnarring Beach",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 80,
+    "price": 1700000,
+    "priceLabel": "$1,650,000 - $1,750,000",
+    "landSize": 1263,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "One street from the shoreline",
+      "Steps from sand",
+      "Dual street frontages",
+      "Large 1,263sqm block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Balnarring Beach listing verified 15 Jun 2026 from the exact direct listing page. The listing advertises direct beach access, a peaceful cul-de-sac position one street from the shoreline, steps from the sand, dual street frontages and a large 1,263sqm allotment. Price is the midpoint of the advertised range. Available suburb and comparable sales growth evidence was checked, but did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a3f30c4cf1d910c1e1c2c3af6486f176a24b9b57658098a5cc586d6ecac0c163/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a3f30c4cf1d910c1e1c2c3af6486f176a24b9b57658098a5cc586d6ecac0c163/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-balnarring%2Bbeach-150414268",
     "investmentStar": false
   },
   {
@@ -38469,6 +38842,35 @@ const sampleProperties = [
     "listingCategory": "large"
   },
   {
+    "id": "wa-cowalla-2373-cowalla",
+    "title": "2373 Cowalla Road",
+    "suburb": "Cowalla",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 70,
+    "price": 2800000,
+    "priceLabel": "Expressions of Interest $2,800,000+",
+    "landSize": 488700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "48.87ha commercial horticulture holding",
+      "504,000kL water licence and upgraded irrigation infrastructure",
+      "Three-phase power, machinery shedding and cool-room infrastructure",
+      "Gingin, Muchea, Yanchep and Perth market access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Cowalla cropping listing verified 15 June 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 48.87ha / 120.76 acres, E.O.I with a $2,800,000+ price guide, Rural/Farming zoning, 504,000kL water licence, upgraded irrigation, pivot, three-phase power, machinery shedding, cool-room infrastructure, horticulture, hay, turf, livestock, equestrian and lifestyle uses, plus agent-noted access to Gingin, Muchea, Yanchep and Perth. Five-year Cowalla/Gingin comparable growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4395d77eb7c1175a552ee26e0a75e98283971b9eb21df2e29838e8f4180b74e2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4395d77eb7c1175a552ee26e0a75e98283971b9eb21df2e29838e8f4180b74e2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-cropping-wa-cowalla-700395228",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "wa-cowalla-lot-52-cowalla",
     "title": "Lot 52 Cowalla Road",
     "suburb": "Cowalla",
@@ -55861,6 +56263,35 @@ const sampleProperties = [
     "hiddenPriceUpdatedAt": "2026-05-15"
   },
   {
+    "id": "nsw-cronulla-801-1-surf",
+    "title": "801/1 Surf Road",
+    "suburb": "Cronulla",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 45,
+    "listedDate": "2026-05-15",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront Cronulla views",
+      "Sweeping South Cronulla Beach outlook",
+      "Surf Road front-row coastal precinct",
+      "Immediate access to beachside parklands"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 June 2026 from the exact direct listing URL. The listing advertises a Sage by Moran penthouse with beachfront Cronulla views, sweeping views over South Cronulla Beach, direct beach views from the master suite, immediate access to beachside parklands and boutique retail, and building size of 150sqm. Price is advertised as Contact Agent; only building size is published, so landSize is TBA. Available five-year Cronulla suburb and comparable-growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8dc26f0aa247310ae8af8b9fa4e114dfb9919f6d7ebf2fc38a1c8248c7374f74/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8dc26f0aa247310ae8af8b9fa4e114dfb9919f6d7ebf2fc38a1c8248c7374f74/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cronulla-151215360",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-cronulla-85-the-esplanade",
     "title": "85 The Esplanade",
     "suburb": "Cronulla",
@@ -55935,8 +56366,8 @@ const sampleProperties = [
       "Panoramic coastline views",
       "Trade Winds building"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au apartment listing advertised as a tightly held oceanfront residence in the Trade Winds building, with sweeping views across Cronulla's coastline and direct access to The Esplanade. Price is advertised as Auction; strata land/block size is not published.",
+    "status": "unavailable",
+    "notes": "Sold realestate.com.au apartment listing rechecked 15 June 2026 from the exact direct listing URL, which now redirects to a sold page showing Contact agent Sold on 21 May 2026. Earlier listing advertised a tightly held oceanfront residence in the Trade Winds building, with sweeping views across Cronulla's coastline and direct access to The Esplanade. Price was advertised as Auction; strata land/block size was not published.",
     "image": "https://i2.au.reastatic.net/800x600/df763a3645ecded1f2ce7b9ecaaa8e0e34848d1774d5f00faa6a1bb65fe9821f/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/df763a3645ecded1f2ce7b9ecaaa8e0e34848d1774d5f00faa6a1bb65fe9821f/image.jpg",
@@ -56079,8 +56510,8 @@ const sampleProperties = [
       "Front-row Bakana complex",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Active Domain apartment listing advertised as beachfront living in the Bakana complex, positioned along one of Cronulla's tightly held beachfront strips with a front-row lifestyle on The Esplanade, Water Front, Water Views and Ocean Views features. Price is advertised as Price on request; strata land/block size is not published.",
+    "status": "unavailable",
+    "notes": "Sold Domain apartment listing rechecked 15 June 2026 from the exact direct listing URL, which now shows Sold on 28 May 2026. Earlier listing advertised beachfront living in the Bakana complex, positioned along one of Cronulla's tightly held beachfront strips with a front-row lifestyle on The Esplanade, Water Front, Water Views and Ocean Views features. Price was advertised as Price on request; strata land/block size was not published.",
     "image": "https://rimh2.domainstatic.com.au/OrXg5DwtGoXSVDrthtM4vtWrKfw%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020815288_1_1_260505_034359-w1537-h1023",
     "images": [
       "https://rimh2.domainstatic.com.au/OrXg5DwtGoXSVDrthtM4vtWrKfw=/1680x720/filters:format(webp):quality(85)/2020815288_1_1_260505_034359-w1537-h1023",
@@ -73333,10 +73764,68 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-sa-steinfeld-146008668",
     "listingCategory": "large",
     "investmentStar": false
+  },
+  {
+    "id": "vic-cowes-42a-stradbroke",
+    "title": "42A Stradbroke Avenue",
+    "suburb": "Cowes",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 115,
+    "price": 2115000,
+    "priceLabel": "$2,050,000 - $2,180,000",
+    "landSize": 587,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute foreshore residence on Cowes' tightly held Golden Mile",
+      "Uninterrupted panoramic views across Lovers Walk Beach and Western Port",
+      "Covered front-row ocean-view balcony plus rear deck and low-maintenance yard",
+      "Walkable Cowes position near restaurants, retail, golf course and foreshore paths"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Cowes house listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $2,050,000 - $2,180,000, 587m2 land, absolute foreshore living, uninterrupted panoramic Lovers Walk Beach views, front-row ocean-view balcony and steps-to-ocean Golden Mile position. Available Cowes/Phillip Island five-year suburb and comparable growth evidence was checked; current evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3e2ecb42839640233abf9855f8c7efabca937e35ca4a3ed6115aa70996e83929/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3e2ecb42839640233abf9855f8c7efabca937e35ca4a3ed6115aa70996e83929/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-cowes-149840132",
+    "listingCategory": "beachfront",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-cowes-39-stradbroke",
+    "title": "39 Stradbroke Avenue",
+    "suburb": "Cowes",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 115,
+    "price": 2572500,
+    "priceLabel": "$2,450,000 - $2,695,000",
+    "landSize": 1780,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "1,780m2 Cowes foreshore holding on Phillip Island's Golden Mile",
+      "Directly opposite the beach with ocean access just steps away",
+      "Existing holiday home with ocean-view verandah and holding income potential",
+      "Large blue-chip coastal parcel with future multi-dwelling or subdivision potential STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Cowes house listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $2,450,000 - $2,695,000, 1,780m2 land, a prime Cowes foreshore position directly opposite the beach, ocean access just steps away, existing dwelling and future redevelopment or subdivision potential STCA. Available Cowes/Phillip Island five-year suburb and comparable growth evidence was checked; current evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f721611f9c776d1903d4f16ac98bc81ae64f7f8aee1ab93d1bf471f429173d95/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f721611f9c776d1903d4f16ac98bc81ae64f7f8aee1ab93d1bf471f429173d95/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-cowes-149896504",
+    "listingCategory": "beachfront",
+    "investmentStar": false
   }
 ];
 
-const databaseUpdatedAt = "2026-05-26 14:59";
+const databaseUpdatedAt = "2026-06-15 16:49";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
@@ -74558,7 +75047,7 @@ function isDomainListing(property) {
 
 function isActiveProperty(property) {
   return !state.unavailable.has(property.id) &&
-    !isDomainListing(property) &&
+    (!isDomainListing(property) || property.allowDomainListing === true) &&
     !["sold", "under_offer", "under contract", "under_contract", "withdrawn", "off_market", "leased", "moved", "deleted", "unavailable"].includes(propertyStatus(property));
 }
 
