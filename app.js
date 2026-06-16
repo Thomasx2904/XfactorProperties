@@ -1690,6 +1690,34 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "vic-warrnambool-1-11-pertobe",
+    "title": "1/11 Pertobe Lane",
+    "suburb": "Warrnambool",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 195,
+    "price": 1575000,
+    "priceLabel": "$1,550,000 - $1,600,000",
+    "landSize": 838,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "South Warrnambool Pertobe Lane position marketed for coastal living",
+      "Listing highlights walking to Warrnambool coastline, promenade and CBD within minutes",
+      "Advertised as just a stone's throw from Warrnambool's coastline with promenade walks and ocean air",
+      "Five-bedroom, two-bathroom 2021 family home on an 838m2 block with three-car garaging"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warrnambool house listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Elevated Coastal Living, a South Warrnambool Pertobe Lane position, walking to the Warrnambool coastline and promenade within minutes, and a location just a stone's throw from the breathtaking coastline. The listing does not expressly advertise private direct beach access, so directBeachAccess is false. Only the direct hero property photo URL was usable from the exact listing page during verification; a secondary visible gallery image resolved to a portal placeholder. Available Warrnambool suburb growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ca46ad9e7f162eebe52da4ef947f49ca952e0e5d3a9e407abbf7302c3b3636c6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ca46ad9e7f162eebe52da4ef947f49ca952e0e5d3a9e407abbf7302c3b3636c6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-warrnambool-151060156",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-merimbula-3-31-ocean",
     "title": "3/31 Ocean Drive",
     "suburb": "Merimbula",
@@ -2564,8 +2592,8 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 105,
-    "price": null,
-    "priceLabel": "All Offers Considered",
+    "price": 2050000,
+    "priceLabel": "$2,050,000 sold on 12 May 2026",
     "landSize": 280400,
     "beachfront": false,
     "noRoadFrontage": false,
@@ -2576,8 +2604,8 @@ const sampleProperties = [
       "Middle Creek water access and equestrian infrastructure",
       "Minutes to Pomona, Bruce Highway and Noosa"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Federal acreage listing verified 16 May 2026 from the exact direct listing URL. The listing advertises Rosedale Homestead, a 28.04ha / 70-acre Noosa Hinterland holding with a renovated Queenslander, Middle Creek access, pump-fed water, sand arena, round yard, stables, tack room, wash bay, large machinery shed, carports and two titles with the opportunity to build a new main residence on an elevated site. The listing states Pomona is about 8 minutes away, Bruce Highway about 5 minutes, Noosa River about 30 minutes and Brisbane Airport about 1 hour 35 minutes. Five-year regional growth evidence was checked; available Federal and Noosa Hinterland evidence did not substantiate a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Set to sold on 15 June 2026 after the Sunshine Coast hinterland acreage refresh found the same-address realestate.com.au Federal acreage record at property ID 149530360 redirected to a sold page showing $2,050,000 sold on 12 May 2026. The former active listing advertised Rosedale Homestead, a 28.04ha / 70-acre Noosa Hinterland holding with a renovated Queenslander, Middle Creek access, pump-fed water, equestrian infrastructure, a large machinery shed, carports and two titles with elevated build-site potential.",
     "image": "https://i2.au.reastatic.net/800x600/620a360a8819682154988429e07f623169278b39fab9ec3b504ae2a9bc65e05d/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/620a360a8819682154988429e07f623169278b39fab9ec3b504ae2a9bc65e05d/image.jpg"
@@ -24136,8 +24164,8 @@ const sampleProperties = [
       "Major city",
       "Vacant land"
     ],
-    "status": "active",
-    "notes": "Premium Fort Largs beachfront allotment with uninterrupted ocean views, about 30 minutes from Adelaide CBD.",
+    "status": "sold",
+    "notes": "Hidden after the 15 Jun 2026 Taperoo sweep. The exact realestate.com.au listing redirects to a sold property page showing sold on 14 Nov 2025 for $815,000.",
     "image": "https://i2.au.reastatic.net/800x600/090ba112aec7ff8adb63dec9b816b966ae3f1f34699e193640b49970c9e373c6/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/090ba112aec7ff8adb63dec9b816b966ae3f1f34699e193640b49970c9e373c6/image.jpg",
@@ -24156,7 +24184,7 @@ const sampleProperties = [
     "majorCityMinutes": 30,
     "daysOnMarket": null,
     "price": 1754000,
-    "landSize": 358,
+    "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
     "directBeachAccess": true,
@@ -24167,9 +24195,41 @@ const sampleProperties = [
       "Major city"
     ],
     "status": "active",
-    "notes": "Fort Largs Seabreeze home in an elevated beachfront development with ocean, dune and reserve outlooks plus direct beach and Coast Park access. Advertised at $1.754M.",
+    "notes": "Active realestate.com.au listing reverified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Fort Largs Seabreeze home in an elevated beachfront development with ocean, dune and reserve outlooks plus direct beach and Coast Park access. Advertised at $1.754M. No land size is published; the visible 358m2 figure is building size, so landSize is TBA. Only the direct hero photo URL was usable from the exact listing page during verification. Accessible Taperoo five-year suburb/comparable growth evidence was checked and did not substantiate a verified above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/434a4e123aceb86f7233f4bc2ac2368e2c9c2ebb1c98b8c380e773b0dcaf278f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/434a4e123aceb86f7233f4bc2ac2368e2c9c2ebb1c98b8c380e773b0dcaf278f/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-taperoo-148462108"
+  },
+  {
+    "id": "sa-taperoo-lot-59-oceanview",
+    "title": "Lot 59 Oceanview Drive",
+    "suburb": "Taperoo",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 1865000,
+    "priceLabel": "$1,865,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Fort Largs Oceanview Drive home in a beachfront coastal development",
+      "Elevated ocean, dune and reserve outlooks from upper balconies",
+      "Footsteps from Taperoo beach and the Fort Largs shoreline",
+      "Approx. 30 minutes northwest of Adelaide CBD"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Lot 59 Oceanview Drive as a Fort Largs Seabreeze home with breathtaking ocean and reserve views, elevated northern aspect, multiple balconies and a shoreline setting where the sandy beach is only footsteps from the front door. Advertised at $1,865,000. No land size is published; the visible 358m2 figure is building size, so landSize is TBA. Only the direct hero photo URL was usable from the exact listing page during verification. Accessible Taperoo five-year suburb/comparable growth evidence was checked and did not substantiate a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/97039dc3c22a7b5eaa1471cbb822ac6d39f388c4bf1bbaef38b5e7dae73159d0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/97039dc3c22a7b5eaa1471cbb822ac6d39f388c4bf1bbaef38b5e7dae73159d0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-taperoo-148248924",
+    "investmentStar": false
   },
   {
     "id": "sa-taperoo-316-lady-gowrie",
@@ -24190,11 +24250,44 @@ const sampleProperties = [
       "Taperoo Beach walk",
       "Major city"
     ],
-    "status": "unavailable",
-    "notes": "Active direct realestate.com.au listing describes a contemporary beachside home adjacent Fort Largs with panoramic coastal vistas, a balcony outlook to the ocean and walking distance to Taperoo Beach. Contact-agent pricing. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "priceLabel": "Contact Agent",
+    "status": "active",
+    "notes": "Active realestate.com.au listing reverified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing describes a contemporary beachside home adjacent Fort Largs with panoramic coastal vistas, a balcony outlook to the ocean, walking distance to Taperoo Beach and 318m2 land size. Price is advertised as Contact Agent. Only the direct hero photo URL was usable from the exact listing page during verification. Accessible Taperoo five-year suburb/comparable growth evidence was checked and did not substantiate a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/4e977065e0dabe96bee54b9c4459f566fa7a16cec49a8c9ee8ab0b2b4decbe32/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4e977065e0dabe96bee54b9c4459f566fa7a16cec49a8c9ee8ab0b2b4decbe32/image.jpg"
+    ],
     "investmentStar": false,
     "listingUrl": "https://www.realestate.com.au/property-house-sa-taperoo-147447972"
+  },
+  {
+    "id": "sa-taperoo-lot-216-lady-gowrie",
+    "title": "Lot 216 Lady Gowrie Drive",
+    "suburb": "Taperoo",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 30,
+    "daysOnMarket": null,
+    "price": 1450000,
+    "priceLabel": "$1,450,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Fort Largs Lady Gowrie Drive front-row coastal home",
+      "Uninterrupted panoramic sea views across three levels",
+      "Large beachfront balcony and short stroll to the historic fort and beach",
+      "Approx. 30 minutes northwest of Adelaide CBD"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Lot 216 Lady Gowrie Drive as a Premium Iridia Fort Largs home with uninterrupted ocean views, three levels of panoramic sea views, a large beachfront balcony and a short stroll from the historic fort. Advertised at $1,450,000. No land size is published; the visible 337m2 figure is building size, so landSize is TBA. Only the direct hero photo URL was usable from the exact listing page during verification. Accessible Taperoo five-year suburb/comparable growth evidence was checked and did not substantiate a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/5b285cb57884707c10f8b89232802deb4659aae54648dbdc19ad06ad2a6133b4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5b285cb57884707c10f8b89232802deb4659aae54648dbdc19ad06ad2a6133b4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-taperoo-148701536",
+    "investmentStar": false
   },
   {
     "id": "sa-taperoo-49-john-mckinna",
@@ -24215,8 +24308,8 @@ const sampleProperties = [
       "New coastal build",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active direct realestate.com.au listing describes a new Fort Largs-area home with beachside and parkside living, Roy Marten Reserve right next door and Taperoo Beach practically on the doorstep. Advertised at $1.275M.",
+    "status": "unavailable",
+    "notes": "Hidden after the 15 Jun 2026 Taperoo sweep. The exact realestate.com.au listing URL could not be opened during verification and the current realestate.com.au Taperoo sale result page no longer includes this address among the exact Taperoo active listings.",
     "image": "https://i2.au.reastatic.net/800x600/0c6c2bf1aae699d373e56ded903cd9765e34283e857efb0824bbea5da9dc94cd/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/0c6c2bf1aae699d373e56ded903cd9765e34283e857efb0824bbea5da9dc94cd/image.jpg",
@@ -24326,6 +24419,39 @@ const sampleProperties = [
       "https://www.homely.com.au/img-variant/l-AgentBox-13100753-26.jpg?named-transform=webHeroTransform&version=8OYCzUM_.JXPUx5VXwgdUAqDIiQ1ZoGH"
     ],
     "listingUrl": "https://www.homely.com.au/homes/100-gulf-point-drive-north-haven-sa-5018/13100753",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-north-haven-17a-alexa",
+    "title": "17a Alexa Road",
+    "suburb": "North Haven",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 30,
+    "daysOnMarket": 14,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "priceSource": "domain_exact_listing",
+    "landSize": 315,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Prime marina frontage",
+      "Water at the doorstep",
+      "Marina and sunset views",
+      "Front-row coastal North Haven position"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 June 2026 from the exact direct listing URL, advertised as waterfront living with marina views, sunsets and dolphins, prime marina frontage, private water, and the marina quite literally at the doorstep. Domain lists Contact Agent, 315sqm land and 14 days on market. Realestate.com.au North Haven market insights showed 9% recent house growth and 3% unit growth, and Domain showed a $921k median for 3 bedroom houses with no five-year evidence supporting a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/MEyL0cavR8w76xgOH5ZokzYrXPk%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020823095_1_1_250507_053440-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/MEyL0cavR8w76xgOH5ZokzYrXPk%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020823095_1_1_250507_053440-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/hStAesDR_avC1D3FFPaSpYPi2R4%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020823095_29_3_250507_053444-w2480-h3508",
+      "https://rimh2.domainstatic.com.au/JGfF-kMKYFyAvXpOk4W_ySFVsZo%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020823095_2_1_250507_053440-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/sFY065XccEQuT667aD-2Vj3cpgE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020823095_3_1_250507_053440-w2000-h1333"
+    ],
+    "listingUrl": "https://www.domain.com.au/17a-alexa-road-north-haven-sa-5018-2020823095",
     "investmentStar": false
   },
   {
@@ -25812,13 +25938,12 @@ const sampleProperties = [
       "Major city"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing re-verified 15 May 2026 after the Largs Bay sweep found the exact listing live again. Advertised as an oceanfront corner site directly opposite the beach at Lady Gowrie Drive and Harold Street, with uninterrupted Gulf St Vincent views, Local Heritage character and contact-agent pricing. Five-year Largs Bay growth evidence checked; available evidence did not support a verified above-15% annual investment flag.",
+    "notes": "Active realestate.com.au listing re-verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Advertised as an oceanfront corner site directly opposite the beach at Lady Gowrie Drive and Harold Street, with uninterrupted Gulf St Vincent views, Local Heritage character and contact-agent pricing. Current realestate.com.au Largs Bay suburb-profile evidence reports 19.6% annual compound growth for houses, supporting the investment flag as suburb-level evidence rather than a listing-specific forecast.",
     "image": "https://i2.au.reastatic.net/800x600/1d1f74de3879481baff76205b9118d6f8101954279136e951d4e48337f6ebd46/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1d1f74de3879481baff76205b9118d6f8101954279136e951d4e48337f6ebd46/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-largs%2Bbay-149407652",
-    "investmentStar": false,
     "priceLabel": "$2.5m-$3m",
     "priceSource": "realestate_hidden_range",
     "hiddenPriceCode": "021S",
@@ -25826,7 +25951,10 @@ const sampleProperties = [
       "min": 2500000,
       "max": 3000000
     },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "hiddenPriceUpdatedAt": "2026-05-15",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 19.6,
+    "investmentReason": "The realestate.com.au Largs Bay suburb profile reports 19.6% annual compound growth for houses, above the 15% investment threshold."
   },
   {
     "id": "sa-largs-bay-lot-7-lady-gowrie",
@@ -25848,8 +25976,11 @@ const sampleProperties = [
       "Surf club opposite"
     ],
     "status": "active",
-    "notes": "Beachfront house-and-land opportunity directly opposite Largs Bay Surf Life Saving Club, advertised as contact agent.",
+    "notes": "Active realestate.com.au listing re-verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Beachfront house-and-land opportunity directly opposite Largs Bay Surf Life Saving Club, advertised as contact agent. Current realestate.com.au Largs Bay suburb-profile evidence reports 19.6% annual compound growth for houses, supporting the investment flag as suburb-level evidence rather than a listing-specific forecast.",
     "image": "https://i2.au.reastatic.net/800x600/b6f458cda61d5d7d1ec1d173150f79f237ef4cf016d61148cc2fbbd402422dc9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b6f458cda61d5d7d1ec1d173150f79f237ef4cf016d61148cc2fbbd402422dc9/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-largs%2Bbay-150457520",
     "priceLabel": "$2m-$2.5m",
     "priceSource": "realestate_hidden_range",
@@ -25858,7 +25989,10 @@ const sampleProperties = [
       "min": 2000000,
       "max": 2500000
     },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "hiddenPriceUpdatedAt": "2026-05-15",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 19.6,
+    "investmentReason": "The realestate.com.au Largs Bay suburb profile reports 19.6% annual compound growth for houses, above the 15% investment threshold."
   },
   {
     "id": "sa-largs-bay-lot-6-lady-gowrie",
@@ -25880,8 +26014,8 @@ const sampleProperties = [
       "New build"
     ],
     "status": "active",
-    "notes": "Beachfront house-and-land opportunity opposite Largs Bay Surf Life Saving Club, with the sand moments from the doorstep. Price currently advertised as contact agent.",
-    "image": "https://i2.au.reastatic.net/800x600/f956c845bcfc2c7339c634ef466c9f69932168b8ee196c179bbd3499b90f04a1/image.jpg",
+    "notes": "Active realestate.com.au listing re-verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Beachfront house-and-land opportunity opposite Largs Bay Surf Life Saving Club, with the sand moments from the doorstep. Price currently advertised as contact agent. Current realestate.com.au Largs Bay suburb-profile evidence reports 19.6% annual compound growth for houses, supporting the investment flag as suburb-level evidence rather than a listing-specific forecast.",
+    "image": "https://i2.au.reastatic.net/800x600/c46d463cc3c7aa95cdff7127076cf09163e0c6abcf3a57d3f3bfea777572aba0/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/c46d463cc3c7aa95cdff7127076cf09163e0c6abcf3a57d3f3bfea777572aba0/image.jpg"
     ],
@@ -25893,7 +26027,10 @@ const sampleProperties = [
       "min": 2500000,
       "max": 3000000
     },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "hiddenPriceUpdatedAt": "2026-05-15",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 19.6,
+    "investmentReason": "The realestate.com.au Largs Bay suburb profile reports 19.6% annual compound growth for houses, above the 15% investment threshold."
   },
   {
     "id": "sa-largs-bay-lot-5-lady-gowrie",
@@ -25915,8 +26052,11 @@ const sampleProperties = [
       "New build"
     ],
     "status": "under_offer",
-    "notes": "Beachfront house-and-land opportunity opposite Largs Bay Surf Life Saving Club, moments from the sand. Price advertised as $2,475,000; marked under offer after the Largs Bay portal result page showed an under-offer label.",
+    "notes": "Beachfront house-and-land opportunity opposite Largs Bay Surf Life Saving Club, moments from the sand. Kept hidden after the 15 Jun 2026 direct page showed an *ON HOLD* title and the Largs Bay portal result page showed an under-offer label.",
     "image": "https://i2.au.reastatic.net/800x600/f956c845bcfc2c7339c634ef466c9f69932168b8ee196c179bbd3499b90f04a1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f956c845bcfc2c7339c634ef466c9f69932168b8ee196c179bbd3499b90f04a1/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-largs%2Bbay-149617372"
   },
   {
@@ -25941,7 +26081,7 @@ const sampleProperties = [
       "Within 30 minutes of Adelaide"
     ],
     "status": "active",
-    "notes": "Active Domain and realestate.com.au listing verified 24 May 2026 from exact direct listing pages. Domain shows the home first listed on 19 May 2026, active for sale with Best Offer pricing, 786sqm land, Beachfront and Direct Beach Access features. Realestate.com.au describes an absolute beachfront Largs Bay esplanade position with uninterrupted sea views and a 19 May 2026 publication date. No numeric advertised price was disclosed on the Domain direct listing, so price is null. Largs Bay suburb growth evidence was checked; realestate.com.au/property.com.au market data shows Largs Bay houses at 26.3% annual compound growth, supporting the investment flag as suburb-level evidence rather than a listing-specific forecast.",
+    "notes": "Active Domain and realestate.com.au listing re-verified 15 Jun 2026 from exact direct listing pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Domain shows the home first listed on 19 May 2026, active for sale with Best Offer pricing, 786sqm land, Beachfront and Direct Beach Access features. Realestate.com.au describes an absolute beachfront Largs Bay esplanade position with uninterrupted sea views and a 19 May 2026 publication date. No numeric advertised price was disclosed on the Domain direct listing, so price is null. Current realestate.com.au Largs Bay suburb-profile evidence reports 19.6% annual compound growth for houses, supporting the investment flag as suburb-level evidence rather than a listing-specific forecast.",
     "image": "https://rimh2.domainstatic.com.au/KT_Gj2y4Vc2UH_Z7yHunz1K4iTE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020853516_1_1_260519_062806-w7008-h4672",
     "images": [
       "https://rimh2.domainstatic.com.au/KT_Gj2y4Vc2UH_Z7yHunz1K4iTE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020853516_1_1_260519_062806-w7008-h4672",
@@ -25951,8 +26091,8 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.domain.com.au/220-lady-gowrie-drive-largs-bay-sa-5016-2020853516",
     "investmentStar": true,
-    "investmentAnnualGrowth5Yr": 26.3,
-    "investmentReason": "Largs Bay houses show 26.3% annual compound growth in current realestate.com.au/property.com.au suburb data, above the 15% investment threshold."
+    "investmentAnnualGrowth5Yr": 19.6,
+    "investmentReason": "The realestate.com.au Largs Bay suburb profile reports 19.6% annual compound growth for houses, above the 15% investment threshold."
   },
   {
     "id": "sa-west-beach-21a-seaview",
@@ -28434,6 +28574,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "price": 764000,
+    "priceLabel": "$739,000 - $789,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -28444,10 +28585,42 @@ const sampleProperties = [
       "Apartment",
       "Major city"
     ],
-    "status": "unavailable",
-    "notes": "Baju Apartments residence in Henley Square's beachfront precinct, advertised as steps to the beachfront with beach, cafes and restaurants at the doorstep. Price is the midpoint of the advertised range. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing reverified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Baju Apartments residence in Henley Square's beachfront precinct, advertised as steps to the beachfront, boutique shopping and dining at the doorstep, an easy stroll to the beach via seafront restaurants and Henley Beach Surf Life Saving Club nearby. Price is the midpoint of the visible $739,000 - $789,000 guide. No public land/block size is published for the strata apartment, so landSize is null. The direct realestate.com.au hero photo was verified from the exact listing page; additional direct gallery image URLs were not exposed in the accessible page view. Available same-page suburb market evidence was checked and did not substantiate a greater than 15% annual five-year investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/8f584e200915a229d43178f95882ac40b803962d0515837c720b5030b2ed4ce5/image.jpg",
-    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-henley%2Bbeach-147657048"
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8f584e200915a229d43178f95882ac40b803962d0515837c720b5030b2ed4ce5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-henley%2Bbeach-147657048",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-henley-247-seaview",
+    "title": "247 Seaview Road",
+    "suburb": "Henley Beach",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 20,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 100,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Seaview Road front-row beachside position in Henley Square",
+      "Listing describes a prime beachside location in the heart of Henley",
+      "Secure commercial tenancy plus upstairs residential/Airbnb potential",
+      "100sqm landholding with 180sqm building size"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Henley Beach mixed-use house listing verified 15 Jun 2026 from the exact direct listing URL and the exact Henley Beach realestate.com.au suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Included as a Seaview Road front-row beachside/Henley Square property; the listing advertises a prime beachside location in the heart of Henley Square, a secure commercial tenancy, upstairs two-bedroom residence/Airbnb potential, 100sqm land and 180sqm building size. Public pricing is Contact Agent and the accessible page view did not expose a marketing_price_range, so price remains null. The direct realestate.com.au hero photo was verified from the exact listing page; additional direct gallery image URLs were not exposed in the accessible page view. Available same-page suburb market evidence was checked and did not substantiate a greater than 15% annual five-year investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/0c8a7b830f128f6011ac09e4e640f59e1c144a60a5d1c915f58c914457a06367/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0c8a7b830f128f6011ac09e4e640f59e1c144a60a5d1c915f58c914457a06367/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-henley%2Bbeach-148380556",
+    "investmentStar": false
   },
   {
     "id": "sa-henley-beach-south-113a-esplanade",
@@ -28482,6 +28655,49 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "sa-henley-beach-south-1-117-esplanade",
+    "title": "1/117 Esplanade",
+    "suburb": "Henley Beach South",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-05-26",
+    "price": null,
+    "priceLabel": "Contact Agent; best offers due 16 Jun 2026 at 11am unless sold prior",
+    "landSize": 324,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Torrens-titled Esplanade residence in a commanding beachfront position",
+      "Uninterrupted gulf and coastline views from sea-facing living zones",
+      "Exclusive Esplanade frontage with the beach and coastal trail at the front door",
+      "Five-bedroom layout with rear Seaview Road access to double garaging"
+    ],
+    "status": "active",
+    "notes": "Active Domain and realestate.com.au Henley Beach South listing verified 15 Jun 2026 from exact direct listing pages and the exact portal suburb result pages. Domain lists Contact Agent, 5 beds, 2 baths, 2 parking, 225m2 internal size and 324m2 land; realestate.com.au advertises exclusive Esplanade frontage, direct Esplanade access, panoramic gulf views, uninterrupted water views, a commanding beachfront position and rear Seaview Road garage access. REA page text did not expose a marketing_price_range in the accessible view and local network fetches were blocked, so price remains null with the visible contact-agent label. Five-year suburb and comparable growth evidence was checked; available evidence did not credibly support a greater than 15% annual investment flag for this house.",
+    "image": "https://rimh2.domainstatic.com.au/-U2SgAgm33-kL2_mL6HFLDVuUAk=/720x540/filters:format(webp):quality(85)/2020868160_1_1_260525_110011-w4500-h3000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/-U2SgAgm33-kL2_mL6HFLDVuUAk=/720x540/filters:format(webp):quality(85)/2020868160_1_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/L48T58dAhYyndBvdqS8wyZG-do8=/720x540/filters:format(webp):quality(85)/2020868160_2_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/CjKepuuHeKUeep2f52RnjDpVngs=/720x540/filters:format(webp):quality(85)/2020868160_3_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/UdOtNr2Yf8NgxukPDn8J90d-5sY=/720x540/filters:format(webp):quality(85)/2020868160_4_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/MGMIm709tAIVFDwAd6ngEv7tjt8=/720x540/filters:format(webp):quality(85)/2020868160_5_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/Svo4c_vFqM5v8wlJjDmTczYhZRk=/720x540/filters:format(webp):quality(85)/2020868160_6_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/n16D2O0pxSTGTdPQ1OXUQPkpJRQ=/720x540/filters:format(webp):quality(85)/2020868160_7_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/3ZRxO_-LjUTZRKUsHMLg6h2pvRo=/720x540/filters:format(webp):quality(85)/2020868160_8_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/MciUoaj1FgRz6QErnZTtrzAu1ig=/720x540/filters:format(webp):quality(85)/2020868160_9_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/gWjSNQwJyQyPRCOnMxZRvUeyCXo=/720x540/filters:format(webp):quality(85)/2020868160_10_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/w19rTW9apUjXTxsXIdamRTpqEF0=/720x540/filters:format(webp):quality(85)/2020868160_11_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/Lg3wZ3JiAwiSTPPC8oaTYp_cLkY=/720x540/filters:format(webp):quality(85)/2020868160_12_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/5PvfoYQ5JP6cd0EtmtzSdoloLPI=/720x540/filters:format(webp):quality(85)/2020868160_13_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/Rd8cz6sKTfFoEhs200eUS_1-Z5Q=/720x540/filters:format(webp):quality(85)/2020868160_14_1_260525_110011-w4500-h3000",
+      "https://rimh2.domainstatic.com.au/BxHcBTabK3T6WNwSfQk4Wml0in4=/720x540/filters:format(webp):quality(85)/2020868160_15_1_260525_110011-w4500-h3000"
+    ],
+    "listingUrl": "https://www.domain.com.au/1-117-esplanade-henley-beach-south-sa-5022-2020868160",
+    "investmentStar": false
+  },
+  {
     "id": "sa-henley-beach-south-21-180-184-seaview",
     "title": "21/180-184 Seaview Road",
     "suburb": "Henley Beach South",
@@ -28489,8 +28705,8 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "listedDate": "2026-05-06",
-    "price": 595000,
-    "priceLabel": "$595k",
+    "price": 575000,
+    "priceLabel": "$575k | New Price",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -28502,12 +28718,53 @@ const sampleProperties = [
       "Low-maintenance two-bedroom unit with pool, BBQ courtyard and short-stay or fixed-term rental appeal"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Henley Beach South unit listing verified 24 May 2026 from the exact direct listing URL and cross-checked on the realestate.com.au exact suburb result page. The listing advertises ocean views and beach access, a position metres from the sand, beachfront-style living, a private balcony with ocean views, beach at the doorstep, nearby coastal walking trails, and Airbnb or fixed-term lease investment options. No public land/block size is published for the strata unit, so landSize is null. The direct realestate.com.au hero photo was verified from the exact listing page; additional direct gallery image URLs were not exposed in the accessible page view. Five-year/unit growth evidence was checked: property.com.au/realestate.com.au reports 19.2% annual compound growth for Henley Beach South units, while Onthehouse reports 92.62% total unit growth over five years, which does not clearly annualise above 15%; no investment star has been applied.",
+    "notes": "Active realestate.com.au Henley Beach South unit listing reverified 15 Jun 2026 from the exact direct listing URL and cross-checked on the realestate.com.au exact suburb result page. The visible price is now $575k | New Price. The listing advertises ocean views and beach access, a position metres from the sand, beachfront-style living, a private balcony with ocean views, beach at the doorstep, nearby coastal walking trails, and Airbnb or fixed-term lease investment options. No public land/block size is published for the strata unit, so landSize is null. The direct realestate.com.au hero photo was verified from the exact listing page; additional direct gallery image URLs were not exposed in the accessible page view. Five-year/unit growth evidence was checked: property.com.au/realestate.com.au reports 19.2% annual compound growth for Henley Beach South units, while Onthehouse reports 92.62% total unit growth over five years, which does not clearly annualise above 15%; no investment star has been applied.",
     "image": "https://i2.au.reastatic.net/800x600/f0221031e31bd2dd6ebe26a5ebd62530a340980cba57ab643613d5bc4f042232/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/f0221031e31bd2dd6ebe26a5ebd62530a340980cba57ab643613d5bc4f042232/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-sa-henley%2Bbeach%2Bsouth-151120952",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-henley-beach-south-28-180-184-seaview",
+    "title": "28/180-184 Seaview Road",
+    "suburb": "Henley Beach South",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-04-30",
+    "price": 589000,
+    "priceLabel": "$589,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Top-floor apartment in the 180-184 Seaview Road beachside complex",
+      "Private balcony with elevated sea views over Henley Beach South",
+      "Moments from the sand, surf, cafes and coastal walking trails",
+      "Renovated two-bedroom strata apartment with tenant income and pool access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Henley Beach South apartment listing verified 15 Jun 2026 from exact direct listing pages and the exact portal suburb result pages. The listing advertises a top-floor, fully renovated apartment capturing sea views, a private balcony with elevated outlooks, a location moments from the sand and surf, cafes and coastal walking trails, and a rare sea-view apartment in a tightly held beachside pocket. No public land/block size is published for the strata apartment, so landSize is null. Domain exposed direct current property photo URLs for the listing gallery; floorplans and non-property images were excluded. Five-year/unit growth evidence was checked, but available evidence did not credibly support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/R5xGAZApZzO-loyySYQx1UXyUKQ=/720x540/filters:format(webp):quality(85)/2020802959_1_1_260521_022940-w1536-h1024",
+    "images": [
+      "https://rimh2.domainstatic.com.au/R5xGAZApZzO-loyySYQx1UXyUKQ=/720x540/filters:format(webp):quality(85)/2020802959_1_1_260521_022940-w1536-h1024",
+      "https://rimh2.domainstatic.com.au/0e3qg_aLiVXvIZZzKTKK03pvOPg=/720x540/filters:format(webp):quality(85)/2020802959_2_1_260521_023238-w1448-h1086",
+      "https://rimh2.domainstatic.com.au/UogRdwnRfCQPLok24tXOUtjLLo8=/720x540/filters:format(webp):quality(85)/2020802959_1_1_260430_045531-w1536-h1024",
+      "https://rimh2.domainstatic.com.au/tTCDw7GqzRUTTbT--bKtpHLnXXQ=/720x540/filters:format(webp):quality(85)/2020802959_2_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/FHEwyEb639rAdtBNJJ8P8M4Yh9o=/720x540/filters:format(webp):quality(85)/2020802959_3_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/XxPgkoIEJNu3ZDaBIqAV2ZMvxwg=/720x540/filters:format(webp):quality(85)/2020802959_4_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/Ommi2xQ8LwUKOVjgWhCgAplOKb8=/720x540/filters:format(webp):quality(85)/2020802959_5_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/QT_yw-JUvKGddo1ngyABZHYI3Tk=/720x540/filters:format(webp):quality(85)/2020802959_6_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/ZKebpE0oTzPBuHsGFXGFkb2WwRI=/720x540/filters:format(webp):quality(85)/2020802959_7_1_260430_045530-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/7SppxVHFjnb8B5_1kEd96gKWwoM=/720x540/filters:format(webp):quality(85)/2020802959_8_1_260430_045530-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/9xcuCXt5B7s8NpwcvTO2DA56gQA=/720x540/filters:format(webp):quality(85)/2020802959_10_1_260430_045531-w6000-h4000",
+      "https://rimh2.domainstatic.com.au/DeMMFgSeSfN3itO00W8SsMA80dI=/720x540/filters:format(webp):quality(85)/2020802959_11_1_260430_045531-w736-h489",
+      "https://rimh2.domainstatic.com.au/q51suXkDf1JCvmihGqoVFEio4vg=/720x540/filters:format(webp):quality(85)/2020802959_12_1_260521_023238-w1448-h1086"
+    ],
+    "listingUrl": "https://www.domain.com.au/28-180-184-seaview-road-henley-beach-south-sa-5022-2020802959",
     "investmentStar": false
   },
   {
@@ -31435,6 +31692,35 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/379fb4c947fb2cbe8b0212f50c5ce7cd939fb8882d9b7f041c6b5a3f99cd3e16/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-tennyson-150982880",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-tennyson-lot-10-seaview",
+    "title": "Lot 10 Seaview Road",
+    "suburb": "Tennyson",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 25,
+    "listedDate": "2026-06-12",
+    "price": 1799900,
+    "priceLabel": "From $1,799,900",
+    "landSize": 301,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Seaview Road beachside house-and-land package",
+      "Moments from the Tennyson shoreline",
+      "Beachside lifestyle with waves nearby",
+      "301m2 four-bedroom package"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tennyson house-and-land listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Lot 10 Seaview Road, From $1,799,900, 301m2, relaxed coastal living just moments from the shoreline in sought-after seaside Tennyson, and the tranquil sound of waves nearby. The listing does not expressly advertise private direct beach access or no-road frontage. Available Tennyson five-year growth evidence was checked during the sweep; no credible source found supported a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/07d07a9e58525c01d5090a951abbce255cb455eda4ef41769a570f5517138b67/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/07d07a9e58525c01d5090a951abbce255cb455eda4ef41769a570f5517138b67/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-tennyson-150964460",
     "investmentStar": false
   },
   {
@@ -40535,8 +40821,8 @@ const sampleProperties = [
       "Modern country homestead",
       "Tourism and city-access upside"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Canungra/Sarabah lifestyle listing advertised as a 30.35ha / 75-acre farm with 1.2km frontage to Canungra Creek, an architectural five-bedroom homestead, sheds, creek flats, ridge country, and access to Canungra, Gold Coast beaches, theme parks and Brisbane. Price advertised as $3,950,000.",
+    "status": "under_offer",
+    "notes": "Exact realestate.com.au Canungra/Sarabah lifestyle listing rechecked 15 June 2026 and now marked Under offer, so it is hidden from active results. Listing advertised a 30.35ha / 75-acre farm with 1.2km frontage to Canungra Creek, an architectural five-bedroom homestead, sheds, creek flats, ridge country, and access to Canungra, Gold Coast beaches, theme parks and Brisbane. Price advertised as $3,950,000.",
     "image": "https://i2.au.reastatic.net/800x600/ee04406ec57076800e667fe43009e3b804de57696a0d549c61d45cbdb44ca482/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/ee04406ec57076800e667fe43009e3b804de57696a0d549c61d45cbdb44ca482/image.jpg",
@@ -55110,7 +55396,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 30,
     "listedDate": "2026-02-18",
-    "price": 3650000,
+    "price": 3250000,
     "priceLabel": "For Sale $3,650,000",
     "landSize": null,
     "beachfront": true,
@@ -60853,6 +61139,166 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "vic-geelong-908-35-corio",
+    "title": "908/35 Corio Street",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 702000,
+    "priceLabel": "$702,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cunningham Place waterfront apartment",
+      "Between Geelong CBD and Corio Bay foreshore",
+      "Advertised Corio Bay and Cunningham Pier water views",
+      "Strata apartment stock with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises 908/35 Corio Street as an apartment in Cunningham Place, resting between the heart of the city and the shores of Corio Bay, with most apartments enjoying uninterrupted water views across the bay and Cunningham Pier. Listed price is $702,000; strata land/block size is not published, so landSize is TBA. Five-year Geelong suburb/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/VwseTom-_0Isc-vNPUs56h0RWwk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_7_1_250206_083415-w1500-h1000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/VwseTom-_0Isc-vNPUs56h0RWwk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_7_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/JFRE3b78kWAIbYjXJBQoBDYbgrU=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2019239838_7_3_250425_054938-w1000-h667",
+      "https://rimh2.domainstatic.com.au/2_ztGkq9qa4lv98V8eY0PZ7NOyg=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_2_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/l88Gs_mXWsKxTVVkKOXmSx3r_fA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_4_1_250206_083415-w1500-h1000"
+    ],
+    "listingUrl": "https://www.domain.com.au/908-35-corio-street-geelong-vic-3220-2019239838",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-geelong-1202-35-corio",
+    "title": "1202/35 Corio Street",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 1680000,
+    "priceLabel": "$1,680,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cunningham Place waterfront apartment",
+      "Between Geelong CBD and Corio Bay foreshore",
+      "Advertised Corio Bay and Cunningham Pier water views",
+      "Strata apartment stock with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises 1202/35 Corio Street as a luxury two-bedroom Cunningham Place apartment, resting between the heart of the city and the shores of Corio Bay, with most apartments enjoying uninterrupted water views across the bay and Cunningham Pier. Listed price is $1,680,000; strata land/block size is not published, so landSize is TBA. Five-year Geelong suburb/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/Mt4qSBeJMdf4pDbsumVa7pf-EJA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873771_10_1_250206_083415-w1500-h1000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/Mt4qSBeJMdf4pDbsumVa7pf-EJA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873771_10_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/W7nfX1f9azvb3irAJuQi7h5bZyk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873771_1_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/5pKYGbc_Sbtb-sQXjzrp-c8QJUk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873771_2_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/PlEbUiyQMIypk2FLA3XAAVZDuk4=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873771_3_1_250206_083415-w1500-h1000"
+    ],
+    "listingUrl": "https://www.domain.com.au/1202-35-corio-street-geelong-vic-3220-2018873771",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-geelong-1208-35-corio",
+    "title": "1208/35 Corio Street",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 1140000,
+    "priceLabel": "$1,140,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cunningham Place waterfront apartment",
+      "Between Geelong CBD and Corio Bay foreshore",
+      "Advertised Corio Bay and Cunningham Pier water views",
+      "Strata apartment stock with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises 1208/35 Corio Street as a luxury two-bedroom Cunningham Place apartment, resting between the heart of the city and the shores of Corio Bay, with most apartments enjoying uninterrupted water views across the bay and Cunningham Pier. Listed price is $1,140,000; strata land/block size is not published, so landSize is TBA. Five-year Geelong suburb/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/vokz8vCPiDLf92C0CgJ2XSA6y9M=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_7_2_250206_083415-w1500-h1000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/vokz8vCPiDLf92C0CgJ2XSA6y9M=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_7_2_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/HAdYIPnRnm6uQj4C5WWbge1zqOo=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_11_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/2_ztGkq9qa4lv98V8eY0PZ7NOyg=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_2_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/NHM4GFcu7qBAZXm4-GtCe2VBfdw=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873772_3_1_250206_083415-w1500-h1000"
+    ],
+    "listingUrl": "https://www.domain.com.au/1208-35-corio-street-geelong-vic-3220-2018873772",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-geelong-1404-35-corio",
+    "title": "1404/35 Corio Street",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 3480000,
+    "priceLabel": "$3,480,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cunningham Place skyhome",
+      "Between Geelong CBD and Corio Bay foreshore",
+      "Advertised Corio Bay and Cunningham Pier water views",
+      "Strata apartment stock with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises 1404/35 Corio Street as a Cunningham Place skyhome, resting between the heart of the city and the shores of Corio Bay, with most apartments enjoying uninterrupted water views across the bay and Cunningham Pier. Listed price is $3,480,000; strata land/block size is not published, so landSize is TBA. Five-year Geelong suburb/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/VQanDpnnUsEMfLHbY48U6ZXsn2g=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873880_7_1_250206_083415-w1500-h1000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/VQanDpnnUsEMfLHbY48U6ZXsn2g=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873880_7_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/FsEqinOt9cJ3Wn7kNVdfBzAt79M=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873880_1_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/XZmOOcM8xsE5wtz_FCrdzl-hdJo=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873880_2_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/yE6__EE8XkGtyiZCCmUg4sPg950=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873880_3_1_250206_083415-w1500-h1000"
+    ],
+    "listingUrl": "https://www.domain.com.au/1404-35-corio-street-geelong-vic-3220-2018873880",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-geelong-1601-35-corio",
+    "title": "1601/35 Corio Street",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 4950000,
+    "priceLabel": "$4,950,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Cunningham Place top-floor penthouse",
+      "Between Geelong CBD and Corio Bay foreshore",
+      "Advertised Corio Bay and Cunningham Pier water views",
+      "Strata apartment stock with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises 1601/35 Corio Street as the last top-floor penthouse available in Cunningham Place, resting between the heart of the city and the shores of Corio Bay, with most apartments enjoying uninterrupted water views across the bay and Cunningham Pier. Listed price is $4,950,000; strata land/block size is not published, so landSize is TBA. Five-year Geelong suburb/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/WEISUih52oFnvVkS-NSq9J7mXew=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_8_1_250206_083415-w1500-h1000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/WEISUih52oFnvVkS-NSq9J7mXew=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_8_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/2Lh1K5_QbMPeAyl0jkyQuNjv5l8=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_12_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/kab_t6Yq-LcyJl5p4vE1eYSbkBs=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_2_1_250206_083415-w1500-h1000",
+      "https://rimh2.domainstatic.com.au/eEY9z4ocNDWibj50cVvrO6GcLEk=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2018873696_3_1_250206_083415-w1500-h1000"
+    ],
+    "listingUrl": "https://www.domain.com.au/1601-35-corio-street-geelong-vic-3220-2018873696",
+    "investmentStar": false
+  },
+  {
     "id": "vic-anglesea-43-odonohue",
     "title": "43 O'Donohue Road",
     "suburb": "Anglesea",
@@ -61319,25 +61765,25 @@ const sampleProperties = [
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 105,
     "daysOnMarket": null,
-    "price": 1350000,
-    "landSize": 705,
+    "price": 4200000,
+    "priceLabel": "$4,200,000",
+    "landSize": 2102,
     "beachfront": true,
     "noRoadFrontage": false,
     "directBeachAccess": true,
     "factors": [
-      "Walk to Point Roadknight beach",
-      "Melba Parade coastal address",
-      "Approved extension plans",
-      "Large garden block"
+      "Prestigious Point Roadknight sand-dune precinct",
+      "Large 2,102sqm Melba Parade beach-home holding",
+      "Potential subdivision upside STCA",
+      "Direct coastal lifestyle near Point Roadknight sand"
     ],
     "status": "active",
-    "notes": "Active Domain house listing advertised as a coastal oasis within a walk of the beach, close to Great Ocean Road and with council-approved architect-designed extension plans. Price is the midpoint of the advertised $1,300,000 - $1,400,000 range. Five-year Anglesea suburb/comparable growth evidence checked; current realestate.com.au and property.com.au data did not support a greater than 15% annual investment flag.",
-    "image": "https://rimh2.domainstatic.com.au/CHUqIZ3_6Tcd2yHvI6sYY4WdqbI=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2019757004_1_1_250808_041638-w1760-h1173",
+    "notes": "Active Domain listing re-verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The current listing advertises a five-bedroom Melba Parade beach home among the Point Roadknight sand dunes, 2,102sqm land, tennis court, $4,200,000 price and subdivision potential STCA. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/KWsdECN-O9047Ex9DozSV6Lo7CI%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2019757004_23_1_250130_121123-w1600-h1066",
     "images": [
-      "https://rimh2.domainstatic.com.au/CHUqIZ3_6Tcd2yHvI6sYY4WdqbI=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2019757004_1_1_250808_041638-w1760-h1173",
-      "https://rimh2.domainstatic.com.au/7N6cq2N__dcCxxyD0sHVO94L1Pc=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2019757004_1_29_250808_041646-w1760-h1173",
-      "https://rimh2.domainstatic.com.au/Z8IAxG986J2kjMg6FqSRd518Cio=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2019757004_1_2_250808_041638-w1760-h1173",
-      "https://rimh2.domainstatic.com.au/DWAJH4NIFV1kCYiUalS-jMFzn8g=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2019757004_1_3_250808_041638-w1760-h1173"
+      "https://rimh2.domainstatic.com.au/KWsdECN-O9047Ex9DozSV6Lo7CI%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2019757004_23_1_250130_121123-w1600-h1066",
+      "https://rimh2.domainstatic.com.au/7Qu0GmEtAyl-MTKmjSReo1TK_tk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2019757004_24_3_250130_121123-w848-h1200",
+      "https://rimh2.domainstatic.com.au/HQSp7TNhPEaz-IpKlU4WeAZG5dE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2019757004_22_1_250130_121123-w1600-h1066"
     ],
     "listingUrl": "https://www.domain.com.au/152-melba-parade-anglesea-vic-3230-2019757004",
     "investmentStar": false
@@ -61361,8 +61807,8 @@ const sampleProperties = [
       "Contemporary family home",
       "Large entertaining deck"
     ],
-    "status": "active",
-    "notes": "Active Domain house listing advertised as a contemporary coastal family home with quick, easy access to Anglesea River and Main Beach. Price is the midpoint of the advertised $1,700,000 - $1,800,000 range. Five-year Anglesea suburb/comparable growth evidence checked; current realestate.com.au and property.com.au data did not support a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Exact Domain listing rechecked 15 Jun 2026 and now shows sold by private treaty on 28 May 2026 for $2,500,000. Marked sold so it is hidden from the active app.",
     "image": "https://rimh2.domainstatic.com.au/2NeO7PzCcTogP0JZpYmKLONsHSA=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2020295517_1_1_251020_051749-w3000-h2000",
     "images": [
       "https://rimh2.domainstatic.com.au/2NeO7PzCcTogP0JZpYmKLONsHSA=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2020295517_1_1_251020_051749-w3000-h2000",
@@ -61464,6 +61910,241 @@ const sampleProperties = [
       "https://rimh2.domainstatic.com.au/97gmU00AMshHR-JG8UeIeAywO9c=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2020709015_1_3_251211_102934-w3000-h2000"
     ],
     "listingUrl": "https://www.domain.com.au/46-eleventh-avenue-anglesea-vic-3230-2020709015",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-2-gardiner",
+    "title": "2 Gardiner Avenue",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 4350000,
+    "priceLabel": "$4,200,000 - $4,500,000",
+    "landSize": 920,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Elite beachside position near Main Beach",
+      "Surf club and amenities around the corner",
+      "Ocean-view balcony and coastal entertaining deck",
+      "Large 920sqm resort-style house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 2 Gardiner Avenue as an elite beachside Anglesea position with Main Beach, the surf club and amenities around the corner, ocean-view living, pool, lift and approx. 920sqm land. Price is the midpoint of the advertised $4,200,000 - $4,500,000 guide. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/c8a460b3f528906d48009e9709eac5436cda6c828dc910234cf8a13022fbfe69/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c8a460b3f528906d48009e9709eac5436cda6c828dc910234cf8a13022fbfe69/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-146994928",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-23-great-ocean",
+    "title": "23 Great Ocean Road",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1875000,
+    "priceLabel": "$1,875,000",
+    "landSize": 870,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Great Ocean Road address",
+      "Sweeping ocean and Anglesea River mouth views",
+      "Short stroll to Main Beach and river trails",
+      "Rare slip-road access on 870sqm"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a Great Ocean Road home with sweeping views over the Anglesea River mouth, Point Roadknight and ocean, short-stroll access to Main Beach and trails, rare slip-road access and approx. 870sqm land. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/becbbc6128c65760698f51c2979f1a978685d3f4fd3ad032bc6852151b24d268/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/becbbc6128c65760698f51c2979f1a978685d3f4fd3ad032bc6852151b24d268/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-148693956",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-33-tenth",
+    "title": "33 Tenth Avenue",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1995000,
+    "priceLabel": "$1,995,000",
+    "landSize": 653,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Point Roadknight ocean views",
+      "Tenth Avenue leads straight to the beach",
+      "Walk from front door to sand in minutes",
+      "Advertised Airbnb income upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Point Roadknight ocean views including the surf break, Tenth Avenue leading straight to Point Roadknight beach, front-door-to-sand access in minutes, strong Airbnb income and approx. 653sqm land. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/31ebee8878cef56a6039fbf686deeff2e6ae7f5a958918909193d8e6a67e8e6a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/31ebee8878cef56a6039fbf686deeff2e6ae7f5a958918909193d8e6a67e8e6a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-149670420",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-5-first",
+    "title": "5 First Avenue",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 2750000,
+    "priceLabel": "$2,750,000",
+    "landSize": 1574,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean views from Point Roadknight to Main Beach",
+      "Heathland directly across the road",
+      "Walking track across Great Ocean Road",
+      "Private track access to Harvey Street"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises ocean views from Point Roadknight to Main Beach, protected heathland directly across the road, easy walking access to Main Beach and Surf Club via a track across Great Ocean Road or private track to Harvey Street, plus approx. 1,574sqm land. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2d436809f6b7cbdeb063c07717e61618fc8d8369f30927780b05efb8469112bc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2d436809f6b7cbdeb063c07717e61618fc8d8369f30927780b05efb8469112bc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-146338264",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-12-sixth",
+    "title": "12 Sixth Avenue",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 2995000,
+    "priceLabel": "$2,995,000",
+    "landSize": 1362,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachside of Great Ocean Road",
+      "Moments from Point Roadknight beach",
+      "Large 1,362sqm coastal block",
+      "High-quality renovated beach house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a coveted beachside-of-Great-Ocean-Road position, moments from the white sandy beach of Point Roadknight, a renovated beach house and approx. 1,362sqm land. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/615846e82b198298c926e1a5d2805c4fdb09805c3386e9f0e3f16629a5af435d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/615846e82b198298c926e1a5d2805c4fdb09805c3386e9f0e3f16629a5af435d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-143813352",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-2-137-great-ocean",
+    "title": "2/137 Great Ocean Road",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "listedDate": "2025-09-11",
+    "price": 2295000,
+    "priceLabel": "$2,295,000",
+    "landSize": 316,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Great Ocean Road coastal position",
+      "Premier position close to beach and river",
+      "Sweeping Anglesea River views",
+      "Low-maintenance lock-up-and-leave design"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Published 11 Sep 2025, the listing advertises a Great Ocean Road residence close to both beach and river, with sweeping Anglesea River views, lift access, solar/battery and approx. 316sqm land. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/6d0c63582a6d48c31b7fa301cf4f20eccff42b43fba70be744c647de6dc15584/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6d0c63582a6d48c31b7fa301cf4f20eccff42b43fba70be744c647de6dc15584/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-vic-anglesea-149015528",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-7-166-great-ocean",
+    "title": "7/166 Great Ocean Road",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 980000,
+    "priceLabel": "$980,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach-side of Great Ocean Road",
+      "Point Roadknight beach and yacht club walk",
+      "Ocean views from kitchen and upstairs bedroom",
+      "Strata townhouse with land size not published"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au townhouse listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises beach-side Great Ocean Road positioning in Point Roadknight, a walk to Point Roadknight beach, yacht club and Surf Coast Walk, plus ocean views from the kitchen and upstairs bedroom. Strata land size is not published, so landSize is TBA. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/56258a74420def0290f66137395459aaa9932a645c5b94d11d762efda60371b0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/56258a74420def0290f66137395459aaa9932a645c5b94d11d762efda60371b0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-vic-anglesea-149423504",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anglesea-80a-melba",
+    "title": "80A Melba Parade",
+    "suburb": "Anglesea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-03-06",
+    "price": 3100000,
+    "priceLabel": "$3,000,000 - $3,200,000",
+    "landSize": 733,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Highly desirable Melba Parade position",
+      "Stroll across the road to Point Roadknight sand",
+      "Moments from Point Roadknight beach",
+      "Large 733sqm beach-house block"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. First listed 6 Mar 2026, the listing advertises an exceptional Melba Parade position, a simple stroll across the road and moments onto Point Roadknight sand, a four-bedroom beach house and 733sqm land. Price is the midpoint of the advertised $3,000,000 - $3,200,000 guide. Five-year Anglesea suburb/comparable growth evidence checked; available REA and Domain suburb evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/qjJyj2QU1C9_bvNuMx-iEohfBcI%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020659953_30_1_250801_101446-w1600-h1066",
+    "images": [
+      "https://rimh2.domainstatic.com.au/qjJyj2QU1C9_bvNuMx-iEohfBcI%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020659953_30_1_250801_101446-w1600-h1066",
+      "https://rimh2.domainstatic.com.au/N0DJP4eJUYzS_1-UEjTWQNMUibE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020659953_31_3_250801_101446-w1066-h1600",
+      "https://rimh2.domainstatic.com.au/xPGgvbvsdnlb8rle77mQ0dXFUcY%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020659953_29_1_250801_101446-w1600-h1066",
+      "https://rimh2.domainstatic.com.au/kw3Z-dpqEqy-7VwJHrDbNK-xO4U%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020659953_28_1_250801_101446-w1600-h1066"
+    ],
+    "listingUrl": "https://www.domain.com.au/80a-melba-parade-anglesea-vic-3230-2020659953",
     "investmentStar": false
   },
   {
@@ -61874,7 +62555,7 @@ const sampleProperties = [
       "1021sqm block"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au house listing advertised with an unimpeded 180-degree ocean and coastline view, a 1021sqm block spanning the slope, 34m frontage to the Great Ocean Road and beach access less than a minute away via a private staircase over title. Price is advertised at $3,650,000. Five-year Lorne growth evidence checked; OnTheHouse reports houses up 24.08% and units up 10.34% over five years, below 15% annualized, so no investment flag.",
+    "notes": "Active realestate.com.au house listing rechecked 15 Jun 2026 and advertised with an unimpeded 180-degree ocean and coastline view, a 1021sqm block spanning the slope, 34m frontage to the Great Ocean Road and beach access less than a minute away via a private staircase over title. Price is advertised at $3,250,000. Five-year Lorne growth evidence checked; OnTheHouse reports houses up 24.08% and units up 10.34% over five years, below 15% annualized, so no investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/c1ba270e4415f6421c5b48a3ccbb237edae5979a103cdc5425177c5670af5003/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/c1ba270e4415f6421c5b48a3ccbb237edae5979a103cdc5425177c5670af5003/image.jpg"
@@ -61890,7 +62571,7 @@ const sampleProperties = [
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 120,
     "daysOnMarket": null,
-    "price": 1890000,
+    "price": 1790000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -61902,7 +62583,7 @@ const sampleProperties = [
       "Opposite Erskine river-mouth"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au unit listing advertised as absolute ocean frontage and arguably one of the closest properties to the high tide mark of Lorne beach, with never-ending ocean views, elevation above the Great Ocean Road opposite the Erskine river-mouth and a flat level walk to town. Price is advertised at $1,890,000 and strata land/block size is not published, so landSize is TBA. Five-year Lorne growth evidence checked; OnTheHouse reports houses up 24.08% and units up 10.34% over five years, below 15% annualized, so no investment flag.",
+    "notes": "Active realestate.com.au unit listing rechecked 15 Jun 2026 and advertised as absolute ocean frontage and arguably one of the closest properties to the high tide mark of Lorne beach, with never-ending ocean views, elevation above the Great Ocean Road opposite the Erskine river-mouth and a flat level walk to town. Price is advertised at $1,790,000 and strata land/block size is not published, so landSize is TBA. Five-year Lorne growth evidence checked; OnTheHouse reports houses up 24.08% and units up 10.34% over five years, below 15% annualized, so no investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/f6a94eee5f87578ca0e47b506ad27bb004501a3230afceeb14773bdcba85c6f3/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/f6a94eee5f87578ca0e47b506ad27bb004501a3230afceeb14773bdcba85c6f3/image.jpg"
@@ -62104,6 +62785,289 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/80b16cfc52236098ce6882490967d098685a4f2c5bc4e14e3265fab4c5ac1118/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-143883252",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-146ab-35-mountjoy",
+    "title": "146A&B/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 299500,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra Lorne leasehold apartment",
+      "Steps from the beach and shops",
+      "Two-bedroom dual-key layout",
+      "Managed rental program"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a 2-bedroom leasehold apartment at 35 Mountjoy Parade in a private setting steps from the beach and shops, with managed rental income. Price is advertised at $299,500 and the listed 74.32sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e573b10932e2a037427f68fb2edbd2870ed9356167ecd9dcff62e2bfb9eef81c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e573b10932e2a037427f68fb2edbd2870ed9356167ecd9dcff62e2bfb9eef81c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-149876304",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-136a-35-mountjoy",
+    "title": "136A/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "listedDate": "2026-04-29",
+    "price": 169000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Central Lorne leasehold apartment",
+      "Moments from beach, cafes and shops",
+      "Mantra resort amenities",
+      "Flexible holiday-use investment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing was published 29 Apr 2026 and advertises a one-bedroom leasehold apartment in the heart of Lorne, moments from the beach, cafes and shops, with resort amenities and personal-use/rental flexibility. Price is advertised at $169,000 and the listed 111.48sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/522f0f53abb98cb4bff2de3c0ba986e7da4a90a06c24724d32a31b7e7be51c17/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/522f0f53abb98cb4bff2de3c0ba986e7da4a90a06c24724d32a31b7e7be51c17/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-151036384",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-133a-35-mountjoy",
+    "title": "133A/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 175000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra resort unit",
+      "Easy walk to main surf beach",
+      "Walk to shopping promenade",
+      "Leasehold lifestyle investment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au unit listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a north-facing Mantra unit in the heart of Lorne, within easy walking distance of the main surf beach and shopping promenade, with resort pool, spa, gym, steam rooms, tennis courts, cafe and restaurant. Price is advertised at $175,000 and the listed 83.61sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/542e5db8583856a13bd1f86800f9fbd7cfe9a55be81168e07f1bc8b8d6d5a985/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/542e5db8583856a13bd1f86800f9fbd7cfe9a55be81168e07f1bc8b8d6d5a985/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-vic-lorne-143332284",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-152a-35-mountjoy",
+    "title": "152A/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 219000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra Resort Lorne apartment",
+      "Steps from Lorne beachfront",
+      "Panoramic ocean views",
+      "Five-star resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a one-bedroom leasehold apartment in Mantra Resort Lorne, with panoramic ocean views, resort amenities and a position steps from Lorne's beachfront and cafe culture. Price is advertised at $219,000 and the listed 111.48sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/329bff24fcc18d66c08661351e752769acdd3b381576b3920a8799d8791968bd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/329bff24fcc18d66c08661351e752769acdd3b381576b3920a8799d8791968bd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-148282896",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-207b-35-mountjoy",
+    "title": "207B/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 119000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Cypress Lane position",
+      "One-minute stroll to main surf beach",
+      "Filtered bay views",
+      "Mantra resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a one-bedroom studio apartment on the front row of Cypress Lane, with filtered bay views, resort amenities and a short one-minute stroll to the main surf beach and shopping promenade. Price is advertised at $119,000 and the listed 83.61sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/0e571c73a7f49089cde31db35493196b346a7913e33ffb6eb0fb8b38e2b9eccb/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0e571c73a7f49089cde31db35493196b346a7913e33ffb6eb0fb8b38e2b9eccb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-147525404",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-500a-35-mountjoy",
+    "title": "500A/35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 199000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Top-floor Mantra apartment",
+      "Uninterrupted ocean vistas",
+      "Minutes to Lorne beaches",
+      "Walk to shopping and dining"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a top-floor one-bedroom north-facing leasehold apartment with prime ocean views, minutes from Lorne's beaches and the shopping and dining precinct. Price is advertised at $199,000 and the listed 92.9sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b62bccfdf05c77f001f670735f7e2f1e295398f292d20293565d18f9db3e915b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b62bccfdf05c77f001f670735f7e2f1e295398f292d20293565d18f9db3e915b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-149155248",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-143b-35-mountjoy",
+    "title": "143B, 35 Mountjoy Parade",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 79000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra Lorne studio",
+      "Only beachfront property in Lorne claim",
+      "Short stroll to surf beach",
+      "Leasehold resort apartment"
+    ],
+    "status": "active",
+    "notes": "Active Domain studio listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a fully furnished first-floor studio apartment in Mantra Lorne resort and states Mantra Lorne is the only beachfront property in Lorne, within a short stroll of the pristine surf beach and shopping promenade. Price is advertised at $79,000 and Domain states property size has not been disclosed, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/bH3HcD0N7j-6ix7EJhIc8jDacB4=/660x440/filters:format(jpeg):quality(80):no_upscale()/2020771131_1_1_260102_051457-w1708-h960",
+    "images": [
+      "https://rimh2.domainstatic.com.au/bH3HcD0N7j-6ix7EJhIc8jDacB4=/660x440/filters:format(jpeg):quality(80):no_upscale()/2020771131_1_1_260102_051457-w1708-h960",
+      "https://rimh2.domainstatic.com.au/EDM4dOeVHYYlEoCLiOssUJNDA1U=/660x440/filters:format(jpeg):quality(80):no_upscale()/2020771131_8_1_260102_051458-w1440-h1080",
+      "https://rimh2.domainstatic.com.au/2ym-4l1S4Ft6IgNEfpR_7_2c9Os=/660x440/filters:format(jpeg):quality(80):no_upscale()/2020771131_2_1_260102_051457-w1440-h1080",
+      "https://rimh2.domainstatic.com.au/305RDlA3Q87RjynZ0JD0WRu_bhg=/660x440/filters:format(jpeg):quality(80):no_upscale()/2020771131_3_1_260102_051457-w1440-h1080"
+    ],
+    "listingUrl": "https://www.domain.com.au/143b-35-mountjoy-parade-lorne-vic-3232-2020771131",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-105-3-bay",
+    "title": "105/3 Bay Street",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 395000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Bay View complex apartment",
+      "100m from Lorne main beach",
+      "Louttit Bay views",
+      "Freehold holiday investment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au unit listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a freehold holiday apartment in the Bay View complex, positioned 100m from Lorne Lifesaving Club and the main beach, with Louttit Bay views and strong holiday rental returns. Price is advertised at $395,000 and strata land/block size is not published, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f7c376a879218cbd6af290e2485dadb1e22533f59f65b0e6d3a7171f3347adba/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f7c376a879218cbd6af290e2485dadb1e22533f59f65b0e6d3a7171f3347adba/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-vic-lorne-150299236",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-115-3-bay",
+    "title": "115/3 Bay Street",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 380000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Dress-circle Bay Street apartment",
+      "Steps to main surf beach",
+      "Freehold ownership",
+      "Coastal income stream"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a one-bedroom freehold apartment in the heart of Lorne, walking distance to the main surf beach, boutique shops and dining, and describes the sand and surf as just steps away. Price is advertised at $380,000 and the listed 65.03sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ccd0615d18a6a1c21133117f78b6018b419f6396af0a69462f47a1a130b19c42/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ccd0615d18a6a1c21133117f78b6018b419f6396af0a69462f47a1a130b19c42/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-149500916",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-lorne-128-3-bay",
+    "title": "128/3 Bay Street",
+    "suburb": "Lorne",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": 385000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Central Bay Street apartment",
+      "Short stroll to beach",
+      "Freehold ownership",
+      "Holiday-let flexibility"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, withdrawn or off-market marker shown. The listing advertises a one-bedroom freehold apartment in central Lorne, a short stroll to the beach, boutique shops and cafes, with holiday letting, long-term rental or private-use flexibility. Price is advertised at $385,000 and the listed 65.03sqm is building size rather than land, so landSize is TBA. Five-year Lorne growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9dac199bc13a1b6297bfaa3e2e5c3e531a5eda48db8f13cc8f2798e9beae3b3a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9dac199bc13a1b6297bfaa3e2e5c3e531a5eda48db8f13cc8f2798e9beae3b3a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-lorne-149305240",
     "investmentStar": false
   },
   {
@@ -62963,6 +63927,34 @@ const sampleProperties = [
     "investmentStar": true,
     "investmentAnnualGrowth5Yr": "18.2%",
     "investmentReason": "realestate.com.au/property.com.au Victor Harbor market evidence checked 23 May 2026 reports 18.2% annual compound growth for units; OpenStats also reports 19.3% p.a. five-year growth for Victor Harbor 2-bedroom units, supporting above-15% unit-sector momentum."
+  },
+  {
+    "id": "sa-victor-harbor-306-162-hindmarsh",
+    "title": "306/162 Hindmarsh Road",
+    "suburb": "Victor Harbor",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 80,
+    "listedDate": "2026-05-10",
+    "price": 850000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Corner apartment with panoramic sea views",
+      "Expansive balcony and master-suite ocean outlook",
+      "Walk to Victor Harbor beach, cafes, restaurants and supermarkets",
+      "Secure complex with pool, gym and holiday-rental appeal"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au apartment listing verified 15 Jun 2026 from the direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a high-end corner apartment with panoramic sea views, ocean-view balcony and master suite, secure pool/gym complex, established holiday-rental use, and easy walking access to Victor Harbor beach, restaurants, cafes and supermarkets. Price is advertised at $850,000. No land size is published, so landSize is TBA. Only the direct hero photo URL was usable from the exact listing page during verification; secondary visible image slots resolved to portal placeholders. Five-year Victor Harbor unit/comparable growth evidence was checked; current accessible evidence did not substantiate a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b968ebd1d342340596e721b47bb3e4a683e5e8c6d85c86fb18a85c85718d4b92/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b968ebd1d342340596e721b47bb3e4a683e5e8c6d85c86fb18a85c85718d4b92/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-victor%2Bharbor-151003324",
+    "investmentStar": false
   },
   {
     "id": "nsw-bowral-1211-old-south",
@@ -68024,8 +69016,8 @@ const sampleProperties = [
       "Productive grazing and water",
       "Gold Coast access"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026. Advertised as a 58.43ha / 144.3-acre Beechmont grazing holding across three titles with frontage to Binna Burra Road, South-West Road and Summerville Road, elevated homesites, nine paddocks, two dams, Back Creek, cattle yards and machinery shed. Listing notes productive grazing potential and convenient access to the Gold Coast. Five-year regional/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au Beechmont listing rechecked 15 June 2026 and now shows Under offer plus SOLD UNDER THE HAMMER copy, so it is hidden from active results. It advertised a 58.43ha / 144.3-acre grazing holding across three titles with frontage to Binna Burra Road, South-West Road and Summerville Road, elevated homesites, nine paddocks, two dams, Back Creek, cattle yards and machinery shed. Listing notes productive grazing potential and convenient access to the Gold Coast. Five-year regional/comparable growth evidence checked; available evidence did not support a greater than 15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/3a0ea96e1fd967af3716d3b16ca1cda30409dbd1d16704fd42f99c42e9b5321b/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3a0ea96e1fd967af3716d3b16ca1cda30409dbd1d16704fd42f99c42e9b5321b/image.jpg"
@@ -68064,6 +69056,36 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-beechmont-1339-beechmont",
+    "title": "1339 Beechmont Road",
+    "suburb": "Beechmont",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-05-25",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 354000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "35.4ha Beechmont ridgeline estate",
+      "Panoramic Gold Coast skyline and ocean views",
+      "Historic homestead, private forest and tennis court",
+      "Boutique accommodation, agritourism and eco-retreat upside STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Beechmont lifestyle listing verified 15 June 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Rosewood at 1339 Beechmont Road as a 35.4ha landmark hinterland holding with coastal and Gold Coast skyline views, historic homestead, fertile grounds, private forest, full-size tennis court, land-banking appeal and future boutique accommodation, agritourism, wellness or eco-retreat potential STCA. Listed as Contact Agent; no hidden marketing price range token was accessible in the available rendered/text page verification, so price is left null. Beechmont five-year regional/comparable growth evidence was checked; current visible evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/89f5f86c3b6109d62214c4159d850266e779fc522369d0e752ce32c0c98c7520/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/89f5f86c3b6109d62214c4159d850266e779fc522369d0e752ce32c0c98c7520/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-qld-beechmont-700408892",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "qld-guanaba-lot-2-guanaba-creek",
     "title": "Lot 2 Guanaba Creek Road",
     "suburb": "Guanaba",
@@ -68083,8 +69105,8 @@ const sampleProperties = [
       "Telecommunication lease income",
       "7 dams and eco-tourism upside"
     ],
-    "status": "active",
-    "notes": "Active Domain and realestate.com.au Gold Coast hinterland listing verified 16 May 2026 from the exact direct listing URLs. Advertised as a first-time-in-100-years 97.12ha / 240-acre Guanaba landholding with frontages to Guanaba Creek Road, Stewart Road and Lynwood Drive, multiple potential house sites, internal 4WD tracks, fully fenced boundary, seven dams and passive income from multiple telecommunication tower leases. Listing notes 7 minutes to Maudsland, 12 minutes to Oxenford business district, M1 motorway and train station, and 30 minutes to Gold Coast beaches. Five-year Guanaba and comparable hinterland growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Exact Domain listing rechecked 15 June 2026 and now marked Under offer, so it is hidden from active results. The matched realestate.com.au listing for the same Lot 2 Guanaba Creek Road holding also showed Under offer. Advertised as a first-time-in-100-years 97.12ha / 240-acre Guanaba landholding with frontages to Guanaba Creek Road, Stewart Road and Lynwood Drive, multiple potential house sites, internal 4WD tracks, fully fenced boundary, seven dams and passive income from multiple telecommunication tower leases. Listing notes 7 minutes to Maudsland, 12 minutes to Oxenford business district, M1 motorway and train station, and 30 minutes to Gold Coast beaches. Five-year Guanaba and comparable hinterland growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
     "image": "https://rimh2.domainstatic.com.au/qfyijagYCY6EVCXuqf42FJFoU4o=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020704768_5_1_260513_124942-w4000-h3000",
     "images": [
       "https://rimh2.domainstatic.com.au/qfyijagYCY6EVCXuqf42FJFoU4o=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020704768_5_1_260513_124942-w4000-h3000",
@@ -73822,10 +74844,68 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-house-vic-cowes-149896504",
     "listingCategory": "beachfront",
     "investmentStar": false
+  },
+  {
+    "id": "vic-apollo-bay-8-183-great-ocean",
+    "title": "8-183 Great Ocean Road",
+    "suburb": "Apollo Bay",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 160,
+    "price": 850000,
+    "priceLabel": "$850,000",
+    "landSize": 181,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Apollo Bay townhouse directly opposite the beach",
+      "Ocean views and audible surf from the Great Ocean Road position",
+      "Three-bedroom coastal residence with two living areas and two bathrooms",
+      "Around 200m to Apollo Bay shops, cafes and village services"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Apollo Bay townhouse listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $850,000, 181m2 land, three bedrooms, two bathrooms, two car spaces, ocean views, a position directly opposite the beach and approx. 200m to shops. Available Apollo Bay suburb and comparable five-year growth evidence was checked; current evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/2635e1c10cfece5d24d1f879c94cefc0adf57ad3f50fe0d9ef3cdec519bcc507/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2635e1c10cfece5d24d1f879c94cefc0adf57ad3f50fe0d9ef3cdec519bcc507/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-vic-apollo%2Bbay-149753248",
+    "listingCategory": "beachfront",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-apollo-bay-8-157-great-ocean",
+    "title": "8/157 Great Ocean Road",
+    "suburb": "Apollo Bay",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 160,
+    "price": 850000,
+    "priceLabel": "$850,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row first-floor apartment on Apollo Bay's Great Ocean Road",
+      "Balcony facing the Great Ocean Road with water glimpses and coastal air",
+      "Three-bedroom, two-bathroom apartment with dedicated rear parking",
+      "Inclusive apartment stock retained with land size unavailable and price per sqm as TBA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Apollo Bay apartment listing verified 15 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $850,000, three bedrooms, two bathrooms, one car space, a spacious front-row apartment position, Great Ocean Road frontage, water glimpses and no disclosed property size, so landSize is set to null. Available Apollo Bay suburb and comparable five-year growth evidence was checked; current evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/3e1d97b1c65aa4ebc0028eeee1e6ed2139a31254bc6717ab0e292e18e250bc52/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3e1d97b1c65aa4ebc0028eeee1e6ed2139a31254bc6717ab0e292e18e250bc52/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-vic-apollo%2Bbay-148037788",
+    "listingCategory": "beachfront",
+    "investmentStar": false
   }
 ];
 
-const databaseUpdatedAt = "2026-06-15 16:49";
+const databaseUpdatedAt = "2026-06-15 19:02";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
