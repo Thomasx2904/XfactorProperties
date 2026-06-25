@@ -13,6 +13,211 @@
 
 const sampleProperties = [
   {
+    "id": "vic-riverslea-95-vardys",
+    "title": "95 Vardys Road",
+    "suburb": "Riverslea",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 190,
+    "daysOnMarket": 9,
+    "listedDate": "2026-03-13",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 1841300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "184.13ha / 455-acre East Gippsland dairy and irrigation holding",
+      "High-security, low-security, underground and surface water entitlements advertised",
+      "Four centre pivots, lateral sprays and 50-stand rotary dairy infrastructure",
+      "Near Maffra and Sale regional service centres with income-producing farming potential"
+    ],
+    "status": "active",
+    "notes": "Active Domain Riverslea rural listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 184.13ha / 455 acres, Expressions of Interest, 569.4ML high-security water, 382ML underground water, 327ML low-security water, surface and dam water, four centre pivots, lateral sprays and rotary dairy infrastructure. Domain showed first listed on 13 March and 9 days on Domain. Available regional and comparable growth evidence on the listing and suburb panel was checked; it did not provide credible five-year evidence above 15% annual growth, so no investment-star flag was applied.",
+    "image": "https://rimh2.domainstatic.com.au/OTIlAIzS6dYqJl8ke6SOZTplQ10%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020678647_2_1_260313_121419-w1200-h674",
+    "images": [
+      "https://rimh2.domainstatic.com.au/OTIlAIzS6dYqJl8ke6SOZTplQ10%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020678647_2_1_260313_121419-w1200-h674"
+    ],
+    "listingUrl": "https://www.domain.com.au/95-vardys-road-riverslea-vic-3860-2020678647",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-tabulam-lot-17-ogilvie",
+    "title": "Lot 17 Ogilvie Drive",
+    "suburb": "Tabulam",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 180,
+    "price": 270000,
+    "priceLabel": "$270,000",
+    "landSize": 400000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40ha / approx. 98-acre Tabulam bush block",
+      "Building entitlement for a future dwelling or off-grid retreat",
+      "Approx. 6km to the Timbarra River for swimming, fishing and kayaking",
+      "Northern NSW ranges setting with privacy, native bushland and recreation appeal"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tabulam lifestyle land listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40ha / approx. 98 acres, $270,000, building entitlement, native bushland privacy and proximity to the Timbarra River about 6km away. Available Tabulam and regional comparable growth evidence was checked; the live realestate.com.au Tabulam market page showed weak recent house growth and no credible evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/5fe3024ad276f82df78185b51ce8fa10e588cedb42e2889efd58ae7dcdbe933a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5fe3024ad276f82df78185b51ce8fa10e588cedb42e2889efd58ae7dcdbe933a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-tabulam-700386644",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-tabulam-lot-20-ogilvie",
+    "title": "Lot 20 Ogilvie Drive",
+    "suburb": "Tabulam",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 180,
+    "price": 320000,
+    "priceLabel": "$320,000",
+    "landSize": 404700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.47ha / approx. 100-acre Tabulam lifestyle block",
+      "Cleared house pad, building entitlement and dam already advertised",
+      "Elevated north-facing views with spotted gum stands and weekender potential",
+      "Advertised about 3 hours from the Gold Coast and about 2 hours to the coast"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tabulam lifestyle listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40.47ha, $320,000, a cleared house pad, building entitlement, dam, elevated north-facing views, spotted gum and access about 3 hours from the Gold Coast and about 2 hours to the North Coast beaches. Available Tabulam and regional comparable growth evidence was checked; the live realestate.com.au Tabulam market page showed weak recent house growth and no credible evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ba5c47f072b301c3662bad2bcd9d35830be40ccf41e0094da1a0f46a8fcd4b99/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ba5c47f072b301c3662bad2bcd9d35830be40ccf41e0094da1a0f46a8fcd4b99/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-tabulam-700364800",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-tabulam-524-plains-station",
+    "title": "524 Plains Station Road",
+    "suburb": "Tabulam",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 180,
+    "price": 400000,
+    "priceLabel": "$400,000",
+    "landSize": 400000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40ha / approx. 100-acre elevated Tabulam bush block",
+      "Panoramic mountain and valley views from a high position",
+      "Existing access track, storage shed and plumbed rainwater tank",
+      "Approx. 5km to Tabulam and about one hour to Casino"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tabulam lifestyle listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40ha, $400,000, an elevated blank canvas with panoramic mountain and valley views, an access track to the top of the block, storage shed, rainwater tank and location about 5km from Tabulam and about one hour from Casino. Available Tabulam and regional comparable growth evidence was checked; the live realestate.com.au Tabulam market page showed weak recent house growth and no credible evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/9ac96c81346161a3c49768bf730d984ddf547efb874a187ac2eb5aaedd9296cf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9ac96c81346161a3c49768bf730d984ddf547efb874a187ac2eb5aaedd9296cf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-tabulam-700333688",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-tabulam-167-ogilvie",
+    "title": "167 Ogilvie Drive",
+    "suburb": "Tabulam",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 180,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 400000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40ha Tabulam off-grid lifestyle holding with established residence",
+      "Solar power, septic, water tanks, shed and Telstra/Starlink-ready connectivity",
+      "Elevated valley and Clarence River views with privacy and retreat appeal",
+      "Advertised potential for additional cabins or eco-tourism accommodation STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tabulam lifestyle listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 40ha, Contact Agent pricing, an established off-grid two-bedroom residence, solar power, septic, two 20,000L concrete water tanks, shed, valley and Clarence River views, and potential for additional cabins or eco-tourism accommodation STCA. The text-rendered listing did not expose a usable marketing_price_range. Available Tabulam and regional comparable growth evidence was checked; the live realestate.com.au Tabulam market page showed weak recent house growth and no credible evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a46ef7b3dfdc4d60bbc9e31d3cdc15f2c07fa6f9154a53298c409b3619916f84/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a46ef7b3dfdc4d60bbc9e31d3cdc15f2c07fa6f9154a53298c409b3619916f84/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-tabulam-700408740",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-bulldog-190-bulldog",
+    "title": "190 Bulldog Road",
+    "suburb": "Bulldog",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 190,
+    "price": 695000,
+    "priceLabel": "$695,000 ONO",
+    "landSize": 327500,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "32.75ha / approx. 80-acre Clarence Valley rural holding",
+      "Tenanted rustic farmhouse offering immediate holding income",
+      "Dam, rainwater tanks, solar power and poly-tunnel frames for horticulture",
+      "RU2 Rural Landscape zoning with self-sufficient lifestyle and hobby-farm upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bulldog lifestyle listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 32.75ha / 80 acres, $695,000 ONO, RU2 Rural Landscape zoning, a tenanted rustic farmhouse, off-grid solar power, dam, rainwater tanks, greenhouse frames, shed, native timber and access about 17km from Tabulam and about 57 minutes from Casino. Available Tabulam and regional comparable growth evidence was checked; the live realestate.com.au Tabulam market page showed weak recent house growth and no credible evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/8e8176cbd1b54768fb387c97954df301fb94b30d231d564b4065f3450f692b61/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8e8176cbd1b54768fb387c97954df301fb94b30d231d564b4065f3450f692b61/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-bulldog-700391664",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-ewingar-284-peckhams",
+    "title": "284 Peckhams Road",
+    "suburb": "Ewingar",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 190,
+    "price": 795000,
+    "priceLabel": "$795,000",
+    "landSize": 1377000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "137.7ha / approx. 341-acre Ewingar rural and lifestyle holding",
+      "Approx. 2.7km creek frontage and nine dams for grazing water security",
+      "Two dwellings with one tenanted at $200 per week for income potential",
+      "Near Yates Crossing and Clarence River recreation with grazing and timber appeal"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ewingar lifestyle listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 137.7ha / 341 acres, $795,000, approx. 2.7km creek frontage, nine dams, full fencing, two dwellings, one tenanted at $200 per week, machinery shed, grazing suitability and proximity to Yates Crossing and the Clarence River. Available Tabulam, Ewingar and regional comparable growth evidence was checked; available evidence did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/1be884f3c3f220b2eda1f04e8f92bb32b61d93b4a62dd4624344dca88f661e17/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1be884f3c3f220b2eda1f04e8f92bb32b61d93b4a62dd4624344dca88f661e17/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-nsw-ewingar-700399748",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "vic-buckley-75-waltons",
     "title": "75 Waltons Road",
     "suburb": "Buckley",
@@ -2091,8 +2296,8 @@ const sampleProperties = [
     "state": "VIC",
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 75,
-    "price": 1850000,
-    "priceLabel": "$1,800,000 - $1,900,000",
+    "price": 2100000,
+    "priceLabel": "$2,100,000 sold on 03 Jun 2026",
     "landSize": 404700,
     "beachfront": false,
     "noRoadFrontage": false,
@@ -3198,7 +3403,8 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 135,
     "daysOnMarket": 48,
-    "price": 707500,
+    "price": 675000,
+    "priceLabel": "$675,000",
     "landSize": 1212,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -3210,12 +3416,108 @@ const sampleProperties = [
       "Sea-view deck above substantial garaging"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026, advertised as a prime beachfront location directly opposite the boat ramp and beach, with two dwellings on a 1,212sqm Edwardes Terrace allotment and sea views from the entertaining deck. Price is advertised as $695,000 to $720,000, so price is stored as the range midpoint. Port Victoria five-year growth evidence was checked; OnTheHouse/Cotality reports 115.53% five-year house growth and Smart Property Investment reports 131.37%, equivalent to roughly 16.6% to 18.3% annual compound growth, noting the small local sales base.",
-    "image": "https://i2.au.reastatic.net/800x600/c1e904566e61a041bfec93f573f86ed1260ed77aa4e8282ca9a9f6de88810c8c/image.jpg",
+    "notes": "Active realestate.com.au listing re-verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page now advertises $675,000 and describes two homes on a 1,212sqm Edwardes Terrace allotment in a prime seaside location directly opposite the boat ramp and moments from the beach, with an elevated deck capturing sea views. Port Victoria five-year growth evidence was checked; OnTheHouse/Cotality reports 115.53% five-year house growth and Smart Property Investment reports 131.37%, equivalent to roughly 16.6% to 18.3% annual compound growth, noting the small local sales base.",
+    "image": "https://i2.au.reastatic.net/800x600/b985ceee63b863fff6a01e12990bddd3331ae544d3a1bb8949b668ac80338d9a/image.jpg",
     "images": [
-      "https://i2.au.reastatic.net/800x600/c1e904566e61a041bfec93f573f86ed1260ed77aa4e8282ca9a9f6de88810c8c/image.jpg"
+      "https://i2.au.reastatic.net/800x600/b985ceee63b863fff6a01e12990bddd3331ae544d3a1bb8949b668ac80338d9a/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-port%2Bvictoria-150443216",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "16.6%",
+    "investmentFiveYearGrowth": "115.53%",
+    "investmentReason": "OnTheHouse/Cotality reports 115.53% five-year Port Victoria house growth and Smart Property Investment reports 131.37%, annualising above 15% despite the small local sales base."
+  },
+  {
+    "id": "sa-port-victoria-5-kuhn",
+    "title": "5 Kuhn Terrace",
+    "suburb": "Port Victoria",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 135,
+    "daysOnMarket": null,
+    "price": 549000,
+    "priceLabel": "$549,000",
+    "landSize": 720,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Coastal house just steps from the Port Victoria shoreline",
+      "Short stroll to sandy beaches, jetty fishing and boat access",
+      "Sea-view balcony with west-facing Port Victoria sunset outlook",
+      "720sqm allotment with pool, garaging and five-bedroom holiday capacity"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $549,000, 720sqm land, five bedrooms and describes the home as just steps from the sparkling shoreline, with a balcony framing sea views, beach walks, jetty fishing and boat-launch lifestyle access. The exact page exposed a verified direct hero photo; other gallery slots rendered as placeholders in the text view, so only the verified direct property photo is stored. Port Victoria five-year growth evidence was checked; OnTheHouse/Cotality reports 115.53% five-year house growth and Smart Property Investment reports 131.37%, equivalent to roughly 16.6% to 18.3% annual compound growth, noting the small local sales base.",
+    "image": "https://i2.au.reastatic.net/800x600/5f96151cd251a888a22771059cae9f3ad9ef9f623e0f6f088955f1b5f8d4a790/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5f96151cd251a888a22771059cae9f3ad9ef9f623e0f6f088955f1b5f8d4a790/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-port%2Bvictoria-148797476",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "16.6%",
+    "investmentFiveYearGrowth": "115.53%",
+    "investmentReason": "OnTheHouse/Cotality reports 115.53% five-year Port Victoria house growth and Smart Property Investment reports 131.37%, annualising above 15% despite the small local sales base."
+  },
+  {
+    "id": "sa-port-victoria-21-edwardes",
+    "title": "21 Edwardes Terrace",
+    "suburb": "Port Victoria",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 135,
+    "daysOnMarket": null,
+    "price": 525000,
+    "priceLabel": "$510k - $540k",
+    "landSize": 901,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Rare Edwardes Terrace seafront corner allotment",
+      "Uninterrupted views over the boat ramp, Wardang Island and Port Victoria Bay",
+      "901sqm block with 19m frontage and gentle elevation",
+      "Near coastal walkways, township services and sandy beaches"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $510k - $540k, so price is stored as the range midpoint. It describes a 901sqm corner allotment in one of Port Victoria's sought-after seafront locations, with a 19m frontage, gentle elevation, uninterrupted views of the boat ramp, Wardang Island and Port Victoria Bay, and nearby walkways to the township and sandy beaches. The exact page exposed a verified direct hero photo; other gallery slots rendered as placeholders in the text view, so only the verified direct property photo is stored. Port Victoria five-year growth evidence was checked; OnTheHouse/Cotality reports 115.53% five-year house growth and Smart Property Investment reports 131.37%, equivalent to roughly 16.6% to 18.3% annual compound growth, noting the small local sales base.",
+    "image": "https://i2.au.reastatic.net/800x600/67c74ca8996ac7cfb612813e456863d079d0a9d8c8b31e92606b82baf2e79fdd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/67c74ca8996ac7cfb612813e456863d079d0a9d8c8b31e92606b82baf2e79fdd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-sa-port%2Bvictoria-204320640",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "16.6%",
+    "investmentFiveYearGrowth": "115.53%",
+    "investmentReason": "OnTheHouse/Cotality reports 115.53% five-year Port Victoria house growth and Smart Property Investment reports 131.37%, annualising above 15% despite the small local sales base."
+  },
+  {
+    "id": "sa-port-victoria-conservation-drv",
+    "title": "- Conservation Drv",
+    "suburb": "Port Victoria",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 135,
+    "daysOnMarket": null,
+    "price": 189000,
+    "priceLabel": "AVAILABLE NOW....from $189,000",
+    "landSize": 1500,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ripple coastal land release on Conservation Drive",
+      "52-lot community described as right along the coastline",
+      "Large 1,250sqm to 2,500sqm allotments with ocean, golf course and park views",
+      "Very short distance to the Port Victoria boat ramp"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises available land from $189,000, displays 1,500sqm land size, and describes the Ripple 52-lot community as right along the coastline with ocean, golf course, rural and landscaped park views plus a very short distance to the Port Victoria boat ramp. This is not marked as no-road absolute beachfront because the exact listing does not state no-road frontage or direct private beach access. The exact page exposed a verified direct hero photo; other gallery slots rendered as placeholders in the text view, so only the verified direct property photo is stored. Port Victoria five-year growth evidence was checked; OnTheHouse/Cotality reports 115.53% five-year house growth and Smart Property Investment reports 131.37%, equivalent to roughly 16.6% to 18.3% annual compound growth, noting the small local sales base.",
+    "image": "https://i2.au.reastatic.net/800x600/ed23ce6ac506653a9133b2b5b77a61906c6bbe3d41a489466ae07525ab11814a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ed23ce6ac506653a9133b2b5b77a61906c6bbe3d41a489466ae07525ab11814a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-sa-port%2Bvictoria-203207190",
     "investmentStar": true,
     "investmentAnnualGrowth5Yr": "16.6%",
     "investmentFiveYearGrowth": "115.53%",
@@ -4759,7 +5061,7 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 65,
-    "price": 2500000,
+    "price": 2700000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -7728,7 +8030,7 @@ const sampleProperties = [
     "state": "VIC",
     "nearestMajorCity": "Melbourne",
     "majorCityMinutes": 45,
-    "price": 2700000,
+    "price": 2500000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -8377,8 +8679,8 @@ const sampleProperties = [
       "Dual-level flexibility",
       "Renovation upside"
     ],
-    "status": "active",
-    "notes": "Active current 304 Esplanade listing verified 25 May 2026 from the matching Homely result and realestate.com.au direct listing. The listing advertises an absolute beachfront Silver Sands Esplanade position with dunes, sand and open water in front, 180-degree unobstructed sea views, dual-level flexibility with two kitchens, renovation or redevelopment upside, and a 697sqm allotment. Available 5-year suburb and comparable growth evidence was checked; the realestate.com.au Aldinga Beach house market snapshot showed 9% annual growth, so it did not substantiate a greater than 15% annual investment flag.",
+    "status": "unavailable",
+    "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact Homely listing URL could not be reopened during verification and the current Homely Aldinga Beach sale results no longer included this listing; the same Lower Esplanade position is represented by the separately verified active realestate.com.au record for 304 Lower Esplanade.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-13000904-1.jpg?version=0W9pe4EibGYqbtAFXv7czkl1W7m0oWKq",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-13000904-1.jpg?version=0W9pe4EibGYqbtAFXv7czkl1W7m0oWKq"
@@ -24584,8 +24886,8 @@ const sampleProperties = [
       "Large block",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Tightly held beachfront-setting home opposite the dunes with flexible dual-living layout. Price advertised as contact agent.",
+    "status": "unavailable",
+    "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact realestate.com.au listing URL could not be reopened during direct verification and targeted Aldinga Beach Esplanade searches did not return a current active replacement listing.",
     "image": "https://i2.au.reastatic.net/800x600/5c62d3a797f012f964cadd8abb8f33bf8625a6b1c26c981dc8d3cf93b8271d1a/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/5c62d3a797f012f964cadd8abb8f33bf8625a6b1c26c981dc8d3cf93b8271d1a/image.jpg",
@@ -25420,8 +25722,8 @@ const sampleProperties = [
       "Beach lifestyle",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active front-row Brighton Esplanade unit. Domain direct listing shows it as for sale with best offers due 26 May 2026 and describes uninterrupted coastline views; property size is not disclosed.",
+    "status": "under_offer",
+    "notes": "Hidden after the 25 June 2026 Brighton sweep. The matching direct realestate.com.au listing for the same 1/155 Esplanade address now shows Under offer, so it is removed from the active app view. Previously advertised as a front-row Brighton Esplanade unit with uninterrupted coastline views; property size is not disclosed.",
     "image": "https://rimh2.domainstatic.com.au/DmMgRcpNhUrhMva3etq0s2jCVcc%3D/fit-in/1920x1080/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020822606_1_1_250507_092205-w2986-h1989",
     "images": [
       "https://rimh2.domainstatic.com.au/rAiLo6Rp0-n5QvQYMaHiNSKIKrA=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020822606_1_1_260507_020120-w5272-h3516",
@@ -25535,8 +25837,8 @@ const sampleProperties = [
       "Coastal land",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au direct listing verified 15 May 2026 on property ID 204475092. The front-row Esplanade land is advertised by Fox Real Estate as a 681sqm coastal allotment with uninterrupted ocean views, commanding frontage and the coastline at the doorstep. A separate older 6. The Esplanade One Point Eight listing is under offer, so this record keeps the active Fox/REA direct URL already stored here. Price is advertised as Contact Agent and no usable hidden range was available in the checked listing data. Hallett Cove five-year growth evidence was checked; realestate.com.au reports annual compound growth of 6.7% for houses and 3.0% for units, which does not support an above-15% annual investment flag.",
+    "status": "unavailable",
+    "notes": "Set unavailable after 25 Jun 2026 Hallett Cove sweep: the exact realestate.com.au property ID 204475092 URL could not be opened, the listing no longer appeared on the current realestate.com.au Hallett Cove buy result page, and exact targeted searches did not surface an active direct listing. Prior note: active realestate.com.au direct listing verified 15 May 2026 on property ID 204475092 as a 681sqm front-row Esplanade coastal allotment advertised by Fox Real Estate with uninterrupted ocean views and coastline at the doorstep. Price was advertised as Contact Agent and no usable hidden range was available in the checked listing data. Hallett Cove five-year growth evidence was checked; realestate.com.au reported annual compound growth of 6.7% for houses and 3.0% for units, which did not support an above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/e05152d08d141f25f11e21bbba5db45ac81799cae62d33a8530cb542852a9662/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e05152d08d141f25f11e21bbba5db45ac81799cae62d33a8530cb542852a9662/image.jpg"
@@ -25572,6 +25874,64 @@ const sampleProperties = [
       "https://i1.au.reastatic.net/768x512-smart=80,r=33,g=40,b=46,quality=60,progressive/d49840a3928600e6acf406e0761b429f3dbeb40accbcd0dff3be4893ba9b4729/image2.jpg"
     ],
     "listingUrl": "https://www.realcommercial.com.au/for-sale/property-lot-4102-burlington-road-hallett-cove-sa-5158-505054252",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-hallett-cove-8-10-the-esplanade",
+    "title": "8-10 The Esplanade",
+    "suburb": "Hallett Cove",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-01",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 2904,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "51.44m direct ocean frontage",
+      "2,904sqm Esplanade site",
+      "Landmark redevelopment potential",
+      "Adelaide metro coastal scarcity"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 25 Jun 2026 from the exact listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 8-10 The Esplanade as a 2,904sqm landmark oceanfront site with 51.44m direct ocean frontage, panoramic views, Hills Neighbourhood zoning and Expressions of Interest closing 1 July 2026. The text-rendered listing did not expose a usable marketing_price_range, so price remains the displayed Contact Agent. Hallett Cove five-year growth evidence was checked; available PropTrack/realestate.com.au evidence showed 6.7% annual house growth and 36.2% three-year growth, which does not substantiate an above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/1539a21b2c782e0ec4606db8922b33a8db26bab0d04bb2b96830f75aa4bd56b8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1539a21b2c782e0ec4606db8922b33a8db26bab0d04bb2b96830f75aa4bd56b8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-sa-hallett%2Bcove-151355044",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-hallett-cove-10-kurnabinna",
+    "title": "10 Kurnabinna Terrace",
+    "suburb": "Hallett Cove",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-06-24",
+    "price": null,
+    "priceLabel": "Best Offers By 13/7 (USP)",
+    "landSize": 790,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": false,
+    "factors": [
+      "Oceanfront entertaining",
+      "End-of-enclave coastline position",
+      "790sqm Torrens title",
+      "Dual-level multigenerational home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 25 Jun 2026 from the exact listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 790sqm Torrens title home with oceanfront entertaining, uninterrupted sea views, wraparound terrace, tiled pool, dual-level multigenerational layout and an exclusive enclave position with the ocean at its doorstep. The text-rendered listing did not expose a usable marketing_price_range, so price remains the displayed Best Offers By 13/7 (USP). Hallett Cove five-year growth evidence was checked; available PropTrack/realestate.com.au evidence showed 6.7% annual house growth and 36.2% three-year growth, which does not substantiate an above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e89e10595bec7a872998779b6d4f9b4a18e35b2246d847478782dcd4653fed9e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e89e10595bec7a872998779b6d4f9b4a18e35b2246d847478782dcd4653fed9e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-hallett%2Bcove-151578956",
     "investmentStar": false
   },
   {
@@ -26146,6 +26506,36 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "sa-west-beach-19-seaview",
+    "title": "19 Seaview Road",
+    "suburb": "West Beach",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-15",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 795,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront esplanade site",
+      "Direct sand access",
+      "Uninterrupted ocean views",
+      "795sqm allotment",
+      "Development or renovate opportunity"
+    ],
+    "status": "active",
+    "notes": "Added after the 25 Jun 2026 West Beach sweep from the exact realestate.com.au direct listing. Active sale listing with no sold, under-offer, under-contract, leased, withdrawn or unavailable marker shown on the exact page. The listing was published 15 Jun 2026 and describes a 795sqm absolute beachfront esplanade site with uninterrupted front-row ocean views, direct access to the sand and potential for luxury apartments or a bespoke beachfront home. Price is advertised as Contact Agent with no visible guide. West Beach growth evidence checked: realestate.com.au market insights show 11% annual house growth and 24% annual unit growth, but no credible 5-year evidence above 15% annual growth was available, so no investment flag is applied.",
+    "image": "https://i2.au.reastatic.net/800x600/e01210aac8c0d4e888d3a9da9a04fdceeb8e3520cd041886659191758ad33013/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e01210aac8c0d4e888d3a9da9a04fdceeb8e3520cd041886659191758ad33013/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-west%2Bbeach-151492676",
+    "investmentStar": false
+  },
+  {
     "id": "sa-west-beach-2a-ocean",
     "title": "2A Ocean Avenue",
     "suburb": "West Beach",
@@ -26232,7 +26622,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "listedDate": "2026-04-24",
-    "price": 2700000,
+    "price": 2500000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -26244,7 +26634,7 @@ const sampleProperties = [
       "Major city"
     ],
     "status": "active",
-    "notes": "South Esplanade penthouse in the Promenade Building with steps to Glenelg Beach. Price is the midpoint of the advertised range.",
+    "notes": "South Esplanade penthouse in the Promenade Building with steps to Glenelg Beach. Exact realestate.com.au listing rechecked 25 June 2026 and still active, now advertised at $2.45M - $2.55M; price is the midpoint of that advertised range.",
     "image": "https://i2.au.reastatic.net/800x600/1faad5189d2bb6e08c2adb3ff8640cb0327779b267fc689f596a65cf4d2ea514/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1faad5189d2bb6e08c2adb3ff8640cb0327779b267fc689f596a65cf4d2ea514/image.jpg",
@@ -26279,7 +26669,8 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/2d7b8598677074dbda631317070fc7b444392d27a6b934e82f816dca90cefb51/image.jpg",
       "https://i2.au.reastatic.net/800x600/76a385b68e15c9b5ea271841cba0eb686dd5f5e2cce5c006022e5414385148dd/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-glenelg-150994120"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-glenelg-150994120",
+    "priceLabel": "$2.45M - $2.55M"
   },
   {
     "id": "sa-glenelg-49-3-holdfast-promenade",
@@ -26347,8 +26738,8 @@ const sampleProperties = [
       "Penthouse",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026, advertised as a Level 7 Holdfast Promenade penthouse in a premier beachfront address with uninterrupted ocean views, esplanade connection and direct access to Glenelg Beach. Price is the midpoint of the advertised $2.15M - $2.25M range.",
+    "status": "under_contract",
+    "notes": "Realestate.com.au Glenelg result card rechecked 25 June 2026 now flags this Holdfast Promenade penthouse as under offer / under contract prior to auction, so it is hidden from active results. The exact listing remains accessible and advertises a premier beachfront address with uninterrupted ocean views, esplanade connection and direct access to Glenelg Beach. Price is the midpoint of the advertised $2.15M - $2.25M range.",
     "image": "https://i2.au.reastatic.net/800x600/febc276f1f21632422ae8c9f32668edc7ced4a66767a6319495d3f9d858e1afd/image.jpg",
     "listingUrl": "https://www.realestate.com.au/property-apartment-sa-glenelg-150120120"
   },
@@ -26360,7 +26751,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "listedDate": "2026-04-22",
-    "price": 550000,
+    "price": 535000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -26371,8 +26762,8 @@ const sampleProperties = [
       "Colley Reserve views",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Second-floor Plaza Pier apartment on Holdfast Promenade with balcony views across Colley Reserve, close to Holdfast Shores Marina and Glenelg Beach. Advertised as Best Offer By 12/05 (USP).",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing rechecked 25 June 2026 now redirects to a sold listing showing $535,000 sold on 18 May 2026, so it is hidden from active results. The listing described a second-floor Plaza Pier apartment on Holdfast Promenade with balcony views across Colley Reserve, close to Holdfast Shores Marina and Glenelg Beach.",
     "image": "https://i2.au.reastatic.net/800x600/ea4f8f2acf157487859e0f032f92a9aa1efd6e092430e18ec2fc3151d3d8470f/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/ea4f8f2acf157487859e0f032f92a9aa1efd6e092430e18ec2fc3151d3d8470f/image.jpg",
@@ -26459,7 +26850,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "listedDate": "2026-05-06",
-    "price": null,
+    "price": 1000000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -26470,8 +26861,8 @@ const sampleProperties = [
       "Walk to beach",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 24 May 2026, advertised with sweeping water and Colley Reserve views from a large balcony and walking access to Glenelg Beach and Jetty Road. Advertised as Best Offer By 26/05 (USP).",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing rechecked 25 June 2026 now redirects to a sold listing, and the Glenelg result page reports $1,000,000 sold on 9 June 2026, so it is hidden from active results. The listing advertised sweeping water and Colley Reserve views from a large balcony and walking access to Glenelg Beach and Jetty Road.",
     "image": "https://i2.au.reastatic.net/800x600/66bd896bd71eed5fe5a1799378c8b65bf4918f23473110deb8faba06b15f07d3/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/66bd896bd71eed5fe5a1799378c8b65bf4918f23473110deb8faba06b15f07d3/image.jpg"
@@ -26486,7 +26877,7 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 20,
     "listedDate": "2026-04-29",
-    "price": null,
+    "price": 742000,
     "landSize": 97,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -26497,8 +26888,8 @@ const sampleProperties = [
       "Direct beach access",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 24 May 2026, advertised as a corner Colley Terrace apartment across from Colley Reserve with water and park views, direct access to Glenelg Beach and Holdfast Shores Marina, and a one-minute stroll to Jetty Road.",
+    "status": "sold",
+    "notes": "Realestate.com.au Glenelg result page rechecked 25 June 2026 reports this address as sold on 26 May 2026 for $742,000, so it is hidden from active results. The listing advertised a corner Colley Terrace apartment across from Colley Reserve with water and park views, direct access to Glenelg Beach and Holdfast Shores Marina, and a one-minute stroll to Jetty Road.",
     "image": "https://i2.au.reastatic.net/800x600/81cbc7ff2746558c007a4d3c193a7e58f0cf39bb51eef2892c3f4ef32e6b35ba/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/81cbc7ff2746558c007a4d3c193a7e58f0cf39bb51eef2892c3f4ef32e6b35ba/image.jpg"
@@ -26524,8 +26915,8 @@ const sampleProperties = [
       "Walk to beach",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 24 May 2026, advertised as a level-four Colley Terrace unit with coastal water views, a parkside outlook over Colley Reserve, and Glenelg Beach, Jetty Road and the marina a short stroll away. Price is the midpoint of the advertised range.",
+    "status": "under_offer",
+    "notes": "Realestate.com.au Glenelg result card rechecked 25 June 2026 now flags this Colley Terrace unit as under offer, so it is hidden from active results. The exact listing remains accessible and advertises a level-four unit with coastal water views, a parkside outlook over Colley Reserve, and Glenelg Beach, Jetty Road and the marina a short stroll away. Price is the midpoint of the advertised range.",
     "image": "https://i2.au.reastatic.net/800x600/5532b5ca29dc32f6b584864db94777efed7802b8319f2d039e123cbda545c1f9/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/5532b5ca29dc32f6b584864db94777efed7802b8319f2d039e123cbda545c1f9/image.jpg"
@@ -26620,6 +27011,35 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/1dc9d21c3960074e7c69e9afd5f694b301a396984d17e9baa058fe3bcd0550a3/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-townhouse-sa-glenelg%2Bnorth-150814692"
+  },
+  {
+    "id": "sa-glenelg-north-34-8-9-north-esplanade",
+    "title": "34/8-9 North Esplanade",
+    "suburb": "Glenelg North",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 20,
+    "listedDate": "2026-06-10",
+    "price": 1850000,
+    "priceLabel": "$1,850,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "North Esplanade beachfront address opposite Glenelg North Beach",
+      "Front-row apartment between marina waters and the sand",
+      "Dual balconies with marina and coastal lifestyle appeal",
+      "Major city beachside location around 20 minutes to Adelaide CBD"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au apartment listing verified 25 June 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn, off-market, moved or unavailable marker shown. The listing advertises $1,850,000, a 10 June 2026 publish date, a North Esplanade position between the marina waters and Glenelg North Beach, two secure car spaces, dual balconies, lift access, storage cage and an estimated rental assessment of $900 to $1000 per week. Land size was not published for this strata apartment, so landSize is set to null. Available suburb growth evidence was checked, but no credible five-year evidence supported a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/bac6017c8a7ba1af502798db469ce78c5810868de17480f17059b242c4bc7b73/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/bac6017c8a7ba1af502798db469ce78c5810868de17480f17059b242c4bc7b73/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-sa-glenelg%2Bnorth-151449184",
+    "investmentStar": false
   },
   {
     "id": "sa-moana-12-328-esplanade",
@@ -26854,8 +27274,8 @@ const sampleProperties = [
       "Large block",
       "Holiday rental"
     ],
-    "status": "active",
-    "notes": "Quiet Sellicks Beach Esplanade holding with southwest sea and coastline views. Price is the midpoint of the advertised range.",
+    "status": "sold",
+    "notes": "Hidden after the 25 June 2026 Sellicks Beach sweep. The exact realestate.com.au listing now redirects to a sold page showing sold on 04 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/983c750467791934e96cb564b6607e8a3693a7f2ae03d7d03dd40298fb9b7844/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/983c750467791934e96cb564b6607e8a3693a7f2ae03d7d03dd40298fb9b7844/image.jpg",
@@ -27019,6 +27439,38 @@ const sampleProperties = [
       "max": 1000000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "sa-sellicks-lot-6-seascape-view",
+    "title": "Lot 6 Seascape View",
+    "suburb": "Sellicks Beach",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-05-20",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 4186,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Seaside development site",
+      "Ocean views",
+      "Large coastal holding",
+      "Planning consent for five allotments"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 25 June 2026 from the exact direct listing URL. The listing describes a premium seaside 4186sqm Sellicks Beach development opportunity rising above the coastline with ocean outlooks, area views and planning consent for five community allotments. Price is Contact Agent. Available Sellicks Beach five-year growth evidence was checked; no credible evidence specific to this land/development holding substantiated a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/_msJmAg0xyLoJpI-LPlvX-LGvt4%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020857047_1_1_260520_063134-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/_msJmAg0xyLoJpI-LPlvX-LGvt4%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020857047_1_1_260520_063134-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/0uxwWBoqGumLX35zYl0L0B6uYbM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020857047_2_1_260520_063134-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/OgGiGyUN6Ew_77sNVEe7RkfDoSc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020857047_3_1_260520_063134-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/PpSt-5Zf-tnJz55YWzXdTXxdo6Q%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020857047_4_1_260520_063134-w2000-h1333"
+    ],
+    "listingUrl": "https://www.domain.com.au/lot-6-seascape-view-sellicks-beach-sa-5174-2020857047",
+    "investmentStar": false
   },
   {
     "id": "sa-christies-13a-esplanade",
@@ -27192,6 +27644,100 @@ const sampleProperties = [
     "priceLabel": "Contact Agent"
   },
   {
+    "id": "sa-christies-303-50-esplanade",
+    "title": "303/50 Esplanade",
+    "suburb": "Christies Beach",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 35,
+    "daysOnMarket": null,
+    "price": 1305000,
+    "priceLabel": "$1.28M - $1.33M",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Esplanade apartment",
+      "Front-row coastal position",
+      "Beachfront precinct",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active Domain suburb-result listing verified during the 25 June 2026 Christies Beach sweep. Three-bedroom apartment in the 50 Esplanade beachfront apartment building on the Christies Beach foreshore, advertised at $1.28M - $1.33M. Land size was not published for the strata apartment, so landSize is null. Christies Beach five-year growth evidence was checked; available evidence did not substantiate a reliable above-15% annual five-year investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/QXRhi8JT5i1OdySJy1NEnNBU8qg%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_1_1_260618_035320-w3402-h2268",
+    "images": [
+      "https://rimh2.domainstatic.com.au/QXRhi8JT5i1OdySJy1NEnNBU8qg%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_1_1_260618_035320-w3402-h2268",
+      "https://rimh2.domainstatic.com.au/MHqSeB-xEP10DTGvxa9jtuZ2OvA%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_2_1_260618_035320-w4096-h2790",
+      "https://rimh2.domainstatic.com.au/zLd_zzoZBKcutZ9CYWK0tpM-cLA%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_3_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/CV9_g7KxbuLHBRbDmwbRdy0s1Rk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_4_1_260618_035320-w4096-h2731",
+      "https://rimh2.domainstatic.com.au/UJB10FH9Bb3EcQFgQfncXBk6qxY%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_5_1_260618_035320-w4096-h2731",
+      "https://rimh2.domainstatic.com.au/DMH24Vf11JpL6ef6rAWZfCry9go%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_6_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/WSJ0F4Pljufi_pNGWNozpmkb5Ks%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_7_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/Enwhs0AVhpNTLg3nt1PMniFG7cI%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_8_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/zCp-9jo1lq1bseqL9VXgdRzI7Q0%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_9_1_260618_035320-w3396-h2264",
+      "https://rimh2.domainstatic.com.au/6Po8HinQbEM82Bi2w6n5QF2q6X8%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_10_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/khluy0nkb4DP93if3l74mBA_YkQ%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_11_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/Iwcftuja7oSgtRcabl1941_FSdw%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_12_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/5ZY3zzIC8KRfv4xvQKxBq7euWeU%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_13_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/KhtoyoAidoMaVoEAdKQ7aRnSy3A%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_14_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/RuSRqmnBbmMqKZk6dMdlFebquDk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_15_1_260618_035320-w4096-h2732",
+      "https://rimh2.domainstatic.com.au/OEuB4DebEYSzxLyUygaJ6uiYb5I%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_16_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/tdnbtnH1aXDIUSz_Zg8ImfYYi9k%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_17_1_260618_035320-w4096-h2729",
+      "https://rimh2.domainstatic.com.au/6yMlBOwz8b7IX2IGazrYFiW2fYs%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_18_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/HJtVDYEF5JVqfubqF1D5oqB4tyU%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_19_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/_Pal4aTIwWGCQHH3Lt0yEyLzYGg%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_20_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/9rEAryoKWuvqWYGGJVexKuEbABk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_21_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/fTVJB8sAIVXQAhLHK4MpPv0K4ME%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_22_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/UsQuae1duk0qhMXdH42wfjRNx1A%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_23_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/5WdXPE8MmLfUhtVi4oiIUqDfNko%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_24_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/F9cNAiQl09CKROZLI__bxp7zlec%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_25_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/oUNTnFOU02TwMm9Ycrjeqenjosk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_26_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/iZxGXq-X-x4VjUh6vaU-E1KQEZI%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_27_1_260618_035320-w4096-h2728",
+      "https://rimh2.domainstatic.com.au/l_KHKOeZeQV0gtsXUc3jeKNmXFM%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_28_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/4f7W0j0kMgjGOcEW_TTg5jMZf9U%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_29_1_260618_035320-w3402-h2268",
+      "https://rimh2.domainstatic.com.au/kYQC7BQKomEbW-JLOQs2hGvh9qA%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_30_1_260618_035320-w3402-h2268",
+      "https://rimh2.domainstatic.com.au/CBL_nesJ4yQCaXKxfFkpaXDUKu8%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_31_1_260618_035320-w3402-h2268",
+      "https://rimh2.domainstatic.com.au/8rIV06nU6-oICIIka-4AhjcsoRA%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_32_1_260618_035320-w4096-h2734",
+      "https://rimh2.domainstatic.com.au/HZ8RQZLcjv5r7aKnI5PQj-bNZMk%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_33_1_260618_035320-w4096-h2730",
+      "https://rimh2.domainstatic.com.au/PuP9Ry_5afls7yqmLuX3-FNtPQ0%3D/720x540/filters%3Aformat%28webp%29%3Aquality%2885%29/2020925722_34_3_260618_035320-w3000-h4000"
+    ],
+    "listingUrl": "https://www.domain.com.au/303-50-esplanade-christies-beach-sa-5165-2020925722",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-christies-lot-10-13-esplanade",
+    "title": "Lot 10/13 Esplanade",
+    "suburb": "Christies Beach",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-11",
+    "price": 1400000,
+    "priceLabel": "$1.35M - $1.45M",
+    "landSize": 446,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront opportunity",
+      "Esplanade frontage",
+      "Direct beach access",
+      "Vacant land"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 25 June 2026 from the direct listing page. The listing advertises Lot 10/13 Esplanade as an absolute beachfront opportunity on a 446sqm allotment, positioned opposite the shoreline with uninterrupted ocean outlooks and direct access to the Christies Beach beachfront lifestyle. First listed on Domain on 11 June. Christies Beach five-year growth evidence was checked; available evidence did not substantiate a reliable above-15% annual five-year investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/p5yF9UJaXFDvwW31Zqjus9KrnGw%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020909481_1_1_260611_055844-w4800-h3200",
+    "images": [
+      "https://rimh2.domainstatic.com.au/p5yF9UJaXFDvwW31Zqjus9KrnGw%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020909481_1_1_260611_055844-w4800-h3200",
+      "https://rimh2.domainstatic.com.au/wCQjROhHRF-8Bpy5KruZQwa1RsM%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020909481_2_1_260611_044123-w4242-h2386",
+      "https://rimh2.domainstatic.com.au/usCEexj8ndU308XBeP5t47WcFYg%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020909481_3_1_260611_044123-w4242-h2386",
+      "https://rimh2.domainstatic.com.au/pEE3UR4AwNddJLOhTrtjovfmmiE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020909481_4_1_260611_044124-w4242-h2386"
+    ],
+    "listingUrl": "https://www.domain.com.au/lot-10-13-esplanade-christies-beach-sa-5165-2020909481",
+    "investmentStar": false
+  },
+  {
     "id": "sa-aldinga-252-esplanade",
     "title": "252 Esplanade",
     "suburb": "Aldinga Beach",
@@ -27210,8 +27756,8 @@ const sampleProperties = [
       "Large block",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Cleared beachfront Esplanade land with uninterrupted ocean views and dual direct beach access close by. Price is the midpoint of the advertised range.",
+    "status": "unavailable",
+    "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact Homely listing URL could not be reopened during verification and the current Homely Aldinga Beach sale results no longer included this beachfront land listing.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12881689-1.jpg?named-transform=webDefaultTransform&version=ZYWy617pxhXLIv04jiAEaMLQG176bePV",
     "listingUrl": "https://www.homely.com.au/homes/252-esplanade-aldinga-beach-sa-5173/12881689"
   },
@@ -27290,8 +27836,8 @@ const sampleProperties = [
       "Ocean views",
       "Holiday rental"
     ],
-    "status": "active",
-    "notes": "Modern 2021-built beachfront home overlooking Aldinga Reef Aquatic Reserve with beach access nearby.",
+    "status": "under_offer",
+    "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact realestate.com.au listing for 121 Esplanade now shows Under offer while still advertising the beachfront home, sea and beach views, and nearby beach access.",
     "image": "https://i2.au.reastatic.net/800x600/b74035de31e6de7346a4305fe551bb4e8a2d20c7e917f8402412a3de9bb71c77/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/be2806a31deb60ef0db8061dcb126ff0b9817d01a30735b0a2b75f3e54313e00/image.jpg",
@@ -27351,8 +27897,8 @@ const sampleProperties = [
       "Architect-designed",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Architect-designed Mesa residence with absolute Esplanade frontage and nothing between the home and shoreline but a short stroll. Price is the midpoint of the advertised range.",
+    "status": "unavailable",
+    "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact Homely listing URL could not be reopened during verification and the current Homely Aldinga Beach sale results no longer included this Esplanade residence.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12703325-1.jpg?named-transform=webDefaultTransform&version=DUgHsMPiTegu4U3lCLd0hvGHn8Skn.29",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12703325-1.jpg?named-transform=webDefaultTransform&version=DUgHsMPiTegu4U3lCLd0hvGHn8Skn.29",
@@ -27529,8 +28075,8 @@ const sampleProperties = [
       "Rooftop terrace",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Architectural Port Noarlunga South Esplanade home with beachfront positioning, panoramic coastal views and rooftop terrace. Expressions of interest listing.",
+    "status": "under_contract",
+    "notes": "Hidden after the 25 June 2026 Port Noarlunga South sweep. The exact realestate.com.au listing now shows UNDER CONTRACT and Under offer, while still advertising the Esplanade beachfront position, panoramic coastal views and rooftop terrace.",
     "image": "https://i2.au.reastatic.net/800x600/effa75c7584c10f129a74e1d02f97f739526cbff806173a567123cbf91af82ec/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/effa75c7584c10f129a74e1d02f97f739526cbff806173a567123cbf91af82ec/image.jpg",
@@ -27568,13 +28114,14 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Brand-new off-plan Esplanade coastal homes advertised with uninterrupted sea views and a beachfront setting. Price guide advertised as $1.95M-$2.095M.",
-    "image": "https://bucket-api.domain.com.au/v1/bucket/image/2020819965_1_1_260506_055348-w3840-h2400",
+    "image": "https://rimh2.domainstatic.com.au/rduro8fwsROsgCiRm_Stwf2SHNE=/1680x720/filters:format(webp):quality(85)/2020819965_1_1_260506_055348-w3840-h2400",
     "images": [
       "https://rimh2.domainstatic.com.au/rduro8fwsROsgCiRm_Stwf2SHNE=/1680x720/filters:format(webp):quality(85)/2020819965_1_1_260506_055348-w3840-h2400",
       "https://rimh2.domainstatic.com.au/_eC6dbtBsBDI-InjUOsowoDCMPc=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020819965_15_3_260506_055404-w2480-h3508",
       "https://rimh2.domainstatic.com.au/Ib0dd74OAdNiuj4HVz5vDAwp5aw=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020819965_2_1_260506_055348-w3840-h2879",
       "https://rimh2.domainstatic.com.au/ykkRY8geVw0DmNgUEvC22OC203E=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020819965_3_1_260506_055348-w3840-h2879"
     ],
+    "allowDomainListing": true,
     "listingUrl": "https://www.domain.com.au/183-esplanade-port-noarlunga-south-sa-5167-2020819965"
   },
   {
@@ -27586,20 +28133,24 @@ const sampleProperties = [
     "majorCityMinutes": 45,
     "daysOnMarket": null,
     "price": null,
-    "landSize": 354.26,
+    "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
     "directBeachAccess": true,
     "factors": [
-      "Direct coastal frontage",
-      "Esplanade position",
-      "Beach doorstep",
+      "Beachfront Esplanade locale",
+      "Unrestricted ocean views",
+      "Beach-to-home lifestyle",
       "House and land package"
     ],
-    "status": "unavailable",
-    "notes": "Detached house and land package on Port Noarlunga South Esplanade previously advertised with direct coastal frontage, ocean-on-your-doorstep positioning and one dwelling still available. Hidden because the exact realestate.com.au listing URL no longer opens.",
-    "image": "https://www.realestate.com.au/property-image/147770356/1",
-    "listingUrl": "https://www.realestate.com.au/property-house-sa-port%2Bnoarlunga%2Bsouth-147770356"
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 June 2026 from the exact direct listing URL. The page advertises Beachfront Luxury on the Esplanade, brand-new Scott Salisbury house-and-land packages, unrestricted ocean views, balcony living and a beach-to-home lifestyle. Price is Contact Agent and the accessible page data did not expose a hidden marketing_price_range. Available suburb evidence was checked; current portal market insight showed 10% annual house growth, with no credible 5-year evidence supporting a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/0cd04bd3749c123a8c521d385fc8c116810f2bafaec721deb463e3f8534e21be/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0cd04bd3749c123a8c521d385fc8c116810f2bafaec721deb463e3f8534e21be/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-sa-port%2Bnoarlunga%2Bsouth-149770796",
+    "investmentStar": false
   },
   {
     "id": "sa-sellicks-lot-179-8-esplanade",
@@ -27743,8 +28294,8 @@ const sampleProperties = [
       "Seconds to shoreline",
       "Large coastal house"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised as set just footsteps from the shoreline, with sea views, beach access, a 722sqm corner parcel, five bedrooms and Adelaide access in about 75 minutes. Price is the advertised asking price. Five-year suburb growth evidence checked; available numeric evidence did not clearly support an above-15% annual growth flag.",
+    "status": "unavailable",
+    "notes": "Set unavailable 25 Jun 2026 during the Carrickalinga sweep: the exact realestate.com.au listing ID was absent from the live Carrickalinga sale result page and did not resolve through targeted exact-ID listing search. Previously advertised as footsteps from the shoreline with sea views, beach access, a 722sqm corner parcel, five bedrooms and Adelaide access in about 75 minutes.",
     "image": "https://i2.au.reastatic.net/800x600/5642606bab077d402afe80b2380116d57fafe805bbe8e4c5b9a3279d2158d819/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/5642606bab077d402afe80b2380116d57fafe805bbe8e4c5b9a3279d2158d819/image.jpg"
@@ -28000,8 +28551,8 @@ const sampleProperties = [
       "Coastal lifestyle",
       "Lower entry price"
     ],
-    "status": "active",
-    "notes": "Cape Jervis home with farmland, ocean and Kangaroo Island views. Price is the midpoint of the advertised range.",
+    "status": "under_contract",
+    "notes": "Exact realestate.com.au listing verified 25 Jun 2026 now shows Under contract / Under offer, so this Cape Jervis record is hidden from the active app.",
     "image": "https://i2.au.reastatic.net/800x600/2966fa2b35a1c02ca688b79369e99d35de7542ffa8ac2c78b0c48197d8871386/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/2966fa2b35a1c02ca688b79369e99d35de7542ffa8ac2c78b0c48197d8871386/image.jpg",
@@ -28237,8 +28788,8 @@ const sampleProperties = [
       "Holiday rental",
       "Fleurieu"
     ],
-    "status": "active",
-    "notes": "Second Valley holiday home with sweeping ocean views from a large deck and a short stroll to the beach. Price advertised as contact agent.",
+    "status": "under_offer",
+    "notes": "Hidden after the Second Valley sweep. The exact-suburb Domain result card for the same address shows Under offer / Under Contract; the realestate.com.au listing still opens but no longer has enough confidence to remain active.",
     "image": "https://i2.au.reastatic.net/800x600/3fbc5da02f2af7f11faa66cead3f04808508b9e397ab863a8cbf7fccc376c3b8/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3fbc5da02f2af7f11faa66cead3f04808508b9e397ab863a8cbf7fccc376c3b8/image.jpg",
@@ -28294,9 +28845,13 @@ const sampleProperties = [
       "Large block",
       "High-clearance garage"
     ],
-    "status": "sold",
-    "notes": "Elevated Cape Jervis Esplanade-position home with ocean and Kangaroo Island views. Marked sold after the Cape Jervis suburb result page showed a 23 Feb 2026 sale.",
-    "image": "https://www.realestate.com.au/property-image/149610992/1",
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL. The listing advertises a rare elevated Esplanade position with ocean, Gulf St Vincent and Kangaroo Island views, a 1,200sqm allotment, large front balcony and high-clearance garage. Price is the midpoint of the advertised $750,000 - $775,000 range.",
+    "image": "https://rimh2.domainstatic.com.au/s-nxX7cWIth9ncOhWkG_KhJT-eI%3D/660x440/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020416134_1_1_251112_025408-w1920-h1278",
+    "images": [
+      "https://rimh2.domainstatic.com.au/s-nxX7cWIth9ncOhWkG_KhJT-eI%3D/660x440/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020416134_1_1_251112_025408-w1920-h1278",
+      "https://rimh2.domainstatic.com.au/WMqprtTfye2dZ19GVDiJJa9S1Pg%3D/660x440/filters%3Aformat%28jpeg%29%3Aquality%2880%29/2020416134_2_1_251112_025408-w2636-h1974"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-sa-cape%2Bjervis-149610992"
   },
   {
@@ -31319,9 +31874,8 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 25,
     "listedDate": "2026-05-21",
-    "daysOnMarket": 3,
-    "price": null,
-    "priceLabel": "Best Offers by Mon 8th June (USP)",
+    "price": 6195000,
+    "priceLabel": "$5,900,000 - $6,490,000",
     "landSize": 432,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -31334,7 +31888,7 @@ const sampleProperties = [
       "Commercial-grade coastal residence"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing verified 24 May 2026 from the exact direct listing URL. Advertised as a Torrens Title Somerton Park Esplanade residence on 432sqm with premier beachfront positioning, uninterrupted 180-degree ocean panoramas, approximately 480sqm of living across three levels, and Best Offers by Mon 8th June.",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL. Advertised as a Torrens Title Somerton Park Esplanade residence on 432sqm with premier beachfront positioning, uninterrupted 180-degree ocean panoramas, approximately 480sqm of living across three levels, and a current $5.9m-$6.49m guide.",
     "image": "https://i2.au.reastatic.net/800x600/8f8a685214897dcdb7e6244c58b16ff36c3c106a4b5f897b59d3588c1a69b584/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8f8a685214897dcdb7e6244c58b16ff36c3c106a4b5f897b59d3588c1a69b584/image.jpg"
@@ -31343,6 +31897,39 @@ const sampleProperties = [
     "investmentStar": true,
     "investmentAnnualGrowth5Yr": 27.1,
     "investmentReason": "realestate.com.au Somerton Park profile reports 27.1% annual compound growth for houses and shows 5-year median price trend evidence."
+  },
+  {
+    "id": "sa-somerton-park-24a-esplanade",
+    "title": "24A Esplanade",
+    "suburb": "Somerton Park",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 25,
+    "listedDate": "2026-06-10",
+    "price": null,
+    "priceLabel": "Contact Agent; Best Offers By 5pm Monday 29th June (Unless Sold Prior)",
+    "landSize": 379,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Esplanade frontage",
+      "Front-row beach position",
+      "Uninterrupted ocean views",
+      "Beach-front feature",
+      "Prestige coastal residence"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 25 Jun 2026 from the exact direct listing URL. Front-row Somerton Park Esplanade residence on 379sqm with uninterrupted ocean views, beach-front positioning, four bedrooms, three bathrooms and two car spaces. Domain says it was first listed on 10 June.",
+    "image": "https://rimh2.domainstatic.com.au/jK6C0qGI63As3wy-t9WglkRnLC4=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019078766_1_1_260609_090201-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/jK6C0qGI63As3wy-t9WglkRnLC4=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019078766_1_1_260609_090201-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/oI8rNc4eiV5SEW0KI72fgrszY40=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019078766_2_1_260609_090201-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/lpTzivR9v1IcmZjZKD1CqPm5rEY=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019078766_3_1_260609_090201-w2000-h1500",
+      "https://rimh2.domainstatic.com.au/bG5lK_jyu43d25HbsuuzZADpBRc=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019078766_30_1_260609_090201-w2000-h1254"
+    ],
+    "listingUrl": "https://www.domain.com.au/24a-esplanade-somerton-park-sa-5044-2020906832",
+    "investmentStar": false
   },
   {
     "id": "sa-marino-3-westcliff",
@@ -31731,8 +32318,8 @@ const sampleProperties = [
     "nearestMajorCity": "Adelaide",
     "majorCityMinutes": 45,
     "listedDate": "2026-05-20",
-    "price": 1850000,
-    "priceLabel": "$1,800,000 - $1,900,000",
+    "price": 2100000,
+    "priceLabel": "$2,100,000 sold on 03 Jun 2026",
     "landSize": 703,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -31743,8 +32330,8 @@ const sampleProperties = [
       "Moments from sand and coastal trails",
       "Tightly held 703sqm coastal allotment"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 25 May 2026 from the exact direct listing URL. The listing advertises Vila Oleander as a rare 703sqm holding in a tightly held Maslin Beach coastal pocket, with potential for beachfront subdivision or redevelopment STCC, uninterrupted beach and ocean views, beach views from the master bedroom, kitchen and main living area, and a position moments from the sand, Maslin Beach carpark and coastal walking trails. Price is the midpoint of the advertised $1.8M-$1.9M range. Available five-year Maslin Beach suburb and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Sold status verified 25 Jun 2026 from the exact realestate.com.au listing URL, which redirects to the sold page and shows $2,100,000 sold on 03 Jun 2026. The listing previously advertised Vila Oleander as a rare 703sqm Maslin Beach coastal holding with potential for beachfront subdivision or redevelopment STCC, uninterrupted beach and ocean views, beach views from the master bedroom, kitchen and main living area, and a position moments from the sand, Maslin Beach carpark and coastal walking trails.",
     "image": "https://i2.au.reastatic.net/800x600/225c9b594d8f58e761687e5e8a05c597cd280c64f8bed7a614c724ebc8aa05a4/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/225c9b594d8f58e761687e5e8a05c597cd280c64f8bed7a614c724ebc8aa05a4/image.jpg"
@@ -31761,7 +32348,8 @@ const sampleProperties = [
     "majorCityMinutes": 45,
     "daysOnMarket": null,
     "listedDate": null,
-    "price": 2800000,
+    "price": 3200000,
+    "priceLabel": "$3.2M",
     "landSize": 42800,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -31773,7 +32361,7 @@ const sampleProperties = [
       "Panoramic sea views"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026, advertised as a rare 4.28ha Maslin Beach acreage property metres from the coast, one of only seven large properties bordering Maslin Beach, with the property bordering a nature reserve and paths connecting to the dunes, shoreline and clifftop walks. Price is advertised at $2.8M. Five-year Maslin Beach growth evidence was checked; realestate.com.au/PropTrack reports annual compound growth of 14.5% for houses, below the above-15% investment-star threshold.",
+    "notes": "Active realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL, advertised as a rare 4.28ha Maslin Beach acreage property metres from the coast, one of only seven large properties bordering Maslin Beach, with the property bordering a nature reserve and paths connecting to the dunes, shoreline and clifftop walks. Price is advertised at $3.2M. Five-year Maslin Beach growth evidence was checked; available portal evidence did not substantiate a verified above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/da5312bdce31c0645a042f731207ca5c737c06f96b30a5303f1ab039f5a0db65/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/da5312bdce31c0645a042f731207ca5c737c06f96b30a5303f1ab039f5a0db65/image.jpg"
@@ -31850,6 +32438,67 @@ const sampleProperties = [
     "notes": "Large tourist-accommodation-zoned Williss Drive allotment advertised with beach access via a right of way through the sand dunes and short walking access to Normanville beach. Realestate.com.au now shows the exact listing as under offer, so it is hidden from the active app view.",
     "image": "https://i2.au.reastatic.net/800x600/ed013a2744111c357bbf825d9cebee97444cd8a27d61ee80cbc21d7325976ce3/image.jpg",
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-sa-normanville-203533216"
+  },
+  {
+    "id": "sa-normanville-5-107-main-south",
+    "title": "5/107 Main South Road",
+    "suburb": "Normanville",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 70,
+    "listedDate": null,
+    "price": 802500,
+    "priceLabel": "$785,000 to $820,000",
+    "landSize": 561,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "South Shores gated beachfront estate",
+      "300m boardwalk to beach",
+      "Two pools and resort amenities",
+      "Holiday rental and lifestyle appeal"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 25 Jun 2026 from the exact listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Villa 5 in South Shores Normanville with two swimming pools, playgrounds, lawns, bike tracks, a half-court basketball area, on-site management and a 300m boardwalk to the beach. Price is the midpoint of the displayed $785,000 to $820,000 range. Available Normanville suburb and comparable growth evidence was checked during this sweep; no credible five-year evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/5e3508940d5d7967a6bbc0ea36e1205686587c1b70e4ab317363cdecbc964986/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5e3508940d5d7967a6bbc0ea36e1205686587c1b70e4ab317363cdecbc964986/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-villa-sa-normanville-149223060",
+    "investmentStar": false
+  },
+  {
+    "id": "sa-normanville-119-williss",
+    "title": "119 Williss Drive",
+    "suburb": "Normanville",
+    "state": "SA",
+    "nearestMajorCity": "Adelaide",
+    "majorCityMinutes": 70,
+    "listedDate": null,
+    "price": 2600000,
+    "priceLabel": "$2,600,000",
+    "landSize": 59000,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "5.9ha coastal acreage",
+      "Direct beach access",
+      "Tourist accommodation zoning",
+      "Multiple dwellings and cottages"
+    ],
+    "status": "active",
+    "notes": "Active Domain direct listing verified 25 Jun 2026 from the exact listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 119 Williss Drive as approximately 14 acres / 5.9ha of prime coastal real estate in Normanville with beach access, seven bedrooms across the main home and cottages, Tourist Accommodation zoning and potential future residential growth-area upside STCC. Homely also displayed the same address as an active direct listing during the sweep, so this record keeps the Domain direct URL to avoid a duplicate cross-portal record. Available Normanville suburb and comparable growth evidence was checked during this sweep; no credible five-year evidence substantiated a greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/S4k0W3Wl6l9jPWCtI24V0yzH_98%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2018322726_1_1_230726_021836-w7111-h4000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/S4k0W3Wl6l9jPWCtI24V0yzH_98%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2018322726_1_1_230726_021836-w7111-h4000",
+      "https://rimh2.domainstatic.com.au/D6dLIHQg1tGsqrHQm1EvTzTrqHs%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2019896250_30_3_250520_064847-w3229-h4829",
+      "https://rimh2.domainstatic.com.au/b4eI0uUYmtnS03CrF24p_wB4nVw%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2019896250_3_1_250424_031710-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/YygqMr0xrAhf2tnP-3Dtj-jr7F0%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2019896250_4_1_250424_031709-w2000-h1333"
+    ],
+    "listingUrl": "https://www.domain.com.au/119-williss-drive-normanville-sa-5204-2019896250",
+    "investmentStar": false
   },
   {
     "id": "sa-moonta-bay-2a-hughes",
@@ -54473,6 +55122,66 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "vic-moorabool-265-325-lovely-banks",
+    "title": "265-325 Lovely Banks Road",
+    "suburb": "Moorabool",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 70,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 200800,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "20.08ha / 49.91-acre Greater Geelong landholding",
+      "Approx. 10km north of Geelong CBD",
+      "400m approx. from Urban Growth Zone and Rural Living Zone",
+      "Road frontage, farming use, landbanking and future development upside STCA"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Moorabool acreage listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises approx. 20.2ha / 49.91 acres zoned Farming Zone, a four-bedroom home, multiple sheds, extensive road frontage to Ballan Road and Lovely Banks Road, approx. 10km to Geelong CBD, about 400m from Urban Growth Zone and Rural Living Zone, and proximity to Western and Northern Geelong Growth Areas. Price is advertised as Contact Agent; a page-data probe did not expose a usable marketing_price_range token. Available regional and comparable growth evidence was checked; it did not provide credible five-year evidence above 15% annual growth, so no investment-star flag was applied.",
+    "image": "https://i2.au.reastatic.net/800x600/a982822fe54e47cd0480b425bde411b1750a8b4469b7ea242d7984f6aebf24a2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a982822fe54e47cd0480b425bde411b1750a8b4469b7ea242d7984f6aebf24a2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-vic-moorabool-148096420",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
+    "id": "vic-anakie-address-700273528",
+    "title": "Address available on request",
+    "suburb": "Anakie",
+    "state": "VIC",
+    "nearestMajorCity": "Melbourne",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 283300,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "28.33ha / approx. 70-acre Anakie farming parcel",
+      "Close to Northern Geelong Growth Area",
+      "Approx. 15 minutes to Lara amenities",
+      "Freeway access toward Geelong, Avalon Airport and Melbourne"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Anakie other/rural listing verified 25 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises approx. 28.33ha / 70 acres in one of Australia's fastest-growing regional areas, about 15 minutes to Lara amenities, close to the Northern Geelong Growth Area and with easy access to the Princes Freeway toward Geelong CBD or Melbourne CBD and about 25 minutes to Avalon Airport. Price is advertised as Contact Agent; a page-data probe did not expose a usable marketing_price_range token. Available regional and comparable growth evidence was checked; it did not provide credible five-year evidence above 15% annual growth, so no investment-star flag was applied.",
+    "image": "https://i2.au.reastatic.net/800x600/829b6fa2b34224fcfdd86504628adeec645e7210211d996761f3de165942c908/image.png",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/829b6fa2b34224fcfdd86504628adeec645e7210211d996761f3de165942c908/image.png"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-other-vic-anakie-700273528",
+    "listingCategory": "large",
+    "investmentStar": false
+  },
+  {
     "id": "vic-little-river-37-newtons",
     "title": "37 Newtons Road",
     "suburb": "Little River",
@@ -71550,8 +72259,8 @@ const sampleProperties = [
       "Front entertaining deck and panoramic surroundings",
       "Exclusive new complex in a central coastal position"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026 from the exact direct listing URL. The listing says the home is directly across from the foreshore and jetty and only 100m from the Yacht Club, with 262sqm land and 28 images. The advertised price range is $1,050,000 to $1,100,000, so price is stored as the midpoint. The exact realestate.com.au page showed no sold, under-offer or under-contract marker during verification. Coffin Bay five-year suburb/comparable growth evidence was checked; available evidence was mixed and not strong enough to justify an above-15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Under-offer realestate.com.au listing verified 25 Jun 2026 from the exact direct listing URL, so this record is hidden from the active app view. The listing says the home is directly across from the foreshore and jetty and only 100m from the Yacht Club, with 262sqm land and 28 images. The advertised price range is $1,050,000 to $1,100,000, so price is stored as the midpoint. Coffin Bay five-year suburb/comparable growth evidence was checked; available evidence was mixed and not strong enough to justify an above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/78e239a814881ee78d8cf7e9a55fde0056a2742561757c20864c44c082de3fe8/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/78e239a814881ee78d8cf7e9a55fde0056a2742561757c20864c44c082de3fe8/image.jpg"
@@ -74905,7 +75614,7 @@ const sampleProperties = [
   }
 ];
 
-const databaseUpdatedAt = "2026-06-15 19:02";
+const databaseUpdatedAt = "2026-06-25 15:11";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
