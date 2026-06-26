@@ -5324,7 +5324,7 @@ const sampleProperties = [
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 65,
     "daysOnMarket": null,
-    "price": 2500000,
+    "price": 2700000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -32703,7 +32703,7 @@ const sampleProperties = [
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 450,
     "daysOnMarket": 1,
-    "price": 2500000,
+    "price": 2700000,
     "landSize": 1334,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -32715,7 +32715,7 @@ const sampleProperties = [
       "Prestige home"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing reverified 15 May 2026, advertised as a front-row Esplanade residence directly opposite the Esperance foreshore precinct with sweeping bay and harbour views. Price is advertised as offers above $2,500,000 on the exact listing. The direct photo set was repaired from the matching Professionals Esperance listing for the same property after the existing record used a realestate.com.au/property-image wrapper. Five-year Esperance growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "notes": "Active realestate.com.au listing reverified 25 Jun 2026, advertised as a front-row Esplanade residence directly opposite the Esperance foreshore precinct with sweeping bay and harbour views. Price is advertised as offers above $2,700,000 on the exact listing. The direct photo set was previously repaired from the matching Professionals Esperance listing for the same property after the existing record used a realestate.com.au/property-image wrapper. Five-year Esperance growth evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
     "image": "https://images.professionals.com.au/properties/1382859/28880960/1500.jpg",
     "images": [
       "https://images.professionals.com.au/properties/1382859/28880960/1500.jpg",
@@ -32740,7 +32740,7 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-wa-esperance-149156424",
     "investmentStar": false,
-    "priceLabel": "Offers above $2,500,000"
+    "priceLabel": "Offers above $2,700,000"
   },
   {
     "id": "wa-hopetoun-41-whale-bay",
@@ -65703,8 +65703,8 @@ const sampleProperties = [
       "Vineyard surrounds",
       "Affordable lifestyle holding"
     ],
-    "status": "active",
-    "notes": "Active Domain rural listing for Bass Hill, advertised as a 30.5ha / 75.4-acre Clare Valley holding on the outskirts of Auburn with elevated country, sweeping rural views, rolling vineyard surrounds, privacy and lifestyle value. Price advertised at $600,000. Five-year Auburn comparable growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Set to under_offer on 25 Jun 2026 after the exact Domain listing URL displayed Under offer. Previously advertised as Bass Hill, a 30.5ha / 75.4-acre Clare Valley holding on the outskirts of Auburn with elevated country, sweeping rural views, rolling vineyard surrounds, privacy and lifestyle value at $600,000. Five-year Auburn comparable growth evidence was checked; available sources did not support a greater than 15% annual investment flag.",
     "image": "https://rimh2.domainstatic.com.au/Cfd1KbGN5gd43iuom7poGqzqptI%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020579909_1_1_260310_051142-w1600-h1068",
     "listingUrl": "https://www.domain.com.au/lot-54-tank-road-auburn-sa-5451-2020579909",
     "investmentStar": false,
@@ -72765,10 +72765,10 @@ const sampleProperties = [
       "Waterfront apartment, unit or house development angle"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing verified 15 May 2026 from the exact direct listing URL. The page advertises 30 & 40 Dowling Crescent as an exclusive waterfront opportunity with stunning views of Ceduna Shores, four of six allotments already sold, essential services connected, a retainer wall/geotechnical report and development appeal for apartments, units or houses. The active allotments are shown as Lot 1 / #30 at 454sqm for $105,000 and Lot 6 / #40 at 639sqm, while the listing header displays $105,000 & $139,000 and the body text lists Lot 6 at $144,000. Because the page markets multiple active lots under one URL, landSize is stored as null so price per sqm remains TBA. The exact page showed no sold, under-offer or under-contract marker during verification. OpenStats June quarter 2025 Ceduna SA2 data reports 3-bedroom house prices increased by an average 17.3% per annum compared with five years earlier; realestate.com.au's Ceduna market page also showed strong recent house growth, so the investment flag is based on suburb house-growth evidence rather than land-specific resale data.",
-    "image": "https://i2.au.reastatic.net/800x600/e892f11cc3d5e3d377ce3d0f5a4e8ba097e213fbfba076c46d9bf34bd70df93c/image.jpg",
+    "notes": "Active realestate.com.au listing reverified 25 Jun 2026 from the exact direct listing URL. The page advertises 30 & 40 Dowling Crescent as an exclusive waterfront opportunity with stunning views of Ceduna Shores, four of six allotments already sold, essential services connected, a retainer wall/geotechnical report and development appeal for apartments, units or houses. The active allotments are shown as Lot 1 / #30 at 454sqm for $105,000 and Lot 6 / #40 at 639sqm; the listing header displays $105,000 & $139,000 and the body text lists Lot 6 at $144,000. Because the page markets multiple active lots under one URL, landSize is stored as null so price per sqm remains TBA. The exact page showed no sold, under-offer or under-contract marker during reverification. OpenStats June quarter 2025 Ceduna SA2 data reports 3-bedroom house prices increased by an average 17.3% per annum compared with five years earlier; realestate.com.au's Ceduna market page also showed strong recent house growth, so the investment flag is based on suburb house-growth evidence rather than land-specific resale data.",
+    "image": "https://i2.au.reastatic.net/800x600/e89218085cd626e18a8809ee8358feda871508a1e40114311e2cf25cb8232720/image.jpg",
     "images": [
-      "https://i2.au.reastatic.net/800x600/e892f11cc3d5e3d377ce3d0f5a4e8ba097e213fbfba076c46d9bf34bd70df93c/image.jpg"
+      "https://i2.au.reastatic.net/800x600/e89218085cd626e18a8809ee8358feda871508a1e40114311e2cf25cb8232720/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-sa-ceduna-203255479",
     "investmentStar": true,
