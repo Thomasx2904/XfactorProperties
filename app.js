@@ -13,6 +13,117 @@
 
 const sampleProperties = [
   {
+    "id": "wa-dunsborough-12-4-lecaille",
+    "title": "12/4 Lecaille Court",
+    "suburb": "Dunsborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 180,
+    "listedDate": "2026-03-31",
+    "price": 1995000,
+    "priceLabel": "Offers From $1,995,000",
+    "landSize": 523,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Waterfront Dunsborough resort home in a sought-after beachfront setting",
+      "Advertised as seconds from Geographe Bay and directly overlooking the bay",
+      "Tourism / short-stay zoning with holiday letting and income flexibility",
+      "Four-bedroom, four-bathroom coastal residence on 523sqm"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Dunsborough listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers From $1,995,000, 523sqm land, Tourism / Short Stay zoning, a Waterfront Dunsborough beachfront resort position, seconds from Geographe Bay, and direct bay/coastal access through the resort setting. Domain and REIWA pages corroborated the same active listing and price.",
+    "image": "https://imagecdn.reiwa.com.au/listing/25/5008825-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/25/5008825-01.jpg?maxwidth=900&maxheight=600&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-dunsborough-150752628"
+  },
+  {
+    "id": "wa-dunsborough-14-4-lecaille",
+    "title": "14/4 Lecaille Court",
+    "suburb": "Dunsborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 180,
+    "listedDate": "2026-04-30",
+    "price": 2495000,
+    "priceLabel": "Offers from $2.495 million",
+    "landSize": 409,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Exclusive Waterfront Dunsborough beachfront resort address",
+      "Advertised with a short track to Geographe Bay shoreline",
+      "Four-bedroom coastal holiday home with income potential",
+      "Blue-chip Old Dunsborough beach and town-centre walkability"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Dunsborough listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers from $2.495 million, 409sqm land, a Waterfront Dunsborough beachfront resort location, a short track to the crystal-blue waters, and proximity to Geographe Bay, Old Dunsborough swimming beach and the town centre. Domain and REIWA pages corroborated the active listing.",
+    "image": "https://imagecdn.reiwa.com.au/listing/46/5017746-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/46/5017746-01.jpg?maxwidth=900&maxheight=600&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-dunsborough-150990216"
+  },
+  {
+    "id": "wa-dunsborough-27-28-geographe-bay",
+    "title": "27/28 Geographe Bay Road",
+    "suburb": "Dunsborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 180,
+    "price": 3950000,
+    "priceLabel": "Offers From $3.95 million",
+    "landSize": 233,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Penthouse in Geographe Apartments on a prime beachfront position",
+      "Advertised 180-degree ocean views over Geographe Bay",
+      "Fully furnished three-bedroom, three-bathroom residence",
+      "Walkable to Dunsborough cafes, restaurants and shops"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Dunsborough listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers From $3.95 million, 233sqm land, a bespoke fourth-level penthouse in Geographe Apartments, a prime beachfront position close to the shores of Geographe Bay, 180-degree ocean views and lock-and-leave beach-pad appeal. Domain and REIWA pages corroborated the same active listing.",
+    "image": "https://imagecdn.reiwa.com.au/listing/87/5007387-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/87/5007387-01.jpg?maxwidth=900&maxheight=600&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-dunsborough-150677620"
+  },
+  {
+    "id": "wa-dunsborough-14-28-geographe-bay",
+    "title": "14/28 Geographe Bay Road",
+    "suburb": "Dunsborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 180,
+    "listedDate": "2026-05-04",
+    "price": 3750000,
+    "priceLabel": "$3,750,000",
+    "landSize": 229,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Only true residential beachfront apartment complex in the South West",
+      "Opposite Geographe Bay foreshore with direct access to shoreline paths",
+      "Second-floor apartment with coastal outlook and parkland below",
+      "Approx. 100m to the beach and 400m to Dunsborough retail precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Dunsborough listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $3,750,000, 229sqm land, a second-floor residence in the only true residential beachfront apartment complex in the South West, opposite the Geographe Bay foreshore with direct access to coastal walking paths and the shoreline, and approx. 100m to the beach. Domain and REIWA pages corroborated the same active listing.",
+    "image": "https://imagecdn.reiwa.com.au/listing/67/5018767-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/67/5018767-01.jpg?maxwidth=900&maxheight=600&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-dunsborough-151087568"
+  },
+  {
     "id": "vic-riverslea-95-vardys",
     "title": "95 Vardys Road",
     "suburb": "Riverslea",
@@ -12385,6 +12496,34 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.homely.com.au/homes/24-spinnaker-boulevard-geographe-wa-6280/12108084",
     "investmentStar": false
+  },
+  {
+    "id": "wa-geographe-4-271-marine",
+    "title": "4/271 Marine Terrace",
+    "suburb": "Geographe",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 150,
+    "listedDate": "2026-06-17",
+    "price": 749000,
+    "priceLabel": "From $749,000",
+    "landSize": 336,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beach access",
+      "Ocean views",
+      "Gated coastal complex",
+      "Vacant land"
+    ],
+    "status": "active",
+    "notes": "Exact active listing verified on realestate.com.au and Domain. The listing advertises a 336sqm vacant block in a 10-lot gated complex with direct beach access down a private driveway, ocean views, and uninterrupted ocean-view potential under the estate building guidelines.",
+    "image": "https://i2.au.reastatic.net/800x600/95d0f87bd9dc8f2ebf85e40e1605c0f805cdb8b3d187238cb54ac8695c31b6fe/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/95d0f87bd9dc8f2ebf85e40e1605c0f805cdb8b3d187238cb54ac8695c31b6fe/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-geographe-204549844"
   },
   {
     "id": "wa-siesta-park-lot-53-caves",
@@ -32866,6 +33005,33 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-townhouse-wa-bunbury-150860304"
   },
   {
+    "id": "wa-bunbury-5-13-upper-esplanade",
+    "title": "5/13 Upper Esplanade",
+    "suburb": "Bunbury",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 115,
+    "daysOnMarket": 32,
+    "price": 669000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Upper Esplanade address",
+      "Beach at doorstep",
+      "Ocean views",
+      "CBD walk"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against Domain and Homely. The upgraded Upper Esplanade townhouse is advertised with ocean views from the living area, upstairs bedrooms and balcony, Bunbury Back Beach about 250m away, and a central beachside position. Homely showed 32 days on market and Domain confirmed the Offers Over $669,000 guide.",
+    "image": "https://rimh2.domainstatic.com.au/PcGlgIg7gdIwyxZM-ipNHHCfv4U=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2017049434_1_1_250524_054826-w1000-h667",
+    "images": [
+      "https://rimh2.domainstatic.com.au/PcGlgIg7gdIwyxZM-ipNHHCfv4U=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/2017049434_1_1_250524_054826-w1000-h667"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-wa-bunbury-151290740"
+  },
+  {
     "id": "wa-bunbury-19-11-19-casuarina",
     "title": "19/11-19 Casuarina Drive",
     "suburb": "Bunbury",
@@ -33329,8 +33495,8 @@ const sampleProperties = [
       "Protected ocean outlook",
       "Vacant land"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Dalyellup land listing verified 25 May 2026 from the exact direct listing URL and current Dalyellup portal sweep after the stored Homely URL was no longer openable in verification. The block is advertised as an oceanfront opportunity directly opposite the Indian Ocean in a desirable beachfront pocket, with uninterrupted ocean views and no future development obstructing the outlook. Price shown as offers over. Available suburb growth evidence was checked; no credible above-15% annual investment flag was supported.",
+    "status": "off_market",
+    "notes": "Marked off-market 26 Jun 2026 after Dalyellup sweep: the stored realestate.com.au direct listing URL no longer opens as an active sale listing, and current realestate.com.au property context shows 311 Norton Promenade as off market. The block had previously been advertised as an oceanfront opportunity directly opposite the Indian Ocean in a desirable beachfront pocket, with uninterrupted ocean views and no future development obstructing the outlook. Price shown as offers over. Available suburb growth evidence was checked; no credible above-15% annual investment flag was supported.",
     "image": "https://i2.au.reastatic.net/800x600/e235058c4722eb46b105e5e1244a5499147f0e82b4f50f86da282adfe7d89804/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e235058c4722eb46b105e5e1244a5499147f0e82b4f50f86da282adfe7d89804/image.jpg"
@@ -71846,6 +72012,99 @@ const sampleProperties = [
     "investmentReason": "Realestate.com.au's Busselton suburb profile reports 20.9% annual compound growth for units across the five-year median price trend; this listing adds direct Geographe Bay beach frontage and strata-title resort income potential."
   },
   {
+    "id": "wa-busselton-595-bussell-highway-one-bedroom",
+    "title": "One Bedroom Apartment - 595 Bussell Highway",
+    "suburb": "Busselton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 150,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach frontage on Geographe Bay",
+      "One-bedroom strata serviced apartment",
+      "Direct beach access resort setting",
+      "Full Abbey Beach Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Busselton serviced-apartment listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises a one-bedroom strata-titled apartment at Abbey Beach Resort, set right on Geographe Bay beach with beach frontage, fully furnished accommodation, personal-use and quarterly-income potential, and full resort facilities including pools, gym, sauna, tennis and squash courts, restaurants and bars. Price is advertised as Contact Agent and no land size is published.",
+    "image": "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-serviced%2Bapartment-wa-busselton-126654426",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 20.9,
+    "investmentReason": "Realestate.com.au's Busselton suburb profile reports 20.9% annual compound growth for units across the five-year median price trend; this listing adds direct Geographe Bay beach frontage and strata-title resort income potential."
+  },
+  {
+    "id": "wa-busselton-595-bussell-highway-studio-spa",
+    "title": "Studio Spa Suite - 595 Bussell Highway",
+    "suburb": "Busselton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 150,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach frontage on Geographe Bay",
+      "Studio spa strata serviced apartment",
+      "Direct beach access resort setting",
+      "Full Abbey Beach Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Busselton serviced-apartment listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises a studio spa suite at Abbey Beach Resort, set right on Geographe Bay beach with beach frontage, fully furnished accommodation, personal-use and quarterly-income potential, and full resort facilities including pools, gym, sauna, tennis and squash courts, restaurants and bars. Price is advertised as Contact Agent and no land size is published.",
+    "image": "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-serviced%2Bapartment-wa-busselton-126654082",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 20.9,
+    "investmentReason": "Realestate.com.au's Busselton suburb profile reports 20.9% annual compound growth for units across the five-year median price trend; this listing adds direct Geographe Bay beach frontage and strata-title resort income potential."
+  },
+  {
+    "id": "wa-busselton-595-bussell-highway-two-bedroom",
+    "title": "Two Bedroom Apartment - 595 Bussell Highway",
+    "suburb": "Busselton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 150,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach frontage on Geographe Bay",
+      "Two-bedroom strata serviced apartment",
+      "Direct beach access resort setting",
+      "Full Abbey Beach Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Busselton serviced-apartment listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises a two-bedroom strata-titled apartment at Abbey Beach Resort, set right on Geographe Bay beach with beach frontage, fully furnished accommodation, personal-use and quarterly-income potential, and full resort facilities including pools, gym, sauna, tennis and squash courts, restaurants and bars. Price is advertised as Contact Agent and no land size is published.",
+    "image": "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dfe099ba8162154e97454f1ccd7df952ab09eede734c608ecbf66ea397c87314/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-serviced%2Bapartment-wa-busselton-126392170",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": 20.9,
+    "investmentReason": "Realestate.com.au's Busselton suburb profile reports 20.9% annual compound growth for units across the five-year median price trend; this listing adds direct Geographe Bay beach frontage and strata-title resort income potential."
+  },
+  {
     "id": "wa-yoganup-113-scott",
     "title": "113 Scott Road",
     "suburb": "Yoganup",
@@ -75611,10 +75870,69 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-apartment-vic-apollo%2Bbay-148037788",
     "listingCategory": "beachfront",
     "investmentStar": false
+  },
+  {
+    "id": "wa-augusta-76b-albany",
+    "title": "76B Albany Terrace",
+    "suburb": "Augusta",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 200,
+    "listedDate": "2026-05-21",
+    "price": 1650000,
+    "priceLabel": "From $1.65 million",
+    "landSize": 507,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Brand-new Flinders Bay coastal residence just footsteps from the shoreline",
+      "Panoramic bay and D'Entrecasteaux National Park views",
+      "507m2 fully serviced parcel with adjoining 76A Albany Terrace available by EOI",
+      "Inspection-listed active Augusta waterfront setting with three bedrooms and two bathrooms"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Augusta house listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against Ray White/Domain listing text, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises From $1.65 million, 507m2 land, a brand-new three-bedroom, two-bathroom home positioned footsteps from the shoreline of Flinders Bay in a tightly held waterfront setting, with panoramic bay views and an optional adjoining front allotment via EOI. Quiet Listings showed listed date 21 May 2026 and last updated 24 Jun 2026.",
+    "image": "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/5b7d-H3512250-202227895__1779247642-65521-2.jpg?format=jpg&maxheight=2841&maxwidth=2841&quality=90&scale=down",
+    "images": [
+      "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/5b7d-H3512250-202227895__1779247642-65521-2.jpg?format=jpg&maxheight=2841&maxwidth=2841&quality=90&scale=down"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-augusta-151251876",
+    "listingCategory": "beachfront",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-augusta-9-blain",
+    "title": "9 Blain Street",
+    "suburb": "Augusta",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 200,
+    "price": 750000,
+    "priceLabel": "from $750,000",
+    "landSize": 845,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "845m2 green-title Augusta block at the end of a quiet coastal cul-de-sac",
+      "Landscaped pedestrian pathway to the beach from the serviced block",
+      "Advertised ocean views from a future second storey",
+      "Fully serviced with underground power, sewer, town water and stormwater drainage"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Augusta residential land listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Ray White agency page and Domain listing text, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises from $750,000, 845m2 land, a fully serviced green-title block, a landscaped pedestrian pathway to the beach and potential second-storey ocean views. The broader 7 & 9 Blain Street page states #7 is sold and #9 is for sale, so this record uses the exact 9 Blain Street listing URL.",
+    "image": "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/0f47-H3217960-128711536__1734310912-149564-2033-3-PotentialViewfromaSecondStorey.jpg?format=jpg&maxheight=2841&maxwidth=2841&quality=90&scale=down",
+    "images": [
+      "https://cdn6.ep.dynamics.net/s3/rw-propertyimages/0f47-H3217960-128711536__1734310912-149564-2033-3-PotentialViewfromaSecondStorey.jpg?format=jpg&maxheight=2841&maxwidth=2841&quality=90&scale=down"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-augusta-204091228",
+    "listingCategory": "beachfront",
+    "investmentStar": false
   }
 ];
 
-const databaseUpdatedAt = "2026-06-25 15:11";
+const databaseUpdatedAt = "2026-06-26 20:22";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");

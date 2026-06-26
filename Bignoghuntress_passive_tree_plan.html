@@ -1,0 +1,461 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Bignoghuntress passive tree plan</title>
+<style>
+:root{color-scheme:dark;--bg:#0b0f14;--panel:#111827;--line:#334155;--text:#e5e7eb;--muted:#94a3b8;--green:#22c55e;--red:#ef4444;--orange:#f59e0b;}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);font-family:Inter,Segoe UI,Arial,sans-serif;color:var(--text);} .wrap{max-width:1800px;margin:0 auto;padding:28px;}
+.header{display:flex;gap:24px;align-items:flex-end;justify-content:space-between;margin-bottom:18px}.title h1{font-size:34px;line-height:1.1;margin:0 0 8px}.title p{margin:0;color:var(--muted);font-size:17px}.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:16px}.pill{display:inline-flex;align-items:center;gap:8px;background:#111827;border:1px solid #243244;border-radius:6px;padding:8px 10px}.dot{width:14px;height:14px;border-radius:50%;display:inline-block;box-shadow:0 0 0 2px rgba(255,255,255,.18);margin-right:8px}.green{background:var(--green)}.red{background:var(--red)}.orange{background:var(--orange)}
+.map{background:#071019;border:1px solid #243244;border-radius:8px;overflow:hidden}.map svg{display:block;width:100%;height:auto}.edge{stroke-linecap:round}.edge-keep{stroke:#166534;stroke-width:28;opacity:.46}.edge-remove{stroke:#ef4444;stroke-width:36;opacity:.8;stroke-dasharray:90 60}.edge-add{stroke:#f59e0b;stroke-width:42;opacity:.92}.edge-other{stroke:#475569;stroke-width:18;opacity:.25}.label{font-size:185px;font-weight:800;paint-order:stroke;stroke:#020617;stroke-width:48;stroke-linejoin:round;letter-spacing:0}.label-keep{opacity:.95}.label-remove,.label-add{opacity:1}.summary{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px}.card{background:var(--panel);border:1px solid #243244;border-radius:8px;padding:18px}.card h2{font-size:21px;margin:0 0 12px}.card p{margin:8px 0;color:var(--muted);font-size:16px;line-height:1.45} table{width:100%;border-collapse:collapse;font-size:15px}td,th{border-top:1px solid #243244;text-align:left;padding:10px 8px;vertical-align:top}th{color:#cbd5e1;font-weight:700}.points{text-align:right}.damage{font-size:20px;color:#fef3c7;font-weight:800}.note{grid-column:1/-1;color:#94a3b8;font-size:14px;line-height:1.45;margin-top:2px}
+</style></head><body><div class="wrap">
+<div class="header"><div class="title"><h1>Bignoghuntress passive tree swap</h1><p>19 points refunded from crit-heavy branches; 19 points added for bleed DPS, Herald physical scaling, deflection, block, and recovery.</p></div><div class="legend"><span class="pill"><span class="dot green"></span>keep current</span><span class="pill"><span class="dot red"></span>refund</span><span class="pill"><span class="dot orange"></span>allocate</span></div></div>
+<div class="map"><svg viewBox="552.97 -6329.12 12518.93 17060.2" role="img" aria-label="Passive tree overlay with green keep nodes, red remove nodes, and orange new nodes"><line class="edge edge-keep" x1="1583.2" y1="1143.67" x2="1402.97" y2="958.265" />
+<line class="edge edge-keep" x1="1583.2" y1="1143.67" x2="1875.94" y2="1204.48" />
+<line class="edge edge-keep" x1="1875.94" y1="1204.48" x2="1976.48" y2="1445.44" />
+<line class="edge edge-keep" x1="1976.48" y1="1445.44" x2="2105.04" y2="1665.51" />
+<line class="edge edge-keep" x1="2645.45" y1="2166.68" x2="2485.97" y2="1959.95" />
+<line class="edge edge-keep" x1="2485.97" y1="1959.95" x2="2105.04" y2="1665.51" />
+<line class="edge edge-keep" x1="2890.88" y1="2251.96" x2="2645.45" y2="2166.68" />
+<line class="edge edge-keep" x1="2890.88" y1="2251.96" x2="3195.27" y2="2366.42" />
+<line class="edge edge-keep" x1="3195.27" y1="2366.42" x2="3498.09" y2="2467.05" />
+<line class="edge edge-keep" x1="3498.09" y1="2467.05" x2="4278.18" y2="2469.91" />
+<line class="edge edge-keep" x1="4278.18" y1="2469.91" x2="4955.38" y2="2861.7" />
+<line class="edge edge-keep" x1="3757.11" y1="-3197.79" x2="3703.13" y2="-2940.28" />
+<line class="edge edge-keep" x1="3561.1" y1="-3022.28" x2="3757.11" y2="-3197.79" />
+<line class="edge edge-keep" x1="3703.13" y1="-2940.28" x2="3507.11" y2="-2764.78" />
+<line class="edge edge-keep" x1="3507.11" y1="-2764.78" x2="3561.1" y2="-3022.28" />
+<line class="edge edge-keep" x1="3855.19" y1="-2428.92" x2="3855.19" y2="-2592.92" />
+<line class="edge edge-keep" x1="3855.19" y1="-2428.92" x2="3856.59" y2="-2226.59" />
+<line class="edge edge-keep" x1="3855.19" y1="-2592.92" x2="3691.19" y2="-2510.92" />
+<line class="edge edge-keep" x1="3691.19" y1="-2510.92" x2="3855.19" y2="-2760.92" />
+<line class="edge edge-keep" x1="3856.59" y1="-2226.59" x2="3718.37" y2="-1679.42" />
+<line class="edge edge-keep" x1="3856.59" y1="-2226.59" x2="4671.12" y2="-2696.8" />
+<line class="edge edge-keep" x1="3888.73" y1="1790.7" x2="4278.18" y2="2469.91" />
+<line class="edge edge-keep" x1="3888.73" y1="1790.7" x2="4459.48" y2="727.02" />
+<line class="edge edge-keep" x1="3992.99" y1="6925.8" x2="4795.75" y2="6464.55" />
+<line class="edge edge-other" x1="3992.99" y1="6925.8" x2="4244.81" y2="7124.06" />
+<line class="edge edge-keep" x1="3992.99" y1="6925.8" x2="4347" y2="6925.8" />
+<line class="edge edge-add" x1="4037.79" y1="5340.36" x2="4219.73" y2="5087.65" />
+<line class="edge edge-keep" x1="4459.47" y1="-726.17" x2="4766.57" y2="-419.075" />
+<line class="edge edge-keep" x1="4766.57" y1="-419.075" x2="4971.97" y2="-626.595" />
+<line class="edge edge-keep" x1="4459.48" y1="727.02" x2="4766.57" y2="419.925" />
+<line class="edge edge-keep" x1="4766.57" y1="419.925" x2="4878.97" y2="0.425037" />
+<line class="edge edge-keep" x1="4878.97" y1="0.425037" x2="4766.57" y2="-419.075" />
+<line class="edge edge-keep" x1="4878.97" y1="0.425037" x2="5646.98" y2="0.515" />
+<line class="edge edge-keep" x1="3718.37" y1="-1679.42" x2="4459.47" y2="-726.17" />
+<line class="edge edge-keep" x1="3298.88" y1="-2406.01" x2="3856.59" y2="-2226.59" />
+<line class="edge edge-keep" x1="3298.88" y1="-2406.01" x2="3507.11" y2="-2764.78" />
+<line class="edge edge-keep" x1="4024.15" y1="6260.75" x2="3893.31" y2="6051.3" />
+<line class="edge edge-keep" x1="4117.86" y1="6459.79" x2="3992.99" y2="6925.8" />
+<line class="edge edge-keep" x1="4117.86" y1="6459.79" x2="4024.15" y2="6260.75" />
+<line class="edge edge-keep" x1="4195.04" y1="9238" x2="3946.1" y2="8993.8" />
+<line class="edge edge-add" x1="4283.46" y1="5565.69" x2="4037.79" y2="5340.36" />
+<line class="edge edge-keep" x1="4385.38" y1="9460.25" x2="4195.04" y2="9238" />
+<line class="edge edge-keep" x1="4451.73" y1="7751.52" x2="3992.99" y2="6925.8" />
+<line class="edge edge-add" x1="4526.88" y1="5794.6" x2="4283.46" y2="5565.69" />
+<line class="edge edge-remove" x1="4542.03" y1="-5257.07" x2="4384.03" y2="-4974.35" />
+<line class="edge edge-keep" x1="4562.63" y1="9687.25" x2="4385.38" y2="9460.25" />
+<line class="edge edge-keep" x1="4671.12" y1="-2696.8" x2="5445.81" y2="-3144.07" />
+<line class="edge edge-remove" x1="4445.6" y1="7265.59" x2="4803.05" y2="7446.26" />
+<line class="edge edge-remove" x1="4803.05" y1="7446.26" x2="5009.7" y2="7243.85" />
+<line class="edge edge-remove" x1="5009.7" y1="7243.85" x2="4758.1" y2="7289.29" />
+<line class="edge edge-remove" x1="4244.81" y1="7124.06" x2="4445.6" y2="7265.59" />
+<line class="edge edge-remove" x1="4705.26" y1="-4974.35" x2="4542.03" y2="-5257.07" />
+<line class="edge edge-other" x1="4705.26" y1="-4974.35" x2="5061.13" y2="-4971.48" />
+<line class="edge edge-keep" x1="4788.07" y1="9831.08" x2="5500.68" y2="9527.45" />
+<line class="edge edge-keep" x1="4788.07" y1="9831.08" x2="4562.63" y2="9687.25" />
+<line class="edge edge-keep" x1="4795.75" y1="6464.55" x2="5482.17" y2="6073.03" />
+<line class="edge edge-keep" x1="4795.75" y1="6464.55" x2="4526.88" y2="5794.6" />
+<line class="edge edge-keep" x1="4795.75" y1="6464.55" x2="5063" y2="6552.73" />
+<line class="edge edge-keep" x1="4859.19" y1="8419.96" x2="4451.73" y2="7751.52" />
+<line class="edge edge-keep" x1="4859.19" y1="8419.96" x2="5500.68" y2="9527.45" />
+<line class="edge edge-keep" x1="4955.38" y1="2861.7" x2="5639.16" y2="3255.33" />
+<line class="edge edge-keep" x1="5061.13" y1="-4971.48" x2="5193.02" y2="-4742.69" />
+<line class="edge edge-keep" x1="4971.97" y1="-626.595" x2="5063.48" y2="-968.101" />
+<line class="edge edge-keep" x1="5063.48" y1="-968.101" x2="5404.98" y2="-626.595" />
+<line class="edge edge-keep" x1="5193.02" y1="-5200.3" x2="5061.13" y2="-4971.48" />
+<line class="edge edge-keep" x1="5193.02" y1="-4742.69" x2="5324.92" y2="-4513.88" />
+<line class="edge edge-keep" x1="5063" y1="6552.73" x2="5197.5" y2="6819.76" />
+<line class="edge edge-keep" x1="5324.92" y1="-5429.12" x2="5193.02" y2="-5200.3" />
+<line class="edge edge-keep" x1="5324.92" y1="-4513.88" x2="5457.07" y2="-4742.78" />
+<line class="edge edge-keep" x1="5524.15" y1="3506.51" x2="5639.16" y2="3255.33" />
+<line class="edge edge-other" x1="5524.15" y1="3506.51" x2="5356.71" y2="3564.6" />
+<line class="edge edge-keep" x1="5524.15" y1="3506.51" x2="5557.57" y2="3680.57" />
+<line class="edge edge-remove" x1="5358.15" y1="3794.03" x2="5109.9" y2="3556.01" />
+<line class="edge edge-remove" x1="5356.71" y1="3564.6" x2="5109.9" y2="3556.01" />
+<line class="edge edge-keep" x1="5457.07" y1="-5200.42" x2="5324.92" y2="-5429.12" />
+<line class="edge edge-keep" x1="5457.07" y1="-4742.78" x2="5579.63" y2="-4981.71" />
+<line class="edge edge-keep" x1="5482.17" y1="6073.03" x2="6365.75" y2="5562.23" />
+<line class="edge edge-add" x1="5686.94" y1="9003.21" x2="5721.69" y2="8744.43" />
+<line class="edge edge-add" x1="5368.14" y1="8744.43" x2="5544.92" y2="8671.21" />
+<line class="edge edge-add" x1="5368.14" y1="8744.43" x2="5402.89" y2="9003.21" />
+<line class="edge edge-add" x1="5721.69" y1="8744.43" x2="5544.92" y2="8671.21" />
+<line class="edge edge-add" x1="5544.92" y1="8671.21" x2="4859.19" y2="8419.96" />
+<line class="edge edge-keep" x1="5579.63" y1="-4981.71" x2="5457.07" y2="-5200.42" />
+<line class="edge edge-keep" x1="5646.98" y1="0.515" x2="7088.65" y2="0.005" />
+<line class="edge edge-other" x1="5646.98" y1="0.515" x2="5948.12" y2="186.785" />
+<line class="edge edge-remove" x1="5948.12" y1="186.785" x2="6106.54" y2="144.339" />
+<line class="edge edge-remove" x1="6106.54" y1="144.339" x2="6124.9" y2="363.562" />
+<line class="edge edge-keep" x1="5752.9" y1="-2836.98" x2="5445.81" y2="-3144.07" />
+<line class="edge edge-keep" x1="6107.7" y1="-3322.09" x2="5752.9" y2="-2836.98" />
+<line class="edge edge-keep" x1="6002.36" y1="-2928.96" x2="6107.7" y2="-3322.09" />
+<line class="edge edge-keep" x1="6342.45" y1="-4198.19" x2="6237.11" y2="-3805.06" />
+<line class="edge edge-keep" x1="6172.4" y1="-4402.58" x2="6237.11" y2="-3805.06" />
+<line class="edge edge-keep" x1="5752.9" y1="-4290.17" x2="6172.4" y2="-4402.58" />
+<line class="edge edge-keep" x1="5752.9" y1="-4290.17" x2="5324.92" y2="-4513.88" />
+<line class="edge edge-keep" x1="5752.9" y1="-4290.17" x2="6172.4" y2="-3563.57" />
+<line class="edge edge-keep" x1="6172.4" y1="-3563.57" x2="5445.81" y2="-3144.07" />
+<line class="edge edge-keep" x1="5639.16" y1="3255.33" x2="6729.48" y2="3890.84" />
+<line class="edge edge-keep" x1="6365.75" y1="4513.83" x2="6564.69" y2="4176.51" />
+<line class="edge edge-keep" x1="6365.75" y1="5562.23" x2="6365.75" y2="4513.83" />
+<line class="edge edge-keep" x1="6729.48" y1="3890.84" x2="6564.69" y2="4176.51" />
+<line class="edge edge-keep" x1="6729.48" y1="3890.84" x2="7191.57" y2="4152.81" />
+<line class="edge edge-keep" x1="7088.65" y1="0.005" x2="7994.25" y2="0.005" />
+<line class="edge edge-keep" x1="7191.57" y1="4152.81" x2="8470.97" y2="4890.73" />
+<line class="edge edge-keep" x1="7994.25" y1="0.005" x2="9212.92" y2="-2.425" />
+<line class="edge edge-keep" x1="8874.19" y1="4520.38" x2="8857.17" y2="4221.87" />
+<line class="edge edge-keep" x1="8607.17" y1="4654.88" x2="8874.19" y2="4520.38" />
+<line class="edge edge-keep" x1="8607.17" y1="4654.88" x2="8470.97" y2="4890.73" />
+<line class="edge edge-keep" x1="9165.52" y1="-916.987" x2="9207.96" y2="-1092.57" />
+<line class="edge edge-keep" x1="9165.52" y1="-916.987" x2="9049.55" y2="-716.129" />
+<line class="edge edge-keep" x1="9207.96" y1="-424.575" x2="9049.55" y2="-716.129" />
+<line class="edge edge-keep" x1="9207.96" y1="-424.575" x2="9212.92" y2="-2.425" />
+<line class="edge edge-keep" x1="9212.92" y1="-2.425" x2="10048.6" y2="0.005" />
+<line class="edge edge-keep" x1="9937.17" y1="1278.21" x2="9720.67" y2="1403.21" />
+<line class="edge edge-keep" x1="10377.7" y1="1153.21" x2="10682" y2="1152.07" />
+<line class="edge edge-keep" x1="10377.7" y1="1153.21" x2="9937.17" y2="1278.21" />
+<line class="edge edge-keep" x1="9720.67" y1="1403.21" x2="9392.17" y2="1722.19" />
+<line class="edge edge-add" x1="9392.17" y1="584.236" x2="9720.67" y2="1153.21" />
+<line class="edge edge-add" x1="9392.17" y1="1722.19" x2="9720.67" y2="1153.21" />
+<line class="edge edge-keep" x1="10048.6" y1="0.005" x2="10978.5" y2="-0.244995" />
+<line class="edge edge-add" x1="10184.1" y1="3019.63" x2="10326.5" y2="3239.98" />
+<line class="edge edge-add" x1="10420.8" y1="2130.08" x2="10682" y2="1152.07" />
+<line class="edge edge-add" x1="10420.8" y1="2130.08" x2="10184.1" y2="3019.63" />
+<line class="edge edge-add" x1="10451.5" y1="3456.48" x2="10326.5" y2="3239.98" />
+<line class="edge edge-add" x1="10740.7" y1="3623.48" x2="10451.5" y2="3456.48" />
+<line class="edge edge-keep" x1="10682" y1="1152.07" x2="10978.5" y2="-0.244995" />
+<line class="edge edge-other" x1="10682" y1="1152.07" x2="11010.9" y2="962.193" />
+<line class="edge edge-add" x1="10699" y1="-1058.34" x2="10978.5" y2="-0.244995" />
+<line class="edge edge-add" x1="10699" y1="-1058.34" x2="10953.7" y2="-715.845" />
+<line class="edge edge-add" x1="10953.7" y1="-715.845" x2="11138.2" y2="-639.433" />
+<line class="edge edge-add" x1="11138.2" y1="-639.433" x2="11095.7" y2="-797.845" />
+<line class="edge edge-remove" x1="11010.9" y1="962.193" x2="11139.5" y2="742.125" />
+<line class="edge edge-remove" x1="11471.9" y1="733.091" x2="11231" y2="833.631" />
+<line class="edge edge-remove" x1="11139.5" y1="742.125" x2="11240" y2="501.159" />
+<line class="edge edge-remove" x1="11231" y1="833.631" x2="11010.9" y2="962.193" /><g class="node node-keep"><circle cx="5193.02" cy="-4742.69" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="5324.92" cy="-4513.88" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="5061.13" cy="-4971.48" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>For the Jugular
+25% increased Critical Damage Bonus
++10 to Intelligence</title></circle></g>
+<g class="node node-keep"><circle cx="5457.07" cy="-4742.78" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="5752.9" cy="-4290.17" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="5193.02" cy="-5200.3" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="5579.63" cy="-4981.71" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>True Strike
++10 to Dexterity
+20% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="6172.4" cy="-4402.58" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Daze on Hit
+5% chance to Daze on Hit</title></circle></g>
+<g class="node node-keep"><circle cx="6172.4" cy="-3563.57" r="95" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>[Jewel] Socket
+</title></circle></g>
+<g class="node node-keep"><circle cx="5324.92" cy="-5429.12" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="5457.07" cy="-5200.42" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="6237.11" cy="-3805.06" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Physical Damage
+10% increased Physical Damage</title></circle></g>
+<g class="node node-keep"><circle cx="5445.81" cy="-3144.07" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="6342.45" cy="-4198.19" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Stylebender
+Hits Break 30% increased Armour on targets with Ailments
++10 to Strength
+25% increased Physical Damage</title></circle></g>
+<g class="node node-keep"><circle cx="4671.12" cy="-2696.8" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="5752.9" cy="-2836.98" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3856.59" cy="-2226.59" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="6107.7" cy="-3322.09" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3718.37" cy="-1679.42" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3855.19" cy="-2428.92" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3298.88" cy="-2406.01" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="6002.36" cy="-2928.96" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Killer Instinct
+40% increased Attack Damage while on Full Life
+60% increased Attack Damage while on Low Life</title></circle></g>
+<g class="node node-keep"><circle cx="4459.47" cy="-726.17" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3855.19" cy="-2592.92" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3507.11" cy="-2764.78" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="4766.57" cy="-419.075" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3691.19" cy="-2510.92" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3561.1" cy="-3022.28" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="3703.13" cy="-2940.28" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="4971.97" cy="-626.595" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="4878.97" cy="0.425037" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3855.19" cy="-2760.92" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Concussive Attack
+25% increased Attack Damage
+5% chance to Daze on Hit</title></circle></g>
+<g class="node node-keep"><circle cx="3757.11" cy="-3197.79" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Moment of Truth
+25% increased Critical Damage Bonus if you&#39;ve dealt a Non-Critical Hit Recently
+15% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="5063.48" cy="-968.101" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="5646.98" cy="0.515" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="4766.57" cy="419.925" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="5404.98" cy="-626.595" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Blinding Strike
+24% increased Attack Damage
+10% chance to Blind Enemies on Hit with Attacks</title></circle></g>
+<g class="node node-keep"><circle cx="7088.65" cy="0.005" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="4459.48" cy="727.02" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="7994.25" cy="0.005" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3888.73" cy="1790.7" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="9212.92" cy="-2.425" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="4278.18" cy="2469.91" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="10048.6" cy="0.005" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="9207.96" cy="-424.575" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="4955.38" cy="2861.7" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3498.09" cy="2467.05" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="10978.5" cy="-0.244995" r="95" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>[Jewel] Socket
+</title></circle></g>
+<g class="node node-keep"><circle cx="9049.55" cy="-716.129" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Mana Leech
+10% increased amount of Mana Leeched</title></circle></g>
+<g class="node node-keep"><circle cx="5639.16" cy="3255.33" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3195.27" cy="2366.42" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion and Reduced Movement Penalty
+10% increased Evasion Rating
+2% reduced Movement Speed Penalty from using Skills while moving</title></circle></g>
+<g class="node node-keep"><circle cx="10682" cy="1152.07" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="9165.52" cy="-916.987" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="6729.48" cy="3890.84" r="95" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>[Jewel] Socket
+</title></circle></g>
+<g class="node node-keep"><circle cx="5524.15" cy="3506.51" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-keep"><circle cx="2890.88" cy="2251.96" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion and Reduced Movement Penalty
+10% increased Evasion Rating
+2% reduced Movement Speed Penalty from using Skills while moving</title></circle></g>
+<g class="node node-keep"><circle cx="10377.7" cy="1153.21" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="9207.96" cy="-1092.57" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Serrated Edges
+10% increased Critical Hit Chance for Attacks
+30% increased Attack Damage against Rare or Unique Enemies</title></circle></g>
+<g class="node node-keep"><circle cx="6564.69" cy="4176.51" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="7191.57" cy="4152.81" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="5557.57" cy="3680.57" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-keep"><circle cx="2645.45" cy="2166.68" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Catlike Agility
+25% increased Evasion Rating
+40% increased Evasion Rating if you&#39;ve Dodge Rolled Recently
+3% reduced Movement Speed Penalty from using Skills while moving</title></circle></g>
+<g class="node node-keep"><circle cx="9937.17" cy="1278.21" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="6365.75" cy="4513.83" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="8470.97" cy="4890.73" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="2485.97" cy="1959.95" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion and Reduced Movement Penalty
+10% increased Evasion Rating
+2% reduced Movement Speed Penalty from using Skills while moving</title></circle></g>
+<g class="node node-keep"><circle cx="9720.67" cy="1403.21" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="6365.75" cy="5562.23" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="8607.17" cy="4654.88" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage
+10% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="2105.04" cy="1665.51" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Blur
+4% increased Movement Speed
+20% increased Evasion Rating
++10 to Dexterity</title></circle></g>
+<g class="node node-keep"><circle cx="9392.17" cy="1722.19" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Beastial Skin
+100% increased Evasion Rating from Equipped Body Armour</title></circle></g>
+<g class="node node-keep"><circle cx="5482.17" cy="6073.03" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="8874.19" cy="4520.38" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attack Damage and Movement Speed
+2% increased Movement Speed
+8% increased Attack Damage</title></circle></g>
+<g class="node node-keep"><circle cx="1976.48" cy="1445.44" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="4795.75" cy="6464.55" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="8857.17" cy="4221.87" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Maiming Strike
+25% increased Attack Damage
+Attacks have 25% chance to Maim on Hit</title></circle></g>
+<g class="node node-keep"><circle cx="1875.94" cy="1204.48" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="4526.88" cy="5794.6" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Ailment Effect
+10% increased Magnitude of Ailments you inflict</title></circle></g>
+<g class="node node-keep"><circle cx="5063" cy="6552.73" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Damage
+10% increased Damage</title></circle></g>
+<g class="node node-keep"><circle cx="3992.99" cy="6925.8" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="1583.2" cy="1143.67" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
++16 to Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="5197.5" cy="6819.76" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Damage
+10% increased Damage</title></circle></g>
+<g class="node node-keep"><circle cx="4347" cy="6925.8" r="150" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Crimson Assault
+Bleeding you inflict is Aggravated
+Base Bleeding Duration is 1 second
+50% more Magnitude of Bleeding you inflict</title></circle></g>
+<g class="node node-keep"><circle cx="4117.86" cy="6459.79" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="4451.73" cy="7751.52" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="1402.97" cy="958.265" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
++16 to Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="4024.15" cy="6260.75" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Evasion
+15% increased Evasion Rating</title></circle></g>
+<g class="node node-keep"><circle cx="4859.19" cy="8419.96" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="3893.31" cy="6051.3" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Escape Strategy
+100% increased Evasion Rating if you have been Hit Recently
+30% reduced Evasion Rating if you haven&#39;t been Hit Recently</title></circle></g>
+<g class="node node-keep"><circle cx="5500.68" cy="9527.45" r="95" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>[Jewel] Socket
+</title></circle></g>
+<g class="node node-keep"><circle cx="4788.07" cy="9831.08" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-keep"><circle cx="4562.63" cy="9687.25" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Ailment Chance and Effect
+6% increased chance to inflict Ailments
+6% increased Magnitude of Damaging Ailments you inflict</title></circle></g>
+<g class="node node-keep"><circle cx="4385.38" cy="9460.25" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Ailment Chance and Effect
+6% increased chance to inflict Ailments
+6% increased Magnitude of Damaging Ailments you inflict</title></circle></g>
+<g class="node node-keep"><circle cx="4195.04" cy="9238" r="58" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Ailment Chance and Effect
+6% increased chance to inflict Ailments
+6% increased Magnitude of Damaging Ailments you inflict</title></circle></g>
+<g class="node node-keep"><circle cx="3946.1" cy="8993.8" r="120" fill="#22c55e" stroke="#bbf7d0" stroke-width="28"><title>Deterioration
+Damaging Ailments Cannot Be inflicted on you while you already have one
+20% increased Magnitude of Damaging Ailments you inflict</title></circle></g>
+<g class="node node-remove"><circle cx="4705.26" cy="-4974.35" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-remove"><circle cx="4542.03" cy="-5257.07" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Damage on Critical
+10% increased Damage if you&#39;ve dealt a Critical Hit Recently</title></circle></g>
+<g class="node node-remove"><circle cx="4384.03" cy="-4974.35" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Deadly Force
+15% increased Damage if you&#39;ve dealt a Critical Hit in the past 8 seconds
+15% increased Critical Hit Chance</title></circle></g>
+<g class="node node-remove"><circle cx="5948.12" cy="186.785" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="6106.54" cy="144.339" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="6124.9" cy="363.562" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Preemptive Strike
+100% increased Critical Damage Bonus against Enemies that are on Full Life</title></circle></g>
+<g class="node node-remove"><circle cx="11010.9" cy="962.193" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="5356.71" cy="3564.6" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="11139.5" cy="742.125" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Chance
+10% increased Critical Hit Chance</title></circle></g>
+<g class="node node-remove"><circle cx="11231" cy="833.631" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="5109.9" cy="3556.01" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Damage
+15% increased Critical Damage Bonus</title></circle></g>
+<g class="node node-remove"><circle cx="11240" cy="501.159" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Heartstopping
++10 to Intelligence
+20% increased Critical Hit Chance</title></circle></g>
+<g class="node node-remove"><circle cx="11471.9" cy="733.091" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Heartbreaking
+25% increased Critical Damage Bonus
++10 to Strength</title></circle></g>
+<g class="node node-remove"><circle cx="5358.15" cy="3794.03" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Cooked
+60% increased Critical Damage Bonus
+25% reduced Armour, Evasion and Energy Shield</title></circle></g>
+<g class="node node-remove"><circle cx="4244.81" cy="7124.06" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Bleeding Chance on Critical
+10% chance to inflict Bleeding on Critical Hit with Attacks</title></circle></g>
+<g class="node node-remove"><circle cx="4445.6" cy="7265.59" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Bleeding Effect
+15% increased Magnitude of Bleeding you inflict with Critical Hits</title></circle></g>
+<g class="node node-remove"><circle cx="4803.05" cy="7446.26" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Bleeding Effect
+15% increased Magnitude of Bleeding you inflict with Critical Hits</title></circle></g>
+<g class="node node-remove"><circle cx="5009.7" cy="7243.85" r="58" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Critical Bleeding Effect
+15% increased Magnitude of Bleeding you inflict with Critical Hits</title></circle></g>
+<g class="node node-remove"><circle cx="4758.1" cy="7289.29" r="120" fill="#ef4444" stroke="#fecaca" stroke-width="28"><title>Perfectly Placed Knife
+25% increased Critical Hit Chance against Bleeding Enemies
+20% chance to Aggravate Bleeding on targets you Critically Hit with Attacks</title></circle></g>
+<g class="node node-add"><circle cx="4283.46" cy="5565.69" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Faster Ailments
+Damaging Ailments deal damage 5% faster</title></circle></g>
+<g class="node node-add"><circle cx="4037.79" cy="5340.36" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Faster Ailments
+Damaging Ailments deal damage 5% faster</title></circle></g>
+<g class="node node-add"><circle cx="4219.73" cy="5087.65" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Fast Acting Toxins
+Damaging Ailments deal damage 12% faster</title></circle></g>
+<g class="node node-add"><circle cx="10420.8" cy="2130.08" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-add"><circle cx="10184.1" cy="3019.63" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-add"><circle cx="10326.5" cy="3239.98" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Herald Damage
+12% increased Damage while affected by a Herald</title></circle></g>
+<g class="node node-add"><circle cx="10451.5" cy="3456.48" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Herald Damage
+12% increased Damage while affected by a Herald</title></circle></g>
+<g class="node node-add"><circle cx="10740.7" cy="3623.48" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Agonising Calamity
+40% increased Chaos Damage while affected by Herald of Plague
+40% increased Physical Damage while affected by Herald of Blood</title></circle></g>
+<g class="node node-add"><circle cx="9720.67" cy="1153.21" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Evasion Mastery
+</title></circle></g>
+<g class="node node-add"><circle cx="9392.17" cy="584.236" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Enhanced Reflexes
+20% increased Evasion Rating
+Gain Deflection Rating equal to 5% of Evasion Rating
+8% increased Dexterity</title></circle></g>
+<g class="node node-add"><circle cx="5544.92" cy="8671.21" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Block
+5% increased Block chance</title></circle></g>
+<g class="node node-add"><circle cx="5721.69" cy="8744.43" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Block
+5% increased Block chance</title></circle></g>
+<g class="node node-add"><circle cx="5686.94" cy="9003.21" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Shield Expertise
+12% increased Block chance
+40% increased Block Recovery</title></circle></g>
+<g class="node node-add"><circle cx="5368.14" cy="8744.43" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Shield Defences
+25% increased Armour, Evasion and Energy Shield from Equipped Shield</title></circle></g>
+<g class="node node-add"><circle cx="5402.89" cy="9003.21" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Spiked Shield
+2% increased Attack Damage per 75 Item Armour and Evasion on Equipped Shield
+50% increased Armour, Evasion and Energy Shield from Equipped Shield</title></circle></g>
+<g class="node node-add"><circle cx="10699" cy="-1058.34" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Attribute
++5 to any Attribute</title></circle></g>
+<g class="node node-add"><circle cx="10953.7" cy="-715.845" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Life Recoup
+3% of Damage taken Recouped as Life</title></circle></g>
+<g class="node node-add"><circle cx="11138.2" cy="-639.433" r="58" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Life Recoup
+3% of Damage taken Recouped as Life</title></circle></g>
+<g class="node node-add"><circle cx="11095.7" cy="-797.845" r="120" fill="#f59e0b" stroke="#fed7aa" stroke-width="28"><title>Chakra of Life
+3% increased maximum Life
+10% increased Life Recovery rate</title></circle></g><text class="label label-keep" x="4507" y="6775.8" fill="#bbf7d0">Crimson Assault</text>
+<text class="label label-keep" x="4106.1" y="8883.8" fill="#bbf7d0">Deterioration</text>
+<text class="label label-keep" x="9552.17" y="1602.19" fill="#bbf7d0">Beastial Skin</text>
+<text class="label label-keep" x="4053.31" y="5931.3" fill="#bbf7d0">Escape Strategy</text>
+<text class="label label-remove" x="5528.15" y="3664.03" fill="#fecaca">Cooked</text>
+<text class="label label-remove" x="6294.9" y="233.562" fill="#fecaca">Preemptive Strike</text>
+<text class="label label-remove" x="4928.1" y="7159.29" fill="#fecaca">Perfectly Placed Knife</text>
+<text class="label label-remove" x="4554.03" y="-5104.35" fill="#fecaca">Deadly Force</text>
+<text class="label label-remove" x="9921.9" y="473.091" fill="#fecaca">Heartbreaking</text>
+<text class="label label-remove" x="11470" y="891.159" fill="#fecaca">Heartstopping</text>
+<text class="label label-add" x="4389.73" y="4957.65" fill="#fde68a">Fast Acting Toxins</text>
+<text class="label label-add" x="10910.7" y="3493.48" fill="#fde68a">Agonising Calamity</text>
+<text class="label label-add" x="9552.17" y="324.236" fill="#fde68a">Enhanced Reflexes</text>
+<text class="label label-add" x="5856.94" y="8873.21" fill="#fde68a">Shield Expertise</text>
+<text class="label label-add" x="5572.89" y="9173.21" fill="#fde68a">Spiked Shield</text>
+<text class="label label-add" x="11265.7" y="-927.845" fill="#fde68a">Chakra of Life</text></svg></div>
+<div class="summary"><div class="card"><h2>Refund red</h2><table><thead><tr><th>Branch</th><th>What it removes</th><th class="points">Pts</th></tr></thead><tbody><tr><td><span class="dot red"></span>Cooked branch</td><td>Cooked + 2 Critical Damage smalls</td><td>3</td></tr><tr><td><span class="dot red"></span>Preemptive branch</td><td>Preemptive Strike + 2 Critical Damage smalls</td><td>3</td></tr><tr><td><span class="dot red"></span>Perfectly Placed Knife branch</td><td>PPK + 3 Critical Bleeding Effect + Bleeding Chance on Crit</td><td>5</td></tr><tr><td><span class="dot red"></span>Deadly Force branch</td><td>Deadly Force + Damage on Critical + Critical Chance</td><td>3</td></tr><tr><td><span class="dot red"></span>Heartbreaking/Heartstopping fork</td><td>Both notables + 3 nearby crit smalls</td><td>5</td></tr></tbody></table></div><div class="card"><h2>Allocate orange</h2><table><thead><tr><th>Route</th><th>What it adds</th><th class="points">Pts</th></tr></thead><tbody><tr><td><span class="dot orange"></span>Fast Acting Toxins route</td><td>2 Faster Ailments smalls + Fast Acting Toxins</td><td>3</td></tr><tr><td><span class="dot orange"></span>Agonising Calamity route</td><td>2 Attributes + 2 Herald Damage + Agonising Calamity</td><td>5</td></tr><tr><td><span class="dot orange"></span>Enhanced Reflexes route</td><td>Evasion Mastery + Enhanced Reflexes</td><td>2</td></tr><tr><td><span class="dot orange"></span>Shield package</td><td>2 Block smalls + Shield Expertise + Shield Defences + Spiked Shield</td><td>5</td></tr><tr><td><span class="dot orange"></span>Chakra of Life route</td><td>Attribute + 2 Life Recoup + Chakra of Life</td><td>4</td></tr></tbody></table></div><div class="card"><h2>Rake damage estimate</h2><p>Current poe.ninja Rake DoT: <span class="damage">69,368</span></p><p>Orange ailment-speed route alone: about <span class="damage">84,629</span> DoT DPS, from 22% faster damaging ailments.</p><p>With the Herald physical route included: roughly <span class="damage">93,092-99,862</span> sustained Rake DoT, before gear changes. The range exists because the Herald nodes are increased damage, so their real value depends on your existing increased-damage pool and how much the removed crit branches were contributing.</p></div><div class="card"><h2>What stays green</h2><p>Keep the core bleed spine: Crimson Assault, Deterioration, Lasting Trauma anoint, Beastial Skin, your Ritualist ascendancy route, and the existing travel spine that holds the tree together.</p><p>Leave Serrated Edges and Stylebender for now; they are not perfect, but they are less urgent than the crit-only leaf branches. They become the next refund candidates if you later want more defense.</p></div><p class="note">Source snapshot: poe.ninja character model checked 2026-06-25T03:55:27.154027Z using PassiveTree-0.5. This is a practical pathing plan, not an official in-game import string.</p></div>
+</div></body></html>
