@@ -32,7 +32,7 @@ const sampleProperties = [
       "Tourism / short-stay zoning with holiday letting and income flexibility",
       "Four-bedroom, four-bathroom coastal residence on 523sqm"
     ],
-    "status": "active",
+    "status": "under_offer",
     "notes": "Active realestate.com.au Dunsborough listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers From $1,995,000, 523sqm land, Tourism / Short Stay zoning, a Waterfront Dunsborough beachfront resort position, seconds from Geographe Bay, and direct bay/coastal access through the resort setting. Domain and REIWA pages corroborated the same active listing and price.",
     "image": "https://imagecdn.reiwa.com.au/listing/25/5008825-01.jpg?maxwidth=900&maxheight=600&quality=80",
     "images": [
@@ -4332,7 +4332,7 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 70,
-    "price": 5000000,
+    "price": 4900000,
     "landSize": 613,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -5843,12 +5843,12 @@ const sampleProperties = [
       "Subdivision potential"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Hillarys land listing advertised as a super block ocean front opportunity with unobstructed ocean views, direct access to the beach, and potential subdivision into two 500sqm blocks. Price is advertised as offers from $5 million.",
+    "notes": "Active realestate.com.au Hillarys land listing advertised as a premium elevated oceanfront position with uninterrupted ocean views, walkable beach access across the street, and potential subdivision into two oceanfront lots. Price is advertised as offers from $4.9 million.",
     "image": "https://i2.au.reastatic.net/800x600/1e91ab3912b1d6878c92052b8cd911a1acc72ed5c9e18a80906279e372ba4100/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1e91ab3912b1d6878c92052b8cd911a1acc72ed5c9e18a80906279e372ba4100/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-hillarys-204464516"
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-hillarys-204517696"
   },
   {
     "id": "wa-hillarys-221-68-southside",
@@ -6200,6 +6200,35 @@ const sampleProperties = [
     "priceLabel": "Offers Above $2,200,000"
   },
   {
+    "id": "wa-safety-bay-218c-arcadia",
+    "title": "218C Arcadia Drive",
+    "suburb": "Safety Bay",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 50,
+    "listedDate": "2026-05-29",
+    "daysOnMarket": 28,
+    "price": 1200000,
+    "priceLabel": "Offers From $1,200,000",
+    "landSize": 298,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront townhouse directly opposite Warnbro Sound shoreline",
+      "Protected panoramic ocean views from both levels",
+      "Metres from the foreshore with front deck coastal outlook",
+      "Domain corroborates active sale status and 28 days on market"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Safety Bay listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers From $1,200,000, 298sqm land, a classic modern beachfront residence positioned just metres from the shoreline and directly opposite Warnbro Sound, with protected panoramic ocean views. Domain corroborated the same active listing, price, 298sqm external land size and first-listed date of 29 May 2026.",
+    "image": "https://rimh2.domainstatic.com.au/XeAPGT_0EjaSJiOzPKSjodioS6A%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020880456_1_1_260529_075427-w2268-h1701",
+    "images": [
+      "https://rimh2.domainstatic.com.au/XeAPGT_0EjaSJiOzPKSjodioS6A%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020880456_1_1_260529_075427-w2268-h1701"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-safety%2Bbay-151348820"
+  },
+  {
     "id": "wa-safety-bay-288-safety-bay",
     "title": "288 Safety Bay Road",
     "suburb": "Safety Bay",
@@ -6349,6 +6378,176 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/5d2d81a221eb1c5b77fe25af0d160e2ed0f42507d95aea2410ca58ec32781116/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-146193012"
+  },
+  {
+    "id": "qld-agnes-water-45-beach-houses-estate",
+    "title": "45 Beach Houses Estate Road",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "listedDate": "2026-06-26",
+    "price": 1975000,
+    "priceLabel": "Offers above $1,975,000",
+    "landSize": 686,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach Houses Beachfront Estate address",
+      "Gated estate with direct access to Agnes Water main beach",
+      "Near-new four-bedroom beach house with pool and outdoor kitchen",
+      "Side access for boat or caravan parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing advertises Offers above $1,975,000, 686sqm land, a Beach Houses Beachfront Estate position, gated security and direct access to Agnes Water's main beach. McGrath Wide Bay corroborated the active campaign and direct beach access wording.",
+    "image": "https://s1.rea.global/sha/27e5530d2d4d3f188df79cf0da283b6767186f272875faaf6e745fc8517c73e3/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/27e5530d2d4d3f188df79cf0da283b6767186f272875faaf6e745fc8517c73e3/main.jpg",
+      "https://s1.rea.global/sha/35e01ea0850ba8f6ffd9d204ffe903d2abb6ce16455d7f033d49cf651fdf847a/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-149867856"
+  },
+  {
+    "id": "qld-agnes-water-17-beach-houses-estate",
+    "title": "17 Beach Houses Estate Road",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "price": 1450000,
+    "priceLabel": "$1,450,000",
+    "landSize": 730,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Private boardwalk to Agnes Water main beach",
+      "Gated Beach Houses beachfront estate",
+      "Metres from the sand",
+      "Outdoor shower and beachside entertaining"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing advertises $1,450,000, a 730sqm allotment in the Beach Houses gated estate, private boardwalk access directly to the surf-patrolled main beach and a beachside home just metres from the sand. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/86427dc4256afd79ca6b5614dc30957153ba53a7611743152468e2e8923c22c2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/86427dc4256afd79ca6b5614dc30957153ba53a7611743152468e2e8923c22c2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-150028924"
+  },
+  {
+    "id": "qld-agnes-water-3-12-ocean-beach",
+    "title": "3/12 Ocean Beach Drive",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "price": 2150000,
+    "priceLabel": "$2,150,000 FIRM",
+    "landSize": 409,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Sandcastles 1770 Beachfront Resort",
+      "110m to Agnes Water patrolled beach",
+      "Designer beachfront retreat",
+      "Private plunge pool and cinema"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing advertises $2,150,000 firm, a 409sqm Sandcastles 1770 Beachfront Resort home, 110m to Agnes Water's patrolled beach and direct resort-style beach lifestyle. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/04404b845b990ded442089106cf440502d6bee3d80dcc5a6ead108c0733414de/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/04404b845b990ded442089106cf440502d6bee3d80dcc5a6ead108c0733414de/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-agnes%2Bwater-149023260"
+  },
+  {
+    "id": "qld-agnes-water-126-9-11-beaches-village",
+    "title": "126/9-11 Beaches Village Circuit",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "listedDate": "2026-06-23",
+    "price": 600000,
+    "priceLabel": "Offers Over $600,000",
+    "landSize": 190,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Top-floor apartment in The Pavilions beachfront resort",
+      "Residents have direct beach access from the resort",
+      "Large 190sqm fully furnished apartment",
+      "Low-maintenance holiday, investment or permanent residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing was added 3 days earlier, advertises Offers Over $600,000 and describes The Pavilions as a desirable beachfront resort with direct beach access, two resort-style pools, BBQ facilities and tropical grounds. The page lists 190sqm building size.",
+    "image": "https://s1.rea.global/sha/dd154bd4fde91b609d406d47f591a6d4dfd8185c682ba7ba4fd7e07f68ef779f/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/dd154bd4fde91b609d406d47f591a6d4dfd8185c682ba7ba4fd7e07f68ef779f/main.jpg",
+      "https://s1.rea.global/sha/8e9755cf684f2a18b40d3555a92900e18992cb6d55edc712f853bba70e8e134c/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-agnes%2Bwater-151563996"
+  },
+  {
+    "id": "qld-agnes-water-127-9-beaches-village",
+    "title": "127/9 Beaches Village Circuit",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "listedDate": "2026-06-06",
+    "price": 550000,
+    "priceLabel": "Offers Over $550,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Top-floor apartment in Pavillions on 1770 beachfront complex",
+      "Direct beach access about 100m from the complex",
+      "Ocean views from private balconies",
+      "Resort-style pool, landscaped gardens and secure parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing advertises Offers Over $550,000, a top-floor apartment in the Pavillions on 1770 beachfront complex, ocean views, and direct beach access about 100m from the complex. McGrath's matching listing corroborated the beachfront complex and direct-access details.",
+    "image": "https://s1.rea.global/sha/42f0281007956039b84cb01950b0bbab599f431249b3c50d49b8a685cdebd6fe/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/42f0281007956039b84cb01950b0bbab599f431249b3c50d49b8a685cdebd6fe/main.jpg",
+      "https://s1.rea.global/sha/77041c5aeabaab84293a9613e71075d9587eec0de3dba6ca779adc5e642e27a6/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-agnes%2Bwater-151418720"
+  },
+  {
+    "id": "qld-agnes-water-111-9-beaches-village",
+    "title": "111/9 Beaches Village Circuit",
+    "suburb": "Agnes Water",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 370,
+    "listedDate": "2026-06-20",
+    "price": 565000,
+    "priceLabel": "Offers Sought Above $565,000",
+    "landSize": 155,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Apartment in Pavilions on 1770 beachfront resort",
+      "Short walk to Agnes Water Beach through the resort setting",
+      "Recently renovated two-bedroom apartment",
+      "Resort pools, spa, tropical gardens and secure parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Agnes Water listing verified 26 Jun 2026 from the exact listing page. The listing was added 1 hour before verification, advertises Offers Sought Above $565,000, 155sqm land size, and describes Apartment 111 within one of Agnes Water's most desirable beachfront resorts with a short walk to Agnes Water Beach. McGrath's matching page corroborated the active campaign and resort details.",
+    "image": "https://s1.rea.global/sha/a76680f3c4c9c29a25aa980fff6ac621f5157b76c6b9980041ace6a2610fd12e/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/a76680f3c4c9c29a25aa980fff6ac621f5157b76c6b9980041ace6a2610fd12e/main.jpg",
+      "https://s1.rea.global/sha/35e01ea0850ba8f6ffd9d204ffe903d2abb6ce16455d7f033d49cf651fdf847a/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-agnes%2Bwater-151547288"
   },
   {
     "id": "qld-tugun-4-353-golden-four",
@@ -8863,6 +9062,34 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "wa-bluff-point-25-malcolm",
+    "title": "25 Malcolm Street",
+    "suburb": "Bluff Point",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "price": null,
+    "priceLabel": "Please Call For Details",
+    "landSize": 994,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "One street back from the beach",
+      "No major roads between the block and shoreline",
+      "994sqm R30 coastal landholding",
+      "Potential grouped or multiple dwelling development"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bluff Point direct listing verified 26 Jun 2026 from the exact 25 Malcolm Street listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 994sqm landholding positioned one street back from the beach, no major roads between the property and shoreline, a casual walk to Sunset Break, R30 zoning and potential grouped or multiple dwelling development subject to approval. It is treated as direct beach access rather than absolute beachfront because the listing describes it as one street back from the beach.",
+    "image": "https://i2.au.reastatic.net/800x600/4d102116a031eb6d789b96b10d17f5d8a409d8b57a03cff3bbb99a9fe1c4f45e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4d102116a031eb6d789b96b10d17f5d8a409d8b57a03cff3bbb99a9fe1c4f45e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-bluff%2Bpoint-204140956",
+    "investmentStar": false
+  },
+  {
     "id": "sa-black-point-401-black-point",
     "title": "401 Black Point Drive",
     "suburb": "Black Point",
@@ -9816,6 +10043,35 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/44bc1022cd04fc92b8e9e97e3f21c03b251811a7746c13e6a04bb44f6cced891/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-wa-north%2Bcoogee-150091936",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-north-coogee-4-perlinte",
+    "title": "4 Perlinte View",
+    "suburb": "North Coogee",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-05-11",
+    "price": null,
+    "priceLabel": "Call For Details",
+    "landSize": 362,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "50m beach access",
+      "Ocean glimpses",
+      "Large coastal house",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 Jun 2026 from the exact direct listing URL and the current North Coogee portal result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a six-bedroom Port Coogee residence approximately 50m to Coogee Beach access, with ocean glimpses from the upper floor, two large balconies, private lift, 450sqm building area and 362sqm land. It is not an absolute beachfront or no-road-frontage property, so beachfront and noRoadFrontage are false; it is retained for direct coastal access in the North Coogee sweep. The exact listing displayed Call For Details with no public numeric price visible.",
+    "image": "https://i2.au.reastatic.net/800x600/18cf31c2ef317009f927fed62b32cc60d2089819213a3a80f928e35b925522c1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/18cf31c2ef317009f927fed62b32cc60d2089819213a3a80f928e35b925522c1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-north%2Bcoogee-151156868",
     "investmentStar": false
   },
   {
@@ -12607,8 +12863,8 @@ const sampleProperties = [
       "Ocean views",
       "Vacant land"
     ],
-    "status": "active",
-    "notes": "Active 352sqm ocean-front Waterfront Estate land listing, advertised as a rare beachfront opportunity with ocean views, across the road from the sand and about 200m from Two Rocks Marina.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing now redirects to a sold page showing Contact agent, sold on 27 May 2026. The former active listing advertised a 352sqm ocean-front Waterfront Estate block with beach access across the road.",
     "image": "https://i2.au.reastatic.net/800x600/838c72082c3f3e942ba3ce42580f57cf42cbd742937f434498b27a00744c5800/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/838c72082c3f3e942ba3ce42580f57cf42cbd742937f434498b27a00744c5800/image.jpg",
@@ -12641,8 +12897,8 @@ const sampleProperties = [
       "Direct beach access",
       "Ocean-view land"
     ],
-    "status": "sold",
-    "notes": "Active Homely Two Rocks land listing advertised as a 300sqm ocean-view Waterfront Estate block metres from Leeman's Landing Beach and the marina, described as the final slice of land with direct beach access. Price is advertised as offers from $535,000.",
+    "status": "active",
+    "notes": "Active Homely Two Rocks land listing re-verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer or withdrawn marker shown. It advertises a 300sqm ocean-view Waterfront Estate block metres from Leeman's Landing Beach and the marina, described as the final slice of land with direct beach access. Price is advertised as offers from $535,000.",
     "image": "https://www.homely.com.au/img-variant/l-VaultRE-12478166-1.jpg?version=hTHS2BvJkbNZ.Wr6n4w.Logr7hUg9LOD",
     "listingUrl": "https://www.homely.com.au/homes/27-jordan-street-two-rocks-wa-6037/12478166"
   },
@@ -12737,8 +12993,8 @@ const sampleProperties = [
       "Large block",
       "Ocean views"
     ],
-    "status": "under_contract",
-    "notes": "Beachfront-position land along Thomas Street with rear laneway access. Exact Realestate listing now shows UNDER CONTRACT, so this record is hidden from the active app view.",
+    "status": "sold",
+    "notes": "Beachfront-position land along Thomas Street with rear laneway access. Current realestate.com.au suburb results show this property sold on 18 May 2026 for $735,000, so this record is hidden from the active app view.",
     "image": "https://i2.au.reastatic.net/800x600/873e234f0a48415d68e55ebea120797b2ab305ea75fd73ecabc0201c651a67e9/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/873e234f0a48415d68e55ebea120797b2ab305ea75fd73ecabc0201c651a67e9/image.jpg",
@@ -12747,6 +13003,36 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/564522a301a13231057b5107dbdf6217cc7ab5e12eae6620a9abdfddd76fe541/image.png"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-leeman-204288472"
+  },
+  {
+    "id": "wa-leeman-16-thomas",
+    "title": "16 Thomas Street",
+    "suburb": "Leeman",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "listedDate": "2026-06-05",
+    "price": 639000,
+    "landSize": 809,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beach access at end of street",
+      "Short-stay history",
+      "Coastal home",
+      "Large block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Leeman listing verified 26 Jun 2026 from the exact direct listing URL and corroborated by Domain and REIWA. The listing advertises a 809sqm coastal home at $639,000, published 5 Jun 2026, positioned just moments from the beach with beach access at the end of the street and proven short-stay accommodation history.",
+    "image": "https://imagecdn.reiwa.com.au/listing/15/5029515-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/15/5029515-01.jpg?maxwidth=900&maxheight=600&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/15/5029515-g-01.jpg?maxwidth=1920&maxheight=1357&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/15/5029515-g-02.jpg?maxwidth=1920&maxheight=1280&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/15/5029515-g-03.jpg?maxwidth=1920&maxheight=1280&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-leeman-151416048"
   },
   {
     "id": "wa-leeman-lot-442-50-thomas",
@@ -12891,8 +13177,8 @@ const sampleProperties = [
       "Pool",
       "Ocean backdrop"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised as directly opposite the Slade Point coastline with the beach just steps away, daily ocean backdrop, pool and rear shed. Price is advertised as By Negotiation.",
+    "status": "sold",
+    "notes": "Marked sold after the current realestate.com.au Slade Point sale evidence showed 13 Ocean Avenue sold on 27 May 2026 for $765,000. Previous listing advertised the home as directly opposite the Slade Point coastline with the beach just steps away, daily ocean backdrop, pool and rear shed.",
     "image": "https://i2.au.reastatic.net/800x600/13466edec3d90186efcc17d3bb9acb9822594f374bf2f3b11bab8cc494f0aeb1/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/13466edec3d90186efcc17d3bb9acb9822594f374bf2f3b11bab8cc494f0aeb1/image.jpg",
@@ -12932,7 +13218,9 @@ const sampleProperties = [
       "min": 600000,
       "max": 750000
     },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "hiddenPriceUpdatedAt": "2026-05-15",
+    "soldDate": "2026-05-27",
+    "soldPrice": 765000
   },
   {
     "id": "qld-slade-point-56-ocean",
@@ -12960,6 +13248,31 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/abd1f03688e7afed375034f276df813cb4a3377636b7361be2be27df1bbe1767/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-qld-slade%2Bpoint-204320680"
+  },
+  {
+    "id": "qld-slade-point-20-pacific",
+    "title": "20 Pacific Esplanade",
+    "suburb": "Slade Point",
+    "state": "QLD",
+    "nearestMajorCity": "Mackay",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 549000,
+    "landSize": 766,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Pacific Esplanade front row",
+      "Ocean views",
+      "Coastal trail at doorstep",
+      "Vacant coastal homesite"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Slade Point land listing advertised as a rare oceanview homesite on prestigious Pacific Esplanade, with panoramic Coral Sea views, nearby Lamberts Beach and Turners Beach, and Slade Point coastal trails, patrolled beaches, surfing and swimming at the doorstep. Price is advertised as offers over $549,000.",
+    "image": "https://www.realestate.com.au/property-image/204527628/1",
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-qld-slade%2Bpoint-204527628",
+    "investmentStar": false
   },
   {
     "id": "qld-wongaling-8-64-68-reid",
@@ -13314,8 +13627,8 @@ const sampleProperties = [
       "Vacant land",
       "Ocean views"
     ],
-    "status": "under_offer",
-    "notes": "Hidden after the 26 May 2026 Rules Beach sweep. The exact realestate.com.au listing now shows Under offer for this absolute beachfront land, so it is removed from the active app view. Price is the midpoint of the advertised range.",
+    "status": "sold",
+    "notes": "Hidden after the 26 June 2026 Rules Beach sweep. The current realestate.com.au suburb page now lists this absolute beachfront land as sold on 09 Jun 2026, so it is removed from the active app view. Price is the reported sold price.",
     "image": "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/62cd42e24d7779bca3be8d7e257bdb23c4a3266c31bc743a0e86563cd80b25f4/image.jpg",
@@ -13327,6 +13640,36 @@ const sampleProperties = [
     "investmentStar": true,
     "investmentAnnualGrowth5Yr": 17.74,
     "investmentReason": "Property.com.au same-street comparable 1/66 Rules Beach Road shows a $515k Oct 2025 sale after a $225k Sep 2020 purchase, implying about 17.7% annual compound growth."
+  },
+  {
+    "id": "qld-rules-beach-8-fingerfield",
+    "title": "8 Fingerfield Road",
+    "suburb": "Rules Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 75,
+    "daysOnMarket": 25,
+    "price": 455000,
+    "landSize": 160100,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Private beach access",
+      "Coastal acreage",
+      "Large landholding",
+      "Bushland privacy"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain exact Rules Beach listing advertised as a 16.01ha coastal acreage with a private walking access track to Rules Beach. Domain says it was first listed 01 Jun 2026 and has been on Domain for 25 days.",
+    "image": "https://farmbuycdn.edge.pushcreative.com.au/421775/1920_421775p-91fz-cg5g2g66eoiki1y0.jpg",
+    "images": [
+      "https://farmbuycdn.edge.pushcreative.com.au/421775/1920_421775p-91fz-cg5g2g66eoiki1y0.jpg",
+      "https://farmbuycdn.edge.pushcreative.com.au/421775/1920_421775p-91fz-anvmfpsbbl0uzqsu.jpg",
+      "https://farmbuycdn.edge.pushcreative.com.au/421775/1920_421775p-91fz-7gbeqb0rht88t9o4.jpg",
+      "https://farmbuycdn.edge.pushcreative.com.au/421775/1920_421775p-91fz-cm0xkvyt9mj6j56m.jpg"
+    ],
+    "listingUrl": "https://www.domain.com.au/fingerfield-road-rules-beach-qld-4674-2020883672"
   },
   {
     "id": "qld-rules-beach-lot-2-66-rules",
@@ -14559,8 +14902,8 @@ const sampleProperties = [
       "Seascapes precinct",
       "Elevated block"
     ],
-    "status": "active",
-    "notes": "Elevated Seascapes oceanfront residential land with uninterrupted absolute beachfront views. Price shown as offers from.",
+    "status": "under_offer",
+    "notes": "Elevated Seascapes oceanfront residential land with uninterrupted absolute beachfront views. Price shown as offers from. Realestate.com.au now marks the listing under offer, verified 26 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/26e92fe9c8f126118db6527ff494c554a4edef89d663f23a65e65c7dab82f859/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/26e92fe9c8f126118db6527ff494c554a4edef89d663f23a65e65c7dab82f859/image.jpg",
@@ -14617,8 +14960,8 @@ const sampleProperties = [
       "Ocean views",
       "Pool"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Halls Head listing verified 25 May 2026 from the exact direct listing URL and current Halls Head portal result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 726sqm absolute beachfront home with zero roads between the property and the water, ocean views, private pool, deck and multiple living areas. Available Halls Head growth evidence was checked but did not substantiate a greater than 15% annual investment flag for this comparable 4-bedroom house listing.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing URL rechecked 26 Jun 2026 and redirects to the sold page, showing $2,300,000 sold on 5 Jun 2026. The former active listing advertised a 726sqm absolute beachfront home with zero roads between the property and the water, ocean views, private pool, deck and multiple living areas.",
     "image": "https://i2.au.reastatic.net/800x600/d7c76f76f40c9a503f0e0cd1ad9f2782711017873ab36e3b958229ff446978c8/image.png",
     "images": [
       "https://i2.au.reastatic.net/800x600/d7c76f76f40c9a503f0e0cd1ad9f2782711017873ab36e3b958229ff446978c8/image.png"
@@ -14671,7 +15014,7 @@ const sampleProperties = [
       "R40 zoning"
     ],
     "status": "active",
-    "notes": "North-facing oceanfront Old Halls Head property directly across the road from Doddi's Beach, with uninterrupted ocean views and R40 redevelopment flexibility. Price shown as best offer over.",
+    "notes": "Exact realestate.com.au listing reverified 26 Jun 2026 as active, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. North-facing oceanfront Old Halls Head property directly across the road from Doddi's Beach, with uninterrupted ocean views and R40 redevelopment flexibility. Price shown as best offer over.",
     "image": "https://i2.au.reastatic.net/800x600/36450d18f3739a7bd8c06de891e737ee86093d5e4ff96e317f9043333a6d708a/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/ad4d81a5cdf15f6392b33714d101768d9d1c84ed6412694e1e5be1adadf81b7b/image.jpg"
@@ -14760,6 +15103,90 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/b92a6342717fa0f9cc10c9dd3526ed13246d0a22c6c0a6df0136f9d316b0e94e/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-wa-halls%2Bhead-148880936"
+  },
+  {
+    "id": "wa-halls-head-49-admiralty",
+    "title": "49 Admiralty Crescent",
+    "suburb": "Halls Head",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-06-15",
+    "price": 2250000,
+    "landSize": 947,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Private beach access",
+      "Hunchies Beach",
+      "Ocean views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain listing verified 26 Jun 2026. The listing advertises an absolute beachfront Halls Head residence with private gated access directly to Hunchies Beach, 180-degree ocean views and a 947sqm allotment. Price guide shown as buyers from the low to mid $2 millions.",
+    "image": "https://i2.au.reastatic.net/800x600/c6207ee6707854f10ac87b1e7e14e1f49ad1aa63e690a771bd079b55d4cbabf3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c6207ee6707854f10ac87b1e7e14e1f49ad1aa63e690a771bd079b55d4cbabf3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-halls%2Bhead-151490984",
+    "priceLabel": "Buyers from the Low to Mid $2 Millions"
+  },
+  {
+    "id": "wa-halls-head-17-35b-halls-head",
+    "title": "17/35B Halls Head Parade",
+    "suburb": "Halls Head",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-05-27",
+    "price": 599000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Blue Bay opposite",
+      "Ocean views",
+      "Beachfront pocket",
+      "Renovated"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 Jun 2026. The listing advertises a renovated Sea Breeze complex townhouse directly opposite Blue Bay beach with ocean views and a prime beachfront-pocket position. Price shown as offers from.",
+    "image": "https://i2.au.reastatic.net/800x600/0ecc67bd026d1685e47b6b87ab274106557deeecdc0ae27480e2960afc4ce457/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0ecc67bd026d1685e47b6b87ab274106557deeecdc0ae27480e2960afc4ce457/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-wa-halls%2Bhead-151312952",
+    "priceLabel": "Offers from $599,000"
+  },
+  {
+    "id": "wa-halls-head-2-11-halls-head",
+    "title": "2/11 Halls Head Parade",
+    "suburb": "Halls Head",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-06-26",
+    "price": 885000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Opposite Doddi's Beach",
+      "Waterline Apartments",
+      "Ocean glimpses",
+      "Ground floor"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 26 Jun 2026 from the exact listing page and Halls Head page 2 result. The listing advertises a ground-floor Waterline apartment directly opposite Doddi's Beach with ocean glimpses from the courtyard. Price shown as from.",
+    "image": "https://i2.au.reastatic.net/800x600/ae1b41b83a6674c8a8b392c4b24639171027ee406a89de86ea0445dd1796b5a9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ae1b41b83a6674c8a8b392c4b24639171027ee406a89de86ea0445dd1796b5a9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-halls%2Bhead-151608572",
+    "priceLabel": "From $885,000"
   },
   {
     "id": "nsw-pottsville-2-elfran",
@@ -15372,6 +15799,37 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/2e2b19d28c1a4766807a8597e24eb5a4396fef788f69607e31c67addd3244f88/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-townhouse-qld-blacks%2Bbeach-150559088"
+  },
+  {
+    "id": "qld-blacks-beach-30-26-bourke",
+    "title": "30/26 Bourke Street",
+    "suburb": "Blacks Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Mackay",
+    "majorCityMinutes": 25,
+    "daysOnMarket": 43,
+    "price": 369000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront resort complex",
+      "Direct beach access",
+      "Two resort pools",
+      "Low-maintenance coastal unit"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au, Domain and Homely unit listing in a beachfront resort complex, advertised with direct access to Blacks Beach, a beachfront grassed area, BBQ facilities, two resort pools and a tennis court. Price is advertised as offers from $369,000.",
+    "image": "https://www.homely.com.au/img-variant/l-LockedOn-13158081-1.jpg?version=uysOvjim5lMFAzSx61Xne3f_2xSmx.Ci",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-LockedOn-13158081-1.jpg?version=uysOvjim5lMFAzSx61Xne3f_2xSmx.Ci",
+      "https://www.homely.com.au/img-variant/l-LockedOn-13158081-2.jpg?version=KXyQqs_dLFASFuVqy6GTas6bFoiNC2AL",
+      "https://www.homely.com.au/img-variant/l-LockedOn-13158081-3.jpg?version=mRKRP8HYiaAJOopbNoLcr898H9uE3DT6",
+      "https://www.homely.com.au/img-variant/l-LockedOn-13158081-4.jpg?version=jMi9Qqi1MHOm7Fzi9PuwTLY0T7StseQB",
+      "https://www.homely.com.au/img-variant/l-LockedOn-13158081-5.jpg?version=DP5kt.Ovpmkwpbu8w6QA9qK1zmhQjoY2"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-blacks%2Bbeach-151202292"
   },
   {
     "id": "qld-blacks-beach-29-26-bourke",
@@ -17174,8 +17632,8 @@ const sampleProperties = [
       "Ocean views",
       "Holiday income"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised as absolute beachfront living directly on Red Rock Beach in Sunrise Estate, with ocean views and established holiday-rental income.",
+    "status": "under_offer",
+    "notes": "Hidden after the 26 Jun 2026 Agnes Water sweep. The exact realestate.com.au listing now shows Under offer for this absolute beachfront Sunrise Estate home, so it is removed from the active app view. Previously advertised as absolute beachfront living directly on Red Rock Beach with direct beach access, ocean views and holiday-rental income.",
     "image": "https://i2.au.reastatic.net/800x600/fe29fc105dc18057e1a73490ac0ab3ad58f31f9bf5fabb102bd242264a972b08/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/fe29fc105dc18057e1a73490ac0ab3ad58f31f9bf5fabb102bd242264a972b08/image.jpg",
@@ -17325,8 +17783,8 @@ const sampleProperties = [
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 370,
     "listedDate": "2026-04-27",
-    "price": 690000,
-    "landSize": null,
+    "price": 645000,
+    "landSize": 162,
     "beachfront": true,
     "noRoadFrontage": false,
     "directBeachAccess": true,
@@ -17336,8 +17794,8 @@ const sampleProperties = [
       "Direct beach access",
       "Resort pools"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au unit listing in Pavillions on 1770, advertised as a premium beachfront complex position just 50m from direct beach access with resort pools and secure parking.",
+    "status": "under_offer",
+    "notes": "Hidden after the 26 Jun 2026 Agnes Water sweep. The exact realestate.com.au listing now shows Under offer for this Pavillions on 1770 beachfront-complex unit, so it is removed from the active app view. Current advertised price is $645,000 and the page lists 162sqm, with direct beach access about 50m away.",
     "image": "https://i2.au.reastatic.net/800x600/3ba5e7d961be1809b604ba8c037ac5f4950bf34ab132a259419f3e97f5ffc6fd/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3ba5e7d961be1809b604ba8c037ac5f4950bf34ab132a259419f3e97f5ffc6fd/image.jpg",
@@ -20031,6 +20489,38 @@ const sampleProperties = [
     "listingUrl": "https://www.homely.com.au/homes/120-marine-parade-cottesloe-wa-6011/11861737"
   },
   {
+    "id": "wa-cottesloe-94-marine",
+    "title": "94 Marine Parade",
+    "suburb": "Cottesloe",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "daysOnMarket": 52,
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Iconic Marine Parade beachfront complex overlooking Cottesloe Beach",
+      "Option to purchase up to 17 units in one line from 28 total lots",
+      "Over 50% of offered lots advertised with street-front ocean views",
+      "Short-stay income and redevelopment/investment optionality"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Cottesloe listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. REIWA, Domain, Homely, and realcommercial corroborated the active Expressions of Interest campaign for 94 Marine Parade. The listing advertises a tightly held Marine Parade complex on the corner of John Street overlooking world-famous Cottesloe Beach, with up to 17 units available in one line or individually, all units currently leased for short stay, and over 50% of offered lots with street-front ocean views. Homely showed 52 days on Homely; realcommercial showed 1,382sqm floor area but no land-size figure was verified.",
+    "image": "https://imagecdn.reiwa.com.au/listing/84/5014984-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/84/5014984-01.jpg?maxwidth=900&maxheight=600&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/84/5014984-g-01.jpg?maxwidth=1360&maxheight=905&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/84/5014984-g-02.jpg?maxwidth=1360&maxheight=905&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/84/5014984-g-03.jpg?maxwidth=1360&maxheight=905&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/84/5014984-g-04.jpg?maxwidth=1360&maxheight=905&quality=80"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unitblock-wa-cottesloe-150959676"
+  },
+  {
     "id": "wa-cottesloe-242-marine",
     "title": "242 Marine Parade",
     "suburb": "Cottesloe",
@@ -20048,8 +20538,8 @@ const sampleProperties = [
       "Oceanfront terrace",
       "Pool"
     ],
-    "status": "active",
-    "notes": "Active Marine Parade listing described as front-row living with uninterrupted Indian Ocean panoramas, an oceanfront terrace and the beach directly across the road. Price advertised as offers.",
+    "status": "under_offer",
+    "notes": "Under-offer exact realestate.com.au Cottesloe listing reverified 26 Jun 2026 from the suburb result page and Homely sale results. Previously advertised as a Marine Parade front-row home with uninterrupted Indian Ocean panoramas, an oceanfront terrace and the beach directly across the road. Price advertised as offers.",
     "image": "https://i2.au.reastatic.net/800x600/3013650741cfcb0ccaa87f5a5e54cf475907b528b66dcd346f7504c0f8eb7af0/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3013650741cfcb0ccaa87f5a5e54cf475907b528b66dcd346f7504c0f8eb7af0/image.jpg",
@@ -29714,6 +30204,37 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "wa-waikiki-10-michael",
+    "title": "10 Michael Road",
+    "suburb": "Waikiki",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 45,
+    "daysOnMarket": 56,
+    "price": 1300000,
+    "priceLabel": "Offers Over $1,300,000",
+    "landSize": 910,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "100m to beach access",
+      "Warnbro Sound views",
+      "Elevated oceanside pocket",
+      "Perth access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Waikiki house listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers Over $1,300,000, 910sqm land, an elevated coastal residence just 100m from the waterfront and beach access, uninterrupted Warnbro Sound views from all living spaces, and an oceanside pocket near Waikiki Beach. Homely's matching Waikiki sale result page corroborated the active listing and showed 56 days on Homely. This is marked as direct beach access rather than no-road absolute beachfront because the exact listing does not state private direct frontage.",
+    "image": "https://propertyphotos.vaultre.com.au/1506/67404755__1688442575-67404755__1688442539-17650-WEB10MichaelRoadWaikiki20.jpg",
+    "images": [
+      "https://propertyphotos.vaultre.com.au/1506/67404755__1688442575-67404755__1688442539-17650-WEB10MichaelRoadWaikiki20.jpg",
+      "https://propertyphotos.vaultre.com.au/1506/67404754__1688442575-67404754__1688442537-13885-WEB10MichaelRoadWaikiki19.jpg",
+      "https://propertyphotos.vaultre.com.au/1506/67404725__1688442574-67404725__1688442500-26016-WEB10MichaelRoadWaikiki01.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-wa-waikiki-151070748",
+    "investmentStar": false
+  },
+  {
     "id": "wa-waikiki-5-shelton",
     "title": "5 Shelton Street",
     "suburb": "Waikiki",
@@ -33621,8 +34142,8 @@ const sampleProperties = [
       "Town Beach views",
       "Resort facilities"
     ],
-    "status": "active",
-    "notes": "Active Seashells penthouse positioned closest to the water with north-facing Town Beach views and beachfront resort facilities. Price advertised as buyers over.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing re-verified 26 Jun 2026 and now redirects to the sold page, showing $1,100,000 sold on 25 May 2026. The former Seashells penthouse was advertised as positioned closest to the water with north-facing Town Beach views and beachfront resort facilities, so it is retained for history but hidden from active app results.",
     "image": "https://i2.au.reastatic.net/800x600/545d275629c45de5aa66feb2e3905f916534a7bd509607c619033439dc5a2aae/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/545d275629c45de5aa66feb2e3905f916534a7bd509607c619033439dc5a2aae/image.jpg",
@@ -33673,8 +34194,8 @@ const sampleProperties = [
       "Corner apartment",
       "Ocean views"
     ],
-    "status": "active",
-    "notes": "Active level-five Seashells corner apartment advertised as absolute beachfront at the closest end to the sand, with panoramic ocean views. Price advertised as buyers over.",
+    "status": "under_offer",
+    "notes": "Exact realestate.com.au listing re-verified 26 Jun 2026 and now displays an Under offer marker. The level-five Seashells corner apartment was advertised as absolute beachfront at the closest end to the sand, with panoramic ocean views and a Buyers Over $799K price guide, so it is hidden from active app results until a live active listing is available.",
     "image": "https://i2.au.reastatic.net/800x600/8c128633c8fdac82ebdb2d085beb1d6f836f7e8ffab30f617fbc9be98a6947eb/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8c128633c8fdac82ebdb2d085beb1d6f836f7e8ffab30f617fbc9be98a6947eb/image.jpg",
@@ -33766,8 +34287,9 @@ const sampleProperties = [
     "state": "WA",
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 45,
-    "listedDate": "2026-05-07",
-    "price": 875000,
+    "listedDate": "2026-06-23",
+    "daysOnMarket": 3,
+    "price": 1069000,
     "landSize": 304,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -33778,8 +34300,8 @@ const sampleProperties = [
       "Front unit",
       "Lock-and-leave"
     ],
-    "status": "under_offer",
-    "notes": "Under-offer front-position unit about 100m from Rockingham Beach with direct pathway access almost opposite, sweeping 180-degree ocean views and multiple alfresco areas. Exact realestate.com.au listing verified 25 May 2026 as under offer with an advertised price of $995,000.",
+    "status": "active",
+    "notes": "Reactivated after the 26 Jun 2026 Rockingham sweep from the current realestate.com.au direct listing. The new listing is active at $1,069,000, published 23 Jun 2026, and advertises a front-position unit about 100m from Rockingham Beach with direct beach access via the pathway almost directly opposite, sweeping 180-degree ocean views and multiple alfresco outdoor areas. The previous REA listing sold on 10 Jun 2026 for $998,000; this record now tracks the relisted active sale URL.",
     "image": "https://i2.au.reastatic.net/800x600/34375731ff9f6b5a7c6eeb1e31e0784cfa369212f3de478ae6e930b57edb8678/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/34375731ff9f6b5a7c6eeb1e31e0784cfa369212f3de478ae6e930b57edb8678/image.jpg",
@@ -33807,7 +34329,40 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/1e9686580047fccd7c7e71da6c3f578fea182684429244a0c5b76e37bb5b7dc3/image.jpg",
       "https://i2.au.reastatic.net/800x600/813bb3b69b47a053b2c2bbb713ed34fef5cd4f93b0efe3e66364089cdfcaadeb/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-unit-wa-rockingham-151137576"
+    "listingUrl": "https://www.realestate.com.au/property-unit-wa-rockingham-151571936",
+    "priceLabel": "$1,069,000"
+  },
+  {
+    "id": "wa-rockingham-22-17-rockingham-beach",
+    "title": "22/17 Rockingham Beach Road",
+    "suburb": "Rockingham",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 45,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Price on Application",
+    "landSize": 162,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row coastal apartment",
+      "Rockingham foreshore pocket",
+      "Short stroll to pristine beaches",
+      "Low-maintenance lock-and-leave"
+    ],
+    "status": "active",
+    "notes": "Active REIWA direct listing verified 26 Jun 2026. The exact listing is headed 'Front Row to the Coast', advertises Price on Application, 162sqm land, open inspection on 27 Jun 2026, and describes a level-three apartment in a sought-after Rockingham Beach Road coastal pocket moments from the Rockingham foreshore, beaches, cafes and restaurants. Kept as road-fronted/front-row rather than no-road beachfront because the listing does not verify private no-road frontage.",
+    "image": "https://imagecdn.reiwa.com.au/listing/97/5019497-01.jpg?maxwidth=900&maxheight=600&quality=80",
+    "images": [
+      "https://imagecdn.reiwa.com.au/listing/97/5019497-01.jpg?maxwidth=900&maxheight=600&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/97/5019497-g-01.jpg?maxwidth=800&maxheight=533&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/97/5019497-g-02.jpg?maxwidth=800&maxheight=533&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/97/5019497-g-03.jpg?maxwidth=800&maxheight=533&quality=80",
+      "https://imagecdn.reiwa.com.au/listing/97/5019497-g-04.jpg?maxwidth=800&maxheight=533&quality=80"
+    ],
+    "listingUrl": "https://reiwa.com.au/22-17-rockingham-beach-road-rockingham-5019497/"
   },
   {
     "id": "wa-rockingham-lot-2-115b-rockinghama-beach",
@@ -34052,8 +34607,8 @@ const sampleProperties = [
       "Direct beach access",
       "Redevelopment upside"
     ],
-    "status": "active",
-    "notes": "Active unit listing describes absolute beachfront living with sand steps from the door, direct beach access and no roads to cross. Price advertised as from high $900,000s.",
+    "status": "under_offer",
+    "notes": "Hidden after the 26 June 2026 Scarborough sweep. The exact realestate.com.au listing page now shows this absolute beachfront West Coast Highway unit as Under offer. It was previously advertised with no roads between the apartment and the ocean, direct beach access via nearby footpath, ocean views and redevelopment upside.",
     "image": "https://i2.au.reastatic.net/800x600/8e15f7ba7d6e18ce82fa24d31469629bfa07b8c74f875337ca415cdfb928e631/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8e15f7ba7d6e18ce82fa24d31469629bfa07b8c74f875337ca415cdfb928e631/image.jpg",
@@ -34271,6 +34826,87 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/72aaefeb3bdf9e20680ad5233472603a1d2373e75cc5c9a5a9107e77cb7c57b0/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/project/the-dunes-scarborough-600035795"
+  },
+  {
+    "id": "wa-scarborough-607e-1-reserve",
+    "title": "607E/1 Reserve Street",
+    "suburb": "Scarborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "daysOnMarket": null,
+    "price": 850000,
+    "landSize": 64,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Entry-level absolute beachfront apartment",
+      "Direct access to white-sand beaches",
+      "Uninterrupted Indian Ocean views",
+      "The Dunes resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct unit listing verified 26 June 2026 from the exact listing URL. The page advertises Apartment 607E in The Dunes as an absolute beachfront location with direct access to white-sand beaches, uninterrupted Indian Ocean views, resort-style amenities and a 64sqm building size. Price is advertised as $850,000.",
+    "image": "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-scarborough-150599144"
+  },
+  {
+    "id": "wa-scarborough-608e-1-reserve",
+    "title": "608E/1 Reserve Street",
+    "suburb": "Scarborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "landSize": 120,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront living at The Dunes",
+      "Direct access to white-sand beaches",
+      "Panoramic Indian Ocean views",
+      "Curved balcony and resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct unit listing verified 26 June 2026 from the exact listing URL. The page advertises Apartment 608E in The Dunes with panoramic Indian Ocean views, direct access to white-sand beaches, a beachfront setting and a 120sqm building size. Price is advertised as $1,650,000.",
+    "image": "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-scarborough-140857020"
+  },
+  {
+    "id": "wa-scarborough-1001e-1-reserve",
+    "title": "1001E/1 Reserve Street",
+    "suburb": "Scarborough",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 20,
+    "daysOnMarket": null,
+    "price": 2710000,
+    "landSize": 167,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "The Dunes absolute beachfront address",
+      "Direct beach access",
+      "10th-floor ocean and Rottnest views",
+      "Wrap-around balcony"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct unit listing verified 26 June 2026 from the exact listing URL. The page advertises Apartment 1001E in The Dunes with elevated coastal living, northern Indian Ocean and Rottnest views, project direct beach access and a 167sqm building size. Price is advertised as $2,710,000.",
+    "image": "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ff8953f4f0bfbe80d0ee71602a54914feb24183e58cfd35d8b08ac86c82e5d1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-scarborough-139805323"
   },
   {
     "id": "wa-scarborough-360-west-coast",
@@ -34561,8 +35197,8 @@ const sampleProperties = [
       "Marina precinct",
       "Coastal vistas"
     ],
-    "status": "active",
-    "notes": "Active house listing advertised as ocean front luxury in the Marina Precinct, with uninterrupted ocean views from every level and sweeping coastal vistas. Price advertised as All Offers Considered.",
+    "status": "sold",
+    "notes": "Marked sold after the Mindarie sweep found this address in the realestate.com.au recent sold panel, sold 28 May 2026 for $2,175,000. Earlier notes: Active house listing advertised as ocean front luxury in the Marina Precinct, with uninterrupted ocean views from every level and sweeping coastal vistas. Price advertised as All Offers Considered.",
     "image": "https://i2.au.reastatic.net/800x600/da159d934410938a7dfaea28e3e4c38cc0f60639bda22f4599489eb05fb1ec54/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/da159d934410938a7dfaea28e3e4c38cc0f60639bda22f4599489eb05fb1ec54/image.jpg",
@@ -34796,6 +35432,88 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-150591164"
   },
   {
+    "id": "wa-mindarie-101-50-alexandria",
+    "title": "101/50 Alexandria View",
+    "suburb": "Mindarie",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-15",
+    "price": 1850000,
+    "landSize": 149,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront terrace",
+      "Indian Ocean glimpses",
+      "Ocean-facing gym",
+      "Short stroll to beachfront"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 26 Jun 2026 from the exact 101/50 Alexandria View URL and Realtor mirror. The Claytons residence is advertised with Indian Ocean glimpses, beachfront terrace amenities, an ocean-facing gym and a short stroll to the marina, walking paths and beachfront. Building size is advertised as 149sqm.",
+    "image": "https://s1.rea.global/sha/185825e44bef0aaeb330e097de3ed4f49395d6f348d25c98f935dcd15cfa3464/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/185825e44bef0aaeb330e097de3ed4f49395d6f348d25c98f935dcd15cfa3464/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-151218344"
+  },
+  {
+    "id": "wa-mindarie-210-50-alexandria",
+    "title": "210/50 Alexandria View",
+    "suburb": "Mindarie",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-05-15",
+    "price": 2270000,
+    "landSize": 172,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Uninterrupted ocean views",
+      "Catalina Foreshore Reserve outlook",
+      "Beachfront sunset terrace",
+      "Short stroll to beachfront"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 26 Jun 2026 from the exact 210/50 Alexandria View URL and Realtor mirror. The apartment is advertised with uninterrupted ocean and Catalina Foreshore Reserve views, a beachfront sunset terrace, ocean-facing resident amenities and a short stroll to the beachfront. Building size is advertised as 172sqm.",
+    "image": "https://s1.rea.global/sha/3d692cb6316638f777e1c98859116648cb9438541a4b25e254c80eb46b11a93b/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/3d692cb6316638f777e1c98859116648cb9438541a4b25e254c80eb46b11a93b/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-151218516"
+  },
+  {
+    "id": "wa-mindarie-203-50-alexandria",
+    "title": "203/50 Alexandria View",
+    "suburb": "Mindarie",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 35,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "MID TO HIGH $2MILLIONS",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Uninterrupted Indian Ocean views",
+      "Private ocean-view balcony",
+      "Sunset terrace and pool deck",
+      "Moments from Mindarie Marina"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au direct listing verified 26 Jun 2026 from the exact 203/50 Alexandria View URL and Realtor mirror. The brand-new Claytons apartment is advertised with uninterrupted Indian Ocean views, private balcony ocean outlook, sunset terrace and pool deck amenities, and a position moments from Mindarie Marina. Price is a guide only, so stored as null with priceLabel.",
+    "image": "https://s1.rea.global/sha/e6f2b844c15706a07aae4f4fe536e681e5aabfd426563a5238155d7e8dea7ad9/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/e6f2b844c15706a07aae4f4fe536e681e5aabfd426563a5238155d7e8dea7ad9/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-mindarie-151298968"
+  },
+  {
     "id": "wa-mindarie-lg14-50-alexandria",
     "title": "LG14/50 Alexandria View",
     "suburb": "Mindarie",
@@ -34901,8 +35619,8 @@ const sampleProperties = [
       "Gated walkway to the Mindarie Marina foreshore",
       "Renovated coastal townhouse near marina cafes and beaches"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au direct listing verified 25 May 2026 from the exact 1/19 Penzance Terrace listing URL and Mindarie portal result. The townhouse is advertised with direct marina access via a gated walkway from the private courtyard, a marina-facing balcony, renovated interiors and a waterfront Mindarie Marina position. Individual strata land size is not published, so price per sqm remains TBA. Mindarie five-year growth evidence was checked; available sources did not substantiate an above-15% annual investment flag.",
+    "status": "sold",
+    "notes": "Marked sold after the Mindarie sweep found this address in recent unit sales on the 210/50 Alexandria View realestate.com.au listing, sold 5 Jun 2026 for $1,180,000. Earlier notes: Active realestate.com.au direct listing verified 25 May 2026 from the exact 1/19 Penzance Terrace listing URL and Mindarie portal result. The townhouse is advertised with direct marina access via a gated walkway from the private courtyard, a marina-facing balcony, renovated interiors and a waterfront Mindarie Marina position. Individual strata land size is not published, so price per sqm remains TBA. Mindarie five-year growth evidence was checked; available sources did not substantiate an above-15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600-resize,f480x360/5caf4589580c320dbe435f7d801b3a0b37369a0e57e7bd7aad61e33940a4a360/main.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600-resize,f480x360/5caf4589580c320dbe435f7d801b3a0b37369a0e57e7bd7aad61e33940a4a360/main.jpg"
@@ -34953,8 +35671,8 @@ const sampleProperties = [
       "Town centre frontage",
       "Resort-style pools"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au townhouse listing advertised as opposite the park foreshore in Jurien Bay town centre, with ocean views from both levels and full bay views. Price advertised at $1,100,000.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing rechecked 26 Jun 2026 and redirected to a sold page showing $1,100,000 sold on 24 Jun 2026. Previously advertised as opposite the park foreshore in Jurien Bay town centre, with ocean views from both levels and full bay views.",
     "image": "https://i2.au.reastatic.net/800x600/2883b7bc4912b84163526a53a918cda47464ce5afad0cc9ee83fcc0f1dcc697f/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/2883b7bc4912b84163526a53a918cda47464ce5afad0cc9ee83fcc0f1dcc697f/image.jpg",
@@ -38268,6 +38986,81 @@ const sampleProperties = [
     "investmentStar": true,
     "investmentFiveYearGrowth": "107.2%",
     "investmentReason": "PerthNow/Cotality reporting cited Geraldton dwelling values up 107.2% over five years, which annualises to about 15.7%, supported by strong recent Geraldton market momentum."
+  },
+  {
+    "id": "wa-geraldton-12-219-foreshore",
+    "title": "12/219 Foreshore Drive",
+    "suburb": "Geraldton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "daysOnMarket": null,
+    "price": 650000,
+    "landSize": 118,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute waterfront apartment",
+      "Right on the water's edge",
+      "Marina and port views",
+      "Waterfront precinct walkways and beaches"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Geraldton unit listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises an exceptional waterfront location, absolute waterfront position right on the water's edge in Geraldton Marina, views across the port and marina, pristine beaches and waterfront walkways at the doorstep, $650,000 price and 118sqm land size.",
+    "image": "https://www.realestate.com.au/property-image/150217888/1",
+    "listingUrl": "https://www.realestate.com.au/property-unit-wa-geraldton-150217888",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-geraldton-13-219-foreshore",
+    "title": "13/219 Foreshore Drive",
+    "suburb": "Geraldton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "daysOnMarket": null,
+    "price": 749000,
+    "landSize": 127,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Foreshore Drive apartment",
+      "Beach about 100m",
+      "Marina and ocean views",
+      "Boardwalk and CBD access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Geraldton apartment listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises marina and ocean views, a blue-chip Foreshore Drive location, beach about 100m away, boardwalk and CBD access, offers from $749,000 and 127sqm land size.",
+    "image": "https://www.realestate.com.au/property-image/148200832/1",
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-geraldton-148200832",
+    "investmentStar": false
+  },
+  {
+    "id": "wa-geraldton-33-219-foreshore",
+    "title": "33/219 Foreshore Drive",
+    "suburb": "Geraldton",
+    "state": "WA",
+    "nearestMajorCity": "Perth",
+    "majorCityMinutes": 260,
+    "listedDate": "2026-05-21",
+    "price": 695000,
+    "landSize": 118,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Foreshore Drive waterfront precinct",
+      "Uninterrupted marina outlook",
+      "Pristine beaches nearby",
+      "Coastal walkways at the doorstep"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Geraldton apartment listing verified 26 Jun 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises commanding views from the living area and bedrooms, Geraldton waterfront precinct access, pristine beaches, walkways and cycle paths to the north and south at the doorstep, $695,000 price and a private lease to September 2026.",
+    "image": "https://www.realestate.com.au/property-image/151267060/1",
+    "listingUrl": "https://www.realestate.com.au/property-apartment-wa-geraldton-151267060",
+    "investmentStar": false
   },
   {
     "id": "qld-mackay-270-294-shoal-point",
@@ -75929,10 +76722,391 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-wa-augusta-204091228",
     "listingCategory": "beachfront",
     "investmentStar": false
+  },
+  {
+    "id": "qld-lammermoor-15-100-scenic",
+    "title": "15/100 Scenic Highway",
+    "suburb": "Lammermoor",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "daysOnMarket": 45,
+    "price": 430000,
+    "landSize": 52,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Across from beach",
+      "Ocean views",
+      "Resort pool",
+      "Holiday let potential"
+    ],
+    "status": "active",
+    "notes": "Active one-bedroom apartment positioned directly across from Lammermoor Beach with ocean views and resort-style amenities.",
+    "image": "https://www.homely.com.au/img-variant/l-Rex-13148274-1.jpg?named-transform=webHeroTransform&version=hRsXy0o0mMi4sjrUhMYtRO_VGN0kmbRt",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-Rex-13148274-1.jpg?named-transform=webHeroTransform&version=hRsXy0o0mMi4sjrUhMYtRO_VGN0kmbRt",
+      "https://www.homely.com.au/img-variant/l-Rex-13148274-2.jpg?named-transform=webDefaultTransform&version=pT3eejTpgrXoqSuGXHvmxZZLxjLXVH_O",
+      "https://www.homely.com.au/img-variant/l-Rex-13148274-3.jpg?named-transform=webDefaultTransform&version=Wj73iHmhF3oCB2_KlnVkZrDm25doMLq7"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-lammermoor-151173544"
+  },
+  {
+    "id": "qld-lammermoor-3-92-scenic",
+    "title": "3/92 Scenic Highway",
+    "suburb": "Lammermoor",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "daysOnMarket": 51,
+    "price": 550000,
+    "priceLabel": "Offers Over $550,000 Considered",
+    "landSize": 80,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Opposite Lammermoor Beach",
+      "Ground-floor unit",
+      "Complex pool",
+      "Sea breezes"
+    ],
+    "status": "active",
+    "notes": "Active Sandpiper complex apartment directly opposite Lammermoor Beach, marketed as a beachfront location with easy coastal access.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13127228-1.jpg?named-transform=webHeroTransform&version=E9YXLTC285EOONNWWa1pJguHe67WcHru",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13127228-1.jpg?named-transform=webHeroTransform&version=E9YXLTC285EOONNWWa1pJguHe67WcHru",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13127228-2.jpg?named-transform=webDefaultTransform&version=ymy07BxtXhQwQsMKQ1L5wlL8cQjDFBzZ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13127228-3.jpg?named-transform=webDefaultTransform&version=FtCpUf1QX_VWZkaCqekSF_XH400n3Afg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-lammermoor-151118544"
+  },
+  {
+    "id": "qld-lammermoor-7-92-94-scenic",
+    "title": "7/92-94 Scenic Highway",
+    "suburb": "Lammermoor",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "listedDate": "2026-06-17",
+    "daysOnMarket": 9,
+    "price": 575000,
+    "priceLabel": "Offers Over $575,000 Considered",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Opposite Lammermoor Beach",
+      "Ocean views",
+      "Steps to beach",
+      "Pool and BBQ area"
+    ],
+    "status": "active",
+    "notes": "Active refurbished unit directly across from Lammermoor Beach, with ocean views and steps to the beach, Lions Park and walking tracks.",
+    "image": "https://www.homely.com.au/img-variant/l-VaultRE-13252620-1.jpg?named-transform=webHeroTransform&version=fvmhQhGrqgO9rXQ8HnN57yjlYnwhDU_k",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-VaultRE-13252620-1.jpg?named-transform=webHeroTransform&version=fvmhQhGrqgO9rXQ8HnN57yjlYnwhDU_k",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13252620-2.jpg?named-transform=webDefaultTransform&version=YdXSCKFhbciE8aalyl5f5_JaBNwZ5FqP",
+      "https://www.homely.com.au/img-variant/l-VaultRE-13252620-3.jpg?named-transform=webDefaultTransform&version=p6nwwqFzlGpq0FesCf47F5e._CvTYzxh"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-lammermoor-151514676"
+  },
+  {
+    "id": "qld-yeppoon-405-18-22-anzac",
+    "title": "405/18-22 Anzac Parade",
+    "suburb": "Yeppoon",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "listedDate": "2026-06-24",
+    "daysOnMarket": 2,
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 170,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Echelon penthouse in Yeppoon's beachfront foreshore precinct",
+      "Uninterrupted ocean and island views across Yeppoon Main Beach",
+      "Advertised as one of the region's premier beachfront residences",
+      "Resort pool, BBQ facilities and secure two-car parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yeppoon unit listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Homely listing. The listing advertises Expressions of Interest, date published 24 Jun 2026, 170m2 building area, a penthouse position in the Echelon complex, sweeping views across Yeppoon's foreshore, moments to Yeppoon Main Beach and Homely flags Beach Front and Ocean Views. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the active portal pages.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13272924-1.jpg?named-transform=webHeroTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13272924-1.jpg?named-transform=webHeroTransform"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-yeppoon-151580760",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-yeppoon-5-16-anzac",
+    "title": "5/16 Anzac Parade",
+    "suburb": "Yeppoon",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "daysOnMarket": 32,
+    "price": 729000,
+    "priceLabel": "Offers Over $729,000 Considered",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Prime Anzac Parade beachfront-precinct unit",
+      "Steps to Yeppoon Lagoon, sandy beaches, cafes and restaurants",
+      "Refurbished two-bedroom coastal unit with CBD car space",
+      "Ocean views and north-east aspect capturing sea breezes"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yeppoon unit listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against Homely. The listing advertises Offers Over $729,000 Considered, 2 bedrooms, 1 bathroom, 1 car space, a prime beachfront position in Yeppoon's beachfront precinct and steps to the lagoon, sandy beaches, cafes and restaurants. Land size was not disclosed, so landSize is set to null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13189798-1.jpg?named-transform=webHeroTransform&version=O0mgDPSjIyI1Sb3F7C7AY_WiDRfpkbO",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13189798-1.jpg?named-transform=webHeroTransform&version=O0mgDPSjIyI1Sb3F7C7AY_WiDRfpkbO"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-yeppoon-151302088",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-yeppoon-11-1-3-normanby",
+    "title": "11/1-3 Normanby Street",
+    "suburb": "Yeppoon",
+    "state": "QLD",
+    "nearestMajorCity": "Rockhampton",
+    "majorCityMinutes": 45,
+    "listedDate": "2025-08-14",
+    "price": 1800000,
+    "priceLabel": "$1,800,000",
+    "landSize": 576,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Directly opposite the ocean in Yeppoon's foreshore precinct",
+      "508m2 top-floor penthouse with 308m2 wraparound balcony",
+      "Advertised beachfront lifestyle above cafes and close to the Lagoon",
+      "Holiday-letting appraisal suggests strong income potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yeppoon apartment listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against property.com.au. The listing advertises $1,800,000, 508m2 building size, property.com.au land size of 576m2, a prime beachfront location directly opposite the ocean, beachfront walks, Lagoon precinct access and holiday-letting income potential. Property.com.au shows the current listing as for sale, listed 14 Aug 2025. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the active portal pages.",
+    "image": "https://i2.au.reastatic.net/569x368-crop%2Cprogressive/499c24ce3d02694708b53781ecc74c96208b6b84a857012b4c364b4d90563366/main.png",
+    "images": [
+      "https://i2.au.reastatic.net/569x368-crop%2Cprogressive/499c24ce3d02694708b53781ecc74c96208b6b84a857012b4c364b4d90563366/main.png"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-yeppoon-148772092",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-16-woongarra-scenic",
+    "title": "16 Woongarra Scenic Drive",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 6000000,
+    "priceLabel": "Offers from $6,000,000",
+    "landSize": 1046,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Kelly's Beach at doorstep",
+      "Uninterrupted ocean views",
+      "Dual-living prestige residence",
+      "1046m2 coastal allotment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL. The page advertises 16 Woongarra Scenic Drive as positioned along Bargara's iconic coastline with Kelly's Beach at the doorstep, immediate beach access, uninterrupted ocean views, a 1046m2 allotment, dual-living accommodation and Offers from $6,000,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/4137fe4f0e6332d94eccba6358766eb2128a51d12f551b10377a33d00c1b208e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4137fe4f0e6332d94eccba6358766eb2128a51d12f551b10377a33d00c1b208e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bargara-150924600",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-59-woongarra-scenic",
+    "title": "59 Woongarra Scenic Drive",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "By Negotiation - Offers Invited",
+    "landSize": 908,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly fronts Archies Beach",
+      "Walk directly onto sand",
+      "Architect-designed beachfront retreat",
+      "908m2 absolute beachfront holding"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Domain result. The page advertises 59 Woongarra Scenic Drive as one of nine homes directly fronting Archies Beach, with beachfront living, direct access onto the beach, uninterrupted ocean views, 908m2 land and By Negotiation - Offers Invited. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/62797a8ca14cf296f1f08f99d4327a7b64c0e12aeb2b08441641b4f75dc494e5/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/62797a8ca14cf296f1f08f99d4327a7b64c0e12aeb2b08441641b4f75dc494e5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bargara-148504640",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-10-104-miller",
+    "title": "10/104 Miller Street",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 825000,
+    "priceLabel": "Offers Over $825,000",
+    "landSize": 118,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront apartment",
+      "No roads to cross",
+      "Direct Kelly's Beach access",
+      "Dual-key holiday-let potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL. The page advertises 10/104 Miller Street in the Shoreline complex as absolute beachfront, with direct access to Kelly's Beach, no roads to cross, ocean views, 118m2 land, dual-key income potential and Offers Over $825,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/565bf7ea1d7605eb5d9bbdebf7c37e2f7a0232570f18236e35c21fd8149e0a49/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/565bf7ea1d7605eb5d9bbdebf7c37e2f7a0232570f18236e35c21fd8149e0a49/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bargara-150714828",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-1-13-esplanade",
+    "title": "1/13 Esplanade",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1325000,
+    "priceLabel": "Offers Above $1,325,000",
+    "landSize": 151,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront Classique complex",
+      "Bargara Esplanade front-row position",
+      "Ocean views",
+      "Direct walking-path access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Homely result. The page advertises Unit 1 in the Classique complex as beachfront living on Bargara's Esplanade, with ocean views, direct access to the Bargara walking pathway, 151m2 land and Offers Above $1,325,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/df45fad27aa9448607d8c0f02be32af0f1cd7f5c2ca4482ba42616cfef1b497d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/df45fad27aa9448607d8c0f02be32af0f1cd7f5c2ca4482ba42616cfef1b497d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bargara-151252980",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-mira-living-unit-2",
+    "title": "Unit 2, Mira Living 25-27 The Esplanade",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1580000,
+    "priceLabel": "$1,580,000",
+    "landSize": 188,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute oceanfront Esplanade position",
+      "Ground-floor courtyard residence",
+      "Direct Esplanade and beach-path access",
+      "188m2 brand-new apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Domain result. The page identifies the residence as Unit 2 and advertises a ground-floor Mira Living apartment on The Esplanade with an absolute oceanfront position, direct access to the esplanade and surrounding beach paths, 188m2 building size and $1,580,000 price. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/61c8bd49d9dc0e723b1e2339f2dc35751ff63c33f3e1bd2cb4a79988b1931431/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/61c8bd49d9dc0e723b1e2339f2dc35751ff63c33f3e1bd2cb4a79988b1931431/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bargara-151145004",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-103-esplanade",
+    "title": "103 Esplanade",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 3000000,
+    "priceLabel": "Offers Over $3,000,000",
+    "landSize": 2031,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Oceanfront Esplanade development site",
+      "2031m2 over two titles",
+      "Permanent ocean views",
+      "High-density ocean-front zoning"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against Domain and Homely exact listing pages. The pages advertise 103 Esplanade as an oceanfront development opportunity in central Bargara, spanning 2031m2 over two titles with Esplanade and See Street frontages, high-density ocean-front zoning and Offers Over $3,000,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://www.homely.com.au/img-variant/l-Rex-13046778-1.jpg?named-transform=webDefaultTransform&version=7YFERBhEdjs_h5.nTUzA8JWSRH70TClp",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-Rex-13046778-1.jpg?named-transform=webDefaultTransform&version=7YFERBhEdjs_h5.nTUzA8JWSRH70TClp"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-qld-bargara-204484004",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bargara-406-23-esplanade",
+    "title": "406/23 Esplanade",
+    "suburb": "Bargara",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-15",
+    "price": 849000,
+    "priceLabel": "Offers from $849,000",
+    "landSize": 84,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Oceanfront Esplanade complex",
+      "Uninterrupted 180-degree ocean views",
+      "Front-row coastal balcony",
+      "Resort pool and facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bargara listing verified 26 Jun 2026 from the exact direct listing URL and cross-checked against the Domain result. The page advertises 406/23 Esplanade as a fourth-floor apartment in a tightly held oceanfront complex, with uninterrupted 180-degree coastal views, an oceanfront balcony, 84m2 building size, date published 15 Jun 2026 and Offers from $849,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/0c1ce98aa4ad1f79ce44b2bac8f9bbae0b6ac0f8086091d74ff90920c2f8f324/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0c1ce98aa4ad1f79ce44b2bac8f9bbae0b6ac0f8086091d74ff90920c2f8f324/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-bargara-151492492",
+    "listingCategory": "beachfront"
   }
 ];
 
-const databaseUpdatedAt = "2026-06-26 20:22";
+const databaseUpdatedAt = "2026-06-27 00:22";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
