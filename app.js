@@ -5484,6 +5484,90 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-mooloolaba-9126-11-mooloolaba-esplanade",
+    "title": "9126/11 Mooloolaba Esplanade",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-06-03",
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mooloolaba Esplanade address",
+      "Steps to Mooloolaba Beach",
+      "Landmark Resort facilities",
+      "High-floor coastal apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Landmark Resort unit listing verified 27 June 2026 from the exact listing URL. The listing was published 3 Jun 2026 and advertises an Esplanade address with Mooloolaba Beach just across the road, cafes and dining at the doorstep, resort facilities and marina, Mooloolaba and hinterland views. Price is advertised as for sale/contact agent.",
+    "image": "https://i2.au.reastatic.net/800x600/d0481706fbda6ad166487eb49c3054c1137d26956878b97e0d4b50974587dc86/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d0481706fbda6ad166487eb49c3054c1137d26956878b97e0d4b50974587dc86/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-mooloolaba-151285360",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-mooloolaba-20-143-mooloolaba-esplanade",
+    "title": "20/143 Mooloolaba Esplanade",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-06-05",
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Prime Esplanade address",
+      "Beachfront precinct",
+      "Sweeping Mooloolaba Beach views",
+      "Seaview Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Seaview Resort apartment listing verified 27 June 2026 from the exact listing URL. The listing was published 5 Jun 2026 and advertises a prime Mooloolaba Esplanade position in the beachfront precinct, moments from the beach and Surf Club, with sweeping views across Mooloolaba Beach and resort facilities. Price is advertised as for sale/contact agent.",
+    "image": "https://i2.au.reastatic.net/800x600/088be84e10c85e933b4458e338de391a7da2abf834bc029b3eb3e12994478b01/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/088be84e10c85e933b4458e338de391a7da2abf834bc029b3eb3e12994478b01/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-mooloolaba-151417620",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-mooloolaba-104-3-meta",
+    "title": "104/3 Meta Street",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "listedDate": "2026-06-25",
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanfront apartment",
+      "50m to Mooloolaba Beach",
+      "Breeze Mooloolaba",
+      "Beach and dining precinct access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Breeze Mooloolaba apartment listing verified 27 June 2026 from the exact listing URL. The listing was published 25 Jun 2026 and advertises a luxury oceanfront apartment positioned just 50m from Mooloolaba Beach, between Mooloolaba Beach and Alexandra Headland, with walkable access to cafes, restaurants, shopping and foreshore redevelopment. Price is advertised as for sale/contact agent.",
+    "image": "https://i2.au.reastatic.net/800x600/aa28f82ecf9e81f590d10e2ff106f75fa2f043920505f8bf97d88529d9c25ca5/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/aa28f82ecf9e81f590d10e2ff106f75fa2f043920505f8bf97d88529d9c25ca5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-mooloolaba-151592728",
+    "investmentStar": false
+  },
+  {
     "id": "qld-coolum-beach-52-1750-david-low",
     "title": "52/1750-1764 David Low Way",
     "suburb": "Coolum Beach",
@@ -5539,8 +5623,8 @@ const sampleProperties = [
       "Ocean views",
       "Across from surf"
     ],
-    "status": "active",
-    "notes": "Active Coolum Beach ground-floor unit listing advertised as beachfront living in a tightly held boutique complex, just steps from Point Perry and First Bay, with ocean views from the porch and walkable access to beaches, cafes and shops. Price is advertised as offers over $1,050,000.",
+    "status": "sold",
+    "notes": "Marked sold on 27 Jun 2026 after current Coolum Beach result checks showed sold evidence and no active sale result. Earlier listing notes: ground-floor unit advertised as beachfront living in a tightly held boutique complex, just steps from Point Perry and First Bay, with ocean views from the porch and walkable access to beaches, cafes and shops. Price was advertised as offers over $1,050,000.",
     "image": "https://i2.au.reastatic.net/800x600/e2f7eae397472788cf67f914c618c19e0e4a6ee81f9b48448b599b2196a3bcb8/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e2f7eae397472788cf67f914c618c19e0e4a6ee81f9b48448b599b2196a3bcb8/image.jpg",
@@ -5580,8 +5664,8 @@ const sampleProperties = [
       "Seconds from ocean",
       "Ocean glimpses"
     ],
-    "status": "active",
-    "notes": "Active Homely Coolum Beach apartment listing in the First Bay beachfront complex, advertised as a designer apartment in a prime beachfront location with beachfront entry, ocean glimpses, and scenic headland access to Coolum town centre. Price is advertised as contact agent.",
+    "status": "under_contract",
+    "notes": "Marked under contract on 27 Jun 2026 after current Coolum Beach result checks no longer showed an active sale result and showed under-contract evidence. Earlier listing notes: First Bay beachfront apartment advertised as a designer apartment in a prime beachfront location with beachfront entry, ocean glimpses, and scenic headland access to Coolum town centre. Price was advertised as contact agent.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=tEcbegUuRVCGQPGdLNtXTOW90LzKuPKX",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12513397-1.jpg?named-transform=webDefaultTransform&version=tEcbegUuRVCGQPGdLNtXTOW90LzKuPKX",
@@ -5621,8 +5705,8 @@ const sampleProperties = [
       "Coastal path access",
       "Resort-grade facilities"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Drift by Mosaic apartment listing re-verified 19 May 2026 from the exact direct listing URL, advertised as beachfront Coolum Beach, metres to surf beaches and coastal paths, with resort-grade facilities. Price is advertised as offers over $1.65M.",
+    "status": "sold",
+    "notes": "Marked sold on 27 Jun 2026 after current Coolum Beach result checks showed sold evidence and no active sale result. Earlier listing notes: Drift by Mosaic apartment advertised as beachfront Coolum Beach, metres to surf beaches and coastal paths, with resort-grade facilities. Price was advertised as offers over $1.65M.",
     "image": "https://i2.au.reastatic.net/800x600/28dca3977fe06ce2d520f6ac55da9a7d0990512bc97930ffb2deb75948116002/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/28dca3977fe06ce2d520f6ac55da9a7d0990512bc97930ffb2deb75948116002/image.jpg"
@@ -5648,8 +5732,8 @@ const sampleProperties = [
       "First Bay residences",
       "Ocean and headland views"
     ],
-    "status": "active",
-    "notes": "Active Homely First Bay apartment listing advertised with a coveted oceanfront outlook, breathtaking ocean and headland views, resort-style amenities, and beachfront entry with outdoor shower. Price is advertised as offers over $1,750,000.",
+    "status": "sold",
+    "notes": "Marked sold on 27 Jun 2026 after current Coolum Beach result checks showed sold evidence and no active sale result. Earlier listing notes: First Bay apartment advertised with a coveted oceanfront outlook, breathtaking ocean and headland views, resort-style amenities, and beachfront entry with outdoor shower. Price was advertised as offers over $1,750,000.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12504985-1.jpg?named-transform=webDefaultTransform&version=HbuWCFGzIfR0kApjhn_XsyLcA_ohGj67",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12504985-1.jpg?named-transform=webDefaultTransform&version=HbuWCFGzIfR0kApjhn_XsyLcA_ohGj67",
@@ -5695,8 +5779,8 @@ const sampleProperties = [
       "First Bay residences",
       "Exclusive courtyard with ocean views"
     ],
-    "status": "active",
-    "notes": "Active Homely First Bay apartment listing advertised as a luxurious ocean-front apartment with north-east aspect, ocean views, communal resort pool, landscaped grounds and outdoor shower at the beachfront entry. Price is advertised as for sale/contact agent.",
+    "status": "sold",
+    "notes": "Marked sold on 27 Jun 2026 after current Coolum Beach result checks showed sold evidence and no active sale result. Earlier listing notes: First Bay apartment advertised as a luxurious ocean-front apartment with north-east aspect, ocean views, communal resort pool, landscaped grounds and outdoor shower at the beachfront entry. Price was advertised as for sale/contact agent.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12495471-1.jpg?named-transform=webDefaultTransform&version=e9z3fbuzTCWJVb.GFtndWljguN.RHhvB",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12495471-1.jpg?named-transform=webDefaultTransform&version=e9z3fbuzTCWJVb.GFtndWljguN.RHhvB",
@@ -5777,8 +5861,8 @@ const sampleProperties = [
       "Panoramic beach and hinterland views",
       "Surf club and esplanade walkability"
     ],
-    "status": "active",
-    "notes": "Active Homely Coolum Beach unit listing verified 19 May 2026 from the exact direct listing URL. The listing advertises a fully self-contained apartment in Coolum Caprice with a beachfront lifestyle, expansive views over Coolum Beach, steps to the patrolled surf beach, surf club, cafes, restaurants and shops, plus resort facilities. Price is advertised as Price Guide $1,130,000 Plus. Available suburb and comparable five-year growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Marked sold on 27 Jun 2026 after current Coolum Beach result checks showed sold evidence and no active sale result. Earlier listing notes: Coolum Caprice unit advertised with a beachfront lifestyle, expansive views over Coolum Beach, steps to the patrolled surf beach, surf club, cafes, restaurants and shops, plus resort facilities. Price was advertised as Price Guide $1,130,000 Plus.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-12160179-1.jpg?named-transform=webDefaultTransform&version=CDPPkRZfM09Br0vcFoIPsg_CLEivVbSw",
     "images": [
       "https://www.homely.com.au/img-variant/l-AgentBox-12160179-1.jpg?named-transform=webDefaultTransform&version=CDPPkRZfM09Br0vcFoIPsg_CLEivVbSw",
@@ -8989,7 +9073,7 @@ const sampleProperties = [
       "Dual-level flexibility",
       "Renovation upside"
     ],
-    "status": "unavailable",
+    "status": "sold",
     "notes": "Hidden after the 25 June 2026 Aldinga Beach sweep. The exact Homely listing URL could not be reopened during verification and the current Homely Aldinga Beach sale results no longer included this listing; the same Lower Esplanade position is represented by the separately verified active realestate.com.au record for 304 Lower Esplanade.",
     "image": "https://www.homely.com.au/img-variant/l-AgentBox-13000904-1.jpg?version=0W9pe4EibGYqbtAFXv7czkl1W7m0oWKq",
     "images": [
@@ -10515,6 +10599,35 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.domain.com.au/87-marine-drive-safety-beach-vic-3936-2018585521",
     "allowDomainListing": true,
+    "investmentStar": false
+  },
+  {
+    "id": "qld-beachmere-19-biggs",
+    "title": "19 Biggs Avenue",
+    "suburb": "Beachmere",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-06-23",
+    "price": null,
+    "landSize": 1293,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Oceanfront",
+      "Direct beach access",
+      "Major city"
+    ],
+    "status": "active",
+    "priceLabel": "Contact agent",
+    "notes": "Active realestate.com.au Beachmere listing verified 28 Jun 2026 from the exact direct listing URL and Beachmere sale result page. The listing advertises a waterfront wonderland with breathtaking ocean views, direct access to the beach and ocean, and a 1,293sqm waterfront block. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the active listing.",
+    "image": "https://i2.au.reastatic.net/800x600/8042a6476a5ca114e8c49a189d339a7244ac465a6b5db1a91db8aa956f381c69/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8042a6476a5ca114e8c49a189d339a7244ac465a6b5db1a91db8aa956f381c69/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-beachmere-151488756",
     "investmentStar": false
   },
   {
@@ -13791,6 +13904,35 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-house-qld-woodgate-149793732"
   },
   {
+    "id": "qld-woodgate-18b-theodolite",
+    "title": "18B Theodolite Creek Drive",
+    "suburb": "Woodgate",
+    "state": "QLD",
+    "nearestMajorCity": "Bundaberg",
+    "majorCityMinutes": 55,
+    "daysOnMarket": null,
+    "price": 1300000,
+    "priceLabel": "Offers Over $1,300,000",
+    "landSize": 1710,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute oceanfront vacant land",
+      "No road between the block and the sand",
+      "Direct private beach access",
+      "1710m2 premium coastal parcel"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Woodgate residential land listing verified 27 Jun 2026 from the exact direct listing URL after checking the Woodgate suburb result page and targeted beachfront/oceanfront/Esplanade searches. The page advertises 18B Theodolite Creek Drive as a 1710m2 absolute oceanfront vacant block with direct private access to the sand, no road between the property and the beach, and Offers Over $1,300,000. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/4f5a0dca65574ff2f5d4187e0dd514b1b93b881d9482170ae3e8d98ff8e31264/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4f5a0dca65574ff2f5d4187e0dd514b1b93b881d9482170ae3e8d98ff8e31264/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-qld-woodgate-204536440",
+    "listingCategory": "beachfront"
+  },
+  {
     "id": "qld-woodgate-101-esplanade",
     "title": "101 Esplanade",
     "suburb": "Woodgate",
@@ -13808,8 +13950,8 @@ const sampleProperties = [
       "Ocean views",
       "Vehicle storage"
     ],
-    "status": "under_offer",
-    "notes": "Absolute beachfront-view home on a corner allotment. Hidden because the exact listing currently shows under offer; the sold page is also indexed as sold on 18 Feb 2026.",
+    "status": "sold",
+    "notes": "Absolute beachfront-view home on a corner allotment. Hidden because the exact listing now resolves to a sold page showing sold on 18 Feb 2026.",
     "image": "https://i2.au.reastatic.net/800x600/c4ec0b8116afc2cdd23bcb365a2c64ebcba324cca3130f20167ac451caaee63b/image.jpg",
     "listingUrl": "https://www.realestate.com.au/property-house-qld-woodgate-148988120"
   },
@@ -14028,7 +14170,8 @@ const sampleProperties = [
       "Large block",
       "Major city"
     ],
-    "notes": "Large absolute waterfront landholding with about 20m direct Moreton Bay frontage and architectural plans prepared.",
+    "status": "under_offer",
+    "notes": "Marked under offer on 28 Jun 2026 after the exact realestate.com.au listing displayed an Under offer marker. The former active listing advertised a large absolute waterfront landholding with about 20m direct Moreton Bay frontage and architectural plans prepared.",
     "image": "https://i2.au.reastatic.net/800x600/6f718d1ca8c064620d40aeb07d7300bc5a75cd80e930a5e4d48a7a07a13e253a/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/6f718d1ca8c064620d40aeb07d7300bc5a75cd80e930a5e4d48a7a07a13e253a/image.jpg",
@@ -19179,8 +19322,8 @@ const sampleProperties = [
       "629m2 corner block",
       "Pool and gated side access"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Warana listing verified 19 May 2026 from the exact direct listing URL. The listing was published 9 Apr 2026 and advertises a renovated single-level home on a 629m2 north-east corner block along Oceanic Drive, a few steps from the sand with beach access directly across the road, pool, internal courtyard and gated side access. Five-year Warana growth evidence was checked; current realestate.com.au/property.com.au suburb evidence showed house annual compound growth below 15%, so no investment star was applied.",
+    "status": "sold",
+    "notes": "Hidden after the 27 Jun 2026 Warana sweep. Current realestate.com.au suburb result evidence now shows this 36 Oceanic Drive listing as sold on 9 Jun 2026 after previously advertising an Oceanic Drive coastal position with beach access directly across the road.",
     "image": "https://i2.au.reastatic.net/800x600/94573bc305678c3ea83fa864233957cc66e345f6ee4562be3762928e4af6ae94/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/94573bc305678c3ea83fa864233957cc66e345f6ee4562be3762928e4af6ae94/image.jpg"
@@ -19354,8 +19497,8 @@ const sampleProperties = [
       "Rooftop-style north-east balcony",
       "Private pool and double garage"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Warana listing verified 26 May 2026 from the exact direct listing URL and current portal result pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown for this Palkana Drive listing. The listing advertises a beachside duplex-villa beside the Palkana Park beach-access corridor, about 240m to the sand, with 261m2 internal area, four bedrooms, private pool, double garage and rooftop-style north-east balcony. Land size was not published on the exact listing page, so price per sqm is left as TBA. Available Warana five-year house and unit growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Hidden after the 27 Jun 2026 Warana sweep. Current realestate.com.au suburb result evidence now marks this 1/18 Palkana Drive listing under offer after previously advertising a beachside duplex-villa beside the Palkana Park beach-access corridor, about 240m to the sand.",
     "image": "https://i2.au.reastatic.net/800x600/d16c0aaebec73b1dc0e6c3aee884d2009d60c284b388fd320e8374fb5347ed65/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/d16c0aaebec73b1dc0e6c3aee884d2009d60c284b388fd320e8374fb5347ed65/image.jpg",
@@ -19415,8 +19558,8 @@ const sampleProperties = [
       "555m2 east-facing block",
       "Pool and cabana"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Warana listing verified 19 May 2026 from the exact direct listing URL. The listing was published 22 Apr 2026 and advertises a refined beachside home on a 555m2 east-facing block, moments to the shoreline, beach access, coastal pathway, parks and Fruit Shed and BFresh complexes, with pool, cabana, solar and renovated single-level living. Five-year Warana growth evidence was checked; current realestate.com.au/property.com.au suburb evidence showed house annual compound growth below 15%, so no investment star was applied.",
+    "status": "sold",
+    "notes": "Hidden after the 27 Jun 2026 Warana sweep. Current realestate.com.au suburb result evidence now shows this 3 Mulgani Street listing as sold on 13 Jun 2026 after previously advertising a refined beachside home moments to the shoreline, beach access and coastal pathway.",
     "image": "https://i2.au.reastatic.net/800x600/12c2887f8c0a212096301be9aac0945903b14d1c7e624cb10658edb4b3160720/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/12c2887f8c0a212096301be9aac0945903b14d1c7e624cb10658edb4b3160720/image.jpg"
@@ -19444,8 +19587,8 @@ const sampleProperties = [
       "Brand-new designer residence",
       "595m2 corner block"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Warana listing verified 19 May 2026 from the exact direct listing URL. The listing advertises a brand-new designer coastal residence on a 595m2 corner block just steps from beach access, playground and the coastal pathway, with pool, spa, putting green, solar and oversized garaging. Five-year Warana growth evidence was checked; current realestate.com.au/property.com.au suburb evidence showed house annual compound growth below 15%, so no investment star was applied.",
+    "status": "sold",
+    "notes": "Hidden after the 27 Jun 2026 Warana sweep. Current realestate.com.au recent-sale evidence now shows 20 Narambi Street as sold on 2 Jun 2026 after previously advertising a brand-new designer coastal residence just steps from beach access, playground and the coastal pathway.",
     "image": "https://i2.au.reastatic.net/800x600/548d3ad6afde8e23d6f1a8ab1ee0cd45aceb61e19b9d10c39416b2618e7682a5/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/548d3ad6afde8e23d6f1a8ab1ee0cd45aceb61e19b9d10c39416b2618e7682a5/image.jpg"
@@ -22111,6 +22254,150 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-broadbeach-12-5-9-broadbeach-boulevard",
+    "title": "12/5-9 Broadbeach Boulevard",
+    "suburb": "Broadbeach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-06-11",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 322,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Full-floor apartment",
+      "Private lift entry",
+      "Ocean and sand views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing advertised as a boutique absolute beachfront full-floor apartment with private lift entry, never-to-be-built-out ocean views and direct Broadbeach sand frontage. Price is auction/no stated price.",
+    "image": "https://i2.au.reastatic.net/800x600/9838f1fb0351cc7bc114a8b7f08314341405051f51e9b6f9ea34d100dd638b6f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9838f1fb0351cc7bc114a8b7f08314341405051f51e9b6f9ea34d100dd638b6f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-broadbeach-151408732",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-broadbeach-5e-1-albert",
+    "title": "5E/1 Albert Avenue",
+    "suburb": "Broadbeach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-06-16",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 115,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront building",
+      "Direct sand access",
+      "Ocean views",
+      "Beachfront residents' facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing in the Beach Haven building advertised as absolute beachfront living with direct access to sand and surf, ocean views and resort-style beachfront facilities. Price is expressions of interest/no stated price.",
+    "image": "https://i2.au.reastatic.net/800x600/f19d4d23ade87194e373f6e95ea91a6ea405ef4557546c3017ef9af716c7d45a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f19d4d23ade87194e373f6e95ea91a6ea405ef4557546c3017ef9af716c7d45a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-broadbeach-151442668",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-broadbeach-21e-1-albert",
+    "title": "21E/1 Albert Avenue",
+    "suburb": "Broadbeach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "price": 1200000,
+    "priceLabel": "Offers over $1,200,000",
+    "landSize": 115,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront building",
+      "Direct beach access",
+      "High-floor ocean views",
+      "Resort-style amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Beach Haven listing advertised as a high-floor beachfront apartment in a building with direct beach access, ocean views and resort-style facilities. Price is advertised as offers over $1,200,000.",
+    "image": "https://i2.au.reastatic.net/800x600/ede9863f7f7761ed6f4482f60871905cb21c71a62843df5fbbca2ae0cb5ae370/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ede9863f7f7761ed6f4482f60871905cb21c71a62843df5fbbca2ae0cb5ae370/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-broadbeach-151115748",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-broadbeach-1503-157-old-burleigh",
+    "title": "1503/157 Old Burleigh Road",
+    "suburb": "Broadbeach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-06-23",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 74,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront address",
+      "High-floor ocean views",
+      "Direct beachfront lifestyle",
+      "Beach Haven facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Beach Haven listing advertised as a sought-after absolute beachfront address with ocean views, resort facilities and a front-row Old Burleigh Road position. Price is auction/no stated price.",
+    "image": "https://i2.au.reastatic.net/800x600/e17a2619135b07962026019b0b826fda2da8081a60ab98e949e74267a8bed95d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e17a2619135b07962026019b0b826fda2da8081a60ab98e949e74267a8bed95d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-broadbeach-151536492",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-broadbeach-205-157-old-burleigh",
+    "title": "205/157 Old Burleigh Road",
+    "suburb": "Broadbeach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-06-03",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 1,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront complex",
+      "Beach Haven position",
+      "Direct beach access",
+      "Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing advertised as an apartment in the absolute beachfront Beach Haven complex with direct beach access and resort facilities. Listing publishes land size as 1sqm; price is auction/no stated price.",
+    "image": "https://i2.au.reastatic.net/800x600/4a508d95b43e2e63ddf4170aa795a1f857e09656413512f54751c071e713ae50/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4a508d95b43e2e63ddf4170aa795a1f857e09656413512f54751c071e713ae50/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-broadbeach-151061492",
+    "investmentStar": false
+  },
+  {
     "id": "qld-machans-beach-155-oshea",
     "title": "155 O'Shea Esplanade",
     "suburb": "Machans Beach",
@@ -22194,6 +22481,170 @@ const sampleProperties = [
       "https://www.homely.com.au/img-variant/l-Rex-12977022-34.jpg?named-transform=webHeroTransform&version=FAALt0wHKMBXwfSsDtoGQ6FhVF3jIAU3"
     ],
     "listingUrl": "https://www.homely.com.au/homes/178-kingfisher-parade-toogoom-qld-4655/12977022"
+  },
+  {
+    "id": "qld-toogoom-26-kingfisher",
+    "title": "26 Kingfisher Parade",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "daysOnMarket": 7,
+    "price": 2200000,
+    "landSize": 1103,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Private beach access",
+      "Self-contained studio",
+      "Large coastal block"
+    ],
+    "status": "active",
+    "notes": "Exact listing advertises an absolute beachfront home with direct access from the back gate onto the sand and dunes.",
+    "image": "https://i2.au.reastatic.net/800x600/f4d03f077dc95ef177103e66bd85d81bd5ff536b252e4d6f2e6b663cb8a2a598/image.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-toogoom-151463736"
+  },
+  {
+    "id": "qld-toogoom-433-oregan-creek",
+    "title": "433 Oregan Creek Road",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "daysOnMarket": 10,
+    "price": 2300000,
+    "landSize": 2053,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Private beach access",
+      "No road frontage",
+      "Large 2053 sqm block"
+    ],
+    "status": "active",
+    "notes": "Exact listing describes an absolute beachfront home with direct private access to the sand and water from the property.",
+    "image": "https://i2.au.reastatic.net/800x600/ff377d41085efebdfbd6968440de7f3d1aa8a9a7342f67463b9d2dc56b3c14c3/image.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-toogoom-151300592"
+  },
+  {
+    "id": "qld-toogoom-445-oregan-creek",
+    "title": "445 Oregan Creek Road",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "price": 2500000,
+    "landSize": 2053,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Beach house",
+      "Large 2053 sqm block",
+      "Direct coastal access"
+    ],
+    "status": "active",
+    "notes": "Domain exact listing markets the property as the ultimate beach house in an absolute beachfront position on Oregan Creek Road.",
+    "image": "https://rimh2.domainstatic.com.au/ffoEQkBrAn47XELpB1J0_KD54vg=/fit-in/1920x1080/filters:format(jpeg):quality(80)/2019897010_1_1_250620_093210-w1920-h1280",
+    "listingUrl": "https://www.domain.com.au/445-oregan-creek-road-toogoom-qld-4655-2020788044"
+  },
+  {
+    "id": "qld-toogoom-34-moreton",
+    "title": "34 Moreton Street",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "price": 1300000,
+    "landSize": 809,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute waterfront",
+      "Ocean outlook",
+      "Direct water access",
+      "809 sqm block"
+    ],
+    "status": "active",
+    "notes": "Exact listing advertises absolute frontage to Beelbi Creek with views out to the ocean and direct waterfront positioning.",
+    "image": "https://i2.au.reastatic.net/800x600/5485c83ab7dc54f453e81ce636c1f763a571c4e5fe2a42c77895cc99a00426c4/image.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-toogoom-151353756"
+  },
+  {
+    "id": "qld-toogoom-20-moreton",
+    "title": "20 Moreton Street",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "price": 1200000,
+    "landSize": 809,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute waterfront",
+      "Creek-to-ocean frontage",
+      "Direct water access",
+      "Boat shed"
+    ],
+    "status": "active",
+    "notes": "Exact listing describes absolute waterfront frontage on Beelbi Creek with the ocean in view and water access from the property.",
+    "image": "https://i2.au.reastatic.net/800x600/f91eff2fc89073bfeb374c64a75cfc80304fa73a0afef09233c9530b10685329/image.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-toogoom-150924816"
+  },
+  {
+    "id": "qld-toogoom-36-shellcot",
+    "title": "36 Shellcot Street",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "daysOnMarket": 5,
+    "price": 1450000,
+    "landSize": 814,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct beach access",
+      "Protected beach reserve",
+      "814 sqm block"
+    ],
+    "status": "active",
+    "notes": "Exact listing markets the property as absolute beachfront with direct beach access through the reserve behind the home.",
+    "image": "https://i2.au.reastatic.net/800x600/e90dcce44eef7a18354689f6a4a99b99067b9e34df8a91690386d22c0c89c2bb/image.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-toogoom-151541080"
+  },
+  {
+    "id": "qld-toogoom-lot-58-1597-esplanade",
+    "title": "Lot 58 & 1597 Esplanade",
+    "suburb": "Toogoom",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 20,
+    "price": null,
+    "landSize": 232700,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Private island portfolio",
+      "Oceanfront frontage",
+      "Direct water access",
+      "23.27 ha landholding"
+    ],
+    "status": "active",
+    "notes": "Exact listing covers freehold island and mainland Esplanade holdings with direct waterfront/oceanfront access and EOI pricing.",
+    "image": "https://i2.au.reastatic.net/800x600/70ad675ec89dcb1597f2d840b27719ae70e27bdfbc02570a4f5835a5267c57ee/main.jpg",
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-toogoom-151348752"
   },
   {
     "id": "wa-singleton-122-foreshore",
@@ -24162,8 +24613,8 @@ const sampleProperties = [
       "Ocean views",
       "Top floor"
     ],
-    "status": "active",
-    "notes": "Active Foreshore Beachfront Apartments listing advertised with absolute beachfront land, direct access to Mermaid Beach and 270-degree ocean, hinterland and city views.",
+    "status": "sold",
+    "notes": "Hidden 28 Jun 2026 because the exact realestate.com.au listing URL now resolves as a sold Foreshore Beachfront Apartments campaign rather than an active sale listing.",
     "image": "https://i2.au.reastatic.net/800x600/1c0ae2aacaf4e67f28b5c62d38d961e73204a69d839b0ae1b955848034dfe151/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1c0ae2aacaf4e67f28b5c62d38d961e73204a69d839b0ae1b955848034dfe151/image.jpg",
@@ -24470,8 +24921,8 @@ const sampleProperties = [
       "Direct ocean views",
       "Boutique block"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing on the Hedges Avenue and Seabeach Avenue corner, advertised as a prestigious beachfront corner with direct ocean views and metres to the beach. Price is auction.",
+    "status": "sold",
+    "notes": "Hidden 28 Jun 2026 because the Mermaid Beach suburb result/recent-sales check showed this Hedges Avenue and Seabeach Avenue corner campaign as sold after its May 2026 auction.",
     "image": "https://i2.au.reastatic.net/800x600/a6bdcbb1af46d8d944de3dcf85a61c14ed7f34e02a52ece90b7c374a79211de4/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/a6bdcbb1af46d8d944de3dcf85a61c14ed7f34e02a52ece90b7c374a79211de4/image.jpg",
@@ -24669,6 +25120,34 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-mermaid%2Bbeach-150054332",
     "investmentStar": false
+  },
+  {
+    "id": "qld-mermaid-beach-2-198c-hedges",
+    "title": "2/198C Hedges Avenue",
+    "suburb": "Mermaid Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "daysOnMarket": 5,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Hedges Avenue",
+      "Footsteps to beach",
+      "Ocean views",
+      "Boutique half-floor apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Mermaid Beach listing verified 28 Jun 2026 from the exact direct listing URL and Mermaid Beach suburb result. The listing advertises a Hedges Avenue boutique residence footsteps from the sand and surf with glistening ocean views, a half-floor layout and beachside entertaining, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Price is advertised as auction.",
+    "image": "https://i2.au.reastatic.net/800x600/47ec696ca6e13726d3ef2bb8bf10f5c5a563ac51eb293c0470f3dd946c0bfdc6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/47ec696ca6e13726d3ef2bb8bf10f5c5a563ac51eb293c0470f3dd946c0bfdc6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-mermaid%2Bbeach-151450804"
   },
   {
     "id": "qld-peregian-beach-36-lorikeet",
@@ -30412,8 +30891,9 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 5,
-    "listedDate": "2026-04-02",
-    "price": 5950000,
+    "listedDate": "2026-06-11",
+    "price": null,
+    "priceLabel": "Auction",
     "landSize": 213,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -30424,10 +30904,14 @@ const sampleProperties = [
       "Ocean views",
       "Major city"
     ],
-    "status": "unavailable",
-    "notes": "Amani apartment listing advertised as absolute beachfront luxury with never-to-be-built-out ocean views and direct beach access from the oceanfront building. Exact listing appeared off market during gallery update.",
-    "image": "https://i2.au.reastatic.net/800x600/d9b30dc0d55c5ab9d787992ff27b21bdafded199652e00b71ff05fcf35495153/image.jpg",
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-150782312"
+    "status": "active",
+    "notes": "Active realestate.com.au replacement listing verified 28 Jun 2026 from the exact direct listing URL and targeted Main Beach absolute beachfront search. The listing advertises a 213m2 Amani apartment touching the sand in an absolute beachfront position, with uninterrupted ocean views, direct beach access, beachfront infinity-edge pool and on-site auction on 10 Jul 2026, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/138771f4fbf527682443db85aba9b549cf40b65cfb53b8c396ef58f0e845d2ab/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/138771f4fbf527682443db85aba9b549cf40b65cfb53b8c396ef58f0e845d2ab/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151462016",
+    "listingCategory": "beachfront"
   },
   {
     "id": "qld-main-beach-lot-9-3519-main-beach",
@@ -30791,8 +31275,8 @@ const sampleProperties = [
       "Ocean views",
       "Major city"
     ],
-    "status": "active",
-    "notes": "Kings Row Centre apartment listing advertised as directly opposite a patrolled beach, with ocean views, a 273sqm floorplan and a Main Beach Parade front-row address.",
+    "status": "sold",
+    "notes": "REA sold-page redirect verified 28 Jun 2026: 1602/3544 Main Beach Parade sold for $2,600,000 on 24 Jun 2026. Original listing advertised as directly opposite a patrolled beach, with ocean views, a 273sqm floorplan and a Main Beach Parade front-row address.",
     "image": "https://i2.au.reastatic.net/800x600/1db579a74c159d065c525d652404ef77ded0f5e7d9881b987401ba40e892b19d/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/1db579a74c159d065c525d652404ef77ded0f5e7d9881b987401ba40e892b19d/image.jpg",
@@ -30910,8 +31394,8 @@ const sampleProperties = [
       "Uninterrupted views",
       "Holiday income"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 19 May 2026, advertised in the Golden Sands building as absolute beachfront living right on the beachfront with private beach access, uninterrupted northern coastline views and resort facilities. Exact listing advertises auction/no price guide. Five-year Main Beach unit growth evidence checked; realestate.com.au reports 12.6% annual compound growth for units and OnTheHouse reports 96.36% total five-year unit growth, below a verified >15% annual investment threshold.",
+    "status": "sold",
+    "notes": "REA sold-page redirect verified 28 Jun 2026: 1103/3575 Main Beach Parade sold for $1,580,000 on 11 May 2026. Original listing advertised in the Golden Sands building as absolute beachfront living right on the beachfront with private beach access, uninterrupted northern coastline views and resort facilities. Five-year Main Beach unit growth evidence checked; realestate.com.au reports 12.6% annual compound growth for units and OnTheHouse reports 96.36% total five-year unit growth, below a verified >15% annual investment threshold.",
     "image": "https://i2.au.reastatic.net/800x600/8397b33d499f0faf0de471175afeaedcae575b616d8b2426e6e9d35ac4765933/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8397b33d499f0faf0de471175afeaedcae575b616d8b2426e6e9d35ac4765933/image.jpg"
@@ -32274,6 +32758,36 @@ const sampleProperties = [
       "https://s1.rea.global/sha/604x447-prop/d627141873915db63cfb57f06135ced4cfc28d9ebdd92970bfbdf0dfe1c9038c/main.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-tugun-150752556",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-tugun-10-405-golden-four",
+    "title": "10/405 Golden Four Avenue",
+    "suburb": "Tugun",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": 5,
+    "listedDate": "2026-06-22",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront position",
+      "Overlooks Tugun Beach",
+      "Ocean views",
+      "Front-row Golden Four address"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tugun listing verified 28 Jun 2026 from the exact direct listing URL and Tugun suburb result page. The listing advertises a beachfront position overlooking Tugun Beach, ocean views from the open-plan living area and master bedroom, and Auction price guidance, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/480x360/914e83eb71fa50390c5015b45604a40f016a807df557f09f14aefbb6743ec8f5/main.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/480x360/914e83eb71fa50390c5015b45604a40f016a807df557f09f14aefbb6743ec8f5/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-tugun-151558968",
     "investmentStar": false
   },
   {
@@ -47552,6 +48066,60 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-dundowran-beach-6-ebony",
+    "title": "6 Ebony Court",
+    "suburb": "Dundowran Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-06-26",
+    "price": null,
+    "landSize": 3147,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beach access",
+      "Protected littoral vine forest reserve",
+      "No road between reserve and beach",
+      "Dual residences and studio"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing published 26 Jun 2026; description states the estate borders protected Littoral Vine Forest Reserve and has direct access to Dundowran Beach.",
+    "image": "https://i2.au.reastatic.net/800x600/62fc2eafce0eeac0977b2882b488a040b518ed38778a304f9b225178aafb98a1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/62fc2eafce0eeac0977b2882b488a040b518ed38778a304f9b225178aafb98a1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-dundowran%2Bbeach-151601812"
+  },
+  {
+    "id": "qld-dundowran-beach-15-caryota",
+    "title": "15 Caryota Court",
+    "suburb": "Dundowran Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Hervey Bay",
+    "majorCityMinutes": 10,
+    "listedDate": "2026-05-28",
+    "price": 2300000,
+    "landSize": 2379,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beachfront access",
+      "Nature easement to beach",
+      "No road between property and sand",
+      "Beach and reserve outlook"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing states the home is perched above the sand with nothing between the property and water but a nature easement, and that the easement provides direct beach access.",
+    "image": "https://i2.au.reastatic.net/800x600/13c091dc781cc7169cf7f131cb9d6c5a9ba7cb513ae4d8c9731a70bb441c5d30/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/13c091dc781cc7169cf7f131cb9d6c5a9ba7cb513ae4d8c9731a70bb441c5d30/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-dundowran%2Bbeach-151326040"
+  },
+  {
     "id": "qld-noosa-heads-7-1-hastings",
     "title": "7/1 Hastings Street",
     "suburb": "Noosa Heads",
@@ -47570,8 +48138,8 @@ const sampleProperties = [
       "North-facing ocean views",
       "Hastings Street position"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Noosa Heads apartment listing advertised as direct beach access on Noosa Main Beach in Sandcastles, with secure gated access, dual access to pool and beach, north-facing ocean views and a 57sqm building size. Auction listed for 12 June 2026; no price guide advertised.",
+    "status": "under_offer",
+    "notes": "Marked under offer 27 June 2026 after the exact realestate.com.au Noosa Heads listing page showed UNDER OFFER. Previously advertised as direct beach access on Noosa Main Beach in Sandcastles, with secure gated access, dual access to pool and beach, north-facing ocean views and a 57sqm building size.",
     "image": "https://i2.au.reastatic.net/800x600/cb7b84119a948c84c0bb467252c52e180354b33804110d8d2bd6db827231ece9/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/cb7b84119a948c84c0bb467252c52e180354b33804110d8d2bd6db827231ece9/image.jpg",
@@ -47676,8 +48244,8 @@ const sampleProperties = [
       "Uninterrupted Laguna Bay views",
       "Ground-floor Fairshore apartment"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Noosa Heads apartment listing advertised as a rare Fairshore beachfront apartment located directly on Noosa beachfront, with direct beach access, uninterrupted Laguna Bay views, beach and ocean views from the terrace, and strong holiday income. Price advertised as Contact Agent. Exact listing appeared off market during gallery update.",
+    "status": "active",
+    "notes": "Active realestate.com.au Noosa Heads apartment listing rechecked 27 June 2026 and advertised as a rare Fairshore beachfront apartment located directly on Noosa beachfront, with direct beach access, uninterrupted Laguna Bay views, beach and ocean views from the terrace, and strong holiday income. Price advertised as Contact Agent.",
     "image": "https://www.realestate.com.au/property-image/149327016/1",
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-noosa%2Bheads-149327016",
     "investmentStar": false
@@ -47955,6 +48523,87 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/c29f15022ba64567e167c1d34de21a7e6deca7cc92266fd2ce244ae40dcf4818/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-noosa%2Bheads-150566748",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-noosa-heads-26-6-quamby",
+    "title": "26/6 Quamby Place",
+    "suburb": "Noosa Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 120,
+    "price": 1350000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute Noosa Sound waterfront",
+      "Direct access to sandy river beach",
+      "Culgoa Point Beach Resort position",
+      "Private resort jetty and beach"
+    ],
+    "status": "active",
+    "notes": "Active Domain Noosa Heads listing verified 27 June 2026 in Culgoa Point Beach Resort, advertised as absolute waterfront with direct access to the resort's private sandy Noosa River beach, marina and jetty access, and resort beachfront facilities. Price advertised as Offers Over $1,350,000.",
+    "image": "https://rimh2.domainstatic.com.au/kJ2HN9cBEgvMVCK4WVQmzUNyKpo=/1680x720/filters:format(webp):quality(85)/2020880287_1_1_260619_041817-w2000-h1333",
+    "images": [
+      "https://rimh2.domainstatic.com.au/kJ2HN9cBEgvMVCK4WVQmzUNyKpo=/1680x720/filters:format(webp):quality(85)/2020880287_1_1_260619_041817-w2000-h1333"
+    ],
+    "listingUrl": "https://www.domain.com.au/26-6-quamby-place-noosa-heads-qld-4567-2020880287",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-noosa-heads-5-42-hastings",
+    "title": "5/42 Hastings Street",
+    "suburb": "Noosa Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 120,
+    "price": 2000000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Footsteps to Noosa Main Beach",
+      "Hastings Street front-row precinct",
+      "Emerald Resort apartment",
+      "Large 124sqm floorplan"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Noosa Heads apartment listing verified 27 June 2026 in The Emerald Resort, advertised as footsteps to Noosa Main Beach, Hastings Street cafes and restaurants, with a 124sqm layout, two ensuited bedrooms and secure car park. Price advertised as From $2,000,000.",
+    "image": "https://www.realestate.com.au/property-image/151187580/1",
+    "images": [
+      "https://www.realestate.com.au/property-image/151187580/1"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-noosa%2Bheads-151187580",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-noosa-heads-63-52-hastings",
+    "title": "63/52 Hastings Street",
+    "suburb": "Noosa Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 120,
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Hastings Street beach precinct",
+      "Moments to Noosa Main Beach",
+      "Ocean Breeze Resort apartment",
+      "Holiday income potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Noosa Heads unit listing verified 27 June 2026 in Ocean Breeze Resort, advertised in the heart of Hastings Street and moments to Noosa Main Beach, with resort facilities, private balcony and holiday-income positioning. Auction listing; no price guide advertised.",
+    "image": "https://www.realestate.com.au/property-image/150374964/1",
+    "images": [
+      "https://www.realestate.com.au/property-image/150374964/1"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-noosa%2Bheads-150374964",
     "investmentStar": false
   },
   {
@@ -50221,8 +50870,8 @@ const sampleProperties = [
       "150m to water",
       "Low-maintenance unit"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing on Esplanade with water views, positioned about 150m from Pumicestone Passage and close to Golden Beach shops and cafes.",
+    "status": "sold",
+    "notes": "Hidden after the 28 Jun 2026 Golden Beach sweep. The exact realestate.com.au listing URL now resolves to sold status rather than an active sale listing; it was previously advertised on Esplanade with water views, about 150m from Pumicestone Passage.",
     "image": "https://i2.au.reastatic.net/800x600/60555693d3f359cefd374a6ce9f47e0325db4d0968022d469317b4098679b826/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/60555693d3f359cefd374a6ce9f47e0325db4d0968022d469317b4098679b826/image.jpg",
@@ -50343,8 +50992,8 @@ const sampleProperties = [
       "180-degree water views",
       "Steps to waterfront"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised on Landsborough Parade directly opposite Fraser Park, with 180-degree views across Golden Beach waters and sandy shores, and steps to the waterfront, parks and local amenities. Price is not published.",
+    "status": "under_contract",
+    "notes": "Hidden after the 28 Jun 2026 Golden Beach sweep. The exact realestate.com.au listing URL is now marked under contract. It was advertised on Landsborough Parade directly opposite Fraser Park, with 180-degree views across Golden Beach waters and sandy shores, and steps to the waterfront, parks and local amenities. Price is not published.",
     "image": "https://i2.au.reastatic.net/800x600/37419aab2bf38aaa0400611fb92c0464b59235479083d76f4e8fdc0e6d43d604/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/37419aab2bf38aaa0400611fb92c0464b59235479083d76f4e8fdc0e6d43d604/image.jpg",
@@ -50455,8 +51104,8 @@ const sampleProperties = [
       "Gemini Resort facilities",
       "Ground-floor renovated unit"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 19 May 2026 from the exact direct listing URL. The listing advertises a renovated ground-floor Gemini Resort unit in the heart of Golden Beach with the sparkling waterfront right at the doorstep, resort pool, spa, sauna and tennis facilities, and walking access to cafes, restaurants and beaches. Available suburb and comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "status": "sold",
+    "notes": "Hidden after the 28 Jun 2026 Golden Beach sweep. The exact realestate.com.au listing URL now resolves to sold status rather than an active sale listing. It was advertised as a renovated ground-floor Gemini Resort unit with the sparkling waterfront right at the doorstep, resort facilities, and walking access to cafes, restaurants and beaches.",
     "image": "https://i2.au.reastatic.net/800x600/c9df63e6dabd64306d320554032c3914f06712e54b08633a5dad23f95383d4b2/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/c9df63e6dabd64306d320554032c3914f06712e54b08633a5dad23f95383d4b2/image.jpg"
@@ -50492,6 +51141,122 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-golden%2Bbeach-148957552",
     "investmentStar": false
+  },
+  {
+    "id": "qld-golden-beach-118-esplanade",
+    "title": "118 Esplanade",
+    "suburb": "Golden Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 2695000,
+    "priceLabel": "$2,695,000",
+    "landSize": 632,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Esplanade waterfront address",
+      "Uninterrupted Pumicestone Passage views",
+      "Directly opposite foreshore",
+      "Character beach house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 Jun 2026 from the exact direct listing URL and Golden Beach sale result page. The listing advertises an Esplanade beach house directly opposite the sparkling waters of Pumicestone Passage, with uninterrupted water views and immediate foreshore access; no sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/c14e0a6a71ea4e53f618e4f72828c45287d5790b198f088d019ab9aa8bffdf58/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c14e0a6a71ea4e53f618e4f72828c45287d5790b198f088d019ab9aa8bffdf58/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-golden%2Bbeach-151288408",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-golden-beach-808-75-esplanade",
+    "title": "808/75 Esplanade",
+    "suburb": "Golden Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 899000,
+    "priceLabel": "$899,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Esplanade waterfront tower",
+      "Pumicestone Passage views",
+      "Opposite Golden Beach foreshore",
+      "Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 Jun 2026 from the exact direct listing URL and Golden Beach Esplanade search. The listing advertises a Ramada Resort apartment on the Golden Beach Esplanade with Pumicestone Passage views and immediate access to the waterfront foreshore; land size is not published and no sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e9a2d35c3bd3058641a276f43e5f672df2780be90e7d9ee9f82d4a509d69c9e8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e9a2d35c3bd3058641a276f43e5f672df2780be90e7d9ee9f82d4a509d69c9e8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-151044520",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-golden-beach-105-75-esplanade",
+    "title": "105/75 Esplanade",
+    "suburb": "Golden Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 335000,
+    "priceLabel": "Offers over $335,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Esplanade waterfront resort",
+      "Pumicestone Passage outlook",
+      "Across from Golden Beach foreshore",
+      "Resort investment apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 Jun 2026 from the exact direct listing URL and targeted Golden Beach Esplanade search. The listing advertises a Ramada Resort apartment at 75 Esplanade with Pumicestone Passage outlook and immediate foreshore access; land size is not published and no sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/f62caadbb32f2b2fd28d0c5e11ce29798c0783851f6a9166312f4cc4cd6f722f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f62caadbb32f2b2fd28d0c5e11ce29798c0783851f6a9166312f4cc4cd6f722f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-151003512",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-golden-beach-904-75-landsborough",
+    "title": "904/75 Landsborough Parade",
+    "suburb": "Golden Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-24",
+    "price": 1850000,
+    "priceLabel": "Offers over $1,850,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Landsborough Parade front row",
+      "Uninterrupted ocean and passage views",
+      "Opposite waterfront foreshore",
+      "Penthouse-style apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 Jun 2026 from the exact direct listing URL and Golden Beach front-row search. The listing advertises uninterrupted ocean and Pumicestone Passage views from a Landsborough Parade position on Golden Beach's waterfront strip, with direct access to the foreshore precinct; land size is not published and no sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/5daef4a8a7de7885dc3ea2513498f9c6605323b8316aaae295842b0127433daf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5daef4a8a7de7885dc3ea2513498f9c6605323b8316aaae295842b0127433daf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-151573784",
+    "listingCategory": "beachfront"
   },
   {
     "id": "sa-birdwood-83-burton",
@@ -50970,7 +51735,7 @@ const sampleProperties = [
       "Directly opposite beach",
       "Resort facilities"
     ],
-    "status": "unavailable",
+    "status": "sold",
     "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as a rare north-east corner beachfront residence in The Rocks Resort's A Block, with views across Currumbin Beach, Wallace Nicoll Park and the Alley, plus resort pool, spa, sauna, tennis and gym facilities. Exact listing URL redirected to a sold page on 22 May 2026, showing contact agent sold on 12 May 2026.",
     "image": "https://i2.au.reastatic.net/800x600/29bcc625278d3dae47b9f90d48f4d7964112c011f37b1f581a745ab4e344b832/image.jpg",
     "images": [
@@ -51028,8 +51793,8 @@ const sampleProperties = [
       "Private terrace access",
       "Holiday letting potential"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Currumbin apartment listing advertised as beachfront living in The Rocks Resort, with private terrace access to the resort pool and direct beach entry without passing through reception. Exact listing advertises price as Awaiting Price Guide.",
+    "status": "under_offer",
+    "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as beachfront living in The Rocks Resort, with private terrace access to the resort pool and direct beach entry without passing through reception. The current realestate.com.au Currumbin suburb result page marked this exact listing under offer on 28 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/e16989387dea20cfa67f6b87e41564b233e2bccad9dbbdd8c46eccc867b51fcf/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e16989387dea20cfa67f6b87e41564b233e2bccad9dbbdd8c46eccc867b51fcf/image.jpg",
@@ -51102,8 +51867,8 @@ const sampleProperties = [
       "Two-level renovated townhouse apartment",
       "Walk to Currumbin Alley and surf club"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Currumbin apartment listing verified 22 May 2026 from the exact direct listing URL. The listing is advertised as positioned directly across from Currumbin Beach in the boutique White Dolphin complex, with ocean glimpses, a renovated two-level layout, and walking access to Currumbin Alley, Vikings Surf Club and Pacific Parade cafes. The listing is being sold by auction without an agent price guide; the realestate.com.au hidden price filter placed it in the $1m-$1.5m range. Available five-year Currumbin growth evidence did not substantiate a greater than 15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as positioned directly across from Currumbin Beach in the boutique White Dolphin complex, with ocean glimpses, a renovated two-level layout, and walking access to Currumbin Alley, Vikings Surf Club and Pacific Parade cafes. The current realestate.com.au Currumbin suburb result page marked this exact listing under offer on 28 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/8557dfbef6d2dab4f3d171d07969724029872cef71d84c64bb411be7e8137d38/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/8557dfbef6d2dab4f3d171d07969724029872cef71d84c64bb411be7e8137d38/image.jpg"
@@ -70259,6 +71024,427 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "qld-maroochydore-6-58-picnic-point",
+    "title": "6/58 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-06-12",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Picnic Point riverfront address",
+      "Riverfront balcony and north-east river views",
+      "Exclusive 120sqm private rooftop terrace",
+      "Riverfront pool, BBQ area and lawns to the water's edge"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a boutique Acacia Apartments residence in a prime Picnic Point waterfront position, with north-east Maroochy River views, a riverfront balcony, exclusive 120sqm rooftop terrace, riverfront grounds with pool and BBQ area, and auction scheduled for 16 July 2026. The page shows 191sqm building size, not land size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/d09a8178e53ccbe10f34123f99ce268a54b7dba0710109d43b44cfc6299a20c6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/d09a8178e53ccbe10f34123f99ce268a54b7dba0710109d43b44cfc6299a20c6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151408344"
+  },
+  {
+    "id": "qld-maroochydore-20-85-picnic-point",
+    "title": "20/85 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-06-19",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Northern-corner waterfront apartment",
+      "Direct river access with private pontoon",
+      "Panoramic river, hinterland and ocean outlook",
+      "Resort complex with pool, gym and watercraft storage"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a fifth-floor northern-corner waterfront apartment at The Point with zero side neighbours, vistas from Cotton Tree to the hinterland, ocean sunrise outlooks, direct river access, a private pontoon and watercraft storage. The page shows 178sqm building size, not land size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/34923b525d3949f311ec52fd309ca05b6ed1c56b1e31112cbe5dd17b96bece1b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/34923b525d3949f311ec52fd309ca05b6ed1c56b1e31112cbe5dd17b96bece1b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151508304"
+  },
+  {
+    "id": "qld-maroochydore-3-58-picnic-point",
+    "title": "3/58 Picnic Point Esplanade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-06-18",
+    "price": 1350000,
+    "priceLabel": "Buyers in the Mid $1,300,000's",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Riverfront Acacia Apartments address",
+      "Uninterrupted Maroochy River and parkland views",
+      "North-east facing waterfront balcony",
+      "Sandy river shore directly across the road"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises renovated riverfront living in the boutique Acacia Apartments complex, with uninterrupted Maroochy River and parkland views, a north-east balcony, complex pool and BBQ area, and sandy river shores directly across the road. The page shows 105sqm building size, not land size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/51344334711e1cf7d65972c0e972b99dfe1ae2a1c19f00c2f499564f912cfb5d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/51344334711e1cf7d65972c0e972b99dfe1ae2a1c19f00c2f499564f912cfb5d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151532448"
+  },
+  {
+    "id": "qld-maroochydore-7-309-bradman",
+    "title": "7/309 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": 1,
+    "listedDate": "2026-06-26",
+    "price": 850000,
+    "priceLabel": "Offers Over $850,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Top-floor riverfront unit",
+      "Elevated Maroochy River views",
+      "Moments to boat ramps and waterfront paths",
+      "Close to beaches, cafes and Maroochydore CBD"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing showed Added yesterday and Date Published 26 June 2026. It advertises a top-floor three-bedroom unit in a sought-after riverfront location, set back from the road while capturing Maroochy River views, with boat ramps, cafes, beaches and the Maroochydore CBD nearby. The page shows 111sqm building size, not land size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/ccd327329d3f7533b583976da9f2a6edbbc38cdf435b05f1779c4a42cf073661/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/ccd327329d3f7533b583976da9f2a6edbbc38cdf435b05f1779c4a42cf073661/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151602648"
+  },
+  {
+    "id": "qld-maroochydore-13-27-sixth",
+    "title": "13/27 Sixth Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-06-17",
+    "price": 1099000,
+    "priceLabel": "Offers Over $1,099,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Majorca Isle beachfront complex",
+      "Private foreshore access to patrolled surf beach",
+      "Direct access to Cotton Tree Beach and foreshore",
+      "Resort facilities with pool, tennis court and BBQ areas"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Majorca Isle as a recognised beachfront complex directly opposite the patrolled surf beach, with private foreshore access, direct Cotton Tree Beach access, ocean glimpses and resort facilities including pool, tennis court, BBQ areas and games room. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/22ba8f2f528be75a6523809dd678d59497419e15432af4dcb7952a1933b1dd23/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/22ba8f2f528be75a6523809dd678d59497419e15432af4dcb7952a1933b1dd23/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151513400"
+  },
+  {
+    "id": "qld-maroochydore-7-81-sixth",
+    "title": "7/81 Sixth Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "FOR SALE",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Cotton Tree beachside complex",
+      "Direct beach access advertised",
+      "Walk to Cotton Tree Beach and river",
+      "Resort pool, tennis court, sauna and BBQ areas"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a Cotton Tree residence where the new owners enjoy direct beach access, with beach, river, cafes and amenities walkable from the complex, plus resort-style facilities including pool, tennis court, sauna, BBQ areas, lifts and onsite management. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/e7f92f8641dac25437bdfa01a4948d0e579dfa621230f7dbd4526f66473375da/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/e7f92f8641dac25437bdfa01a4948d0e579dfa621230f7dbd4526f66473375da/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151216956"
+  },
+  {
+    "id": "qld-maroochydore-9-299-301-bradman",
+    "title": "9/299-301 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1850000,
+    "priceLabel": "Price Guide $1,850,000 Plus",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Premium riverfront La Bella Vita complex",
+      "Protected uninterrupted Maroochy River views",
+      "North-facing first-floor waterfront apartment",
+      "Walk to river, shops, dining and walking tracks"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a renovated luxury riverfront apartment in La Bella Vita, an exclusive complex of 12 apartments, with north-facing uninterrupted Maroochy River views that cannot be built out, river breezes, a large front balcony and walking access to the river, shops, dining and tracks. The page shows 251sqm building size, not land size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/ab1977400dc1baa76a2ae1d6f74f25607edaf73664181fb474f4b657e5df2d43/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/ab1977400dc1baa76a2ae1d6f74f25607edaf73664181fb474f4b657e5df2d43/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151284260"
+  },
+  {
+    "id": "qld-maroochydore-3-171-bradman",
+    "title": "3/171 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "For Sale",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "PRANA riverfront foreshore position",
+      "Water views from a half-floor residence",
+      "Maroochydore foreshore at the water's edge",
+      "Brand-new completed luxury apartment"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a completed PRANA half-floor residence positioned along the Maroochydore foreshore, with water views to the front, a short walk to cafes, dining and shopping, and the water's edge across the road. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/50c54b63ec8e0dd906ee5fe7a379dd5dae6a20de987e440214ea38750a51a149/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/50c54b63ec8e0dd906ee5fe7a379dd5dae6a20de987e440214ea38750a51a149/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-150426900"
+  },
+  {
+    "id": "qld-maroochydore-2-15-cotton-tree",
+    "title": "2/15 Cotton Tree Parade",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "priceLabel": "Offers Over $1,650,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachside Cotton Tree apartment",
+      "Steps to Maroochydore Beach",
+      "Direct surf, river and village access nearby",
+      "Ocean and surf outlook from the balcony"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and Maroochydore suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Offers Over $1,650,000 for a Cotton Tree beachside apartment steps from Maroochydore Beach, with ocean views, surf checks from the balcony, and walkability to the beach, river, cafes and shops. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/1412522a24f588fa29b0854cf00989664dc4628437a7eb9e72830e053854f2b7/main.png",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/1412522a24f588fa29b0854cf00989664dc4628437a7eb9e72830e053854f2b7/main.png"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151445720"
+  },
+  {
+    "id": "qld-maroochydore-508-14-aerodrome",
+    "title": "508/14 Aerodrome Road",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "listedDate": "2026-06-02",
+    "price": 1069000,
+    "priceLabel": "$1,069,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Sebel beachside resort address",
+      "Short stroll to Maroochydore Beach",
+      "Ocean views from the fifth floor",
+      "Cotton Tree and Alexandra Headland walkability"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $1,069,000 and Date Published 2 June 2026 for a fifth-floor Sebel apartment at 14 Aerodrome Road with ocean views, a beachside resort position and a short stroll to Maroochydore Beach, Cotton Tree, restaurants and coastal paths. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/59a6b292490220a8694d049ca44a926fd165836383c39720f6589df943e7587e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/59a6b292490220a8694d049ca44a926fd165836383c39720f6589df943e7587e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151408956"
+  },
+  {
+    "id": "qld-maroochydore-802-67-sixth",
+    "title": "802/67 Sixth Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1765000,
+    "priceLabel": "$1,765,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Rise Maroochydore Beach address",
+      "Opposite Maroochydore Beach",
+      "Direct beach access across the road",
+      "Ocean views from a completed apartment"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and related Maroochydore result links, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $1,765,000 for an eighth-floor Rise Maroochydore Beach apartment opposite Maroochydore Beach, with direct beach access across the road, ocean views and completed new-development amenities. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/f62f50e14c26a8b984b48ad5bfa33056c03454929e13dd065686e429c408aab8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/f62f50e14c26a8b984b48ad5bfa33056c03454929e13dd065686e429c408aab8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151387752"
+  },
+  {
+    "id": "qld-maroochydore-905-67-sixth",
+    "title": "905/67 Sixth Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 2285000,
+    "priceLabel": "$2,285,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Rise Maroochydore Beach address",
+      "Direct beach access across the road",
+      "North-facing ocean-view apartment",
+      "Walk to surf, Cotton Tree and cafes"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and related Maroochydore result links, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $2,285,000 for a north-facing Rise Maroochydore Beach apartment with stunning ocean views, a position directly opposite Maroochydore Beach and beach access across the road. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/a5975771dcf173190d8a692c5e32bb0475bb318f6562fe8f7b3cf10a7d8c6848/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/a5975771dcf173190d8a692c5e32bb0475bb318f6562fe8f7b3cf10a7d8c6848/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151464876"
+  },
+  {
+    "id": "qld-maroochydore-801-8-duporth",
+    "title": "801/8 Duporth Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Price on Application",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Waterfront Duporth Avenue tower",
+      "Panoramic river and ocean views",
+      "Private beach and jetty amenity",
+      "Maroochy River, Cotton Tree and beach access nearby"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Price on Application for a Verve on Cotton Tree sky residence at 8 Duporth Avenue with panoramic river, ocean and hinterland views, private beach and jetty amenity, and walkable Cotton Tree, Maroochy River and beach access. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/ea8035b20c097f4529860e72fa5eec49f911a536c943dca82522fc85e5a6f43c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/ea8035b20c097f4529860e72fa5eec49f911a536c943dca82522fc85e5a6f43c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151573884"
+  },
+  {
+    "id": "qld-maroochydore-12-131-135-bradman",
+    "title": "12/131-135 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 950000,
+    "priceLabel": "$950,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Bradman Avenue riverfront apartment",
+      "Top-floor Maroochy River views",
+      "Directly opposite the river and boat ramp",
+      "Walk to Chambers Island and riverfront paths"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $950,000 for a top-floor apartment overlooking the Maroochy River, directly opposite the river and boat ramp, with waterfront breezes, river views and walkability to Chambers Island, paths, cafes and shops. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/7c0613ee9fc58112e78d2898b6f615c5b73826d16dcc71ca85b2db6675b9a4c6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/7c0613ee9fc58112e78d2898b6f615c5b73826d16dcc71ca85b2db6675b9a4c6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151448748"
+  },
+  {
+    "id": "qld-maroochydore-22-73-75-bradman",
+    "title": "22/73-75 Bradman Avenue",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": null,
+    "price": 1450000,
+    "priceLabel": "Offers Over $1,450,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Bradman Avenue waterfront apartment",
+      "North-facing Maroochy River position",
+      "Boat ramp and sandy river edge opposite",
+      "Walk to Ocean Street, Cotton Tree and beaches"
+    ],
+    "status": "active",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Offers Over $1,450,000 for a north-facing waterfront Bradman Avenue apartment opposite the Maroochy River, boat ramp and sandy river edge, with river views and walkability to Ocean Street, Cotton Tree and beaches. Strata land/block size is not published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600-format=webp/07216b84d1d13c6c7c95dc52e56bdcd089b3e423f5790292191b0f4207084fe7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600-format=webp/07216b84d1d13c6c7c95dc52e56bdcd089b3e423f5790292191b0f4207084fe7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151300692"
+  },
+  {
     "id": "qld-wurtulla-1-18-pretella",
     "title": "1/18 Pretella Street",
     "suburb": "Wurtulla",
@@ -74745,8 +75931,8 @@ const sampleProperties = [
       "Top-floor ocean and hinterland views",
       "The Esplanade position"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 20 May 2026 from the exact direct listing URL. The page advertises a renovated top-floor Ambassador apartment at 100 The Esplanade, set on over 2000m2 of beachfront land with direct beach access, ocean and hinterland views from every room, pool facilities and a short walk to James Street. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
+    "status": "under_contract",
+    "notes": "Realestate.com.au suburb result page verified 28 Jun 2026 now marks this exact listing as under contract. The original direct listing advertised a renovated top-floor Ambassador apartment at 100 The Esplanade, set on over 2000m2 of beachfront land with direct beach access, ocean and hinterland views from every room, pool facilities and a short walk to James Street. No land or building size was published on the direct page, so price per sqm is TBA. Five-year Burleigh Heads unit growth evidence was checked; available suburb evidence did not substantiate a greater than 15% annual investment flag.",
     "image": "https://i2.au.reastatic.net/800x600/e6e0ac664c52ae44b832c6a1371cb540707f567d5c0a14591c99f695e25c16c3/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e6e0ac664c52ae44b832c6a1371cb540707f567d5c0a14591c99f695e25c16c3/image.jpg"
@@ -74926,6 +76112,180 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/c644ad920b408988426ff70e9705bc68b59255877b017b2b135c85de48c09968/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-148466188",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-301-166-esplanade",
+    "title": "301/166 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 8500000,
+    "priceLabel": "Expressions of Interest closing 21st July, 5pm",
+    "landSize": 417,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "First-row Burleigh beachfront penthouse",
+      "417m2 whole-floor residence",
+      "Private rooftop terrace and pool",
+      "Panoramic surf and skyline views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises a whole-floor Burleigh Surf penthouse at 166 The Esplanade with 417m2 of living, panoramic beach-to-skyline views, a private rooftop terrace, pool, spa, sauna and dual garage parking.",
+    "image": "https://i2.au.reastatic.net/800x600/c61be4ac63b238770ebc374c1cf099734731372eb2be537d7ee8ff08cd9895bf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c61be4ac63b238770ebc374c1cf099734731372eb2be537d7ee8ff08cd9895bf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150167356",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-602-270-esplanade",
+    "title": "602/270 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 6175000,
+    "priceLabel": "$6,175,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "MYST North Burleigh beachfront residence",
+      "The Esplanade front-row address",
+      "245m2 half-floor apartment",
+      "Ocean-to-hinterland views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 602 in MYST Burleigh Heads at 270 The Esplanade, a level-six 245m2 four-bedroom half-floor residence with expansive bookend balconies, panoramic ocean-to-hinterland views and beachfront North Burleigh positioning.",
+    "image": "https://i2.au.reastatic.net/800x600/cb36ac4d902b3c3242f8381bef528622c23dc088d93ee2c488466108a69d7b75/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/cb36ac4d902b3c3242f8381bef528622c23dc088d93ee2c488466108a69d7b75/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150187724",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-1101-270-esplanade",
+    "title": "1101/270 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 6825000,
+    "priceLabel": "$6,825,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "MYST level-eleven beachfront home",
+      "The Esplanade North Burleigh address",
+      "245m2 four-bedroom floorplan",
+      "Sweeping ocean-to-hinterland views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 1101 in MYST Burleigh Heads at 270 The Esplanade, a level-eleven 245m2 half-floor apartment with four bedrooms, dual living areas, panoramic ocean-to-hinterland outlooks and completion anticipated late 2027.",
+    "image": "https://i2.au.reastatic.net/800x600/8bc1c9f38560b2cd063da9739689c2ac7c4d19fcc0ae951467d2db5b6567e741/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8bc1c9f38560b2cd063da9739689c2ac7c4d19fcc0ae951467d2db5b6567e741/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150192148",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-1601-88-esplanade",
+    "title": "1601/88 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 4400000,
+    "priceLabel": "$4,400,000",
+    "landSize": 181,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "ONE Burleigh beachfront sky home",
+      "Direct beach access",
+      "181m2 three-bedroom apartment",
+      "North-east ocean views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 1601 in ONE Burleigh Headland at 88 The Esplanade, an absolute beachfront address with direct beach access, 181m2 three-bedroom layout, north-east ocean views and resort amenities including pool, gym, sauna and resident lounge.",
+    "image": "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-145809152",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-701-88-esplanade",
+    "title": "701/88 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 3500000,
+    "priceLabel": "$3,500,000",
+    "landSize": 181,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "ONE Burleigh beachfront residence",
+      "Direct beach access",
+      "181m2 three-bedroom apartment",
+      "Ocean, headland and skyline views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 701 in ONE Burleigh Headland at 88 The Esplanade, an absolute beachfront building with direct beach access, 181m2 three-bedroom layout, ocean-to-skyline views and premium resident facilities.",
+    "image": "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150514744",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-burleigh-heads-501-88-esplanade",
+    "title": "501/88 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 3400000,
+    "priceLabel": "$3,400,000",
+    "landSize": 181,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "ONE Burleigh beachfront apartment",
+      "Direct beach access",
+      "181m2 three-bedroom residence",
+      "Beach, headland and skyline outlook"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 501 in ONE Burleigh Headland at 88 The Esplanade, an absolute beachfront address with direct beach access, a 181m2 three-bedroom design, ocean and skyline views and resort-style wellness amenities.",
+    "image": "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150514352",
     "investmentStar": false
   },
   {
@@ -77103,10 +78463,1778 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-qld-bargara-151492492",
     "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-sunshine-beach-23-whale",
+    "title": "23 Whale Drive",
+    "suburb": "Sunshine Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 746,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "One home from the beach boardwalk with sand access moments away",
+      "Prestige Whale Drive beachside holding on 746m2",
+      "Flexible dual-level coastal residence with separate guest accommodation",
+      "Walkable Sunshine Beach village position close to cafes and surf club"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Sunshine Beach house listing verified 27 Jun 2026 from the exact direct listing URL and the Sunshine Beach suburb sale result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises auction sale, 746m2 land, a Whale Drive position one home from the beach boardwalk, direct moments-to-sand beach access, and proximity to Sunshine Beach village and the surf club. Price is set to null because the exact listing advertises auction with no usable guide price.",
+    "image": "https://i2.au.reastatic.net/800x600/ff61cf10af923141fe2c10ffdbd1507d8207296bb6eaa76cd780c74f0468fd8d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ff61cf10af923141fe2c10ffdbd1507d8207296bb6eaa76cd780c74f0468fd8d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-sunshine%2Bbeach-150459192",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-25-oriole",
+    "title": "25 Oriole Avenue",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 1900000,
+    "priceLabel": "Offers over $1,900,000",
+    "landSize": 511,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "One-minute walk to Victory Park beach access",
+      "Beachside Oriole Avenue position on 511m2",
+      "Renovated coastal home with pool",
+      "Walkable Peregian Beach village lifestyle"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises Offers over $1,900,000, 511m2 land, a beachside Oriole Avenue position and a one-minute walk to Victory Park beach access, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/86e079c75e3ba798cc09f33d4590f9981f19a2a60a1a2c4b4ddeca8e455ff98/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/86e079c75e3ba798cc09f33d4590f9981f19a2a60a1a2c4b4ddeca8e455ff98/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-147690844",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-43-pelican",
+    "title": "43 Pelican Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2950000,
+    "priceLabel": "$2,950,000",
+    "landSize": 521,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Elevated beachside Pelican Street position",
+      "Advertised beachfront Peregian Beach lifestyle",
+      "Ocean views and coastal breezes",
+      "Walk to beach, village and surf club"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises $2,950,000, 521m2 land, an elevated Pelican Street beachside position, ocean views, an Osprey Park backdrop and walkable beach, village and surf club access, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/36e7935c94d46a0afc344476ee38224c6b8b3a8786860dd9ad859fa738d909c4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/36e7935c94d46a0afc344476ee38224c6b8b3a8786860dd9ad859fa738d909c4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150209948",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-1-15-martin",
+    "title": "1/15 Martin Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2150000,
+    "priceLabel": "Offers Over $2,150,000",
+    "landSize": 154,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachside Martin Street pocket",
+      "Short walk to beach access",
+      "Ocean views from upper level",
+      "Village and cafes nearby"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Offers Over $2,150,000, 154m2 land, a beachside Martin Street address, ocean views and short walking access to the beach and village, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/0f0e426546b89671f7d42a10f9b04d97f3d03437f8e0d3551d6bf515d189b4d3e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0f0e426546b89671f7d42a10f9b04d97f3d03437f8e0d3551d6bf515d189b4d3e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-151600736",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-1-28-pelican",
+    "title": "1/28 Pelican Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 1600000,
+    "priceLabel": "Over $1,600,000",
+    "landSize": 136,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachside Pelican Street duplex",
+      "Metres to the shoreline",
+      "Ocean-view rooftop terrace",
+      "Walk to village and surf club"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Over $1,600,000, 136m2 land, a beachside Pelican Street duplex metres from the sand with rooftop ocean views and walkable access to the village and surf club, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/2d0b1f2d0b3e985466646af6e680ac0a39c6f5abeb4c37d0b97dfc8219bc1e59/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2d0b1f2d0b3e985466646af6e680ac0a39c6f5abeb4c37d0b97dfc8219bc1e59/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150812000",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-12-landrail",
+    "title": "12 Landrail Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 1995000,
+    "priceLabel": "Offers Over $1,995,000",
+    "landSize": 607,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachside Landrail Street position",
+      "Moments to beach access",
+      "Elevated coastal outlook",
+      "607m2 family beach house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Offers Over $1,995,000, 607m2 land, a beachside Landrail Street position moments to beach access and elevated coastal living, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/df506eaa0c9e89287005ad844ab6e74564cce507058c2c4721dba64efa93f2bb/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/df506eaa0c9e89287005ad844ab6e74564cce507058c2c4721dba64efa93f2bb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-149463368",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-38-lowry",
+    "title": "38 Lowry Street",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2490000,
+    "priceLabel": "Bidding Over $2.49m",
+    "landSize": 618,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "East-side Lowry Street position",
+      "Walk to beach access",
+      "Ocean-view coastal home",
+      "618m2 beachside block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Bidding Over $2.49m, 618m2 land, an east-side Lowry Street coastal position with ocean views and walking access to Peregian Beach, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/59ef89ac0203fc057a74e8474b1c98a142a963dd4d1c8c1e49bf6a329132095f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/59ef89ac0203fc057a74e8474b1c98a142a963dd4d1c8c1e49bf6a329132095f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-149193284",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-peregian-beach-6-currawong",
+    "title": "6 Currawong Crescent",
+    "suburb": "Peregian Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 685,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Eight-minute walk to direct beach access",
+      "Peregian Beach village proximity",
+      "685m2 beachside family block",
+      "Pool and coastal entertaining"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Peregian Beach listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises auction sale, 685m2 land, an eight-minute walk to direct beach access and Peregian Beach Village proximity, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Price is set to null because no guide price was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/dd296c1793393f82151ed3e44817f8e20da8cdcd29ae8bc0c17e2efc758e1abf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dd296c1793393f82151ed3e44817f8e20da8cdcd29ae8bc0c17e2efc758e1abf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-peregian%2Bbeach-150769428",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-61-1740-david-low",
+    "title": "61/1740-1744 David Low Way",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1050000,
+    "priceLabel": "Offers Over $1,050,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Coolum Caprice beachfront resort position",
+      "Ocean-view apartment directly opposite the beach",
+      "Steps to patrolled sand, surf club and esplanade dining",
+      "Resort pool, spa, tennis court and lift access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach unit listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers Over $1,050,000, a Coolum Caprice beachfront-resort position directly opposite the beach, ocean views, and immediate walkability to the patrolled beach, surf club, cafes and restaurants, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/92b1f4f0bd30e4f8d14e06d3984f66f02a5803ca306bbd162d1381cda8de6238/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/92b1f4f0bd30e4f8d14e06d3984f66f02a5803ca306bbd162d1381cda8de6238/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-151607300",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-4318-1808-david-low",
+    "title": "4318/1808 David Low Way",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1500000,
+    "priceLabel": "Offers over $1,500,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Element on Coolum Beach resort address",
+      "Front-row David Low Way beach access",
+      "Ocean-view apartment in the main village strip",
+      "Walkable surf, restaurants and coastal paths"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach apartment listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers over $1,500,000, an Element on Coolum Beach address on the front-row beach side of David Low Way, ocean-view coastal living and immediate walkability to the surf beach, restaurants and coastal paths, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/8fa5f5ad61eeac7108a6c1cf63789d4e96d4a167951310ecf7bc01741c0122b5/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8fa5f5ad61eeac7108a6c1cf63789d4e96d4a167951310ecf7bc01741c0122b5/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolum%2Bbeach-151362044",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-403-63-coolum-terrace",
+    "title": "403/63 Coolum Terrace",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "priceLabel": "Offers over $1.65m",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Drift by Mosaic beachfront Coolum address",
+      "Metres to First Bay and surf beaches",
+      "Ocean-view apartment above coastal paths",
+      "Resort amenities in a front-row complex"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach apartment listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers over $1.65m, a Drift by Mosaic beachfront Coolum address at 63 Coolum Terrace, ocean-view apartment living metres from the surf beaches and coastal paths, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/7df35a8086901a15c83b974d2a4ffdb027b1654a606f0a7a2e9f902c3cfbce14/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7df35a8086901a15c83b974d2a4ffdb027b1654a606f0a7a2e9f902c3cfbce14/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-151543480",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-5-42-first",
+    "title": "5/42 First Avenue",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1300000,
+    "priceLabel": "Offers over $1,300,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "First Avenue address opposite the shoreline",
+      "Approx. 50m to Coolum Beach and surf club",
+      "Ocean and coastal views from a top-floor apartment",
+      "Village, esplanade and boardwalk walkability"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach unit listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers over $1,300,000, a First Avenue position opposite the shoreline, approx. 50m to Coolum Beach and surf club, ocean and coastal views and village walkability, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/3e39b7f0df3d775da03c66aa32d0ff0de6a7122a927f1dad98e8283c6960556c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/3e39b7f0df3d775da03c66aa32d0ff0de6a7122a927f1dad98e8283c6960556c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-151582700",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-20-7-13-beach",
+    "title": "20/7-13 Beach Road",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1350000,
+    "priceLabel": "Offers over $1,350,000",
+    "landSize": null,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Approx. 80m to Coolum Beach",
+      "Top-floor Beach Road apartment",
+      "Ocean-view village position",
+      "Walk to surf, boardwalk, cafes and shops"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach apartment listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers over $1,350,000, a Beach Road top-floor apartment approx. 80m from Coolum Beach, ocean views, and walkable access to the surf, boardwalk, cafes and shops, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/0570051578c88445eb1cc8635bd63270c971674949d9019cf5641cabf5f26bcb/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0570051578c88445eb1cc8635bd63270c971674949d9019cf5641cabf5f26bcb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolum%2Bbeach-151444216",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-4102-1808-david-low",
+    "title": "4102/1808 David Low Way",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "priceLabel": "Offers over $1,650,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Element on Coolum Beach front-row resort",
+      "Stroll across the road to the beach",
+      "Ocean-view apartment with rooftop terrace",
+      "Village, cafes and coastal path at the doorstep"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolum Beach unit listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Offers over $1,650,000, an Element on Coolum Beach address at 1808 David Low Way, ocean views, rooftop terrace and beach access across the road, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/92cae26c379a59f729eb411b0e305b461f8b68cb55917dca1321069e3b75ca7e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/92cae26c379a59f729eb411b0e305b461f8b68cb55917dca1321069e3b75ca7e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-151301344",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-1114-1808-david-low",
+    "title": "1114/1808 David Low Way",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1100000,
+    "priceLabel": "Offers over $1,100,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Element on Coolum Beach resort address",
+      "Front-row David Low Way beach access",
+      "Ocean-view apartment close to the sand",
+      "Walk to surf, restaurants and esplanade paths"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Coolum Beach apartment listing verified 27 Jun 2026 from exact direct listing URLs and the Domain suburb result page. The page advertises Offers over $1,100,000, an Element on Coolum Beach address at 1808 David Low Way, ocean-view beachside living and walkable access to the surf, restaurants and esplanade paths, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/ff3faf24d1be55c57839fba1a72b57876ffdf2e4521395b4e09ac825f6d335cc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ff3faf24d1be55c57839fba1a72b57876ffdf2e4521395b4e09ac825f6d335cc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-150392444",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolum-beach-6-21-bay",
+    "title": "6/21 Bay Terrace",
+    "suburb": "Coolum Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 100,
+    "daysOnMarket": null,
+    "price": 1100000,
+    "priceLabel": "Offers Over $1,100,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Bay Terrace coastal position",
+      "Overlooks First Bay and beach reserve",
+      "Low-rise apartment opposite beach access",
+      "Walk to headland paths and Coolum village"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolum Beach unit listing verified 27 Jun 2026 from the exact direct listing URL and suburb result page. The page advertises Offers Over $1,100,000, a Bay Terrace coastal position overlooking First Bay and the beach reserve, with walkable headland paths and Coolum village access, and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/c297b0142f0f6264ef4738dc9409cfa828f23e59cdba5443f55bd0cb4e03d503/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c297b0142f0f6264ef4738dc9409cfa828f23e59cdba5443f55bd0cb4e03d503/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolum%2Bbeach-150226960",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-warana-143-oceanic",
+    "title": "143 Oceanic Drive",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": 1,
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": 555,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanic Drive beachside position",
+      "High-growth Warana beachside pocket",
+      "555m2 east-facing coastal block",
+      "Walk to sand, shops and coastal path"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 27 Jun 2026 from the exact direct listing URL and Warana suburb result page. The listing advertises Expressions of Interest, added yesterday, a 555m2 site on tightly held Oceanic Drive in a high-growth beachside pocket, walkable beach access, coastal pathway, shops and cafes, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Price is set to null because no usable guide price was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/7215069a2f9c4ee4272f214900f103b8040b42ae42f806508f00ab0e7f216095/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7215069a2f9c4ee4272f214900f103b8040b42ae42f806508f00ab0e7f216095/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-warana-151605120",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-warana-4-palkana",
+    "title": "4 Palkana Drive",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Tingira Beach apartment",
+      "Protected beachside position",
+      "Ocean views",
+      "Walk to Warana sand and coastal pathway"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 27 Jun 2026 from the exact direct listing URL and Warana suburb result page. The listing advertises auction sale, Apartment 501 in Tingira Beach at 4 Palkana Drive, a coveted beachside position with sparkling ocean views and immediate coastal lifestyle access, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Price is set to null because no guide price was shown and land size was not published for the apartment.",
+    "image": "https://i2.au.reastatic.net/800x600/16bd74d28461171165c27218596bc384573a91d647566f37c8ed11e75a25562b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/16bd74d28461171165c27218596bc384573a91d647566f37c8ed11e75a25562b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-warana-151505596",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-warana-8-ilaroo",
+    "title": "8 Ilaroo Crescent",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": 6,
+    "price": 3500000,
+    "priceLabel": "$3,500,000",
+    "landSize": 555,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Reserve-edge beachside pocket",
+      "Approx. 150m to beach access",
+      "555m2 coastal block",
+      "Pool and flexible dual-living layout"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 27 Jun 2026 from the exact direct listing URL and Warana suburb result page. The page advertises $3,500,000, 555m2 land, a reserve-edge Ilaroo Crescent position about 150m from beach access, pool and flexible living, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/b8460f50fab5928e1f4b6613d636e1872410b7766ab62d581125f44484982430/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b8460f50fab5928e1f4b6613d636e1872410b7766ab62d581125f44484982430/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-warana-151279176",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-warana-7-karumba",
+    "title": "7 Karumba Street",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-17",
+    "price": 3500000,
+    "priceLabel": "Offers Over $3,500,000",
+    "landSize": 726,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Approx. 350m to Warana Beach",
+      "726m2 beachside block",
+      "Self-contained guest wing",
+      "Pool, spa and coastal entertaining"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 27 Jun 2026 from the exact direct listing URL and Warana suburb result page. The page advertises Offers Over $3,500,000, 726m2 land, a beachside Karumba Street residence approximately 350m to Warana Beach with guest wing, pool and spa, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/b3cecd3a9ccb39f37bc592cb6877cf9684184259788320298c4eaf8b7e9d0765/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b3cecd3a9ccb39f37bc592cb6877cf9684184259788320298c4eaf8b7e9d0765/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-warana-151517800",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-warana-184-oceanic",
+    "title": "184 Oceanic Drive",
+    "suburb": "Warana",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 2500000,
+    "priceLabel": "Guide from $2.5M",
+    "landSize": 546,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanic Drive front-row address",
+      "Directly opposite beach access",
+      "546m2 north-facing coastal block",
+      "Renovated beachside home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Warana listing verified 27 Jun 2026 from the exact direct listing URL and targeted Warana Oceanic Drive search. The listing advertises Guide from $2.5M, 546m2 land, an Oceanic Drive position directly opposite beach access, renovated beachside home and north-facing outdoor living, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/4495eec9180700207f5187b973679caeb183d78d212c32ed010485f15c21a9d7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4495eec9180700207f5187b973679caeb183d78d212c32ed010485f15c21a9d7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-warana-151440396",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bokarina-215-oceanic",
+    "title": "215 Oceanic Drive",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 4000000,
+    "priceLabel": "$4,000,000",
+    "landSize": 559,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanic Drive front-row address",
+      "Beach access opposite",
+      "559m2 coastal block",
+      "Modern beachside home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bokarina listing verified 28 Jun 2026 from the exact direct listing URL and Bokarina suburb result. The page advertises $4,000,000, a 559m2 Oceanic Drive home opposite Bokarina Beach access with four bedrooms, pool and coastal entertaining, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/25f17db517dfae01e5793724c8374efb1dfc47cbb973099c125a1f76d12bc159/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/25f17db517dfae01e5793724c8374efb1dfc47cbb973099c125a1f76d12bc159/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bokarina-151318828",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bokarina-219-oceanic",
+    "title": "219 Oceanic Drive",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 3195000,
+    "priceLabel": "$3,195,000",
+    "landSize": 555,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row Oceanic Drive setting",
+      "Opposite beach reserve access",
+      "555m2 coastal block",
+      "Dual-living beachside house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bokarina listing verified 28 Jun 2026 from the exact direct listing URL and Bokarina suburb result. The listing advertises $3,195,000, 555m2 land, a tightly held Oceanic Drive beachside position opposite Bokarina Beach access and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/887b6f22a903f5dc664e2fb1f859202c4ed579fa8d81afc6632a02a517de62e2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/887b6f22a903f5dc664e2fb1f859202c4ed579fa8d81afc6632a02a517de62e2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bokarina-151423460",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bokarina-221-oceanic",
+    "title": "221 Oceanic Drive",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 4650000,
+    "priceLabel": "$4,650,000",
+    "landSize": 555,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanic Drive beach-facing address",
+      "Beach access and reserve opposite",
+      "555m2 coastal landholding",
+      "High-end new beach house"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bokarina listing verified 28 Jun 2026 from the exact direct listing URL and Bokarina suburb result. The listing advertises $4,650,000, 555m2 land and a luxury Oceanic Drive home directly opposite Bokarina Beach access and reserve, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/fa6b4617115ee960a78c9967bd2aa9e4dbd289be13f0a848a97f770ce1943c75/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fa6b4617115ee960a78c9967bd2aa9e4dbd289be13f0a848a97f770ce1943c75/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bokarina-151423468",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bokarina-2801-19-kombi",
+    "title": "2801/19 Kombi Street",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oasis Bokarina beachfront precinct",
+      "Direct beach and coastal-path access",
+      "High-floor ocean-view apartment",
+      "Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bokarina listing verified 28 Jun 2026 from the exact direct listing URL and Bokarina suburb result. The listing advertises a north-facing Azzure penthouse across approximately 289sqm, literally footsteps to dining, beach and parks, with ocean and hinterland views, rooftop terrace, pool and resort facilities. Price is set to null because no usable public guide price was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/7825345e98271bed11479b8c603f3f706336fd30f1e50ec3c5f5e996fa22922c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7825345e98271bed11479b8c603f3f706336fd30f1e50ec3c5f5e996fa22922c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-bokarina-151586528",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-bokarina-1701-19-kombi",
+    "title": "1701 Azzure/19 Kombi Street",
+    "suburb": "Bokarina",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 2395000,
+    "priceLabel": "$2,395,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Azzure beachfront precinct",
+      "Ocean-view apartment",
+      "Steps to Bokarina sand",
+      "Rooftop and resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Bokarina listing verified 28 Jun 2026 from the exact direct listing URL and Bokarina beachfront search. The listing advertises $2,395,000 for a three-bedroom Azzure apartment in the beachfront Bokarina Beach precinct, with ocean views and immediate access to the beach, coastal path, cafes and resort facilities, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/6381c4b71c7313d2c0d86d60a41447244a927f0fc4e4c65f6d47489d0be88a4e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6381c4b71c7313d2c0d86d60a41447244a927f0fc4e4c65f6d47489d0be88a4e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-bokarina-151439664",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-9b-969-gold-coast",
+    "title": "9B/969 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 2000000,
+    "priceLabel": "Offers Over $2,000,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct beach access",
+      "Currumbin Sands building",
+      "Ocean and estuary views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises an absolute beachfront Currumbin Sands apartment with direct beach access, ocean and estuary views, resort facilities and Offers Over $2,000,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/c5224a2e3160ec724f26527efc903f86022ee7dc4d795c92226d4647d4f0dd49/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c5224a2e3160ec724f26527efc903f86022ee7dc4d795c92226d4647d4f0dd49/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151230068",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-37-955-gold-coast",
+    "title": "37/955 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1649000,
+    "priceLabel": "Submit Offers Above $1,649,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct sand access",
+      "Currumbin Sands resort",
+      "Ocean and estuary outlook"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises Currumbin Sands absolute beachfront positioning, direct access to the sand and resort facilities, with Submit Offers Above $1,649,000 and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151294484",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-45-955-gold-coast",
+    "title": "45/955 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 2495000,
+    "priceLabel": "Offers Over $2,495,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct sand access",
+      "Ocean and estuary views",
+      "Resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises Currumbin Sands absolute beachfront living with direct beach access, ocean and estuary views and Offers Over $2,495,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e0440232a053eea237754ed98c393c1b54cb2f91c5db143a55c1b172d000dcf9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151288488",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-8e-973-gold-coast",
+    "title": "8E/973 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1150000,
+    "priceLabel": "Offers Over $1,150,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Royal Palm beachfront tower",
+      "Direct beach access",
+      "Ocean and estuary views",
+      "Resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises Royal Palm Resort beachfront living with direct beach access, ocean and Currumbin Creek outlooks, resort facilities and Offers Over $1,150,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/f85cd35fb7d28647d13b0fa3e0b0280a76609e807a8c24547cf8a01f17aef2db/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f85cd35fb7d28647d13b0fa3e0b0280a76609e807a8c24547cf8a01f17aef2db/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151363236",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-8-77-jefferson",
+    "title": "8/77 Jefferson Lane",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1390000,
+    "priceLabel": "Offers Over $1,390,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jefferson Lane beachside address",
+      "Metres to sand",
+      "Ocean views",
+      "Boutique building"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises an east-facing Jefferson Lane apartment only metres from the sand with ocean views and Offers Over $1,390,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/4bc75b6482799cb5f1a637d6b07d6c7cad893f5c372be4c4d3ef179f300ac169/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4bc75b6482799cb5f1a637d6b07d6c7cad893f5c372be4c4d3ef179f300ac169/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150894660",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-1-102-jefferson",
+    "title": "1/102 Jefferson Lane",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 2800000,
+    "priceLabel": "Offers Over $2,800,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jefferson Lane front-row address",
+      "Opposite beachfront park",
+      "Ocean views",
+      "Beachside duplex"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises a Jefferson Lane duplex directly opposite the beachfront park with uninterrupted ocean views, beachside positioning and Offers Over $2,800,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e28a3d5ecc48745901f0f9a120827309d8e8c33945ddf35dc859261b596db34a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e28a3d5ecc48745901f0f9a120827309d8e8c33945ddf35dc859261b596db34a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-duplex%2Bsemi-detached-qld-palm%2Bbeach-151010388",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-404-124-126-jefferson",
+    "title": "404/124-126 Jefferson Lane",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jefferson Lane beachside address",
+      "Sable on Palm Beach",
+      "Near sand and surf",
+      "Ocean-view apartment"
+    ],
+    "status": "active",
+    "notes": "Active Homely Palm Beach listing verified 28 Jun 2026 from the exact direct listing URL and targeted Jefferson Lane search. The listing advertises a Sable on Palm Beach apartment at 124-126 Jefferson Lane with beachside positioning, ocean-oriented outlook and contact-agent pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://images.homely.com.au/v2/images/c6b7035b-06e8-4c48-b4de-7178f4bc4f0c",
+    "images": [
+      "https://images.homely.com.au/v2/images/c6b7035b-06e8-4c48-b4de-7178f4bc4f0c"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/404-124-126-jefferson-lane-palm-beach-qld-422/11822130",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-60-3554-main-beach",
+    "title": "60/3554 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 2200000,
+    "priceLabel": "$2.2M",
+    "landSize": 174,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach position",
+      "Opposite patrolled beach",
+      "Ocean-facing Main Beach Parade address",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and Main Beach suburb result. The listing advertises a 174m2 Xanadu East apartment directly opposite the patrolled Main Beach, with ocean-facing Main Beach Parade positioning and $2.2M pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/5ff925704477c089fb5a7eb20b61e5ee1542ee5e7887f2a6d3b1b60ffc818fda/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5ff925704477c089fb5a7eb20b61e5ee1542ee5e7887f2a6d3b1b60ffc818fda/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151171484",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-9-3478-main-beach",
+    "title": "9/3478 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 4990000,
+    "priceLabel": "$4,990,000",
+    "landSize": 270,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach position",
+      "Never-to-be-built-out beachside address",
+      "Ocean and Broadwater views",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and Main Beach suburb result. The listing advertises the Main Beach Parade apartment with 270m2 of living, ocean and Broadwater views and a beachfront/front-row address across from the sand, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/7e16d89bf83efb81c638b3ec2ce66b8db314b2fab986f64c343ba47cdd58e929/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7e16d89bf83efb81c638b3ec2ce66b8db314b2fab986f64c343ba47cdd58e929/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-150723148",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-3496-main-beach-parade",
+    "title": "3496 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1990000,
+    "priceLabel": "$1,990,000",
+    "landSize": 129,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach address",
+      "Opposite the ocean",
+      "Midwater Main Beach",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and Main Beach suburb result. The listing advertises Midwater at 3496 Main Beach Parade as a world-class beachfront address positioned opposite the ocean, with $1,990,000 pricing for the 129m2 two-bedroom residence and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/249af2d82ca3afce5fc42a8f24427c2edb8321e01b70af981d33780518ff65d0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/249af2d82ca3afce5fc42a8f24427c2edb8321e01b70af981d33780518ff65d0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-133735674",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-116-3554-main-beach",
+    "title": "116/3554 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 309,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach position",
+      "Opposite patrolled beach",
+      "Ocean views",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and Main Beach suburb result. The listing advertises a 309m2 Xanadu East apartment directly opposite the patrolled Main Beach with ocean views and Main Beach Parade frontage, contact-agent pricing and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/452c80da216c6b7536ddd56ef59f429d320eb3105cb1890a477e8124e85915f2/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/452c80da216c6b7536ddd56ef59f429d320eb3105cb1890a477e8124e85915f2/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-150075372",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-11-3554-main-beach",
+    "title": "11/3554 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1600000,
+    "priceLabel": "Submit Offers Above $1,600,000",
+    "landSize": 141,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach position",
+      "Directly across from Main Beach",
+      "Xanadu East resort",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and Main Beach suburb result. The listing advertises Xanadu East positioning directly across from the beach, a 141m2 floorplan and Submit Offers Above $1,600,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/dd22d70001ca0de63090a4a60c2bf2cb4cd6e597144f00081838534518ed8b58/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/dd22d70001ca0de63090a4a60c2bf2cb4cd6e597144f00081838534518ed8b58/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151567424",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-38-3576-main-beach",
+    "title": "38/3576 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-06-10",
+    "price": 1600000,
+    "priceLabel": "Offers Over $1,600,000",
+    "landSize": 115,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Front-row beach road address",
+      "Sweeping ocean views",
+      "Carrington Court",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL and targeted Main Beach Parade search. The listing was published 10 Jun 2026, advertises sweeping ocean views from the Main Beach Parade apartment and Offers Over $1,600,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/f05110da9e155f4dafd6811b2674b28e09dc9ee4bcb7e2c100f771001f50748a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f05110da9e155f4dafd6811b2674b28e09dc9ee4bcb7e2c100f771001f50748a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151450204",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-le-reve-half-floor",
+    "title": "Le Reve Luxury Half Floor Residence",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 7450000,
+    "priceLabel": "From $7,450,000",
+    "landSize": 292,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No roads to sand",
+      "Direct beach frontage",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL, project page and targeted Le Reve search. The listing advertises a 292m2 half-floor residence at 3555 Main Beach Parade with 30m of direct beachfront, no roads, sand and surf at the doorstep, uninterrupted ocean views, resort amenities and construction commenced, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/6194124a5d40f1cdcbf3e63f224341903d3d504107273f957041feb9329d5ce9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6194124a5d40f1cdcbf3e63f224341903d3d504107273f957041feb9329d5ce9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-149778600",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-le-reve-full-floor",
+    "title": "Le Reve Expansive Full Floor Residence",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 16100000,
+    "priceLabel": "From $16,100,000",
+    "landSize": 572,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No roads to sand",
+      "Full-floor residence",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 28 Jun 2026 from the exact direct listing URL, project page and targeted Le Reve search. The listing advertises a 572m2 full-floor residence at 3555 Main Beach Parade in an absolute beachfront project with 30m of direct beach frontage, no roads or pathways between the building and the beach, uninterrupted ocean views, resort amenities and construction commenced, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/69dc7a8d2a342fe04e01c7a5f4863849b8303e46fe0ddeb4a1fee5ccf34b964d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/69dc7a8d2a342fe04e01c7a5f4863849b8303e46fe0ddeb4a1fee5ccf34b964d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-149779028",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-5-116-esplanade",
+    "title": "5/116 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front row",
+      "Never-to-be-built-out ocean views",
+      "Opposite Surfers Paradise Beach",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises a beachfront apartment on The Esplanade with uninterrupted, never-to-be-built-out ocean views and immediate beach-front positioning, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/43d55a63bd72d6f7ad71c24f624f84c9313b468047c10acfe80e0a0aeff49594/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/43d55a63bd72d6f7ad71c24f624f84c9313b468047c10acfe80e0a0aeff49594/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-149868740",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-1102-9-11-garfield",
+    "title": "1102/9-11 Garfield Terrace",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 4775000,
+    "priceLabel": "From $4,775,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No-road beach access",
+      "Direct sand access",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises an absolute beachfront apartment with no road to cross, direct access to the sand, uninterrupted ocean views and pricing from $4,775,000, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/a86994b2ca8cfbd89fbd3ee5aa1f1993a873034a62e1de01e342e6f38179a38f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a86994b2ca8cfbd89fbd3ee5aa1f1993a873034a62e1de01e342e6f38179a38f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-145317184",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-2001-9-11-garfield",
+    "title": "2001/9-11 Garfield Terrace",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 5590000,
+    "priceLabel": "$5,590,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No-road beach access",
+      "Direct sand access",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises an absolute beachfront apartment with no road to cross, direct access to the sand, uninterrupted ocean views and $5,590,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/a86994b2ca8cfbd89fbd3ee5aa1f1993a873034a62e1de01e342e6f38179a38f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a86994b2ca8cfbd89fbd3ee5aa1f1993a873034a62e1de01e342e6f38179a38f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-145317164",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-31-26-esplanade",
+    "title": "31/26 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 319,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front row",
+      "Beachfront penthouse",
+      "319m2 whole-floor apartment",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises a beachfront whole-floor penthouse on The Esplanade opposite Surfers Paradise Beach, with 319m2 floor area and contact-agent pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/a50654537295b883098f5e0c6d5f5524895da95e06c7ffc6285b5af7af5aa00d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a50654537295b883098f5e0c6d5f5524895da95e06c7ffc6285b5af7af5aa00d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150587428",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-6301-4-esplanade",
+    "title": "6301/4 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 13750000,
+    "priceLabel": "$13,750,000",
+    "landSize": 1059,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Soul beachfront address",
+      "The Esplanade front row",
+      "1059m2 penthouse",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and suburb result page. The listing advertises a beachfront Soul penthouse on The Esplanade with 1059m2 of living, panoramic ocean views and $13,750,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/69e0912da82eab676989c8401a2ef6b894a0942c422267b14130170c6486de4d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/69e0912da82eab676989c8401a2ef6b894a0942c422267b14130170c6486de4d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-146906984",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-09-61-garfield",
+    "title": "09/61 Garfield Terrace",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1650000,
+    "priceLabel": "$1,650,000+",
+    "landSize": 133,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront apartment",
+      "Garfield Terrace beach row",
+      "133m2 floorplan",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and targeted beachfront search. The listing advertises a beachfront Garfield Terrace apartment with 133m2 floor area, ocean views and $1,650,000+ pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/1fa40cf57fd1ae64d02c80194c023971703d14edaac7b712140be6f4582d527f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1fa40cf57fd1ae64d02c80194c023971703d14edaac7b712140be6f4582d527f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-149991452",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-17-116-esplanade",
+    "title": "17/116 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 2295000,
+    "priceLabel": "$2,295,000",
+    "landSize": 167,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front row",
+      "Beachfront building",
+      "167m2 apartment",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and targeted beachfront search. The listing advertises a Beachpoint apartment on The Esplanade in a beachfront building, with 167m2 floor area and $2,295,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/d0572384613864dfc3a13366f8e82f362a75542f43b3cd56c7bf0c62aa95cf79/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d0572384613864dfc3a13366f8e82f362a75542f43b3cd56c7bf0c62aa95cf79/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-151025964",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-74-74-86-old-burleigh",
+    "title": "74/74-86 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 4395000,
+    "priceLabel": "$4,395,000",
+    "landSize": 243,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Direct beach access",
+      "243m2 luxury apartment",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and targeted absolute beachfront search. The listing advertises a Pacific Point apartment with absolute beachfront positioning, direct beach access, 243m2 floor area and $4,395,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/4f7e1950a191773893a0d8cff67475d80565ee6afcc93208b6f931da1e5180dc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4f7e1950a191773893a0d8cff67475d80565ee6afcc93208b6f931da1e5180dc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-151236808",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-13-1-enderley",
+    "title": "13/1 Enderley Avenue",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1495000,
+    "priceLabel": "Offers Over $1,495,000",
+    "landSize": 245,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No roads to cross",
+      "Private beach access",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and targeted beachfront search. The listing advertises an absolute beachfront apartment in The Acapulco with private beach access, no roads to cross, 245m2 floor area and offers over $1,495,000 pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/ce485f35c63c1c0fd5c8625187ab274e40655c78742d2d91aebd0a4f252db11e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ce485f35c63c1c0fd5c8625187ab274e40655c78742d2d91aebd0a4f252db11e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150712020",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-54-26-esplanade",
+    "title": "54/26 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 480,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front row",
+      "Beachfront penthouse",
+      "480m2 whole-floor apartment",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 28 Jun 2026 from the exact direct listing URL and targeted beachfront search. The listing advertises a whole-floor beachfront penthouse at Focus on The Esplanade, directly across from Surfers Paradise Beach, with 480m2 floor area and contact-agent pricing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/bf79cfacac123476291f47e401f97694d6c8096c35aad58391d00dc719f93652/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/bf79cfacac123476291f47e401f97694d6c8096c35aad58391d00dc719f93652/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150245748",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-3-82-esplanade",
+    "title": "3/82 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-05-28",
+    "price": 1499000,
+    "priceLabel": "Offers Over $1,499,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade beachfront strip",
+      "Wyuna building opposite Burleigh Beach",
+      "Ground-level north-facing apartment",
+      "Resort pool and garden setting"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a north-facing ground-level apartment in Wyuna at 82 The Esplanade, directly opposite Burleigh Beach, with ocean-view garden surrounds, pool amenity and secure parking. No land or building size was published on the direct page, so price per sqm is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/d5cc2560a4055a8599185bd80932cbad9ad55a114c455a7dacb84045702c970d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d5cc2560a4055a8599185bd80932cbad9ad55a114c455a7dacb84045702c970d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-151333048",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-54-72-esplanade",
+    "title": "54/72 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-10",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Boardwalk Burleigh beachfront building",
+      "Direct beachfront position",
+      "Ocean-facing three-bedroom apartment",
+      "Resort pool, spa and gym facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a three-bedroom apartment in Boardwalk Burleigh at 72 The Esplanade with direct beachfront positioning, beach access from the resort grounds, ocean outlooks and resort facilities. The page shows auction pricing and no land or building size.",
+    "image": "https://i2.au.reastatic.net/800x600/e604cc7a3e3ead332313d20fdd53269a541228372c3f1c9b33c8566b6bc656df/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e604cc7a3e3ead332313d20fdd53269a541228372c3f1c9b33c8566b6bc656df/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151309896",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-1052-2-14-esplanade",
+    "title": "1052/2-14 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Expressions of Interest closing 5 July",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ambience beachfront tower",
+      "Level-10 ocean and headland views",
+      "Steps to Burleigh Beach",
+      "Resort pools, gym, spa and sauna"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and targeted Esplanade search. The listing advertises a level-10 Ambience apartment at 2-14 The Esplanade with ocean, headland and hinterland views, beachfront lifestyle positioning and resort facilities. The page uses expressions-of-interest pricing and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/9dabb467c61dddf67d8827af166b9c22a8e58c59bd4b98a60e4b6d13b2985017/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/9dabb467c61dddf67d8827af166b9c22a8e58c59bd4b98a60e4b6d13b2985017/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151452084",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-3-44-esplanade",
+    "title": "3/44 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 2000000,
+    "priceLabel": "Offers Over $2,000,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front-row address",
+      "Directly across from Burleigh Beach",
+      "Boutique Sandpiper apartment",
+      "Ocean and headland views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a Sandpiper apartment at 44 The Esplanade directly across from Burleigh Beach, with ocean, skyline and headland views, balcony, secure car space and immediate beach proximity. No land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/1b9c390775f354d7c23c0af78c91b420ad957694a9fc7cb248516da77741ac7f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1b9c390775f354d7c23c0af78c91b420ad957694a9fc7cb248516da77741ac7f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-151309004",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-1603-2-14-esplanade",
+    "title": "1603/2-14 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Offers to purchase",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ambience beachfront tower",
+      "Level-16 ocean panorama",
+      "Steps to Burleigh Beach",
+      "Resort pools, gym and sauna"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and targeted Esplanade search. The listing advertises an Ambience apartment at 2-14 The Esplanade with elevated beach, coastline and hinterland views, beachfront lifestyle positioning, two side-by-side car spaces and resort facilities. The page asks for offers to purchase and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/e35ade32cb1bd3805333476104e3218ba6911965dc659623a20a3e4bc29fa3e4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e35ade32cb1bd3805333476104e3218ba6911965dc659623a20a3e4bc29fa3e4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-150423976",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-30-146-esplanade",
+    "title": "30/146 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Expression of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade beachfront strip",
+      "Solnamara building opposite the sand",
+      "North-east ocean outlook",
+      "Walk to Burleigh village"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a Solnamara apartment at 146 The Esplanade opposite Burleigh Beach, with ocean views, private balcony, resort-style facilities and walkable access to James Street and Burleigh Pavilion. The page uses expression-of-interest pricing and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/df8be9928a88925323b1d866e3d0a69a79b4fcd7f69ec2c5a90aca221928d67c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/df8be9928a88925323b1d866e3d0a69a79b4fcd7f69ec2c5a90aca221928d67c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-150719016",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-30-202-esplanade",
+    "title": "30/202 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1900000,
+    "priceLabel": "Offers over $1,900,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade oceanfront address",
+      "Swell Resort directly opposite beach",
+      "Ocean and coastal views",
+      "Resort pool, spa, gym and tennis court"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a renovated Swell Resort apartment at 202 The Esplanade directly opposite Burleigh Beach, with ocean and skyline views, resort amenities and short-stay or owner-occupier appeal. No land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/cb3d6c134b588f626d52f2f3359dcb194f636291586f90c70f3a29994750b60c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/cb3d6c134b588f626d52f2f3359dcb194f636291586f90c70f3a29994750b60c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-151293144",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-41-202-esplanade",
+    "title": "41/202 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Expression of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Swell Resort Esplanade position",
+      "Opposite Burleigh Beach",
+      "Level-10 ocean-facing apartment",
+      "Resort pool, tennis court and gym"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and The Esplanade suburb result page. The listing advertises a level-10 Swell Resort apartment at 202 The Esplanade opposite Burleigh Beach, with ocean and hinterland views, large balcony and resort facilities. The page uses expression-of-interest pricing and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/ef6783fc3d3ddbf18142453ade050dd457f14b59776ccff9f6dab3f4bba84224/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ef6783fc3d3ddbf18142453ade050dd457f14b59776ccff9f6dab3f4bba84224/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-150103548",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-405-58-esplanade",
+    "title": "405/58 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Mondrian Gold Coast beachside address",
+      "The Esplanade front-row position",
+      "Ocean-view luxury apartment",
+      "Hotel amenity and Burleigh village access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and Domain cross-check. The listing advertises a Mondrian Gold Coast apartment at 58 The Esplanade, metres from Burleigh Beach, with ocean views, hotel-style amenity and walkable James Street access. The page shows contact-agent pricing and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/b50530877fd53fbab80f928a4b8c3b61c37859a913844a783aee0f05b7f33352/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b50530877fd53fbab80f928a4b8c3b61c37859a913844a783aee0f05b7f33352/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-149296684",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-burleigh-heads-17-72-esplanade",
+    "title": "17/72 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-22",
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Boardwalk Burleigh beachfront building",
+      "Direct beach access",
+      "Ocean-facing renovated apartment",
+      "Resort pool, spa, gym and gardens"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Burleigh Heads listing verified 28 Jun 2026 from the exact direct listing URL and targeted Esplanade search. The listing advertises a renovated Boardwalk Burleigh apartment at 72 The Esplanade with direct beach access, ocean views, resort pool, spa, gym and landscaped grounds. The page shows contact-agent pricing and no land or building size was published.",
+    "image": "https://i2.au.reastatic.net/800x600/6fd70f3b77b1b38ef2b92d56269c59e4a937d1a5705f1e873cb96c24779293fe/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6fd70f3b77b1b38ef2b92d56269c59e4a937d1a5705f1e873cb96c24779293fe/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151557080",
+    "listingCategory": "beachfront"
   }
 ];
 
-const databaseUpdatedAt = "2026-06-27 00:22";
+const databaseUpdatedAt = "2026-06-28 01:07";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
