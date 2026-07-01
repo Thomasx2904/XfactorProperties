@@ -7903,6 +7903,164 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-kingscliff-5-224-marine",
+    "title": "5/224 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": 5950000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Marine Parade front row",
+      "Ocean breezes",
+      "Full-floor sky home",
+      "Boutique VANA development"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff VANA listing verified 30 Jun 2026 from the exact direct listing URL, advertised as a boutique coastal residence at 224 Marine Parade with DA approval, only six residences, ocean breezes and completion anticipated mid 2027. Price is advertised as $5.950M; published 283sqm is building size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600/e3bb21bce5dd03362a080176a5d4eef553ce9d2733d36f7714c73cbf4ea8c552/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e3bb21bce5dd03362a080176a5d4eef553ce9d2733d36f7714c73cbf4ea8c552/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-kingscliff-150599284"
+  },
+  {
+    "id": "nsw-kingscliff-2-224-marine",
+    "title": "2/224 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": 2595000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Marine Parade front row",
+      "Ocean views",
+      "Raised ground-floor residence",
+      "Boutique VANA development"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff VANA listing verified 30 Jun 2026 from the exact direct listing URL, advertised as a boutique coastal residence at 224 Marine Parade with ocean views, coastal breezes, DA approval and estimated completion in Sept/Oct 2027. Price is advertised as $2,595,000; no land-size figure was published.",
+    "image": "https://i2.au.reastatic.net/800x600/e0063c59bcbf84983179df166794becba09f2d74daf65725a377a6cdaf9240b4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e0063c59bcbf84983179df166794becba09f2d74daf65725a377a6cdaf9240b4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-150603416"
+  },
+  {
+    "id": "nsw-kingscliff-4206-07-9-gunnamatta",
+    "title": "4206-07/9 Gunnamatta Avenue",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": 640000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra on Salt Beach",
+      "Direct beach access",
+      "Dual-key apartment",
+      "Beachfront resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff Mantra Salt listing verified 30 Jun 2026 from the exact direct listing URL, advertised as a dual-key apartment in a beachfront resort with lagoon pools, spa, gym, tennis courts and direct beach access. Price is advertised as $640,000; 106sqm is building size, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600/47d9c439b74519371b74a8d2a0fdeefd83cfde69e5658532bb1ad0373a298e76/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/47d9c439b74519371b74a8d2a0fdeefd83cfde69e5658532bb1ad0373a298e76/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-151342756"
+  },
+  {
+    "id": "nsw-kingscliff-94-marine",
+    "title": "94 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": null,
+    "landSize": 554,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront Marine Parade freehold",
+      "Front-row ocean views",
+      "Mixed commercial and residential income",
+      "Dual street frontage"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff mixed-use freehold listing verified 30 Jun 2026 from the exact direct listing URL, advertised as a prime beachfront Marine Parade holding opposite Central Park with dual street frontage, ocean-view residential apartment and circa $161,000 annual holding income. Price is advertised as contact agent.",
+    "image": "https://i2.au.reastatic.net/800x600/4e6dabadb96ae9a411cb7647ff010dc36d75cf7277716a636402bb8089c03da3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/4e6dabadb96ae9a411cb7647ff010dc36d75cf7277716a636402bb8089c03da3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unitblock-nsw-kingscliff-140636455"
+  },
+  {
+    "id": "nsw-kingscliff-224-78-80-marine",
+    "title": "224/78-80 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-17",
+    "price": 900000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Paradiso beachfront village",
+      "Across from beach and surf club",
+      "Resort amenities",
+      "Freshly refurbished"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff Paradiso listing verified 30 Jun 2026 from the exact direct listing URL, advertised in Kingscliff's beachfront village with the beach, surf club, Rowan Robinson Park and Cudgen Creek across the road or at the doorstep. Price is the midpoint of the $880,000 - $920,000 guide.",
+    "image": "https://i2.au.reastatic.net/800x600/0d7597526010c286f15827e005e4d40d80056a4310334a5755c4d847872f2f24/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0d7597526010c286f15827e005e4d40d80056a4310334a5755c4d847872f2f24/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-151509320"
+  },
+  {
+    "id": "nsw-kingscliff-108-78-80-marine",
+    "title": "108/78-80 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-16",
+    "price": 890000,
+    "landSize": 118,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Steps to Kingscliff Beach",
+      "Beachside village position",
+      "Paradiso resort amenities",
+      "Ground-floor apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff Paradiso listing verified 30 Jun 2026 from the exact direct listing URL, advertised as a ground-floor apartment in the heart of Kingscliff Village with steps to Kingscliff Beach, cafes, clubs, supermarket and resort facilities. Price is the midpoint of the $880,000 - $900,000 guide.",
+    "image": "https://i2.au.reastatic.net/800x600/38545b582449e4f52191fd34267a646c64a2b570991a784399206ef8d20daf62/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/38545b582449e4f52191fd34267a646c64a2b570991a784399206ef8d20daf62/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-151498704"
+  },
+  {
     "id": "vic-aspendale-80-nepean",
     "title": "80 Nepean Highway",
     "suburb": "Aspendale",
@@ -15771,6 +15929,63 @@ const sampleProperties = [
     "investmentStar": false
   },
   {
+    "id": "nsw-pottsville-4-4-boronia",
+    "title": "4/4 Boronia Avenue",
+    "suburb": "Pottsville",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-09",
+    "price": 760000,
+    "priceLabel": "$750,000 - $770,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly across from beach",
+      "Beachfront street",
+      "Village walk",
+      "Renovation upside"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL and Pottsville portal search. The listing advertises a two-bedroom apartment positioned directly across from the beach, step-across-road beach access, walking distance to Pottsville Village and estuary, and renovation/investment upside. No individual land or block size is published on the exact listing, so land size is left as TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/02051735f410d547850ad0d04b3700ea49b6f42ff48b01ceb93d97a106ba75a7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/02051735f410d547850ad0d04b3700ea49b6f42ff48b01ceb93d97a106ba75a7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-pottsville-151435244",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-pottsville-13-elanora",
+    "title": "13 Elanora Ave",
+    "suburb": "Pottsville",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": null,
+    "priceLabel": "Price/development/joint venture by negotiation",
+    "landSize": 1094,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct pedestrian beach access",
+      "Creek and beach views",
+      "Elevated R3 land",
+      "Development potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL and Pottsville portal page 2 result, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 1,094sqm of elevated R3 land, steps to the estuary and beach, direct pedestrian access to the creek and beach, beach, creek and estuary views, and potential for luxury houses, apartments, units or terraces. Price is by negotiation/development/joint venture, so numeric price is left null.",
+    "image": "https://i2.au.reastatic.net/800x600/87f272ab440e466071b766211502df001d296717834341f6d2a036a506ee464b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/87f272ab440e466071b766211502df001d296717834341f6d2a036a506ee464b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-nsw-pottsville-203207154",
+    "investmentStar": false
+  },
+  {
     "id": "qld-blacks-beach-21-coral",
     "title": "21 Coral Drive",
     "suburb": "Blacks Beach",
@@ -21201,8 +21416,8 @@ const sampleProperties = [
       "Direct sand position",
       "Holiday letting option"
     ],
-    "status": "under_contract",
-    "notes": "Hidden after the 22 May 2026 Cabarita Beach sweep. The exact realestate.com.au listing now shows Under Contract and Under offer, and the matching Domain listing also shows Under Contract / Under offer. Previously advertised as absolute beachfront living at The Beach Resort, positioned directly on the golden sands of Cabarita Beach. Land size not published for the strata apartment.",
+    "status": "sold",
+    "notes": "Hidden after the 30 Jun 2026 Cabarita Beach sweep. The exact realestate.com.au listing now shows sold. Previously advertised as absolute beachfront living at The Beach Resort, positioned directly on the golden sands of Cabarita Beach. Land size not published for the strata apartment.",
     "image": "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/7dbf8b286a27b9ae995b4c3f14d596a50b60b51e5a1f2a101efbe8e6ce70c876/image.jpg",
@@ -32053,8 +32268,8 @@ const sampleProperties = [
       "Prestige apartment",
       "Front-row Pacific Parade"
     ],
-    "status": "active",
-    "notes": "Active Domain listing for the first available residence inside Perspective 202, advertised as a two-level penthouse on the tightly held Bilinga beachfront with sweeping coastline views. Price is advertised as auction/contact agent.",
+    "status": "sold",
+    "notes": "Previously active Domain listing for the first available residence inside Perspective 202, advertised as a two-level penthouse on the tightly held Bilinga beachfront with sweeping coastline views. Rechecked during the Bilinga sweep on 30 Jun 2026; the current realestate.com.au Bilinga suburb results show 5/202 Pacific Parade in the recent sold section, sold on 3 Jun 2026.",
     "image": "https://rimh2.domainstatic.com.au/cXs-MOkJTSlxUvqxvcGdao5nbtM%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020792376_1_1_260427_075710-w6240-h4160",
     "images": [
       "https://rimh2.domainstatic.com.au/cXs-MOkJTSlxUvqxvcGdao5nbtM%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020792376_1_1_260427_075710-w6240-h4160",
@@ -32909,6 +33124,117 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/5ced99d1111014f04edda337802f5baa6feea0683c1859eb8899af024b8cc913/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-150743468"
+  },
+  {
+    "id": "qld-bilinga-2-315-golden-four",
+    "title": "2/315-317 Golden Four Drive",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 20,
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": 105,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No road",
+      "Direct sand access",
+      "Boutique Bilinga apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL. The listing advertises a rare absolute beachfront residence on the sands of Bilinga, north-facing beachside outlooks, and no-road beachfront positioning in the Casa Del Rey building. Price is contact agent and the exact listing page shows 105sqm.",
+    "image": "https://i2.au.reastatic.net/800x600/0461908b5703ae264aef8df6bc8bceebf9b0f7ec13eaefed9f1d33d6f36bd61e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0461908b5703ae264aef8df6bc8bceebf9b0f7ec13eaefed9f1d33d6f36bd61e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-bilinga-151331484"
+  },
+  {
+    "id": "qld-bilinga-3-307-golden-four",
+    "title": "3/307 Golden Four Drive",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 5,
+    "price": 4800000,
+    "priceLabel": "$4.8m",
+    "landSize": 261,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beachfront",
+      "No road",
+      "Direct beach access",
+      "New Blonde Bilinga residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL. The listing advertises a direct beachfront address at 307 Golden Four Drive, no road between the property and sand, direct beach access, north-facing beach frontage, and a new Blonde Bilinga apartment with 261sqm shown on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/17e54cae661f3837dbbb8852b37b7975582dd48a9b2ed489c157179344b0f5f4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/17e54cae661f3837dbbb8852b37b7975582dd48a9b2ed489c157179344b0f5f4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-151557024"
+  },
+  {
+    "id": "qld-bilinga-1-307-golden-four",
+    "title": "1/307 Golden Four Drive",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 5,
+    "price": 5800000,
+    "priceLabel": "$5.8m",
+    "landSize": 406,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beachfront",
+      "No road",
+      "Direct beach access",
+      "Oversized garden apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL. The listing advertises a direct beachfront garden apartment at 307 Golden Four Drive, no road between the residence and the sand, direct beach access, and a new Blonde Bilinga residence with 406sqm shown on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/e211d17d1313df76c56a5b1841680307f614c98ea8e146a568d22d8da26bd1f1/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e211d17d1313df76c56a5b1841680307f614c98ea8e146a568d22d8da26bd1f1/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-151556804"
+  },
+  {
+    "id": "qld-bilinga-26-pacific",
+    "title": "26 Pacific Parade",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": 506,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront Pacific Parade house",
+      "Direct beach access",
+      "No-road sand frontage",
+      "Large six-bedroom coastal home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 30 Jun 2026 from the exact direct listing URL. The current listing page shows 26 Pacific Parade as a for-sale Bilinga house with contact-agent price, six bedrooms and six bathrooms; portal property data shows 506sqm land. The Pacific Parade beachfront address and current listing imagery support a no-road beach frontage position with direct coastal access.",
+    "image": "https://i2.au.reastatic.net/800x600/7ac301740211649ca8dba5b64fc624dd36fd85d23290bb3c343df18351c07a8a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7ac301740211649ca8dba5b64fc624dd36fd85d23290bb3c343df18351c07a8a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-bilinga-144975392"
   },
   {
     "id": "qld-bramston-beach-64-evans",
@@ -52524,8 +52850,8 @@ const sampleProperties = [
       "Private rooftop pool",
       "Ocean and parkland views"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Coolangatta apartment listing in Nirvana by the Sea, advertised as a sophisticated beachfront apartment directly opposite Kirra Beach with ocean, parkland and hinterland views, a private rooftop pool and a 239m2 floorplan. Auction listed for 29 May 2026 with no price guide.",
+    "status": "sold",
+    "notes": "Realestate.com.au Coolangatta apartment listing in Nirvana by the Sea, advertised as a sophisticated beachfront apartment directly opposite Kirra Beach with ocean, parkland and hinterland views, a private rooftop pool and a 239m2 floorplan. Current suburb result page shows this property sold on 29 May 2026.",
     "image": "https://i2.au.reastatic.net/800x600/7307695fc596099c1800bc9fdbf93d6a992ea9c1ed7b9d8d4a88c1d9eac1e631/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/7307695fc596099c1800bc9fdbf93d6a992ea9c1ed7b9d8d4a88c1d9eac1e631/image.jpg",
@@ -52592,8 +52918,8 @@ const sampleProperties = [
       "Two-level penthouse",
       "Panoramic ocean views"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Coolangatta apartment listing in Kirra Surf Apartments, advertised as a two-level beachfront penthouse with uninterrupted ocean views over Kirra Beach, direct access to Kirra Beach from the leisure area, resort facilities and three side-by-side car parks. Price is advertised as Contact Agent.",
+    "status": "sold",
+    "notes": "Realestate.com.au Coolangatta apartment listing in Kirra Surf Apartments, advertised as a two-level beachfront penthouse with uninterrupted ocean views over Kirra Beach, direct access to Kirra Beach from the leisure area, resort facilities and three side-by-side car parks. Current listing page recent-sales panel shows this property sold for $3,500,000 on 15 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/3aba24bca47a3497ce60983aea5016c8d335eb46c46103474d35b41ce30441ca/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3aba24bca47a3497ce60983aea5016c8d335eb46c46103474d35b41ce30441ca/image.jpg",
@@ -53087,13 +53413,158 @@ const sampleProperties = [
       "Northern ocean views",
       "Boutique building with beach access nearby"
     ],
-    "status": "active",
-    "notes": "Verified active realestate.com.au Coolangatta apartment listing on 26 May 2026. The listing advertises beachfront luxury in Awaken Residences on Marine Parade, northern ocean views, boutique-building privacy and access to the Gold Coast beaches. Price is advertised as Contact Agent and no land size is published. Available Coolangatta five-year suburb/comparable growth evidence was checked; it did not substantiate a greater than 15% annual investment flag.",
+    "status": "under_contract",
+    "notes": "Verified realestate.com.au Coolangatta apartment listing on 26 May 2026. The listing advertises beachfront luxury in Awaken Residences on Marine Parade, northern ocean views, boutique-building privacy and access to the Gold Coast beaches. Current Marine Parade suburb result page marks this exact listing under contract.",
     "image": "https://i2.au.reastatic.net/800x600/6d32ce5c628e58a0af45d9f197b05801cba9624379d82af6310df60d31fb2645/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/6d32ce5c628e58a0af45d9f197b05801cba9624379d82af6310df60d31fb2645/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151181912",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-146-99-griffith",
+    "title": "146/99 Griffith Street",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-19",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Calypso Plaza Resort",
+      "Directly opposite Coolangatta Beach",
+      "Private ocean-view balcony",
+      "Central beachfront precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta apartment listing verified 30 Jun 2026. The listing advertises Calypso Plaza Resort in one of the Southern Gold Coast's sought-after beachfront destinations, directly opposite patrolled Coolangatta Beach, with ocean glimpses from the private balcony and resort facilities. Price is advertised as Expressions of Interest.",
+    "image": "https://i2.au.reastatic.net/800x600/09efd45e4f4cd7aff433fcd1625de26b0e7c71111356d83fb2033703cd3da91b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/09efd45e4f4cd7aff433fcd1625de26b0e7c71111356d83fb2033703cd3da91b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151536412",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-901-60-marine",
+    "title": "901/60 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-18",
+    "price": 4750000,
+    "landSize": null,
+    "buildingSize": 316,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Sanbano beachfront address",
+      "Full-floor sky home",
+      "Wrap-around ocean views",
+      "316m2 apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta unit listing verified 30 Jun 2026. The listing advertises an entire-floor Sanbano tower residence spanning 316m2 in one of Coolangatta's tightly held beachfront addresses, with sweeping ocean, coastline and hinterland views plus resort-style resident amenities. Price is advertised at $4,750,000.",
+    "image": "https://i2.au.reastatic.net/800x600/06f8d02004abf78d4b1978825284849d3dcb32686bbb13d2dafa152790b9ca37/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/06f8d02004abf78d4b1978825284849d3dcb32686bbb13d2dafa152790b9ca37/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-151533784",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-301-88-marine",
+    "title": "301/88 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-11",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 862,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Marine Parade oceanfront position",
+      "North-facing ocean balcony",
+      "Short stroll to surf beaches",
+      "Resort-style facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta unit listing verified 30 Jun 2026. The listing is marketed as an ocean front opportunity on Marine Parade, with a north-facing balcony, sweeping ocean and Gold Coast skyline views, resort-style facilities and a short stroll to surf beaches, cafes and restaurants. Auction listed for 2 Jul 2026 with no price guide.",
+    "image": "https://i2.au.reastatic.net/800x600/d59bd72389a3b881fd91f436b782a28112f9ce49e58a749d308845a7b5085427/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d59bd72389a3b881fd91f436b782a28112f9ce49e58a749d308845a7b5085427/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-151462116",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-10-15-south",
+    "title": "10/15 South Street",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-08",
+    "price": 1250000,
+    "priceLabel": "Offers over $1,250,000",
+    "landSize": 2538,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Opposite Kirra Beach",
+      "Private gated reserve access",
+      "Beachfront reserve pathway",
+      "North-facing corner apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta unit listing verified 30 Jun 2026. The listing advertises a Pacific View Apartments residence directly opposite Kirra Beach with residents' private gated access to the beachfront reserve and coastal pathway, ocean glimpses and a 2,538m2 complex land size. Price is advertised as offers over $1,250,000.",
+    "image": "https://i2.au.reastatic.net/800x600/e9ae953095baef2aaaa3df97adf6d6433720b41a52a83e2f507327d188b5a88c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e9ae953095baef2aaaa3df97adf6d6433720b41a52a83e2f507327d188b5a88c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-151424608",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-coolangatta-16-130-marine",
+    "title": "16/130 Marine Parade",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-09",
+    "price": null,
+    "priceLabel": "Expressions of Interest closes 1st July at 12pm",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Kooringal beachfront apartment",
+      "Direct Greenmount Beach outlook",
+      "Fifth-floor ocean views",
+      "Walk to Greenmount and Snapper Rocks"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta apartment listing verified 30 Jun 2026. The listing advertises absolute beachfront living in Kooringal on Greenmount Beach, with fifth-floor ocean views and sea breezes from every room, 90m to Greenmount Beach and 850m to Snapper Rocks. Price is advertised as Expressions of Interest closing 1 Jul 2026.",
+    "image": "https://i2.au.reastatic.net/800x600/59f195b82abca3be92447fe5005e41a389e6324463aad63d0cd5bd955689fa3b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/59f195b82abca3be92447fe5005e41a389e6324463aad63d0cd5bd955689fa3b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151429388",
     "investmentStar": false
   },
   {
@@ -53306,8 +53777,8 @@ const sampleProperties = [
       "Water activities at doorstep",
       "Residential land"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au New Brighton land listing advertised as private New Brighton Beach land located adjacent to the quiet beach and sparkling blue waters, with swimming, surfing and kayaking at the doorstep. Price guide is advertised as $595k - $610k.",
+    "status": "sold",
+    "notes": "realestate.com.au New Brighton suburb results checked 30 Jun 2026 now show this exact land listing as recently sold on 8 Apr 2026. It was previously advertised as private New Brighton Beach land adjacent to the quiet beach and sparkling blue waters.",
     "image": "https://i2.au.reastatic.net/800x600/e9471e6629a972d3dab631d3962507d0f6f428f5a342a90ec310c4fff360d0b0/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e9471e6629a972d3dab631d3962507d0f6f428f5a342a90ec310c4fff360d0b0/image.jpg",
@@ -53320,6 +53791,34 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/e1cde71652ffd2080e5f8c5d3ee2f4ab556287821371180b05e42d322edf5008/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-residential%2Bland-nsw-new%2Bbrighton-204059536",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-new-brighton-2a-gaggin",
+    "title": "2A Gaggin Street",
+    "suburb": "New Brighton",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "daysOnMarket": 26,
+    "price": 2395000,
+    "landSize": 626,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "27 steps to the sand",
+      "Direct beach access",
+      "Beach at the doorstep",
+      "626m2 coastal block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au New Brighton listing verified 30 Jun 2026. The listing is advertised as 27 steps from New Brighton Beach with direct access to the sands, an ocean-view deck, coastal breezes and a 626m2 block. Price is advertised as Offers Over $2,395,000.",
+    "image": "https://i2.au.reastatic.net/800x600/b6cbd9de7597dc578b0177afbb94ff5eda8cda9fc834288eb792742a26b1e6b3/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b6cbd9de7597dc578b0177afbb94ff5eda8cda9fc834288eb792742a26b1e6b3/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-new%2Bbrighton-151582500",
     "investmentStar": false
   },
   {
@@ -53499,6 +53998,35 @@ const sampleProperties = [
       "max": null
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "nsw-byron-bay-2a-palm-valley",
+    "title": "2A Palm Valley Drive",
+    "suburb": "Byron Bay",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 65,
+    "daysOnMarket": null,
+    "price": 10000000,
+    "landSize": 1140,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct Wategos Beach access",
+      "No-road reserve-style beachfront",
+      "Ocean and Julian Rocks views",
+      "Exclusive Palm Valley Drive setting"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Byron Bay listing verified 30 Jun 2026 from the exact direct listing URL and REOD agency page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises $10,000,000, 1,140m2 land, a Palm Valley Drive position with direct access to Wategos Beach, ocean and Julian Rocks views, and a private coastal retreat setting.",
+    "image": "https://images.renet.app/1000x750/07993ef190df974e5ffc0dedce216f459ca01eec.jpg",
+    "images": [
+      "https://images.renet.app/1000x750/07993ef190df974e5ffc0dedce216f459ca01eec.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-byron%2Bbay-150845948",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
   },
   {
     "id": "nsw-byron-bay-10-kendall",
@@ -54560,6 +55088,35 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/0472e286963d663a3f9a0d0f4ca5b46cb7d21bba09828faf5d2b446f27218f18/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-lennox%2Bhead-149849476",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-lennox-head-57-ballina",
+    "title": "57 Ballina Street",
+    "suburb": "Lennox Head",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Price guide on request",
+    "landSize": 858,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite Lennox Head beach",
+      "Front-row Ballina Street holding",
+      "858 sqm main street frontage",
+      "Three-title apartment block"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Lennox Head listing verified 30 June 2026 from exact suburb portal results and direct-listing search. The campaign advertises a beachfront investment opportunity directly opposite Lennox Head beach with main street frontage, three separate titles, 858sqm land, four apartments and holding/development upside. Price is advertised as guide on request; the same address was cross-checked against Domain/Ray White imagery for the property photo.",
+    "image": "https://rimh2.domainstatic.com.au/2xiFuBEjt4tAkXlS3Hy9q6q0_l8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019527810_1_1_240723_095124-w1600-h1067",
+    "images": [
+      "https://rimh2.domainstatic.com.au/2xiFuBEjt4tAkXlS3Hy9q6q0_l8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019527810_1_1_240723_095124-w1600-h1067"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unitblock-nsw-lennox%2Bhead-151279292",
     "investmentStar": false
   },
   {
@@ -71542,8 +72099,8 @@ const sampleProperties = [
       "Beachside apartment",
       "Resort amenities"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 22 May 2026 for Apartment 004 at CABA Residences, advertised as a display suite with direct beach access, ocean and reserve views, resort pool, magnesium spa and sauna access. Visible listing label is DISPLAY SUITE with no public price shown, and land size is not published for the strata apartment, so price per sqm remains TBA. Available five-year suburb/comparable growth evidence did not support a verified above-15% annual investment flag.",
+    "status": "under_offer",
+    "notes": "Hidden after the 30 Jun 2026 Cabarita Beach sweep. The exact realestate.com.au result now shows this Apartment 004 CABA Residences listing as under offer. Previously advertised as a display suite with direct beach access, ocean and reserve views, resort pool, magnesium spa and sauna access. Visible listing label was DISPLAY SUITE with no public price shown, and land size is not published for the strata apartment.",
     "image": "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg"
@@ -80175,6 +80732,35 @@ const sampleProperties = [
     "listingCategory": "beachfront"
   },
   {
+    "id": "nsw-cabarita-5-38-tweed-coast",
+    "title": "5/38 Tweed Coast Road",
+    "suburb": "Cabarita Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-03",
+    "price": null,
+    "priceLabel": "Auction 22nd July",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Ocean views",
+      "Steps to the beach",
+      "Top-floor apartment",
+      "Cabarita Beach village access"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 30 Jun 2026 from the exact direct listing URL after cross-checking the realestate.com.au Cabarita Beach suburb result page. The listing advertises a top-floor apartment in one of Cabarita Beach's sought-after locations, with ocean views and steps-to-the-beach positioning. Domain shows auction pricing for 22 July 2026, first listed on 3 June and no disclosed land or property size.",
+    "image": "https://rimh2.domainstatic.com.au/FSjET1EF2pt6N9yJ5gsIVhwPx8U%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020890461_2_1_260603_071319-w1920-h1280",
+    "images": [
+      "https://rimh2.domainstatic.com.au/FSjET1EF2pt6N9yJ5gsIVhwPx8U%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020890461_2_1_260603_071319-w1920-h1280"
+    ],
+    "listingUrl": "https://www.domain.com.au/5-38-tweed-coast-road-cabarita-beach-nsw-2488-2020890461",
+    "listingCategory": "beachfront"
+  },
+  {
     "id": "qld-burleigh-heads-405-58-esplanade",
     "title": "405/58 The Esplanade",
     "suburb": "Burleigh Heads",
@@ -80231,10 +80817,445 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151557080",
     "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-24-111-ocean-parade",
+    "title": "24/111 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "daysOnMarket": null,
+    "price": 755000,
+    "priceLabel": "$750,000 - $760,000",
+    "landSize": 147,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Directly across from Park Beach",
+      "Ocean views from living area and bedroom",
+      "Balcony facing the beach"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 147sqm apartment on Ocean Parade directly across from Park Beach, with ocean views from the balcony, living area and bedroom, plus walkable cafes and coastal paths.",
+    "image": "https://i2.au.reastatic.net/800x600/a568f1970f12fb3f75cf376a78bc732acb2f0fcb547fa920d0428d5d03fda8b9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a568f1970f12fb3f75cf376a78bc732acb2f0fcb547fa920d0428d5d03fda8b9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-150147248",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-21-111-ocean-parade",
+    "title": "21/111 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "daysOnMarket": null,
+    "price": 875000,
+    "priceLabel": "$850,000 - $900,000",
+    "landSize": 157,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Directly across from Park Beach",
+      "Ocean-view balcony",
+      "Walkable resort and beach precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 157sqm fourth-level apartment directly across from Park Beach, with ocean and mountain views from the balcony, two secure car spaces, resort facilities and beachside income potential.",
+    "image": "https://i2.au.reastatic.net/800x600/8b52d21c2dd77e8e43d8d669f96df27931bdf2147711e8656156e82f9aa828e6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8b52d21c2dd77e8e43d8d669f96df27931bdf2147711e8656156e82f9aa828e6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-151339520",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-604-121-ocean-parade",
+    "title": "604/121 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "daysOnMarket": null,
+    "price": 949000,
+    "priceLabel": "$949,000",
+    "landSize": 199,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Opposite Park Beach",
+      "Sixth-floor ocean views",
+      "Resort-style complex facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 199sqm Ocean Parade apartment in the BreakFree Aanuka complex opposite Park Beach, with sixth-floor ocean views, a coastal lifestyle setting and resort amenity.",
+    "image": "https://i2.au.reastatic.net/800x600/7c66ace4a9a108e627bb76bf27b082d3c475545a893d1bc4dcc855da202c42d4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7c66ace4a9a108e627bb76bf27b082d3c475545a893d1bc4dcc855da202c42d4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-150680872",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-504-121-ocean-parade",
+    "title": "504/121 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "listedDate": "2026-06-03",
+    "price": 849000,
+    "priceLabel": "$849,000",
+    "landSize": 177,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Opposite Park Beach",
+      "Ocean and hinterland views",
+      "Resort amenities and coastal walk access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 177sqm Ocean Parade apartment opposite Park Beach with ocean and hinterland views, resort amenities and an income-producing holiday setting. The page reports date published 03 Jun 2026.",
+    "image": "https://i2.au.reastatic.net/800x600/6517c611304e6bcc8bc2ff5b416d67d61c7b2de59c99e607076188cd5c7b3b6f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/6517c611304e6bcc8bc2ff5b416d67d61c7b2de59c99e607076188cd5c7b3b6f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-151381636",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-501-121-ocean-parade",
+    "title": "501/121 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "daysOnMarket": null,
+    "price": 899000,
+    "priceLabel": "$899,000",
+    "landSize": 199,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Opposite Park Beach",
+      "Fifth-floor ocean views",
+      "Corner apartment with resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 199sqm fifth-floor corner apartment on Ocean Parade opposite Park Beach, with panoramic ocean and hinterland views, wraparound balconies, dual-key layout and resort amenities.",
+    "image": "https://i2.au.reastatic.net/800x600/1c211389744e8bb8e7dfdcb7527fffe1a28bacf89af37e8dc88d6dc37b41f7ae/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1c211389744e8bb8e7dfdcb7527fffe1a28bacf89af37e8dc88d6dc37b41f7ae/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-150583328",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-403-121-ocean-parade",
+    "title": "403/121 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "listedDate": "2026-06-30",
+    "price": 829000,
+    "priceLabel": "$829,000",
+    "landSize": 152,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Opposite Park Beach",
+      "Fourth-floor ocean views",
+      "BreakFree Aanuka resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 152sqm Ocean Parade apartment opposite Park Beach, with ocean and hinterland views, a private covered balcony and BreakFree Aanuka resort facilities. The listing was marked added four hours ago during verification.",
+    "image": "https://i2.au.reastatic.net/800x600/0ce32549c875957ee4d815174b288738671ca688b1e6143a973569fb02dcc268/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0ce32549c875957ee4d815174b288738671ca688b1e6143a973569fb02dcc268/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-151639740",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-coffs-harbour-3-95-ocean-parade",
+    "title": "3/95 Ocean Parade",
+    "suburb": "Coffs Harbour",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 330,
+    "daysOnMarket": null,
+    "price": 595000,
+    "priceLabel": "$595,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Ocean Parade front-row address",
+      "Directly across from Park Beach",
+      "Ocean and island views",
+      "Beach, dining and coastal paths nearby"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coffs Harbour listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises an Ocean Parade apartment directly across from Park Beach, with north-facing ocean and island views, and walkable cafes, restaurants and coastal paths. No unit land size was published on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/30647cc913d883d0fbb7a5c5ebc39bf8c6b94643fb9fd3468e14b74d07fb9997/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/30647cc913d883d0fbb7a5c5ebc39bf8c6b94643fb9fd3468e14b74d07fb9997/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-coffs%2Bharbour-150783364",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-310-12-24-william-street",
+    "title": "310/12-24 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 1200000,
+    "priceLabel": "Price guide $1,200,000",
+    "landSize": 96,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Town Beach-front Sandcastle address",
+      "Advertised direct access to Town Beach",
+      "North-facing ocean-view apartment",
+      "Walkable CBD and waterfront precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 96sqm Sandcastle apartment with direct access to Town Beach, north-facing ocean views and a William Street beach-front position.",
+    "image": "https://i2.au.reastatic.net/800x600/d32bf52286688ac0d6aa9397bd6e18ec382d1dec55ddce15d5c432f0c48d010a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d32bf52286688ac0d6aa9397bd6e18ec382d1dec55ddce15d5c432f0c48d010a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-150331060",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-26-28-william-street",
+    "title": "26-28 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "SALT development on Town Beach frontage",
+      "Advertised beach-front location",
+      "Ocean and river outlooks",
+      "Walkable waterfront and CBD precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises SALT at 26-28 William Street as a beach-front residential address between Town Beach and the Hastings River. No specific apartment area was published on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/47ab79fb95038e0ba7f80d36e94e95646b1f98592e7f2a11809ba26d05fa57ad/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/47ab79fb95038e0ba7f80d36e94e95646b1f98592e7f2a11809ba26d05fa57ad/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-139394131",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-1-2-owen-street",
+    "title": "1/2 Owen Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 2950000,
+    "priceLabel": "$2,950,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "SALT Town Beach precinct",
+      "Front-row beach-front development",
+      "Ocean and river outlooks",
+      "Luxury apartment configuration"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing is part of the SALT beach-front development and advertises ocean and river outlooks near Town Beach. No individual lot area was published on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/42ac55ba406a4d2e78c358f8017b2bcf1380440a1b584a16e56f8c52d5447f47/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/42ac55ba406a4d2e78c358f8017b2bcf1380440a1b584a16e56f8c52d5447f47/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-port%2Bmacquarie-149730488",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-2-2-owen-street",
+    "title": "2/2 Owen Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 2650000,
+    "priceLabel": "$2,650,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "SALT Town Beach precinct",
+      "Front-row beach-front development",
+      "Ocean and river outlooks",
+      "Luxury apartment configuration"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing is part of the SALT beach-front development and advertises ocean and river outlooks near Town Beach. No individual lot area was published on the listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/43d8101f38e6d039f9498a045e7e4c3c6a10a90fa2f47782228607f253c0376b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/43d8101f38e6d039f9498a045e7e4c3c6a10a90fa2f47782228607f253c0376b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-port%2Bmacquarie-149730604",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-507-12-24-william-street",
+    "title": "507/12-24 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 98,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Sandcastle Town Beach address",
+      "Advertised direct access to Town Beach",
+      "Top-floor ocean and park views",
+      "Walkable coastal lifestyle precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 98sqm top-floor Sandcastle apartment with direct access to Town Beach, ocean and park views and a William Street front-row position.",
+    "image": "https://i2.au.reastatic.net/800x600/b6f82c9c6f21051a5f2a4245e6dafd31fb7d9e54c66022c08c5b090dbedfe726/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b6f82c9c6f21051a5f2a4245e6dafd31fb7d9e54c66022c08c5b090dbedfe726/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-150523308",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-107-12-24-william-street",
+    "title": "107/12-24 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 1150000,
+    "priceLabel": "$1,150,000",
+    "landSize": 125,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Sandcastle Town Beach address",
+      "Advertised direct access to Town Beach",
+      "Ocean and park outlook",
+      "Walkable waterfront and CBD precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 125sqm Sandcastle apartment with direct access to Town Beach, a view over Town Beach Reserve to the ocean and a William Street front-row position.",
+    "image": "https://i2.au.reastatic.net/800x600/79cf4c790776481323b04f5dd26e34b2ad970e528e6d826d7e1dc9a781f26994/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/79cf4c790776481323b04f5dd26e34b2ad970e528e6d826d7e1dc9a781f26994/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-port%2Bmacquarie-149772728",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-15-46-william-street",
+    "title": "15/46 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": 189,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Seawatch Town Beach address",
+      "Advertised beachfront position",
+      "Panoramic ocean and river views",
+      "Steps from sand and coastal walk"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 189sqm Seawatch apartment in a beachfront position at Town Beach with panoramic ocean and river views. Price is auction/contact style, so price is stored as null.",
+    "image": "https://i2.au.reastatic.net/800x600/7c88450083bff743570243bd395ec12c84f315d3811781c49161ce9429eab424/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7c88450083bff743570243bd395ec12c84f315d3811781c49161ce9429eab424/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-151451592",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-port-macquarie-603-50-52-william-street",
+    "title": "603/50-52 William Street",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 1750000,
+    "priceLabel": "Price guide $1,750,000 - $1,850,000",
+    "landSize": 150,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Galerie front-row Town Beach position",
+      "Across Town Beach Reserve from the sand",
+      "Ocean, beach and river views",
+      "Walkable coastal and CBD precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 30 Jun 2026 from the exact direct listing URL and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 150sqm Galerie apartment opposite Town Beach Reserve with beach, ocean, river and headland views, making it a verified front-row beach-reserve listing.",
+    "image": "https://i2.au.reastatic.net/800x600/f48e71b1b1da1dc945f30942a5d3297f794ad18dfd2b4d6713f894374e2ff3ef/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f48e71b1b1da1dc945f30942a5d3297f794ad18dfd2b4d6713f894374e2ff3ef/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-150764344",
+    "listingCategory": "beachfront"
   }
 ];
 
-const databaseUpdatedAt = "2026-06-28 01:07";
+const databaseUpdatedAt = "2026-06-30 21:09";
 
 sampleProperties.forEach((property, index) => {
   property.displayId = property.displayId || String(index + 1).padStart(5, "0");
