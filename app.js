@@ -1890,7 +1890,6 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 105,
     "price": 1350000,
-    "priceLabel": "$1,300,000 - $1,400,000",
     "priceLabel": "Price Guide $1.3m",
     "landSize": 400600,
     "beachfront": false,
@@ -3967,7 +3966,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 220,
     "daysOnMarket": null,
-    "price": 1350000,
+    "price": 1310000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -4191,7 +4190,7 @@ const sampleProperties = [
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 160,
     "daysOnMarket": null,
-    "price": 1350000,
+    "price": 1310000,
     "landSize": 523.2,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -4202,8 +4201,8 @@ const sampleProperties = [
       "SP3 tourism zoning",
       "DA approval for two townhouses"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing re-verified 3 Jul 2026 from the exact direct listing URL. The listing advertises one of Yamba's last remaining beachfront allotments, directly opposite Pippi Beach, with 523.2sqm land and DA approval for two substantial townhouses. Price guide is advertised as $1,300,000 - $1,400,000.",
+    "status": "sold",
+    "notes": "Sold status verified 5 Jul 2026 from the exact realestate.com.au sold listing and Ray White sold page, both showing 5B Dunes Court sold on 1 May 2026 for $1,310,000. The listing previously advertised one of Yamba's last remaining beachfront allotments, directly opposite Pippi Beach, with 523.2sqm land and DA approval for two substantial townhouses.",
     "image": "https://i2.au.reastatic.net/800x600/d2c0d7feede99d19f17ef21d03510561f1d31006a7ad3bf76d8a930ef89b44ee/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/d2c0d7feede99d19f17ef21d03510561f1d31006a7ad3bf76d8a930ef89b44ee/image.jpg",
@@ -4703,7 +4702,7 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 70,
-    "price": 5000000,
+    "price": 7999000,
     "landSize": 531.1,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -4768,7 +4767,8 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 70,
-    "price": 5000000,
+    "price": 6150000,
+    "priceLabel": "$5.9m - $6.4m",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -5840,7 +5840,7 @@ const sampleProperties = [
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 65,
     "listedDate": "2026-04-02",
-    "price": 1000000,
+    "price": 1170000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -5851,8 +5851,8 @@ const sampleProperties = [
       "Ground-floor sea views",
       "Short stroll to patrolled beach"
     ],
-    "status": "active",
-    "notes": "Active Osprey apartment listing advertised as beachfront brilliance, positioned within the iconic Osprey complex along the highly sought-after Mooloolaba Esplanade, with ground-floor sea views and an easy short stroll to the patrolled beach. Price is advertised as offers low $1 million.",
+    "status": "sold",
+    "notes": "Sold realestate.com.au Osprey apartment listing. Exact listing URL verified 5 July 2026 as sold for $1,170,000 on 17 Apr 2026 after previously advertising beachfront brilliance, an iconic Osprey complex setting along the Mooloolaba Esplanade, ground-floor sea views and an easy short stroll to the patrolled beach.",
     "image": "https://i2.au.reastatic.net/800x600/c44a7d97689c95fd269be6a33432ecd007b22a1604a13b91e211d798132ccf62/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/c44a7d97689c95fd269be6a33432ecd007b22a1604a13b91e211d798132ccf62/image.jpg"
@@ -5970,6 +5970,43 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/3cd8c9ea8ba6a9b6a511ae441548a77fb88376fe5bf7261d4535ed707f7d7ebb/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-mooloolaba-151592272",
+    "investmentStar": false
+  },
+  {
+    "id": "qld-mooloolaba-110-7-venning",
+    "title": "110/7 Venning Street",
+    "suburb": "Mooloolaba",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 65,
+    "daysOnMarket": 31,
+    "price": null,
+    "priceLabel": "FOR SALE",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Oceanfront apartment",
+      "Beach Front listing feature",
+      "Only a few steps from Mooloolaba Beach",
+      "Mantra International beach precinct"
+    ],
+    "status": "active",
+    "notes": "Active Homely direct listing verified 5 July 2026 from the exact listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises an oceanfront Mooloolaba apartment in Mantra International, Beach Front as an other feature, only a few steps from Mooloolaba Beach, immediate access to the patrolled beach, direct pool access from the private courtyard and Esplanade cafes moments away. The page shows 51sqm building area and 63sqm strata/lot area rather than a standalone land block, so landSize is set to null. Realestate.com.au also shows the same address as an active FOR SALE listing.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13217457-1.jpg?named-transform=webDefaultTransform",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-1.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-2.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-3.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-4.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-5.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-6.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-7.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-8.jpg?named-transform=webDefaultTransform",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13217457-9.jpg?named-transform=webDefaultTransform"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/110-7-venning-street-mooloolaba-qld-4557/13217457",
     "investmentStar": false
   },
   {
@@ -6596,7 +6633,7 @@ const sampleProperties = [
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 50,
     "daysOnMarket": null,
-    "price": 2750000,
+    "price": 2550000,
     "landSize": 826,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -7587,13 +7624,13 @@ const sampleProperties = [
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-149320196"
   },
   {
-    "id": "nsw-kingscliff-67b-cylinders",
-    "title": "67B Cylinders Dr",
+    "id": "nsw-kingscliff-67a-cylinders",
+    "title": "67A Cylinders Dr",
     "suburb": "Kingscliff",
     "state": "NSW",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 40,
-    "price": 4250000,
+    "price": 3995000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -7606,7 +7643,7 @@ const sampleProperties = [
     ],
     "status": "active",
     "investmentStar": false,
-    "notes": "Active Kingscliff listing advertised as one of the Palmira absolute beachfront villas on Cylinders Drive, with direct sand access, rooftop Pacific Ocean views and March 2026 completion. Price is advertised as $4,250,000; the published 415sqm figure is building size, so landSize is set to null.",
+    "notes": "Active realestate.com.au Kingscliff listing rechecked 5 Jul 2026 from the exact direct listing URL. The page now resolves to 67A Cylinders Dr, advertised as a completed Palmira north-end absolute beachfront villa with step-directly-onto-sand positioning, rooftop Pacific Ocean views, private lift and $3,995,000 pricing. Some images are noted by the agent as showcasing lot B; no land-size figure is published, so landSize remains null.",
     "image": "https://i2.au.reastatic.net/800x600/818674ea0f9e275ed8709605a77e9aac9f25b3e7b9bb02d745bb3a63a93fa6fc/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/818674ea0f9e275ed8709605a77e9aac9f25b3e7b9bb02d745bb3a63a93fa6fc/image.jpg",
@@ -8642,6 +8679,85 @@ const sampleProperties = [
     "image": "",
     "images": [],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-150695480"
+  },
+  {
+    "id": "nsw-kingscliff-67b-cylinders",
+    "title": "67B Cylinders Drive",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": 4250000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront address",
+      "Steps to sand and surf",
+      "Move-in-ready Palmira villa",
+      "Rooftop ocean views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff listing verified 5 Jul 2026 from the exact direct listing page and exact-suburb result/search evidence. Villa B at Palmira is advertised as a completed absolute beachfront residence on Cylinders Drive, steps to sand and surf, with rooftop ocean outlooks, private lift, four bedrooms, four bathrooms and Guide $4.25m pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown; only dwelling size was published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600/f4bac2360955d1987bfecd7525614d93b42b2a45389a0a1429d05bc31743a51b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f4bac2360955d1987bfecd7525614d93b42b2a45389a0a1429d05bc31743a51b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-villa-nsw-kingscliff-151274384"
+  },
+  {
+    "id": "nsw-kingscliff-1-140-142-marine",
+    "title": "1/140-142 Marine Parade",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": null,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Marine & Pearl beachfront position",
+      "Steps to Kingscliff Beach",
+      "Ground-floor new apartment",
+      "Boutique complex with pool"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff listing verified 5 Jul 2026 from the exact direct listing page and exact-suburb result page. Residence 1 at Marine & Pearl is advertised in a prime beachfront position at 140-142 Marine Parade, steps from Kingscliff Beach, with construction 80% complete and Seeking All Offers pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown; no land-size figure was published.",
+    "image": "https://i2.au.reastatic.net/800x600/2edb0f3451681d73b1cb6863b4b7bb0a9bea622ea9c33761f765d8622abe3669/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/2edb0f3451681d73b1cb6863b4b7bb0a9bea622ea9c33761f765d8622abe3669/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-kingscliff-151121388"
+  },
+  {
+    "id": "nsw-kingscliff-3201-02-9-gunnamatta",
+    "title": "3201-02/9 Gunnamatta Avenue",
+    "suburb": "Kingscliff",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-25",
+    "price": 675000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra on Salt Beach",
+      "Direct beach access",
+      "Dual-key apartment",
+      "Pool and ocean views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Kingscliff listing verified 5 Jul 2026 from the exact direct listing page and targeted direct-listing search evidence. Apartment 3201-02 at Mantra on Salt Beach is advertised as published 25 Jun 2026, priced at $675,000, with east-facing pool/coast outlooks, ocean glimpses and access to resort facilities including direct beach access. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown; only dwelling size was published, so landSize is set to null.",
+    "image": "https://i2.au.reastatic.net/800x600/e937a0653be1d355cf0a805e56ab267b4c1496b51b1e088a464368142e080543/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e937a0653be1d355cf0a805e56ab267b4c1496b51b1e088a464368142e080543/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-kingscliff-151593024"
   },
   {
     "id": "vic-aspendale-80-nepean",
@@ -10839,7 +10955,7 @@ const sampleProperties = [
     "nearestMajorCity": "Perth",
     "majorCityMinutes": 30,
     "price": null,
-    "priceLabel": "Expressions of Interest",
+    "priceLabel": "Price Guide Available",
     "landSize": 233,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -10856,7 +10972,6 @@ const sampleProperties = [
     "images": [
       "https://i2.au.reastatic.net/800x600/c6073c843d25fcf2e6304f68f00b414d177ab27c57547e55ef7ad511ab032117/image.jpg"
     ],
-    "priceLabel": "Price Guide Available",
     "listingUrl": "https://www.realestate.com.au/property-apartment-wa-north%2Bcoogee-146982500"
   },
   {
@@ -11498,6 +11613,34 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/46bee0729cd741780ac3754d9cf3899b27c893c5899ff3686da0ee370df9da7d/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-beachmere-150442556"
+  },
+  {
+    "id": "qld-beachmere-38-biggs",
+    "title": "38 Biggs Avenue",
+    "suburb": "Beachmere",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 55,
+    "listedDate": "2026-06-03",
+    "price": 879000,
+    "landSize": 809,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Front-row beach access",
+      "Beachfront park",
+      "Renovation upside",
+      "Major city"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Beachmere listing verified 5 Jul 2026 from the exact direct listing URL and Realtor/REA mirror. The listing advertises the home across the road from beach access and the popular beachfront park, with a short walk to the waterfront, shops, cafes and local amenities. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://s1.rea.global/sha/1200x888-prop/23406ee83f9cc3fe43c71fe596b91446b9d566b36506eb6c525696aaeaf62c86/main.jpg",
+    "images": [
+      "https://s1.rea.global/sha/1200x888-prop/23406ee83f9cc3fe43c71fe596b91446b9d566b36506eb6c525696aaeaf62c86/main.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-beachmere-151378632",
+    "investmentStar": false
   },
   {
     "id": "qld-beachmere-54-bayside",
@@ -12367,6 +12510,178 @@ const sampleProperties = [
     "listingCategory": "beachfront"
   },
   {
+    "id": "nsw-entrance-north-7-3-7-hutton",
+    "title": "7/3-7 Hutton Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-07-02",
+    "price": 790000,
+    "priceLabel": "Price Guide $750,000 - $830,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "One-minute walk to the beach",
+      "Entrance Channel views",
+      "Secure complex with pool",
+      "Freshly added coastal unit listing"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au unit listing verified 5 Jul 2026 from the exact direct listing URL and The Entrance North suburb sale results. The listing was published 2 Jul 2026 and advertises a top-floor apartment with Entrance Channel views, a secure fenced complex with pool, allocated parking and the beach just a one-minute walk from the door. Price is the midpoint of the advertised $750,000 - $830,000 guide; land size is left TBA for strata stock.",
+    "image": "https://i2.au.reastatic.net/800x600/597651e3f99098041ec0fc9827d09e8e8717b79436ab0a8142cd61f5c07a3f55/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/597651e3f99098041ec0fc9827d09e8e8717b79436ab0a8142cd61f5c07a3f55/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-the%2Bentrance%2Bnorth-151663724",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-entrance-north-4-54-66-hutton",
+    "title": "4/54-66 Hutton Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-26",
+    "price": 520000,
+    "priceLabel": "Guide $520,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite the beach",
+      "200m from the sand",
+      "Resort-style pool and lift access",
+      "Secure basement parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au unit listing verified 5 Jul 2026 from the exact direct listing URL and matching Domain evidence. The listing was published 26 Jun 2026 and advertises easy-care living directly opposite the beach, 200m from the sand, with resort-style pool facilities, lift access and secure allocated basement parking. Guide is advertised at $520,000; land size is left TBA for strata stock.",
+    "image": "https://i2.au.reastatic.net/800x600/e5cd21832b0a13c8ec2e5debb2db5c677e98843ec9ac664320b7b660b06f220e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e5cd21832b0a13c8ec2e5debb2db5c677e98843ec9ac664320b7b660b06f220e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-the%2Bentrance%2Bnorth-151599700",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-entrance-north-26a-bondi",
+    "title": "26A Bondi Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 567,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Metres to beach access",
+      "Quiet beachside cul-de-sac",
+      "567sqm block with 30.3m frontage",
+      "Dual-living or rebuild potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au house listing verified 5 Jul 2026 from the exact direct listing URL and The Entrance North suburb sale results. The listing advertises a quiet cul-de-sac setting just metres from beach access, sand and surf, with a 567sqm block, 30.3m frontage and dual-living/redevelopment potential. Price is advertised as Contact Agent.",
+    "image": "https://i2.au.reastatic.net/800x600/78a1ef34475ea1c938fa48d43c14f121aafd74afceb6e8d376b882916a582d1e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/78a1ef34475ea1c938fa48d43c14f121aafd74afceb6e8d376b882916a582d1e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-the%2Bentrance%2Bnorth-148919796",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-entrance-north-57-bondi",
+    "title": "57 Bondi Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "price": 1950000,
+    "priceLabel": "$1,900,000 - $2,000,000",
+    "landSize": 575.4,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Third house from the beach",
+      "Few steps to beach track",
+      "Single-level coastal home",
+      "Pool and flexible family layout"
+    ],
+    "status": "active",
+    "notes": "Active Domain exact-suburb listing verified 5 Jul 2026 from the direct listing URL, with matching realestate.com.au suburb-sale evidence. Domain advertises the home as the third house from the beach, mere metres from the sand and a few steps to the beach track. Price is the midpoint of the advertised $1,900,000 - $2,000,000 range; land size is 575.4sqm.",
+    "image": "https://rimh2.domainstatic.com.au/gnp1p_iEEfgc-P7emNPulPfq-zk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020428520_1_1_251117_040814-w3000-h2000",
+    "images": [
+      "https://rimh2.domainstatic.com.au/gnp1p_iEEfgc-P7emNPulPfq-zk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020428520_1_1_251117_040814-w3000-h2000"
+    ],
+    "listingUrl": "https://www.domain.com.au/57-bondi-road-the-entrance-north-nsw-2261-2020428520",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-entrance-north-10-denniss",
+    "title": "10 Denniss Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-05-09",
+    "price": null,
+    "priceLabel": "Price on request",
+    "landSize": 357,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "200m stroll to the sand",
+      "Beachside weekender",
+      "Turnkey furnished holiday-home setup",
+      "Airbnb investment potential"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au house listing verified 5 Jul 2026 from the exact direct listing URL and The Entrance North suburb sale results. Housing.com mirror evidence lists the property as published 9 May 2026 and on market. The listing advertises a turnkey beachside weekender 200m from the sand, fully furnished and positioned for holiday or Airbnb use. Price is advertised as price on request; realestate.com.au property data shows a 357sqm land size.",
+    "image": "https://i2.au.reastatic.net/800x600/c355df0c35a1f72780b6802afa7337880b7a99d6b356e11808257c1028a4c1bd/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/c355df0c35a1f72780b6802afa7337880b7a99d6b356e11808257c1028a4c1bd/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-the%2Bentrance%2Bnorth-151146060",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-entrance-north-132-hutton",
+    "title": "132 Hutton Road",
+    "suburb": "The Entrance North",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "PRICE ON REQUEST",
+    "landSize": 600,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Metres to beach and lakefront",
+      "Level walk to beach access",
+      "North-facing balcony with lake views",
+      "Upgraded coastal home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au house listing verified 5 Jul 2026 from the exact direct listing URL, The Entrance North suburb sale results and matching Domain evidence. The listing advertises beach and lakefront access, metres to the beach and lake, and a level walk to the beach within metres. Price is advertised as price on request; land size is 600sqm.",
+    "image": "https://i2.au.reastatic.net/800x600/f9bf10c5840ef746a920ad1800dd011fbf067be7efc5c4e98b04134ff6a97c53/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f9bf10c5840ef746a920ad1800dd011fbf067be7efc5c4e98b04134ff6a97c53/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-the%2Bentrance%2Bnorth-150558744",
+    "investmentStar": false
+  },
+  {
     "id": "vic-frankston-158-gould",
     "title": "158 Gould Street",
     "suburb": "Frankston",
@@ -12466,7 +12781,7 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 90,
-    "daysOnMarket": 3,
+    "daysOnMarket": 5,
     "price": 3250000,
     "landSize": 503,
     "beachfront": true,
@@ -12902,8 +13217,9 @@ const sampleProperties = [
       "Metres to Ettalong beachfront",
       "Resort pool, sun deck and club lift access"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a fully furnished one-bedroom resort apartment at 521/51-54 The Esplanade with uninterrupted water views across Broken Bay and Lion Island, a covered balcony, resort pool and sun deck, direct lift access to Ettalong Memorial Club and the sandy Ettalong beachfront just metres away. Price is the midpoint of the advertised $500,000 - $550,000 range. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "status": "sold",
+    "soldDate": "2026-06-10",
+    "notes": "Exact realestate.com.au listing rechecked 5 Jul 2026 and redirected to the sold page showing $515,000 sold on 10 Jun 2026, so this record is marked sold and hidden from active results.",
     "image": "https://i2.au.reastatic.net/800x600/9bfe83428d95095996ea584bd2338d3b8b0e2ff710f0f46648f4d324c4cb65dd/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/9bfe83428d95095996ea584bd2338d3b8b0e2ff710f0f46648f4d324c4cb65dd/image.jpg"
@@ -12931,8 +13247,9 @@ const sampleProperties = [
       "About 50m to sheltered Ettalong beachfront",
       "Fully furnished resort-style apartment"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 23 May 2026 from the exact direct listing URL. The listing advertises a two-bedroom, two-bathroom apartment in the front eastern wing of the Mantra complex with never-to-be-built-out panoramic water views across the beachfront and Broken Bay, expansive balcony space, resort facilities and the sheltered Ettalong beachfront about 50 metres away. Price is the midpoint of the advertised $1,050,000 - $1,150,000 range. Land size is not published for the strata apartment. Five-year Ettalong Beach unit and comparable Esplanade evidence was checked; available evidence did not support a verified above-15% annual investment flag.",
+    "status": "sold",
+    "soldDate": "2026-06-26",
+    "notes": "Exact realestate.com.au listing rechecked 5 Jul 2026 and redirected to the sold page showing $1,010,000 sold on 26 Jun 2026, so this record is marked sold and hidden from active results.",
     "image": "https://i2.au.reastatic.net/800x600/f46d227b1374c41bc0a00fd11b758434a88d2274efe87a2c897f3c50e46ae5e7/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/f46d227b1374c41bc0a00fd11b758434a88d2274efe87a2c897f3c50e46ae5e7/image.jpg"
@@ -14501,7 +14818,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 95,
     "daysOnMarket": null,
-    "price": 5000000,
+    "price": 7875000,
     "landSize": 671,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -14513,43 +14830,36 @@ const sampleProperties = [
       "North-facing block"
     ],
     "status": "active",
-    "notes": "Active Pearl Beach listing advertised as a level north-facing absolute beachfront block with direct beach access from the backyard and 671m2 absolute beach frontage. Price advertised as contact agent.",
-    "image": "https://i2.au.reastatic.net/800x600/cfbe63bd503f10edbf41085ecc8458214840e566a3d216e0a01eadc3ec93d506/image.jpg",
+    "notes": "Active current Domain Pearl Beach listing reverified 5 Jul 2026, also surfaced from the realestate.com.au Pearl Beach suburb results, advertised as a level north-facing absolute beachfront block with direct beach access from the backyard and 671m2 absolute beach frontage. Domain price guide is Reduced to sell - $7,500,000 to $8,250,000; midpoint stored as price.",
+    "image": "https://rimh2.domainstatic.com.au/E_BxCaflJt6LzF93vt9UCu3CWeY=/720x540/filters:format(webp):quality(85)/2020384911_1_1_260513_041913-w2000-h1333",
     "images": [
-      "https://i2.au.reastatic.net/800x600/cfbe63bd503f10edbf41085ecc8458214840e566a3d216e0a01eadc3ec93d506/image.jpg",
-      "https://i2.au.reastatic.net/800x600/8f09b4d0989fffc3037c239254e46e37b6ea3db3cb69e01564c192e13589f7fd/image.jpg",
-      "https://i2.au.reastatic.net/800x600/f321c0e4c55be5ca42a4df7b8b10b93e2bd9417479da95b192bfb894a1615c8e/image.jpg",
-      "https://i2.au.reastatic.net/800x600/f1b5758e3171018c7dff7ae106e77754b03262f199e6d1e57c5b72ce624bfcd9/image.jpg",
-      "https://i2.au.reastatic.net/800x600/64449df025ede6b618c6fe69db5521a0e14b7eb498939ebe20f13c5c0383c407/image.jpg",
-      "https://i2.au.reastatic.net/800x600/b799cc964c3c81e1c18924f5a41e3c051a508427a984e2c10d92dd6fc7b9dae7/image.jpg",
-      "https://i2.au.reastatic.net/800x600/5398edd7662a304ba1ea5be1be347619f2bff22adbbad978733f40c55df590a6/image.jpg",
-      "https://i2.au.reastatic.net/800x600/f3512efbcb171a6ce48c781dfd332ad30e35e7a10ace755993403580c41d1f1c/image.jpg",
-      "https://i2.au.reastatic.net/800x600/4475127a134de0c003c5d3bd94f25e90a2eed4f2cc0c19d4165f64adb47734e1/image.jpg",
-      "https://i2.au.reastatic.net/800x600/96de76c2fd5e0004ddb8e2275e7eb67d621f52648c63390b1ab617928a66a053/image.jpg",
-      "https://i2.au.reastatic.net/800x600/29a291056d187a2a9a7a4f54dc628eb30273b91a5d435fffe65790a1d35b9730/image.jpg",
-      "https://i2.au.reastatic.net/800x600/63b108413d27c6587f35243b3c9a46b26b7fc37605a0539c60b9d56ad827f9f4/image.jpg",
-      "https://i2.au.reastatic.net/800x600/bfd1c591facb842aee93ea726f9416f6bd87fb7bb7602596bbd925680b4e8042/image.jpg",
-      "https://i2.au.reastatic.net/800x600/25bcdac34bbee717755172edcea3b4b17e739e5602a9f30d0ae8fe40e2b2d1ab/image.jpg",
-      "https://i2.au.reastatic.net/800x600/6ac990781ea27add2ac4c62b73a886624a39ea84e3bd482ffb89f1dc20ec41b7/image.jpg",
-      "https://i2.au.reastatic.net/800x600/cb8699df74f29dc319788b0be93789bd48a4ae94756a8915c9fe51cbbf313d49/image.jpg",
-      "https://i2.au.reastatic.net/800x600/42dae822a8626718d61ef8e28b3012dbc55bc75e2f7499cbb1299f4f1809a197/image.jpg",
-      "https://i2.au.reastatic.net/800x600/f58602b23f9a87298bf0773a5217e36f3f785958e8af2cfe28a9fc8c0f67286c/image.jpg",
-      "https://i2.au.reastatic.net/800x600/d118579088f0a38a9d48a77e0d46a1f879694460904db85e7b210881dd0a0676/image.jpg",
-      "https://i2.au.reastatic.net/800x600/a720377cd88708fd9f70a78194d28531cdd1169829a818b8331dbfa88de548fe/image.jpg",
-      "https://i2.au.reastatic.net/800x600/005706549a3a87724004dc551434f60e21c6410adea02c21a8f59282f59c08bb/image.jpg",
-      "https://i2.au.reastatic.net/800x600/cd1bb1b42d93621935e81aef8a6ffa9ec7fabcc6b5825c339e03cdcc293de71c/image.jpg",
-      "https://i2.au.reastatic.net/800x600/c3de8e53edfd0f59ed889ca375ab98ba5d2ed18d5bb409ce0383b6487969d16e/image.jpg"
+      "https://rimh2.domainstatic.com.au/E_BxCaflJt6LzF93vt9UCu3CWeY=/720x540/filters:format(webp):quality(85)/2020384911_1_1_260513_041913-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/FoxHGOXmQeCnFUPRh2tUFQ0rVLg=/720x540/filters:format(webp):quality(85)/2020384911_2_1_260513_041913-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/xGjizl5eDnMHnZT0FwB02qWE584=/720x540/filters:format(webp):quality(85)/2020384911_3_1_260513_041913-w1333-h2000",
+      "https://rimh2.domainstatic.com.au/767NWiIXyHuwY4CwU0MXxcH6Zlo=/720x540/filters:format(webp):quality(85)/2020384911_4_1_260513_041913-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/05NFl5edFIiDLhLyQjH-5D7G7Ao=/720x540/filters:format(webp):quality(85)/2020384911_5_1_260513_041913-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/UPUOJ9s86w3XbIKshGjMKwOjBuo=/720x540/filters:format(webp):quality(85)/2020384911_6_1_260513_041914-w1333-h2000",
+      "https://rimh2.domainstatic.com.au/WHlxt7LwBsjFQf0OjQwHFowZ5rk=/720x540/filters:format(webp):quality(85)/2020384911_7_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/Q3i6FTYO1d4N1dkLsPD2GVDXb0Q=/720x540/filters:format(webp):quality(85)/2020384911_8_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/RwrvkgntFiKbXMeUaKiAFrB8sRQ=/720x540/filters:format(webp):quality(85)/2020384911_9_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/Eo59a6fk7DZdzuSvbjTzDf5z53o=/720x540/filters:format(webp):quality(85)/2020384911_10_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/uzJ1t0PXkJq6tqzm9OkCNtB5CKc=/720x540/filters:format(webp):quality(85)/2020384911_11_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/W2ZpJl_MqhbB7x4ncDZ4N9pn3Yo=/720x540/filters:format(webp):quality(85)/2020384911_12_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/-J-pa5xtpJ0qE5kIWBx_WxTdmxg=/720x540/filters:format(webp):quality(85)/2020384911_13_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/GWCiNfr1LHDfTxkDUxSmbV-sOxc=/720x540/filters:format(webp):quality(85)/2020384911_14_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/72Ywc2t25HI2R3lYE4AqlrlApcs=/720x540/filters:format(webp):quality(85)/2020384911_15_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/q3XhdwJEL0tMXCQmo8Q_V2Qf4zY=/720x540/filters:format(webp):quality(85)/2020384911_16_1_260513_041914-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/GSVGk1G8emCn_5fnfObdkZeo_Xg=/720x540/filters:format(webp):quality(85)/2020384911_17_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/VLSzhHYbrRPlEu_SqxOjF76FkFU=/720x540/filters:format(webp):quality(85)/2020384911_18_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/WjbIgpbIWocooiv7hgiF9J2ZnZU=/720x540/filters:format(webp):quality(85)/2020384911_19_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/BH72fhfh5KHBB5AEAD1j6VNvgBs=/720x540/filters:format(webp):quality(85)/2020384911_20_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/O-38vyZrqhfgWUHElIhsxRkhfhE=/720x540/filters:format(webp):quality(85)/2020384911_21_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/mFsLeh0bEB5LNLWlqC_VV0WEmT4=/720x540/filters:format(webp):quality(85)/2020384911_22_1_260513_041915-w2000-h1333",
+      "https://rimh2.domainstatic.com.au/TDY3mAJ-3Z5IcbSA8oqqL1xM45E=/720x540/filters:format(webp):quality(85)/2020384911_23_1_260513_041915-w1333-h2000"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-nsw-pearl%2Bbeach-149488560",
+    "listingUrl": "https://www.domain.com.au/7-gem-road-pearl-beach-nsw-2256-2020384911",
     "investmentStar": false,
-    "priceLabel": "$5m+",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "027S",
-    "hiddenPriceRange": {
-      "min": 5000000,
-      "max": null
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "priceLabel": "Reduced to sell - $7,500,000 to $8,250,000"
   },
   {
     "id": "nsw-pearl-beach-1-51-coral",
@@ -15995,7 +16305,7 @@ const sampleProperties = [
       "Pool"
     ],
     "status": "active",
-    "notes": "Absolute beachfront architect-designed home set directly on Cabarita sands. Price advertised as contact agent.",
+    "notes": "Absolute beachfront architect-designed home set directly on Cabarita sands. Reverified 5 Jul 2026 from the active realestate.com.au and Domain pages; current public guide is $7,999,000.",
     "image": "https://i2.au.reastatic.net/800x600/3989da009664db0a1fe4922a4f4e33bd1f22d569e95a707618debf75209b3923/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/3989da009664db0a1fe4922a4f4e33bd1f22d569e95a707618debf75209b3923/image.jpg",
@@ -16030,14 +16340,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/3f54604338702b03b3e6a04b9209aacc336c16199121d857c292c180360d54bc/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-cabarita%2Bbeach-150991156",
-    "priceLabel": "$5m+",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "027S",
-    "hiddenPriceRange": {
-      "min": 5000000,
-      "max": null
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "priceLabel": "New Guide - $7,999,000"
   },
   {
     "id": "wa-halls-head-101-boardwalk",
@@ -18072,13 +18375,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "investmentStar": false,
-    "notes": "Active realestate.com.au Umina Beach listing reverified 23 May 2026, advertised as footsteps from the sand and positioned less than 100 metres to direct beach access, with ocean glimpses and beachside CBD convenience. Price is advertised as contact agent; land size is not published. Umina Beach 4-bedroom and broader suburb growth evidence checked, including 4.6%, 6.7% and 8.7% published figures, which did not support a verified above-15% annual investment flag.",
-    "image": "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-2-9B1DF1F.png",
+    "notes": "Active realestate.com.au Umina Beach listing reverified 23 May 2026, advertised as footsteps from the sand and positioned less than 100 metres to direct beach access, with ocean glimpses and beachside CBD convenience. Price is advertised as contact agent; land size is not published. Umina Beach 4-bedroom and broader suburb growth evidence checked, including 4.6%, 6.7% and 8.7% published figures, which did not support a verified above-15% annual investment flag. Broken third-party hero image repaired 5 Jul 2026 from the exact REA listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/0a875a75bd08654eee1197803b0791a66b6c90cb6ccb43ab33be746259f44728/image.png",
     "images": [
-      "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-2-9B1DF1F.png",
-      "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-1-E53FF76.jpg",
-      "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/400-w/17579558-31-13EFF88.jpg",
-      "https://view.com.au/viewstatic/images/listing/4-bedroom-house-in-umina-beach-nsw-2257/300-w/17579558-3-8F48DF8.jpg"
+      "https://i2.au.reastatic.net/800x600/0a875a75bd08654eee1197803b0791a66b6c90cb6ccb43ab33be746259f44728/image.png"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-umina%2Bbeach-150330416"
   },
@@ -18105,13 +18405,10 @@ const sampleProperties = [
     "investmentStar": false,
     "priceLabel": "$2,100,000",
     "priceSource": "domain_exact_listing",
-    "notes": "Active realestate.com.au and Domain Umina Beach townhouse listing reverified 23 May 2026. Domain lists $2,100,000, and the REA listing was published 20 May 2026 as Beachfront Reserve with beach-facing balcony, ocean and Pittwater views, and a rooftop balcony. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag.",
-    "image": "https://rimh2.domainstatic.com.au/tttLYgOUkIVDGQuZrgBMNvgo2YE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020687097_1_1_260317_040927-w1800-h1200",
+    "notes": "Active realestate.com.au and Domain Umina Beach townhouse listing reverified 23 May 2026. Domain lists $2,100,000, and the REA listing was published 20 May 2026 as Beachfront Reserve with beach-facing balcony, ocean and Pittwater views, and a rooftop balcony. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag. Broken third-party hero image repaired 5 Jul 2026 from the exact REA listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/fdb4d1721b9508dd264f754b7ec202e34340b994dcdd032ad4f81fdb5cccbcfc/image.jpg",
     "images": [
-      "https://rimh2.domainstatic.com.au/tttLYgOUkIVDGQuZrgBMNvgo2YE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020687097_1_1_260317_040927-w1800-h1200",
-      "https://rimh2.domainstatic.com.au/i9FSBTSqWkDxnxrl9S0Rs-0Pugc%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_18_3_260317_040929-w1698-h1200",
-      "https://rimh2.domainstatic.com.au/b9423OcR1h8d33OSfGT_XPVoPCI%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_2_1_260317_040927-w1800-h1200",
-      "https://rimh2.domainstatic.com.au/U00AQWjRvw3VY20oBTH1gE2EaXI%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020687097_3_1_260317_040927-w2134-h1200"
+      "https://i2.au.reastatic.net/800x600/fdb4d1721b9508dd264f754b7ec202e34340b994dcdd032ad4f81fdb5cccbcfc/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-townhouse-nsw-umina%2Bbeach-151249604"
   },
@@ -18138,12 +18435,10 @@ const sampleProperties = [
     "status": "active",
     "investmentStar": false,
     "priceSource": "portal_result_price_guide",
-    "notes": "Active realestate.com.au and Domain Umina Beach listing reverified 23 May 2026. The exact REA listing is active and REA/Homely portal result pages show Price Guide $3.8m; the listing advertises an approximately 100m stroll to Umina Beach sand. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag.",
-    "image": "https://rimh2.domainstatic.com.au/qOmzGnGr60hECrHr1L-MebP-kWE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_16_1_260316_071134-w1800-h1200",
+    "notes": "Active realestate.com.au and Domain Umina Beach listing reverified 23 May 2026. The exact REA listing is active and REA/Homely portal result pages show Price Guide $3.8m; the listing advertises an approximately 100m stroll to Umina Beach sand. Available Umina Beach growth evidence did not support a verified above-15% annual investment flag. Broken third-party hero image repaired 5 Jul 2026 from the exact REA listing page.",
+    "image": "https://i2.au.reastatic.net/800x600/d17b0255d05ae7c43c4528d1adf340e1da533a09740d800178cf196812f23424/image.jpg",
     "images": [
-      "https://rimh2.domainstatic.com.au/qOmzGnGr60hECrHr1L-MebP-kWE%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_16_1_260316_071134-w1800-h1200",
-      "https://rimh2.domainstatic.com.au/agf0BjMddLp1mkAV7z4dWXQbB6g%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_1_1_260317_035345-w2752-h1536",
-      "https://rimh2.domainstatic.com.au/MI_GqkowM7BBta4EhJ6U9yw76tA%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020684914_6_1_260316_071134-w1789-h1200"
+      "https://i2.au.reastatic.net/800x600/d17b0255d05ae7c43c4528d1adf340e1da533a09740d800178cf196812f23424/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-umina%2Bbeach-150605044"
   },
@@ -18314,7 +18609,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 90,
     "daysOnMarket": null,
-    "price": 2750000,
+    "price": 2550000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -18399,48 +18694,30 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 90,
-    "daysOnMarket": null,
-    "price": 2750000,
-    "landSize": 638.6,
+    "listedDate": "2026-06-30",
+    "daysOnMarket": 5,
+    "price": null,
+    "priceLabel": "Price on request",
+    "landSize": 638,
     "beachfront": false,
     "noRoadFrontage": false,
     "directBeachAccess": true,
     "factors": [
-      "Beach reserve access",
-      "Lagoon nature reserve frontage",
-      "Ocean and lagoon views",
-      "Holiday rental appraisal"
+      "Direct beach and lagoon access",
+      "Metres to Wamberal Beach",
+      "Wamberal Lagoon Nature Reserve access",
+      "Beach and lagoon views from most rooms"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing advertised as fronting Wamberal Lagoon Nature Reserve with direct access to the reserve and beach, plus Wamberal Beach and lagoon views. Price advertised as auction/contact agent.",
-    "image": "https://i2.au.reastatic.net/800x600/df0c43e41c7160b632e3ccbda4c213fdf06c3125af205bfbeda15d7597e1955a/image.jpg",
+    "notes": "Active Domain listing verified 5 Jul 2026 from the exact direct listing URL and corroborated by the current realestate.com.au listing 151635920. The current listing was first listed 30 Jun 2026, advertises Price on request, 638sqm land, beach and lagoon views, metres to Wamberal Beach, and direct access to Wamberal Lagoon Nature Reserve and the beach. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the current direct listing page. Available suburb growth evidence did not substantiate a verified above-15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/IrUXuHzvGIJdLmJel54-8liI4tY=/1680x720/filters:format(webp):quality(85)/2020956854_1_1_260630_052137-w8014-h5343",
     "images": [
-      "https://i2.au.reastatic.net/800x600/df0c43e41c7160b632e3ccbda4c213fdf06c3125af205bfbeda15d7597e1955a/image.jpg",
-      "https://i2.au.reastatic.net/800x600/25faa7066251018ac7101a414a829afacacdc1b07753b9ad992ef4c157bd3bfb/image.jpg",
-      "https://i2.au.reastatic.net/800x600/42ce00ebd49c8253e892d07e9581b637c4fb76f3bc0cc1bbf0735f5ceff7aa84/image.jpg",
-      "https://i2.au.reastatic.net/800x600/4badf94fed58aae9dc42441c7ae7cbb22d4e0c07553434dc7b4ef13ae8a9a0f7/image.jpg",
-      "https://i2.au.reastatic.net/800x600/106103bc368d30979fa032d63eacdd98d545798aa7fb5b9610f2019130844f71/image.jpg",
-      "https://i2.au.reastatic.net/800x600/585ca6feb856e411144d291645e559bf4b02fd0da568c6f9bd05db373e196e37/image.jpg",
-      "https://i2.au.reastatic.net/800x600/ebb8d05512db42e2cdf624fb1c065069022af36efb5e71711fcf85fbfecdc12a/image.jpg",
-      "https://i2.au.reastatic.net/800x600/3d11e7035b2fc4b174993ae6439f5f10cb8be32c382cc064bce9a3c419782023/image.jpg",
-      "https://i2.au.reastatic.net/800x600/94e9354b7b8a560ef154cf15d01488d75d810efc5af078b334dd611cacd147f3/image.jpg",
-      "https://i2.au.reastatic.net/800x600/418abca87aa47ed7790100c8656f1e97ece423df37ca52a8bc77578e06608010/image.jpg",
-      "https://i2.au.reastatic.net/800x600/dd5b87b4d39c4142b8d115c9141e2c9aad2f4da9023c77578b12f9386ff746ca/image.jpg",
-      "https://i2.au.reastatic.net/800x600/f9b89075bc9903b3c356d0e8f97fa5ebde7634780f190a7b89ded75dfb8a27d7/image.jpg",
-      "https://i2.au.reastatic.net/800x600/d015f96814041662591094da5808d558e1254d1f62a3469dbd6bf3c351a66de4/image.jpg",
-      "https://i2.au.reastatic.net/800x600/4f10536b5e0ec03843959cf37e4e56364d89905245298d24715e71f5b4817abd/image.jpg",
-      "https://i2.au.reastatic.net/800x600/1be1bcc63ae58800aede80f9296577c69f3536cf329b3d7c928a41a166d79fe1/image.jpg"
+      "https://rimh2.domainstatic.com.au/IrUXuHzvGIJdLmJel54-8liI4tY=/1680x720/filters:format(webp):quality(85)/2020956854_1_1_260630_052137-w8014-h5343",
+      "https://rimh2.domainstatic.com.au/BMcb7ocQCaf3AMcuNGOQtKfwx-w=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020956854_2_1_260630_052137-w6007-h4012",
+      "https://rimh2.domainstatic.com.au/EbmLTyu8-eO7J5i_NX8Mrwj0DMU=/fit-in/1920x1080/filters:format(webp):quality(85):no_upscale()/2020956854_3_1_260630_052137-w5672-h3781"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-nsw-wamberal-150337236",
-    "investmentStar": false,
-    "priceLabel": "$2.5m-$3m",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "021S",
-    "hiddenPriceRange": {
-      "min": 2500000,
-      "max": 3000000
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "listingUrl": "https://www.domain.com.au/17-remembrance-drive-wamberal-nsw-2260-2020956854",
+    "investmentStar": false
   },
   {
     "id": "nsw-wamberal-2-133-ocean-view",
@@ -18699,7 +18976,8 @@ const sampleProperties = [
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 65,
     "listedDate": "2026-04-13",
-    "price": 5000000,
+    "price": 6150000,
+    "priceLabel": "$5.9m - $6.4m",
     "landSize": 1541,
     "beachfront": true,
     "noRoadFrontage": true,
@@ -18711,7 +18989,7 @@ const sampleProperties = [
       "Byron Shire"
     ],
     "status": "active",
-    "notes": "Absolute beachfront Byron Shire holding with direct, unimpeded connection to the ocean. Price advertised as contact agent.",
+    "notes": "Active realestate.com.au New Brighton listing reverified 5 Jul 2026. The listing advertises an irreplaceable absolute beachfront Byron Shire holding with direct, unimpeded connection to the ocean, a 1,541m2 elevated allotment and a revised price guide of $5.9m - $6.4m.",
     "image": "https://i2.au.reastatic.net/800x600/86a0885fb5fe6babc9979e9b14c6238ed4ecc732f3cc99d5c1d92b0010c8c239/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/d2bc1816620e88d11a98a22741150e107e1f47ee6c0457f115b12607358726ee/image.jpg",
@@ -18750,15 +19028,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/5272c3c3ad983337c0bb98e61e3eef8e0d723c95f94e96571384809b6c933b50/image.jpg",
       "https://i2.au.reastatic.net/800x600/68613d8cd3213b771953c1bc935af83b0049adfdd5562174c435ff3106e82c6e/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-house-nsw-new%2Bbrighton-150857756",
-    "priceLabel": "$5m+",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "027S",
-    "hiddenPriceRange": {
-      "min": 5000000,
-      "max": null
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-new%2Bbrighton-150857756"
   },
   {
     "id": "qld-agnes-water-8-10-ocean-beach",
@@ -19831,8 +20101,8 @@ const sampleProperties = [
       "Tightly held beachfront pocket",
       "Renovated low-maintenance beach retreat"
     ],
-    "status": "active",
-    "notes": "Active Domain and realestate.com.au listing advertised as a renovated beachfront retreat directly opposite the water in a tightly held Brooms Head beachfront pocket, with the ocean just steps from the door. Property.com.au/PropTrack timeline shows the listing was added on 22 Dec 2025.",
+    "status": "unavailable",
+    "notes": "Previously tracked as an active Domain and realestate.com.au beachfront listing. Rechecked 5 Jul 2026: the saved Domain sale URL redirects to the property profile rather than an active direct sale listing, and the property was no longer present in the current exact Brooms Head sale result sets reviewed on realestate.com.au and Domain.",
     "image": "https://bucket-api.domain.com.au/v1/bucket/image/2019456496_1_1_250123_075506-w2000-h1333",
     "images": [
       "https://bucket-api.domain.com.au/v1/bucket/image/2019456496_1_1_250123_075506-w2000-h1333",
@@ -20021,8 +20291,8 @@ const sampleProperties = [
       "Beach access across road",
       "Self-contained studio"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing advertised as front row to the ocean, opposite the oceanfront, with ocean, Nobbys Headland and Port Stephens views from the seaside balcony. Price guide is advertised as $2,900,000 - $3,150,000.",
+    "status": "under_offer",
+    "notes": "Updated 5 Jul 2026: current realestate.com.au direct listing shows Under offer. The page remains advertised as front row to the ocean, opposite the oceanfront, with ocean, Nobbys Headland and Port Stephens views from the seaside balcony. Price guide is advertised as $2,900,000 - $3,150,000.",
     "image": "https://i2.au.reastatic.net/800x600/abdebcf70fcb9ad4bc073d380f8ed901881248acc1e552669cf480e7855034da/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/abdebcf70fcb9ad4bc073d380f8ed901881248acc1e552669cf480e7855034da/image.jpg",
@@ -24250,7 +24520,7 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.homely.com.au/homes/lot-173-sandpiper-drive-singleton-wa-6175/12898859",
     "investmentStar": true,
-    "investmentAnnualGrowth5Yr": 17.0,
+    "investmentAnnualGrowth5Yr": 17,
     "investmentReason": "OnTheHouse Singleton WA suburb evidence checked 16 May 2026 reports 118.98% five-year house median-value growth, equivalent to about 17.0% annual compound growth; the no-road oceanfront land release adds scarcity."
   },
   {
@@ -24282,7 +24552,7 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.homely.com.au/homes/lot-174-sandpiper-drive-singleton-wa-6175/12898839",
     "investmentStar": true,
-    "investmentAnnualGrowth5Yr": 17.0,
+    "investmentAnnualGrowth5Yr": 17,
     "investmentReason": "OnTheHouse Singleton WA suburb evidence checked 16 May 2026 reports 118.98% five-year house median-value growth, equivalent to about 17.0% annual compound growth; the no-road oceanfront land release adds scarcity."
   },
   {
@@ -25035,7 +25305,11 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au and Homely listing reverified 3 Jul 2026. The current 801/474 The Esplanade campaign advertises a two-level penthouse in an absolute beachfront position, 20m ocean frontage, uninterrupted panoramas from Surfers Paradise to Rainbow Bay, rooftop pool and auction on 31 Jul 2026. Direct REA CDN hero extraction was rate-limited during verification, so existing media was not replaced.",
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151614476"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151614476",
+    "image": "https://i2.au.reastatic.net/800x600/73ef7d2b581d8131a1eb14c7b0d673414738cf083ec88a9de4cfd0901c7495c6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/73ef7d2b581d8131a1eb14c7b0d673414738cf083ec88a9de4cfd0901c7495c6/image.jpg"
+    ]
   },
   {
     "id": "qld-palm-beach-27-jefferson",
@@ -25225,7 +25499,11 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "La Belle apartment advertised with direct beach access from an absolute beachfront building and no roads or pathways in front.",
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149893964"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149893964",
+    "image": "https://i2.au.reastatic.net/800x600/904cd45e5a0f3126d7c0f60a83f621fbe3231edc0414261a85965c0001a0a3de/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/904cd45e5a0f3126d7c0f60a83f621fbe3231edc0414261a85965c0001a0a3de/image.jpg"
+    ]
   },
   {
     "id": "qld-palm-beach-004-332-esplanade",
@@ -25248,7 +25526,11 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "La Belle apartment advertised as absolute beachfront with direct sand access, no roads or pathways in front, and north-east ocean views.",
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149893724"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149893724",
+    "image": "https://i2.au.reastatic.net/800x600/0512fe987b844c217a95f0d7e8a58ce48f390fc0f35cba025e8c14a11ac0211f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/0512fe987b844c217a95f0d7e8a58ce48f390fc0f35cba025e8c14a11ac0211f/image.jpg"
+    ]
   },
   {
     "id": "qld-palm-beach-402-440-esplanade",
@@ -25677,8 +25959,9 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 15,
-    "listedDate": "2026-04-10",
-    "price": null,
+    "listedDate": "2026-06-05",
+    "price": 1750000,
+    "priceLabel": "Offers Over $1,750,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -25689,9 +25972,14 @@ const sampleProperties = [
       "Ocean and hinterland views",
       "Rooftop pool"
     ],
-    "status": "unavailable",
-    "notes": "Active Palm Beach unit listing advertised as 50m from the sand with direct beach access, an outdoor shower, ocean and hinterland views, and rooftop pool amenities. Price is advertised as contact agent. Exact listing appeared off market during hidden price update.",
-    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150850008"
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing reverified 5 Jul 2026 from the exact direct listing URL and Palm Beach suburb result. The current listing advertises 703/4 Twenty First Avenue as a level-seven south-east corner apartment 50m from the sand with direct beach access, outdoor shower, ocean and hinterland views, rooftop pool amenities and Offers Over $1,750,000 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/eee88b7bebfb1fa69f8fe9d688cf667908fc7c5b3f6e1a81eda89846ec2dc3cc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/eee88b7bebfb1fa69f8fe9d688cf667908fc7c5b3f6e1a81eda89846ec2dc3cc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151415600",
+    "listingCategory": "beachfront"
   },
   {
     "id": "qld-palm-beach-402-4-twenty-first",
@@ -33644,9 +33932,15 @@ const sampleProperties = [
       "Small block"
     ],
     "status": "active",
-    "notes": "Active Pacific Parade apartment advertised directly across from the sands of Bilinga Beach, with ocean outlook and immediate beach lifestyle appeal. Price advertised as offers over $1.475M on the suburb results page and contact agent on the exact listing page.",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-150627352"
+    "notes": "Active Pacific Parade apartment rechecked 5 Jul 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The current page advertises a prime beachfront investment positioned directly across from the pristine sands of Bilinga Beach, with 139sqm building size and all-serious-offers-considered pricing. The direct REA hero image was verified from the exact listing page. Bilinga unit growth evidence was checked; current realestate.com.au suburb data reports 17.2% annual compound unit growth and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, supporting an above-15% annualized investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/08a9fb27f3c739d743ad201ff46cb1446b764b957d253c64a3b8086610749f5c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/08a9fb27f3c739d743ad201ff46cb1446b764b957d253c64a3b8086610749f5c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-150627352",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.0%",
+    "investmentReason": "Realestate.com.au currently reports 17.2% annual compound growth for Bilinga units, and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, about 17% annualized."
   },
   {
     "id": "qld-bilinga-2-135-golden-four",
@@ -33668,9 +33962,15 @@ const sampleProperties = [
       "Ocean breezes"
     ],
     "status": "active",
-    "notes": "Active Golden Four Drive villa advertised directly opposite the sands of Bilinga Beach, giving it a front-row beach-reserve position without a published land size. Price advertised as offers over $2M.",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-villa-qld-bilinga-149974224"
+    "notes": "Active Golden Four Drive villa rechecked 5 Jul 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The current page advertises NUSA as positioned directly opposite the sands of Bilinga Beach, a substantial 243sqm four-level beachside residence with offers-over-$2M pricing. The direct REA hero image was verified from the exact listing page. Bilinga unit/villa growth evidence was checked; current realestate.com.au suburb data reports 17.2% annual compound unit growth and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, supporting an above-15% annualized investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/826dda1e954022b39fbc0173ce13cd9ad6a16da704ba60743588acfd2b0cb448/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/826dda1e954022b39fbc0173ce13cd9ad6a16da704ba60743588acfd2b0cb448/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-villa-qld-bilinga-149974224",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.0%",
+    "investmentReason": "Realestate.com.au currently reports 17.2% annual compound growth for Bilinga units, and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, about 17% annualized."
   },
   {
     "id": "qld-bilinga-12-2-graham",
@@ -33971,11 +34271,15 @@ const sampleProperties = [
       "Beach access across the road"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au listing verified 3 Jul 2026 from the exact direct listing URL and Bilinga suburb result page. The listing advertises a ground-floor Pacific Parade apartment directly opposite Bilinga Beach, with direct beach access, beach access across the road, and publication date 19 Jun 2026. Price advertised as offers over $995K. Direct REA HTML/CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
+    "notes": "Active realestate.com.au listing rechecked 5 Jul 2026 from the exact direct listing URL and Bilinga suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a ground-floor Pacific Parade apartment directly opposite Bilinga Beach, with direct beach access, beach access across the road, publication date 19 Jun 2026 and offers-over-$995K pricing. The direct REA hero image was verified from the exact listing page. Bilinga unit growth evidence was checked; current realestate.com.au suburb data reports 17.2% annual compound unit growth and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, supporting an above-15% annualized investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/a1666f70d8ab838062cdb008e3d10ab06adaa825ce0db052f09e7c358d894751/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a1666f70d8ab838062cdb008e3d10ab06adaa825ce0db052f09e7c358d894751/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-151537096",
-    "investmentStar": false
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.0%",
+    "investmentReason": "Realestate.com.au currently reports 17.2% annual compound growth for Bilinga units, and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, about 17% annualized."
   },
   {
     "id": "qld-tugun-203-335-golden-four",
@@ -34185,8 +34489,8 @@ const sampleProperties = [
       "Panoramic ocean views",
       "Rooftop terrace"
     ],
-    "status": "under_offer",
-    "notes": "Top-floor apartment on Tugun beachfront advertised with absolute beachfront frontage, direct Tugun Beach access and uninterrupted coastal outlooks. Exact realestate.com.au listing is now marked under offer.",
+    "status": "sold",
+    "notes": "Top-floor apartment on Tugun beachfront advertised with absolute beachfront frontage, direct Tugun Beach access and uninterrupted coastal outlooks. Exact realestate.com.au listing is now marked sold on 24 Apr 2026.",
     "image": "https://i2.au.reastatic.net/800x600/812139acbe8564f80d1f4c0ed32b6e1c2346a2de90f0ff8c22fb3fbdba75cc31/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/812139acbe8564f80d1f4c0ed32b6e1c2346a2de90f0ff8c22fb3fbdba75cc31/image.jpg",
@@ -34209,7 +34513,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/0ef675324c8a945a244714656d0085912cdbd7d72d5006587bc3c0a180989a19/image.jpg",
       "https://i2.au.reastatic.net/800x600/b9b12ada652fbb0df19ef0eeb59c30ea535b1ad1c88080821f070e1382175b27/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-tugun-150472100",
+    "listingUrl": "https://www.realestate.com.au/sold/property-apartment-qld-tugun-150472100",
     "investmentStar": false,
     "priceLabel": "$2m-$2.5m",
     "priceSource": "realestate_hidden_range",
@@ -34239,8 +34543,8 @@ const sampleProperties = [
       "Ocean views",
       "Private pool"
     ],
-    "status": "under_offer",
-    "notes": "Entire ground-floor residence in a four-apartment beachfront complex, advertised with private gate access less than 50m to Tugun Beach and no roads to cross. Current realestate.com.au listing marks it under offer.",
+    "status": "sold",
+    "notes": "Entire ground-floor residence in a four-apartment beachfront complex, advertised with private gate access less than 50m to Tugun Beach and no roads to cross. Exact realestate.com.au listing is now marked sold on 8 May 2026.",
     "image": "https://i2.au.reastatic.net/800x600/a56aa37256e15d7ce346b44ce4fac687031101fca89ba58c0cc929b2eee7b8c5/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/a56aa37256e15d7ce346b44ce4fac687031101fca89ba58c0cc929b2eee7b8c5/image.jpg",
@@ -34279,7 +34583,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/b26356d68f345b07e2e6b61481ca10543aabe9711e13482acf0fce6be2aad8d8/image.jpg",
       "https://i2.au.reastatic.net/800x600/84bae7bb1a02821924f71b6912d0bdcd3d41dcfd4ce8d9cf7b5b66d9055d7555/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-tugun-150819760",
+    "listingUrl": "https://www.realestate.com.au/sold/property-apartment-qld-tugun-150819760",
     "investmentStar": false
   },
   {
@@ -34301,8 +34605,8 @@ const sampleProperties = [
       "Boutique block",
       "Half-floor residence"
     ],
-    "status": "active",
-    "notes": "Near-new Maiha half-floor residence advertised as an elevated beachfront apartment with uninterrupted ocean views in a boutique block of 10. Price advertised as contact agent on the exact listing page.",
+    "status": "sold",
+    "notes": "Near-new Maiha half-floor residence advertised as an elevated beachfront apartment with uninterrupted ocean views in a boutique block of 10. Exact realestate.com.au listing is now marked sold on 9 Jun 2026.",
     "image": "https://i2.au.reastatic.net/800x600/485a64368b1b289aaed9eb5d271bd4c00a0fbe138e382c41af2198d0a9a78e70/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/485a64368b1b289aaed9eb5d271bd4c00a0fbe138e382c41af2198d0a9a78e70/image.jpg",
@@ -34332,7 +34636,7 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/57d363766f024aa27a3f87e6c6f18461d2b5417f4d621d692d761f24fd06da04/image.jpg",
       "https://i2.au.reastatic.net/800x600/eef9bc6f7c2187dafde1914516409f3757f9c81b6f83007a4076927bcd1a838a/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-unit-qld-tugun-150928844",
+    "listingUrl": "https://www.realestate.com.au/sold/property-unit-qld-tugun-150928844",
     "investmentStar": false,
     "priceLabel": "$2.5m-$3m",
     "priceSource": "realestate_hidden_range",
@@ -34342,6 +34646,34 @@ const sampleProperties = [
       "max": 3000000
     },
     "hiddenPriceUpdatedAt": "2026-05-15"
+  },
+  {
+    "id": "qld-tugun-202-321-golden-four",
+    "title": "202/321 Golden Four Drive",
+    "suburb": "Tugun",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-29",
+    "price": 2295000,
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront position",
+      "Ocean views",
+      "Boutique block",
+      "Half-floor residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tugun listing verified 5 Jul 2026. The listing advertises a half-floor residence in Maiha, a boutique 10-residence beachfront building on Golden Four Drive, with ocean views, beachfront balcony and Gold Coast Oceanway access. Price advertised as offers over $2,295,000.",
+    "image": "https://i2.au.reastatic.net/800x600/f5074858c6804b155df4359fca9839b574ac3dec3db243fa6538ad65643af948/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f5074858c6804b155df4359fca9839b574ac3dec3db243fa6538ad65643af948/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-tugun-151622484",
+    "investmentStar": false
   },
   {
     "id": "qld-tugun-3-18-20-oconnor",
@@ -34880,6 +35212,95 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/7ac301740211649ca8dba5b64fc624dd36fd85d23290bb3c343df18351c07a8a/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-house-qld-bilinga-144975392"
+  },
+  {
+    "id": "qld-bilinga-1002-303-golden-four",
+    "title": "1002/303 Golden Four Drive",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-07-03",
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": 446,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "No road",
+      "Direct beach access",
+      "Penthouse sky home"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL and Bilinga suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The Pipis penthouse is advertised on an absolute beachfront stretch at 303 Golden Four Drive, with direct access onto the sand, beachfront pathway access, uninterrupted ocean views and 446sqm internal/external area. Price advertised as contact agent. The direct REA hero image was verified from the exact listing page. Bilinga unit growth evidence was checked; current realestate.com.au suburb data reports 17.2% annual compound unit growth and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, supporting an above-15% annualized investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ff2f2fcd6a3ba8e85c11a0f8449856f38f27c0443be0b74fbd61410c5076a76b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ff2f2fcd6a3ba8e85c11a0f8449856f38f27c0443be0b74fbd61410c5076a76b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-bilinga-151679580",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.0%",
+    "investmentReason": "Realestate.com.au currently reports 17.2% annual compound growth for Bilinga units, and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, about 17% annualized."
+  },
+  {
+    "id": "qld-bilinga-6-2-surf",
+    "title": "6/2 Surf Street",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": 1895000,
+    "priceLabel": "Buyer Guide $1.895M",
+    "landSize": 1022,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute oceanfront",
+      "No road",
+      "Direct oceanfront pathway access",
+      "Boutique six-unit complex"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL and Bilinga suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises 6/2 Surf Street as Oceanfront Living, anchored on a prime 1022sqm absolute oceanfront allotment with direct access to the 8km oceanfront pathway, beach breaks right out the front door, ocean views and Buyer Guide $1.895M pricing. Only the direct REA hero image was usable from the exact listing page during verification. Bilinga unit growth evidence was checked; current realestate.com.au suburb data reports 17.2% annual compound unit growth and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, supporting an above-15% annualized investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/613d9f4f55a6615e28c87ff10e1758b008047016ffb34f44b9ee6d182864f740/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/613d9f4f55a6615e28c87ff10e1758b008047016ffb34f44b9ee6d182864f740/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-bilinga-151223988",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "17.0%",
+    "investmentReason": "Realestate.com.au currently reports 17.2% annual compound growth for Bilinga units, and Domain reported Bilinga unit prices up $860,455 over five years to Feb 2025, about 17% annualized."
+  },
+  {
+    "id": "qld-bilinga-6-2-graham",
+    "title": "6/2 Graham Street",
+    "suburb": "Bilinga",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "listedDate": "2026-06-30",
+    "price": 1595000,
+    "landSize": 880,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Beachfront feature",
+      "Bilinga Beach doorstep",
+      "Never-built-out views",
+      "Pacific Place North"
+    ],
+    "status": "active",
+    "notes": "Active Domain listing verified 5 Jul 2026 from the exact direct listing URL, with matching realestate.com.au active evidence. Domain lists the Beachfront feature and first listed date of 30 June 2026; REA advertises the unit in Pacific Place North with Bilinga Beach on the doorstep, never-to-be-built-out beach views, and a current $1.595M price. This is direct beachfront-access/proximity rather than no-road sand frontage.",
+    "image": "https://rimh2.domainstatic.com.au/QUfLA3_QUUWChVoZbXoVlvWATdk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020956314_1_1_260630_041400-w2351-h1567",
+    "images": [
+      "https://rimh2.domainstatic.com.au/QUfLA3_QUUWChVoZbXoVlvWATdk%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020956314_1_1_260630_041400-w2351-h1567"
+    ],
+    "listingUrl": "https://www.domain.com.au/6-2-graham-street-bilinga-qld-4225-2020956314"
   },
   {
     "id": "qld-bramston-beach-64-evans",
@@ -44762,6 +45183,159 @@ const sampleProperties = [
     "listingCategory": "large"
   },
   {
+    "id": "qld-tuchekoi-261-chinamans-creek",
+    "title": "261 Chinamans Creek Road",
+    "suburb": "Tuchekoi",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 125,
+    "daysOnMarket": null,
+    "price": 2800000,
+    "priceLabel": "Offers Over $2,800,000",
+    "landSize": 1201516,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Noosa and Mary Valley hinterland scale",
+      "Plantation timber and grazing income potential",
+      "Large freshwater lake and creek flats",
+      "40 minutes to Noosa and 50 minutes to Sunshine Coast Airport"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Tuchekoi acreage listing verified 5 Jul 2026 from the exact direct listing URL and corroborating Domain current listing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Offers Over $2,800,000, 297 acres, about 100 acres of plantation timber ready for harvest, Chinamans Creek grazing pockets, a massive freshwater lake believed to be over 100 feet deep, two possible homesites and 40-minute Noosa / 50-minute Sunshine Coast Airport access. Tuchekoi and comparable Noosa/Mary Valley hinterland growth evidence was checked; available sources did not support a verified greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f86d48f8ee4c1ec4ab0d019f52279ca240abc985f1ace6a98a2f992d94928f42/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f86d48f8ee4c1ec4ab0d019f52279ca240abc985f1ace6a98a2f992d94928f42/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-tuchekoi-150951892",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-federal-163-middle-creek",
+    "title": "163 Middle Creek Road",
+    "suburb": "Federal",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 120,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Inviting Offers",
+    "landSize": 286900,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "70-acre Noosa Hinterland grazing holding",
+      "Five paddocks, three dams and permanent creek",
+      "Cattle yards and equestrian potential",
+      "Flexible dual-living or guest accommodation layout"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Federal house listing verified 5 Jul 2026 from the exact direct listing URL and current property profile, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Inviting Offers, 28.69ha / about 70 acres, five paddocks, three dams, a permanent creek, cattle yards, a seven-bay shed, guest or recreation space and Noosa Hinterland positioning. The accessible page text did not expose a marketing_price_range token, so price is left null. Federal and comparable Noosa Hinterland growth evidence was checked; available sources did not support a verified greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/48b437193f4fb6333117433216769c48705ae56acead6f2f6332c53e2bf0dffb/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/48b437193f4fb6333117433216769c48705ae56acead6f2f6332c53e2bf0dffb/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-qld-federal-149804888",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-ridgewood-40-donnellys",
+    "title": "40 Donnellys Road",
+    "suburb": "Ridgewood",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 115,
+    "daysOnMarket": null,
+    "price": 3900000,
+    "priceLabel": "PRICED TO SELL - $3.9M",
+    "landSize": 280400,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Noosa Hinterland equestrian estate",
+      "Competition-grade indoor arena and horse infrastructure",
+      "Established macadamia plantation",
+      "Cooroy access with Mary Valley and coastal views"
+    ],
+    "status": "active",
+    "notes": "Active Domain Ridgewood rural listing verified 5 Jul 2026 from the exact direct listing URL, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Domain advertises PRICED TO SELL - $3.9M, 28.04ha / 69 acres, Balleyrinn Farm, a renovated 1920s Queenslander, competition-grade indoor arena, equestrian infrastructure, macadamia plantation and views from the Mary Valley to the coast. Ridgewood and comparable Noosa Hinterland growth evidence was checked; available sources did not support a verified greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/L6NKHU9bOq7kOZV5RQ-IiXQRLKE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020871031_1_1_260526_090050-w2048-h1365",
+    "images": [
+      "https://rimh2.domainstatic.com.au/L6NKHU9bOq7kOZV5RQ-IiXQRLKE%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020871031_1_1_260526_090050-w2048-h1365"
+    ],
+    "listingUrl": "https://www.domain.com.au/40-donnellys-road-ridgewood-qld-4563-2020871031",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-lake-macdonald-300-kennedys",
+    "title": "300 Kennedys Road",
+    "suburb": "Lake Macdonald",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 105,
+    "daysOnMarket": 10,
+    "listedDate": "2026-06-25",
+    "price": null,
+    "priceLabel": "By Negotiation",
+    "landSize": 635100,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "63.51ha Noosa Hinterland vacant land",
+      "Five minutes to Cooroy township",
+      "Dual access from Lake Macdonald Drive and Kennedys Road",
+      "Dams, bores and elevated Mount Cooroy homesite potential"
+    ],
+    "status": "active",
+    "notes": "Active Domain Lake Macdonald vacant-land listing verified 5 Jul 2026 from the exact direct listing URL and current realestate.com.au and Homely pages, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Domain advertises By Negotiation, first listed 25 Jun 2026 and 10 days on Domain, 635,100sqm / 63.51ha, one of the Noosa Hinterland's last large-scale land opportunities, dual access, open pastures, bushland, two dams, bores and future homesite or lifestyle precinct potential five minutes from Cooroy. Lake Macdonald and comparable Noosa Hinterland growth evidence was checked; available sources did not support a verified greater than 15% annual investment flag.",
+    "image": "https://rimh2.domainstatic.com.au/P2QYfKzRqAfX_rxwQ3UUujV-IO4%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020944531_1_1_260625_062747-w1448-h1086",
+    "images": [
+      "https://rimh2.domainstatic.com.au/P2QYfKzRqAfX_rxwQ3UUujV-IO4%3D/1680x720/filters%3Aformat%28webp%29%3Aquality%2885%29/2020944531_1_1_260625_062747-w1448-h1086",
+      "https://rimh2.domainstatic.com.au/PxbINvX8S8ATMSGSGgYS5gRq3kY%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020944531_2_1_260625_062747-w4000-h3000",
+      "https://rimh2.domainstatic.com.au/uqP-5haAm0SuDkG0gnd9w3cuZmI%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020944531_3_1_260625_062747-w4000-h3000"
+    ],
+    "listingUrl": "https://www.domain.com.au/300-kennedys-road-lake-macdonald-qld-4563-2020944531",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-yandina-creek-305-toolborough",
+    "title": "305 Toolborough Road",
+    "suburb": "Yandina Creek",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 95,
+    "listedDate": "2026-06-17",
+    "price": null,
+    "priceLabel": "Price On Request",
+    "landSize": 287000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "71-acre Sunshine Coast hinterland estate",
+      "Main home plus two guest residences with income stream",
+      "Eight dams, running creek and water security",
+      "Minutes to Coolum Beach, Noosa and Sunshine Coast Airport"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Yandina Creek acreage listing verified 5 Jul 2026 from the exact direct listing URL and Domain current listing, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Price On Request, Date Published 17 Jun 2026, 28.7ha / 71 acres, Saltaire Estate, a main residence, two detached guest residences managed through established agencies, eight dams, a running creek, livestock and equestrian suitability, multiple sheds, solar, three-phase power availability and minutes-to-coast access. The accessible page text did not expose a marketing_price_range token, so price is left null. Yandina Creek and comparable Sunshine Coast hinterland growth evidence was checked; available sources did not support a verified greater than 15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/fcd04dbb58245f78509f386d25e889524cd057a545cc0f66a97314d1988cb3b0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fcd04dbb58245f78509f386d25e889524cd057a545cc0f66a97314d1988cb3b0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-yandina%2Bcreek-151517964",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
     "id": "qld-coles-creek-2433-old-bruce",
     "title": "2433 Old Bruce Highway",
     "suburb": "Coles Creek",
@@ -53224,8 +53798,8 @@ const sampleProperties = [
       "Large apartment",
       "Three-car accommodation"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing for a Medici sub-penthouse on the Esplanade with sweeping Pumicestone Passage views from a 316sqm floorplan. Price and land size are not published.",
+    "status": "under_offer",
+    "notes": "realestate.com.au exact Golden Beach suburb result page checked 5 Jul 2026 now shows this listing as Under offer. Original direct listing was for a Medici sub-penthouse on the Esplanade with sweeping Pumicestone Passage views from a 316sqm floorplan. Price and land size are not published.",
     "image": "https://i2.au.reastatic.net/800x600/a841ef4a4e9de5114894d5e81d1732f4d5a3ba37a3939f6b7db5f6fe4c409ad2/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/a841ef4a4e9de5114894d5e81d1732f4d5a3ba37a3939f6b7db5f6fe4c409ad2/image.jpg",
@@ -54307,8 +54881,8 @@ const sampleProperties = [
       "Private terrace access",
       "Holiday letting potential"
     ],
-    "status": "under_offer",
-    "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as beachfront living in The Rocks Resort, with private terrace access to the resort pool and direct beach entry without passing through reception. The current realestate.com.au Currumbin suburb result page marked this exact listing under offer on 28 Jun 2026.",
+    "status": "sold",
+    "notes": "Previously active realestate.com.au Currumbin apartment listing advertised as beachfront living in The Rocks Resort, with private terrace access to the resort pool and direct beach entry without passing through reception. The realestate.com.au exact listing now redirects to the sold page, and Domain corroborates it as sold on 20 Jun 2026; status updated 5 Jul 2026 during the Currumbin sweep.",
     "image": "https://i2.au.reastatic.net/800x600/e16989387dea20cfa67f6b87e41564b233e2bccad9dbbdd8c46eccc867b51fcf/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e16989387dea20cfa67f6b87e41564b233e2bccad9dbbdd8c46eccc867b51fcf/image.jpg",
@@ -55864,6 +56438,61 @@ const sampleProperties = [
     "listingCategory": "beachfront"
   },
   {
+    "id": "qld-coolangatta-1304-4-miles",
+    "title": "1304/4 Miles Street",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-07-05",
+    "price": 2750000,
+    "priceLabel": "$2,700,000 - $2,800,000",
+    "landSize": null,
+    "buildingSize": 165,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Miles Residences beachfront apartment",
+      "North-east ocean and coastline views",
+      "165sqm three-bedroom floorplan",
+      "Moments from Kirra Beach"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta unit listing verified 5 Jul 2026 from the exact direct listing URL and corroborated by the Domain exact listing page. The listing advertises 1304/4 Miles Street in Miles Residences as a near-new beachfront apartment in one of the Southern Gold Coast's sought-after beachfront addresses, with 165sqm building size and $2,700,000 - $2,800,000 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero image extraction returned 429, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-coolangatta-150099068",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-coolangatta-201-4-miles",
+    "title": "201/4 Miles Street",
+    "suburb": "Coolangatta",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "listedDate": "2026-06-05",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Miles Residences beachfront address",
+      "77sqm private outdoor entertaining area",
+      "Panoramic ocean-view recreation deck",
+      "Moments from Kirra Beach and esplanade"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Coolangatta apartment listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises 201/4 Miles Street in Miles Residences as a luxury beachfront courtyard apartment at one of Kirra's desirable lifestyle addresses, with a 23sqm terrace, 54sqm courtyard, ocean glimpse and resort recreation deck with panoramic ocean views. Price is advertised as Contact Agent. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero image extraction returned 429, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-coolangatta-151412608",
+    "listingCategory": "beachfront"
+  },
+  {
     "id": "nsw-new-brighton-17-21-esplanade",
     "title": "17-21 The Esplanade",
     "suburb": "New Brighton",
@@ -56096,9 +56725,10 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 65,
-    "daysOnMarket": 26,
-    "price": 2395000,
-    "landSize": 626,
+    "listedDate": "2026-06-25",
+    "price": 2865000,
+    "priceLabel": "$2.73m - $3m",
+    "landSize": 516,
     "beachfront": true,
     "noRoadFrontage": false,
     "directBeachAccess": true,
@@ -56106,10 +56736,10 @@ const sampleProperties = [
       "27 steps to the sand",
       "Direct beach access",
       "Beach at the doorstep",
-      "626m2 coastal block"
+      "516m2 coastal block"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au New Brighton listing verified 30 Jun 2026. The listing is advertised as 27 steps from New Brighton Beach with direct access to the sands, an ocean-view deck, coastal breezes and a 626m2 block. Price is advertised as Offers Over $2,395,000.",
+    "notes": "Active realestate.com.au and Domain New Brighton listing reverified 5 Jul 2026. The listing is advertised as 27 steps from New Brighton Beach with direct access to the sands, an ocean-view deck, coastal breezes and a 516m2 block. Price is advertised as $2,730,000 - $3,000,000.",
     "image": "https://i2.au.reastatic.net/800x600/b6cbd9de7597dc578b0177afbb94ff5eda8cda9fc834288eb792742a26b1e6b3/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/b6cbd9de7597dc578b0177afbb94ff5eda8cda9fc834288eb792742a26b1e6b3/image.jpg"
@@ -57340,6 +57970,37 @@ const sampleProperties = [
     "hiddenPriceUpdatedAt": "2026-05-15"
   },
   {
+    "id": "nsw-broken-head-ohana-433-seven-mile-beach",
+    "title": "Ohana, 433 Seven Mile Beach Rd",
+    "suburb": "Broken Head",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 75,
+    "daysOnMarket": null,
+    "price": 36000000,
+    "landSize": 90000,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Approximately 450 metres of beach frontage",
+      "Direct beach access",
+      "Short stroll to Seven Mile Beach",
+      "Resort pool and tennis court"
+    ],
+    "status": "active",
+    "notes": "Active Cullen & Royle direct listing verified 5 Jul 2026 from the exact agency sale page. The listing advertises Ohana House at 433 Seven Mile Beach Road as a once-in-a-generation luxury coastal retreat on approximately 9ha, with a short stroll to Seven Mile Beach, approximately 450m of beach frontage, direct beach access, resort-style pool, tennis court, caretaker or manager cottage, and inspections by appointment. Price is advertised as $36,000,000.",
+    "image": "https://framerusercontent.com/images/UMXHl7Tgmjv6KgfoRG21UWCVJv8.jpg?width=4000&height=2997",
+    "images": [
+      "https://framerusercontent.com/images/UMXHl7Tgmjv6KgfoRG21UWCVJv8.jpg?width=4000&height=2997",
+      "https://framerusercontent.com/images/8xscfeXRsaKPq7QJSLJ09LLgI48.jpg?width=4000&height=2668",
+      "https://framerusercontent.com/images/fE0lL2zNToVtG8kw0jZRPeAAR4.jpg?width=4000&height=2668",
+      "https://framerusercontent.com/images/p5dr0zzo34A6XuQCYVMi4PVsV0E.jpg?width=4000&height=2668"
+    ],
+    "listingUrl": "https://www.cullenroyle.com.au/for-sale/ohana-house",
+    "investmentStar": false
+  },
+  {
     "id": "nsw-lennox-head-8t-77-83-ballina",
     "title": "8T/77-83 Ballina Street",
     "suburb": "Lennox Head",
@@ -57435,12 +58096,41 @@ const sampleProperties = [
       "Three-title apartment block"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Lennox Head listing verified 30 June 2026 from exact suburb portal results and direct-listing search. The campaign advertises a beachfront investment opportunity directly opposite Lennox Head beach with main street frontage, three separate titles, 858sqm land, four apartments and holding/development upside. Price is advertised as guide on request; the same address was cross-checked against Domain/Ray White imagery for the property photo.",
-    "image": "https://rimh2.domainstatic.com.au/2xiFuBEjt4tAkXlS3Hy9q6q0_l8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019527810_1_1_240723_095124-w1600-h1067",
+    "notes": "Active realestate.com.au Lennox Head listing re-verified 5 Jul 2026 from the exact direct listing URL after checking the REA exact suburb result pages, Domain sale results and targeted beachfront/direct-beach searches. The campaign advertises a landmark mixed-use coastal holding directly opposite Lennox Head beach with main street frontage, four commercial shops/offices, two luxury two-bedroom apartments, 858sqm land, rear lane access and holding/development upside. Price is advertised as Contact Agent; no sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the direct page.",
+    "image": "https://i2.au.reastatic.net/800x600/5370c4a0f01775c26e6ee3d408219180dc1ea910cbf6e153330bf9a43906561c/image.jpg",
     "images": [
-      "https://rimh2.domainstatic.com.au/2xiFuBEjt4tAkXlS3Hy9q6q0_l8=/660x440/filters:format(jpeg):quality(80):no_upscale()/2019527810_1_1_240723_095124-w1600-h1067"
+      "https://i2.au.reastatic.net/800x600/5370c4a0f01775c26e6ee3d408219180dc1ea910cbf6e153330bf9a43906561c/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-unitblock-nsw-lennox%2Bhead-151279292",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-lennox-head-86-ballina",
+    "title": "86 Ballina Street",
+    "suburb": "Lennox Head",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Expression of Interest",
+    "landSize": 809.4,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite Seven Mile Beach",
+      "Ballina Street front-row village site",
+      "Ocean views from ground level and above",
+      "E1 Local Centre zoning with 9m height limit"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain Lennox Head listing verified 5 Jul 2026 from the exact direct listing pages after checking the REA exact suburb result pages, page 2, Domain suburb sale results, Homely/search evidence and targeted beachfront, beach-reserve, direct beach access, no-road and Ballina Street searches. The listing advertises 86 Ballina Street as a 809.4sqm prime coastal development site with a renovated four-bedroom home, two street frontages, E1 Local Centre zoning, 9m height limit, ground-level and upper-level ocean views, and a position directly opposite Seven Mile Beach and the Lennox Community Centre. Price is advertised as Expression of Interest. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the active direct listing pages. Available suburb growth evidence was checked and did not substantiate a greater than 15% annual investment flag.",
+    "image": "https://i1.au.reastatic.net/768x512-smart%3D75%2Cr%3D33%2Cg%3D40%2Cb%3D46%2Cquality%3D60%2Cprogressive/8d7f8f4656e09b25083422e7e0735a4b96a3b1f9df8c8c15049c697550410fd0/image1.jpg",
+    "images": [
+      "https://i1.au.reastatic.net/768x512-smart%3D75%2Cr%3D33%2Cg%3D40%2Cb%3D46%2Cquality%3D60%2Cprogressive/8d7f8f4656e09b25083422e7e0735a4b96a3b1f9df8c8c15049c697550410fd0/image1.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-lennox%2Bhead-148944872",
     "investmentStar": false
   },
   {
@@ -57519,9 +58209,12 @@ const sampleProperties = [
       "Rayner Lane absolute beachfront",
       "Ground-floor house-sized residence"
     ],
-    "status": "unavailable",
-    "notes": "Active realestate.com.au Lennox Head listing advertised as an exclusive beachfront sanctuary with direct and private access onto Seven Mile Beach, a ground-floor covered patio and grassed garden leading to the sand. Price is advertised as EOI guide on request, close 5pm Thurs 2nd Oct. Exact listing appeared off market during gallery update.",
-    "images": [],
+    "status": "active",
+    "notes": "Active realestate.com.au Lennox Head listing re-verified 5 Jul 2026 from the exact REA page. The listing advertises an exclusive beachfront sanctuary with direct and private access onto Seven Mile Beach, a ground-floor covered patio and grassed garden leading directly onto the sand. Price is advertised as EOI guide on request, close 5pm Thurs 2nd Oct.",
+    "image": "https://i2.au.reastatic.net/800x600/233565d260454753d3be97411ab3b688cdab78cfde3262710297ae4a45508a5c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/233565d260454753d3be97411ab3b688cdab78cfde3262710297ae4a45508a5c/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-house-nsw-lennox%2Bhead-148906052",
     "investmentStar": false
   },
@@ -57544,8 +58237,8 @@ const sampleProperties = [
       "Two single-level apartments",
       "No-road Seven Mile Beach frontage"
     ],
-    "status": "unavailable",
-    "notes": "Rechecked 26 May 2026. The exact Homely listing still displays the old EOI guide campaign closing 5pm Thurs 2nd Oct, which aligns to 2025, and Domain property history records a September 2025 sale, so this is treated as a stale/unavailable beachfront campaign.",
+    "status": "sold",
+    "notes": "Rechecked 5 Jul 2026. The exact Homely listing still displays the old EOI guide campaign closing 5pm Thurs 2nd Oct, which aligns to 2025, and current realestate.com.au/property.com.au property evidence records a 2025 sale, so this is treated as a sold/stale beachfront campaign.",
     "image": "https://images.homely.com.au/v3?resid=37449347&index=1&width=800&height=600",
     "images": [
       "https://images.homely.com.au/v3?resid=37449347&index=1&width=800&height=600"
@@ -58246,8 +58939,8 @@ const sampleProperties = [
       "Ocean glimpses",
       "Historic ocean baths nearby"
     ],
-    "status": "under_offer",
-    "notes": "Under offer on the realestate.com.au and Domain Blue Bay suburb result pages as of 26 May 2026. Previously advertised as a front-row Ocean Parade apartment near Blue Bay Beach, the ocean baths and rockpools, with beach access about 77m via Boondilla and ocean glimpses from the east-facing balcony.",
+    "status": "sold",
+    "notes": "Hidden after the 5 Jul 2026 Blue Bay sweep. The exact realestate.com.au listing now redirects to a sold page showing Contact agent, sold on 27 May 2026. Previously advertised as a front-row Ocean Parade apartment near Blue Bay Beach, the ocean baths and rockpools, with beach access about 77m via Boondilla and ocean glimpses from the east-facing balcony.",
     "image": "https://i2.au.reastatic.net/800x600/6562b8e26369189b5630902753203407cf5544c18c55872aa73d093e43d7a808/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/6562b8e26369189b5630902753203407cf5544c18c55872aa73d093e43d7a808/image.jpg",
@@ -58300,7 +58993,7 @@ const sampleProperties = [
     "nearestMajorCity": "Sydney",
     "majorCityMinutes": 90,
     "daysOnMarket": null,
-    "price": 2750000,
+    "price": 2550000,
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -58311,8 +59004,8 @@ const sampleProperties = [
       "Uninterrupted ocean views",
       "Star of the Sea complex"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au Terrigal apartment listing in the Star of the Sea complex, advertised with a prime coastal location directly opposite The Haven, uninterrupted ocean views over The Haven and The Skillion, nearby sheltered swimming beach and waterfront walking path. Price is advertised as Contact Agent; strata/apartment land size is recorded as null.",
+    "status": "sold",
+    "notes": "Exact realestate.com.au listing re-verified 5 July 2026 and now redirects to a sold listing showing $2,550,000 sold on 18 May 2026, so it is hidden from active results. The sold page still describes the Star of the Sea complex position directly opposite The Haven with uninterrupted ocean views over The Haven and The Skillion.",
     "image": "https://i2.au.reastatic.net/800x600/e1c9014c2060bd00d3fd47f1f1791a4c4c4632ea1668465814131e895470e4e6/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/e1c9014c2060bd00d3fd47f1f1791a4c4c4632ea1668465814131e895470e4e6/image.jpg",
@@ -58336,14 +59029,7 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-terrigal-149974332",
     "investmentStar": false,
-    "priceLabel": "$2.5m-$3m",
-    "priceSource": "realestate_hidden_range",
-    "hiddenPriceCode": "021S",
-    "hiddenPriceRange": {
-      "min": 2500000,
-      "max": 3000000
-    },
-    "hiddenPriceUpdatedAt": "2026-05-15"
+    "priceLabel": "$2,550,000 Sold on 18 May 2026"
   },
   {
     "id": "nsw-terrigal-27-8-terrigal-esplanade",
@@ -58547,6 +59233,64 @@ const sampleProperties = [
       "https://i2.au.reastatic.net/800x600/9055ff38276448030452109c29128a22b0273272c63f5afd618010fd0227fe81/image.jpg"
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-terrigal-148852640",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-terrigal-202-6-painters-lane",
+    "title": "202/6 Painters Lane",
+    "suburb": "Terrigal",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Beachfront with ocean views",
+      "Metres from Terrigal beachfront",
+      "Sought-after Avanti complex",
+      "Sweeping private balcony vistas"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 July 2026 from the exact direct listing URL. The page advertises a three-bedroom Avanti apartment positioned just metres from the beachfront, with sweeping ocean views, a north-facing entertaining terrace and a short stroll to Terrigal Beach and the Esplanade. Price is advertised as Contact Agent; strata/apartment land size is recorded as null. Five-year/current Terrigal unit growth evidence checked from realestate.com.au and did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/68882342dd1b3f3950b6ba89d4af9abc7c7abda305ddc78b4d26c90308fc36cc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/68882342dd1b3f3950b6ba89d4af9abc7c7abda305ddc78b4d26c90308fc36cc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-terrigal-151165592",
+    "investmentStar": false
+  },
+  {
+    "id": "nsw-terrigal-2-7-painters-lane",
+    "title": "2/7 Painters Lane",
+    "suburb": "Terrigal",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Price on request",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Prestigious Painters Lane beachside address",
+      "Metres to Terrigal Beach sand",
+      "Sweeping ocean views",
+      "Secure triple parking with lift access"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 July 2026 from the exact direct listing URL and cross-checked against the matching Domain listing. The page advertises a three-bedroom premium penthouse address only metres to the sand, positioned just metres from Terrigal Beach with ocean views, a wraparound balcony and direct lift access from secure parking. Price is advertised as Price on request; strata/apartment land size is recorded as null. Five-year/current Terrigal unit growth evidence checked from realestate.com.au and did not support a verified above-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/e6f9ee9d06a4ea3bdbd8e57fddc9d5dfa468256abd745120ef17955a3ca3f2f4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e6f9ee9d06a4ea3bdbd8e57fddc9d5dfa468256abd745120ef17955a3ca3f2f4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-terrigal-150519596",
     "investmentStar": false
   },
   {
@@ -74851,8 +75595,8 @@ const sampleProperties = [
       "Direct access to Cotton Tree Beach and foreshore",
       "Resort facilities with pool, tennis court and BBQ areas"
     ],
-    "status": "active",
-    "notes": "Active exact realestate.com.au listing verified 27 June 2026 from the direct listing page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises Majorca Isle as a recognised beachfront complex directly opposite the patrolled surf beach, with private foreshore access, direct Cotton Tree Beach access, ocean glimpses and resort facilities including pool, tennis court, BBQ areas and games room. Strata land/block size is not published, so landSize is set to null.",
+    "status": "under_contract",
+    "notes": "Set to under_contract after the Maroochydore sweep on 5 July 2026. The exact realestate.com.au listing now displays Under Contract - Offers Over $1,099,000 and an Under offer marker. The listing advertises Majorca Isle as a recognised beachfront complex directly opposite the patrolled surf beach, with private foreshore access, direct Cotton Tree Beach access, ocean glimpses and resort facilities including pool, tennis court, BBQ areas and games room. Strata land/block size is not published, so landSize is set to null.",
     "image": "https://i2.au.reastatic.net/800x600-format=webp/22ba8f2f528be75a6523809dd678d59497419e15432af4dcb7952a1933b1dd23/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600-format=webp/22ba8f2f528be75a6523809dd678d59497419e15432af4dcb7952a1933b1dd23/image.jpg"
@@ -74978,9 +75722,9 @@ const sampleProperties = [
     "state": "QLD",
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 105,
-    "listedDate": "2026-06-02",
-    "price": 1069000,
-    "priceLabel": "$1,069,000",
+    "listedDate": "2026-06-11",
+    "price": null,
+    "priceLabel": "Auction",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -74992,12 +75736,12 @@ const sampleProperties = [
       "Cotton Tree and Alexandra Headland walkability"
     ],
     "status": "active",
-    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $1,069,000 and Date Published 2 June 2026 for a fifth-floor Sebel apartment at 14 Aerodrome Road with ocean views, a beachside resort position and a short stroll to Maroochydore Beach, Cotton Tree, restaurants and coastal paths. Strata land/block size is not published, so landSize is set to null.",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 5 July 2026 from the direct listing page and suburb result page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Auction and Date Published 11 June 2026 for a fifth-floor Sebel apartment at 14 Aerodrome Road with coastal views towards Old Woman Island, resort facilities and a short stroll to Maroochydore Beach, Cotton Tree, Sunshine Plaza, restaurants and the Maroochydore CBD. The page shows 124sqm internal/building size, not land size, so landSize is set to null.",
     "image": "https://i2.au.reastatic.net/800x600-format=webp/59a6b292490220a8694d049ca44a926fd165836383c39720f6589df943e7587e/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600-format=webp/59a6b292490220a8694d049ca44a926fd165836383c39720f6589df943e7587e/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151408956"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151464876"
   },
   {
     "id": "qld-maroochydore-802-67-sixth",
@@ -75007,8 +75751,8 @@ const sampleProperties = [
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 105,
     "daysOnMarket": null,
-    "price": 1765000,
-    "priceLabel": "$1,765,000",
+    "price": null,
+    "priceLabel": "Forthcoming Auction",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -75019,13 +75763,13 @@ const sampleProperties = [
       "Direct beach access across the road",
       "Ocean views from a completed apartment"
     ],
-    "status": "active",
-    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and related Maroochydore result links, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $1,765,000 for an eighth-floor Rise Maroochydore Beach apartment opposite Maroochydore Beach, with direct beach access across the road, ocean views and completed new-development amenities. Strata land/block size is not published, so landSize is set to null.",
+    "status": "under_offer",
+    "notes": "Set to under_offer after the Maroochydore sweep on 5 July 2026. The exact realestate.com.au listing now displays Forthcoming Auction with an Under offer marker. The listing advertises an eighth-floor Rise Maroochydore Beach apartment with unobstructed ocean views from Noosa to Point Cartwright, a position in one of Cotton Tree's last beachfront developments, walkable Cotton Tree amenities and Maroochydore Beach access nearby. Strata land/block size is not published, so landSize is set to null.",
     "image": "https://i2.au.reastatic.net/800x600-format=webp/f62f50e14c26a8b984b48ad5bfa33056c03454929e13dd065686e429c408aab8/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600-format=webp/f62f50e14c26a8b984b48ad5bfa33056c03454929e13dd065686e429c408aab8/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151387752"
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-maroochydore-151408956"
   },
   {
     "id": "qld-maroochydore-905-67-sixth",
@@ -75035,25 +75779,25 @@ const sampleProperties = [
     "nearestMajorCity": "Brisbane",
     "majorCityMinutes": 105,
     "daysOnMarket": null,
-    "price": 2285000,
-    "priceLabel": "$2,285,000",
+    "price": null,
+    "priceLabel": "Auction",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
-    "directBeachAccess": true,
+    "directBeachAccess": false,
     "factors": [
       "Rise Maroochydore Beach address",
-      "Direct beach access across the road",
+      "100m to patrolled beach",
       "North-facing ocean-view apartment",
       "Walk to surf, Cotton Tree and cafes"
     ],
     "status": "active",
-    "notes": "Active exact realestate.com.au Maroochydore listing verified 27 June 2026 from the direct listing page and related Maroochydore result links, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises $2,285,000 for a north-facing Rise Maroochydore Beach apartment with stunning ocean views, a position directly opposite Maroochydore Beach and beach access across the road. Strata land/block size is not published, so landSize is set to null.",
+    "notes": "Active exact realestate.com.au Maroochydore listing verified 5 July 2026 from the direct listing page and related Maroochydore result links, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The page advertises Auction for a Rise Maroochydore Beach apartment with Cotton Tree beachside positioning, views south to Point Cartwright and Mooloolaba, easy beach access and only 100 metres to patrolled swimming. The page shows 126sqm building size, not land size, so landSize is set to null.",
     "image": "https://i2.au.reastatic.net/800x600-format=webp/a5975771dcf173190d8a692c5e32bb0475bb318f6562fe8f7b3cf10a7d8c6848/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600-format=webp/a5975771dcf173190d8a692c5e32bb0475bb318f6562fe8f7b3cf10a7d8c6848/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151464876"
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-maroochydore-151387752"
   },
   {
     "id": "qld-maroochydore-801-8-duporth",
@@ -75158,8 +75902,8 @@ const sampleProperties = [
       "Beachside semi-detached residence",
       "Private pool and alfresco"
     ],
-    "status": "active",
-    "notes": "Active exact Homely listing verified 13 May 2026, advertised at $1,985,000+ for the final Palm on Pretella residence in Wurtulla. The listing describes the semi-detached home as just footsteps from the sands of Wurtulla and Bokarina Beach, with multiple beach access points and direct access to the Bokarina precinct. It is not advertised as absolute/no-road beachfront, so noRoadFrontage is false. Five-year suburb growth evidence was checked via current REA, OnTheHouse and Smart Property Investment data; available evidence did not clearly support an above-15% annual investment flag.",
+    "status": "sold",
+    "notes": "Homely direct listing rechecked 5 Jul 2026 and now shows this Wurtulla semi-detached property as sold on 13 Jan 2026 for $2,000,000. The archived listing copy described the home as footsteps from Wurtulla and Bokarina Beach, with multiple beach access points and direct access to the Bokarina precinct. It was not advertised as absolute/no-road beachfront, so noRoadFrontage is false. Five-year suburb growth evidence was checked via current REA, OnTheHouse and Smart Property Investment data; available evidence did not clearly support an above-15% annual investment flag.",
     "image": "https://www.homely.com.au/img-variant/l-Century21-12572830-1.jpg?named-transform=webDefaultTransform&version=zS3an.Ct51eqnDZeJ5NShWsloAb_gkFO",
     "images": [
       "https://www.homely.com.au/img-variant/l-Century21-12572830-1.jpg?named-transform=webDefaultTransform&version=zS3an.Ct51eqnDZeJ5NShWsloAb_gkFO",
@@ -75252,9 +75996,9 @@ const sampleProperties = [
     "state": "NSW",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 35,
-    "listedDate": "2026-05-06",
-    "price": null,
-    "priceLabel": "DISPLAY SUITE",
+    "daysOnMarket": 6,
+    "price": 2950000,
+    "priceLabel": "$2,950,000",
     "landSize": null,
     "beachfront": true,
     "noRoadFrontage": false,
@@ -75262,16 +76006,16 @@ const sampleProperties = [
     "factors": [
       "Direct beach access",
       "CABA Residences",
-      "Beachside apartment",
+      "Designer furnished package",
       "Resort amenities"
     ],
-    "status": "under_offer",
-    "notes": "Hidden after the 30 Jun 2026 Cabarita Beach sweep. The exact realestate.com.au result now shows this Apartment 004 CABA Residences listing as under offer. Previously advertised as a display suite with direct beach access, ocean and reserve views, resort pool, magnesium spa and sauna access. Visible listing label was DISPLAY SUITE with no public price shown, and land size is not published for the strata apartment.",
-    "image": "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg",
+    "status": "active",
+    "notes": "Active realestate.com.au new-development listing verified 5 Jul 2026 from the newer exact direct listing URL after checking the realestate.com.au Cabarita Beach result page, page 2, Domain suburb sale page and targeted beachfront, direct beach access, beach reserve, Esplanade and no-road searches. This replaces the earlier under-offer 004 direct page without adding a duplicate address. The active page advertises Residence #004 at CABA Residences as added 6 days ago, priced at $2,950,000, spanning 213sqm of strata apartment/building area, with direct access to pristine beaches, resort amenities and mid-2026 completion. Land size is not published as a land/block area for the strata apartment, so price per sqm remains TBA. Only the direct hero property image URL was usable from the exact page during verification; secondary visible gallery links resolved as portal wrappers/placeholders. Available Cabarita Beach growth evidence was checked and did not substantiate a greater-than-15% annual investment flag.",
+    "image": "https://i2.au.reastatic.net/800x600/bd747b3a34c0e528829c47ccc453ee2b7d53ead217b2bd6b657bfcf475b0c69e/image.jpg",
     "images": [
-      "https://i2.au.reastatic.net/800x600/bb4a6b20a9238d5e9d73fb516d9c4b65378afc9fa1b2709fb374c2bfd6f4e44a/image.jpg"
+      "https://i2.au.reastatic.net/800x600/bd747b3a34c0e528829c47ccc453ee2b7d53ead217b2bd6b657bfcf475b0c69e/image.jpg"
     ],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-151111792",
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-cabarita%2Bbeach-149634412",
     "investmentStar": false
   },
   {
@@ -80217,26 +80961,26 @@ const sampleProperties = [
   },
   {
     "id": "qld-burleigh-heads-501-88-esplanade",
-    "title": "501/88 The Esplanade",
+    "title": "601/88 The Esplanade",
     "suburb": "Burleigh Heads",
     "state": "QLD",
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 15,
     "daysOnMarket": null,
-    "price": 3400000,
-    "priceLabel": "$3,400,000",
-    "landSize": 181,
+    "price": 10290000,
+    "priceLabel": "$10,290,000",
+    "landSize": 381,
     "beachfront": true,
     "noRoadFrontage": false,
     "directBeachAccess": true,
     "factors": [
       "ONE Burleigh beachfront apartment",
       "Direct beach access",
-      "181m2 three-bedroom residence",
+      "381m2 full-floor residence",
       "Beach, headland and skyline outlook"
     ],
-    "status": "active",
-    "notes": "Active realestate.com.au listing verified 28 June 2026 from the exact direct listing URL. The page advertises Residence 501 in ONE Burleigh Headland at 88 The Esplanade, an absolute beachfront address with direct beach access, a 181m2 three-bedroom design, ocean and skyline views and resort-style wellness amenities.",
+    "status": "under_offer",
+    "notes": "Updated during the 5 Jul 2026 Burleigh Heads sweep after the exact realestate.com.au URL now resolved to 601/88 The Esplanade with an Under offer marker. The page advertises a 381m2 full-floor ONE Burleigh beachfront residence at 88 The Esplanade with direct beach connection, ocean/headland views and $10,290,000 pricing, but it is hidden because the exact active URL is under offer.",
     "image": "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg",
     "images": [
       "https://i2.au.reastatic.net/800x600/830d0832c844254f18256b231df553b141de943dc7076701fd1201062912c697/image.jpg"
@@ -84101,8 +84845,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au Palm Beach listing verified 3 Jul 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises Pacific Palm Beach as a boutique beachfront building, the penthouse as occupying 336m2 with a beachfront balcony, and patrolled surf plus the Oceanway path at the residents' fingertips. Direct REA CDN hero extraction was rate-limited during verification, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
+    "image": "https://i2.au.reastatic.net/800x600/36621da05b3fcb9e84c4a9d8343e1ae938345bd0336128ec7385db27a86daa6c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/36621da05b3fcb9e84c4a9d8343e1ae938345bd0336128ec7385db27a86daa6c/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151674880",
     "listingCategory": "beachfront"
   },
@@ -84128,8 +84874,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au and Domain Palm Beach listing verified 3 Jul 2026 from exact listing pages and the Palm Beach suburb result. The listing advertises 102/955 Gold Coast Highway as an absolute beachfront address with direct access to the sand, positioned between ocean and estuary, and 93m2 building size. Direct REA CDN hero extraction was rate-limited during verification, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
+    "image": "https://i2.au.reastatic.net/800x600/d2123e39488bf0de2073dd0d03304f13615c65beb2058b927699665a770ca95b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d2123e39488bf0de2073dd0d03304f13615c65beb2058b927699665a770ca95b/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151661252",
     "listingCategory": "beachfront"
   },
@@ -84155,8 +84903,10 @@ const sampleProperties = [
     ],
     "status": "active",
     "notes": "Active realestate.com.au Palm Beach listing verified 3 Jul 2026 from the exact direct listing URL and targeted The Esplanade beachfront search. The listing advertises 305/332 The Esplanade as a rare absolute beachfront corner residence at La Belle Palm Beach, positioned directly on the sand with no obstructions between the residence and the ocean. Direct REA CDN hero extraction was rate-limited during verification, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
+    "image": "https://i2.au.reastatic.net/800x600/fd982e457ccb3e61fe3c004610d1f1c1a4f712e7b42ec56c85af3cba523b81ff/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/fd982e457ccb3e61fe3c004610d1f1c1a4f712e7b42ec56c85af3cba523b81ff/image.jpg"
+    ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151281856",
     "listingCategory": "beachfront"
   },
@@ -84248,6 +84998,64 @@ const sampleProperties = [
       "https://rimh2.domainstatic.com.au/nXySTvBpQhUcMWvNhuY_ysbWj6A%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020712300_1_1_260326_015200-w1200-h801"
     ],
     "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-150658764",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-7d-973-gold-coast",
+    "title": "7D/973 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-07-03",
+    "price": null,
+    "priceLabel": "Expressions of Interest",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Royal Palm beachfront resort",
+      "Absolute oceanfront position",
+      "Uninterrupted ocean views",
+      "Level-seven renovated residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises 7D/973 Gold Coast Highway as a completely reimagined absolute oceanfront residence in Royal Palm Resort, with uninterrupted north-east and east ocean views from the kitchen, living area and both bedrooms, resort facilities and Expressions of Interest pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/894aa0957bad0c53491adf731d9baf664865a1fc01010798fb87504f0de5da25/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/894aa0957bad0c53491adf731d9baf664865a1fc01010798fb87504f0de5da25/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-palm%2Bbeach-151677780",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-3-211-jefferson",
+    "title": "3/211 Jefferson Lane",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-05",
+    "price": 2899000,
+    "priceLabel": "Offers Over $2,899,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront",
+      "Private beach access",
+      "Jefferson Lane boutique building",
+      "Shared beachfront grassed area"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Palm Beach suburb result. The listing advertises 3/211 Jefferson Lane as an absolute beachfront north-east facing penthouse in a boutique building of four residences, with shared beachfront grassed area, direct private beach access and Offers Over $2,899,000 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/524a268444a82e83a581f4b86f4ccdac2885031ddd1d18df5491a2a9f3fdafb4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/524a268444a82e83a581f4b86f4ccdac2885031ddd1d18df5491a2a9f3fdafb4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151415288",
     "listingCategory": "beachfront"
   },
   {
@@ -85031,6 +85839,32 @@ const sampleProperties = [
       "https://rimh2.domainstatic.com.au/FSjET1EF2pt6N9yJ5gsIVhwPx8U%3D/fit-in/1920x1080/filters%3Aformat%28webp%29%3Aquality%2885%29%3Ano_upscale%28%29/2020890461_2_1_260603_071319-w1920-h1280"
     ],
     "listingUrl": "https://www.domain.com.au/5-38-tweed-coast-road-cabarita-beach-nsw-2488-2020890461",
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-bogangar-119-tweed-coast",
+    "title": "119 Tweed Coast Road",
+    "suburb": "Bogangar",
+    "state": "NSW",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 35,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 637,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Cabarita Headland",
+      "Beach Front feature",
+      "Direct beach access across road",
+      "Pool"
+    ],
+    "status": "active",
+    "notes": "Active Cabarita Headland/Bogangar name-variant listing verified 5 Jul 2026 from realestate.com.au and Domain direct pages. REA markets it as CABARITA HEADLAND - NOW SELLING, with direct beach access and Cabarita's coastline directly across the road. Domain shows Beach Front as a feature, contact-agent pricing and 637sqm land. Direct portal image extraction returned 429/403 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-house-nsw-bogangar-149996632",
     "listingCategory": "beachfront"
   },
   {
@@ -86027,6 +86861,35 @@ const sampleProperties = [
     "listingCategory": "beachfront"
   },
   {
+    "id": "nsw-port-macquarie-2-129-pacific-drive",
+    "title": "2/129 Pacific Drive",
+    "suburb": "Port Macquarie",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 250,
+    "daysOnMarket": null,
+    "price": 895000,
+    "priceLabel": "$895,000",
+    "landSize": 190,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite beachfront reserves",
+      "Steps to Shelly Beach",
+      "Oceanfront lifestyle wording",
+      "Boutique surfside townhouse"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Port Macquarie listing verified 5 Jul 2026 from the exact direct listing URL and corroborating Domain sale page, with no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. The listing advertises a 190sqm apartment/townhouse directly opposite beachfront reserves, near access to Shelly Beach, with surf and sand at its doorstep and wording that it is designed to embrace the oceanfront lifestyle.",
+    "image": "https://i2.au.reastatic.net/800x600/a79376306d2e67cd976a5f3b149c27c381d8817e646a034d98794660bb37fc4c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a79376306d2e67cd976a5f3b149c27c381d8817e646a034d98794660bb37fc4c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-port%2Bmacquarie-151000280",
+    "listingCategory": "beachfront"
+  },
+  {
     "id": "nsw-diamond-beach-5-18-whales-parade",
     "title": "5/18 Whales Parade",
     "suburb": "Diamond Beach",
@@ -86522,6 +87385,201 @@ const sampleProperties = [
     ],
     "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-151636968",
     "listingCategory": "beachfront"
+  },
+  {
+    "id": "nsw-ettalong-202-49-esplanade",
+    "title": "202/49 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-17",
+    "daysOnMarket": null,
+    "price": 820000,
+    "priceLabel": "$795,000 - $845,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Atlantis apartment on The Esplanade",
+      "Moments from Ettalong Beach shoreline",
+      "Beachside village and waterfront walks",
+      "Two-bedroom strata apartment with secure parking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The page advertises 202/49 The Esplanade in the Atlantis building as a relaxed coastal apartment just moments from the shores of Ettalong Beach, with beaches, scenic waterfront walks, cafes, restaurants, markets and transport nearby. Price is the midpoint of the advertised $795,000 - $845,000 range. No land or block size is published for the strata unit, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/680c7c28d9c30f7f810f574123ce186aaa3544c01276855941acf82c4ccf5cf7/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/680c7c28d9c30f7f810f574123ce186aaa3544c01276855941acf82c4ccf5cf7/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-ettalong%2Bbeach-151510696",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
+  },
+  {
+    "id": "nsw-ettalong-205-51-54-esplanade",
+    "title": "205/51-54 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-10",
+    "daysOnMarket": null,
+    "price": 500000,
+    "priceLabel": "$485,000 - $515,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mantra Ettalong Beach Esplanade apartment",
+      "Waterfront precinct resort setting",
+      "Walk to beach, cafes, shops and ferry",
+      "Level-two one-bedroom strata apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The page advertises 205/51-54 The Esplanade within Mantra Ettalong Beach, in the waterfront precinct with resort pool and spa facilities, a private balcony, and easy walking access to Ettalong Beach, cafes, shops, restaurants and ferry services. Price is the midpoint of the advertised $485,000 - $515,000 range. No land or block size is published for the strata apartment, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/5d0f0104c1dc42d82d8911912a16fb8fadf97325d493d8d4b6be29533b6dc3f4/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5d0f0104c1dc42d82d8911912a16fb8fadf97325d493d8d4b6be29533b6dc3f4/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-151441224",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
+  },
+  {
+    "id": "nsw-ettalong-411-237-ocean-view",
+    "title": "411/237 Ocean View Road",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "listedDate": "2026-06-26",
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact agent",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Jabiru apartment advertised along Ettalong's beachfront",
+      "Top-floor north-east aspect",
+      "Views toward Blackwall Mountain and Booker Bay",
+      "Resort pool, gym and communal terrace"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL and matched on the Domain exact suburb results after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The page advertises 411/237 Ocean View Road as a top-floor Jabiru apartment along Ettalong's beachfront, with a 157sqm published building size, two secure car spaces and walking distance to shops, restaurants, beachfront parks and public transport. No land or block size is published for the strata unit, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/df6fc8379c9c6ed676f1391302740113c822689df8ff3dc3ed194d0b782645cf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/df6fc8379c9c6ed676f1391302740113c822689df8ff3dc3ed194d0b782645cf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-nsw-ettalong%2Bbeach-151607016",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
+  },
+  {
+    "id": "nsw-ettalong-6-207-ocean-view",
+    "title": "6/207 Ocean View Road",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 990000,
+    "priceLabel": "$990,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Advertised opposite the Ettalong waterfront",
+      "Beach, markets and Palm Beach ferry within walking distance",
+      "Pool complex with lift and secure parking",
+      "Two-bedroom coastal apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The page advertises 6/207 Ocean View Road as positioned opposite the waterfront in Ettalong Beach, with Ettalong Beach, markets, Palm Beach ferry, cafes, restaurants, shops and transport all within walking distance. Price is advertised at $990,000. No land or block size is published for the strata apartment, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e4be22c88f9bcb291cf5562a2bf89c0e27536fe6a3e8c75f3c927b68976c1621/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e4be22c88f9bcb291cf5562a2bf89c0e27536fe6a3e8c75f3c927b68976c1621/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-150101400",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
+  },
+  {
+    "id": "nsw-ettalong-8-207-ocean-view",
+    "title": "8/207 Ocean View Road",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 1060000,
+    "priceLabel": "$1,040,000 - $1,080,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Advertised directly opposite the water",
+      "Uninterrupted coastal views from balconies",
+      "Short stroll to village, markets and ferry",
+      "Two-bedroom waterside apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The page advertises 8/207 Ocean View Road as perfectly positioned directly opposite the water, with uninterrupted coastal views, two balconies, nearby shops, cafes, restaurants, Ettalong Markets, Cinema Complex and Palm Beach Ferry terminal. Price is the midpoint of the advertised $1,040,000 - $1,080,000 range. No land or block size is published for the strata apartment, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/076484e3cae3cd467a5b87dfb74ed61c230e1ecc5f4ec626d39205bf38e61cc9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/076484e3cae3cd467a5b87dfb74ed61c230e1ecc5f4ec626d39205bf38e61cc9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-149621568",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
+  },
+  {
+    "id": "nsw-ettalong-1-2-117-esplanade",
+    "title": "1&2/117 The Esplanade",
+    "suburb": "Ettalong Beach",
+    "state": "NSW",
+    "nearestMajorCity": "Sydney",
+    "majorCityMinutes": 90,
+    "daysOnMarket": null,
+    "price": 4150000,
+    "priceLabel": "Contact Agent - Apt 1 guiding $4.35M, Apt 2 guiding $3.95M",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Prized beachfront Esplanade position",
+      "Effortless access to the sand and village",
+      "Coastal views to Umina Beach and the Pacific Ocean",
+      "Brand-new luxury apartments with courtyards or balconies"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Ettalong Beach listing verified 5 Jul 2026 from the exact direct listing URL and matched to the Homely direct listing after checking realestate.com.au exact suburb page one and page two, Domain suburb sale results, Homely suburb sale results and targeted beachfront, Esplanade, oceanfront and direct beach access searches. The direct page advertises 1&2/117 The Esplanade as brand-new architect-designed luxury residences in a prized beachfront Esplanade position, with effortless sand access, coastal views across Ettalong and Umina Beach to the Pacific Ocean, secure parking and EV charging. Price is the midpoint of the two published apartment guides in the description. No land or block size is published for the strata apartments, so landSize is null. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/8ca485ad2ecefafd2f70bc51883d86d6818c1213b132a0b27bef5451edd0010a/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/8ca485ad2ecefafd2f70bc51883d86d6818c1213b132a0b27bef5451edd0010a/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-nsw-ettalong%2Bbeach-149940764",
+    "investmentStar": true,
+    "investmentAnnualGrowth5Yr": "23.8%",
+    "investmentFiveYearGrowth": "191%",
+    "investmentReason": "Domain News reported on 6 Feb 2025 that Domain House Price Report data showed Ettalong Beach unit median prices rose 191% over five years from $304,000 to $887,500, about 23.8% p.a.; current REA one-year unit growth was lower, so this is treated as historical evidence."
   },
   {
     "id": "nsw-cronulla-14b-2-mcdonald",
@@ -88482,6 +89540,36 @@ const sampleProperties = [
     "listingCategory": "beachfront"
   },
   {
+    "id": "qld-golden-beach-2-13-landsborough",
+    "title": "Unit 2 'Kabi' 13 Landsborough Parade",
+    "suburb": "Golden Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Brisbane",
+    "majorCityMinutes": 70,
+    "listedDate": "2026-06-17",
+    "daysOnMarket": 18,
+    "price": 850000,
+    "priceLabel": "Mid $800,000's",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Right on the water",
+      "Landsborough Parade waterfront strip",
+      "Pumicestone Passage views",
+      "No road between complex and water"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Golden Beach listing verified 5 Jul 2026 from the exact direct listing URL after checking realestate.com.au exact suburb sale pages, page 2, Domain/Homely evidence and targeted Golden Beach waterfront, Esplanade, direct-access and no-road searches. The listing advertises Unit 2 Kabi as right on the water on the sought-after waterfront strip, with Passage views and 114sqm building size. Earlier Domain-market evidence for the same 13 Landsborough Parade waterfront complex states there is no road between the complex and the water. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown on the direct page.",
+    "image": "https://i2.au.reastatic.net/800x600/42becdcf491e6ac3b12514b7be306001556ec70c43fdc71d22e680fb46c55010/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/42becdcf491e6ac3b12514b7be306001556ec70c43fdc71d22e680fb46c55010/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-golden%2Bbeach-151497312",
+    "listingCategory": "beachfront"
+  },
+  {
     "id": "qld-main-beach-2401-3552-main-beach",
     "title": "2401/3552 Main Beach Parade",
     "suburb": "Main Beach",
@@ -88661,10 +89749,32 @@ const sampleProperties = [
       "Patrolled Surfers Paradise Beach directly across the road"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Surfers Paradise listing verified 3 Jul 2026 from the exact direct listing URL and The Esplanade targeted sale result page. The listing advertises 5204/4 The Esplanade in Soul with unobstructed ocean views, 147sqm building size, one-minute walk to patrolled Surfers Paradise Beach, Just Listed pricing and date published 30 Jun 2026. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero image extraction returned 429, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-151628416",
+    "notes": "Active Homely Surfers Paradise listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises 5204/4 The Esplanade in Soul with unobstructed ocean views, 147sqm building size, a one-minute walk to patrolled Surfers Paradise Beach, Just Listed pricing and 5 days on Homely. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct Homely hero and gallery media were loaded from the exact listing page.",
+    "image": "https://www.homely.com.au/img-variant/l-Rex-13288081-1.jpg?version=w_ULuKbZgfltp05dUGIrjsWVYgTrnNEj",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-1.jpg?version=w_ULuKbZgfltp05dUGIrjsWVYgTrnNEj",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-2.jpg?named-transform=webDefaultTransform&version=Zw0sbmpOZ_4uz.LOV2Nw8MaBKWFFSh8J",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-3.jpg?named-transform=webDefaultTransform&version=pIN8.uMG6_0QdOfTCyrNCs8DvIWzZkqn",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-4.jpg?named-transform=webDefaultTransform&version=FBXoZJb44YLFo5IQJzuwSIp80hGujsQ1",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-5.jpg?version=ZVDpbvAZmdF88ivOxUqyPEX5tp6JnTVp",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-6.jpg?version=hOepmdDmlQBm5gZY7HyJopldbXV1fUGJ",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-7.jpg?version=bUGQlHWB5XcaVgrX1bP0y3Ua_Ga.m1.Y",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-8.jpg?version=xSTkFhNkvrfqMLxT9eUUEShfs2pdCfMi",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-9.jpg?version=hOfzL_WnADQsYLy4f6OksTzIQZhnpc9r",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-10.jpg?version=mulguIn72URyJ6h9D5zWEcsUZFHrA4Pw",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-11.jpg?version=1AH9cIdaVI3Bcexfj8bwyIhWtIQPEexE",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-12.jpg?version=_v0f18KLEj_mGhte2KqRaT2G59DNpmgM",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-13.jpg?version=zp5sdIFspTm.PXyWjCiF1NOHhdOf6Wa1",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-14.jpg?version=KmIIqTMnQPPkdDMJTbWy7ONzh2.dmhb8",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-15.jpg?version=_crul9JIxVKaGGjncxJ8HkBDUbj4au7U",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-16.jpg?version=CxER4zxtEW3f4u2Sw2asIKTJZl5Lvsil",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-17.jpg?version=S4HZcpLWptWBjUX8h0TgNaYNxekP4yrk",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-18.jpg?version=yY.4YiUK6OqFBn60So3E.UKrttHadQDi",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-19.jpg?version=9APrXLpJDHeMpTNx3q7b_x4FCI_bNStx",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-20.jpg?version=hiOaMkufVn3HsziTMnce8br4s0qmwXDI",
+      "https://www.homely.com.au/img-variant/l-Rex-13288081-21.jpg?version=EBS_2iZ5xpEBF2n48jOBNzPvygnLqC3A"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/5204-4-the-esplanade-surfers-paradise-qld-421/13288081",
     "listingCategory": "beachfront"
   },
   {
@@ -88779,6 +89889,7 @@ const sampleProperties = [
     "nearestMajorCity": "Gold Coast",
     "majorCityMinutes": 5,
     "listedDate": "2026-06-22",
+    "daysOnMarket": 13,
     "price": null,
     "priceLabel": "Just Listed",
     "landSize": 132,
@@ -88792,10 +89903,31 @@ const sampleProperties = [
       "Patrolled Surfers Paradise Beach directly across the road"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Surfers Paradise listing verified 3 Jul 2026 from the exact direct listing URL and The Esplanade targeted sale result page. The listing advertises 3604/4 The Esplanade in Soul with east-facing uninterrupted ocean views, 132sqm building size, patrolled Surfers Paradise Beach directly across the road, Just Listed pricing and date published 22 Jun 2026. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero image extraction returned 429, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-151550376",
+    "notes": "Active Homely Surfers Paradise listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises 3604/4 The Esplanade in Soul with east-facing uninterrupted ocean views, 132sqm building size, patrolled Surfers Paradise Beach directly across the road, Just Listed pricing and 13 days on Homely. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct Homely hero and gallery media were loaded from the exact listing page.",
+    "image": "https://www.homely.com.au/img-variant/l-Rex-13263220-1.jpg?version=lNesH97.2IaroruJljKEzIvjlrfPtYET",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-1.jpg?version=lNesH97.2IaroruJljKEzIvjlrfPtYET",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-2.jpg?named-transform=webDefaultTransform&version=eB3M4.L0Lo.Yb1R9IxWVX0xdagkiC9zk",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-3.jpg?named-transform=webDefaultTransform&version=_ZieJomodDdphXKKF69h.jGL2Etam7.U",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-4.jpg?named-transform=webDefaultTransform&version=51yCgNYTFZTOrlpRmRcyy3xNVR9U1RNl",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-5.jpg?version=xy6ZZfdN1VO5aeBfKmSaLt61JBOWlN2r",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-6.jpg?version=SOKVLNpdHBoHnnuwBe_1_rQOI488yYFv",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-7.jpg?version=XXsNEXNnLUPQobRVLcVJuOjQ6OyqKW0D",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-8.jpg?version=VN9VidYzSYnGTXqFKR.t3M_VRgQe0jXc",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-9.jpg?version=_RBupUtqZOOw97SvBr3tyAZoPJYcLe14",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-10.jpg?version=7J.qR3s.Ca3G6Dr8ObHVpqTL.YwtEbLK",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-11.jpg?version=z4KJG_wcWUY19Yc3w.Xv.1.30I3Xs9v9",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-12.jpg?version=17OoG0wuNkm4i6rb7EzX7iPVxwSuqImA",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-13.jpg?version=t0blfHyBUEx4R1Kejxjv8rXqwiIBPvgM",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-14.jpg?version=NghvSCNNHvuZnQVWTPmwuz7Mg0WCwi74",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-15.jpg?version=ebbBnwE1B5mpiBnndAbNWwRW1WoBNfEP",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-16.jpg?version=QhhKjnv84bMjn9JLd90kgrMAX4xHoAZW",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-17.jpg?version=UXMb2Og1OkcgNBm1V.JJXkwE23is.PMw",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-18.jpg?version=Vi2bhSUz9xbcJfWDeOxhvnK1cqykVfeT",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-19.jpg?version=WZG4qWSHvxySzn.hdkIbYCLUnQelGjt4",
+      "https://www.homely.com.au/img-variant/l-Rex-13263220-20.jpg?version=EgUZA_y1Xl_KqpafDBujeXZxmFRU0SOl"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/3604-4-the-esplanade-surfers-paradise-qld-421/13263220",
     "listingCategory": "beachfront"
   },
   {
@@ -88897,10 +90029,39 @@ const sampleProperties = [
       "Langham and resident amenity access"
     ],
     "status": "active",
-    "notes": "Active realestate.com.au Surfers Paradise listing verified 3 Jul 2026 from the exact direct listing URL and page two exact suburb results. The listing advertises 13405/36 Old Burleigh Road in Jewel as a high-floor luxury residence with ocean, river, hinterland and city views, 152sqm building size, $1,950,000 pricing and an active inspection time. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero image extraction returned 429, so image fields are left empty rather than attaching unverified media.",
-    "image": "",
-    "images": [],
-    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-149901536",
+    "notes": "Active Homely Surfers Paradise listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises 13405/36 Old Burleigh Road in Jewel as a high-floor luxury residence with ocean, river, hinterland and city views, 152sqm building size and $1,950,000 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct Homely hero and gallery media were loaded from the exact listing page.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-12739924-1.jpg?version=9Ov0mKNbd2t_BjSDuBhwmNEuQ24FYLYD",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-1.jpg?version=9Ov0mKNbd2t_BjSDuBhwmNEuQ24FYLYD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-2.jpg?named-transform=webDefaultTransform&version=Px_M6k_Esd6pPThBf07rFlFCiWXeiidc",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-3.jpg?named-transform=webDefaultTransform&version=dhToKeg7247L_EG2G4LK5LQi_gKyiNid",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-4.jpg?named-transform=webDefaultTransform&version=j7ZjER279fP5jsEOjg3NihUdZoqqfPhh",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-5.jpg?version=3LbtBU4etv22JWGVnFX7eQrsOw.GVHok",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-6.jpg?version=RDsVO5fa7X6hgqd7ZqLzAN9QcaDFMOfN",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-7.jpg?version=lLWx9m4v1lnqAprmTImq_tbqwJBelrPJ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-8.jpg?version=wXJmpGOUty1gJhD76hDh1Qxqtynq1mES",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-9.jpg?version=AV4P9H7ZzdkIle9c0pKmLyBepEb3vh7i",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-10.jpg?version=bdQd8Mcl.g9WhMp1J0URUYs_3pfIO4H5",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-11.jpg?version=Op1RkSFEWMq0YObDymNL5_TqPoRFnfiB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-12.jpg?version=fdysMkKVv5YPj1kRPeZ7haQ1UyCkNb98",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-13.jpg?version=1OcNZ3Q71SobxjA8Bzh3koB0Q5H0W8hb",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-14.jpg?version=iN5G8cO_oFMM7hGo52SEzh_8lCkKX7mf",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-15.jpg?version=iXoZGvsppFT3s.tHV8xySVb9rRnOalhx",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-16.jpg?version=3RFNNK0LvkvfzAdjCMJdShFMp8j5YEkY",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-17.jpg?version=5pd1D7an_aWU176QncooBC7ZS.zjojcx",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-18.jpg?version=N6kN4HH16JA_gb3XUuJffNVj.MMd8KxB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-19.jpg?version=9DF38pj.Zenaw.wzXTouinpsviykq.k6",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-20.jpg?version=WodfZ3Yef9a4W2P2yEPpRnKOcWITorFn",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-21.jpg?version=C.H1E8pOp_pBAcSErmQra.Fyex6grKkb",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-22.jpg?version=HjnpHddyzcJZaYfPoJlWll5EFyXvUlv_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-23.jpg?version=G8GTM8TM0dbAC6KkSuKeNKHmQQFOMOhW",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-24.jpg?version=JGsx1Q8QiKw2dwkhflcUqwhtX0FSZwMA",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-25.jpg?version=2TkehrV2Gmmy.m1FWhetavFCwjJjqoup",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-26.jpg?version=5b9Tneg0YgGohJkKQScA730UOy.SXZtZ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-27.jpg?version=rnhGMxxyCAf80AUha7yfg2.NpWZrd1x8",
+      "https://www.homely.com.au/img-variant/l-AgentBox-12739924-28.jpg?version=H3V2xTXxzWZ_8aWHRMnI_H6DBGBDMYOi"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/13405-36-old-burleigh-road-surfers-paradise-q/12739924",
     "listingCategory": "beachfront"
   },
   {
@@ -89230,6 +90391,955 @@ const sampleProperties = [
     "images": [],
     "listingUrl": "https://www.homely.com.au/homes/270-dutton-way-portland-vic-3305/11443510",
     "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-full-floor-3535-main-beach",
+    "title": "Full Floor/3535 Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "daysOnMarket": 5,
+    "listedDate": "2026-06-30",
+    "price": 10200000,
+    "priceLabel": "From $10,200,000",
+    "landSize": 378,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "AMALI absolute beachfront residence",
+      "Positioned on the sand of Main Beach",
+      "Uninterrupted Pacific Ocean views",
+      "Beachfront infinity-edge pool and wellness precinct"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 5 Jul 2026 from the exact direct listing URL, REA exact-suburb page-one result and AMALI project page. The listing was published 30 Jun 2026 and advertises a 378sqm full-floor residence in AMALI at 3535 Main Beach Parade, positioned on the sand of Main Beach in an absolute beachfront collection, with uninterrupted Pacific Ocean views, beachfront infinity-edge pool and From $10,200,000 pricing. Recorded as no-road/direct-access beachfront because the project page states residents step directly from building to beach. Local REA image extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151637660",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-main-beach-two-storey-penthouse-3535-main-beach",
+    "title": "Two-Storey Penthouse Main Beach Parade",
+    "suburb": "Main Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 10,
+    "daysOnMarket": 4,
+    "listedDate": "2026-07-01",
+    "price": 25000000,
+    "priceLabel": "From $25,000,000",
+    "landSize": 898,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "AMALI absolute beachfront penthouse",
+      "Main Beach Parade beachfront tower",
+      "Uninterrupted Pacific Ocean outlook",
+      "Private rooftop lounge, terrace and pool"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Main Beach listing verified 5 Jul 2026 from the exact direct listing URL, REA exact-suburb page-one result and AMALI project page. The listing was published 1 Jul 2026 and advertises an 898sqm two-storey penthouse in AMALI at 3535 Main Beach Parade, an absolute beachfront development positioned on the sand of Main Beach, with uninterrupted Pacific Ocean views, private rooftop lounge, terrace and pool, plus From $25,000,000 pricing. Recorded as no-road/direct-access beachfront because the project page states residents step directly from building to beach. Local REA image extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-main%2Bbeach-151645148",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-503ab-1483-1489-gold-coast",
+    "title": "503A&B/1483 - 1489 Gold Coast Highway",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 990000,
+    "priceLabel": "Offers Over $990,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Prime beachfront position",
+      "Absolute beachfront balcony",
+      "Direct beach access",
+      "Dual-key apartment package"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Palm Beach portal result. The listing advertises a rare beachfront dual-key apartment in Regency on the Beach, with an absolute beachfront balcony, direct beach access, resort facilities and Offers Over $990,000 pricing. Building area and strata entitlement are not land size, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/7a8246440fcb9ada575cedcceeb4546b1aed53a7c5136c720ff7ae1af80c1d7d/image.png",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/7a8246440fcb9ada575cedcceeb4546b1aed53a7c5136c720ff7ae1af80c1d7d/image.png"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150159724",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-4-2-twenty-second",
+    "title": "4/2 Twenty Second Avenue",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-18",
+    "price": null,
+    "priceLabel": "Auction",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Directly opposite sand and surf",
+      "Prime beachfront position",
+      "Architect-designed 2023 build",
+      "Beach-facing townhouse stock"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and suburb result page. The listing advertises the townhouse as completed in 2023, positioned directly opposite the beach and in a prime beachfront position, with auction pricing and no published land size distinct from building area.",
+    "image": "https://i2.au.reastatic.net/800x600/a61ecfaf0c4840feed2f7f07cfd74ccf9b820c1c7022dae8ef7b52636f33ae66/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/a61ecfaf0c4840feed2f7f07cfd74ccf9b820c1c7022dae8ef7b52636f33ae66/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-townhouse-qld-palm%2Bbeach-151523176",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-602-4-twenty-first",
+    "title": "602/4 Twenty First Avenue",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 2750000,
+    "priceLabel": "Offers Over $2,750,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Seaclusion beachfront building",
+      "Beach access directly across road",
+      "Elevated ocean outlook",
+      "South-east corner apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Palm Beach portal result. The listing advertises Residence 602 in the Seaclusion beachfront building, with sand footsteps from the front door, beach access directly across the road and Offers Over $2,750,000 pricing. Building size is published but land size is not, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/00d8bc0fb415da1cb8dd204b791f2f09233a266a17ff24f6bc8a7a2c9a150ae9/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/00d8bc0fb415da1cb8dd204b791f2f09233a266a17ff24f6bc8a7a2c9a150ae9/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150488968",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-7-450-esplanade",
+    "title": "7/450 The Esplanade",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1595000,
+    "priceLabel": "Offers Over $1,595,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "The Esplanade front-row address",
+      "Steps from sand and surf",
+      "Ocean-view dual-level apartment",
+      "Casablanca Palms complex"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Palm Beach portal result. The listing advertises a dual-level Casablanca Palms apartment at 7/450 The Esplanade, positioned only steps from the sand and surf with upper-level ocean outlook and Offers Over $1,595,000 pricing. Building size is published but no land size is published, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/e788d99e31e24ec3ecf3b4a54d3bd0cf6c36dd14e2be8cd323f07d660c49f189/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e788d99e31e24ec3ecf3b4a54d3bd0cf6c36dd14e2be8cd323f07d660c49f189/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150815092",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-palm-beach-002-332-esplanade",
+    "title": "002/332 The Esplanade",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 6500000,
+    "priceLabel": "From $6.5M",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront La Belle residence",
+      "Direct sand access",
+      "No roads or paths in front",
+      "The Esplanade address"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and targeted beachfront search. The listing advertises Residence 002 at La Belle as absolute beachfront, with direct beach access straight onto patrolled sand and no roads or paths in front. Price is advertised from $6.5M and landSize is TBA because only apartment/building area is published.",
+    "image": "https://i2.au.reastatic.net/800x600/b7eacd4085820cbf9922f71b1a4e94bc668700d9303826ef847018d544d2530f/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b7eacd4085820cbf9922f71b1a4e94bc668700d9303826ef847018d544d2530f/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-149648188",
+    "investmentStar": false,
+    "listingCategory": "absolute_beachfront"
+  },
+  {
+    "id": "qld-palm-beach-505-10-third",
+    "title": "505/10 Third Avenue",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "SELERS COMMITTED ELSEWHERE! MUST BE SOLD!",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beach access 70m away",
+      "Acqua beachside residence",
+      "180-degree ocean views",
+      "Rooftop resident amenity"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and targeted direct-beach-access search. The listing advertises Acqua Residence 505 with direct beach access 70m away, uninterrupted ocean views and must-sell pricing language rather than a numeric asking price. Building size is published but no land size is published, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/5533149f5656e4383e9dc5b601a0eeb2c5112a2b07fbcd730c54506701fb06fc/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/5533149f5656e4383e9dc5b601a0eeb2c5112a2b07fbcd730c54506701fb06fc/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150711912",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-palm-beach-202-3-twenty-fifth",
+    "title": "202/3 Twenty Fifth Avenue",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1700000,
+    "priceLabel": "$1,700,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "40m to Palm Beach sand",
+      "Direct beach access",
+      "ELISE Palm Beach residence",
+      "Coastal outlook toward Currumbin"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and targeted direct-beach-access search. The listing advertises Residence 202 at ELISE Palm Beach as 40m from the sand with direct beach access and $1,700,000 pricing. Building size is published but no land size is published, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/cfc2618995a0a9894c0be2f2d9809297281eae13221abca9ce7926306f474951/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/cfc2618995a0a9894c0be2f2d9809297281eae13221abca9ce7926306f474951/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-150927092",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-palm-beach-302-10-third",
+    "title": "302/10 Third Avenue",
+    "suburb": "Palm Beach",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "daysOnMarket": null,
+    "price": 1775000,
+    "priceLabel": "Offers Over $1,775,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Direct beach access 100m away",
+      "Acqua beachside residence",
+      "Ocean and hinterland views",
+      "Level-three apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Palm Beach listing verified 5 Jul 2026 from the exact direct listing URL and Homely/Domain suburb result evidence. The listing advertises Acqua Residence 302 as 100m from direct beach access, with ocean and hinterland views and Offers Over $1,775,000 pricing. Building size is published but no land size is published, so landSize is TBA.",
+    "image": "https://i2.au.reastatic.net/800x600/aa71b37050a8349e8be6402eddf3ca0144af78f9cf8db8ef426bd131dd190268/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/aa71b37050a8349e8be6402eddf3ca0144af78f9cf8db8ef426bd131dd190268/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-palm%2Bbeach-151557904",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-45k-5-clifford",
+    "title": "45K/5 Clifford Street",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Absolute Beachfront Trophy Penthouse - 621sqm",
+    "landSize": 621,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront Peninsula penthouse",
+      "Front-row position",
+      "Uninterrupted ocean and coastline views",
+      "621sqm triple-level residence"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL and exact suburb result evidence. The listing advertises Peninsula Penthouse in an irreplaceable front-row position atop a tightly held absolute beachfront building, with 621sqm of internal/external living, uninterrupted views from Rainbow Bay to Stradbroke Island and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown. Price is a descriptor rather than a numeric guide, so price is null.",
+    "image": "https://i2.au.reastatic.net/800x600/61578c51005d22363e68a49363d76b83e0086afddcd761b81ef9f7b8f07fe76e/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/61578c51005d22363e68a49363d76b83e0086afddcd761b81ef9f7b8f07fe76e/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-151179364",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-11205-36-old-burleigh",
+    "title": "11205/36 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 6,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Exclusive Agents",
+    "landSize": 86,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront Jewel residence",
+      "Oceanfront apartment",
+      "Uninterrupted beach and ocean views",
+      "86sqm one-bedroom apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL, Domain property-profile sale evidence and page-two suburb evidence. The listing advertises a 12th-floor east-facing oceanfront apartment in Jewel Private Residences with uninterrupted views across Surfers Paradise beach and the Pacific Ocean, and describes it as an absolute beachfront offering in an oceanfront address. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/579b46e547b48b16f91b4d6109b9a53c16687d780084083de58c3beaf92b9e4d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/579b46e547b48b16f91b4d6109b9a53c16687d780084083de58c3beaf92b9e4d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-150374696",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-1203-4-esplanade",
+    "title": "1203/4 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 4,
+    "daysOnMarket": null,
+    "price": 1500000,
+    "priceLabel": "$1,500,000+",
+    "landSize": 133,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "The Esplanade beachfront tower",
+      "Direct beach access precinct",
+      "Panoramic Pacific Ocean views",
+      "133sqm Soul apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL, Domain evidence and exact suburb result page. The listing advertises a level-12 Peppers Soul apartment on The Esplanade, rising above the golden sands of Surfers Paradise with panoramic Pacific Ocean views and world-class resort facilities including direct beach access and on-site dining. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/e2159065fe39b42aeecb10217d26308b77b723831848f3aeb28743e65b399c1d/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/e2159065fe39b42aeecb10217d26308b77b723831848f3aeb28743e65b399c1d/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-surfers%2Bparadise-151130800",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-74-86-old-burleigh",
+    "title": "74-86 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 6,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Auction Thu 16 Jul at 2:00 pm",
+    "landSize": 357,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "La Sabbia beachfront building",
+      "Direct beach access",
+      "Whole-floor sub-penthouse",
+      "357sqm floorplan"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL and Realtor/REA mirror evidence. The listing advertises a whole-floor La Sabbia sub-penthouse with sweeping Pacific Ocean views and building facilities plus direct beach access. The direct page showed an upcoming auction and no sold, under-offer, under-contract, leased, withdrawn or off-market marker.",
+    "image": "https://i2.au.reastatic.net/800x600/ddc5cc7bef89f6b295c75ca69749a7ae91d70a43714e4272bbc85d817f7871a8/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ddc5cc7bef89f6b295c75ca69749a7ae91d70a43714e4272bbc85d817f7871a8/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-149930752",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-2405-4-esplanade",
+    "title": "2405/4 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 4,
+    "daysOnMarket": null,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 160,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Soul beachfront apartment",
+      "Patrolled beach directly across the road",
+      "Outdoor infinity pool overlooking beach",
+      "160sqm north-facing apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises a north-facing apartment in Soul on The Esplanade with panoramic ocean views, outdoor infinity pool overlooking Surfers Paradise Beach and patrolled beach directly across the road. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown.",
+    "image": "https://i2.au.reastatic.net/800x600/74eb6f549ac9e40c3411ff8af4fb3c33dbec71168a744e7fa3cd3949835a0c71/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/74eb6f549ac9e40c3411ff8af4fb3c33dbec71168a744e7fa3cd3949835a0c71/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-145100676",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-10805-36-old-burleigh",
+    "title": "10805/36 Old Burleigh Road",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 6,
+    "daysOnMarket": null,
+    "price": 1188888,
+    "priceLabel": "Offers Above $1,188,888",
+    "landSize": 87,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront Jewel address",
+      "Direct access to Gold Coast sands",
+      "East-facing ocean and coastline views",
+      "87sqm Sapphire Collection apartment"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au Surfers Paradise listing verified 5 Jul 2026 from the exact direct listing URL and page-two exact suburb result page. The listing advertises a beachfront apartment in Jewel Private Residences, an absolute beachfront location between Broadbeach and Surfers Paradise, with direct access to the sands of the Gold Coast coastline and no sold, under-offer, under-contract, leased, withdrawn or off-market marker shown.",
+    "image": "https://i2.au.reastatic.net/800x600/f9259d7fc4ca1b3fbef5df0019560a6d5f236aa81c8aec3fd98acdf044ec8f72/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f9259d7fc4ca1b3fbef5df0019560a6d5f236aa81c8aec3fd98acdf044ec8f72/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-surfers%2Bparadise-151390928",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-1701-58-esplanade",
+    "title": "1701/58 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-07-03",
+    "price": null,
+    "priceLabel": "Expressions Of Interest by C.O.B 17th August",
+    "landSize": 288,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Mondrian beachfront skyhome",
+      "Uninterrupted north-east ocean outlook",
+      "Level-17 288sqm residence",
+      "Five-star hotel amenity"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burleigh Heads suburb result page and direct sale page. The page advertises a 288sqm Mondrian skyhome at 58 The Esplanade with uninterrupted north-east ocean views from Burleigh Headland to South Stradbroke Island, beachfront positioning, three bedrooms, four bathrooms, two car spaces and expressions-of-interest pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market sale marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-unit-qld-burleigh%2Bheads-151607256",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-1504-264-268-esplanade",
+    "title": "1504/264-268 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-23",
+    "price": 2509904,
+    "priceLabel": "$2,509,904",
+    "landSize": 116,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Burly at Burleigh beachfront project",
+      "Level-15 ocean-front residence",
+      "116sqm two-bedroom apartment",
+      "North Burleigh Beach setting"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burly at Burleigh project page and direct sale page. The page advertises a level-15 beachfront residence at 264-268 The Esplanade with sweeping North Burleigh Beach views, 116sqm building size, two bedrooms, two bathrooms, one car space and $2,509,904 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151563356",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-2202-264-268-esplanade",
+    "title": "2202/264-268 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-23",
+    "price": 7896737,
+    "priceLabel": "$7,896,737",
+    "landSize": 281,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Absolute beachfront Burly residence",
+      "Level-22 ocean-front apartment",
+      "281sqm skyhome-style layout",
+      "North Burleigh Esplanade address"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burly at Burleigh project page and direct sale page. The page advertises a level-22 absolute beachfront residence at 264-268 The Esplanade with uninterrupted coastal views, 281sqm building size, three bedrooms, three bathrooms, two car spaces and $7,896,737 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151563732",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-1605-264-268-esplanade",
+    "title": "1605/264-268 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-23",
+    "price": 5278000,
+    "priceLabel": "$5,278,000",
+    "landSize": 203,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Burly at Burleigh beachfront project",
+      "North-facing level-16 residence",
+      "203sqm three-bedroom apartment",
+      "Burleigh Beach and headland views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burly at Burleigh project page and direct sale page. The page advertises a prized northern-corner level-16 residence at 264-268 The Esplanade with uninterrupted Burleigh Beach views, 203sqm building size, three bedrooms, two bathrooms, two car spaces and $5,278,000 pricing. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151563536",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-1301-264-268-esplanade",
+    "title": "1301/264-268 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-23",
+    "price": 10141174,
+    "priceLabel": "$10,141,174",
+    "landSize": 379,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Burly beachfront sanctuary",
+      "North Burleigh Esplanade address",
+      "379sqm three-bedroom residence",
+      "Beachfront resort amenities"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burly at Burleigh project page and direct sale page. The page advertises a beachfront three-bedroom sanctuary at 264-268 The Esplanade with 379sqm building size, three bedrooms, three bathrooms, two car spaces and $10,141,174 pricing. The project page describes Burly as a prime North Burleigh esplanade beachfront position with ocean-front residences. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151563676",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-burleigh-heads-1901-264-268-esplanade",
+    "title": "1901/264-268 The Esplanade",
+    "suburb": "Burleigh Heads",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 15,
+    "listedDate": "2026-06-23",
+    "price": 7632200,
+    "priceLabel": "$7,632,200",
+    "landSize": 286,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": true,
+    "factors": [
+      "Premium Burly beachfront residence",
+      "The Esplanade ocean-front project",
+      "286sqm three-bedroom apartment",
+      "Sweeping beach views"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact Burly at Burleigh project page and direct sale page. The page advertises a premium 286sqm three-bedroom beachfront residence at 264-268 The Esplanade with sweeping beach views, three bathrooms, two car spaces and $7,632,200 pricing. The project page describes Burly as a prime North Burleigh esplanade beachfront position with ocean-front residences. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Direct REA CDN hero extraction returned 429 during verification, so image fields are left empty rather than attaching unverified media.",
+    "image": "",
+    "images": [],
+    "listingUrl": "https://www.realestate.com.au/property-apartment-qld-burleigh%2Bheads-151563260",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-901-13-25-garfield",
+    "title": "901/13-25 Garfield Terrace",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 5,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 152,
+    "beachfront": true,
+    "noRoadFrontage": true,
+    "directBeachAccess": true,
+    "factors": [
+      "Beaches absolute beachfront building",
+      "Entire half-floor residence",
+      "Never-to-be-built-out northeast ocean views",
+      "Infinity-edge beachfront pool and resort facilities"
+    ],
+    "status": "active",
+    "notes": "Active Homely listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises Residence 901 in Beaches as a rare entire half-floor absolute beachfront apartment on a prime corner beachfront site, with approx. 152sqm living, northeast ocean and city views, beachfront pool, spa, gym, steam room and 5 days on Homely. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Surfers Paradise unit growth evidence checked; public sources showed unit annual compound growth around 7.9%, below the above-15% investment-star threshold.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13291926-1.jpg?version=CzZv3iECwLQd_vhWgyagEkwIicgvLSsk",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-1.jpg?version=CzZv3iECwLQd_vhWgyagEkwIicgvLSsk",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-2.jpg?named-transform=webDefaultTransform&version=ZbU6cdDmWxcrxrh1ZNI72R0M5mDppvwG",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-3.jpg?named-transform=webDefaultTransform&version=pcZCqLzjDNRi577AcfpIqeoSL5PAvhLn",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-4.jpg?named-transform=webDefaultTransform&version=KgtujiZTHYTYxjGEDymWo8TDcWruiKxM",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-5.jpg?version=n1wpmC2sDYeic9JOkAiQQUfKoVF5ZrdU",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-6.jpg?version=Zb07H06yAfixtBxo6j.rdc03TIY2uXOW",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-7.jpg?version=t9cQqsbr1Kdj_G3n_wrhSZl817oh_4dK",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-8.jpg?version=z2vNgt95idi.73cC6y90wakCeaVt2zKy",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-9.jpg?version=l04hvWvKxXRjD_5fcAHLwBFYsKVNNq_4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-10.jpg?version=yo6a_KxkwkhmMssLvbiLWXOfiRRa4AhC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-11.jpg?version=Ee8HUAvK0KecH961jQP7rsnb85SXJw6t",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-12.jpg?version=gF2M3s57Mr4_mEac4kh2G_6zVMW7Pcbg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-13.jpg?version=X317DNKSPwu4fSWCCT066FWKKEy188vw",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-14.jpg?version=keum3yJcq57okV5Bm4e6aOSUfSDn3rIf",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-15.jpg?version=S.0oWU8e_UOkXoGJ55NSv7HiHdObcjr_",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-16.jpg?version=sZ9_f09SGpp9PValsRgh3eo3xigGag_F",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-17.jpg?version=krBGWrztdWAGbdTFIN9ewOVnp.7UGPON",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-18.jpg?version=K5oxRpEJgOFSykOELgGAkWSzcsD.gHSe",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-19.jpg?version=wvnQ1hPabrfjIEKGZQJ.omtpEawjTZAD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-20.jpg?version=Gl4z8YkMe98T_Fe3CE5AqwIAanwQNsXR",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-21.jpg?version=KnpRCz0YzwQpbbvE0u902YFnAM9SueCD",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-22.jpg?version=VvRdk_4rsKPXXg5NjBaq77RiI_gABZZC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-23.jpg?version=SFPz38B17daErzc078L9bGYUc0x6rIZ9",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-24.jpg?version=NKwdwCVkEXFGrUr4ZCLVZcFgUlhTVRr7",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-25.jpg?version=GNBsosfdE29KlANZ_fMT.OQ.ccKLb.Lr",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-26.jpg?version=aLFrqYO90Mp87SJruegleNeg1DQGBATt",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-27.jpg?version=bzoSur.V_kY6OWyKYSvGGpAjHjUDUdQT",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-28.jpg?version=qXbzzs8lO7cqvdtHX_VXD57vc2jIwf8u",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-29.jpg?version=.ISKkxtBVG96RW1ZyQjS0mwbPyrnTNdt",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-30.jpg?version=dHfKAm1BSzhHrODW9g8_Xm2b9YMSCw09",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13291926-31.jpg?version=6rXTPM2Mg9lqUz5NJycLitbA.l9MUd3l"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/901-13-25-garfield-terrace-surfers-paradise-q/13291926",
+    "investmentStar": false,
+    "listingCategory": "direct_beach_access"
+  },
+  {
+    "id": "qld-surfers-paradise-4202-88-esplanade",
+    "title": "4202/88 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 59,
+    "price": 749000,
+    "priceLabel": "OFFERS ABOVE $749,000",
+    "landSize": 65,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "The Esplanade front-row address",
+      "Uninterrupted ocean and skyline views",
+      "Ocean beachfront tower facilities",
+      "Level 42 one-bedroom apartment"
+    ],
+    "status": "active",
+    "notes": "Active Homely listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises Apartment 4202 at 88 The Esplanade as absolute beachfront living with uninterrupted ocean views, direct Esplanade positioning, resort facilities, 65sqm building area and 59 days on Homely. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. Surfers Paradise unit growth evidence checked; public sources showed unit annual compound growth around 7.9%, below the above-15% investment-star threshold.",
+    "image": "https://www.homely.com.au/img-variant/l-VaultRE-12805600-1.jpg?version=iFwwkwWNJIj9nKxyeSLENtUpkRJMPxan",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-1.jpg?version=iFwwkwWNJIj9nKxyeSLENtUpkRJMPxan",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-2.jpg?named-transform=webDefaultTransform&version=klxC0hcUzaPivW8DwYyw4gLuz4u2aqDX",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-3.jpg?named-transform=webDefaultTransform&version=x92glxZaKYUCH1TFUfIkXy9J7z0Qx5eR",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-4.jpg?named-transform=webDefaultTransform&version=bRPdxgDkC6tDnZbtTbURIoMH.HZxR.0u",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-5.jpg?version=LW2BUYMlBe39D7KttdVLaAGGH6bbbBrw",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-6.jpg?version=QaZ7Ty9XZnfHzWb.lq0kP68MPViSRwn7",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-7.jpg?version=S.3anpzRXCRuMh04W6I2TbNxx.nE2nOV",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-8.jpg?version=UjOddcGuH4WHAK89O94GIvxbILNE9.RF",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-9.jpg?version=z0ktthAzyk8PXPtKtDohApCEOKP1w4ys",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-10.jpg?version=TbMLHSNwmQI6d1a45e5O9LtQnAvnpQvM",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-11.jpg?version=KDrr1jJ8.aM11dSykEPrXcj2UvZVFfB1",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-12.jpg?version=ZuTOCS.gveUyTCG4fHfInl3eY_yM.8hk",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-13.jpg?version=asdxNMcb.9i_amsM3JKP5PylKJb.O3r8",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-14.jpg?version=JVA1.j1sQ2Yk3Bl1X3d4kaOrY6.crqXv",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-15.jpg?version=v2PE0ffFKZ3LM3GJwJYIBp2FnzKE9vEP",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-16.jpg?version=MrI5fdHEZs9Nt7jKpXEJZy8gZH0PJIbV",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-17.jpg?version=RVDDAzP8brrda6HD6FSgbLSW.tfIs7om",
+      "https://www.homely.com.au/img-variant/l-VaultRE-12805600-18.jpg?version=qxA7Rz2Vdr_YTXUz.JVIkSEeYxGt_5W4"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/4202-88-the-esplanade-surfers-paradise-qld-42/12805600",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-surfers-paradise-207-208-44-52-esplanade",
+    "title": "207 & 208/44-52 The Esplanade",
+    "suburb": "Surfers Paradise",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 5,
+    "daysOnMarket": 13,
+    "price": 785000,
+    "priceLabel": "$785,000",
+    "landSize": null,
+    "beachfront": true,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "Chateau Esplanade front building",
+      "Beach, ocean and city views",
+      "Dual-let apartment on one title",
+      "Resort-style beachfront amenities"
+    ],
+    "status": "active",
+    "notes": "Active Homely listing reverified 5 Jul 2026 from the exact direct listing URL. The listing advertises a dual-let apartment at Chateau, an Esplanade-front building on the corner of Elkhorn Avenue and The Esplanade, with ocean, beach and city views, resort facilities and 13 days on Homely. No sold, under-offer, under-contract, leased, withdrawn or off-market marker was shown. No individual land or floor area was published, so landSize is null. Surfers Paradise unit growth evidence checked; public sources showed unit annual compound growth around 7.9%, below the above-15% investment-star threshold.",
+    "image": "https://www.homely.com.au/img-variant/l-AgentBox-13265599-1.jpg?version=jkOD7JQ6mkuQS45r4uPWIZojFdB.jC1O",
+    "images": [
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-1.jpg?version=jkOD7JQ6mkuQS45r4uPWIZojFdB.jC1O",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-2.jpg?named-transform=webDefaultTransform&version=TdEsGSXHPB3i7tcrdzuEJfxrc5gG7XzJ",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-3.jpg?named-transform=webDefaultTransform&version=t2F3COGyZtDaiVagc7Mx08AtxumeB_8S",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-4.jpg?named-transform=webDefaultTransform&version=JUdr8wS2jnGT2WqjQw9RSfKH01STi4jC",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-5.jpg?version=e3.AO7Ui_QIHowRFliS452GDclKl8OdH",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-6.jpg?version=F91_LcwYwwCn7oeBjzUSEn8ulh02oiS4",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-7.jpg?version=WY5KKTfCpwhkyYQMWy1zV3YvLj4kaxED",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-8.jpg?version=akh3twDmSvIoxbyWP6xccgirSmSK4sit",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-9.jpg?version=bEICvbW.bxBvF.aOh1S7ar9wOxnkiUcp",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-10.jpg?version=VyRBGciMM8ItrKxVzTvB_YeTwKP14zYg",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-11.jpg?version=SWWZn6pGsGVGKsnVWx_L9joxOMGdS8.2",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-12.jpg?version=6PAqOTTOsZ2djR.FxyXeYmkm9R07B2fV",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-13.jpg?version=S8hs_TBnKiMNq4AQ2cnQcIh6ViTkP60W",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-14.jpg?version=dYRSALKESKozjRkjtFU6ZuuSnQqEOQ67",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-15.jpg?version=Tj0iNHcift6L6Oyc361DYBlh765ZKO6u",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-16.jpg?version=eTs4zGTA5OPtLK2_kUznISOtT992BtBT",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-17.jpg?version=VBkNpxoltPPoWkRLizn_7jQH.UvWxVO3",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-18.jpg?version=ybP7Nb0oUB72QAx3aEb628ZVH0zZXojB",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-19.jpg?version=GrLDVJ8KxM5HeJKoTOWSXM_6H_9NoOcH",
+      "https://www.homely.com.au/img-variant/l-AgentBox-13265599-20.jpg?version=GG5h78bbgmui..mfud2blTWkNTG6z3XO"
+    ],
+    "listingUrl": "https://www.homely.com.au/homes/207-208-44-52-the-esplanade-surfers-paradise/13265599",
+    "investmentStar": false,
+    "listingCategory": "beachfront"
+  },
+  {
+    "id": "qld-currumbin-valley-1039-currumbin-creek",
+    "title": "1039 Currumbin Creek Road",
+    "suburb": "Currumbin Valley",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 25,
+    "price": 12000000,
+    "priceLabel": "Offers Over $12,000,000",
+    "landSize": 632200,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "63.22ha / 156-acre southern Gold Coast hinterland estate",
+      "Advertised as one of the largest private landholdings near the southern Gold Coast",
+      "More than 1km of creek frontage, pumping licence, dual access and grazing infrastructure",
+      "Potential rural living, agriculture, retreat, resort, wellness or events uses, subject to approvals"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au and Domain listing verified 5 Jul 2026 from the exact direct listing URLs. The listing advertises Offers Over $12,000,000, 63.22ha / 156 acres, one of the largest private landholdings on the southern Gold Coast, more than 1km creek frontage, dual access, cattle yards, large water tank capacity, a pumping licence and potential for retreat, resort, wellness or events use subject to approvals. Location copy states about 20 minutes to Currumbin surf beaches, 22 minutes to Gold Coast Airport and 15 minutes to the M1. Available Currumbin Valley five-year and comparable growth evidence checked; public data did not support an above-15% annual five-year growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/b56dc87a1ca0fca28a51fcf776ae19f79e8fec053c551f1b64f39775d509c44c/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/b56dc87a1ca0fca28a51fcf776ae19f79e8fec053c551f1b64f39775d509c44c/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-acreage%2Bsemi-rural-qld-currumbin%2Bvalley-149748968",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-wonglepong-1-3043-beaudesert-nerang",
+    "title": "1, 3043 Beaudesert Nerang Road",
+    "suburb": "Wonglepong",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-06-04",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 400700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "40.07ha contiguous Scenic Rim / Gold Coast hinterland corridor landholding",
+      "Multiple house sites and development potential, subject to approvals",
+      "Minutes to Canungra with advertised 30-minute Gold Coast access",
+      "Land banking, rural estate, eco-tourism and future development optionality"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises Contact Agent, 40.07ha, multiple house sites, Scenic Rim / Gold Coast hinterland corridor positioning, minutes to Canungra, about 30 minutes to the Gold Coast and about 60 minutes to Brisbane. It highlights land banking, rural estate creation, eco-tourism and future development potential, subject to approvals. Available Wonglepong/Canungra five-year and comparable growth evidence checked; public data was mixed and did not support a reliable above-15% annual five-year growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/1e11a987cc6d76e71c3828c2197060734e98535c9af7bc7fa4a27b33d485eba6/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/1e11a987cc6d76e71c3828c2197060734e98535c9af7bc7fa4a27b33d485eba6/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-qld-wonglepong-700406824",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-wonglepong-6-3042-beaudesert-nerang",
+    "title": "6, 3042 Beaudesert Nerang Road",
+    "suburb": "Wonglepong",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "listedDate": "2026-06-04",
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 706800,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "70.68ha Elysian Fields rural estate in the Canungra equine and lifestyle corridor",
+      "International-standard polo fields, stables, paddocks, commercial clubhouse and accommodation",
+      "Creek access, dam systems and water licence supporting equine and agricultural use",
+      "Income potential from equestrian operations, events, hospitality, tourism, agistment and land banking"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises Contact Agent, 70.68ha, Elysian Fields, international-standard polo and equestrian facilities, commercial-grade clubhouse, accommodation, stables, machinery shedding, creek access, dam systems, water licence entitlements and direct Beaudesert-Nerang Road frontage. Location copy states about 4km to Canungra, 30 minutes to the Gold Coast and 60 minutes to Brisbane. Available Wonglepong/Canungra five-year and comparable growth evidence checked; public data was mixed and did not support a reliable above-15% annual five-year growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/ffefa129b99ec79ba1ac38dd6d05552351e68111182fd5d1b622f1357173bd7b/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/ffefa129b99ec79ba1ac38dd6d05552351e68111182fd5d1b622f1357173bd7b/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-qld-wonglepong-700406876",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-wonglepong-2895-beaudesert-nerang",
+    "title": "2895 Beaudesert Nerang Road",
+    "suburb": "Wonglepong",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 1140000,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "114ha landholding across three titles in the Scenic Rim hinterland",
+      "Beaudesert-Nerang Road frontage with advertised Canungra Creek frontage",
+      "Multiple house sites, existing dwelling and rural improvements",
+      "Land banking, equine, agricultural and rural estate optionality in the Gold Coast hinterland corridor"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises Contact Agent, 114ha across three titles, Beaudesert-Nerang Road frontage, Canungra Creek frontage, multiple house sites, an existing two-bedroom dwelling, water tanks, septic, rural access infrastructure and land banking or rural lifestyle/equine/agricultural use. Location copy states about 10 minutes / 4km to Canungra, 30 minutes to the Gold Coast and 60 minutes to Brisbane. Available Wonglepong/Canungra five-year and comparable growth evidence checked; public data was mixed and did not support a reliable above-15% annual five-year growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/d6bd64ee8445882237f94325f5b66cac0c211ac547ba8ed6d6133717c7c328f0/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/d6bd64ee8445882237f94325f5b66cac0c211ac547ba8ed6d6133717c7c328f0/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-lifestyle-qld-wonglepong-700406828",
+    "investmentStar": false,
+    "listingCategory": "large"
+  },
+  {
+    "id": "qld-wonglepong-115-mundoolun-connection",
+    "title": "115 Mundoolun Connection Road",
+    "suburb": "Wonglepong",
+    "state": "QLD",
+    "nearestMajorCity": "Gold Coast",
+    "majorCityMinutes": 30,
+    "price": null,
+    "priceLabel": "Contact Agent",
+    "landSize": 336700,
+    "beachfront": false,
+    "noRoadFrontage": false,
+    "directBeachAccess": false,
+    "factors": [
+      "33.67ha turnkey equine training and livestock property",
+      "Professional training tracks, stables, horse walkers, lap pool and operational buildings",
+      "Multiple residences, cottages and staff accommodation supporting business income",
+      "Creek access, irrigation licence and long-term strategic landholding value in the Gold Coast hinterland corridor"
+    ],
+    "status": "active",
+    "notes": "Active realestate.com.au listing verified 5 Jul 2026 from the exact direct listing URL. The listing advertises Contact Agent, 33.67ha, a premier equine training property, 32ha irrigation licence, grass and sand tracks, extensive stables, walkers, pools, offices, machinery sheds, multiple residences and staff accommodation. Location copy states about 30 minutes to the Gold Coast and 60 minutes to Brisbane, with income pathways from training, agistment, spelling, pre-training, equine services and accommodation. Available Wonglepong/Canungra five-year and comparable growth evidence checked; public data was mixed and did not support a reliable above-15% annual five-year growth flag.",
+    "image": "https://i2.au.reastatic.net/800x600/f0663da9af4a15a2b69525cbb7ad6f3e01a583bc19dc48df55c1ffcda51d10bf/image.jpg",
+    "images": [
+      "https://i2.au.reastatic.net/800x600/f0663da9af4a15a2b69525cbb7ad6f3e01a583bc19dc48df55c1ffcda51d10bf/image.jpg"
+    ],
+    "listingUrl": "https://www.realestate.com.au/property-livestock-qld-wonglepong-700406836",
+    "investmentStar": false,
+    "listingCategory": "large"
   }
 ];
 
